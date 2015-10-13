@@ -1,0 +1,11 @@
+ID: B0036FFH4A-R3F3LXZZ8GBVOB-A3HG8W4STNKZBS
+Category: Laptops
+Product: Gateway-NV5929u-mislabeled-NV5927u-computer
+ReviewerID: A3HG8W4STNKZBS
+ReviewerName: Joshua Adee
+Date: April 13, 2010
+Helpful: 
+Rating: 5.0
+Title: Awesome Laptop GREAT DEAL
+Content:
+This laptop is completely awesome. Basically, whoever assembled these at Gateway messed up and put a Core i5 430M in the machine instead of the Core i3 330M that it was supposed to have. This laptop is very fast and capable and it will be very hard to find a laptop with an i5 CPU and a Blu-Ray drive for this price. Windows 7 is such a great OS compared to Vista. It's hard for me to say this, but I actually switched from a Macbook to get this laptop. With this hardware and Windows 7 you'll be hard pressed to find a better laptop. Just about the only thing I've found that this machine can't do is play the most demanding games. The Intel HD GPU comes with only 128 MB of VRAM (I think it can share some of the system memory too). You can play some games with it, but just make you sure you read the system requirements before you buy. I have played Civilization IV so far without any problems. Basically, unless you're a hardcore gamer, I highly recommend this laptop for the price.

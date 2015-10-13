@@ -1,0 +1,11 @@
+ID: B000HZ9CCA-R2FGRHO3GLENZF-A87M79BVCV3EG
+Category: MP3Players
+Product: SanDisk-Sansa-e280-Player-Black
+ReviewerID: A87M79BVCV3EG
+ReviewerName: Eeck the cat "Bob"
+Date: August 9, 2008
+Helpful: 0 of 4
+Rating: 1.0
+Title: THE WORST PRODUCT I HAVE EVER USED!!
+Content:
+This product does not work with Windows XP. It crashes all of the media plans (Windows Media Player, WINAMP,...).  So there is no way to synchronize your play lists.  There are a lot of complaints on the Sansa forums about this, but Sansa support ignores customers.  I am repeating this review for the same players with different memory sizes, hopefully to help some poor person that buys this thing.

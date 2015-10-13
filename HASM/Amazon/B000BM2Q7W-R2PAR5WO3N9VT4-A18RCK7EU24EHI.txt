@@ -1,0 +1,31 @@
+ID: B000BM2Q7W-R2PAR5WO3N9VT4-A18RCK7EU24EHI
+Category: MP3Players
+Product: Creative-Micro-Photo-Player-Pink
+ReviewerID: A18RCK7EU24EHI
+ReviewerName: X_HOBBES
+Date: July 23, 2007
+Helpful: 5 of 5
+Rating: 3.0
+Title: Unecessarily Complex
+Content:
+This device has the potential for 5 stars, but there are a few things that keep it at just 3 stars.  I've only had it for two days, so I can only comment on usability -- not durability.  Here's my list:
+PROS:
+- Nicely sized (3.75" x 2" x 0.75")
+- Solid feel
+- Excellent sound quality (as with other Creative MuVo)
+- USB chargeable (car chargers and travel chargers are available, but not included)
+- Decent play time per charge (I got about 10 hours today and still had a little charge left)
+- 8 GB of storage
+- Accepts assorted media file types (MP3, WMA, etc.)
+CONS:
+- Over-sensitive touch pad (I suppose I'll get used to it)
+- Can view music list by Artist, Album, etc., but CANNOT queue it to play sorted by Artist, Album, etc.!
+- Overly complex menus that all look the same (you have to review the menu choices to even know where you are)
+- Very quick timeout on menus (you can't think about what you're going to do, otherwise it will just go back to the song list)
+- Not enough choices on the menu button (sometimes it only has Volume)
+- Does not show up as a removable drive on a PC (requires software)
+- No skip to next album/artist/etc. -- just to next song
+My biggest gripe is that when you queue all tracks to play, it will play them alphabetically, by track name -- not by Artist, then Track.  There's no way to change this STUPID behavior.  It's VERY annoying to listen to a classical piece followed by Rap or Alternative just because that track name happened to be next, alphabetically.  When you browse by Artist, Album, Genre, etc. you CANNOT queue all to play (i.e. pressing play while highlighting one of these lists simply plays whatever you already had queued before).  So, you can't say play sorted by any of these, unless you manually create playlists.
+It doesn't accept playlists from other systems (e.g. M3U files).  It has its own proprietary playlist files that can't be edited outside of its lousy and slow software.  Managing 4,000 songs is a nightmare with this thing!
+I suppose I was spoiled by the magnificent Creative MuVo 1GB -- just plug it into any USB drive, drag files and folders onto it (showed up as a flash drive), and it had skip folder features.  If they only made one with 8 GB of memory...
+The only reason I may keep this Creative Zen MicroPhoto is because I got a great deal for just $[...] after rebate.

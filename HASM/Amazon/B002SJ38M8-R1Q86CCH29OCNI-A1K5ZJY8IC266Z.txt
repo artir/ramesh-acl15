@@ -1,0 +1,14 @@
+ID: B002SJ38M8-R1Q86CCH29OCNI-A1K5ZJY8IC266Z
+Category: Laptops
+Product: Acer-Aspire-AS1410-2497-11-6-Inch-Laptop
+ReviewerID: A1K5ZJY8IC266Z
+ReviewerName: Bruce W. Mohler "Tomasthanes"
+Date: December 5, 2009
+Helpful: 4 of 5
+Rating: 4.0
+Title: Better than I expected
+Content:
+On the scale of smart phones to dual core high-end laptops, I expected netbooks to end up closer to the smart phone end of the scale.  I'm pleasantly surprized with this particular netbook (Celeron CPU, 2GB RAM, 250GB HD).  It's peppier than I expected even running Firefox 3.5.5 with about 15 add-ons and 15 or so tabs open.  A lot of the slowness seems attributable to the wireless (802.11g) rather than to the weak CPU in the netbook.  Perhaps they've balanced out both so that any slowness is shared between them.
+Battery life seems on par with what was advertised.  I'm conditioning the battery now and am on my 2nd cycle.  I'm using the BatteryCare([...]) tray program to assist in this process.
+Some of the software that came with the Acer netbook could've been left off from the beginning.  MacAfee has already been removed and replaced with Microsoft Security Essentials.  Microsoft Works and the 60 day trial of Office 2007 Home and Student are about to go as well.
+I'm trying to figure a way to get an image off of the harddrive so that I can play with a few different OSs (Ubuntu Netbook Remix, Google Chrome (such as it is not), etc.).  I have Clonezilla on a flash drive but need a USB DVD burner.

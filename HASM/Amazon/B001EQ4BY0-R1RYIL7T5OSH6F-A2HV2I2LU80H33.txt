@@ -1,0 +1,42 @@
+ID: B001EQ4BY0-R1RYIL7T5OSH6F-A2HV2I2LU80H33
+Category: DigitalSLRs
+Product: Canon-50D-Digital-28-135mm-Standard
+ReviewerID: A2HV2I2LU80H33
+ReviewerName: Prash Chopra "Prash"
+Date: January 27, 2009
+Helpful: 16 of 27
+Rating: 3.0
+Title: Get a Canon 40D instead.
+Content:
+Let me start by saying that I started as a Canon owner in DSLR world (Canon Rebel XSi 450d). That was my first camera, and I loved it. I intermediately tried a Nikon D90, owing to its apparently great noise performance and the punchy color rendition... only to realise Nikon lags a bit in LiveView implementation which was better even in an XSi.
+So I ordered a Canon 50d, hoping to get the liveview I wanted, PLUS a noise performance better that even the Nikon D90 (rival?).
+Now by this time I had tried a 450d and a Nikon D90.. and so I was surprised to find out that 50d nowhere matched noise performance of a cheaper Nikon D90! And I am not talking about per pixel performance.. I am talking about day-to-day indoor shooting results. Canon 50d images had a lot of chroma noise for same shooting conditions. I wont go into why the 50d images look so soft at pixel level.. because different people have different theories about that. But if end result is what matters, here are my 2 cts as an enthusiast photographer who also works in imaging field:
+- Canon 50d results can not match the Nikon D90 ones in colors (and YES I did struggle with the picture style editor - its not a simple linear transformation to go from Canon's RAW color space to Nikon's color space)
+- Nikon D90 allowed me to capture sharp indoor pictures in room lighting with minimal noise as compared to the Canon 50d. And I have images to compare.. not 1 or 2.. but hundreds.
+ 
+In the end, I realised that a better Canon 50d liveview may perhaps help me in technically getting good pictures... but a Nikon D90 gives me the end results that I love.. and love going back to look at. The difference is very subjective.. and has more to do with aesthetics than the technicalities. You have to go through both the cameras to understand that.
+Pros for a Canon 50d:
+- Solid built
+- 15 MP (do they matter anymore?)
+- Great dial interface
+- Bright hi-resolution LCD, with 30fps live view
+- The lens-specific auto-focus micro-adjustment feature is cool. I actually needed to use it with the first lens I purchased: A Tamron 17-50mm f/2.8 which was terribly off-shooting.. by about 17 units (as seen on the calibration screen). However, I wasn't too sure I needed that feature.. since I am not a professional.
+Cons of a Canon 50d:
+- Noise performance isn't comparable to even cheaper models like Nikon D90. And no matter what you say about in lab tests and technical data, its the end result that matters. And I couldn't get the same results from a 50d that I could from a D90. Read more about independent noise tests on imaging-resource here: http://www.imaging-resource.com/PRODS/E50D/E50DHI_ISO_NR.HTM. Search for "50D vs D90 Comparison". 
+- Very hard to get the punch out of the colors using just the picture style editor. The color transformations are unitary...you cannot rotate the whole color wheel or work on big sections of the color spectrum all at once.
+- Heavy. And I mean HEAVY with a good size lens.
+- A tad big for me.
+- PRICEY!!
+In summary:
+- if you have ~$1500 to spare for a new camera+lens kit (as of 1/27/2009),
+- if you like post processing to get the colors/shades you want
+- if you are a pro photographer with established liking for Canon's image quality
+- if you have a Canon 30d or below and have existing sizeable investment in Canon lenses,
+then Canon 50d is for you.
+If, however, you already own a Canon 40d, I dont think just extra MP and a brigher LCD will do you any good from a 50d. Plus a 40d may serve you equally or even better in terms of performance.
+Remember, there are always alternatives like the Nikon D90. And for $1500 (as of Jan 27, 2009), you can even get a 70-300mm VR lens with a basic 18-105 kit lens. It is a wonderful kit for an intermediate dSLR enthusiast.
+Whichever way you decide, I wish you luck in that you enjoy your purchase!
+Edited 03/24/2009: I have since tried a Canon 40D along with a Nikon D90. And comparing just the RAW images, my impression is that Canon 40D gives sharper and more detailed results compared to the Nikon D90.. given similar lenses and lighting conditions. The D90, however, has at least 1 stop advantage in usable ISO range, and has the vivid blues/greens in off the camera images that some people like. 
+I can thus comfortably recommend a Canon 40D over the 50D, and along a Nikon D90. Reasons? Cheaper than a 50D, same price as a D90 (as of 3/24/09). Also, pro level Nikon glass is much more expensive than the Canons. Compare a 24-70 f2.8 or a 70-200 f2.8 between the two brands.
+In case you do decide to get a Canon 40D, you may want to check out my post on how to get Nikon like colors off a Canon40D here: prashchopra.blogspot.com/2009/03/getting-nikon-vivid-colors-from-canon.html .
+Good luck!

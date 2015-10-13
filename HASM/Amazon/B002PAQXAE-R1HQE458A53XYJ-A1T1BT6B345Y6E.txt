@@ -1,0 +1,19 @@
+ID: B002PAQXAE-R1HQE458A53XYJ-A1T1BT6B345Y6E
+Category: Laptops
+Product: UL20A-A1-Light-12-1-Inch-Silver-Laptop
+ReviewerID: A1T1BT6B345Y6E
+ReviewerName: GT
+Date: December 2, 2009
+Helpful: 5 of 6
+Rating: 5.0
+Title: Great small laptop that doesn't sacrifice speed
+Content:
+There are already some good reviews on this product, so rather than re-create the wheel, I'm simply going to focus on those things that are worth emphasizing, clarifying or adding:
+ - The Touchpad is kind of annoying and take some getting used to.  It seems like they thought this Touchpad would "look cool" and focused on that rather than making it the best-functioning Touchpad possible.  Your finger doesn't really glide across the surface like most Touchpads, though it's still usable.  The button is also quite stiff if you don't 'tap' to click.  Not a deal-breaker to me, but is something I'm adjusting to.
+ - Very good performance for such a small, no frills computer (I did add an extra 2GB of memory to bring it to 4GB).  I bought this to replace a larger Dell laptop I've been using that has a much more powerful processor, a non-integrated graphics card, a faster hard drive, etc., and this laptop is just as fast at all the everyday tasks, from booting up, to productivity software, opening browsers, etc.  I haven't tried any graphics-intensive games on the ASUS and presume it would do worse at those, but you're probably not considering this laptop as a gaming computer.  Also, some of this could be related to Windows 7, where my Dell is using Vista.  But still, it's impressive that this computer keeps pace.
+ - The ASUS utilities.  Yes, there are lots of (useless) little utilities included, and it's not clear what many of them do, even after running them.  But, they seem fairly small and I don't think they're sucking up resources.  On the good side, they haven't loaded the computer with tons of software that does hog resources.
+ - It runs very quiet, and very cool.  Even on a cooling pad, my old Dell would feel like it was lighting my lap on fire after much use.  Even after hours of use I don't have that problem with this laptop.  Wonderful.
+ - Size seems to be right in the sweet spot.  My Dell is 15.4", but I was concerned with getting a true 'netbook' with a 10-11" screen because of how little can be seen on a screen at one time.  At 12.1", you can browse the web without having to scroll left-to-right and without having to shrink things down so you have to squint to see them.
+ - No connectivity issues that one of the reviewers mentioned.  My router is probably 30-40' away and through a brick wall and this connects perfectly (no different from my other computer).
+Overall a really good computer, and one that I highly recommend.
+EDIT: After a little more use, I have a couple things to add.  I did get accustomed to the Touchpad, so it's just that there's a learning curve and not that it's chronically annoying.  However, one thing I've noticed that has me a little concerned about the long-term durability is part of my keyboard seems to have some movement beneath it.  If I hit the 'zero' button a few times I can feel some movement/vibration.  No effect on functionality right now, but hopefully it doesn't get any worse or cause problems down the road.

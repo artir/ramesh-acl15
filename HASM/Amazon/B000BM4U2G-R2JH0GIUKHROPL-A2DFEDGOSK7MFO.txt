@@ -1,0 +1,17 @@
+ID: B000BM4U2G-R2JH0GIUKHROPL-A2DFEDGOSK7MFO
+Category: MP3Players
+Product: Creative-Labs-70PF165000000-MicroPhoto-Titanium
+ReviewerID: A2DFEDGOSK7MFO
+ReviewerName: C. Kormendy
+Date: November 6, 2006
+Helpful: 2 of 2
+Rating: 4.0
+Title: Decent MP3 player
+Content:
+My wife has a Creative Zen Micro with the black and white LCD screen.  I liked my wife's player enough that I bought the newer Creative Zen Micro Photo for me.
+One feature that I like better about the older LCD version's screen is that (when there is enough ambient light) you can view the name of the currently-playing track without having to unlock the buttons and make the backlight come on, like I have to with the Zen Micro Photo.  I suspect that this issue will arise with any player with an OLED display.
+The display can be hard to read on a very sunny day.
+A limitation of the player is that you can play music or display photos.  If you try to display a photo while the music is playing, the music will stop.
+The player has survived a number of (unintentional) falls from my hand onto concrete or pavement (while playing) without the benefit of a protective case.  The housing is a bit scratched/dinged now, but no breakage so far.  On a couple of the falls, the player got "stuck".  The music stopped playing, the screen was on, but the player was unresponsive to any button presses including power off.  I had to remove the battery to get the player to recover.  I did a "cleanup" on the player for good measure (see the Creative Labs support site for how to execute the "cleanup" operation).
+The player works well enough with the "Rhapsody To Go" music service.  However, in recent days I've had synchronization problems between player and computer, but I suspect that this may be related to the player being nearly full.
+The player sounds decent enough to my non-audiophile ears.  I'm not a big fan of the ear buds that come with the player.  They sound ok, but they don't stay in my ears very well if I do anything more active than walking around.

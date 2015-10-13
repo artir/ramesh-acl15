@@ -1,0 +1,20 @@
+ID: B002PY7OKI-R2AE6C1XFY1ZUP-A3KG6JTUHHZVAV
+Category: Laptops
+Product: Dell-Inspiron-15-6-Inch-Black-Laptop
+ReviewerID: A3KG6JTUHHZVAV
+ReviewerName: Whereeaglesnest
+Date: January 14, 2010
+Helpful: 4 of 4
+Rating: 4.0
+Title: Great Depending The Configuration
+Content:
+I had mine custom built from the Dell website for a bit more in cost but worth it. This model replaces the 1525 I owned and served me extremely well but I needed a bit more under the hood so to speak.
+Even having mine built there were some options not available in this model that really surprised me. Most notably is no option for a built-in modem so you have to buy a USB dongle modem if you need dialup access or fax capability. 3 instead of 4 USB ports is a bit surprising as well. No HDMI (I personally do not miss this but the 1525 had this standard) and no S-Video output. Obviously not deal breakers for me but enough to be mentioned.
+One small item that really does bug me is the omission of a hard drive activity indicator. The only indicator is the power LED that doubles for a low battery indicator. Many times has been good to know if the drive was active when the screen seemed frozen while the computer was deep in thought. The hard drive is so quiet in this laptop if the screen would freeze you would be very hard pressed to hear any drive activity.
+As many have mentioned the black gloss look is sweet but does love to remember fingerprints that after a good day of use the gloss is not so glossy and you could lift prints to find out who touched it.
+ok now the good stuff
+I just like dell. Like any brand some have very good luck and others have very bad luck with certain brands. I have been avoiding 64-bit OS till now but Windows 7 64-bit was the only one offered and I am extremely pleased to say I have had no issues thus far with anything I use not wanting to install. It seems Windows 7 is better suited for compatibility. I uninstalled McAfee with no troubles but I did not uninstall the dell dock but rather just disabled it. 
+The audio is MUCH noticeably louder than the 1525 was and makes music and movies a much better experience. The display seems to have deeper colors than the 1525 had and does not seem as washed out.
+A bit heavy at around 6 pounds but no more than most in this size category.
+If you need extra battery time I recommend buying the 9 cell battery as I did that will get you about 7-8 hours which is great.
+Summing everything up, in spite of no modem or hard drive LED I am very pleased with this model and I hope my needs do not outgrow this one anytime soon (which the custom build should keep me in step a while lol).

@@ -1,0 +1,11 @@
+ID: B001D8S9E2-RLCLADCLRI13C-A1ZU0KK22Y3AZQ
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A1ZU0KK22Y3AZQ
+ReviewerName: S. Pei "roxit"
+Date: February 7, 2009
+Helpful: 1 of 3
+Rating: 5.0
+Title: Faster on VMWare and Guitar Hero 3
+Content:
+I can't believe how much faster it is to load VMware fusion on this laptop. Also loading ubuntu was much faster compared to my latest version of Mac mini with same speed processor. Playing Guitar hero 3 on mac was a lot better. Video card definitely is a major upgrade.

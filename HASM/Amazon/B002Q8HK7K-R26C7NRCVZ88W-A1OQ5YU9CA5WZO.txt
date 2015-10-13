@@ -1,0 +1,31 @@
+ID: B002Q8HK7K-R26C7NRCVZ88W-A1OQ5YU9CA5WZO
+Category: Laptops
+Product: UL80Vt-A1-14-Inch-Light-Laptop-Battery
+ReviewerID: A1OQ5YU9CA5WZO
+ReviewerName: kentpaul_65102 "Kent Paul"
+Date: December 28, 2009
+Helpful: 8 of 8
+Rating: 4.0
+Title: Stuff thats different out about this laptop...
+Content:
+What I was looking for: I set out to find a laptop that was light, decent graphics and screen for gaming and watching HD movies, powerful enough to run video-editing and image-editing software, and a good battery life for times in an international airport where all the power jacks look alien to you and you don't feel like dropping $15 on a gadget you are going to use once in your life. I wanted a laptop that wasn't a gaming laptop per say, but could handle the needs of the occasional gamer. It should also have all the basic peripherals like ample USB, VGA and an optical drive. I also wanted to have an HDMI output for my optimal viewing pleasure on big screens. I also wanted the weight to be around 4 pounds and the screen around 14 inches which can be classified as a thin and light laptop. My budget was around $1000. 
+resources used prior to purchase: 
+notebookreview, pcmag, notebookcheck, laptopmag, engadget, washingtonpost, anandtech, youtube 
+Why I chose the Asus UL80VT 
+Major reasons: 
+512 NVidia G210M graphics card: This spec. is very likely to go under-appreciated by the majority of the people who read this, but if you are an occasional gamer like me, this can easily handle games of today like Call of Duty 2 Modern Warfare under regular settings. You can also watch HD movies 720p and not experience any lag. The aero theme is beautifully rendered on the desktop. When this part of the computer is being used, this is the only time you will experience hot air coming from the left side of the keyboard. Other than that, the notebook is completely safe in your lap. It also has integrated graphics, which is the default. The switch to NVidia graphics is only a touch of a button. 
+14.1" LED screen: The LED technology takes a whole lot of weight off the laptop and also enables the thickness of lid to be extremely thin. This is one of the best screen I have ever used it is truly HD and watching movies is sheer pleasure. Because it's glossy, it is bound to attract fingerprints easily, but this should not be a deterrent because you should not being touching your screen, even by mistake... unless it's a touch-screen monitor. 
+Battery Life: It is more like 10 hours give or take with wireless and some occasional video streaming. If you are only doing office type work, you can surely go beyond 10 hours. Gaming will give you about 4 or 5 hours depending on the game. My LAN sessions do not go for more than 3 hours at a sitting so I don't have to lug my power gear when I am playing at a friend's place. 
+ULV processor and memory: If you haven't being paying attention to the 'thin and light' notebook market, this is the new standard. Less is more in terms of battery life and less heat production. Even though it has a 1.3 ghz processor, the Core 2 Duo and the 4 gb of memory combo packs quite a big punch. I have never experienced any major lags while running multiple applications. 
+64-bit: While majority of the today's processors are based on 32 bit architecture, this is the next step up. A 64 bit machine is more capable of using of the two RAM modules than a 32  bit machine, this helps a lot when you are using applications that require a lot of memory like video editing or gaming. You can definitely notice the speed at which it boots. Applications that run in the 64bit mode will result increase in performance but the problem is that not all application are available in the 64 bit mode. (For example, VLC does not have a 64 bit compiler yet and the 32 bit version has a bug that turns all applications into VLC players which is very annoying. If you are looking for a good alternative to VLC, Media Player Classic x64 is a winner.) 
+Warranty: two year warranty with a one year accidental warranty included! usually you have one year warranty but this is extremely outrageous  
+Price: When I was looking towards buying a laptop, its top competitors were prices from $1100 so $823 was a steal! With all the given features of this notebook, the free $100 Amazon giftcard sealed the deal. 
+Minor quirks 
+Expressgate: fast linux OS which can start in under 10 seconds. I dont really ever use it because Windows 7 boots in about a minute. And that if I needed to quickly go online, the iPod touch is always active. 
+Ice cool palm rest: this should be refuted the moment you read it. Makes you think, that there is a cooling system included, especially for the palm rest. Let's just say it is never hot from the internal parts. 
+Fingerprints: Like the glossy screen, the lid is too is prone to oily fingers. But this does not bother me too much because I spend most of my time staring at the screen, not the lid. 
+Touchpad: My least favorite part of this product is probably the touch pad. It is built in into the palm rest and it made from the same material with multiple grooves to give it some definition. There is a lot of friction when you use it, and feels much slower because of that. I have increased the sensitivity but there was no major improvement. This is not only the worst part of this laptop but it qualifies for the worst touchpad ever designed! But once again, no problem because I hardly ever use it, the ultra-responsive laser mouse is mightier than any touchpad! 
+Speakers: Even though it's built-in speakers might be better than many laptops it cannot compete with even an okay external speaker or headphones. 
+Other Recommendations 
+I wish they had included a Blu-ray player, and I wouldn't mind paying a little more for that, it would then be a formidable media center 
+Bottom line: This laptop can go head to head with the whatever best of 2009 or top lists you can muster. It will be a sure winner, in performance and in price, which is very surprising. The difference between this laptop and the average one all lies under the hood. It may not look like an Apple, but it surely looks most of the pc laptops. It performance can rival the Macbook Pro any day, not an overstatement... I mean with Windows 7, what is the use of a Macbook?

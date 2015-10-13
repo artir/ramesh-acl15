@@ -1,0 +1,12 @@
+ID: B002S1TG18-RVNQAQVX45OUR-A2LS2C6AM8YFYF
+Category: Laptops
+Product: Sony-VAIO-CW-VPC-CW18FX-Red
+ReviewerID: A2LS2C6AM8YFYF
+ReviewerName: P. Zhang
+Date: March 31, 2010
+Helpful: 
+Rating: 5.0
+Title: Good Overall
+Content:
+The red color is better than I thought (I didn't have chance to see it in store before buying it). The temperature is not high at all after turning on for a whole day. The only problem I had was a permanent fatal blue screen error, but after I contacted with SONY customer service, they sent me a technician and changed the RAM and HD for free. It finally got fixed. I think this is just an unlucky hardware problem.
+Be sure to burn recovery disk right after you receive your VAIO, or they will ask you to purchase one before sending any technician, which is annoying.

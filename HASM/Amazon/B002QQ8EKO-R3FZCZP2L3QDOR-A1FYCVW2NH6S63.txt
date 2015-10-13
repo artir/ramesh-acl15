@@ -1,0 +1,19 @@
+ID: B002QQ8EKO-R3FZCZP2L3QDOR-A1FYCVW2NH6S63
+Category: Laptops
+Product: Apple-MacBook-MC207LL-13-3-Inch-Laptop
+ReviewerID: A1FYCVW2NH6S63
+ReviewerName: Jim Gerdy "jjg"
+Date: April 4, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Great laptop for the money
+Content:
+I have been buying polycarb Mac laptops though the iBook and MacBook generations and love them. Starting with the first dual-USB white laptops in 2003 Apple has consistently offered a laptop just under $1000. And with discounts or refurbs you can often find one in the $800-900 range. This is a great deal as I haven't been able to find something from the PC world to stack up in raw performance for this value price. And then beyond that Apple offers Steve Job's captivating designs, superior battery life, plus manufacturer supported UNIX with a stunning UI (OS X).
+I have always liked my polycarb laptops for a few particular advantages:
+1. The price
+2. The polycarb shell is very durable. It scratches easily, but otherwise takes a beating
+3. Against the "Pro" laptopts the polycarb shell allows better WiFi reception, less metal shielding the antenna. 
+4. Performance. The polycarb is basically as powerful as the bottom "Pro" laptop. A tad slower in processing speed perhaps, but not significantly for most apps. I am particularly impressed with the latest 2.2 GHz units. 
+Since my primary work is numerical computation run from the command line I'm not held back by the weaker video card in the polycarb. I can even say that my current MacBook keeps up, within 10%, with my 2.8GHz workstation at work (running Vista or Win7).
+The polycarb lacks a few things, of course, against the "Pro" line. The graphics hardware is weaker and the keyboard is not backlit. I also believe my Pro's have a slightly better keyboard touch, but I have always found Mac's at all levels to have excellent keyboards. From others I hear they are on the soft side. For me they are ideal for my typing.
+A few things I lament about the latest polycarb and Apple in general is the internalization of the battery and sealing of the keyboard. Apples definitely lag the PC world in that they are not easily opened up. Now even the battery sealed in. So you can't carry a swappable spare for a long trip. Shame on Apple for profiteering this way. But as the rest of the product, and OS X, offer so much, I can't resist and I'll continue enjoying Mac's.

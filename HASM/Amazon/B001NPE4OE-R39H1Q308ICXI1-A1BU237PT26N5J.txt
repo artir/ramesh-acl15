@@ -1,0 +1,25 @@
+ID: B001NPE4OE-R39H1Q308ICXI1-A1BU237PT26N5J
+Category: Laptops
+Product: Pavilion-DV3-1075US-13-3-Inch-Dual-Core-Processor
+ReviewerID: A1BU237PT26N5J
+ReviewerName: glo "glo"
+Date: July 13, 2009
+Helpful: 
+Rating: 4.0
+Title: Giving HP another try-so far so good
+Content:
+Purchased this laptop for almost 100 dollars cheaper from a sale on HP website and, it's 10 days old now.  To be honest, there were some problems from the start but not from hardware issues so I can't blame HP for that (although I will blame HP for all the preloaded crap trial software which I ended up deleting because some of it slowed my computer down).  The problems were mainly caused from the Windows Vista Home OS.  The computer froze as I was trying to make recovery discs.  I called HP support, they were helpful although it took about 2.5 hours to fix everything because once they fixed one thing, another thing went wrong like the the audio driver needed to be reinstalled, etc.  Again, that's a Vista issue.  In the end, the laptop worked smoothly and quicker.  Nothing wrong has happened since.  
+What I like the most:
+-Sharp resolution
+-Can open multiple applications at once without sacrificing speed
+-very light compared to laptops of other brands with same screen size (13.3")
+-Windows Vista can be upgraded to Windows 7 for free on HP website
+-sleek glossy finish---so pretty!
+-large hard drive
+-HDMI slot
+-1 year HP Manufacturer warranty (I can vouch for HP's service. Although it may take a long time on the phone/chat it usually pays off. I've gotten a new printer without any proof of purchase in exchange for my 1 year old printer)
+What really annoyed me:
+-fan is loud...but it's improved over the years (I owned a Pavilion a 5 years ago)
+-Windows Vista! It slows everything down although this computer has 4gb ram
+-sleek glossy finish---leaves a lot of fingerprints
+-fingerprint reader calibration needs improvement. It's not so cool when you get into the computer after the 5th fingerprint read. Instead, I just enter my password each time.

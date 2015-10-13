@@ -1,0 +1,30 @@
+ID: B002A25VHI-R38KGRANYJ4098-AVP2JQ55YC4ST
+Category: Laptops
+Product: Lenovo-Processor-1366x768-PC3-8500-Recordable
+ReviewerID: AVP2JQ55YC4ST
+ReviewerName: Francis Feliciano "Tech Geek"
+Date: July 8, 2009
+Helpful: 4 of 6
+Rating: 3.0
+Title: Y550 (418644U) - Pretty good for the price ($599 on Lenovo site)
+Content:
+Specs:
+Intel® Core(tm) 2 Duo processor T6400 ( 2GHz 800MHz 2MB )
+4 GB PC3-8500 DDR3 SDRAM 1066MHz 
+Intel Integrated Graphics X4500 
+15.6 " HD Wide LED 1366x768
+320GB hard drive, 5400rpm
+DVD Recordable (Dual Layer)
+6 Cell Lithium-Ion battery
+Intel Wireless Wi-Fi Link 5100
+I bought this laptop on the Lenovo's corporate site for $599 plus tax. [$670 total, with tax and recycling fee added] 
+I ordered 6/26 (Fri night), and it was delivered on 7/3. Considering it's free shipping, the wait time was not too bad.
+This is my first laptop, so I have nothing to compare it to as far laptop experience goes.  I wanted something in the middle (not too big, not too small) so I went for this 15.6 screen.  It's pretty big compared next to my friend's old 13.3 white Macbook (pre-aluminum unibody). Weight-wise, the Macbook is slightly heavier.  Now that I have been using the laptop for a few days, I sort of wish I had gotten the 14-in model (Y450) which is supposed to be lighter. But it's not a deal-breaker; I can live with it.
+The system came with some bloatware of course. It took some time to get rid of them, but once gone, the system became less cluttered and zippier.  It came with face recognition software (Veriface), which is neat, but it loads a little slow so if you have to open and close the lid frequently, it is more practical and faster to use a password instead of the Veriface.
+I've been using the mouse and keyboard most of my adult life with desktops, so using a touchpad takes a learning curve. Y550's touchpad does work well. Instead of clicking the left button, you can just tap a link to open it, or double tap an icon to open the program.  You can also resize the window or web pages using finger gestures on the touchpad.
+Battery lasts for about 3 hrs depending on what you're doing. If you put it on super energy saver, it can probably last for 4 hrs. I tend to keep it on balanced mode, since the energy saver automatically puts the system to sleep after a few minutes on idle.
+The system plays videos and DVDs pretty well. No glitches so far.
+The screen itself, I thought, had edge-to-edge glass, but I was disappointed to find that it wasn't. Otherwise, I am pretty satisfied. It's bright and clear enough for my needs.
+The wi-fi has problems connecting automatically at system start-up.  I read a review online and found that a Lenovo add-on software (ReadyConnect) conflicts with the wi-fi link. I uninstalled that program, and things went smoothly after that.
+Overall, it's a pretty good system. It's definitely not the perfect laptop in the 13 to 15-inch screen market, but for the price and what it can do, it's a good value.  
+I'll do updates if/when I find any quirks or noteworthy developments.

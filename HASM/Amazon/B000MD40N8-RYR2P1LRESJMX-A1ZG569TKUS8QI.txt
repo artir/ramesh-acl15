@@ -1,0 +1,14 @@
+ID: B000MD40N8-RYR2P1LRESJMX-A1ZG569TKUS8QI
+Category: MP3Players
+Product: SanDisk-Sansa-Express-Player-Black
+ReviewerID: A1ZG569TKUS8QI
+ReviewerName: FlyGirl
+Date: September 3, 2007
+Helpful: 3 of 3
+Rating: 3.0
+Title: Not bad, if you're a windows user... okay otherwise
+Content:
+If you use WMP and use it to sync with the Sansa Express, this is a nice device.  You can create playlists and organize files nicely.
+But... If you're using the SE as a USB drive under any other OS, or just don't want to use WMP, it's a pain in the neck --- the Express ignores any directory structure you place the files in, and you cannot create playlists (like m3u's) by hand.
+That said, I like the rechargeable battery feature and the fact that I don't need a cable to connect it to my PC --- makes it perfect for use while riding my bike to/from work.
+So, it'll do for what I am using it for, but as a general purpose MP3 player for someone NOT using WMP, I think it needs a few firmware changes.

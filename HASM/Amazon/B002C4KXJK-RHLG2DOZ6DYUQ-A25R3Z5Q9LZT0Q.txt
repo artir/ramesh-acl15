@@ -1,0 +1,12 @@
+ID: B002C4KXJK-RHLG2DOZ6DYUQ-A25R3Z5Q9LZT0Q
+Category: Laptops
+Product: MSI-X320-037US-13-4-Inch-Laptop-Black
+ReviewerID: A25R3Z5Q9LZT0Q
+ReviewerName: Joon "The RubyHead"
+Date: June 3, 2009
+Helpful: 9 of 10
+Rating: 4.0
+Title: LinuxBook Air?
+Content:
+Other than the keyboard, I absolutely love this machine.  The LED screen is bright and crisp just as my MacBook Pro.  I was just about to buy MBA before I read about this laptop.
+I installed Ubuntu 9.04 and with minor tweaks (mostly to xorg.conf for the weird screen resolution), got everything working correctly.  I need to use Unix as I'm a software engineer and the performance of this does not disappoint.  It is now the portable machine for the RubyHead.

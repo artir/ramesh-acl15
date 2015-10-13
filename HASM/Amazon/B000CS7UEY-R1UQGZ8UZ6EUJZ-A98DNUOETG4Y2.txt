@@ -1,0 +1,12 @@
+ID: B000CS7UEY-R1UQGZ8UZ6EUJZ-A98DNUOETG4Y2
+Category: MP3Players
+Product: Creative-Zen-Vision-Video-Player
+ReviewerID: A98DNUOETG4Y2
+ReviewerName: m
+Date: March 24, 2007
+Helpful: 1 of 2
+Rating: 4.0
+Title: great upgrade from the iPod interface
+Content:
+I have had a 4gb iPod Nano for a couple years now and have been very happy with it in every way but i finally have more than 4gb of music that i want to listen to all the time and thus the upgrade.  The one thing i hated about the nano was the iTunes interface.  I didn't buy their DRM'd content at all and found their method of syncing clumsy and poo-like.  So after much research i settled on the Zen Vision: M.  It's really quite beautiful and the .3" extra thickness from the apple 5g really isn't that big of a deal.  The color depth is 4x than that of the video ipod and takes xVid movies too.  I having syncing with the Windows MCE box and it as smooth as can be.. it even converts and downloads the last three episodes of every tv series i have on that box.  For those geeks out there.. it works really well with my linux box too.
+My only complaints are that coming from a flash player, the extra 1/10 of a second to get between songs or rate them is noticeable and annoying and the necessity of the interface dongle.  Basically, to connect your player to anything other than headphones requires a little 1"x2.5" port converter (included).  Oh and the wall charger is not included any more (and charges in 2 hours as opposed to 5 via usb) and when i bought it at circuit city, it was $35.  That was a bit obnoxious.

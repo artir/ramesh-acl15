@@ -1,0 +1,13 @@
+ID: B00365DXAK-R215TJUIYK3QG8-A23W13JR7RTOJY
+Category: Laptops
+Product: Sony-VPC-Z116GX-13-1-Inch-Laptop-Silver
+ReviewerID: A23W13JR7RTOJY
+ReviewerName: Narada "the wondering jew"
+Date: April 26, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: amazing hardware
+Content:
+I am more of a Mac user usually, but I need a windows machine occasionally, and this is far and away the best piece of hardware I have ever had (in case you wonder, I also have a thinkpad X200 and macbook pros of all sizes). The hardware spec is very similar to the last generation of macbook pro (same graphics card, similar CPU), but this is a 3lb machine, vs a 6lb mbp). The SSD is blazingly fast, the machine never gets even slightly warm (despite the fact that I usually run a number of CPU hogs on it), the keyboard is amazingly comfortable (It has a similar chicklet layout to the MBP keyboard), the screen is phenomenal (by contrast, the Thinkpad screen is much too dim). I am sure there is a bit of bloatware, but I don't notice it (256GB is a lot of bits), and the default browser is Chrome. Windows 7 is the most usable Windows release yet, which may or may not be saying much.
+To comment on another review: I am very much a unix person, but if you want to run unix on a laptop, just get a mac, and certainly DO NOT get a sony. Sony has always made slightly incompatible hardware (I got my first Sony ultraportable in the late 1990s -- same problems). That said, I have NEVER had a linux laptop which ran properly (Thinkpads, Dells, Acer, you name it). Power management is always goofy, the display drivers are always a little off, etc, etc. Run linux at home/work, and use a vnc client to connect, if linux is that important to you. Every single old unix hack I know carries a mac (that includes some of the fathers of the open source movement) -- essentially every useful piece of linux software runs (sometimes better) under OSX. 
+Anyway, giving two stars to the Vaio because it is not a unix box is like giving two stars to your ferrari because it won't go offroad (or conversely, to your landrover because it can't keep up with a mustang GT from a light). Use the right tool for the job.

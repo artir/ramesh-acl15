@@ -1,0 +1,11 @@
+ID: B002OOWC06-R17G1PDWBYVHKC-A368ILDKEYLW2J
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310RD-13-3-Inch-Ultrathin
+ReviewerID: A368ILDKEYLW2J
+ReviewerName: Terry G. Seifert
+Date: January 7, 2010
+Helpful: 2 of 6
+Rating: 2.0
+Title: software problems
+Content:
+Nothing but software problems from day one. Norton would not work because 2009 was included, but does not work with Windows 7. Internet Exployer 8 was 32 bit, but needed to be 64, so it would not work. Finally got it to work...some. Some features still do not work. When it works it is great, or nothing works. It can be very frustrating. We took it on vacation and it worked 3 out of 7 days. I think it is a software problem...

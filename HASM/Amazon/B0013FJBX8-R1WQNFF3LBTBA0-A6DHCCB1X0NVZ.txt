@@ -1,0 +1,14 @@
+ID: B0013FJBX8-R1WQNFF3LBTBA0-A6DHCCB1X0NVZ
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A6DHCCB1X0NVZ
+ReviewerName: G. Bartley
+Date: March 4, 2009
+Helpful: 3 of 4
+Rating: 5.0
+Title: Excellent hardware, but sharp corners!
+Content:
+I bought one of these the day they were released.  However, every time I would get up from using my laptop for a drink or potty break, my wife would steal it!  She was hooked.  I told her that we had to get a laptop for her so that I could use mine.  We went to Best Buy and test-drove a few cheaper PC/Vista laptops.  None of them even remotely stacked up to the quality of the aluminum unibody MacBook Pro.  She -had- to have a 15.4" widescreen LCD that could be viewed from sharper angles than sitting directly in front of the screen.  She -had- to have a backlit keyboard.  She -had- to have a glass, button-less touchpad.  That narrowed it down.  She -had- to have a 15" unibody MacBook Pro.
+All-in-all, we love just about everything about our laptops.  My only complaint is the sharp edges.  The 90-degree edge where your wrists wrest is uncomfortable for any lengthy coding or writing sessions.  And the notch cut out in the middle below the touchpad has VERY sharp corners.  I have actually nicked myself a couple of times on it.
+I would actually give this laptop a 4.5 out of 5 because of the edges.  However, Amazon doesn't support half-stars, so I rounded up.
+Oh, and this laptop made me a "switcher".  I bought a Mac Mini as an HTPC a few years ago, but never used it much.  Now, with this laptop, I never touch either of my high-powered Vista gaming rigs.  Sure, gaming on a Mac leaves a lot to be desired, and I haven't had any luck with the virtualization software for gaming (VMware, Parallels), but that's not my primary usage.  I'm a web developer and use an array of applications.  If you're a hardcore PC person, give a Mac a spin.  You'll find you can do anything on a Mac that you can do on PC.  It's a little unfamiliar at first, but it is just so much easier and cleaner-feeling and nearly hassle-free.

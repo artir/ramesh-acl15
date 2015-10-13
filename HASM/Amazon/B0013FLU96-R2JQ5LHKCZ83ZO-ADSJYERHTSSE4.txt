@@ -1,0 +1,26 @@
+ID: B0013FLU96-R2JQ5LHKCZ83ZO-ADSJYERHTSSE4
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: ADSJYERHTSSE4
+ReviewerName: M. V. Ly
+Date: November 5, 2008
+Helpful: 5 of 6
+Rating: 5.0
+Title: Elegant Portable Desktop
+Content:
+Ok I would like to keep reviews short because most people will not read more than 1/2 of a pages.
+1. Portability - 5.4 lbs. Coming from a guy that had a 2.7 lbs laptop, this is not much of a burden.
+2. Power - 2.5Ghz Peryn 45nm 6MB caches. O did I mentioned that it is FAST? (Window & Mac). 
+Boot up time: 
+Mac: 35 seconds w/ bloated software. 
+Windows XP: 1:45 seconds w/ bloated software.
+3. Graphics - 8600M GT 512MB GDDR3. I game on window and everything runs immaculately with medium settings on new games and max settings on older ones.
+4. Battery life: I haven't needed to plug in the power supply when I am out on a day's work. ~4.5 Hours w/ normal use.
+5. Software: Mac OSX is the way to go! Plus I get Xcode developer kit for free! Good for programmers.
+6. LED Backlit LCD: Excellent. Can't say it is much improvement because my old laptop was also LED. Also 15.4 inches is refreshing. I use to have a 11.1 inches laptop and that was really arduous on my eyes at times.
+7. Backlit Keyboard: Most people say this is for eye-candy. I would contest this. I work mornings and nights and I don't like to wake up other people in the house. Moreover, it is profligate to turn on lights when you are the only one using it. With the backlit keyboard, I am able to work effectively in the dark.
+8. iSight: This is one of the features I was aghast at. My old webcam as the Logitech Notebook 2MP autofocus. That quality on that is perspicuous. The iSight is not far off.
+9. Price: I got this when the new macbook pro came out. ~1650 (AR) for a high end macbook pro is unheard of.
+10. Performance Comparison: After looking at numerous sites on the performance comparisons between this macbook pro and the new one, I found out that there are not much differences to justify for the $1000 increase in price for the new one. Plus for the new one, in order to use the 9600M GT, you need to restart the laptop which defeats the purpose of gaming on mac.
+11. TouchPad: Very responsive, though secondary click in Windows can be toilsome at times. Gotta love the Multi-touch!
+12. Sound: Mediocre on Window XP but preeminent on Mac OSX.

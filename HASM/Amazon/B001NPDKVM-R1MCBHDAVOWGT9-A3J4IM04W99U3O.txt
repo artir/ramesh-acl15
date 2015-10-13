@@ -1,0 +1,17 @@
+ID: B001NPDKVM-R1MCBHDAVOWGT9-A3J4IM04W99U3O
+Category: Laptops
+Product: Presario-CQ60-210US-15-6-Inch-Dual-Core-Processor
+ReviewerID: A3J4IM04W99U3O
+ReviewerName: Kevin Meade
+Date: May 17, 2009
+Helpful: 14 of 16
+Rating: 3.0
+Title: A laptop that comes up a little short
+Content:
+My problems with this laptop:
+1) it uses the intel graphics adapter.  Yes, this laptop like all entry level laptops, was not really meant for gaming but lets face it, with today's technology, all entry level laptops can in fact play any game except for those out in the last year, when given enough of the associated resources.  Why does it not have the nvidia mobile video like its sister machines.
+2) advertising is suspect (putting it nicely); notice how the description says "ready for tomorrow's 64-bit applications" yet in typical stupidity, it is sold with the 32-bit version of Vista.  How are you supposed to run 64-bit apps like the add says, if you only have a 32-bit O/S?  You can't.
+3) only comes with 2gb of memory.  Hey, the max is four.  How much more can it really cost to add the extra 2GB?  Not much, memory is cheap today.  Having 4GB vs 2GB makes all the difference in running VISTA.  Vista is a nice snappy O/S, as long as you have enough memory.
+4) no hdmi out port.  I am OK with this I guess; not an issue if you are never hooking it to another monitor or tv.  It is after all an entry leve laptop.
+So in the end, another could have been.  Stick with the 212-us sister machine, it is the same machine (2.0GHz cpu) but has the 64-bit O/S and 4GB of memory and 8200m video.
+Hail Flavius

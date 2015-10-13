@@ -1,0 +1,28 @@
+ID: B002LEXA64-R156MUU3HFF9QR-A39JN0HXGJVKBH
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A39JN0HXGJVKBH
+ReviewerName: Ajay Mahajan
+Date: October 11, 2009
+Helpful: 
+Rating: 5.0
+Title: Small light economical laptop, good for reading
+Content:
+As many have said, this laptop is a good cross breed between a netbook and full fledged notebook/laptop. Specs are just beautifully balanced 
+Pros --- 
+- Size is small, weight is right. Excellent portability
+- The display of 1366x768 pixel is a little small, butthe finer screen resolution means i can read more without scrolling. 
+- Gets only slightly warm and wont burn your lap. 
+- Battery life excellent, in two weeks, had just two charges (and i use mostly for reading and surfing). 
+- Edge over netbooks as performance of the processor is definitely good (enough to handle vista smoothly), except for skype. 
+- Basic additional functionality such as wireless, webcam, microphone works cool 
+Cons ---
+- Bloat of games, took 3 hrs to uninstall everything 
+- keypads need getting used to. NO Home/End key. This came as a real shock, cmon there was space. Dont expect me to keep pressing function key each time i want home or end. 
+- There could have been a place for 4th USB port. There are only 3. 
+- Scrolling is a pain using either the page up down (since keys are small), or the trackpad. I would need a mouse 
+- What a waste giving the blue tooth button, blue tooth function key, but not blue tooth itself. 
+- Can hear the hard disk whirring 
+- Skype frames were freezing, sometimes the software hung, cpu going 100% on video calls. 
+An interesting observation (perhaps its just my piece) was that the notebook was making the electronic hissing sound (like crt of olden tv) when display was bright (audible at night when silent). After about two weeks, as soon as laptop booted, display used to turn off, rendering laptop unusable unless external display was connected. However, Amazon is helpful in rearranging the UPS pickup. I opted for replacement instead of return since I really liked this laptop. Hope the replacement turns out fine. Will update here. However, if Toshiba starts making laptops with such beautifully balanced specs, I would shift over. My earlier Toshiba Satellite A 135 S 4467 is going very strong after 3.5 years, and i was satisfied with it till i used it. 
+Update - 1 Nov 09. Using the replacement for 2 weeks now. no issues. Upgraded review from 4 to 5 stars.

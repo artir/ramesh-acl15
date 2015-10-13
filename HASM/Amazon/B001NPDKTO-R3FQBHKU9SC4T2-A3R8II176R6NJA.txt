@@ -1,0 +1,18 @@
+ID: B001NPDKTO-R3FQBHKU9SC4T2-A3R8II176R6NJA
+Category: Laptops
+Product: HP-Pavilion-HDX16-1140US-16-0-Inch-Laptop
+ReviewerID: A3R8II176R6NJA
+ReviewerName: J. Profe "odin820"
+Date: November 29, 2009
+Helpful: 
+Rating: 4.0
+Title: Desktop replacement
+Content:
+Note: You really need to understand just how big 18.4 is. It's barely a "lap"top. This could be a pro or a con, but seriously, it's huge. 
+Pros: It's mostly all great so I'll keep the pro's brief. 
+Great screen, full sized keyboard is amazing, audio is fantastic, enough muscle for a power user, great for movies.
+Works really well with Vista, Win 7, and Linux
+Cons:
+Runs so unbelievably hot I've taken cold-packs to it as a precaution. Not exactly comfy on one's legs. 
+Packaged with loads of bloaty garbage software out of the box. Comes with awful audio drivers/config software. Once removed the Windows drivers work perfectly.
+The size cuts down on the selection of accessories. Bags, fans, ect...

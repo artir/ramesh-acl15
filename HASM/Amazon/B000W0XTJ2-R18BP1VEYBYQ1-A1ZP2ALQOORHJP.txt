@@ -1,0 +1,14 @@
+ID: B000W0XTJ2-R18BP1VEYBYQ1-A1ZP2ALQOORHJP
+Category: Laptops
+Product: Pavilion-TX1320US-Entertainment-Notebook-Processor
+ReviewerID: A1ZP2ALQOORHJP
+ReviewerName: Phillip A. Langefeld
+Date: November 5, 2007
+Helpful: 87 of 109
+Rating: 2.0
+Title: It's good, but...
+Content:
+The computer is about what I expected it to be.  Prior reviews indicate that comparatively short battery life and a less-than-perfect tablet/stylus are to be expected.  I find them to both be true.  The HP picks up the stylus marks with a good deal of error.  The tablet is about as useful as the old Apple Newton.
+The biggest problem is the support.  First you call in and get routed to a call center in India where they cannot even understand the letters when you spell your name.  When you finally get to a tech support person, they have very little experience with the computer.  It took me over two hours to remove only a small portion of the bloatware that ships with the computer.  Some of the bloatware apparently cannot be removed at all.  (At least that's the answer that I received from the HP tech rep.)
+HP should have more consideration for their customers than to ship the computer with all the built-in garbage that most people will never want to run.  One particularly annoying piece of the bloatware is an HP app that keeps trying to sign you up for some internet service or other (it seems to be unable to recognize that you are already connected to the Net).  Once started, the HP app can only be killed with Task Manager; there is no cancel or close button.
+The computer is available only with Vista.  As far as I am concerned, that is a disaster.  User Account Control essentially must be enabled and it requires constant interaction at the level of, "Do you really want to run the program?"

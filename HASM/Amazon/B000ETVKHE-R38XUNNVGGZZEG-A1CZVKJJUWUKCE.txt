@@ -1,0 +1,16 @@
+ID: B000ETVKHE-R38XUNNVGGZZEG-A1CZVKJJUWUKCE
+Category: MP3Players
+Product: SanDisk-Sansa-Player-MicroSD-Expansion
+ReviewerID: A1CZVKJJUWUKCE
+ReviewerName: Z. Bacik
+Date: July 11, 2006
+Helpful: 11 of 11
+Rating: 4.0
+Title: Better than an iPod, but still a few kinks
+Content:
+This MP3 player is a great buy.  Let's go through the good and the bad on this little guy.
+Pros:
+A great machine.  This MP3 player sounds very nice out of a fine pair of quality headphones, and even from those pack-in earbuds (that are surprisingly good themselves).  The screen is beautifully clear and colorful, which is great because the system allows for video playback and image viewing.  The unit feels nice in your hand or pocket and looks very stylish as well.  UI is easy to navigate, even though the buttons themselves hamper use a bit.  This player does not require itself to be synced to a computer player like the iTunes/iPod partnership, and therefore music can easily be added and removed with no DRM slowing (or stopping) the process.  Other features like FM radio and voice-recorder are nice bonus features.
+Cons:
+But it's not without quirks.  There are a few minor issues that must be dealt with.  When you drag music in via My Computer, the Sansa ignores track numbers and plays in any order; only adding music via Windows Media Player keeps tracks in order.  Player occassionally locks up during normal use, but not enough to be a bother.  Face buttons are cramped by scrollwheel and a little hard to press, and the scrollwheel itself isn't as nice as, oh, a touchwheel.  Also, the fast-forwarding is quite slow, and it can be a pain to find your place in an audiobook or podcast if stopped.
+Minus the quirks- most of which could be fixed by a firmware update- this is one fine machine.  If you want something like a iPod Nano, but would like to get more bang for your buck, then buy this player.

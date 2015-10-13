@@ -1,0 +1,11 @@
+ID: B001FA1O0E-R772O4W03O5UR-A2HEVM9GHI8J9H
+Category: MP3Players
+Product: Apple-touch-Generation-Previous-Model
+ReviewerID: A2HEVM9GHI8J9H
+ReviewerName: Phillip Flores
+Date: December 29, 2008
+Helpful: 2 of 4
+Rating: 2.0
+Title: Nice added features but not a friendly transition form old to new
+Content:
+I purchased this product for my 13 year old daughter who had to have the latest Touch because her 8 month old 32 gig touch wasn't as slick and didn't have the external speakers.  She unboxed it started it up and everything seemed to go O.K.  We backed up her old one with iTunes and plugged in her new one.  Ran threw the little setup wizard and all seemed to go O.K.  We authorized the ipod on her account and started to restore her info onto the new one just like the instructions suggested.  Well this was a disaster, the touch rebooted and started to beep with the apple logo and the little timer lines circling.  This goes on for about 5 minutes and it restarts and performas the same thing over and over.  I put the touch into DFU mode to see if I could get it to restore nothing.  I had to bring it over to another computer download the 200 plus meg OS hook it up to my laptop and finally it started the restore procedure.  After all said and done it finally started.  Being one who must love punishment I performed the same procedure on her computer again and at last success. This took almost 90 minutes to get this done and once completed half her songs did not come accross.  I had to take her old touch and copy all of the music off using Touch Copy which allows you to take the music off of your old iPod and either copy it to your computer or directly into iTunes.  I was finally done but not sure if this is typical of all upgraded but sure was nerve racking having a 13 year old on Christmas day looking over your shoulder trying to get her new touch that well you know how it goes "you touched it so you must have broke it" working feeling. I have three daughters who are 4, 13 and 18 each have a touch I also have an iPhone so the I have a lot of experience with this kind of stuff and all I can say is have patience and the confidence and you can get though anything.

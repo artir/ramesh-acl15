@@ -1,0 +1,19 @@
+ID: B0032FOKXS-R1QULP8N7SSTMC-A10OY2SLHB6EPD
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A10OY2SLHB6EPD
+ReviewerName: Lee C. Howley "An7imatt3r"
+Date: December 4, 2009
+Helpful: 12 of 13
+Rating: 4.0
+Title: A true ballance of performance and portability
+Content:
+Compared to its bigger brother (UL80vt-xt) the UL30vt-x1 has all the advantages. The smaller form factor is great with no power compromise. The body is nearly equally sturdy throughout. The Aluminum backing to the LED backlit screen is not only nice to look at, but helps increase the rigidness of the display.
+ 
+While the interior is plastic, the palm rests are solid with little to no flex. While they could be bigger, the palm rests will fit the average person's hands. The keyboard is very friendly with sturdy keys. While the track pad blends in and feels fine, it does not behave as well as other computers. Additionally there are no distinct left and right mouse buttons. 
+There is a very nice helping of ports, three USB, HDMI, VGA, SD Card reader and standard 3.5 mm jacks for audio. There are two panels on the bottom of the computer which can be removed to replace/upgrade the ram and HD.
+The display is crisp when viewed from strait on, although some colors can appear to be washed out at times. Viewing from the top of the LCD is not good, but from the sides and bottom it's not as bad as I would have expected. In all don't expect this LCD to blow you away; it is not a particularly high quality unit. 
+This little guy surprises me at every turn when it comes to benchmarking. Sure its ~3400 3dmark06 score is not particularly impressive, but when you consider the units size and possible battery life it changes things. Activating the 'Turbo' mode gives the notebook a welcome boost over its standard 1.3 GHz clock. If you find the time to remove all of the bloat ware that comes on this laptop or perform a clean install, the speed is very impressive. I found this laptop capable of playing any source driven game, including the newer L4D2 as well as BioWare's Dragon Age. 
+The built in power switching is a very handy feature. It allows you to quickly disable and enable the Nvidia GPU and scale back processor usage to save battery. However, it does not remove the over clock, but simply limits the utilization of the CPU. You will need to restart the computer to turn off or on `Turbo' mode. With average use (Wi-Fi on screen 70%) I have gotten between 6-8 hours of battery life. I am sure if someone tried harder  they could get more. 
+This product would be perfect if it didn't come with dozens (yes dozens) of unnecessary utilities and applications that only slow the computer down. ASUS really needs to think about the customer before adding these in there. It took me over an hour to remove all of the ones I didn't need or want! Combine that with the occasionally infuriating track pad and the so-so display, I subtract one star. I admit I am being picky, but 5/5 means perfect to me. 
+This laptop is probably one of the best ultraportables out there. I see no reason to spend over a grand when this little guy surpasses nearly every other ultraportable in performance and battery life. You will not regret the purchase of this computer as long as you're buying it for the right reasons (I.E a portable laptop that has some power and loads of battery life). In all I am very satisfied with my purchase and Amazons service. Kudos to ASUS and Amazon.

@@ -1,0 +1,11 @@
+ID: B001EM3MFS-RC86WTQRDCYZM-A248EQ0BGP84ET
+Category: Laptops
+Product: Pavilion-TX2500Z-12-1-Inch-Widescreen-Laptop
+ReviewerID: A248EQ0BGP84ET
+ReviewerName: R. James
+Date: September 25, 2009
+Helpful: 2 of 3
+Rating: 1.0
+Title: Buyer Beware
+Content:
+I purchased a TX1000z in March 2008.  Things worked relatively well until May 2009 when it suddenly started shutting down for no reason.  I would have to let the laptop sit for a couple of hours before I could get it to turn on again.  After several weeks of this, the laptop finally died due to a design problem with the motherboard.  This is a common problem for this line of laptops.  Search 'TX1000z motherboard' on the HP forums and you will quickly discover the extent of the issue.  If you buy this item get an extended warranty because the motherboard will most likely fail a few months after the factory warranty expires.

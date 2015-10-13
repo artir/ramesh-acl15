@@ -1,0 +1,27 @@
+ID: B0028ACYKE-R3OREJ51KIWUMB-A163L56VTJA23
+Category: Laptops
+Product: MSI-X340-021US-Slim-13-4-Inch-Laptop
+ReviewerID: A163L56VTJA23
+ReviewerName: G. Hunter
+Date: November 23, 2009
+Helpful: 3 of 4
+Rating: 3.0
+Title: good and bad
+Content:
+Pro:
+Big (by netbook standards) 13 inch screen.
+Thin and light.
+Full-size keyboard.
+The laptop shell seems solid enough.
+Uses a standard power connector at 20V DC.  My old power supply (at 19V DC) works just fine as a spare.
+Con:
+Even at 13inch the 720p resolution makes the text very small and not always easy to read.
+The screen has very limited viewing angles.  It's about 5 degrees from center on the vertical which makes adjusting the angle somewhat tedious.  About 15 degrees from center on the horizontal which makes it difficult for two people to view the screen at the same time without the colors being off for one of the viewers.
+The keyboard is warped towards the center.  The 5 6 7 and T Y U keys are probably the worse.  You can easily see the keyboard sink as you press these keys.
+The standard battery only lasts about 3 hours (very minimum for a netbook).
+It comes with VISTA Home Premium OEM preloaded.
+Other:
+I upgraded it from VISTA to XP without too many issues (took about one day).  There are blogs that tell you how to do this and where to find the hard disk drivers.  Only issue is that the wireless connection seems to be slow for it's connect speed not data throughput speed.  Sometimes it times out during a page load and I have to hit re-load a few times.  This might have something to do with my router or firewall software, don't know for sure.  Works fine when using an ethernet cable connection.
+If I had not already purchased it, I would likely look for a discounted dell with a 15 inch screen.  The lightweight and small are nice attributes but because I will be using it in a mobile mode, I will not have an external monitor available.
+May need to factor in a 100 dollar high-capacity battery (9 hour) into the purchase price if you want to be truly mobile.  The ASUS external DVD drive works great using just one USB plug for power, even with the laptop is running on batteries.  FYI:  the price varies widely for this model because it is being replaced by a slightly more powerful version that comes with Win 7.
+Update: My wireless problem was the router, replaced it with another model and the laptop worked fine.

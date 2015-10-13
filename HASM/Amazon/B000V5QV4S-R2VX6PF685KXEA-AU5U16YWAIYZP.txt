@@ -1,0 +1,73 @@
+ID: B000V5QV4S-R2VX6PF685KXEA-AU5U16YWAIYZP
+Category: DigitalSLRs
+Product: Canon-40D-Digital-28-135mm-Standard
+ReviewerID: AU5U16YWAIYZP
+ReviewerName: Grant Brummett
+Date: March 10, 2008
+Helpful: 13 of 13
+Rating: 5.0
+Title: Upgrading from the Canon Rebel XTi to the Canon 40D
+Content:
+Canon 40D Review
+These are my personal thoughts and feelings from the first days with my new Canon 40D after having had a Canon Rebel XTi for about a year and a half after having taken about 30,000 photos with the Rebel and now about 2,000 with the 40D.  These are only my personal feelings your mileage may vary.
+Pros:
+Favorites menu!
+Auto ISO in all modes
+1/8000th shutter speed and 3200 ISO at last!
+Flash using Canon Speedlite 430EX is right on the money!
+sRaw, save space and small exported JPEG's actually look better!
+Super fast in all aspects: turn on, operation, auto focus, shooting
+Great feel in the hands, fits like a glove, I could shoot all day long!
+Rear LCD screen, better then my old Canon Rebel XTi but could be sharper
+Raw files you gotta love, very good noise control, responsive and colors to lust after
+Auto White balance that actually works pretty good!
+High speed 6.5 fps shooting!  I have yet to hit the limiter when shooting high speed
+With some Canon lenses (17-55 EF-S F/2.8, 24-70 F/2.8 L, 16-35mm F/2.8 L II, 17-40 F4 L, 85mm F/1.2 II L, 135mm F/2 L, 70-200 F/2.8 L, 70-200 F/4, etc. etc) this camera has built in lens Auto Lens Vignetting correction using peripheral Illumination control see Auto Vignetting comments below:
+Cons:
+Power Switch location
+Rear LCD shooting info has to be turned on each time and no auto-off when brought up to face
+Rear LCD is not 100% when checking critical focus, some images that looked sharp on the LCD were not back on the computer
+Camera user settings C1, C2, C3 lose on-the-fly updates when camera goes to sleep
+Neutered auto ISO range only goes up to 800 ISO.
+It fits my hand like a glove; I especially love the rubberized coating around the right grip.
+Where did everything go?  My power switch and screen display.  You better have your owner's manual handy because this is a different camera from the Rebel XTi.
+WOW this camera shoots fast!  It has a precision to it and speed both in focus and number of shots my Rebel just does not have.  Got to buy more CF cards though as they fill fast shooting in Raw at 6.5 FPS and they are bigger then the old Rebel Raw files. 
+I continue to be impressed with the ability of the Canon 40D Raw images.  Not only are they a leap beyond the XTi Rebel in appearance they respond much better to changes in Adobe Raw.  I especially like how responsive the 3200 ISO shots are to the noise filters.  ISO 3200 once I process it through CS3 Raw noise reduction actually looks like my Rebel looked at 400 ISO!.  And the colors man oh man they are breath taking.
+Speaking of breath taking!  The rear LCD is amazing.  I haven't had to touch the brightness at all which is good because I have a really good idea if the image came out or not.  Not so on Rebel where I had to run the brightness all the way up on the rear LCD and so could not judge if the exposure was correct not to mention it was hard to see the photo itself.  This 40D screen is huge bright and breathtaking.
+And I love the favorites menu.  Set your own deeply buried and needed settings right there.  Like mirror lockup!  Or live view!
+Love the grip that rubber really helps me get a grip!!
+Now for the now so good.  Who the hell decided to put the on off switch down on the bottom middle?  I swear I have reached over with my right thumb by habit a dozen times to turn the camera on and off.
+What the heck?  On the C1, C2, C3 settings if you make any adjustments on the fly and then the camera goes to sleep the settings go away.  Will have to make a short cut under favs to adjust the settings on the fly.
+All in all though I continue to love this camera and after shooting it for a little over a day I picked up the Rebel XTi and it felt like a small unresponsive plastic toy!!!
+I will continue to update this review as I have more time, right now I'm at about 2,000 photos.
+Auto Vignetting peripheral illumination control:
+When shooting using your new 40D Canon has this super sweet Auto Lens Vignetting correction that works with some Canon lenses (17-55 EF-S F/2.8, 24-70 F/2.8 L, 17-40 F4 L, 16-35 F/2.8 L II, 85mm F/1.2 II L, 135mm F/2 L, 70-200 F/2.8 L, 70-200 F/4, etc. etc) both in camera with JPEG's and in RAW using peripheral Illumination control in Canon Digital Photo Professional (DPP). No more vignetting when shooting wide open!!!  When shooting Raw open the file(s) in DPP and click on NR/Lens Lens Aberration Correction / Tune and click on Peripheral illumination. The 40D has already picked up the amount of vignetting based on focusing distance, zoom setting used and F stop from the lens and has saved the information with the Raw file. You can just click on Peripheral illumination and use the suggested amount or you can adjust the amount using the slider if you don't like the amount automatically suggested. If you shot JPEG then you get the auto amount. SWEET!!!
+3-11-2008 Update
+Went out with the Canon 70-200 F/2.8 L lens on servo mode high speed 6.5 fps setting and had a blast.  I tracked cars, planes, birds in flight, this baby just locks on and keeps tracking.  My Rebel would maybe get one or two in focus frames of a bird in flight that was it.  This 40D I can get 10 to 20 all in razor sharp focus before the bird is out of view.  I'm practicing on pigeons around the house so they aren't in view for long.  Can hardly wait to try it out on some bigger birds as it would be a cakewalk.
+3-13-2008 Update
+Flash using Canon Speedlite 430EX is right on the money!  Let's face it, there are times you just have to use flash.  And with my old Canon Rebel XTi it was a chore.  The Rebel's flash metering was almost always off and inconsistent.  What a pleasure to find the flash exposures with the Speedlite 430EX mounted on my Canon 40D to be nailed right on the money every time.
+The 40D continues to delight!
+3-25-2008
+Used the 40D at a wedding this weekend and WOW.  This camera is a leap beyond the Rebel XTi.  The auto white balance actually works pretty good at least with florescent lights.  And the few times I had to use flash it was pretty close to a perfect exposure.  The color depth when using raw is just incredible I am selling my old film cameras.  The client actually  liked my tweaked 40D photos much better then the film ones I shot using ULTRA COLOR 100 Kodak Film.
+4-7-2008 Focus test update.  As a test of auto focus power I tried the Canon 85mm F/1.2 L II Lens (this lens will push your auto focus to the limit even with the USM) with the Canon Rebel XTi and Canon 40D back to back. Talk about over taxing the system! I thought this lens was slow to focus on the 40D. The 40D will focus from minimum distance to infinity in a second or so with this lens (all other USM lens faster then I can even time or think). The Rebel takes what seems like an eternity to focus through the limits with the 85mm F/1.2 L II or well over 2 seconds. The funny part is how unbalanced this combo feels the Rebel XTi is this little camera body hanging off the back of the lens. Still in the end the Rebel does focus and you can use it even though you have less shots in focus then with the 40D.  Even so I'm thinking most people that can afford this lens will be buying at least a 40D or higher.
+5-11-2008 Update
+On a client shoot late yesterday I was reminded just how important the large 3 inch color LCD viewing screen on the back of the 40D is.  Time after time I would show the client photos on it taken with the 40D and Canon 85mm F/1.2 L II lens and they would just drool.  The people along with them were asking for business cards and setting up additional photo shoots.  I am a pro photographer I make 100% of my money from photography so selling additional clients is extremely important.
+5-20-2008 Update
+Under $1000 now for a brand new in the box with warranty Canon 40D!  Common on you shouldn't even be reading this far, you should have already ordered this has to be the bargain of the year.
+At a wedding this weekend I traded out my 40D for my daughters Rebel XTi (my old camera) to take some wider angle shots with the 17mm as I had the 85mm F/1.2 L II  mounted and just wanted to get some quick shots.  Man was I spoiled, you take a shot with the 40D you instantly see the play back.  Now the Rebel XTi seems: Very light and small, slow, slow to respond, slow to play back, viewfinder is narrow and dark and fuzzy.  That makes the 40D a little heavier, faster, fast to respond fast to play back and the viewfinder is wide, bright and sharp by comparison.
+Update 8-22-2008
+Continue to love this camera!  It just continues to rock!!  And now the difference between my Rebel XTi and 40D are far more appartent even then when I first got it.  It's hard to go back to a Rebel after shooting a 40D at 6.5 Frames Per Second!!
+Just a quick note of how much better photos are from this camera when shooting raw if you use Canon's Digital Photo Professional (DPP)that came free with the camera.  A friend of mine recommended I try it and I did a back to back comparison between processing RAW to JPEG using Adobe Photoshop CS3's Adobe Raw and Canon Digital Photo Professional.  There is no comparison!!!  The DPP photos are much clearer and sharper and have better contrast and resolution!!!  The DPP software is a little more crude in the menu dept and feature dept then Adobe Raw.  But the results are worth it.  I challenge you, take some shots with your 40D in RAW and process them using DPP and compare to whatever else you are using.  You will be shocked!!!
+10-03-2008 Update:
+I read a review of the new sRaw format and they suggested using it for low light shots especially when you just want to save the file as a low 72 dpi JPEG for use on the web anyway.  Much to my shock after a lot of comparison photos using a tripod, live view, manual focusing, and manual shutter and F-stop to eliminate variables they are absolutely right!
+sRaw format high ISO (1600 and 3200 iso) photos exported as small 17inch 72dpi JPEG photos look sharper and have less noise then photos taken with the full Raw format!!!
+As a bonus when shooting sRaw the file size is half as big only 8mb vs 16mb on average so you can get a lot more shots on your card.
+01-03-2009 Update:
+I just bought a new Canon 5D Mark II.  I don't use my Canon 40D much anymore.  Mainly when I need the faster frame rate for birds or as a backup camera at weddings.  The 5D Mark II is that much better!
+1-20-2009 Update:
+The way the Canon 85mm F/1.2 II L Lens eats batteries when on my Canon 40D may be a software glitch.  I got notice that firmware update Version 1.1.1 for the Canon 40D fixes a malfunction that in rare occurrence causes a low battery indication to be displayed when using the EF 85mm F1.2L II USM lens. Depending on the battery check timing of the camera, the battery level displayed on the camera's LCD data panel may shows Battery will be exhausted soon or Battery must be recharged, even though the battery capacity is sufficient. 
+I am installing the fix and will see if this causes the early battery dead indication to go away. 
+4-11-2009 Update:
+I almost never use my Canon 40D anymore now that I have my Canon 5D Mark II.  The photos are that much better then the 40D.  I mainly use the 40D as a backup body at weddings and if I need the speed of the 6 frames a second for birds in flight.  The 5D Mark II raw photos respond much better in DPP and allow much better cropping.  Still if I could not afford a 5D Mark II and were on a budget I would be very happy with the 40D as a main camera as it has proven to be a very reliable camera even after thousands of photographs.
+[...].
+[...]

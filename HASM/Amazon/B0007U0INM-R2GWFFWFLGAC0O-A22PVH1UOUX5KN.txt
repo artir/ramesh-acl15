@@ -1,0 +1,16 @@
+ID: B0007U0INM-R2GWFFWFLGAC0O-A22PVH1UOUX5KN
+Category: MP3Players
+Product: Toshiba-Gigabeat-MEG-F40S-Digital-Player
+ReviewerID: A22PVH1UOUX5KN
+ReviewerName: Tempuraki
+Date: July 17, 2006
+Helpful: 4 of 5
+Rating: 4.0
+Title: additional takes
+Content:
+this is a great digital music player, a lot of good and bad things have been covered by other reviews, so I'll just point out a few items that were not mentioned:
+Pros:
+- the optional remote thingy that's included.  a very convinient piece of add-on that should come standard in all music players.
+Cons:
+- album art is supported only using Toshiba's gigabeat room software, I have yet to find a way to make the album cover show up in the player using other woftwares to transfer.
+- unicode doesn't display right all the time.  I have a lot of songs with Chinese titles, some words (I would say close to 5%) failed to convert, and only show up as "?" on screen.

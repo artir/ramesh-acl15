@@ -1,0 +1,11 @@
+ID: B0015YUMEY-R276SCAZT1JCWV-AXFTL2ID9Y2RY
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: AXFTL2ID9Y2RY
+ReviewerName: Curtis
+Date: December 8, 2007
+Helpful: 4 of 5
+Rating: 5.0
+Title: Best Laptop I've Ever Owned
+Content:
+This is the best computer I have ever owned.  Before purchasing this laptop I was concerned about migrating my photos, email, documents etc. from my old Windows machine, but to my surprise, after using the easy setup wizard that automatically found my Linksys wireless router and my home network, I was able to access my old PC and copy all my files over the network. After the easy setup I found I really enjoy using the Leopard OS.  It is a very intuitive and user friendly interface.  The laptop itself is well designed and very responsive. The keyboard is without a doubt the best laptop keyboard I have ever used.

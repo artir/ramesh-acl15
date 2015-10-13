@@ -1,0 +1,14 @@
+ID: B00006JT7T-R1O34C9069JPWV-A2UL3V2AP1L5LY
+Category: SpaceHeaters
+Product: Bionaire-BCH4138-U-Digital-Ceramic-Galileo
+ReviewerID: A2UL3V2AP1L5LY
+ReviewerName: C. Koch "Techguy"
+Date: December 1, 2006
+Helpful: 1 of 1
+Rating: 2.0
+Title: Disappointing in several ways
+Content:
+If you're counting on the thermostat properties of "Galileo", this is going to let you down.  When "Galileo" is sitting in its little cradle on top of the heater, it gets warmed about 7 degrees above room temp by the electronics that are on inside the heater, so it's highly inaccurate.  You cannot move the "Galileo" remote very far from the heater before communications between Galileo and the heater become unreliable.  It appears the remote only sends out one command to turn the heater on or off.  If that command doesn't make it, the heater either stays off or stays on when it shouldn't.  Don't use this for any temperature critical applications.
+  As a stand alone heater not using Galileo as a thermostat, well, it produces heat.  I haven't seen the overtemp shutoff others seem to have had problems with, but I haven't used it a lot.
+  This is my second Bionaire product, and both have a lot more fan noise than what I think they should.  I think this heater should be a lot quieter than it is because it really doesn't move that much air.
+  I think this is my last Bionaire product.  They're just not well designed.

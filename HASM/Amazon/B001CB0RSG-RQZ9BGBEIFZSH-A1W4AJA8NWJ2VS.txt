@@ -1,0 +1,38 @@
+ID: B001CB0RSG-RQZ9BGBEIFZSH-A1W4AJA8NWJ2VS
+Category: MP3Players
+Product: Creative-Player-Wireless-Built-Speaker
+ReviewerID: A1W4AJA8NWJ2VS
+ReviewerName: abbcccddddd
+Date: December 27, 2008
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great MP3 player with some flaws.
+Content:
+Appearance: 
+Sleek and simple. The front is a very nice black consumed mostly by a gorgeous screen. Too bad the back and edges are a plastic that scratches very easily. The player is very light and fits nicely in the hand.
+----------
+Audio: 
+Simply put, this is the best sounding MP3 player I have used (compared to Ipod, Insignia, Zen: M, and even Sony players).  The superior quality audio is what makes this MP3 player my favorite on the market.
+----------
+X-Fi: 
+This player has two X-Fi sound enhancement features crystallization (which is meant to enhance music to match CD quality) and expand (which is meant to create a surround sound effect when using headphones).
+I personally felt that the crystallization feature did an excellent job at bringing out the instrumentals in my music without taking away from the lead vocals.  However, the biggest improvements are noticeable on tracks with low bit rates (most of my music is 64kbs WMA). On tracks with higher bit rates (128kbs WMA / 256 kbs MP3 and up) there is a minimal improvement at best from the crystallization feature. 
+The expand feature works by increasing volume in one ear while decreasing volume in the other (for example - I`m making up these percentages - if drums are supposed to be at 100% volume in the left ear and 0% volume in the right ear, this feature will adjust the drums to 90% volume in the left ear and 25% volume in the right ear). I feel that the expand distorts the audio.
+Thus, I would recommend keeping the expand feature off, and the crystallization feature on and even at max if used with tracks at low bit rates. 
+Nonetheless, I feel that the quality of sound on this MP3 player is unbeatable with or without the X-fi feature turned on. 
+----------
+Video: 
+The 2.5" screen is bright and the colors are brilliant, making this seemingly a perfect video player. However, with the Zen X-fi it is not as simple as it was with the Zen Vision: M. Almost all DIVX, XVID, and WMV files that are supposedly supported by this player would experience errors after transferring. Videos would simply not play at all, play with audio and video out of sync, or - really weird - play perfectly until interrupted to fast forward, rewind, or pause, then the audio would start over from the beginning while the video play from the appropriate place or vice versa. 
+ 
+As of the October firmware update, my issues have not been fixed. In fact, files that would once play audio and video out of sync are now experiencing the really weird error I mentioned.
+Fortunately this video issue is generally overcome-able. I found the best thing to do is to convert all videos using Windows Media Player first (which will convert to the most compatible format and then transfer to the Zen X-fi). Unfortunately, this process is long, and although it does generate a file that provides smooth playback for most videos, it is unsuccessful for maybe 15% videos (same errors mentioned above).
+----------
+The earphones:
+The included earphones sound really great, noticeably better then my Sony MDR-EX51LP fonotopia earphones. However, they have a big flaw in terms of durability associated with the flexibility of the wire immediately following the 3.5mm plug (I am already on my second pair). I WOULD SERIOUSLY RECOMMEND wrapping electrical tape around about an inch of the cord starting immediately after the 3.5mm plug, to prevent any problems.
+----------
+Extras:
+The good: FM radio with 32 presets with decent reception, useful microphone despite not-so-good recording quality, surprisingly loud and decent sounding speaker (which I have used a lot more then I ever expected to). 
+The bad: The wi-fi is battery consuming and has very few features. Files on SD memory cards are in separate folders from those on the players memory.
+----------
+Summary: 
+The Zen X-fi is a good looking, incredible sounding MP3 player. Despite a few notable flaws, I would highly recommend it.

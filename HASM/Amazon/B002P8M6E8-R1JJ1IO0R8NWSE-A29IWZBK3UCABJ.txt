@@ -1,0 +1,23 @@
+ID: B002P8M6E8-R1JJ1IO0R8NWSE-A29IWZBK3UCABJ
+Category: Laptops
+Product: Acer-AS5542-5462-15-6-Inch-Windows-Premium
+ReviewerID: A29IWZBK3UCABJ
+ReviewerName: A. Cherian
+Date: December 21, 2009
+Helpful: 20 of 20
+Rating: 5.0
+Title: Amazing specs for this price
+Content:
+I spent over a month researching and looking for a great laptop in the $400-600 range on many different online retail sites such as Newegg, TigerDirect, and this Acer notebook on Amazon stood out as the best deal. I haven't seen anything even come close to its specs for the price that Amazon has it. Sure, there are thousands of Intel Pentium T4300 and even Intel Core2Duo laptops to choose from in this price range, but almost all of them have the following limitations: 1) Those processors do not have hardware virtualization as the processor in this laptop has and 2)Most have Intel's integrated graphics chip (4500MHD) which pales in comparison to the ATI Radeon HD 4200 integrated graphics chip in this laptop. 
+This entire platform (AMD Tigris) is a recently released new platform for AMD and its nice to see many retailers start offering it. The AMD Turion II chip in this laptop is just recently released (Sept. 10, 2009) and uses the latest manufacturing technology and specs. The ATI Radeon graphics in this laptop is more than enough for mainstream use and is even capable of light-medium gaming. Intel may dominate the high end pc's now but it cannot match the bang-for-the-dollar value of AMD's offerings at the low-midrange price ranges. What most consumers don't realize is that Intel may sometimes offer a better or faster processor but skimp on the video capabilities on most laptops in this price range whereas AMD offers a good processor AND a good video chip on their offerings in this price range. 
+As mentioned, all new AMD processors have hardware virtualization built in. I know you need to have Windows 7 Pro or Ultimate to use WinXP mode with hardware virtualization but its nice to know that the chip has it if you ever upgrade your windows version or go to a Linux version that uses hardware virtualization. It's always easier to upgrade your software to include virtualization than to upgrade your laptop processor (impossible or cost-prohibitive nowadays). Best to have it in your processor now instead of wishing you had it when you upgrade your software later. Acer even does a nice job of turning the hardware virtualization on by default in the BIOS settings of their laptop models that have such capability so that it is ready to use when you need it. 
+Pros: 
+- Amazing Specs for the price. 
+- The laptop is fast, smooth, and wonderful to use. Windows 7 is a huge improvement and very responsive. 
+- The LED backlit screen is very clear and vibrant. 
+- I like the keyboard which uses raised keys and feels nice to type on without the keys being too small. 
+- Multi-touch trackpad. The trackpad is unique in that it offers multi-touch and gestures such as pinch zoom, flick scrolling, etc sort of like an iPod or iPhone. It's a feature you don't see commonly in this price range yet. 
+Cons: 
+- My only major complaint would be that the speakers could have been better. The sound sometimes distorts at extreme volume. But I guess they are better than average speakers for this price range. The laptops I am comparing these speakers too are in laptops that cost twice to three times as much.
+- I wish they included Blu-ray since this system is more than capable of hardware Blu-ray playback. I know Acer has other configurations of this same model that they sell overseas which include a Blu-ray drive so it may come to the states in due time. 
+All in all, this laptop is a great deal and so far this configuration is only found on Amazon.com in the US. Acer has really done a good job here for a value system that can compete on specs with laptops costing hundreds more. You will not be disappointed with this laptop, especially for the price.

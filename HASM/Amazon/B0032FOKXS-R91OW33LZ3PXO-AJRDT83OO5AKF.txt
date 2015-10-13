@@ -1,0 +1,25 @@
+ID: B0032FOKXS-R91OW33LZ3PXO-AJRDT83OO5AKF
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: AJRDT83OO5AKF
+ReviewerName: Daniel S. Kim "technology enthusiast"
+Date: December 7, 2009
+Helpful: 30 of 31
+Rating: 4.0
+Title: Another ASUS hit: Thin and Light without sacrifice
+Content:
+Over the past 3 years I've owned a few ASUS laptops, and have not been disappointed by a single one thus far.  Not only are their products great for the price, but ASUS has always given me top of the line customer service which definitely matters with laptops compared to a desktop PC which are somewhat easier to self-service. 
+The UL30VT in my opinion is the perfect all around package for any type of user.  Whether you may be a business user or a multimedia-phile, all the bases are covered with the UL30VT while offering advanced graphics power in a thin and light package that is easy to haul around.  
+KEYBOARD 10/10
+I instantly fell in love with the keyboard on this unit.  Being a 13.3 inch laptop with a widescreen display, the keyboard is nice and spacious, giving just the right amount of tactile feedback for my personal preferences.  The keys are a bit louder than I would like them to be, but the overall experience of typing on this unit is fantastic.  The chiclet keys, spacious layout, and overall comfort with the large and not-too-hot palm rest make it an absolute hit.  Only thing that this unit would need is backlit keys to make it better.
+SCREEN 6/10
+With the release of LED backlight technology in LCD screens, you would think that the display on most of these units would pop out at you, but not so in this case.  Over a few hours the screen doesn't necessarily burden your eyes with extra strain, but the viewing angles from top to bottom are horrid at best.  Left to right angles are more forgiving, offering an approximate viewing angle of about 160 degrees.  Quality of high motion video on the screen is up to par, but overall the contrast, color saturation, and missed marks on blacks make it quite uninviting at times. 
+GRAPHICS POWER 8/10
+For such a sleek and compact unit at the listing price at Amazon for 799 US, you can't really beat it.  With Turbo33 Mode on and utilizing the G210M, i have been able to play single and multi player Call of Duty 4: Modern Warfare without a hitch at its native resolution.  Granted i did do some extra modifications in the BIOS of the laptop (albeit not much), it definitely exceeded my expectations for what i paid.  Flash and Silverlight video are almost flawless with some extremely minor hiccups, but overall the streaming and native multimedia experience on this laptop is superb. 
+Hooking the laptop HDMI to a 1080p 50" LCD is impressive nonetheless, and watching any sort of content makes it a joy to have.  As usual, Fn functions work flawlessly on this laptop as well making it a great Home Theater option for those people without a dedicated pc/nettop with their setup.
+BATTERY LIFE AND HEAT DISPERSEMENT 7/10
+So far utilizing integrated graphics and the battery saving profile of the packaged ASUS software, I've been able to squeeze out about 8 hours max with constant media streaming and wifi surfing.  To be honest, this was a little higher than I expected with the lower included 4400mah battery and the advertised 12 hour longevity. In real world usage, I would say that its safe to assume you'll get around 7 - 8 hours with normal usage.  Gaming on another hand is a battery drainer as usual, leaving me topped out at 3 hours playing Call of Duty over wifi. I have not gotten a chance to try DVD or Bluray drainage, but I would suspect it would last you around 4 - 5 hours max.
+Of course like any CULV, this unit doesn't require the use of loud fans, as well as not being as hot as other Core 2's and Quads.  Heat on the palmrest never even bothered me as well as having the laptop on my lap for casual surfing, but with the discrete nvidia graphics, things tend to get a little worse, but plenty bearable.
+OVERALL 8/10
+I don't use any kind of system with my ratings, its just what my personal connotations of each aspect of the device give me.  I would highly recommend this laptop to anybody, whether you be a highly mobile road warrior, or a lecture bearing college student.  With the spacious 500GB laptop, it should serve any purpose well and then some.  Now granted the HDD is partitioned into two sections: 116 for the Operating system, and 334 for data, so this is something to be aware of if you plan on loading a lot of hard disk hogging software. 
+In my opinion, this unit should have an option with the higher capacity battery.  I would personally consider this a hit device and eliminate the other UL30 models as having switchable graphics is definitely a must for the small price difference.   If you're arguing between the new VT model and other UL30 series models, the small price jump is definitely worth it even if you don't plan on gaming or graphics developing.  Having the extra oomph just in case never hurts, as I'm sure some multimedia that you may want to watch in the future will definitely benefit you, even if it is a little.

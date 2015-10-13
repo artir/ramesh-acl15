@@ -1,0 +1,14 @@
+ID: B0000CFW8W-R1D1BR1IWG30MU-AKSU40OSS4P2O
+Category: Laptops
+Product: Pavilion-zd7010us-Laptop-2-66-GHz-Pentium
+ReviewerID: AKSU40OSS4P2O
+ReviewerName: Bruce Pringle
+Date: June 27, 2005
+Helpful: 3 of 3
+Rating: 1.0
+Title: Year down the line and its a great door stop
+Content:
+This is a great laptop, works like a desktop, a tad loud but bearable. Unfortunately the power jack has come lose and it means I can't power it on anymore. Read more about this problem at: http://www.howtofixcomputers.com/bb/ftopic73146-0-asc-0.html
+or http://broken.typepad.com/b/2004/03/compaq_laptop_p.html
+From reading forums this problem goes back to 2002 and affects other makes of latop where the DC jack design doesn't take in enough of the power cable leaving it open to user abuse. When I say abuse I don't mean chucking it around, I think catching it a few times is enough to dislodge it from the PCB - sooner or later this will result in a blown motherboard (from what I've read online).
+I've not used other HP products but I would advise anybody spending £1000 plus on any laptop to search online for any potential design issues as well as take out an extended cover.

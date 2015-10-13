@@ -1,0 +1,29 @@
+ID: B002QQ1WM6-R23UGRCQ633T7N-A3BB8FN9PFR5DQ
+Category: Laptops
+Product: Gateway-NV7802u-17-3-Inch-Black-Laptop
+ReviewerID: A3BB8FN9PFR5DQ
+ReviewerName: Dr. TwoSquirrels "Benjamin"
+Date: January 4, 2010
+Helpful: 6 of 6
+Rating: 5.0
+Title: Pleasantly Suprised!
+Content:
+I just purchased one of these at BB for $599.0 and I must say I am pleasantly suprised.  Many of the reviews I read online (the majority here at Amazon or at the BB site) were spot on.  I agonized for several days between this laptop and the Sony VAIO VGN-FW510/F, which you can find here on amazon for ~ 780.  This included several trips to the BB brick and mortar to look at both machines.  In the end, my budget limitations won out - I didn't want to spend the extra 200.  I thought for sure I would have some regrets (never buy cheap, someone once told me), but none in this case.   I can't stop looking at the damn thing thinking that I got a good deal.
+Some initial thoughts:
+Screen size and quality - the screen is of very good quality, much better than my existing HP DV2748se laptop; it is bright and clear whereas my HP always looks washed out. It's not an IPS panel, so the usual caveats about viewing angles apply.  The screen is also of the right resolution - 1600 x 900 on 17.3 diagonal inches.  Text / fonts are of good size (not tiny as you get with some high resolution laptop screens, e.g., 1920 x 1200 on a 15.6" screen)- it looks like my desktop at work - just not as much screen real estate.  
+Build quality - acceptable; it's not as nice as a Macbook, but it definitely feels solid.  The screen however, does flex a bit but no more so than my other HP laptop.  The screen hinge is hefty and solid; on my HP the screen wiggles back and forth a few degrees (i.e., it feels loose) - not so with this machine.  
+Speakers - i read some of the reviews that stated the speakers sucked...they aren't that bad:  very little bass and such but more than adequate for watching TV or casually listening to music.  I don't have a TV, so I'm on either on Hulu or streaming some radio station or [...].  
+Keyboard - one of the few livable minuses.  The keys are flush with very little separation between them, so it is easy to hit the wrong key and feeling around with your fingers for a key is difficult.  It takes some getting used to.  I don't think the extended keyboard is very useful.
+Wireless - no issues, works as advertised, I was up and running in minutes and reception very good.  No blue tooth however, but that is not a minus for me.
+Windows 7 - a pleasant surprise!  It is slick, smooth, and is what Vista should have been.  BTW, I also run Linux; when I went to the store I took in an Ubuntu 9.10 boot CD and loaded it up (much to the consternation of the salesman).  It seemed to find all the hardware, to include the wireless card.
+Operating Temperature - this laptop runs quiet and cool.  My HP has this annoying feature of the cooling fan cycling on and off in a rapid fashion, i.e., it will ramp up to max rpms and the quickly turn back off, not to mention it get's very hot in my lap.  Not so with this machine...i can hardly hear the fan when it is on, which doesn't seem to be very often.  I assume this is partly due to the larger case size which yields a better airflow through the internal components.
+Gateway Tech support - many reviewers commented on this (or the lack thereof).  It appears to be poor - I went to the gateway web site and perused the support section of the site.  I was unable to locate a number if you want to call a real person; they do offer tech support for exorbitant fees on a per minute basis; so between the reviews I have read and what I found on the site leads me to believe if this puppy breaks I will be in trouble.  
+Memory Limitation - this machine maxes out at 4GB :-(  This was one of the selling points for the Sony, which can go up to 8GB.  So this might be an issue with future proofing your purchase.
+No eSata or firewire port :-(  However, it does have HDMI and 4 x USB.
+Overall, I am very pleased thus far with my purchase and definitely feel like I got a good deal, especially for $599.00
+++++ UPDATE ++++
+This is an update as of 2/05/2010.  I've had the machine for over a month now and I am still more than satisfied.  Just a few more comments based on my experience:
+Battery life appears good.  I usually average about three hours - not bad for a six cell battery - and this usually includes playing some video or listening to music.   
+HDMI works extremely well.  In some cases on a laptop, the HDMI port is not true HDMI, i.e., you only get video and are still left to run a separate audio output to your television.  I'm happy to report this is not the case; I had the opportunity to hook up the laptop to a friends Samsung 48" HD television and it works as advertised; you only need a single HDMI cable to carry both audio and video.  The picture looked excellent and was at the full HD resolution of 1920 x 1080.
+Recovery Disks.  None are included...you have to burn your own onto 3 x DVDs using the software already installed on your machine.  
+The touchpad.  The single bar along the bottom is a bit hard to press.  Like a Mac touchpad, you depress either the left or right extreme of the bar.  With my earlier laptop, which had the normal two-button layout, the buttons were relatively easy to press so that is what I used all the time.  I had forgotten (and had to relearn) that instead of pressing the left button you can simply double tap the touchpad :-)  So this is what I used now and it works quite nicely.  You can also set up numerous other touchpad "gestures" ala what is used on the iPhone so you don't wind up using the touchpad bar.  For example, I've configure it to mimic the right mouse button if you tap the upper right corner of the touchpad (all four corners are configurable).  It doesn't compensate 100% for having the bar a bit hard on the fingers, but it is more than workable.

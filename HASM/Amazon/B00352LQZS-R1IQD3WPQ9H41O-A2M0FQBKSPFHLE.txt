@@ -1,0 +1,12 @@
+ID: B00352LQZS-R1IQD3WPQ9H41O-A2M0FQBKSPFHLE
+Category: Laptops
+Product: N61JQ-X1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A2M0FQBKSPFHLE
+ReviewerName: Gavin Stanton "Jamblay"
+Date: March 20, 2010
+Helpful: 1 of 2
+Rating: 5.0
+Title: Excellent laptop
+Content:
+Some people are blind (it IS brown. Not black. You have to hold it it bright light to see this however which is elegant in my opinion) and others are just plain stupid. This laptop is hands down awesome. It does run hot, but the i7 720qm thermal specification is 100c!!! Don't worry about it running in the mid 50's to 60's range. Just make sure you turn the power cord to the back or it sort of obstructs the fans; which are dead silent. I will be buying a cooler pad for this. It has a 2-3 hour battery life depending on your battery settings. But if you are buying this machine, you are aware that the components you're buying are not low power, economy parts. They are parts designed for making your life simple and easy with regard to your laptop. And they are very successful. Windows boots to idle extremely fast and NOTHING I have done so far has caused so much as a hiccup. Streaming Pandora, running UTorrent, up to 15 Firefox tabs running, pulling viedo files off my network and burning a dvd simultaneously? The 4 physical and 4 logical cores barely move. Feel free to check your email in the meantime. I would recommend reinstalling windows 7 with the disc to a single drive. You will have to reinstall the drivers and whatnot, but this is a very simple task. It eliminates the bloatware others have complained about. By the way, the bloatware didn't slow this thing down a hair the first time I booted her up. The touchpad is as good and better than any other. I did buy the wireless microsoft mouse and I also recommend it. Wireless N shows 150 mb/s for me and I get full signal with a netgear wndr3300 throughout my house.
+The ONLY problem I could imagine, unless you're a tool and think not having xp is a problem, is that the screen can be glossy. Doesn't bother me though. Otherwise, plug the HDMI into a plasma 50 inch or something and watch the 5730 ati really tear it up! Pull the trigger.... Buy it.

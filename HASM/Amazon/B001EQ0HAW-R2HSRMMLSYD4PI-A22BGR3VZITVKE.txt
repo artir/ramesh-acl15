@@ -1,0 +1,11 @@
+ID: B001EQ0HAW-R2HSRMMLSYD4PI-A22BGR3VZITVKE
+Category: MP3Players
+Product: Zune-120-Video-Player-Black
+ReviewerID: A22BGR3VZITVKE
+ReviewerName: Hordus "Hordus"
+Date: January 22, 2010
+Helpful: 
+Rating: 1.0
+Title: Battery Life Not Correctly Displayed
+Content:
+I bought this device from an upgrade on 80GB Zune.  I don't know if I had the bad luck, but the battery was either dead, or the battery indicator was wrong.  When it showed actually I had 3/4 of the battery, the player would actually would go dead because of the battery.  So, either there is something wrong with the software battery indicator or the battery itself.  Therefore, I am returning it.

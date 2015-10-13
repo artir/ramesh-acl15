@@ -1,0 +1,13 @@
+ID: B002P3KMSA-RYM5XPMHG1EEO-A1Q4EJDS04Z4MW
+Category: Laptops
+Product: K70IJ-C1-17-3-Inch-Versatile-Entertainment-Windows
+ReviewerID: A1Q4EJDS04Z4MW
+ReviewerName: Lawrence
+Date: January 11, 2010
+Helpful: 3 of 5
+Rating: 4.0
+Title: Nice laptop for the price
+Content:
+Got this laptop from amazon almost a month ago (with a lower price than the current one) and so far so good.  Turned it on when I first received it and let the ASUS ran the initial setup (that took a while).  Then, off Windows 7 and on Ubuntu 9.10 (64bit).  Everything is working fine except the webcam is upside down (one star off) so I needed to place a patch to reverse the image back to right side up.  Also got the Logitech VX Nano cordless mouse to pair it with this laptop.
+If you're looking for a nice laptop and don't care much if it doesn't come with an nVidia graphic card, then this is a nice laptop.  Fast and bright.  Will receive a long HDMI cable (also from amazon) in the next few days to connect it to my tv.  Don't think that would be a problem to get it to work.
+Now, I just need to get a wireless printer (to replace the old HP 712C) so I can print from this laptop anywhere in the house.

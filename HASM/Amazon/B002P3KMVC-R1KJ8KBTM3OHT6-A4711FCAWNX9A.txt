@@ -1,0 +1,16 @@
+ID: B002P3KMVC-R1KJ8KBTM3OHT6-A4711FCAWNX9A
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A4711FCAWNX9A
+ReviewerName: Dave the Love Enforcer
+Date: November 4, 2009
+Helpful: 23 of 23
+Rating: 5.0
+Title: I'm very pleased with my UL30A-X5!
+Content:
+This little laptop is a wonder. It's a beautiful piece of hardware, runs very quick, multitasks great, is dead silent, and I'm getting 10-12 hours of battery life on stock configuration.
+I've never seen anything like this; you just keep using it and using it and using it. Even when I've got every MS Office program running at once + a bunch of Firefox tabs + iTunes playing music, I still get 6-7 hours.
+I was pleasantly surprised how little bloatware came with it. The only annoying piece of software I really needed to uninstall was some antivirus program. MS Office Home/Student came preinstalled on a free trial, but I was going to use that anyway so they saved me the installation.
+Windows 7 runs great on this laptop. Power management and networking features work beautifully. The great sleep/wake functionality in Windows 7 makes startup time largely irrelevant, but even when you do have to start up from scratch it's nice and speedy. There are lots of nice little touches to this machine that let you know Asus is a really class act. Things like attractive on-screen displays for volume and brightness adjustment for example.
+My only nitpick is that the trackpad is a little jumpy. It's a little hard to land the cursor onto some of the smaller buttons, like scrollbar arrows. This is probably a driver issue, so it likely will be fixed soon enough. The keyboard is very spacious and pleasant to type on.
+Overall I'm extremely satisfied with my UL30A-X5.

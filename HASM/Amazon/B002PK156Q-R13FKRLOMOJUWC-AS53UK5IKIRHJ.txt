@@ -1,0 +1,87 @@
+ID: B002PK156Q-R13FKRLOMOJUWC-AS53UK5IKIRHJ
+Category: Laptops
+Product: Lenovo-G550-15-6-Inch-Black-Laptop
+ReviewerID: AS53UK5IKIRHJ
+ReviewerName: Suresh Subramaniam
+Date: December 23, 2009
+Helpful: 3 of 6
+Rating: 1.0
+Title: Lenovo - avoid it
+Content:
+My purchase from Lenovo left a bitter taste in my mouth.  I purchased a Lenovo G550 in 
+November 2009.  I was looking for a basic laptop for my daughter who only browses, chats and 
+does her homework on the computer.  I did not really need all the multi-media and high end 
+graphics so touted by all computer sellers.  My search narrowed to Dell and Lenovo.  I 
+already had a Dell and it was working fine after 3 years. I did some research and talked to 
+some friends and some of them recommended Lenovo.  My company provides Lenovo laptops for 
+its employees to use.  I normally find that at least one of my team members have to go the 
+technical support to repair their laptops every week and I dont have a very large team.  In 
+spite of all this adverse information regarding Lenovo quality, I still took the plunge and 
+ordered a G550.  The deal was good at $449.  
+One of the first things that gave me a pause was that Lenovo advertised the laptop as 
+"Intel® Dual-Core Processor" leaving out the word "Pentium" (they have corrected this hence, 
+maybe due to feedback from customers).  I thought in the beginning that it was a Intel Core 
+2 Duo processor and was delighted to get one at this price.  Later after some more research 
+it turned out to a "Pentium' processor which is inferior to Core 2 Duo.  Some blame should 
+also go to Intel for this similar naming, but other computer sellers include the word 
+"Pentium".  
+I ordered it and they shipped it (Customer Number: 4969111, Order: 2E1LJR).  It took about 
+15 days to arrive which was normal as per the lead time published on their site.  But, while 
+tracking the package, I found that the laptop was shipped from China, and passed through 
+Korea and Japan before reaching Alaska and I was wondering how Lenovo could afford to ship 
+an individual package from China to US and still be competitive.
+The laptop arrived and we opened and installed it.  An irritating setup feature was the 
+numerous preloaded advertisements in the laptop asking you to subscribe to some service or 
+the other.  It was like doing an online survery.
+I liked the face recognition feature.  The laptop was solid enough, a little heavy and bulky 
+but I had known that.  After 2 days my daughter reported that the laptop was not shutting 
+down.  When you try to shut it down, it goes to the One Key Rescue Screen.  When you try to 
+exit the One Key Rescue, it gives you two options - either you can reboot or shutdown.  If 
+you choose Reboot it would restart again.  If you choose Shutdown, it would go off and 
+restart again and go back to the One Key Rescue screen.  You are stuck in an infinite loop.  
+I called Technical Support and the nightmare started.  I had to hold for more than 30 
+minutes to speak to a Technical Support person.  I explained the problem to her.  After a 
+pause and some background conversation she again asked me to repeat the problem.  Again she 
+went off and there was some background converation.  I could hear a male voice and some 
+giggling in the background.  She came on again and asked me repeat the problem.  By this 
+time I was mad and told her that I had repeated it twice before and was she not taking 
+notes? I repeated the problem and she was attentive this time.  
+She put me through all the steps of getting the order number, serial number and trying to 
+troubleshoot the problem like taking out the battery and reinstalling it and so on but no 
+avail.  Then she gave me a case number (Case # wn147498)  and told me to call Sales and give 
+the case number and they will help me.  I told her that if I called again I would have to 
+hold for another 30 minutes, but she said that she cannot transfer me and I would have to 
+call the 800 number again.
+So the next day I called the number again and after a hold of 40 minutes I got Sales.  I 
+gave them the case number and the customer support person said that she wanted the Order 
+number and not the case number (which was in contradiction to what Tech support said).  I 
+told that I had called tech support and I had a case number but she was adamant that she 
+wanted the order number.  I told her to hold on so that I could get the order number from 
+the box, and she disconnected the call.  By then I was again mad.  
+I called again next day and choose the option for Returns thinking that it could be easier.  
+A recorded voice said that since they had 'unexpected high call volumes' the hold would be 
+more than 30 minutes and the call was disconnected.  I persisted and called again this time 
+choosing the 'Sales'option.  This time there was no recorded message.  It was clear that 
+they wanted to discourage returns and only wanted to talk to people who were trying to buy.  
+After a hold of over 40 minutes I got a customer support person.  I explained the problem to 
+him. He went through all the normal routine of how sorry he was that I had this problem and 
+asked me to hold on.  He conferenced in a technical support person who seemed to be Chinese, 
+from the accent.  I again explained my problem to this person and he asked me if I had done 
+the steps of taking out the battery, etc and I said yes.  Then he announced that I would 
+have to return the laptop and Lenovo will replace it.  I asked him if I had the option of 
+returning it for a refund and he said no.  The only option was replacement.
+I was fuming again by this time and asked him why refund was not an option.  He just 
+repeated that I could not get a refund.  This made up my mind.  Till now, although I had a 
+rough time with their customer service, I was willing to give Lenovo the benefit of doubt 
+and had only wanted a replacement.  When the technical support guy said that refund was not 
+an option, then I decided that I dont want a replacement and wanted no association with this 
+company.  
+When the customer support person detected that I was getting angry he broke in and told the 
+technical support guy to can it and told him that he will handle it.  Then the customer 
+support guy told me that I could return it and get a refund if I wanted it.  I said yes and 
+he gave me a RMA number.  He also sent me an email providing the details.  I think this 
+person repaired some of the damage his company's reputation had suffered in my eyes.  
+After that it was smooth.  I sent the laptop back, they gave me the refund.  I was half 
+afraid that they would find some excuse not to refund the amount fully but it did not 
+happen.  
+I bought a Dell the next day.

@@ -1,0 +1,24 @@
+ID: B0029U151M-R3W4P60PT80L45-A244FOK5I5WFHD
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A244FOK5I5WFHD
+ReviewerName: Alexander Georgiev
+Date: July 3, 2009
+Helpful: 39 of 40
+Rating: 5.0
+Title: Acer Timeline -- Just the right size and performance for a casual user
+Content:
+I have been using the Acer Timeline (14 inch, Aspire 4810TZ-4011) since yesterday evening and so far so good. Here are my first impressions:
+1. The delivery was quick and packaging was good.
+2. The looks of the laptop are fantastic. Love the isolation-type keyboard. The screen hinges could have been more solid but for a lightweight machine appear ok. 
+3. The eject button for the CD, various ports, the card reader, are all very suitably positioned.
+4. The colours of the screen are beautiful. There are setup options to adjust those to taste, but I did not need to use them.
+5. The laptop was easy to set up. I loaded the battery for about an hour before starting, perhaps an overkill, and was rewarded with a blue light coming from beneath the touchpad.
+6. Setting up Vista for the first time was much quicker than my last XP setup on a netbook. Feels natural so far.
+7. Soon after startup I was prompted to create recovery disks, and made two DVDs with the system and one with software.
+8. There is (was) a lot of preloaded software. I spent a good deal of time finding out what it does (on Google) and cleaning most of it up.
+9. People who have complained from performance issues maybe should take care to remove the redundant backup software (two or three of those pre-installed?!), the trial antivirus and other FUD nonsense.
+10. I registerted for a FREE copy of Windows 7 for Timeline owners, to be shipped in October (woot!).
+11. Set up Skype (after combating for a while with the firewall settings of Vista), and made a call -- the sound is good, the mic is well positioned, the camera works fine, even better after peeling off the protective plastic sheet :)
+12. Tested a youtube video in HD and it did not play smooth, which was a disappointment.
+Comparing this to my 4y old FS, the Acer Timeline feels about as solid, a lot more silent, cooler, lighter by more than 2 pounds, with 6 times the RAM, 4 times the battery time, and a newer processor -- clearly an upgrade in every aspect.

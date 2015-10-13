@@ -1,0 +1,19 @@
+ID: B001MS6NLY-RG4EMZQTS0QVF-A3MTF5TOQ0D89V
+Category: Laptops
+Product: Sony-VGN-AW220J-18-4-Inch-Processor-Blu-ray
+ReviewerID: A3MTF5TOQ0D89V
+ReviewerName: Bill Meng
+Date: June 18, 2009
+Helpful: 2 of 3
+Rating: 4.0
+Title: All good but Vista 64bit sucks
+Content:
+Pros:
+Great display
+Full size keyboard
+Cons:
+Vista 64bit.  Many programs don't work with 64bit.  You have to buy them again for 64bit or they're not even available.
+No drivers for XP, so you won't be able to us XP.
+Battery life is short, and the power adapter is hot.
+Update:
+Vista 64bit really sucks.  Lot of trouble with IE 7.  Then upgraded to IE8.  Still problem.  Freeze on many websites.  I really want to use XP, but Sony doesn't have drivers for XP, not even Vista 32bit.

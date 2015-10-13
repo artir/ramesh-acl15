@@ -1,0 +1,26 @@
+java -cp "./lib/*" meka.classifiers.multilabel.BR -x 10 -R -t data/level3/mergedlevel3-targetfirst.arff -threshold PCutL -W weka.classifiers.bayes.NaiveBayes -f output.txt -verbosity 10
+
+java -cp "./lib/*" meka.classifiers.multilabel.meta.EnsembleML -x 10 -R -t data/level3/mergedlevel3-targetfirst.arff -threshold PCutL -W meka.classifiers.multilabel.PS -f output.txt -verbosity 10
+
+java -cp "./lib/*" meka.classifiers.multilabel.MULAN -x 10 -R -t data/level3/mergedlevel3-targetfirst.arff -verbosity 5 -S RAkEL2 -W weka.classifiers.trees.J48 -f output.txt
+
+java meka.classifiers.multilabel.meta.BaggingML -I 50 -P 100 -x 10 -R -t data/Enron.arff -W meka.classifiers.multilabel.CC -W weka.classifiers.functions.SMO -f output.txt
+
+java -cp "./lib/*" meka.classifiers.multilabel.RAkELd -P 0 -N 0 -x 10 -R -t data/level3/test-branch.arff -threshold PCutL -W weka.classifiers.trees.J48 -M 2 -k 3 -f output.txt -verbosity 10
+
+java -Xmx1024m -cp "./lib/*" meka.classifiers.multilabel.RAkELd -P 0 -N 0 -x 10 -R -t data/level3/mergedlevel3-targetfirst.arff -threshold PCutL -W weka.classifiers.bayes.BayesNet -M 10 -k 3 -f output.txt -verbosity 10
+
+java -Xmx1024m -cp "./lib/*" meka.classifiers.multilabel.RAkEL -P 0 -N 0 -x 10 -R -t data/data-all/relevance-coarse-sentiemnt.arff -threshold PCutL -W weka.classifiers.functions.SMO -M 10 -k 3 -f output/level2/output.txt -verbosity 10
+
+java meka.classifiers.multilabel.meta.BaggingMLUpdateable -B 20 -x 10 -R -t data/data-all/relevance-coarse-aspect.arff -W meka.classifiers.multilabel.BRUpdateable -W --weka.classifiers.bayes.NaiveBayesUpdateable
+
+java -Xmx1024m -cp "./lib/*" meka.classifiers.multilabel.RAkEL -P 0 -N 0 -x 10 -R -t data/data-finetopic2/finetopic-finetopic2-sentiment.csv.arff -threshold PCutL -W weka.classifiers.functions.SMO -M 10 -k 3 -f output/level2/output.txt -verbosity 10
+
+Best so far:
+java -Xmx1024m -cp "./lib/*" meka.classifiers.multilabel.RAkELd -P 0 -N 0 -x 10 -R -t data/data-finetopic2/finetopic-finetopic2-sentiment.csv.arff -threshold PCutL -W weka.classifiers.bayes.BayesNet -M 10 -k 3 -f output.txt -verbosity 10
+
+
+
+
+
+

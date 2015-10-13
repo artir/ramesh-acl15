@@ -1,0 +1,13 @@
+ID: B000VR3P9K-R19EI0IIJYMPFQ-A2S4RA17IOAJN9
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A2S4RA17IOAJN9
+ReviewerName: Kathryn Britton
+Date: February 15, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Love my MacBook Pro
+Content:
+Apple MacBook Pro MB470LL/A 15.4-Inch Laptop (2.4 GHz Intel Core 2 Duo Processor, 2 GB DDR3 RAM, 250 GB Hard Drive, Slot Loading SuperDrive)]]
+I absolutely love this computer.  My expectations were high, and it surpasses all of them.  I have not one regret.  The glossy screen is annoying at times, but when there's no light behind to cause glare, it's spectacular in color and clarity.  
+I'd recommend getting either an 800/400 firewire adapter or a cable with those plugs on either end when you purchase the laptop if you need to move files from another computer, which probably uses 400. The Migration Assistant seemed to insist on using a firewire, so I ended up saving the files to an external hard drive, then copying them to the MacBook via USB cable.  It worked, but it was pesky.

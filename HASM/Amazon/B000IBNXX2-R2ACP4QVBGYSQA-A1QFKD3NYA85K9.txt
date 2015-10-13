@@ -1,0 +1,11 @@
+ID: B000IBNXX2-R2ACP4QVBGYSQA-A1QFKD3NYA85K9
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A1QFKD3NYA85K9
+ReviewerName: Plant Doctor "gpmsu"
+Date: January 11, 2008
+Helpful: 
+Rating: 2.0
+Title: Documentation please!!
+Content:
+My first mp3 player was a basic 1 gig Creative player. Great sound, easy to use with Windows explorer. Unfortunately, this device has virtually no instructions on how it handles mp3 files and the software is just as bad. I expected to categorize my music using folders, sub-folders, etc like on my computer. No way! I finally realized after several emails to creative that the player doesn't work that way. It uses "tags" associated with the mp3 files and the firmware to categorize your music. Unfortunately, nearly all of my ripped cd's had no tags so everything was a mess. Fortunately, I was able to add tags to the mp3 files without re-ripping my entire 350 cd collection. Better documentation explaining file handling etc would have saved hours of aggravation. Also, allowing a windows directory approach would be far easier. I recently discovered that a different brand player uses the same approach and also lacks documentation on how files are categorized, etc. The more indepth general manual did mention in a footnote that files are categories by tags, but didn't explain how they are added or how to edit them. What a pain. Overall, a great sounding compact player that should come with an AC charger.

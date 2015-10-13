@@ -1,0 +1,19 @@
+ID: B0035FZJHQ-R2BFZKZ53A68KU-A37KHYWJ8UR6EQ
+Category: DigitalSLRs
+Product: Canon-T2i-Digital-3-0-Inch-18-55mm
+ReviewerID: A37KHYWJ8UR6EQ
+ReviewerName: A. Lang "giphlag"
+Date: March 5, 2010
+Helpful: 21 of 26
+Rating: 5.0
+Title: I'm in love.
+Content:
+For the past 8 years I've been using a point-and-shoot Sony DSC-F717, which has served me quite well for what I was doing and actually had really good image quality.
+I've been following closely, over the past few years, the developments and price cuts of entry level DSLRs and am glad I waited this long! Once I noticed that manufacturers were adding video capabilities, I knew waiting a little while longer, until they got it just right, would pay off.
+I'm thrilled with this purchase and as an amateur, of course, there is much to learn. Here are a few observations from using the camera for the past 2 days:
+* RAW files from this camera not supported in OS X yet
+* MOV files created will test your computers speed
+* MOV files in 1080p will eat up ~330MB/min and use ~15mbit/s bitrate
+* Good starter lens, but I can already tell I'll want something to supplement it
+* Great fit and finish
+* Very light

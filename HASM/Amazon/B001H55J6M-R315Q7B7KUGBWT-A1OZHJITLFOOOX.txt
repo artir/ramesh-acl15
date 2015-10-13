@@ -1,0 +1,29 @@
+ID: B001H55J6M-R315Q7B7KUGBWT-A1OZHJITLFOOOX
+Category: Laptops
+Product: Lenovo-IdeaPad-13-3-Inch-Processor-Premium
+ReviewerID: A1OZHJITLFOOOX
+ReviewerName: MJ
+Date: April 3, 2009
+Helpful: 3 of 15
+Rating: 1.0
+Title: Do yourself a favor do not buy anything Lenovo.
+Content:
+I am a fan of the pointer mouse and of IBM so I bought a ThinkPad T43. I decided to pay about $500 dollars more for the Lenovo laptop / chasis than for a Gateway, Dell, etc., with the same features. 
+For the first year and a half it was a great experience with the machine until I started having problems. I just wish that you do not make the same mistake I made.
+By the way I have tried to escalate the issue to a manager or someone who will hear my concerns regarding the bad service and quality of the hardware but I am giving up on that since I have made countless calls, etc., with no results.
+As you can see after 34 days of down time and having the same problem in 6 months and no sympathy from support or being able to talk to someone who can make decisions I wish I had never bought this laptop.
+If you are interested here are the details of the problems:
+1.First problem, software problem after installing update from the Lenovo website. Contacted support and issue was not fixed with them. Solved it myself by re-installing the NIC/Wireless drivers. Down time: 1 day.
+2.I was using the machine, shut it down and next time I boot, it can not find the hard drive. Call support, send the machine back in a box they fix it but then I have to go through all the Windows Updates and Lenovo Updates. End up having a problem with one of the updates from the Lenovo website (I can not login) which takes 3 hours to solve with support (2 reps, and convincing them that this can be fixed without re-installing). 
+1.Hardware problem was noted as system board planar.
+2.Down Time: 10 days
+3.A month or so goes by and I have the same problem of not booting and a message that the hard drive can not be found.
+1.Hardware problem was noted as system board planar.
+2.Down Time: 12 days
+3.Note: support first  sent me a hard drive since they insisted that was the problem even though I was pretty sure it was not.
+4.Support sent the install disks to a wrong address.
+4.4 months later I have the same problem! 3rd time in 6 months. I call them ask for the box. I tried trouble shooting for like 10 minutes on the phone, when the rep wants to trouble shoot more I insist please just send me the box.
+1.Hardware problem was noted again as system board planar.
+2.Down time: 11 days. 
+3.Support scheduled the pick up at an old (wrong) address. I took the box to UPS directly.
+4.I asked to be contacted before shipping the machine back to me since I was at a consulting assignment somewhere else in the country but they ignored that and ship to my home address without contacting me.

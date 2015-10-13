@@ -1,0 +1,18 @@
+ID: B002BV353U-R1T725RTTEXBV2-A3EXJSCK1RWV2Z
+Category: Laptops
+Product: CompuLab-fit-PC2-Windows-CyberLink-codecs
+ReviewerID: A3EXJSCK1RWV2Z
+ReviewerName: James C. Costello
+Date: October 22, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: This computer completely exceeded all of my expectations.
+Content:
+When I bought this computer, I was expecting it to use it as a small, low cost of operation ($7 / yr for continuous operation) home server.  I decided that before I set this up as a server, I would see how Windows 7 ran on it.  I was surprised to find out that Windows 7 ran flawlessly once you let Windows Update automatically update all of the drivers, and restart a couple of times.  Since installing Windows 7 on this machine, I have made the decision to stick with 7 permanently, because on this machine, it runs even faster than XP.
+It's biggest, and most initially unnoticable benefit compared to a regular computer is that it makes almost no sound at all.  I've been using this system for about a week now, and when I switch on my laptop to transfer some of my files, the laptop seems annoyingly loud in comparison.  Two weeks ago, I would've told anyone that as long as a PC wasn't roaring, it doesn't really need to be quiet, but finally experiencing for myself what an almost noiseless computer system sounds like, has opened my eyes to just how much a little bit of silence can contribute to a good computing experience, and a reduction of overall fatigue.
+When I was looking at the fit-PC2, one of the things I read about was its video decoder hardware.  I thought that it was only a band-aid solution to not having a dedicated video card, but the fit-PC2 plays youtube and other online videos without dropping any frames whatsoever, even in fullscreen mode, which is something my 6-month old laptop with a Radeon HD 3400 video card cannot do reliably.
+My only three complaints so far, are:
+1. The USB connectors on the front of the enclosure are mini-usb ports, and in order to use them, you must purchase a separate adapter.
+2. It only comes with 1 gigabyte of ram, and it is non-upgradeable.  Windows 7 can combat this somewhat with ReadyBoost, and I recommend purchasing a very fast 2 or more GB USB flash drive, or a few smaller USB drives to work with ReadyBoost.
+3. The computer heats up too much, and I worry about how long the hard drive will last at this temperature.  I am considering attaching a few heatsinks, like the one Amazon sells here. 43 X 45 X 10MM HEATSINK
+I would avoid recommending it to anyone who wants a computer for gaming, video editing, studio music production or tasks like that, but for simple word processing, database access, web browsing, light-to-moderate programming, home miniserver, or similar uses, it functions rather capably.

@@ -1,0 +1,11 @@
+ID: B00005QJ2L-RUMM1MKO0KWVV-AI3L8R8LFQ0JE
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: AI3L8R8LFQ0JE
+ReviewerName: Juan Estrada Siliezar "JES380"
+Date: May 5, 2007
+Helpful: 
+Rating: 5.0
+Title: An Amazingly build portable
+Content:
+When i purchased this computer it was top of the line. It was released when P4 processors were only for Desktop computers due to power consumption and heat issues (Pentium m or Centrino didn't exist). The computer offers decent performance for office/home use and it is solidly build (have been carrying it arround for 6 years and the screen is perfect, no cracks in case and it just shows some discoloration in the palm rest area.) As you migth expect, battery is already dead, but now i use it for the kids to play, only with ac power (wise to remove the battery to prevent leaks)My 3 yers old daugther and her cousins keep playing kid's games in it and it has taken several hits due to frequent "it's-my-turn"fights and nothing has broken so far. The only thing i found really anoying for 2 days is that the Cyberblade Video Adapter is not totally compatible with xvid codecs so when you play xvid videos, frames freeze and the sound is choppy. The solution is to change the codec settings of the file to divx using a small freeware app (since they are compatible) and voila. Other option (maybe the best is to install ffdshow codec. Can't complain... hopefully it will loyally serve for another 2-3 years...!!! One of the best investmets i have made... even though i paid around $1400 for it in 2001. It was also one of the first laptops to come with windows XP on it. If you are looking for a remarket portable for using with XP on office or light multimedia use, this is a very solid choice.

@@ -1,0 +1,18 @@
+ID: B0012Q94AI-R179DIKPKUGO3N-A23I4WLDUFRUT9
+Category: DigitalSLRs
+Product: Pentax-14-6MP-Digital-Camera-Reduction
+ReviewerID: A23I4WLDUFRUT9
+ReviewerName: K. Yee "kenyee"
+Date: February 4, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: the peak of APS-C technology
+Content:
+At least for now, the K20D and possibly the Canon 50D (but I think it has too aggressive NR), are the peak of the APS-C sensor DSLRs.  The theoretical 15Mpix max resolution for lenses has been hit and you can indeed see this in the K20D's photos if you don't have good lenses.  In particular, it shows you that Pentax's Limited and DA* lenses (except for the 16-50) are indeed ultra sharp and detailed.  My Sigma 17-70 has to be stopped down an extra stop for images to look sharp (my previous 10Mpix K10D was sharper with the Sigma 17-70).
+The pixel mapping feature alone is worth the upgrade from the K10D.  Hot pixels (even the "moving hot pixels" that DPR's review complain about) are cured by running this so you don't have to send it back to the factory to do it.
+Dust removal lets you find and clear off dust before you end up shooting a big sequence of pictures only to find that you have to PP out a big blob in the upper right hand corner.
+The PC sync port is a screwlock PC sync port that is robust enough to handle a lot of usage in the studio; it's also weathersealed and can survive a high voltage flash.
+Liveview is useful (though not as well implemented as Canon's which has contrast AF) for the shots when you don't want to stick your head against the ground and get all muddy.
+Lens microadjustments (though you can't calibrate zooms at different focal lengths) works great on prime/limited lenses.
+It's a very refined, bang for buck DSLR and it's a shame more stores don't carry this so people can see how good it really is :-P
+Thanks to Amazon for carrying it and having a great x-mas deal on it.

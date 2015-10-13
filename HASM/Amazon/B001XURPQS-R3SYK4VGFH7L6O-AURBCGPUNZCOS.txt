@@ -1,0 +1,14 @@
+ID: B001XURPQS-R3SYK4VGFH7L6O-AURBCGPUNZCOS
+Category: DigitalSLRs
+Product: Canon-T1i-Digital-18-55mm-3-5-5-6
+ReviewerID: AURBCGPUNZCOS
+ReviewerName: Mr. Bill
+Date: December 6, 2009
+Helpful: 3 of 6
+Rating: 4.0
+Title: Heads up Mac users
+Content:
+Just a little FYI for Mac users of the T1i bundled software (I presume the 90%+ buyers who are Windows people do not have this problem).  Several elements of the T1i software suite do not work under Mac OS X 10.6 (a.k.a. "Snow Leopard"). Most notably, plugging the camera into a USB port fires off the Canon EOS Utility, which then promptly crashes.   I have been emailing with Canon product support for 3 months now (?!).  There is a work around (which involves not using the EOS Utility, how's that for a fix?), but, personally, if I had known about this, I wouldn't have gotten the camera. 
+While Canon acknowledges the problem, their weasel-wording on their replies leads me to suspect that they don't intend to fix this.
+Mac users already know that Snow Leopard, while nominally an "upgrade" is in reality a collection of bug fixes for which Apple charges $30.  Unlike going from XP to Vista or Vista to W7, I presume that the vast majority of OS X 10.5 users out there have "upgraded" to 10.6.  If this describes you, then you should know that although you can still download and edit your picture files, you do it in a hokey way that involves crashes and not getting to all the features.
+Why 4 stars?  This has nothing to do with how the camera works taking pictures.  For that, I'll leave you to the other reviews.

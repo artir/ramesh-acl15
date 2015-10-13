@@ -1,0 +1,15 @@
+ID: B0000CFW8W-RO7MKJW1R9QYV-A1ZYDU26TKRNAW
+Category: Laptops
+Product: Pavilion-zd7010us-Laptop-2-66-GHz-Pentium
+ReviewerID: A1ZYDU26TKRNAW
+ReviewerName: J. Burke
+Date: February 9, 2005
+Helpful: 3 of 3
+Rating: 1.0
+Title: Don't buy!! Two Major Problems
+Content:
+First, it is the noisiest laptop I've ever heard -- possibly noisier than any desktop. This is just inexcusable and I feel that it could have been avoided.
+Second, and far worse, it has a defect. It will start spontaneously shutting down for apparently no reason. I have researched online and found other references to it. HP claims that it happens with Photoshop or other intensive applications, but I don't run any. They also claim that it happens only when you have two sticks of RAM installed. I did, so I removed one, tried changing slots, and changing sticks. Nothing worked. It's still shutting down.
+Of course, there is a one-year warranty and my unit is 14 months old, so I was told I was out of luck. It will cost $279 plus whatever parts they need (new mainboard??). In addition, their customer service is useless. They know nothing and you can tell they just recite policy and can do nothing else. Sounded like an Indian outsource situation to me.
+In short, DO NOT BUY THE zd7010us!! You will avoid a very bad experience.
+I hope this is helpful.

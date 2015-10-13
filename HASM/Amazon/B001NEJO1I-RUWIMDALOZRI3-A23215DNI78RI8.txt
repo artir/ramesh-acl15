@@ -1,0 +1,19 @@
+ID: B001NEJO1I-RUWIMDALOZRI3-A23215DNI78RI8
+Category: Laptops
+Product: Toshiba-Satellite-A355-S6925-16-0-Inch-Laptop
+ReviewerID: A23215DNI78RI8
+ReviewerName: ThatDude
+Date: March 27, 2009
+Helpful: 2 of 3
+Rating: 4.0
+Title: Solid Laptop for everyday tasks
+Content:
+I have this laptop for a week. First thing you should do when turn on the laptop, make recovery discs and driver disc using toshiba preinstalled software, just open the program and it will inform you pop blank dvds in. Quick and easy, then you can do whatever you want with it. It comes with two 250G hard drives. So you can save your files on one drive and dedicate the other to OS to help your laptop run faster. I formated them both and installed a fresh copy of Vista Ultimate 64. It runs flawlessly. 
+Here's the pros:
+I must say Toshiba did very well on the design, slick and modern look.  The speakers are awsome!!! sound very crisp with the bass feature turned off, if you use the bass feature then make sure don't turn the volume all the way up or you will hear the tearing sound from the speakers. The processor is blazing fast, the screen is nice, webcam is decent. Haven't tested the VGA out put.  Lots of junk preinstalled but you can uninstall them and should have some kind of software to clean up the registries after.
+Here's the cons:
+The buitlt in mic is not very good but is ok in case you don't have a mic. It will give you an annoying feedback when you unplug the front mic. So be certain that you mute the interal mic before unpluging the front mic. When you plug in the front mic, you have to unmute the internal mic in order to hear yourself in the headphone.  My older toshiba laptop doesn't have a built-in mic, so i didn't have this prolem. 
+The FM antena feature would be nice if Toshiba has it built-in
+I prefer the power cord in the back, not on the side.
+There's no modem (i don't need it) so if you ever need one you should take it into consideration.
+Overall, it's a very solid laptop for the price and features as of right now (3/27/09)

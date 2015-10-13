@@ -1,0 +1,18 @@
+ID: B0032Z8KLG-R2DN55CX7GDBN7-A2Y7AK22V7IRCB
+Category: Laptops
+Product: Gateway-NV5337u-15-6-Inch-Laptop-Black
+ReviewerID: A2Y7AK22V7IRCB
+ReviewerName: B. Francois
+Date: April 27, 2010
+Helpful: 
+Rating: 4.0
+Title: Excellent machine for almost any use
+Content:
+I haver had this machine for close to a week and a half now and I am enjoying it immensely. The widescreen has a brilliant display and the computer is incredibly fast. Its nearly like having a desktop. I originally bought it for gamimg but it lagged a bit during Assassin's Creed but i am confident I can tweak it so that it works the way it should. The harddrive is HUGE and if you have an external drive you are definitely in business. The speakers are very loud and the webcam and microphone are very clear and of a very high quality. I bought mine refurbished and it came looking brand new so those that are thinking about getting it brand new, I highly recommend it. Below is the Windows Experience Index number stock. 
+Component Details Subscore Base score 
+Processor AMD Turion(tm) II Ultra Dual-Core Mobile M600 5.9 4.1 
+ 
+Memory (RAM) 4.00 GB                                     5.9 
+Graphics AMD M880G with ATI Mobility Radeon HD 4200      4.1 
+Gaming graphics 1919 MB Total available graphics memory  5.3 
+Primary hard disk 371GB Free (454GB Total)               7.1

@@ -1,0 +1,14 @@
+ID: B000W0XTJ2-R1FIO08AANLJ9A-A1UBO4RHQK5DBM
+Category: Laptops
+Product: Pavilion-TX1320US-Entertainment-Notebook-Processor
+ReviewerID: A1UBO4RHQK5DBM
+ReviewerName: Rolling Donut "Cam"
+Date: November 8, 2007
+Helpful: 109 of 114
+Rating: 4.0
+Title: Best value for the money.
+Content:
+This was an impulse buy for me when I was on vacation - and I have nothing but positive things to say about it. Regarding the bloatware - I managed to delete everything using the Programs/Functions in the control panel and simply deleted the Online Services folder from the proper directory. I actually removed too much software and needed to re-install some of the HP programs that make the tablet buttons work (HP Quicklaunch Buttons and QuickPlay are all I needed). The touchscreen works well enough, though it lacks any pressure sensitivity - screen calibration was simple enough, though I had to do it a couple of times to get it just right.
+Pros: Sleek and attractive machine. Good build quality with a strong swivel mechanism. Lid locks down nice and secure when in tablet and notebook form. Affordable and readily available at local stores with numerous rebates. Tons of features and benefits right out of the box - and impressive specs to match it (2.0GB RAM, Lightscribe DL DVD-R, 250GB HD, Biometric Scanner, Express card slot w/ media remote, built-in webcam, media card reader, wireless connectivity, etc.) Compact/Light size and weight - easy to take with you anywhere. I dig the  trackpad design - I like the feel and texture of it (no dry, chalkboard feeling - easy to clean) This machine continues to put a smile on my face daily. Vista runs flawlessly on this puppy and I've decided that this baby is a keeper for me.
+Cons: Bloatware as usual. Required some tweaking to get it just the way I wanted it (as with most Windows machines). Noticeable body flex from the plastic shell. Top heavy - as the screen portion is significantly heavier than the bottom keyboard shell (you'll notice it if you try and open the laptop with one hand). Runs hot after some use. Battery life is short (way too short). Screen glare could be a problem for some. No firewire port (though the 3 USB 2.0 provide plenty). Integrated graphics get the job done, but not exactly spectacular. Touchscreen lacks the accuracy and features of other models. As the previous review noted, HP support is less than stellar.
+I'd strongly recommend someone in the market to give this a machine a try. Test it out, and if it doesn't suit you - you can always return it for something else. I purchased my unit from a CompUSA.

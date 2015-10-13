@@ -1,0 +1,24 @@
+ID: B000NVXF30-R2J0NX8RLWOEB3-A2FVVXVOJS3ZM8
+Category: DigitalSLRs
+Product: Olympus-Digital-Stabilization-14-42mm-40-150mm
+ReviewerID: A2FVVXVOJS3ZM8
+ReviewerName: Vlad G
+Date: August 30, 2007
+Helpful: 82 of 84
+Rating: 4.0
+Title: Low light focusing - Olympus, do you hear?
+Content:
+I would give this camera five and a half stars, really, if not for one issue.
+And a pretty serious one.
+But first the good news: the camera is great.
+It works blazing fast, controls are excellent and so is the level of control.
+All important SLR options, all those many competitors usually "reserve" for "professional" models - like all metering modes, auto ISO limit, custom WB, mirror anti shock, remote control capability, manual focusing after AF and even shutter release priorities - are there. 
+Anti-dust system and set of two lens gives you worry free 28-300 (10.7x) range, image stabilization works surprisingly good, widely rumored problem of dynamic range that is half EV below the competition is not visible in 99.95% of the pictures. The rest 0.05% requires microscope and 100% zoom  to point out the blown out highlight. 
+All things considered - an excellent camera and value for money.
+Of course, there are many things one may complain about, like slow kit lens (and fast lens are available, but expensive) or aggressive noise filter at high ISO (and it could be turned off) or one second delay at start up (never bothered me much) etc. But all these issues are pretty minor and every camera has list of them.
+***
+Now the bad news - low light focusing. I just do not understand that.
+Here it is: below certain light level camera just struggles to get focus. That level is somewhat below standard living room illumination - so it does not bother many people in standard situations, but try to shoot at the dark bar or at the street in the evening - and change in camera behavior is dramatic. Suddenly it may take several seconds before focus is locked - way too long. Using flash to illuminate target does not help much - flash keeps strobing and strobing and strobing again and finally, when focus is locked it takes additional second to charge it for the shot. I rarely meet people who would stand still for that long... They think I made three pictures of them already, when I accomplished, well, none!
+I perfectly understand the technical issue of focusing in low light, but... I am old Olympus E10 owner - and it have never bothered me much with this issue. Cheap Canon A70 have never bothered me with this issue either - well at least nobody expects performance from $200 compact camera. 
+May be these old cameras are not trying to get perfect focus when they cannot, may be they limiting time to some reasonable interval - I do not know, but Olympus should fix the problem. It is a show stoppers.
+For now I turn off AF illumination and switch to shutter release priority in low light situations - but I need to recognize it first. I prefer to have slightly out-of-focus pictures, than no pictures at all. Olympus, do you hear?

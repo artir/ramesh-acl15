@@ -1,0 +1,12 @@
+ID: B002P3KMVC-R9ZIN2U2IFDT5-A1IOW2SV16540A
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A1IOW2SV16540A
+ReviewerName: D. R. Rowe
+Date: February 6, 2010
+Helpful: 2 of 4
+Rating: 2.0
+Title: Nice feature set - when it works
+Content:
+Great feature set for the price. Battery life is as advertised. Screen is bright, clear. Great product - if it works.
+Mine came out of the box with a bootup problem - 8 times out of 10 it won't actually start up. The lights blink, the hard drive starts to spin up but then it just stops with a blank screen. Have to power it down and try again. Eventually it will boot up. Unfortunately Asus's only recourse for me is to ship it back and be without a laptop for more than a week while they try to fix it. As this is my only portable device for work that's a no win situation.

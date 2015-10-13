@@ -1,0 +1,11 @@
+ID: B000H0QDCC-R2E7LROMTBD7K5-A2E9CNLKIRUEZ7
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Brown
+ReviewerID: A2E9CNLKIRUEZ7
+ReviewerName: D. Frazier
+Date: December 19, 2006
+Helpful: 7 of 14
+Rating: 1.0
+Title: Problems Syncing and Updating Firmware
+Content:
+Ok ... So this thing is about 2 weeks old and there's already a "firmware update?"  Mine wouldn't finish updating after waiting 45 minutes.  I loaded my whole music library in less time than that.  Now every time I try to sync, it just hangs.  Looks like I'll have to be doing a hard reset.  Too bad ... it played pretty well the 1st couple of weeks.  Maybe I'll find a place for it on craigs list or ebay.

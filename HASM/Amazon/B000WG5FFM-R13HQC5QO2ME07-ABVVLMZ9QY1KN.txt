@@ -1,0 +1,35 @@
+ID: B000WG5FFM-R13HQC5QO2ME07-ABVVLMZ9QY1KN
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Pink
+ReviewerID: ABVVLMZ9QY1KN
+ReviewerName: M. Kim
+Date: August 5, 2008
+Helpful: 7 of 7
+Rating: 4.0
+Title: I would give it three-and-a-half stars if I could
+Content:
+Since Amazon.com lets us only rate in whole-number amount of stars, I decided to round it up to 4. I absolutely love the interface, much more than that of my iPod. However, there are flaws that make me wonder what Microsoft is thinking!
+PROS:
+1. Aesthetic interface of firmware
+- Certainly much better than that of iPod. Face it, iPod firmware ain't that pretty.
+2. Vertical and horizontal scrolling, rather than clockwise and C/W.
+- It just makes more sense this way. Not only do you have an option to move both up and down as well as sideways, but also, seriously, who on earth came up with the idea that Clockwise = move down, C/W = move up???!!
+3. Wireless Sync'ing
+- Okay, I never got to use this feature because I am too lazy to set up a network for my computer and such. But if it did work, it would be great to be able to sync without clogging up another USB port.
+4. FM radio
+- I also didn't get to make good use of this feature because it wouldn't get the stations I usually listen to (95.9, 103.5, 102.7 -- I live in OC, California). But seriously, it just makes sense for an audio player to come with an FM tuner. I don't know what Apple is thinking.
+CONS:
+1. Can't transfer music/video without the Zune software
+- Just like iPod. You have to install the software and sync through it. No direct drag-and-drop transfer.
+- This also means that your music files have to stay on both computer and Zune player. Waste of hard drive.
+2. Can't read Zune as an external disk
+- Even iPod gives me an option to read it as a hard disk, so that I can store documents in the extra space to use like a USB drive. With this Zune, your computer won't read it as a hard disk at all, unless you mess with the registry (which is not very recommended unless you have a good computer knowledge).
+3. No foreign language support
+- Menus only in English, French and Spanish. (On the contrary, iPod has so many language options that I can't even remember.) But, this probably isn't a problem for most people. Frankly, I don't really care either.
+- But what does bother me is that it doesn't read music titles that are not alphanumeric (a Japanese song, for example). It plays the song, but the characters break, so I can't read the title or the artist's name. A big downer for me, as I like to listen to songs from a variety of cultures.
+- You can install foreign language fonts by doing various high-tech-level tricks with the software installation (that I do not know how to do.. I've only read of them), but why bother, when you can just get an iPod, which reads almost any language?
+Summary:
+I was very very excited to see that Microsoft had made an audio player that could definitely beat Apple iPods for many reasons. (More features and more aesthetic and easy interface among others).
+However, I was very saddened to find out that other than the reasons above, Microsoft had kept everything bad about an iPod (e.g. must sync through software) and added more obstacles.
+Seriously, a global company like Microsoft can't even make their audio players read other languages? Please.
+Other than these details, this product is definitely a good one if you only listen to English songs and care less about the things I mentioned above. Great sound, the video has good quality. Cute design. =]

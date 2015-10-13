@@ -1,0 +1,11 @@
+ID: B000W12V86-R7RHHEUBSYLX5-A2CC5Q0XT1I6KZ
+Category: Laptops
+Product: Pavilion-DV9650US-17-inch-Entertainment-Processor
+ReviewerID: A2CC5Q0XT1I6KZ
+ReviewerName: Joe Skrote "Joe Skrote"
+Date: February 28, 2008
+Helpful: 3 of 3
+Rating: 4.0
+Title: A good XP laptop. Unfortunately it comes with Vista.
+Content:
+This is my third and final update of my review of this laptop (I swear!). After a year of nothing but trouble with Vista Home Premium it is now running very well on Windows XP MCE 2005. It runs 10x faster now, eventhough I lost a GB of RAM in the changeover (XP can only use 3 GB of the 4 GB I installed). I still get an occasional BSOD but nothing like the "unexpected problems," driver issues and CPU overload I had with Vista. Clearly this is an XP laptop that was kludged into a Vista machine.  If you're having any problems with Vista at all I strongly suggest a downgrade to XP MCE.  You'll need to install drivers for your SATA hard drives that don't come with XP, but they're readily available, and there are plenty of instructions on the Web on how to do the change (including on HP's own forums - do you think they know this laptop is c--p running Vista?). I wish I had done this a year ago instead of trying to make Vista work, it's hopeless.  With XP this laptop is a perfectly good, very powerful machine. Grab it at a deep discount, install XP MCE and enjoy.

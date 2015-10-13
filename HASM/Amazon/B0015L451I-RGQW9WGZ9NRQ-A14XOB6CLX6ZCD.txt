@@ -1,0 +1,11 @@
+ID: B0015L451I-RGQW9WGZ9NRQ-A14XOB6CLX6ZCD
+Category: MP3Players
+Product: SanDisk-Sansa-Fuze-Video-Player
+ReviewerID: A14XOB6CLX6ZCD
+ReviewerName: Henry Anderson
+Date: November 13, 2009
+Helpful: 
+Rating: 4.0
+Title: My first MP3 player
+Content:
+This is my first MP3 player.  Works really great and so far very reliable.  I added a MicroSD card for more memory. Sound quality is great with my old Sony Walkman earphones.  Loading via Windows Media Player is a little daunting and the reason for my four star rating. When I get some time I'll try just dragging directly rather than using the player.  Looking forward to loading audio books from the library.

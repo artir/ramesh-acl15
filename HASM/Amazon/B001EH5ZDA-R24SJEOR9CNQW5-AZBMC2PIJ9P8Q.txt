@@ -1,0 +1,19 @@
+ID: B001EH5ZDA-R24SJEOR9CNQW5-AZBMC2PIJ9P8Q
+Category: Laptops
+Product: HP-DV6928US-154in-Laptop-Computer
+ReviewerID: AZBMC2PIJ9P8Q
+ReviewerName: Martin Paternoster
+Date: October 2, 2008
+Helpful: 3 of 3
+Rating: 5.0
+Title: Excellent machine. Might be cheaper at other stores.
+Content:
+This laptop is excellent for the cheap prices you can find it elsewhere, though the Amazon price is somewhat high.
+The design is elegant, and it feels fairly solid.
+In terms of functionality, I took the step of phasing out my desktop for this machine, and the multimedia functionality is good enough.
+Like most laptops, the built in speakers sound a little tinny, but there are headphone sockets that produce static-free output.
+Compaq and HP tend to bundle Internet Provider links and an Office trial, and this machine is no different.
+Most of these were uninstalled without any issues, and uninstalling the muVee editing application cleaned up a win32 crash when starting Sony Vegas.
+Startup and shutdown is fast enough, and the Core 2 Duo T5750 CUP provides enough processing power for moth operations.
+DVD and video playback is smooth, and the IR Remote Control can be stored in the ExpressCard slot for convenience.
+This machine is highly recommended for general use.

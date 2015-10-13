@@ -1,0 +1,31 @@
+ID: B002C4KXJK-R2REKOTXPDHVBG-A2005S0XLNRGR0
+Category: Laptops
+Product: MSI-X320-037US-13-4-Inch-Laptop-Black
+ReviewerID: A2005S0XLNRGR0
+ReviewerName: Kent Devillafranca
+Date: October 14, 2009
+Helpful: 2 of 3
+Rating: 4.0
+Title: Good Linux ultraportable
+Content:
+First off, a thank you to Joon for the Linux-centric review.  I never would've bought this laptop otherwise, since my very first action was to install Ubuntu 9.04 ("Jaunty") on it, and since then I've updated to 9.10 ("Karmic").  Here's a more detailed listing of the Linux situation for anyone else who's interested:
+For 9.04:
+-Wireless works.
+-Sound works.
+-Compiz works
+-The display is detected and runs at the correct resolution, but sometimes when it boots it thinks there's a TV attached, and goes to 1024x768.  Hit the external monitor button (Fn-F2) once or twice and you're back to full resolution.  (I haven't had this problem in a while, maybe it stopped?)
+-Suspend and resume works.
+-Hibernate works, but when it's going into hibernation the screen looks as though text is going by very quickly and the system is trying to cover it up unsuccessfully (there's a half-line of quickly changing text at the top of the screen, black everywhere else).  Also, when waking from hibernation, it sometimes wakes in text mode, and I have to hit Ctrl-Alt-F7 to get to the desktop.
+-Bluetooth works.
+-The webcam works... but not in my preferred webcam app.  For some reason Cheese can't use the webcam, but other programs (luvcview) can.
+-The front mic doesn't work, but you can plug a mic into the adapter on the side
+-Boots quickly (faster than Vista, at least), even with my entire home directory encrypted
+For 9.10:
+-All the graphics-related problems are fixed
+-The webcam works (you need to push the webcam button on the keyboard to enable it, though)
+-The front mic works, but you have to download an ALSA module from the backports repository and reboot first.
+-Basically, everything works as it's supposed to.
+For the machine itself, the keyboard (as others have said) is a bit bouncy in the middle, but I don't mind it that much.  If it ever starts really annoying me, I plan to just open the computer up and wedge something underneath the center of the keyboard.
+So everything works with the latest Ubuntu release, and I've gotten used to the flimsy keyboard.  Overall, a very good lightweight Linux laptop!
+...
+I also replaced the hard drive with a solid-state drive.  Voids the hell out of the warranty, but TOTALLY WORTH IT.  If you want to do it, though, you definitely need the disassembly manual from the MSI users' forum.

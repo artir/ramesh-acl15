@@ -1,0 +1,17 @@
+ID: B000BP50AY-R24MQXWU2EVQ3U-A1QG1NBV7DN4K8
+Category: MP3Players
+Product: SanDisk-Sansa-m240-Player-Silver
+ReviewerID: A1QG1NBV7DN4K8
+ReviewerName: E
+Date: April 3, 2006
+Helpful: 5 of 8
+Rating: 2.0
+Title: Great MP3 Player, Terrible Recording Capability
+Content:
+I've been using the Sansa 1 GB for several months now and while I am happy to use the Sansa as an mp3 player, I am terribly disappointed in its subpar and unreliable recording capability.
+As an MP3 player, this device is as simple and easy that it can be.  Copying files is as easy as plugging in the device and dragging and dropping audio files.  The size is wonderful and light.  Battery life is more than sufficient.
+My big complaint other than the device's poor recording capability is that the battery gauge is terribly unreliable.  Particularly when the player is running low on battery, the battery display will jump between "full", "semi-full", "low", and "downright empty".  This is frustrating when trying to figure out whether there is enough juice to get through the next hour of use.
+A big downside is the device's poor recording capability.
+- Recordings are very soft compared to other recording mp3 players.  I've tested this side-by-side with other devices, including iRiver players and Sony Clie recordings.
+- The software to record is very buggy as recordings would frequently disappear.  At first, I thought it was because of the way I was using the device but despite my best efforts to consistently use the device according to the manual, I would frequently find my recordings disappear.  I would approximate that I'd lose about 1 recording every 30 recordings for no reason at all.  While that may not seem very frequent, there should be no reason that a recording device will lose recordings without my explicit instructions.  This is poor software design.  I checked and double-checked everything about how I was using it to confirm whether or not it was user error but I've tried many things like making sure to lock the device whenever I'm not actively pressing a button and making sure to follow the instructions in the manual.
+Recommendation: Do not purchase, unless you get a really good deal and/or don't plan to use the recording feature at all.  There are better models out there, especially nowadays (as of April 2006), at the same or better prices.

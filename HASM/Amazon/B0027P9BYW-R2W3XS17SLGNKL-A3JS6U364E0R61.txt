@@ -1,0 +1,16 @@
+ID: B0027P9BYW-R2W3XS17SLGNKL-A3JS6U364E0R61
+Category: Laptops
+Product: Sony-VAIO-VGN-FW465J-16-4-Inch-Laptop
+ReviewerID: A3JS6U364E0R61
+ReviewerName: C. Pollock
+Date: October 5, 2009
+Helpful: 2 of 4
+Rating: 3.0
+Title: See VGN-FW373J Reviews
+Content:
+This computer is listed as the replacement for the
+See VGN-FW373J. For the most part it is almost certain that my
+review for that model  "Good for Casual Users, Bad for Technical Users" applies equally to this model.
+As would most of the other reviews.
+(The tech speci differences are that this has a slightly faster CPU and more video ram, but the screen
+for this model is likely to be lower-spec EcoBrite not the XBRITE-FullHD of the FW373J])

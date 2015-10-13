@@ -1,0 +1,11 @@
+ID: B002BDU8WO-RMHFFFW8MFNYA-A395EJB8WWPNDL
+Category: Laptops
+Product: Toshiba-Satellite-L505-S6959-16-0-Inch-Laptop
+ReviewerID: A395EJB8WWPNDL
+ReviewerName: G Mack
+Date: September 1, 2009
+Helpful: 2 of 7
+Rating: 4.0
+Title: A good machine, but...
+Content:
+Technically this is a very good notebook. It replaced an Acer Aspire and I have used it about a month. I like the way it looks and operates. However, had I known about the limitations and expense of Labelflash, I would have purchased a notebook with the same technical features that supports Lightscribe.

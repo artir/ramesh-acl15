@@ -1,0 +1,12 @@
+ID: B0013FLU96-R28IGN4139A2I4-AFDE6XM0NNK1K
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: AFDE6XM0NNK1K
+ReviewerName: Gerald L. Riddle
+Date: September 20, 2008
+Helpful: 
+Rating: 5.0
+Title: Love it!
+Content:
+Absolutely love this thing! Quality and performance are outstanding. Super easy to use and setup. Applications perform smoothly and without the typical Windows 'lockups, crashes and slow shutdowns' many of us have had to endure for years.
+I use VMware's Fusion with 4GB RAM as I still need to use several Windows based applications. Performance of the Virtual Machines is smooth and very robust...the additional RAM is really a requirement if you are running Virtual Machines.

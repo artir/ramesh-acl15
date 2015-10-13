@@ -1,0 +1,12 @@
+ID: B0013FLU96-RV0ZJD0NVOUSN-A35FO33W1SM7BN
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A35FO33W1SM7BN
+ReviewerName: mczilla
+Date: April 2, 2008
+Helpful: 8 of 8
+Rating: 5.0
+Title: Happy Camper
+Content:
+It took me several months and a lot of research and in-store inspection before I bought this thing, and I'm happy to report no regrets so far. Actually, I'm glad I waited until the latest version came out. The new LED screen, faster processor, larger hard drive, bigger graphics card and included Boot Camp are definite pluses over the older models.
+I'm a graphics professional migrating from Windows and an old CRT, so the glossy screen doesn't present me with any new problems, and I find the rich colors and crisper text to be an advantage over the matt, but I admit this is a subjective call. The keyboard has a very easy and positive feel; lack of a numeric pad is no problem since I rarely used it when I had one. Serious design & bitmap work is done with an Intuos tablet anyway. The OS boots so much faster, and adapting to Leopard after Windows has not been difficult at all. Replacing the big monitor and brain-box with something this small had me wondering at first, but I now consider it to be a revelation.  Once the display is on it seems more than adequate. And there's always the satisfaction of Apple's "slickness factor" - beautiful industrial design, and an operating system that just makes me want to say "cool".

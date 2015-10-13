@@ -1,0 +1,13 @@
+ID: B00005MF9C-R3ANBRGUZQOUOQ-A3REP1UQIYGTSA
+Category: CoffeeMachines
+Product: Black-Decker-DCM18S-Personal-Coffeemaker
+ReviewerID: A3REP1UQIYGTSA
+ReviewerName: D. A. Voorhees
+Date: October 17, 2005
+Helpful: 22 of 23
+Rating: 5.0
+Title: Black & Decker Brew 'n Go   one cup coffeemaker
+Content:
+This is an excellent one cup coffee maker.  It takes a little experimenting to determine how much coffee to use for desired strength.  I use one a 1/8 heaping coffee scoop. 
+Auto shut-off is a great feature.  It prevents the unit from running all day in case you forget to turn it off when you leave for work.
+There is a design flaw.  I observed that the water tended to overflow the filter.  I discovered the reason: the hole in the bottom of the filter holder is too small - the water enters the filter faster than it can drip into the cup.  Simple solution:  take a few drill bits and by hand increase the diameter of the hole to about 3/16 of an inch. No more overflow.

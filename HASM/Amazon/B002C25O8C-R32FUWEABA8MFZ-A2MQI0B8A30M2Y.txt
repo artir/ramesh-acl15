@@ -1,0 +1,12 @@
+ID: B002C25O8C-R32FUWEABA8MFZ-A2MQI0B8A30M2Y
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS5810T-8952-15-6-Inch
+ReviewerID: A2MQI0B8A30M2Y
+ReviewerName: Steve Schneider
+Date: July 6, 2009
+Helpful: 29 of 32
+Rating: 2.0
+Title: Great expectation.............
+Content:
+I purchased an Acer AS5810T and an Acer AS4810.  Both seemed to be exactly what I was looking for:  Great price, features, weight, battery usage (would have liked backlit keyboards).  In particular, I was anxious to see if their new battery hour claims were true.  The only good news is that they really will do 6-8 hours on a charge.  Unfortunately, everything went downhill from there.  The 4810's keyboard began to malfuntion within 2 or 3 days use.  Keys began sticking in the down stroke position.  I had to use a paperclip to lift the space bar and the "w" key back in their up position.    During set up with the 5810T, Acer directs you to burn a restoration set of disks in the event of a failure in the operating system.  The Acer software supplied to perform the task failed.  I contacted Acer support and was directed to download and install their recent patches.  Not only did their new patches end in a perpetual error message, they caused the overall machine to hang and/or crawl after their installation.
+Maybe, in their rush to market, Acer prematurely released these machines without the proper testing of their software and hardware quality.  A real disappointment and a waste of many hours trying to get NEW machines to work.  With two out of two new machines disfunctional, I'd think twice before ever considering Acer.  Both units are being sent back.

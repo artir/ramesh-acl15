@@ -1,0 +1,12 @@
+ID: B002QUZKYS-R1SO5O19CQ6I5K-A398A4XF7BQDYF
+Category: Laptops
+Product: Acer-AS5738Z-4111-15-6-Inch-Windows-Premium
+ReviewerID: A398A4XF7BQDYF
+ReviewerName: K. Psarianos
+Date: November 21, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Great Value
+Content:
+This laptop is a real standout for the price. Fast. clean. Minimal bloatware that was easy to remove. I'd easily recommend this as a basic laptop for everyday use.  The numeric keypad is a nice extra.  About my only concern is that the shell on the lid feels a bit thin.
+1/1/10 Followup - I've had this a little more than a month, and things are still fast and clean.  I do see a little of the skipped letters others mentioned.  Not enough yet to worry, but we'll have to see (spellcheck is becoming my friend on longer documents).  For those inclined - installation of, and dual booting to Ubuntu went smoother than usual.

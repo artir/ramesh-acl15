@@ -1,0 +1,21 @@
+ID: B002LEVGMO-R3OWX1MNJGUDZ1-AV3UXAF6Q0NTV
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: AV3UXAF6Q0NTV
+ReviewerName: g2010a
+Date: August 29, 2009
+Helpful: 3 of 39
+Rating: 4.0
+Title: Great laptop/netbook
+Content:
+I've had time to play with the computer now (more than 3 weeks) and I've grown quite fond of it. 
+PROS:
+-It has the perfect size, the keyboard is great when typing, and it runs very quietly (!!). 
+-I upgraded the RAM to 3GB and only Java-based applications and Colinux seem to run slow. 
+-Video is watchable, although I occasionally notice hiccups while watching live TV with an external adapter (DVB-T).
+-The battery life is great.
+-The touchpad works just fine and once you get used to the scrolling gestures you can move through documents very easily. I never really use the other gestures.
+CONS: 
+-I am ambivalent towards the camera and special drivers... it does what it says--brightening the image so other can see you indoors at night with low light--but it keeps freezing the video on Skype. The work-around is to regularly interrupt the video stream and start it again, otherwise other people see only a static image of you.
+-Once you remove the protective plastic sheet from the cover you will never ever ever see it clean again. Every speck of dust and bit of finger-grease will stick to it.
+All in all, I recommend it very highly and would purchase it again. Acer hasn't let me down yet.

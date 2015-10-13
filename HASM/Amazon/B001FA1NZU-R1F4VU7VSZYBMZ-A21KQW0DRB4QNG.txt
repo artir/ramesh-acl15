@@ -1,0 +1,16 @@
+ID: B001FA1NZU-R1F4VU7VSZYBMZ-A21KQW0DRB4QNG
+Category: MP3Players
+Product: Apple-touch-Generation-Previous-Model
+ReviewerID: A21KQW0DRB4QNG
+ReviewerName: Ken Jacobsen
+Date: February 5, 2009
+Helpful: 25 of 34
+Rating: 1.0
+Title: NOT for News podcasts!
+Content:
+I got an 8GB Touch free with a MacBook and discovered it was completely useless for podcasts -with the new OS, it's now possible to actually download podcasts directly to the touch via wi-fi, but it's still a lousy way to hear and watch news shows compared with a device that allows full web functionality, which both the Touch and the iPhone do NOT do. News shows online are overwhelmingly produced in Flash or Realplayer formats, neither of which Mac allows on its handhelds. This causes huge and unnecessary problem and inconveniences for news junkies. So be warned! Go for a handheld that allows full web functionality if you want easily accessable webcasts. 
+This should be a warning as well for anyone who thinks they'll get full web functionality on a Touch or iPhone -you get nothing close without Flash or Realplayer. Mac is following the Microsoft model of forcing you to use its software, in this case iTunes, rather than allowing full web access.
+Here's how you access a news show on the computer: go to the webpage, read the info, if you want to hear or see it, click.
+Here's how you access a news show on the Touch: forget the show's webpage, it's useless to you. First you have to do a search for it by keyboarding in the show's name in iTunes, then you have to download (not stream) a podcast. Then to hear any future podcasts, you have to go to stored "Music" files and search thru your downloads, find the show you want, then click on "Get More Episodes". Then the Touch goes to Safari, opens the podcast list in iTunes and hopefully lists the current show. Unfortunately, the latest news show, though it's on the website, is often not available in iTunes. It's not uncommon to have to wait 24 hours to get a news show from iTunes that's already available on the show's webpage. And what you get in Itunes is a bare three word preliminary description of the show, as taken from the show's website. It's your guess whether it's something you might be interested in. The show's actual website will give a full length description of the show and the guests, but Apple in its cluelessness won't let you listen to anything directly from a website, you gotta go thru iTunes or not at all. 
+If you chose to live stream a news video from iTunes, if iTunes drops it, as it often does, you have to type in the name of the show via "Search" and start over, or try to find where you were dropped at. Its' all a huge pain you wouldn't have on a machine that allows full web access.
+Shame on Apple for hamstringing its browser in this way, and following the discredited Microsoft model. If you want current news via the internet, this is NOT the way to go.

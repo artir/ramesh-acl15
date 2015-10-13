@@ -1,0 +1,11 @@
+ID: B001P05NKG-R36YD9E5V7FO2Z-A3895VBEZ453XA
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A3895VBEZ453XA
+ReviewerName: L. Larrea
+Date: February 1, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Good Laptop for OS X and Win 7
+Content:
+I bought this laptop to replace a Dell Inspiron.  I have a Mac at home and wanted to be able to use some Mac programs at work but I still needed access to Windows, so I installed Win 7 in Bootcamp and also access it through VMWare.  I had some problems activating Windows in both Bootcamp and VMWare but that is a software issue, eventually it worked fine.  The laptop runs both OSs perfectly. I am writing this review in Windows 7 natively.

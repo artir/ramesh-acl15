@@ -1,0 +1,13 @@
+ID: B001NEJO2M-RZKFDAYU19AZ5-AN61ROKUV9WH7
+Category: Laptops
+Product: Toshiba-Satellite-U405-S2915-13-3-Inch-Laptop
+ReviewerID: AN61ROKUV9WH7
+ReviewerName: J. Maranell
+Date: June 10, 2009
+Helpful: 
+Rating: 4.0
+Title: Powerful little notebook at a nice price
+Content:
+I'm totally impressed with this little Toshiba notebook.  Its got the hardware specs to handle Vista, multitasking, and even a little light 3D gaming.  Battery life is good, and the screen is very crisp and colorful.  The 64 bit Vista OS and max memory capacity offer possible future upgrades, if desired.  Build quality is acceptable; its no Toughbook, but its sturdy enough to survive a few bangs and jars while being toted around in my backpack (its also very light and easy to carry).  The glossy keyboard took some getting used to, its a little slick, but gives nice springy feedback when keys are pressed.  The roomy hard drive provides plenty of space for music, videos, and even another operating system :)
+Upon receiving this notebook, I setup a separate drive partition and installed the Windows 7 Ultimate 64 bit Release Candidate.  It runs great, very quick and capable when multitasking, and the Vista 64 bit drivers provided by Toshiba are all compatible and working.  I look forward to upgrading this fall, and using this Toshiba notebook for several years.
+Its a great little notebook at a very fair price, I was looking at another similar model from Dell, which with similar options (bluetooth, memory, 64 bit OS), was a little over $1100, with a 2 week wait.  I picked this Toshiba up from Amazon, on sale, for $770 shipped, and received it within a week.  I'm very happy with this Amazon purchase.

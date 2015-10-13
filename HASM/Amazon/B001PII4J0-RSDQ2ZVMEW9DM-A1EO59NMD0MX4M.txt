@@ -1,0 +1,21 @@
+ID: B001PII4J0-RSDQ2ZVMEW9DM-A1EO59NMD0MX4M
+Category: Laptops
+Product: Sony-VGN-P530H-Lifestyle-Processor-G-Sensor
+ReviewerID: A1EO59NMD0MX4M
+ReviewerName: Joon Y. Kim "HaMa"
+Date: February 8, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Very handy and comfortable.
+Content:
+I have used few other laptops and desktops. But this was my first try with "netbook." This products has a great features, style, and size and that's one of the reason I bought this netbook.  There are some pros and cons about this and I'll let you know to help you on purchasing this item.
+pros:
+1. The Size: size of this product is just amazing. There are few other netbooks came out but this is the smallest. Very handy and portable. I mean who's gonna beat the size of 9.65" x 4.72" x 0.78" and the weight of 1lb 4.8oz?  The only thing is, it's not going to fit on your hip pocket, like it advertised. But It will fit on your hand just fine, or for girls, it will fit on your small purse.
+2. The resolution:  Most of the netbooks came out with the screen resolution of 1028 x 680, but Sony made this 1600 x 768, which provides more comfortable views for users. Although, the 8 inch screen is kindda too small for that resolution, you might feel tired after looking at the screen for long time.
+3. The instant booting system:  The instant booting system (based on Linux system) takes about 15 seconds to boot up, you can browse websites, watch movies or listen to musics.  You can also boot up the computer to windows mode from there.  This comes very handy.
+Cons:
+1. Sony just had to make it with the Vista.  The performance goes dramatically down running Vista on this product.  You can also downgrade it to XP, which makes VAIO P much faster to perform, but you will find lags watching movies because there's no GMA 500 chip set driver for XP. The best way to use VAIO P is to upgrade its operating system to Windows 7, overall performance was very nice. Although, it might be slower than XP, you can use GMA 500 driver and overall performance is good.
+2. VAIO P is using 1.33GHz Z520 Intel Atom Processor.  This chip set makes VAIO P not able to perform as fast as other laptops, but for netbooks, it is pretty fast. 
+3. The price of this is about $1,000 when most of netbook's price is around $500. I don't think VAIO P performs twice as much as other netbooks, but the design of it is more than twice as much as other products.
+4. HD (Hard Disk) performance is much lower than SSD (Solid State Disk) performance. I think it'd be much better to choose SSD model if you want to buy this. Bad about it is the capacity. It only holds 60GB for HD, and 64GB for SSD. 
+Overall, This is a netbook that I personally thought of best. I think this is definitely not for the main computer, but great for sub-computer. It comes very handy and portable, so if you are looking for a sub-computer (or laptop), this is one of the best.

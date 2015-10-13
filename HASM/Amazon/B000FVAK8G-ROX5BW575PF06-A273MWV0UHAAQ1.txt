@@ -1,0 +1,16 @@
+ID: B000FVAK8G-ROX5BW575PF06-A273MWV0UHAAQ1
+Category: SpaceHeaters
+Product: Honeywell-HZ-709-Radiator-Digital-Controls
+ReviewerID: A273MWV0UHAAQ1
+ReviewerName: A customer in Seattle
+Date: November 13, 2009
+Helpful: 4 of 4
+Rating: 1.0
+Title: After one week, would not power on
+Content:
+I bought one of these at Target (where the price is, incidentally $20 less than Amazon's), and it worked well for exactly one week. During that time, I had only two quibbles:
+> The thermostat read about four degrees too low -- but it's easy enough to set the control for four degrees less than the temperature I wanted.
+> The electronic controls are reasonably intuitive, except for the timer feature, which is just bizarre -- if you inadvertently set the timer, you'll have a heck of a time disabling it. And it's a shame that all the settings are purged when the unit is shut off (or when it shuts off automatically). The next time the unit is powered up, it will revert back to a 70-degree setting, which -- especially when coupled with the 4-degree-too-low thermostat, is far too warm for my application. And it will default to the highest setting, which isn't what I want either.
+The heater produces nice, even heat. Like all oil-filled heaters, it takes a few minutes to get up to working temperature, but that is not a drawback. In fact, I like this feature of oil-filled heaters.
+The reason for the one-star review is that yesterday, the heater simply shut off and would not power up again. At first I thought there might be an overload protector, but there isn't one, and even after waiting a day, it still wouldn't power up. (And yes, the outlet supplying the unit is functioning fine).
+Fortunately, Target has a fantastic return policy (I had lost my receipt, but they generated one when I handed them my credit card), so this heater didn't cost me anything except time and trouble. But I would strongly suggest you avoid this model. It's nice when it's working, but judging by several of the reviews here, the electronic control unit is simply poorly engineered (a bit ironic given that Honeywell is a pioneer in control devices).  Save money and trouble by buying a unit with a conventional control unit.

@@ -1,0 +1,11 @@
+ID: B000WG3SH4-R12KO2XJ6K25QK-A5S7014DMIA58
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Red
+ReviewerID: A5S7014DMIA58
+ReviewerName: T. Petersen
+Date: December 25, 2007
+Helpful: 16 of 23
+Rating: 2.0
+Title: Not all files play
+Content:
+I bought this for audiobooks that we download from our local libray. They are WMA format, and the Zune says that it plays WMA files, but when I tried to transfer it wouldn't work. After deeper reasearch I discovered that it will indeed play WMA files, but only if you buy them from the Zune store. It seemed like a good player but I returned it right away, so I didn't get a chance to explore it. I bought a Creative Zen and it is sweet and played all my files perfectly, including the audiobooks.

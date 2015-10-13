@@ -1,0 +1,34 @@
+ID: B002C7446A-R22JEWACP9R3WP-A1H1P8VZRDLMV5
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A1H1P8VZRDLMV5
+ReviewerName: Rocky "hillking"
+Date: February 9, 2010
+Helpful: 
+Rating: 4.0
+Title: you need to know the cons of the "pro"
+Content:
+I used MacBook Pro 13 for half a year. It was joyful.
+The things I do like:
+1. Sleek elegant design and cool feeling by touching it
+2. Very little noice, super quiet
+3. Runs windows and MacOS that gives me access to everything
+4. super fast shutdown/standby-wakeup for mac os.
+5. brightest LCD among all laptop I have used
+6. multitouch is wonderful. 
+7. SnowLeopard has very little virus.
+The things I really DON'T like:
+1. Get hot easily playing video or even just browsing simple flash video websites 
+   I never have 7 hours battery time. 
+   with max brightness and web browsing only, it lasts about 3 hours.
+2. the edge of the palm-rest is very sharp and uncomfortable
+3. VLC media player cannot play my BlueRay rips from hard drive smoothly on Snow leopard
+   but it works well on windows 
+4. No HDMI output. even the VGA/DVI connector is extra $39
+5. None of my 3 VPN client from Cisco/Checkpoint and Shiva works on snow-leopard. 
+   I have to use windows to connect back to my office
+6. MacOS's dock is way less useful than the windows task bar.
+7. The DVD drive is very loud and annoying
+Conclusion: Comparing to highend HP/Sony/Dell laptops, this one has way better design and sweet price.
+Dell's Ademo is about 50% more expensive. Most PCs are ugly but powerful, if you don't need that extra power for the same money but you like quiet and fast starup/shutdown, nice feeling and joyful experience.
+Then why should you buy a PC laptop?

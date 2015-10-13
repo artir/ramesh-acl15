@@ -1,0 +1,11 @@
+ID: B002BDU8X8-R2WL7TZ8NBO4TE-A16D8DLTN5JJWS
+Category: Laptops
+Product: Toshiba-Satellite-L555D-S7910-17-3-Inch-Laptop
+ReviewerID: A16D8DLTN5JJWS
+ReviewerName: Stephen Tashiro "sometimes reliable"
+Date: October 8, 2009
+Helpful: 3 of 9
+Rating: 3.0
+Title: No BIOS setup access from Linux
+Content:
+I rate this machine as below average from the point of view of a Linux user.  On most machines you can install Linux without losing any functionality.  However a FAQ on a Toshiba website states that the only way to access the BIOS setup on the Satellite L5xxx series is to use a Toshiba utility program that runs under the Windows Control Panel.  Unlike many other Toshiba laptop models, you cannot get to the BIOS setup by pressing F2 as the machine boots.  You can get to a boot priority menu by pressing F12 as the machine boots and select to boot from the DVD drive.  So it may be possible to install Linux.  (I have been able to run the Ubuntu 9.04 live Cd.)  However, it is unclear whether there is any way to retain access to the BIOS except by leaving Windows on the machine and trying to set it up as a dual boot system.

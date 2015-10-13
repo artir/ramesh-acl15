@@ -1,0 +1,31 @@
+ID: B002P3KVAY-RIJA0ALYMB0XB-A3NKQDP0UY5ZMB
+Category: Laptops
+Product: Acer-AS1410-2039-11-6-Inch-Windows-Premium
+ReviewerID: A3NKQDP0UY5ZMB
+ReviewerName: M. Bentley "mrb186"
+Date: December 28, 2009
+Helpful: 1 of 2
+Rating: 5.0
+Title: An Acer Netbook Conspiracy??
+Content:
+I am wondering what is going on with the ACER 1410 series.  I have been trying to get the red version of this netbook (AS1410-2954) and it has completely disappeared from any Amazon listing.  They even removed it from my Wishlist!  It had almost 20 comments so this seems very strange.  Just a few months ago they had over a dozen versions of this netbook for sale and now they are essentially GONE from all merchants!  I just now stumbled onto one website that showed it available so I put in my order.  I will update this review after (if) I receive it.  You can find hundreds of 10" netbooks with 160 Gig drives in the $350 price range but the 1410 series has so much more with the 11.6" screen, 250 Gig drive, and Win 7.  Why have these things all disappeared?? 
+Well, I got it, from B&H Photo (very quick & FREE ship)!!!
+I have to say that I am very comfortable with Win XP and I certainly did not like Vista (sold that laptop).  But Win 7 appears to be a worthy replacement.  
+I was a little shocked to see that Task Manager showed 800+ meg of ram being used after startup with "nothing" running.  However, I was able to get this number down to 600 after removing all the bloatware and using MSconfig to disable a lot of unnecessary startup programs.
+Certainly, $400 is getting into laptop pricing but these 11.6" models are so far ahead of any 10" netbook, it's no contest.  It is incredible that these models seem to be disappearing from all the major merchants (Amazon, Buy, Newegg, Tiger etc).  They are such an incredible value with 2 gig ram, 250 gig drive, 11.6" display, 6 hr runtime, Win 7. 
+Pros
+-I assumed this would have the same shell as my 11.6" ACER AO751 (w/ Win XP) but this design contains the 6 cell battery much deeper into the housing so it doesn't stick out the back at all.
+-You can still squeeze this into the 10" neoprene sleeve from Case Logic
+http://www.amazon.com/Case-Logic-Ultraportable-Neoprene-Notebook/dp/B0018LYCYK/ref=wl_it_dp_o?ie=UTF8&coliid=I3DB8YQI29S8MZ&colid=24OG2H0A4T5GO
+-Trackpad buttons are separate and not a toggle design (but the Logitech Nano mouse is the only way to go)
+-HDMI output is slick
+-Very quality look and feel, slim and light, would have cost $2000, 5 years ago!!
+Cons:
+-Both ram slots are occupied with 1 gig sticks, so you have to throw away at least one of these if you want to bump up the memory
+-Wish I would have grabbed one of these when they were $299!!
+Nitpicking
+-I use "HOME" and "END" alot, so I don't like them as function keys.
+-These netbooks all have a nice tiny charger/adapter but WHY do we need a clunky 3 conductor power cord?
+-A lot of 'trial' software that has to be removed (but I suppose that allows ACER to cut prices).
+-The display is glossy, the matt screens are much better (MSI's) 
+OVERALL: Very Impressed - Incredible value!

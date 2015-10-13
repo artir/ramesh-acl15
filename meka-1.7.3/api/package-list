@@ -1,0 +1,15 @@
+meka.classifiers.multilabel
+meka.classifiers.multilabel.NN
+meka.classifiers.multilabel.cc
+meka.classifiers.multilabel.meta
+meka.classifiers.multitarget
+meka.classifiers.multitarget.meta
+meka.core
+meka.experiment
+meka.filters.multilabel
+meka.filters.unsupervised.attribute
+meka.gui.core
+meka.gui.explorer
+meka.gui.goe
+moa.classifiers.core.driftdetection
+weka.classifiers.functions.supportVector

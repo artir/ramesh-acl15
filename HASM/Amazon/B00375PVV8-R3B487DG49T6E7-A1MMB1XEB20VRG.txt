@@ -1,0 +1,16 @@
+ID: B00375PVV8-R3B487DG49T6E7-A1MMB1XEB20VRG
+Category: Laptops
+Product: HP-Pavilion-dv4-2170us-Lightscribe-Notebook
+ReviewerID: A1MMB1XEB20VRG
+ReviewerName: Sebastian "BMRSEB"
+Date: March 15, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Great laptop!
+Content:
+Had this HP DV4-2170US for just over a week and love it. The keyboard has a nice silky feel to it and responds nicely. Love the "touch" volume and WiFi controls; you basically just slide your finger over the volume level to adjust and just "tap" the WiFi icon to turn it on/off, cool! The screen is nice and has that glossy look that most new laptops have.
+I got a pretty good deal on this laptop through Staples. The offer included a $46 instant savings, plus a $50 savings from HP and it was priced pretty low to begin with. I ended up paying ~$670 shipped, tax, etc., not bad for an Intel i5 processor, 14.1" machine with 4GB/320GB HD. 
+My only issue was that initially, it did recognize my WiFi setup but would not authenticate? I tried resetting my wireless router, rebooted it, reset all the settings, etc., nothing worked!  I then finally just reloaded the driver/software for the adaptor (off of HP's site), and that fixed it, go figure!
+Battery life could be a bit better, I get just over 3 hours on a full charge which I believe is less than HP indicates (4 hours?), but that's not really a deal breaker.  Others have mentioned that the Intel i5 processor is a bit of a power monger, not a bad sacrifice for more speed/power!
+Overall, if you don't mind the white cover and keyboard I definitely recommend this laptop.
+On a side note, the HP DV4-2160US is the exact laptop (same specs) but with a brownish/plaid cover and black keyboard instead of the white setup on the HP DV4-2170US.

@@ -1,0 +1,11 @@
+ID: B0000DKHIC-R3JTH7HNQIZ5ZY-A2F3UVY7V2XEHM
+Category: SpaceHeaters
+Product: Honeywell-HZ-338-Sure-Set-Ceramic-Oscillation
+ReviewerID: A2F3UVY7V2XEHM
+ReviewerName: H "M"
+Date: November 11, 2006
+Helpful: 7 of 9
+Rating: 1.0
+Title: Do not buy
+Content:
+The thermometer of this heater is completely messed up. It does not measure the room temperature, but the temperature of the air that has just been heated up. In other words, if your room temperature is 60 degrees and you program it to heat up the room to 70 degrees it will do so (according to the thermometer reading) in less 2 minutes and stop. If you do not use this functionality, but instead let the heater run for some time (5-10 minutes) the thermometer will want to make you believe that the room temperature has gone up to 90 degrees. The thermometer is probably in the wrong location. Did Honeywell do any kind of testing before putting this model on the market ?!

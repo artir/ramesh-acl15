@@ -1,0 +1,18 @@
+ID: B0000EI9VR-R7XM0GQ4CLSFD-A3K4IFDEHTYRSU
+Category: MP3Players
+Product: iriver-H120-20GB-MP3-Jukebox
+ReviewerID: A3K4IFDEHTYRSU
+ReviewerName: Peter Marreck "technophile"
+Date: November 30, 2004
+Helpful: 3 of 8
+Rating: 3.0
+Title: iPod is not just a pretty face
+Content:
+I got to try both of these (the iRiver and a recent iPod) recently. Without re-hashing what others have said here, a few impressions:
+1) I have to say that, despite the supposedly simple "drag and drop" music transfer to the iRiver, I don't want to manually manage my playlists on my audio device. I go through a lot of new music and have a number of so-called "smart playlists" in iTunes that automatically synchronize with the iPod. For example, I have a playlist that contains only "songs rated 4 or 5 stars" (I can rate them right on the iPod, or in iTunes, and the information will transfer the next time it's hooked up) and a playlist that contains "songs added to the library in the past month that I haven't listened to completely yet". And a bunch more. You have no idea how cool this is until you try it, and the iRiver doesn't supply the goods. This is the kind of thing that everyone is talking about here when they say the iPod software is better.
+2) WMA and OGG support. OK, I really do wish that the iPod had OGG support- the iRiver does- I suppose Apple didn't want it competing with AAC (which, by the way, is about as good, and also a standard, specifically the MPEG4 standard). But who in their right mind would use WMA to encode their precious music and thus subject themselves to vendor lock-in? "Windows" Media Audio? Do you really think "Windows" is going to be around forever? (I should hope not, being a user of "other" operating systems myself). Have you really let Gates brainwash you *that* much? It's not like AAC stands for "Apple's Audio Codec" (the first A is for Advanced)- I'd have to be drinking some serious Apple kool-aid to rip all my music using a codec with a single company's name in it. Same goes for WMA. Stick to standard formats!! Stay away from crappy WMA!!
+3) Many people seem to be under the mistaken impression that you can't mount an iPod as a hard drive. Uh, you are all wrong.
+4) Even though the battery life of the iPod (12 hrs) doesn't match the iRivers', it charges a heck of a lot faster, and it also will charge through the FireWire/USB2 connection, which is very convenient.
+5) Those of you who think USB2 is "plenty fast" obviously have never used FireWire. It is not just slightly faster, it is practically an order of magnitude faster.
+6) the stock white iPod buds do suck, as do the stock iRiver buds. Get a pair of those new in-ear Sonys- they rock.
+7) Many people are leaning towards iRiver simply because it's "not the overpopular iPod" or "not Apple". To these people I say: If you want to pander to an underdog, Apple was always the original underdog product maker. While you're buying an iRiver for the underdog-ness, why not check out a Mac to see if it has anything more to offer you than the ever-present horde of Windoze machines do?

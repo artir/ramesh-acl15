@@ -1,0 +1,13 @@
+ID: B000BC2GGS-R18D35TURT605T-AVRBO3PFGMKSI
+Category: SpaceHeaters
+Product: Honeywell-HZ519-Digital-Profile-Comfort
+ReviewerID: AVRBO3PFGMKSI
+ReviewerName: steve
+Date: November 26, 2007
+Helpful: 8 of 13
+Rating: 1.0
+Title: Beware of this product: Honeywell HZ519
+Content:
+I am a retired professional mechanical engineer, with the last 10 years in product warranty and cost reduction.  As a certified Six Sigma Black Belt (requires 8 weeks study of advanced statistical analysis in additional to project management and design experience)my job was to identify product design and maufacturing process issues to reduce warranty and manufacturing cost.
+This heater, which was a Consumer Reports best buy and very highly rated had a 50%  failure rate for me (one of two units failed).  The cost has gone from $61 to $129, apparently only because of the Consumer Reports review.  From my background in statistical analysis, even for a very small sample of 2, the failure rate is unacceptable.  There is a high likelyhood that the manufacturers failure rate is in excess of 5% (unacceptable from their point of view) and extremely unlikely that it is less than 0.5% as it should be for products with similar design technology.
+This product is now out of production and this indicates that the manufacturer is not able to fix design or process flaws. The Department of Energy recommends "...the best types incorporate a heat transfer liquid, such as oil...".  Check it out!

@@ -1,0 +1,15 @@
+ID: B002SG7LW4-RIMP3EVQF4ULF-A36HDQLC8SKTVU
+Category: Laptops
+Product: Lenovo-Thinkpad-14-Inch-Black-Laptop
+ReviewerID: A36HDQLC8SKTVU
+ReviewerName: C. Ross
+Date: April 7, 2010
+Helpful: 0 of 1
+Rating: 2.0
+Title: Lenovo technical issues.
+Content:
+I have only used the SL-410 for about two weeks, so my experience is, admittedly, limited with this product. 
+Overall I would rate this a 4-star laptop, excellent for moderate business productivity.  The screen is sharp, glossy, but so much that it catches glare coming from florescent lights, or through office windows. The keyboard buttons are large and I find typing fairly simple and easy. The mouse interface has both the "nub" (my own word) which is a characteristic red finger sensor that used to be common on most of the major brands but only remains on Lenovo laptops, and the trackpad, which does hiccup sometimes, so your cursor can jump around unintentionally if you don't use small gestures. I have no problem with either of these really. 
+Initially, when you boot up the computer you will encounter the telltale bloatware present on every new PC these days. My first boot up took nearly twenty minutes (18m:45s) and until I disabled all of the completely unnecessary programs running the performance was quite pathetically slow for a Core 2 Duo processor. However, I used the MSCONFIG utility (type MSCONFIG in the search bar of the start menu) to disable all of the bloatware on startup and when I rebooted the computer was a far more reasonable 3 minutes. 
+It was when I went to backup the system disks on the Lenovo partition that I ran into my first problem. I ordered the Dual Layer DVD rom specifically for a project that requires a lot of data backup, so when the system hanged after I put in the DVD-DL, I was distressed to discover that my laptop was configured with the CD-RW combo drive, despite the invoice and order information containing the part # of a  DL drive. Lenovo's post-sales number (1.866.428.4465) gave me someone with imperfect English who told me to call technical support. I called the number from the invoice--and to make a long story short, I have been bounced back to post-sales and I am waiting to find out if I need to ship the whole computer back or if they can just send my a new drive. Since I don't think that Lenovo's DVD drives are modular the way that Dell and HP drives are, I think I must ship it all back. As it turns out, this is a good thing, as I have since discovered that my RAM isn't the 1066mhz DDR2 that I ordered, but 800mhz DDR2, which isn't really that much of a performance decrease, but still, I should have received what I paid for.
+Anyway, I reduced my rating by 2 stars to account for each of these misconfigured items, and if my Lenovo return process goes well I will post a comment amending my review rating.

@@ -1,0 +1,14 @@
+ID: B00126NSVE-R3EKMS9YLPN3JE-A1W92T04X7GD26
+Category: MP3Players
+Product: SanDisk-Sansa-View-Video-Player
+ReviewerID: A1W92T04X7GD26
+ReviewerName: J. Crew
+Date: January 1, 2009
+Helpful: 8 of 8
+Rating: 2.0
+Title: Major Firmware Bugs
+Content:
+I've had my 32GB View for about two months now, and am actually on my second one, after having the first one replaced by SanDisk under warranty. The player works great for music (I have not tried downloading and viewing videos) except for one major flaw that I have experienced on both my original player and now my warranty replacement player - it takes over fifteen minutes to boot back up after it has completely shut off. 
+By way of explanation, I'm running the latest firmware (as of 1/1/09), have the Power Saver mode turned off (set to 00 minutes), using a SanDisk 16GB MicroSD card in the expansion slot, and have synced about 20GB of 192 Kbps files to the internal memory and about 10GB to the expansion slot using Windows Media Player 11 - pretty standard stuff and what I thought the player was made for. 
+A search of forums shows this slow booting to be a fairly common problem. Contact with SanDisk support results in nothing more than a replacement of the player, only to experience the same problems with the new player.  At this point I'm not sure if I've just gotten two lemons, or if there are serious firmware problems involved. However, based on my experience and what I'm seeing on forums, I'd suspect the latter.
+I'd recommend steering clear until forum activity indicates this problem has been resolved by improved and functional firmware.

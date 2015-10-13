@@ -1,0 +1,11 @@
+ID: B001NEJO18-R2TX3SCYJ4LO0G-A310S6L5NDL4Z2
+Category: Laptops
+Product: Toshiba-Satellite-L355-S7902-17-0-Inch-Laptop
+ReviewerID: A310S6L5NDL4Z2
+ReviewerName: AusTexas
+Date: August 18, 2009
+Helpful: 
+Rating: 1.0
+Title: failed after 1 week
+Content:
+One week after I received this model, I was unable to boot the machine in normal mode. I was also unable to get the machine to reach a system restore point from the safe mode. I have no option but to restore it to the factory settings which will lose all the information I have entered in the first week. I understand the value of regularly doing backups but I guess  will have to do a daily back up due to the fickle nature of this machine. What a disappointment............

@@ -1,0 +1,12 @@
+ID: B000W12V86-RVIEBXRQ9E4D3-A1V6KT9XXEGDUV
+Category: Laptops
+Product: Pavilion-DV9650US-17-inch-Entertainment-Processor
+ReviewerID: A1V6KT9XXEGDUV
+ReviewerName: G. Desjardins
+Date: November 22, 2007
+Helpful: 10 of 14
+Rating: 3.0
+Title: Nice computer, but one serious problem
+Content:
+Overall, I like the 9620.  The display looks better than previous iterations of this machine, and applications run smoothly with the default 2 GB of RAM.  There aren't a lot of excess factory-installed applications, and I got the operating system to where I wanted it within an hour.
+The serious problem?  The right shift key is tiny - you can see it in the photos.  There is also a second set of cursor keys next to the shift key, so I often hit them by accident while typing.  I've never seen this setup before - it's an ergonomic nightmare, and almost worth returning the computer.

@@ -1,0 +1,11 @@
+ID: B00198BBQ4-R2I0PX7MZHJNZ7-A2L35P0VQE7LBN
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: A2L35P0VQE7LBN
+ReviewerName: nowann
+Date: September 26, 2009
+Helpful: 1 of 1
+Rating: 2.0
+Title: Hard drive failed less than one year old - buy with warranty!
+Content:
+I had an older Inspiron years ago that I had no problem with so felt comfortable going in to purchase a new 1525. Less than one year in (purchased in December 2008), I was unable to boot the computer and ran a diagnostic check (hold down 'fn' button and power on) and got Error Code 0142 indicating hard drive failure. Luckily I purchased through the Dell website and a 1-year limited warranty was included to cover the repair, but I would definitely be wary of purchasing this computer. It appears there are several people if you use Google that have had the same problem, and weren't as lucky to have it covered by warranty. I would suggest a different model laptop or at least definitely buy it with some warranty.

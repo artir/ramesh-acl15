@@ -1,0 +1,14 @@
+ID: B002JPITY8-R372Z6NLLZOSH2-A2WC79S45R8UH1
+Category: MP3Players
+Product: Zune-Video-MP3-Player-Platinum
+ReviewerID: A2WC79S45R8UH1
+ReviewerName: ethan vyce "ethanvyce"
+Date: January 8, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: ZuneHD good machine needs better WiFi
+Content:
+There are many, many reviews here on the Zune with a lot more detail than mine will have. 
+Overall it is a very good media player. The sound is fine and if you watch video, the screen is great. The controls are fairly easy to use. The main reason I went with a Zune over other players was the ability to sync over WiFi. The setup for this was a little troublesome until, after some Google searching, I found that the Zune does not sync over networks with a hidden SSID. After I un-hid my SSID it synced fine. Until I plugged it back into the USB. Then it was confused. I had to redo everything again. 
+Also there are only about 3 quality speaker docks (that also charge the device) for the Zune, and they're not cheap, $80+. That fruit company has about 1000 docks for the iThingy many under $40. I'm going to get an AC plug and some passive speakers for the kitchen and see how that works. 
+I do recommend the Zune, though be prepared to defend your choice to the iClones out there who need 7 different flavours of Mountain Dew but only 1 media player.

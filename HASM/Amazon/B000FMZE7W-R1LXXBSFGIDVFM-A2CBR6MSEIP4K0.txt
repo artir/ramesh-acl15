@@ -1,0 +1,18 @@
+ID: B000FMZE7W-R1LXXBSFGIDVFM-A2CBR6MSEIP4K0
+Category: MP3Players
+Product: Zune-Digital-Media-Player-White
+ReviewerID: A2CBR6MSEIP4K0
+ReviewerName: Alan Sutton "Crashracer"
+Date: January 18, 2007
+Helpful: 32 of 43
+Rating: 1.0
+Title: Good hardware, poor software
+Content:
+I was excited to have an alternative to the iPod, but this is a poor designed product. 
+1) It syncs only half the time. My new Dell XPS system detects the Zune, but the Zune software doesn't. After rebooting it'll work. I updated the firmware, software etc, still nothing. 
+2) The Zune Marketplace software is looks simple, but it's slow to repond. I found albums dissapearing from my library for no reson. Adding files is very slow, and deleting songs and video is from the Zune doesn't work.
+3) All videos must be converted and this s VERY SLOW. No drag/drop.
+4) The Wifi feature is a joke. Not once have I used this feature because nobody has a Zune to share with. 
+5) No bookmarks for Audiobooks.
+6) Doesn't sound as crisp as the iPod. I listened to the same track side by side and the Zune highs are muffled. 
+7) EQ doesn't EQ. It's either sizzle and boom or flat.

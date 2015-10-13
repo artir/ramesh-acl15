@@ -1,0 +1,15 @@
+ID: B002P3KMVC-R3A0GG7SJBBPM-A2HOCK9YCEVGWI
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A2HOCK9YCEVGWI
+ReviewerName: Wayne Huang
+Date: February 18, 2010
+Helpful: 1 of 2
+Rating: 3.0
+Title: Good laptop, but not even close to 12 hours
+Content:
+There should be a disclaimer here stating that the 12 hrs claimed battery life is hypothetically possible under certain conditions. That means monitor brightness totally down, no wifi, on battery-saving mode (less CPU power), and minimal activity on the user's end. Contradictory is the fact that on the box and labels it states 10 hrs. Where did 12 hrs come from? At best, expect 8-10 hrs on two energy-saving modes, 5-6 hours on entertainment and high-performance modes.
+The trackpad is difficult to use, very rough, and drags. The mouse buttons could have been better designed. It's one straight single bar so often you find yourself clicking the wrong mouse button. Also it's a stiff button. 
+Been using Skype with it a lot and with the built-in mic, the other end sometimes has a hard time hearing me. It's not the internet connection because I can hear their voice perfectly on the speakers. When speaking at a normal level, if you're more then 1.5 feet from the mic, your voice begins to dim. Also, you have to be facing the mic directly. At an angle, it just doesn't pick up as well. Just barely usable IMO. 
+Aside from those negatives, it's a very user-friendly laptop. Great wide keyboard. You can run several programs at once and not worry about memory. Great specs overall, can't complain there.
+1080p video is choppy at best, 720p is smooth and playable. Dedicated video card would have helped, but that would mean a thicker laptop and more energy consumption. That's the trade-off and one I was willing to settle with.

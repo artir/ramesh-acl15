@@ -1,0 +1,13 @@
+ID: B001G5ZTLS-R21YMEZMIQNKF4-A2YMHFRCKLM5MN
+Category: DigitalSLRs
+Product: Canon-EOS-5D-Mark-II
+ReviewerID: A2YMHFRCKLM5MN
+ReviewerName: C. peacock
+Date: March 22, 2009
+Helpful: 8 of 21
+Rating: 3.0
+Title: My Camera hangs when trying to transfer the pictures
+Content:
+Hi,
+    I love the pictures this produces but the transfer hangs when connecting the cmaera to the computer. I have updated the fireware, tried different cards and I have 3 computers; it does the same thing with all of them etc I am using a 16gb extreme iv card from sandisk and that works fine in a media card reader. Anyone else seen this issue?
+Chris

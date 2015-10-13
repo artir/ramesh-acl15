@@ -1,0 +1,11 @@
+ID: B000PHS8MA-R2GS2ZPSTG7Z33-A3C1KTTG2VJVO0
+Category: MP3Players
+Product: Creative-Zen-Stone-Player-White
+ReviewerID: A3C1KTTG2VJVO0
+ReviewerName: J. Milligan "what"
+Date: December 7, 2007
+Helpful: 
+Rating: 5.0
+Title: A tiny, lightweight player with standards
+Content:
+I love this thing!  It uses standard mp3 files and mounts as a standard portable drive, so there's no need for any additional software to load it up--just drag and drop from Explorer or Konqueror or whatever.  It connects to the computer via a standard small-format USB cable, the same style as used on my digicam, which will be handy if I ever lose the cable.  And it weighs literally 15 grams--about half of what my already-lightweight eyeglasses do.  My experience with the battery life is somewhere in the neighborhood of 6-10 hours depending on how loud I have it, which for me means I charge it up about once a week.

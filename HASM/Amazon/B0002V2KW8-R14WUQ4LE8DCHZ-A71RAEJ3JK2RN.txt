@@ -1,0 +1,28 @@
+ID: B0002V2KW8-R14WUQ4LE8DCHZ-A71RAEJ3JK2RN
+Category: SpaceHeaters
+Product: Aloha-1-2c500-2dWatt-Ceramic-Tower-Heater
+ReviewerID: A71RAEJ3JK2RN
+ReviewerName: J. Pawlowski
+Date: October 22, 2008
+Helpful: 
+Rating: 1.0
+Title: DOA
+Content:
+Heater arrived with no visible shipping damage to the outer, & inner box, or the heater. But the heater would not work. No power... nothing. Being a top repairman, I decided to fix it rather than go through the hassle & cost of shipping this big heavy thing back.
+I discover on the bottom, the tip-over switch is stuck in. I pulled it out. Seemed fine now, but the heat still didn't work. After pushing the tip switch a few more times, it gets stuck in again. Tried turning & working the timer & still nothing. The instructions hardly say anything, not even how to work the timer.
+I open it up. The connectors to the tip-over switch are loose & just easily slide off. Poor contact with that much current would cause arcing, overheating & cause a fire. I crimp the connectors so they fit snug, & firmly slid them back on the switch. I also notice that the swicth doesn't line up with the button sticking out the bottom. Pushing the button makes it sometimes scrape the side of the switch & get stuck there. It's not bent or broken... just don't line up. I bend it to make it line up properly.
+Heater still don't work. After examining the wiring it don't make sense! They have both sides of the 120 volt line going directly across the timer on-off contacts... not going to the heating elements, & the timer motor coil as it should be! The contacts should have been in series with only one side of the power, not direct across the power.
+I check the timer contacts (they're inside the timer & not visible) with an ohm meter. They're wide open & not functioning. Maybe they're on a magnetic relay. I apply power to the timer & timer moter, & the contacts still are not functioning no matter how I set the timer.
+The timer is burnt out.
+After someone incorrectly wired the timer, someone plugged in the heater before I got it & blew the timer out. With the power shorted by being placed directly across the timer on-off contacts, it would have made a pop, snap, smoked, or at least blew a breaker or fuse. 
+Then they had the nerve to box it up, knowing it was blown out, & ship it to me.
+I bypassed the timer, & it works... with no timer.
+It's a shame about the poor manufacturer quality control & defects, because other than the problems mentioned, it appears to be well designed, & solidly built.
+It has 2 overheat sensors in it. It has the encapsulated overheat sensors commonly found in coffee makers, & a reed type overheat sensor. Wiring & power switch are rugged heavy duty. It's also much bigger than expected... almost as large as an upright kerosene heater, & almost looks like one.
+Although the ad made no claims that this was a radiant hearer, by the picture & design... coils of nichrome wire around a large heavy ceramic core, I hoped it would put out lots of radiant heat in 360 degrees when placed in the middle of a room. But it doesn't. The coils glow such a dim red, you can't even see them glowing unless you're in a dark room. 
+This is primarily a convection heater with no real advantage over other convection heaters. Most of the heat goes straight up. There is no fan & it's completely silent. It's heating pattern & characteristics is similar to those of electric oil-filled radiators, except the radiators do a better job.
+It does give of a little radiant heat in a 360 degree pattern too, but you have to be within a yard of the heater to barely notice it, & about a foot away from it to enjoy it... just like the oil-filled radiators.
+It doesn't get dangerously hot, & objects near it don't get hot, so except for defects I found, & fixed, it shouldn't be a burn & fire hazard.
+The cage & top of mine was coated with a black velvet like substance, & not silver like pictured... probably to prevent burns. I thought the velvet-like material might catch fire, but after taking a lighter to it, & trying to burn the substance I found it would not burn.
+On the box, on the heater, & in the instructions it say's it's only 1,000 watts, not 1500 watts. My tests also confirm this. It's about 500 watts on the low setting.
+This could be a fair heater with some quality control. It could be a great heater if they block the top & bottom center vent hole on the heat core to reduce convection & increase infrared. Infrared could further increase by having the coils burn a brighter red, orange, or yellow. This should have been designed as a infrared radiant heater... it came close, & even looks like one.

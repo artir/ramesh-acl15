@@ -1,0 +1,14 @@
+ID: B002SJ38M8-R36JKDUA0PEV7J-A2JRDD9SH9S7DJ
+Category: Laptops
+Product: Acer-Aspire-AS1410-2497-11-6-Inch-Laptop
+ReviewerID: A2JRDD9SH9S7DJ
+ReviewerName: John H. Earl
+Date: October 28, 2009
+Helpful: 35 of 35
+Rating: 5.0
+Title: Fantastic netbook
+Content:
+Considering the specs, that it comes with Win 7 Home Premium, and the price, this is a fantastic little machine. I wanted to use this for a perhaps slightly different purpose than most netbook users. I am a photographer and really wanted the ability to check photos in the field. Making sure things are in focus, for example, is often important because I do a lot of macro photography. It's impossible to really tell on a camera LCD how the image has turned out. I own an older laptop, but it's just too darn heavy to lug around all the time. I was a bit worried that the resolution of a 10-inch netbook would be too low to see good detail but with this netbook and its bright, higher-res screen, the details are all visible and the photos look great. Not that it would replace my desktop, but that's not its intended purpose. That said, it's useless in full sunlight but if you can find any sort of shady spot, it's pretty good. A lot of my work is done indoors anyway. I've found I have to crank up the screen brightness outdoors and that helps a lot. That probably would affect battery life, but I don't anticipate running out of power on a typical shoot anyway.
+Of course, I've only had the thing for one day, so I can't comment yet on reliability. It does run pretty fast and boots up quickly, so no complaints on performance. I don't intend to put Photoshop on it since I just want it for review purposes and Windows Photo Viewer is perfectly adequate for that. Unfortunately, my camera uses Compact Flash cards and there's no built-in reader for them, so I have to use an external USB reader. One more thing to carry, but I can live with it. Not a huge amount of crapware on this machine and what there was was easily removed.
+The only other con (common to all netbooks) is that there's no CD/DVD writer. I have yet to figure out how I'd restore the system without one if the hard drive ever had to be replaced. Apparently there's some way to use a USB thumb drive but haven't figured that out. I just decided to order a USB CD/DVD writer. Don't think I'll need it much but it will just make life easier - not only for disaster recovery but for any software installations I might do.
+All in all, I'm pretty happy so far.

@@ -1,0 +1,15 @@
+ID: B000I1ZWRW-R2WT553KQ22UGS-AWZJHLU69PAH7
+Category: DigitalSLRs
+Product: Canon-Digital-10-1MP-Camera-Body
+ReviewerID: AWZJHLU69PAH7
+ReviewerName: DJRob
+Date: July 17, 2007
+Helpful: 39 of 42
+Rating: 3.0
+Title: Anti-dust features not that effective
+Content:
+Dust on the image sensor is a problem inherent to all DSLR cameras. Whenever the mirror box is exposed to the environment, dust can (and will) get in and get statically attracted to the image sensor. Canon, with the ultrasonic dust cleaning feature and the image-degrading dust delete and detection software, seems in principle to have solidly addressed the problem. Unfortunately, this does not impress in practice. 
+If you are not familiar with how sensor dust appears in photographs, look at the sample in the Product Description, where they attempt to demonstrate the strength of the dust management features- or go to pbase.com and look at samples of the XTi from regular, everyday users. In particular, look for samples that have lots of blue sky. The dust will appear as spots/dots or splotches. The more your lens is stopped down (small aperture, >f10), the more prominent the dust spot in the image. 
+I purchased an XTi body and Canon's EF 28-135mm USM lens from Amazon and, in my rather clean office, I carefully unpacked the camera and lens from their display boxes and immediately mated the two. I only had one lens, so the two were never unpaired. I took the camera on a mountain trip and was horrified to find dust spots on many of my shots. At first I thought I got something on the lens filter (purchased separately) but no. The spots appear in the exact same spot from shot to shot and become sharper if the aperture is stopped down. They are non-existent when the lens is wide or moderately open (shallow depth of field).
+Before I enflame a bunch of pro photographers, once I realized the dust was present on my images, I ran through the forced cleaning and allowed the camera to map the dust for removal in the DPP software. Subsequent shots of sky with small aperture revealed no improvement. Amazon instantly replaced the camera, but it was actually worse. After doing some research, I was led to the Giottos Rocket Air Blaster, but this just moved some of the spots to a different location on the sensor. I have an expectation that a factory fresh DSLR would be clean and free of debris on the image sensor. Even higher-end Canons apparently have this out-of-the-box problem- just google it. I refuse to resort to physical methods (swabs/fluid) to clean the sensor of brand new camera, the very act makes me a bit nervous. 
+I would accept a dust problem if I changed lenses in the field, wind blowing and all, but this is not the case. However, the special dust management features of the XTi fail under the most benign conditions. I give the XTi 3 stars as a penalty for failing on the dust promise, but would give it 5 stars otherwise. It does take fantastic pictures, especially on photos taken with low f numbers and without big areas of light-colored objects.

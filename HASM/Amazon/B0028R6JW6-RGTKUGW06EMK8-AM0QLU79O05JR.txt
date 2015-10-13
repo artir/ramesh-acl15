@@ -1,0 +1,11 @@
+ID: B0028R6JW6-RGTKUGW06EMK8-AM0QLU79O05JR
+Category: Laptops
+Product: MSI-X340-023US-13-4-Inch-Laptop-Silver
+ReviewerID: AM0QLU79O05JR
+ReviewerName: Book buyer
+Date: May 27, 2009
+Helpful: 7 of 66
+Rating: 3.0
+Title: Nice and cheap but Vista on 2GB?
+Content:
+Looks great for the price conscious but it is not a MB Air look alike other than slimness. MSI makes decent but plasticky cheap looking laptops. Plus it runs Vista on the slow proc and a max of 2 GB ram. Ugh. I want 4 GB minimum for Vista and i prefer 6 GB. Might be nice with Linux if you have to settle for cheap hardware.  Windows 7 is more bearable on 2 GB but not much.  XP is archaic even though it runs well on minimal hardware like this.

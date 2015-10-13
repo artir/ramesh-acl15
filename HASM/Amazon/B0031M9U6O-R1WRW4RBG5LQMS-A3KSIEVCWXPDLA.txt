@@ -1,0 +1,14 @@
+ID: B0031M9U6O-R1WRW4RBG5LQMS-A3KSIEVCWXPDLA
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS1810T-8459-11-6-Inch
+ReviewerID: A3KSIEVCWXPDLA
+ReviewerName: JK "JK"
+Date: March 25, 2010
+Helpful: 2 of 7
+Rating: 2.0
+Title: Nice computer - no customer support from Acer
+Content:
+I have no real problems with the design and performance of this laptop, except for the trivial problem that it attracts fingerprints like mad. I do have a huge problem with Acer, which provides NO support for the OEM version of Windows 7, even under the warranty period.
+Before buying, please be clear on what the warranty covers: It covers 1 year of hardware support only. The only other support is that for 3 months, Acer will reinstall the software, but not provide any other form of support.
+I'm having a problem now where after two days the laptop stopped seeing the Windows XP computers on my network. As a result I have no practical way of transferring files.
+In summary: If you have any Windows problems, you have to rely on community support or fee-for-service support from Microsoft or Acer's own version of paid support. I'm not sure what service other manufacturers provide these days when it comes to the OEM Windows version, but if there are better options, I would strongly consider this before making a decision to purchase this computer.

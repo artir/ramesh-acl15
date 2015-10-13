@@ -1,0 +1,19 @@
+ID: B0001LFRIS-R2UQ2FKCHUJWQ9-A226QGLOQ2RTWZ
+Category: DigitalSLRs
+Product: D70-Digital-Camera-Body-Only
+ReviewerID: A226QGLOQ2RTWZ
+ReviewerName: Eric
+Date: December 4, 2004
+Helpful: 30 of 32
+Rating: 5.0
+Title: A Great Digital SLR
+Content:
+This camera is awesome! I have a Nikon N80 35mm film camera and the D70 is basically a digital version of the N80.  They look and perform in very similar manners.  The D70 is slightly taller and heavier than the N80, though.  I do want to warn people that digital photography with a D-SLR is different than film photography with a 35mm SLR.  It takes practice and a little time to get used to it.  But once you do you'll love it! 
+The D70 has pretty much everything a digital SLR needs.  It takes exceptionally sharp pictures with the 6.1 MP sensor.  The rechargeable battery lasts forever.  So far I've taken about 200 pictures (some with flash, some without), reviewed the pics on the LCD and experimented with various menu functions and the battery meter hasn't gone down any yet.  
+The menu on the D70 is expansive.  It has all kinds of customizations to make the camera fit your personal preferences (Like which control knob changes aperture or shutter speed, bracketing order, self timer length, etc).  The camera also includes many white balance settings and adjustments like vivid, saturation, contrast, etc. 
+The camera can take pictures in 5 different options: NEF(RAW), JPEG fine, JPEG Normal, JEPG Basic and NEF+JPEG Basic.  And the pictures can be taken in 3 sizes: L (3,008x 2000), M (2,240x 1,488) and S (1,504x 1,000).
+The D70 has a very fast write time to the memory card.  Plus it has a memory buffer which lets you continue taking pictures even while the camera is writing to the card.  Because of this I would recommend saving some money by buying a basic type memory card.  I don't think you really need a "high speed" card.  When I was testing out my camera, with a basic card, I was able to take 7-8 JPEG Fine pictures in about 3-4 seconds before the camera's buffer filled up (as soon as a picture is written to the card the buffer frees up space and so you can continue to take pictures but the picture taking rate slows down, maybe 1/sec. instead of 3/sec.)
+The viewfinder is very clear and has a bar at the bottom that tells you shutter speed, aperture, metering numbers, etc.  You can elect to add horizontal and vertical lines to the viewfinder as one of your custom settings.  I would recommend doing this since it helps you keep things leveled up.
+Auto focus is fast and pretty accurate most of the time. Of course you need AF lenses to utilize this feature.  There is really no "shutter lag."  As soon as you push the shutter button the camera takes the picture.  Also, there is no start up time when you turn the camera on.
+There are a few things I wish the D70 had.  First, I wish it had a bigger viewfinder (like the one in the N80).  Second, I wish it had "live view" on the LCD monitor like point and shoot cameras.  As far as I know no D-SLRs have "live view."  Since SLRs have a through the lens viewfinder the camera's mirror (which flips up when the picture is taken) blocks the digital sensor. Third, I wish it had a sensitivity speed of ISO 100.  And fourth, I wish it had a mirror lockup mode for taking slower shutter speed pictures (The mirror can be locked up for cleaning, why not for picture taking!).
+In conclusion, this is a great camera and you will not be disappointed.  I think it is a steal for $1,000 since it has many professional D-SLR features.  I would definitely buy it again and I very highly recommend it.  Best of luck in your digital photography endeavor!

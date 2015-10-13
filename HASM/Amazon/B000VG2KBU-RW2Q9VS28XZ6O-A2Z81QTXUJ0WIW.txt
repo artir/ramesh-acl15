@@ -1,0 +1,18 @@
+ID: B000VG2KBU-RW2Q9VS28XZ6O-A2Z81QTXUJ0WIW
+Category: MP3Players
+Product: Transcend-T-sonic-Video-Player-Black
+ReviewerID: A2Z81QTXUJ0WIW
+ReviewerName: Kurt G. Schumacher "Grey"
+Date: July 12, 2009
+Helpful: 1 of 2
+Rating: 2.0
+Title: Okay MP3 player, but not good for much else
+Content:
+The Transcend T.sonic 840 is an adequate MP3 player, and a decent FM radio tuner. The other functions on the device are pretty much a waste of time and space.
+The first thing I did when I turned it on was to start the radio, because I hadn't loaded any files on it yet. It immediately popped up a message requesting me to plug in the headphones. Weird... so I checked the device and the manual, and found that in fact this device does not have a speaker. 
+Okay, I'm not going to get really great sound out of something like this. But my Zen Stone has a speaker, and I do use it. (Mostly for audio books where sound quality isn't that critical.) So I was disappointed to find that I had to use headphones with the T.sonic.
+Once I had the ear buds in (and I really dislike ear buds, but didn't want to spend time digging for headphones), the radio sound was quite adequate. I loaded some MP3 files onto the device, and again the sound was quite good for a device of this type. Navigation through folders was pretty easy.
+I really wanted to see how video would look on a screen this small. Then I got another unpleasant surprise. In order to play a video on the device, you have to convert it to their proprietary "MTV" format. Ugh. So I installed their conversion utility and ripped a DVD to my hard drive. I converted one of the VOB files from the DVD and copied it to the T.sonic. The video was pretty blocky, but better than I expected. But... there was no sound. I tried the MP3 and radio to make sure the ear buds were plugged in right, then back to the video. No sound.
+So I converted the DVD into a couple of file formats that the T.sonic said it supported and tried to convert them to the MTV format. Whatever format I tried, it popped up a window saying that the import had failed, and that I needed to go find and install some video codecs first.
+Okay, that's pretty bad software design. If a conversion programs needs codecs in order to work, I expect it to come with those installed. Better yet, I expect a device that claims to be a video player to be able to use some of the common mobile video formats without an additional conversion.
+Overall, this is a pretty disappointing device. I'll probably keep it as an MP3 player, because it has more storage and a better interface than the Zen Stone. But they would have done better to have left the video and other features off. They're just too much trouble for a barely acceptable picture on a tiny screen.

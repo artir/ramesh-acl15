@@ -1,0 +1,13 @@
+ID: B002C7446A-R1AWAE5Y9G8TYI-ATFWRRH0XF29Q
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: ATFWRRH0XF29Q
+ReviewerName: cybersound
+Date: December 25, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Pretty Close to Effin' Awesome
+Content:
+My primary objective was to replace a clunky ol' PC laptop that weighed a ton with a lighter CPU that traveled well.  I'm a Mac gal from way back, and am running Windows apps and Mac apps.  So far Bootcamp plays nicely with the PC-centric video and audio apps I'm using, as well as everything on the Apple platform.  I'm even able to use Guitar Rig (USB guitar effects system) with this MBookPro with very little latency between loaded effects.
+The 4.5lb weight was a huge selling point for me, and so far, the MBookPro has been easy to throw into a backpack and schlep onto planes, trains, and up to the garden at the Getty.  The VERY LIGHT AC adapter is a bonus as well - much better design than the bricks of yore.
+My one gripe is that Apple REALLY needs to put a 7200rpm hard drive into their "professional" laptops; to really work effectively on video on the road, I have found it necessary to bring an external FW800 drive to avoid dropped frames.  Really, Apple, 5400rpm?  My above-maligned PC laptop (purchase in 2005, mind you) has a 7200rpm drive.  Don't be so miserly with your hard drives in the future, 'kay?  I promise I won't Scrooge you out of a 5-star review next time if you do.  Grazie.

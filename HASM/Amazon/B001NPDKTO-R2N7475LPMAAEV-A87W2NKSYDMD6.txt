@@ -1,0 +1,14 @@
+ID: B001NPDKTO-R2N7475LPMAAEV-A87W2NKSYDMD6
+Category: Laptops
+Product: HP-Pavilion-HDX16-1140US-16-0-Inch-Laptop
+ReviewerID: A87W2NKSYDMD6
+ReviewerName: S. Epstein
+Date: July 15, 2009
+Helpful: 
+Rating: 4.0
+Title: Very nicely done!
+Content:
+I purchased the HDX 1140-US for my son. This machine is beautifully constructed, and functions incredibly well. I don't think you can find this much bang for the buck, including dedicated video memory, in another unit in this price range. I think HP hardware has really improved over the years - not so thrilled with their peripheral drivers, though. 
+My only complaint - probably not really HP's fault, but they are contributing to the propagation - is the inclusion of Vista. There are much more competent OSes available, but as long as Microsoft has the vendors in their pocket, I guess we will be stuck with it. Although Ubuntu and others are available, some drivers can be difficult to find. 
+Please convince me that there is a functional reason why Vista cannot be backwards compatible? Why should we have to keep the old laptop around to run XP-compatible software?
+Shop for a good price and rebates and you'll enjoy this laptop - just don't recycle that XP machine quite yet.

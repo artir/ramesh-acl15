@@ -1,0 +1,12 @@
+ID: B001UHOX1Y-R31BUPE7ZHOQZX-A1Z0V5LPG8P6M4
+Category: Laptops
+Product: HP-Pavilion-DV2-1030US-12-1-Inch-Laptop
+ReviewerID: A1Z0V5LPG8P6M4
+ReviewerName: GroovyGeek
+Date: September 24, 2009
+Helpful: 5 of 5
+Rating: 4.0
+Title: Windows 7 makes this shine!
+Content:
+If you've been put off by the heat and battery life issues reported by some reviewers, let me say that these completely disappear under Windows 7.  I noticed the fan blowing hot air out of the side vent shortly after booting into Windows Vista for the first time but after installing Windows 7 and upgrading the BIOS, the DV2 runs cool and quiet.  With CPU undervolting - Google is your friend - the 6 cell battery will provide four hours of constant use with the 'Power Saver' energy profile; something my old MSI Wind u100 could barely manage.
+Netbook or notebook?  Whatever you call it, the HP DV2-1030us is a stylish and capable ultraportable computer, well-suited for home and business use.

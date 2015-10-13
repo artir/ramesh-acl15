@@ -1,0 +1,19 @@
+ID: B0032FOKXS-R1O99ZROMWYCOZ-A1LXOVCXZG5S2T
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A1LXOVCXZG5S2T
+ReviewerName: N. Mcgill "Mom of two"
+Date: March 1, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: exactly what i was looking for
+Content:
+Best laptop i have ever owned. I considered buying a macbook pro 13 but after this came back down to $800 i decided to buy this one. I have owned this laptop for over a month and here are my thoughts. 
+- Processor- I was worried at first that the ULV 1.3 would not have the guts for my high demands on my (work/play) laptop.  I worried for nothing. This thing is blazing fast.  I was pleasantly surprised.
+- Hard drive - I was not very excited about have a pre-partitioned drive to 180 OS and 320 DATA size drives. I prefer to have choose myself if I want partitions.  Although I found the process to fix this issue easier than i could have imagined. I pressed one button during boot up and then choose reinstall OS and remove all partitions using whole drive. a few min later I booted to my OS with no partitions (I almost cried).
+- Fingers - my only real complaint with this laptop is that it picks up finger prints like crazy.  haven't found a fix for this yet.  
+OTHER THINGS I LOVED
+ - screen is really bright - even on low setting
+ - Windows can't figure out how long the battery is but finally get to leave my charger at home (charge every other day or so)
+ - HDMI out works awesome - but only when I was running the NVIDIA card
+Overall I recommend this machine to everyone.  I had to buy an external DVD drive but haven't used it much.

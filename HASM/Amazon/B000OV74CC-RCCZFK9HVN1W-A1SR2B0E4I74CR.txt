@@ -1,0 +1,27 @@
+ID: B000OV74CC-RCCZFK9HVN1W-A1SR2B0E4I74CR
+Category: MP3Players
+Product: SanDisk-Sansa-Express-Player-Black
+ReviewerID: A1SR2B0E4I74CR
+ReviewerName: Silver Ben
+Date: December 7, 2007
+Helpful: 14 of 15
+Rating: 4.0
+Title: Great MP3 Player for the price
+Content:
+You probably won't find a better MP3 player for the price.  While it has its flaws and occasionally buggy performance, the combination of size and features more than compensates for its shortcomings imo.
+Pros:
+1. Small size
+2. Direct USB connection - no need to carry a USC cable around with you (although it comes with a small USB extension cable for use if you need it)
+3. Doubles as a USB drive - I have had no problems storing all kinds of files on it
+4. Syncs well with Windows Media Player or simply by drag and drop
+5. FM player and recorder
+6. Charges fairly quickly from computer
+7. Decent battery life
+8. Good sound quality
+9. Micro SD expandable memory slot
+Cons:
+1. Prone to occasional glitches such as screen freezes (I found that connecting it to a live USB port will fix these problems)
+2. Sound quality of FM recording is average at best
+3. FM radio appears to mainly use headphones as antenna - may need to find the right pair of headphones for best FM signals
+4. User interface could be slightly better
+The headphones that come with the device provide decent sound and FM radio signal but are not comfortable (to me).  I purchased another pair immediately.  I would update the device's  software as soon as you get it to improve reliability.  Use the device lock and remember to turn it off when you're done using it to avoid the battery from running out - it is easy to turn on accidentally.

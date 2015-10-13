@@ -1,0 +1,16 @@
+ID: B0013FLTNS-RC10E01A1S46K-A3EQXYIGJPI497
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A3EQXYIGJPI497
+ReviewerName: DC Machead "DC Machead"
+Date: May 11, 2008
+Helpful: 13 of 13
+Rating: 5.0
+Title: Ideal desktop replacement
+Content:
+I purchased this computer to upgrade an older MacBook Pro (MBP).  It is indeed a very significant upgrade to my 1st Generation MBP.  I won't get into nitty gritty tech specs, as most people I know buy Macs because they want to use their computer, not the other way around.
+The screen is a lot crisper.  My understanding is that it's an LED-based screen, which results in increased battery life.  On the topic of battery life, out of the box I'm getting 4.5-5.0 hours worth of battery life--dramatically better than the 3 hours max I got out of my 1st gen MBP.
+The processing power is dramatically increased, as well.  I never had trouble running anything on the old MBP until I got Parallels--I had to upgrade the old machine to 2 GB of RAM to get performance to an acceptable level and even then it was sluggish.  Not the case with the 2.4 Ghz MBP with 2 GB of RAM.
+Boot up time is significantly increased with this machine and the wireless seems to have extended range versus the prior version.  I attribute part of this to using an 802.11n base station, but I also notice that I pick up more WiFi access points near me, as well and some of them are Belkin 802.11g.
+The one thing that I do find annoying is that Apple changed the assignments for the function keys.  Having used Mac laptops for ~5 years, I found this to be very annoying.  I was able to work around this by changing the key assignments back to what I know.
+In all, a phenomenal upgrade in terms of what you get out of the box, raw processing power, boot time, and increased battery life.  I recommend this laptop without hesitation.

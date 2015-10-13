@@ -1,0 +1,11 @@
+ID: B002M3SOBU-R22G5486NNFJFT-A37N4W4RD4LKLA
+Category: MP3Players
+Product: Apple-Generation-iPhone-Software-Installed
+ReviewerID: A37N4W4RD4LKLA
+ReviewerName: Audio Guy in NC
+Date: April 26, 2010
+Helpful: 0 of 1
+Rating: 3.0
+Title: Slow to render web sites
+Content:
+When loading a web site, all goes well (but slowly) until the last 20% of the progress bar's travel, and then the device bogs down and takes 20 or more seconds to fully load and render the page.  The device is too slow and it seems, cannot fully render a web page for about 45 or more seconds.  During this rendering process, you can't expand the page to read the text and sometimes trying to do this will cause the process to hang or be greatly delayed.  I would not give the iPod touch a high rating because of its inability to quickly download and render web pages.  On apps, it does a great job.

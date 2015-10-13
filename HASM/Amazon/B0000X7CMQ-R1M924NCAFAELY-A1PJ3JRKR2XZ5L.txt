@@ -1,0 +1,18 @@
+ID: B0000X7CMQ-R1M924NCAFAELY-A1PJ3JRKR2XZ5L
+Category: CoffeeMachines
+Product: Zojirushi-EC-BD15-Thermal-Carafe-Coffee
+ReviewerID: A1PJ3JRKR2XZ5L
+ReviewerName: G. Anderson "GarrettA"
+Date: August 9, 2009
+Helpful: 1 of 4
+Rating: 5.0
+Title: great -- and recommended mod
+Content:
+we bought this based on honorable mention in Cooks Illustrated drip maker review (we didn't want to fork out big $$$$ for Technivorm ... the cadillac). 
+skip forward three months and REALSIMPLE magazine just scored this product #1 drip coffee maker.  Note the Technivorm was conspicuously absent (ie. still the best).
+I found mention on this amazon comments page about suggested MODIFICATION.  We followed instructions and completely AGREE.   
+The key issue with Zojirushi coffee maker is fact that boiling hot water headed for coffee must pass through plastic tube literally in middle of water reservoir.     The primary problem with this:   ideal coffee extraction temp at approx 195-205degF (ref various coffee brewing articles -- Cooks Illustrated and Good Eats/Alton Brown).   The trip of "hot" water from heating element -- through cold water resevoir -- changes temp of water delivered to coffee basket by large # (note;  I never farted around with testing...).
+So -- with all this in mind:  make visit to local hardware store (Depot or Lowes) and buy 3ft length of PEX water tubing.   It will be near copper fittings and/or radiant heating materials.   Pretty sure I bought 1/2".
+Then you'll need to remove top section of coffee maker (this takes a degeee of "commitment" to grab, focus, bend, detach).  Cut PEX tubing approx length so assembly will go back together and enjoy.
+Note:  the bottom of resevoir has steep angle so water easily drains from inside space between PEX and existing hot water supply tube.
+enjoy. -GA

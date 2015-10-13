@@ -1,0 +1,12 @@
+ID: B000TKDQ5C-R17ENCSH9BN5D9-A3OTNPX43778QK
+Category: SpaceHeaters
+Product: Lasko-754200-Ceramic-Adjustable-Thermostat
+ReviewerID: A3OTNPX43778QK
+ReviewerName: J. Czukor "cjanos"
+Date: February 16, 2009
+Helpful: 
+Rating: 3.0
+Title: It blows hot air
+Content:
+The heater runs ok, the noise level is average. The thermostat is unreliable and non reproducible. It turns the heater on and off at vastly different temperutures depending on the low or high heat setting. 
+The logic of the heater does not make much sense either. When the thermostat turns the unit off, the fan by itself can not be turned on until the thermostat switches back. The red, power indicator light stays on when the main power switch is turned off.

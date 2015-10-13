@@ -1,0 +1,11 @@
+ID: B0029U151M-R2ZKP9J1FHOXB8-ARLCE0Z9EX4PR
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: ARLCE0Z9EX4PR
+ReviewerName: Jeffrey Griffin
+Date: November 23, 2009
+Helpful: 1 of 1
+Rating: 1.0
+Title: I'm sure it would have been wonderful if it had worked.
+Content:
+This computer was shipped with what I suspect to be a bum BIOS from the start. Before I had even wiped Windows and installed a new operating system, the system locked up, and I mean 'locked up.' The CD drive would not open or close, it wouldn't even attempt to boot from the hard drive, and the only key combination that worked after showing the manufacturer's splash screen was a soft-reboot key combo (which was useless). No BIOS config, no emergency booting from a Live CD, nothing. I decided that I wasn't going to attempt to 'go cheap' anymore; I promptly returned the machine to Amazon and ordered a new Thinkpad. To be fair, I'm pretty sure I did get a full 8 hours of battery life while staring at the Acer logo!

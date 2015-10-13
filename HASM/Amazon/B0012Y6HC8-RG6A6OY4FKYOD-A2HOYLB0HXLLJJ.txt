@@ -1,0 +1,12 @@
+ID: B0012Y6HC8-RG6A6OY4FKYOD-A2HOYLB0HXLLJJ
+Category: DigitalSLRs
+Product: Canon-Digital-XSI-18-55mm-3-5-5-6
+ReviewerID: A2HOYLB0HXLLJJ
+ReviewerName: J. CHEN
+Date: September 2, 2008
+Helpful: 15 of 17
+Rating: 4.0
+Title: Don't buy the body.....
+Content:
+Buy the kit with EF-S 18-55mm IS lens instead. The new 18-55mm IS lens is a gem and the kit only costs $60 more. This lens is much improved from the last generation and is even optically better than the Canon 17-85mm IS lens that costs many times more. Even if you decide that the kit lens is not for you, you can resell it for much more than $60. 
+So why only four stars? Well, It seems that the latest Canon digital SLRs have a little bit of problem with dead pixels. Mine developed one after a few hundred of shots. Given that there are 12 million pixels, one dead pixel is very hard to see unless you really zoom it in. I mean this is like locating one red-head person from the Tokyo population. Nonetheless, it is annoying when you know that there is a dead pixel. Fortunately, Canon's manual sensor cleaning function also has a firmware program to detect and mask the deal pixels with information copied from an adjacent pixel. You just have to turn the camera into the manual sensor cleaning mode for enough time (30-60 seconds) for the program to checkout the whole pixel map. It fixed my dead pixel problem like a charm. That is why, only one star is taken away.

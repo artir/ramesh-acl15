@@ -1,0 +1,43 @@
+ID: B002P3KMPI-R6KZOXFVJXGXO-A3CW0ZLUO5X2B1
+Category: Laptops
+Product: UL50Vt-A1-Light-15-6-Inch-Black-Laptop
+ReviewerID: A3CW0ZLUO5X2B1
+ReviewerName: 35-year Technology Consumer "8-tracks to 802.11"
+Date: April 2, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: Superb performance for the money; great mix of features
+Content:
+This computer replaced a six-year old Toshiba Satellite laptop that served flawlessly, but is clearly in its final, noisy days.
+While it's far too soon to know if this Asus product can match that length of service, their motherboards enjoy a good reputation among the build-it-yourself crowd and their netbooks have been well received. After exercising this computer for a short time, I'm very impressed.
+This laptop is very strong in four areas that helped me narrow my selection from a dizzying array of laptop choices in its price range:
+(1) display size and quality (15.6 inches, crisp and bright, separate video processor with 512 MB of its own memory)
+(2) system memory (4 GB DDR3)
+(3) battery life (Asus advertises 12 hours; more on how they get to this below); even without the tweaks that get you to the high end, it offers great battery performance.
+(4) length and scope of warranty coverage.
+About the battery life which other reviewers have criticized as not meeting the marketing hyperbole (Amazon indicated 11+ hours and a sticker in the packaging claims 12+ hours)....
+Asus has a power control scheme offering the option to select from two video adapters: a discrete NVIDIA Gforce G210M video processor or the integrated Intel display adapter. Users then have to decide whether they want enhanced video or extended battery life. A small power button above the keyboard lets you make this selection. You can also select an auto mode, which makes the choice for you based on whether using AC power or the battery is being used.
+Asus also includes a power management utility offering four power setting scenarios (high performance, entertainment, quiet office or battery saving). Each of these can be further customized (display blanking, screen savers, sleep mode, etc.) as you determine your balance of performance vs. battery life.
+So: can you really get 11 or 12 hours of battery time? Maybe.
+IF you select the battery saving mode, and IF you accept the diminished video performance, and IF you give up power-hungry goodies (like with Windows sidebar) and if you avoid power-intensive tasks (like CD burning or video rendering)...you might get there. I always figure the marketing figures are make some best-case assumptions...
+What I have done it used this machine for six untethered hours while enjoying the enhanced video and writing to multiple DVDs. As an upgrade to an old machine that could barely get to 90 minutes away from an AC outlet: six hours battery time for full-featured operation is excellent.
+Their support seems better than many other manufacturers. I registered with the Asus support site, and posted a question about operating the webcam. Within five hours, I had an email response. Very impressive. Although I haven't tried it --or had a need to-- they also have a 24/7 toll free number.
+Asus offers the following mix of warranties on this computer in the US and Canada:
+-30 days for "bright dot" (hot pixels...they don't say anything about about dead ones!) on the display. ANY singe pixel qualifies for this.
+-1 year on the the battery
+-2 years on the computer
+-1 year accidental damage coverage (which they immediately extend to 2 years when you register online)
+-two way shipping for any repair/RMA situations.
+For the money, this is a superb laptop choice and Asus appears ready to stand behind it.
+Why not five stars?
+Small issues with the overall package.
+Each is minor, a and couple are a matter of personal preference rather than an actual flaw. However, they probably reflect how Asus achieved this combination of price point and computer performance. While they don't detract from the overall value of this machine, they collectively stand between four and five stars. If there were a 4.5 star option, this computer would be there.
+Gripes:
+(1) No recovery media is included. An automated utility prompts you to run it at setup (or you can do so anytime you'd like to afterward). You will need four DVDs to do this; if you use DVD-RW media, this will take well over an hour). Just like with user manuals in soft copy: this is something that should not be pushed to the consumer, and should have been in the box. Even though the utility interface indicates success (or not), I'm left with less confidence in my self-made recovery media than I would have with media that shipped from the factory.
+(2) No speaker volume control wheel. Volume is controlled either with via the task bar (using a mouse or touchpad) or FN keys.
+(3) No physical switch to turn the wireless adapter on/off. This is done either through a FN key or a task bar icon (and you may not remember the latter, because it can be hidden under Windows 7 options!).
+(4) The webcam software was not easy to identify. This was mostly because of a silly, cartoonish user interface that also makes it hard to use. They could have done better by talking to at least one user.
+(5) Others have written about the super glossy wrist-rest area. It's an an absolute fingerprint magnet and skin oil pallate. A matte or brushed finish, similar to this machine's outside cover could have eliminated this. I'm considering fine-grain sandpaper to roughen this area up!
+(6) I prefer a power adapter that plugs in at the rear of a laptop. This one plugs in on the left side, which can be in issue depending on the AC outlet location.
+(7) One of the three USB ports is at the front right of the machine. If you use this for a mouse (as many right-handers might), you'll have mouse cordage right where you might prefer to place the actual mouse.
+None of those are serious enough to diminish a "buy with confidence" bottom line for this computer. It's light, powerful, power-stingy and full-featured.

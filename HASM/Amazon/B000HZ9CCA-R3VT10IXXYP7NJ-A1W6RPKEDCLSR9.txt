@@ -1,0 +1,11 @@
+ID: B000HZ9CCA-R3VT10IXXYP7NJ-A1W6RPKEDCLSR9
+Category: MP3Players
+Product: SanDisk-Sansa-e280-Player-Black
+ReviewerID: A1W6RPKEDCLSR9
+ReviewerName: C. Pichner "Pichner"
+Date: May 21, 2008
+Helpful: 
+Rating: 4.0
+Title: The e280 is a great buy and the v2 player supports micro SDHC
+Content:
+I got this bad boy as a gift for my birthday about 3 weeks ago.  It took me a while to figure out how to create playlists without using some sort of 3rd party app.  The short answer was to manage my songs using folders.  Once the folder is copied over to the player you can select all the song in a folder and right click and select create playlist.  You cant have more then one playlist file in a folder for some reason so make sure you keep them in the folder with the music.  The one thing that bugs me is using the scroll wheel for the songs list, it only have one speed so it takes forever to find a song if you cant remember the artist name.  Overall this is a great product and a good option for those who don't use iTunes.  Battery life is great and it has a nice clear screen to view pictures and videos.  Amazon sent a e280v2 player which is great because it supports micro sdhc without the need for custom firmware.

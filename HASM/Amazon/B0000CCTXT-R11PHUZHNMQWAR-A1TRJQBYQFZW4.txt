@@ -1,0 +1,11 @@
+ID: B0000CCTXT-R11PHUZHNMQWAR-A1TRJQBYQFZW4
+Category: MP3Players
+Product: Memorex-Biomorph-Digital-Player-MMP8500
+ReviewerID: A1TRJQBYQFZW4
+ReviewerName: B. Kelley
+Date: December 29, 2004
+Helpful: 
+Rating: 1.0
+Title: Garbage
+Content:
+I got one of these for Christmas, and I didn't even get to listen to a single song. The user-interface for the FM tuner did not work very well, so I followed the manual's instructions to do a firmware upgrade. I formatted as per the manual, and now the player is dead. Complete waste of money IMHO.

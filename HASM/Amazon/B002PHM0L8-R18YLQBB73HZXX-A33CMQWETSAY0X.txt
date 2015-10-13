@@ -1,0 +1,12 @@
+ID: B002PHM0L8-R18YLQBB73HZXX-A33CMQWETSAY0X
+Category: Laptops
+Product: Sony-VGN-NW240F-15-5-Inch-Windows-Premium
+ReviewerID: A33CMQWETSAY0X
+ReviewerName: Homer
+Date: December 5, 2009
+Helpful: 3 of 5
+Rating: 2.0
+Title: Great Laptop, Terrible Battery
+Content:
+Laptop is great but the battery is horrible.  I get about 2 hours on a charge under the "balanced" power setting.  The battery also discharges quickly when not in use (~10% per day).  Worst of all, the cost to get a second battery is exorbitant - $200 for a regular, and $250 for a higher capacity one.
+If battery life isn't a concern, this laptop has it all.  If battery life is an issue for you, I suggest that you look elsewhere.

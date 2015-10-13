@@ -1,0 +1,12 @@
+ID: B000P0EPGU-R1CP5W69NYNHTP-A1NJHKPHD4YWZV
+Category: SpaceHeaters
+Product: Honeywell-HZ-0300-Season-Temperature-Control
+ReviewerID: A1NJHKPHD4YWZV
+ReviewerName: Brian Wiese
+Date: November 29, 2008
+Helpful: 2 of 2
+Rating: 1.0
+Title: great idea, failed execution. save your $$!
+Content:
+Within the 1st couple of hours of use, the oscillator motor went out or only worked sporadically.  For the heater, there is a temperature dial that you turn for it to kick on, and then after heating for a moment it shuts off - apparently believing it has "heated the area" sufficiently now, however it really has not! The heater fan is very weak and perhaps only heats 1-2 square feet around it.  I was always upset that it seemed to auto shutdown on the heater so soon. That lasted a little while, and now the heater will not even turn on reliably, even in a cold room (50-60 F).  I've owned it for less than a year and sent a note to Honeywell requesting an RMA, we'll see what happens.
+It's just full of faulty parts apparently, and I'm surprised the fan still works!  I don't know how the heat dial works or that it determines to shut down (temp sensor, timer, etc) but I think they should make it work like the fan... just always on and the dial just adjusts how hot the heat coils get.  The "running for 2 minutes, then off, then a click, then _maybe_ turning back on again" sounds like it.

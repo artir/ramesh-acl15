@@ -1,0 +1,14 @@
+ID: B000I1YWLY-R135MDFADNQ89W-A1LL5WKB14TKNX
+Category: CanisterVacuums
+Product: Electrolux-EL-Bagless-Canister-Vacuum
+ReviewerID: A1LL5WKB14TKNX
+ReviewerName: Michael G. Anstey
+Date: March 30, 2010
+Helpful: 
+Rating: 1.0
+Title: DON'T BUY THIS PRODUCT!
+Content:
+OK, This vaccuum was purchased as a refurbished item directly from electrolux.  It arrived quickly and looked brand new.  We were able to use it for about a 2 months before it quit working.  During the time that it worked we found it quite loud (other reviews found it quiet??) and found that the bare floor attachment was almost too large and as a result reduced suction.
+Overall we were happy with the vaccuum while it worked.  Then the trouble begain!  One day while vaccuuming (while the vaccuum was running) I tried to change the length of the wand which is accomplished by pushing a button on the wand and sliding it to the new length.  WARNING! DO NOT TRY THIS WHILE THE VACCUUM IS RUNNING!  The wand has electrical connections to allow power to get to the power head, even though I was just using the bare floor attachment, this simple act caused the vaccuum to immediately stop working! So I called the toll free number listed on the bottom of the vaccuum to see if there was some simple explanation for the breakdown that could be easily rectified.
+Lets talk about customer service (or lack there of).  First of all it was almost impossible to talk to a human!  after finally getting a hold of one, they could offer no help at all.  Basically they suggested packing the vaccuum back up and sending to a repair depot (at my own expense), with an estimated repair time of over 2 months!.  After reading some other reviews about how long it actually took to get the vaccuum back (over 3 months), I decided that option was not going to work for me.
+Being a brave soul, I started taking the vaccuum apart to see if I could determine what the problem was myself.  This is not an easy task!  There are several hidden screws and some are very hard to reach.  After almost full dissassembly, I discovered that there was a 50 cent fuse soldered directly to a circut board that had blown as a result of changing the length of the wand while the vaccuum was running.  First of all if you are going to put a fuse in a product, you shouldn't have to take the whole product apart to get to it.  Secondly, if that fuse needs to be replaced it shouldn't be soldered directly to the circuit board!.  Unable to find a fuse that could be soldered directly to the circuit board, I had to make my own.  Once  I replaced this 50 cent piece the vaccuum worked perfectly again.  I've got to say I seen many poorly designed products in my day, but this one takes the cake!.

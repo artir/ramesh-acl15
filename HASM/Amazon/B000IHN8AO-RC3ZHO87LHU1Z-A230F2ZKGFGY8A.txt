@@ -1,0 +1,17 @@
+ID: B000IHN8AO-RC3ZHO87LHU1Z-A230F2ZKGFGY8A
+Category: DigitalSLRs
+Product: Pentax-10-2MP-Digital-Camera-Reduction
+ReviewerID: A230F2ZKGFGY8A
+ReviewerName: 6x9 "6x9"
+Date: October 20, 2007
+Helpful: 2 of 2
+Rating: 5.0
+Title: A Miracle Camera! A Huge Improvement Over the *Ist Ds.
+Content:
+I am using this camera since June 2007, and am really happy with it. 
+It is very well engineered and built, feels great in hands. I like its size, proportions and weight. Autofocus and usability were greatly improved over the Pentax *Ist Ds (which I also own). It focuses much faster and really acurate.
+Built-in shake reduction system (SR) works well for me. It gives about 2 extra stops when shooting in low light conditions. It works the best for me for exposures between 1/8 to 1/30 s. But in certain situations the SR can be an enemy. I noticed that when I shoot at 1/50...1/60 with the 18-55 kit lens and SR switched ON, the percentage of blurred shots is noticebly higher compared to the situation with SR switched OFF.
+JPEG quality has improved dramatically compared to *Ist Ds.
+Rather poor color balance for lower color temperatures is not a problem for me, since I shoot only in RAW.
+Multi Exposure mode with two available optons (with and without auto-adjust) is amazing. I only wish it would work simultaneously with auto-bracketing too.
+Some peolple reported a "sensor tilt" problem - meaning that the CCD sensor is misaligned (rotated) in the camera. I am not sure if this is a problem with the sensor mounting itself or with the viewfinder alignment, but my shots are indeed tilted by some 1 degree, compared to what I see in the viewfinder. Odd, but I can tolerate this. Perhaps, this is the price to pay for the in-body shake reduction.

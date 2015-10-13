@@ -1,0 +1,11 @@
+ID: B002PHM0KY-R1Q9G4W7L8C5ZJ-A11XDU6CI6OT4I
+Category: Laptops
+Product: Sony-VGN-NW240F-15-5-Inch-Windows-Premium
+ReviewerID: A11XDU6CI6OT4I
+ReviewerName: J. Saenz "jmsaenz@bellsouth.net"
+Date: January 13, 2010
+Helpful: 
+Rating: 4.0
+Title: good value
+Content:
+check around for pricing, that is my strongest advice.  very pleased with the textured finish, looks and feels more expensive than its similarly-priced display-mates with their glossy finishes and flimsy keyboards. love the kb on this, just similar to wife's macbook chiclet keyboard and pleasant to type on.  seems to run cool.  nice screen, a little glossy. love the instant web which is  a mini-type of linux booting from an onboard memory chip..it is a variant of firefox 2, altho a little dated, can boot into a web environment in around 10 seconds, even connecting w/ wireless, and flash video did work on it.  great for public wifi type net access or just getting some info quickly.  This pc seems to be fast starting win7 and runs office 2007 very well on that.  no complaints re performance for usual business/net type stuff.  the 4500 might not be that great of a 3d graphic deal but was not expecting that for this price point.  battery life not great ufortunately.  Sony also has given access to some nice utils to clean registry, etc, all that usual windoze maintenance stuff.  sound level and quality about usual for most notebooks.  no volume up/down buttons on case, has to be function keys, mild downside.  I take it that there is a recovery partition that you can access during boot (sorry don't remember the key) should everything crash and windows needing restore, and can also burn some recovery discs via utility for Sony, recommended.  dual boots Mandriva free 2010 and runs that os very nicely.  this Atheros wireless device nice on mandriva 2010, no problemo. could not get kubuntu karmic to recognize, but did also work on ubuntu karmic.  in short this notebook had enough linux compatibility to be useful for me.  what can I say, am happy enough with this.

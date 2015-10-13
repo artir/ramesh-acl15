@@ -1,0 +1,14 @@
+ID: B002LEVGMO-R26V73LTKQ3ICP-AJX9FKZP1Z5I3
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: AJX9FKZP1Z5I3
+ReviewerName: Humberto Moreno "humbertomoreno"
+Date: January 31, 2010
+Helpful: 
+Rating: 5.0
+Title: Pretty little netbook
+Content:
+This is a wonderful netbook. I bought it with 2G of RAM and purchased separately another DDR2 module - total 4G now. Doing this was piece of cake... Upgrading it to Windows 7 64Bit was also very easy, and all the drivers were recognized on the fly, during the process...
+I love the design, and it's a very powerful netbook. This is no Intel Atom processor, it's a real Pentium. For what I use it, (software development) it's excellent. Also, the display, although tiny (no complaints, that's exactly what I was looking for), has an excellent maximum resolution.
+I have to say, I love this netbook, needless to say, the price was an amazing deal. Overall, I'm really happy with it.
+Thank you Amazon for your excellent service - I received it very quickly in 2-3 days.

@@ -1,0 +1,14 @@
+ID: B000FMZE7W-R114MHTEK9R39W-A1OTFTOBXHBGLT
+Category: MP3Players
+Product: Zune-Digital-Media-Player-White
+ReviewerID: A1OTFTOBXHBGLT
+ReviewerName: raf
+Date: December 6, 2006
+Helpful: 0 of 22
+Rating: 1.0
+Title: Designed to hoodwink consumers
+Content:
+While the larger screen suggests higher resolution, the number of pixels is identical to the Apple iPod.  Blown up that size, album art looks a lot worse, is more pixelated with compression artifacts abound.
+Lack of compatibility with both iTunes AND Windows Media Player is definitely not a positive.  The included ZUNE software feels mostly incomplete.
+The final straw is that circular control.  "Oh cool," I thought. "Somebody finally figured out how to do the scroll wheel like on the iPod."  Think again.  The "scroll wheel" you see at the bottom of the Zune is nothing more than a cheap, flimsy four-way rocker switch designed to look like a touch pad.
+Complete, utter garbage.  Avoid avoid avoid.

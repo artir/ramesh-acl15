@@ -1,0 +1,11 @@
+ID: B00150IYRU-R30B17TP1RQ398-A2E30DTXCQ807J
+Category: Laptops
+Product: Dell-Vostro-1500-2x1-6GHz-802-11g
+ReviewerID: A2E30DTXCQ807J
+ReviewerName: *** "a reader"
+Date: March 26, 2009
+Helpful: 2 of 3
+Rating: 1.0
+Title: HD problem
+Content:
+Be aware that if you want to upgrade or replace your hard drive, unlike most other laptops on the market, you must do a total teardown including the removal of the motherboard in order to replace it. This is ridiculous  and evidence of very poor design judgment. The same is true of the A860.

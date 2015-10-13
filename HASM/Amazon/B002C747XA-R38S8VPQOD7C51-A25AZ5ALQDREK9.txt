@@ -1,0 +1,22 @@
+ID: B002C747XA-R38S8VPQOD7C51-A25AZ5ALQDREK9
+Category: Laptops
+Product: Apple-MacBook-MC234LL-13-3-Inch-Laptop
+ReviewerID: A25AZ5ALQDREK9
+ReviewerName: Christopher Tran
+Date: December 11, 2009
+Helpful: 7 of 7
+Rating: 4.0
+Title: A Small Wonder
+Content:
+I'm a PC, but I'm also a Mac.  A Macbook Air (MBA) to be exact.  I'm very much into design so it just made sense.  I first considered something like the Dell Adamo, Latitude Z or the HP ENVY13, But the Dells were heavily under-powered processor-wise.  The HP was crazy powerful, but heftier than I would have liked.  The Latitude's Euro design gave the MBA's design a run for it money, but it starts at over two grand and you'll easily knock on $2500 with the bells and whistles, Yikes! The HP ENVY 13 is very powerful and the only ultra-portable with the i7 processor. But for what I'll be using this for, the mobility and price is more important to me.  The Adamo seemed to match the price and features of the Macbook Air best, but finding that the design, feature and price pretty much a draw (I personally thought the MBA had a very small edge on Design), I settled on the MBA because of the fact that I can run Windows 7 as well as Mac OS X(which I also use for different purposes)and the better build quality. I have to say, the unibody design really makes the thing feel as if it was carved from one piece of aluminum.  There's minimal flex to speak of.  Closed, it just feels so nice in your hands.
+The 1.8GHz Intel Core 2 Duo processor is a lot better than the 1.2 and 1.4 that are available in the Dells; more than enough for my usage.  This might have been a bit meek had I not already had an Intel Core 2 Quad Desktop computer at home.  This also made HP ENVY pointless.
+The screen is more than adequate and much better than a netbook.  Since it's so light, it really can go anywhere a netbook can. The nice Keyboard and trackpad was also refreshing.
+The Solid State Drive is also nice, but after some usage, I really don't find them all that different from a standard HD, perhaps a bit faster, but not that noticeable. It certainly is cooler and less noisy. Some users have complained about it getting a bit warm, but I'm thinking they've got an HD instead of an SSD.
+And now for the few CONs:
+No optical drive - since I won't be needing this too often it's not a big deal.  I already have an external Blu-Ray Drive that I used to install everything.  Once that was done, I can only image using it for an occasion Blu-Ray/DVD movie, but even this will be rare, unless I'm in a hotel room somewhere and bore out of my mind.
+Connectivity:
+No Ethernet, big deal! It's all about wireless!
+Weird Mini Display port - also not a big deal since I don't imaging connecting an external monitor to this much. 
+Only one USB - This one, I admit, is pretty significant.  It was a bit of hassle to swap USB devices a bit, but again, I only use multiple devices a handful of times (mainly a USB DJ Console Mixer and an external USB HD containing the music I want to mix).  I got a little griffin USB "Splitter" which was nothing more than a very tiny USB Hub, but it did have some trouble getting enough power to the HD from this one USB port, so I did have to add a USB power cable to the mix (the audio was clipping heavily during mixing and transition).  So keep that in mind if you're planning to daisy-chain three hard drives, a soda cooler and a reading light to the USB port- just don't. It works fine with the majority of other (low powered) USB devices.
+RAM - Here's the other big CON!  While 2GB of RAM will probably be ok for now, but I would have loved having the option of adding more. I have 8GB on my desktop and I actually use it (photo and video editing, media center functions, terminal services, etc.)!  While I'm not doing much of that (maybe a little Photoshoping) on this thing, all it takes is that killer application that requires at least 4GB of RAM that I can't use that will drive me nuts!
+I have a first generation Macbook Pro from work and I always loved the design of it.  This takes things to the next level.  I'm primarily a Windows user, and this seems to work a bit more seamlessly with Windows than the Macbook Pro(although with the latest drivers and software updates for bootcamp from apple, it got better).  It's kinda odd that I went with an Mac to run Windows, but it was a calculated choice.  Had I been looking for a full-function laptop, it would have likely been an HP or Dell.

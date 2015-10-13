@@ -1,0 +1,20 @@
+ID: B001GCTT7G-R2KP2BJMIND5PM-ABNLGXYGJBJA
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: ABNLGXYGJBJA
+ReviewerName: Naveed Khan
+Date: March 29, 2009
+Helpful: 1 of 3
+Rating: 5.0
+Title: Little Mac- (pc to mac- like going from a cd player to an ipod)
+Content:
+There are so many reviews on this already.  There isn't too much to add.  
+So here were my big concerns and conlcusions after one month of ownership.
+Is it hard to switch to a Mac-
+     very very easy.  I used firefox on a PC, now I use firefox on a Mac.  With all the cool gestures its even better than firefox on a PC.
+ Mac version of MS office is better and easier than MS Office for Windows, which is weird considering MS should really make its own OS version better, but I guess it has more to work with on a Mac.
+Picasa- now available for Mac.
+utorrent- now available for mac.
+Glossy screen- I hate glossy screens, but the mac 13.3 glossy screen is fine.  Never once had any glare ever. On a comprable pc glossy screen, glare was so bad I returned it.  So the screen is actually one of the best I have ever used, even compared to my samsung 24 inch desktop monitor.
+mini displayport- get an HDMI connector from monoprice. That way you can have video out to your HDTV for hulu and such.  But does not carry audio- so you have to also have a audio cable of some kind out to your speakers or tv or such.
+I guess thats it.  Otherwise, what can I say.  After 3 failed windows laptops, from hard drive crash, driver issues, overheating, cracked monitor hinge etc,  I finally got a mac.  The funny thing is when I use a pc now,  I realize that a loading time of 5 or six seconds to start a program just doesn't happen on macs.  Its like going from a cd player to an ipod.

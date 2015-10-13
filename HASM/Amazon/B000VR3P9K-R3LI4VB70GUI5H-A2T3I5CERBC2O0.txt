@@ -1,0 +1,15 @@
+ID: B000VR3P9K-R3LI4VB70GUI5H-A2T3I5CERBC2O0
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A2T3I5CERBC2O0
+ReviewerName: Brian Ward
+Date: April 30, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Perfect mobile workstation for a designer
+Content:
+I bought this to replace my PowerPC G5 tower, but it's much more than a replacement, it's a big upgrade. I'm a web/motion designer, so even for projects at home I need some decent power. A Macbook Pro is pretty much the only way to go.
+Pros:
+I love how small it is, but the uni-body design also feels very sturdy. The LED-backlit screen is amazing and surprisingly bright. It's pretty fast using Adobe CS3 programs. I never have any trouble getting a strong connection to wireless networks.
+Cons:
+I didn't have an option to configure the laptop. It would have been worthwhile to me to upgrade to a 7200RPM hard drive and more RAM. But the cost savings were so great, I sacrificed these minor upgrades. I can add them later anyway if need be.

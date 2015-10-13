@@ -1,0 +1,11 @@
+ID: B002C744K6-R9TCTZYNYIULW-A298OY6WO3UPNR
+Category: Laptops
+Product: Apple-MacBook-MC118LL-15-4-Inch-Laptop
+ReviewerID: A298OY6WO3UPNR
+ReviewerName: Jasperodus
+Date: February 8, 2010
+Helpful: 10 of 28
+Rating: 1.0
+Title: One drop of liquid = potential disaster
+Content:
+Maybe even less than a drop. I splashed a drop of tea on the trackpad. I quickly dabbed it up with a cotton rag. I thought I got it all, but when I tried to use it I noticed it was still a bit damp. I wiped up the residue and at this point (or maybe when I tried using it with my fingers) an invisibly small amount of liquid got into contact with the crack at the edge of the trackpad and seeped inside by capillary action. Since then the trackpad no longer has any effect on software when it clicks. It's still under warranty. I haven't brought it in to the 'Genius Bar' yet; but the warranty expressly denies coverage for water damage. If I end up getting charged for repairs (hundreds of dollars according to my research, thanks to the difficult of reaching the trackpad with the new models' 'unibody construction') this review will remain. If they pay for it, I will come back and edit my review accordingly. I'll keep you posted.

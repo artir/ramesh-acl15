@@ -1,0 +1,20 @@
+ID: B002PHM0H2-R26HSRB47Z0JGI-AAM00WIJ9H22H
+Category: Laptops
+Product: Sony-VGN-FW520F-16-4-Inch-Windows-Premium
+ReviewerID: AAM00WIJ9H22H
+ReviewerName: Aman
+Date: December 18, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Beautiful screen
+Content:
+Pros:
+- Wide & bright screen, good enough to watch movies. 
+- Fancy body design, looks beautiful. 
+- Spaced keys, makes typing very comfortable.
+- good quality webcam/mic that works in low light and can track face movements. 
+Cons:
+- Short Battery life.
+- Does not have the modem jack as it shows in the product description and the picture. 
+- No backup OS DVD. Recovery partition on HDD. 
+Overall a good desktop replacement.

@@ -1,0 +1,16 @@
+ID: B00352LQOE-RHCWJ46OEFIWX-AWNOAYNKBYPKO
+Category: Laptops
+Product: K42JR-A1-14-Inch-Versatile-Entertainment-Laptop
+ReviewerID: AWNOAYNKBYPKO
+ReviewerName: Fabricio Gouvea
+Date: March 29, 2010
+Helpful: 1 of 4
+Rating: 2.0
+Title: Feels cheap
+Content:
+Cons - Keyboard, audio jack, missing conectivity, SD memory reader only
+Pros - looks nice, crispy screen, good battery
+First, a $900 laptop that has only one audio jack! That is non-sense. You need to choose between MIC (then use the low power speakers) or Headphone (then use omni-directional embedded MIC "which captures everything around you"). I contacted customer support and the guy told me I could but those headset (mic+headphone) that has only one plug (like the iPhone ones). Guess what!? It doesn't work. Now my only option is a U$B headset.
+Second, my keyboard feels very cheap. Not only feels, but some keys even get stuck sometimes. Also, when I press any key on the right side of it, all the keys around it go a little down, and the left side of the keyboard goes up. I saw the other guys review, and they liked the keyboard. So maybe that is something wrong with mine. On the other hand, I liked the mouse button.
+The rest is fine, besides not having a eSata and bluetooth (but that I knew befor buying). I don't like the memory card reader as well, but I should have noticed that it took only SD (memory sticks would be fine as weel).
+Regards

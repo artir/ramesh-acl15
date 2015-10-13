@@ -1,0 +1,22 @@
+ID: B001P5GKD0-R3U4IWOSJMLZJV-A17XGKTRG764BO
+Category: Laptops
+Product: MSI-GT627-216US-15-4-Inch-Laptop
+ReviewerID: A17XGKTRG764BO
+ReviewerName: Mikhail Gordin
+Date: July 9, 2009
+Helpful: 
+Rating: 5.0
+Title: Excellent laptop, great price
+Content:
+I purchased the MSI GT627-218US roughly a month ago.  It was a great choice.  I was looking for a powerful gaming laptop at a reasonable price, and this machine delivers.  I've run a number of newer and older games on it, and it almost uniformly delivers excellent performance, even at the highest settings.
+Some specific notes:
+As a reference, I have run or attempted to run Fallout 3, Red Alert 3, Universe at War, Mass Effect, The Witcher, Oblivion, Gothic 3, Jedi Academy, and a number of others.  All save for Gothic 3 (which to the best of my knowledge runs poorly on any and all computers) and Oblivion ran perfectly.  Oblivion had severe crashing issues - I do not know if this was the fault of the laptop or of how I configured it, but I have not experienced that with any other games.
+The keyboard includes a full numpad.  On a 15.4" laptop, this means that the main keyboard is fairly small and shifted to the right of where it would otherwise be.  This takes some getting used to, but has not really been an issue since the second day or so.  Some of the key arrangements are also a bit strange, and I feel that I make a somewhat greater number of typos on this keyboard than on my last computer, a Dell Latitude D810.  That said, again, it's not so many that it's a real issue.  As has been mentioned before, the keyboard has a bit of spring to it and the touchpad is very close to it - the former has not been an issue, and the second is a bit inconvenient, though there's a touchpad off hotkey that's handy for when you're using a mouse.
+There are only two USB ports.  If you like to plug a lot of things in at once, you'll need a splitter.
+The microphone and speakers are both weak.  Don't expect to be using either for a room full of people if you want it to work out well.  A bluetooth headset and some plug-in headphones/speakers both work nicely to get around this.
+The touch-sensitive buttons work perfectly.  The power modes/Turbo mode buttons are especially handy.
+The fan vent is on the right side.  When I'm gaming, the computer blows out a lot of very hot air, which can be a bit annoying when using a mouse.  It's nothing too dreadful, though.
+Note that this comes with 32-bit Windows, which cannot use all of the built-in RAM (though it comes close).  There's not too much other bundled software - some utilities, Norton/MS Office 60 day trials, and a couple of other random things I can't recall the names off.
+The screen is VERY nice.  Everything is very sharp, and colors are bright and vivid.  It actually got compliments from one of my friends on that.
+Battery life is surprisingly good!  I haven't timed it, but in Power Save mode I'd bet it can last for around three hours of normal use (word processing, internet, etc - obviously, it won't last nearly as long when gaming).
+So, overall - this is an excellent computer!  The annoyances are very minor compared to all of the other benefits - oh, and it looks nice on the outside too!  All in all, if you're looking for something powerful that won't cost you nearly two grand, this is a great choice.

@@ -1,0 +1,11 @@
+ID: B00063ZVK0-R3S10ZWR10S3D0-A3PR0KNBP01UR9
+Category: SpaceHeaters
+Product: Vornado-EH1-0028-06-Digital-Vortex-Heater
+ReviewerID: A3PR0KNBP01UR9
+ReviewerName: R. A. Levien "Aldaron"
+Date: January 14, 2004
+Helpful: 7 of 8
+Rating: 1.0
+Title: Faulty Product
+Content:
+It's very important not to get confused (as I suspect some reviewers have been) between two very similar Vortex models, the VH2 and the DVH. The DVH does indeed break almost instantly and should be avoided. The model you should look at is the nearly identical VH2.

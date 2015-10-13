@@ -1,0 +1,11 @@
+ID: B0001A99LK-R19M3OA00R4IXR-A2A2B9FYUXK03J
+Category: MP3Players
+Product: Apple-iPod-mini-M9435LL-MODEL
+ReviewerID: A2A2B9FYUXK03J
+ReviewerName: NM bookgirl "NM bookgirl"
+Date: April 7, 2005
+Helpful: 6 of 13
+Rating: 1.0
+Title: Didn't work with Windows XP
+Content:
+Just bought mine here on Amazon - tried to install the iTunes software on my Dell XP system - got an error message "cannot find or create required iTunes folder in My Music. Called Apple support, after discussins with two tech support folks, answer was "windows problem".  Have to return to Amazon.

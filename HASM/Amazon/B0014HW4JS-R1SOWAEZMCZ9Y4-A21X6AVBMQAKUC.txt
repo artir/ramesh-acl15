@@ -1,0 +1,14 @@
+ID: B0014HW4JS-R1SOWAEZMCZ9Y4-A21X6AVBMQAKUC
+Category: Laptops
+Product: Sony-VGN-FZ455E-Laptop-Processor-Premium
+ReviewerID: A21X6AVBMQAKUC
+ReviewerName: bleuberi
+Date: June 20, 2008
+Helpful: 6 of 6
+Rating: 4.0
+Title: Solid machine with few flaws
+Content:
+"I purchased this computer almost a month ago when my $1200 Toshiba (of less than 2 years) crapped out on me and CompUSA's takeover company lost my records for the replaceable warranty that I paid nearly $600 for. All this happened during my final week of college.
+After 2 Toshibas, I was ready to try something else. When I saw this Vaio go on sale for $850, I knew it was a steal for the specs that it offered. Not convinced that Vista was better than XP, I took the chance anyway because of the roomy 3gigs of ram and 250gb HDD. Glad I did, because this machine runs Vista and all my regular apps really, really fast. Bootup time is less than a minute. I'm a heavy music/video user, so the external controls are a must (too bad not all Vaio's have external controls like other lower end brands). The media iPod-like "wheel" controls are solid. The speakers are a downgrade compared to my Toshiba's Harmon-Kardon speakers...the sound isn't that bad, but the volume is way too low. So I use external speakers or headphones.
+The screen is the most beautiful thing I've ever seen on any laptop. It truly is amazing, and there's no flex at all to it. Coming from a 14.1", the 15.4" feels a little big but the relative thinness of the case makes up for that. The keyboard is nicely spaced out, however the 'backspace' and 'enter' keys seem a tad loose. Wish it had 4 USB ports instead of 3, it would've been nice to have one located on the back. The powerjack is too close to the DVD-drive. Can't say too much about the battery life since it's been plugged in most of the time.
+The only thing annoyingly wrong with this laptop, and Sony Vaios in general is the bloatware and AOL software that comes bundled in. You can't even change the default homepage on IE7 because it'll revert back to Sony-AOL's homepage when you reboot. I don't want to do a clean install so I made the permanent switch to Firefox. Overall, this is a solid machine...well built, fast, silent, and aesthetically pleasing in a minimalist way. Highly recommended!"

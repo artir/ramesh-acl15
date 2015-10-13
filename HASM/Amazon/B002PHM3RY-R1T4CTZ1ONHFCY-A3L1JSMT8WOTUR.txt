@@ -1,0 +1,12 @@
+ID: B002PHM3RY-R1T4CTZ1ONHFCY-A3L1JSMT8WOTUR
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS1810TZ-4013-11-6-Inch
+ReviewerID: A3L1JSMT8WOTUR
+ReviewerName: D. Shultz
+Date: December 20, 2009
+Helpful: 1 of 3
+Rating: 2.0
+Title: Nice machine -- poor support from Acer
+Content:
+I bought this for my son after looking at netbooks (too small for full time use at school), and notebooks (too heavy, short battery life).  As a low power, long life, word processing and email machine, it's as good as I could hope for.  Sadly, Acer is not really prepared to support it.  The model number doesn't even exit on some of Acer's own support pages and pull-down lists.  Like many laptops, it doesn't come with install/rescue media; ordering them was an extra $20 and 2 weeks.  And even though the 1810 doesn't have a CD drive, the rescue disks are disks; there is no option to buy on a USB stick.  Also, the disks seem to be locked to the Acer netbook/laptop (Acer puts the 1810 in the netbook category sometimes, but not always).  So, don't think that you'll have a set of Windows 7 disks to use on a different computer if you decide to load a lighter-weight OS on the 1810.  Anyway, my problem started when I first turned the machine on by accident when putting in the battery, the machine started then shut down.  That's a drag because that apparently interrupted the initial unpacking process of the pre-loaded Windows 7 (there's a piece of paper warning you to have it plugged in before you start, but I hadn't meant to start so....  Two weeks later I got the recovery media, put it in the CD drive (I bought a very nice slim, Samsung USB external drive, also from Amazon -- good thing) and got a message on the screen "CDBOOT: Memory overflow error."  Just because I'm stubborn and I've used Windows since 3.1, I tried this many times.  I sent a couple of emails with all the details into Acer's support site hoping for info on a known problem and a fix.  There was no info on that Acer support page dealing with recovery media, so I resorted to email support.  What I got was advice about running a HDD diagnostic program, presumably in response to a "boot problem" without having anything to do with my actual boot problem.  In response to my second email (which included the first exchange), I was told how to start the recovery process using the rescue media from Windows -- forgetting that I never get there.
+    Bottom line, nice hardware, but be prepared to support it on your own and have other Windows 7 media if you get in trouble.

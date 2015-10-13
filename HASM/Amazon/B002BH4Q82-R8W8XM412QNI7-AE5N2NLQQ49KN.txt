@@ -1,0 +1,11 @@
+ID: B002BH4Q82-R8W8XM412QNI7-AE5N2NLQQ49KN
+Category: Laptops
+Product: Pavilion-DV7-2180US-17-3-Inch-Entertainment-Laptop
+ReviewerID: AE5N2NLQQ49KN
+ReviewerName: Name
+Date: September 10, 2009
+Helpful: 1 of 13
+Rating: 1.0
+Title: DO NOT BUY THIS
+Content:
+HP has a known design flaw in many of their touch pads and it is included on this laptop.  Instead of using a "frosted" touch pad design they use glossy - the pad quickly becomes covered smudges and causes bizarre conductivity which makes the pointer disappear and reappear on the other side of the screen.  HP knows about this design flaw and refuses to fix it or do anything to resolve the situation.

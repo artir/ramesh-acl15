@@ -1,0 +1,11 @@
+ID: B0014A73XC-R9LPUO88PTKAF-A2J81VQAT73NX5
+Category: Laptops
+Product: Pavilion-DV2890NR-14-1-inch-Processor-Premium
+ReviewerID: A2J81VQAT73NX5
+ReviewerName: P. Emberton
+Date: February 1, 2010
+Helpful: 
+Rating: 2.0
+Title: Great while it lasted...all 18 months
+Content:
+Purchased my artist edition from Amazon in late June/early July of 2008.  Laptop was great, with an emphasis on the was.  The art design is excellent, and the multimedia features included put even some new laptop releases to shame.  With a webcam, built-in bluetooth, HDMI, DVD-burner, and decent enough graphics chip the laptop really delivered.  Well, everything but the graphics card, that is.  If you'll check the net, you'll soon find that the 8400 series of Nvidea cards is notorious for early failures.  So while the hardware is great while it lasts, it's designed to fail, and most likely in far less than 24 months (what i consider a minimum reasonable expectation for a notebook)

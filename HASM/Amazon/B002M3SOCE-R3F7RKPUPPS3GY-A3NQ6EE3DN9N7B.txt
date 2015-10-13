@@ -1,0 +1,20 @@
+ID: B002M3SOCE-R3F7RKPUPPS3GY-A3NQ6EE3DN9N7B
+Category: MP3Players
+Product: Apple-touch-Generation-NEWEST-MODEL
+ReviewerID: A3NQ6EE3DN9N7B
+ReviewerName: T. A. Greene
+Date: February 11, 2010
+Helpful: 3 of 4
+Rating: 4.0
+Title: Very good but could be better
+Content:
+As an ACT 4.0 and Palm IIIe user, I was very interested in the iPod touch, not nearly so much as a music player, rather as a personal information manager.  I was looking for the calendar, contacts, notes, alarms, and even a replacement for Diddle Bug ("Note Taker" app).  It seemed to have it all, plus the other great features such as wifi, internet, apps, email, etc.  It syncs all my contacts, calendar, and notes in ACT 4.0 using CompanionLink software (requires MS Outlook 2003 or 2007).  
+After 2 months use, these are my only negative comments:
+- Appointment Alerts: Fairly quiet, no vibrate function. If you miss the alert because you were in a loud environment or the iPod was in your pocket, you may miss the appointment, it does not nag you (unlike "alarm" alerts which will nag you). 
+- There is no to-do/task list.
+- File management is difficult.  Ways to transfer a pdf file to the iPod requires it be emailed to yourself, view on a web page, or use a cloud drive; Zumo works nicely.
+- Search function:  The search function does not drill as deep into the files as I enjoyed on my Palm IIIe.  The search results identify the appointment/file/email in which the item was found but does not highlight the searched word within the file itself.  This is frustrating as it then requires additional searching. It also does not search the Zumo cloud drive.  
+- Calendar needs work.  There is a "day" view which you still have to scroll up and down to see what you have that day (somewhat annoying); or there is a "month" view which just shows dots on it (basically useless), and the "list" view which chronologically lists appointments.  The problem with that is that if you don't have any appointments on Tues and Wed, then it shows Monday's and Thursday's appointments next to each other and doesn't intuitively indicate your open days, showing when you are available for a new appointment. It would be nice if there was a "week view" showing all appointments for the week at one glance.
+- Contacts format seems a little inconsistent - I probably need to play with it more, but I have various user fields from ACT.  Sometimes one user field shows up below the contact's name, and sometimes a different field shows up.
+- Although understandable, battery life is much worse than the Palm IIIe.  I find myself charging this every day whereas the Palm could go for weeks on one set of rechargeable AAA batteries.  To make sure I don't get caught in a pinch, I also bought a wall charger and a vehicle charger.
+Overall, I generally echo all the positives identified by others.  Although it does not have all the functionality of the Palm IIIe, I am glad I made the switch and am very satisfied.

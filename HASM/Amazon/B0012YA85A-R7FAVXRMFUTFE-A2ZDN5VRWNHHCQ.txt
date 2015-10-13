@@ -1,0 +1,22 @@
+ID: B0012YA85A-R7FAVXRMFUTFE-A2ZDN5VRWNHHCQ
+Category: DigitalSLRs
+Product: Canon-Digital-Camera-18-55mm-3-5-5-6
+ReviewerID: A2ZDN5VRWNHHCQ
+ReviewerName: Willy
+Date: November 3, 2008
+Helpful: 12 of 13
+Rating: 4.0
+Title: Fantastic sensor, great functionality, decent kit lens
+Content:
+Overall, this is a first-class entry from Canon, with a superb 12.2MP CMOS sensor that keeps noise to a minimum, even more so with NR enabled. Paired with good lenses the XSI/450D can provide jaw-dropping images with incredible detail. Overall shooting speed is very, very good and the viewfinder is generously sized. The LCD is large and bright. 
+As there are a large number of reviews of the Rebel XSI already, I'll attempt to detail the few negative aspects of the camera so prospective owners can decide if any of them are deal-breakers for their specific needs. 
+ -Body Construction. The XSI is built almost entirely of high density plastic and feels more flimsy to me than the Nikons. The plastic LCD cover is quite exposed and probably needs an after-market screen protector. Like many entry level SLRs There is no auxiliary settings/metering LCD on the top of the camera (the viewfinder does give you a good amount of info). The battery compartment appears to be relatively fragile when opened.  
+   If weather sealing and robustness are paramount, the Pentax K200D is more solidly built at a slightly lower price point.
+ -Auto White Balance. While you can readily correct this issue with custom WB settings, the fact remains that under the fluorescent light setting (& often Auto) the XSI is off color balance wise. With Live View it is obvious that there's too much red/yellow under fluorescent. Incandescent is better but not perfect. Tungsten seems very good, and during daylight hours the WB seems excellent.  Nikon may have slightly fewer problems with some default settings, but I believe most manufacturers have some WB issues out of the box.
+ -Auto-Focus and AV. The versatile eleven point auto focus is generally very quick, but occasionally freaks out. Distance AF can be inaccurate at times in bright light. Exposure Compensation goes to + or - 2 at maximum. Continuous drive mode has an upper limit of exposures even in JPEG mode.
+ -Hand grip. The XSI grip is relatively short and less secure in my large hands than the Nikons, Pentaxes and Sonys I've tried. While the grip is relatively comfortable, it's small size means I'm gripping the camera with my middle and ring fingers, bracing the bottom with my little finger. A hand strap might come in handy, but the Opteka feels too flimsy for my taste.
+ -Kit Lens. The 18-55 EF-S lens is a big step up from a P&S camera, but not especially impressive by SLR standards. By Nikon/Canon kit lens standards it is good, and the image stabilization works quite nicely. Were I to buy the camera today I might forgo the kit lens altogether and jump right in to a 28mm prime, keeping my f1.8 II 50mm. The difference in image quality between the f1.8 II 50mm and the kit lens is noticeable. Remember the 1.6x crop factor (50mm effectively ~80mm for example) due to the APS-C sized sensor.
+ -Default JPEG settings. The default JPEG settings are good, but seem a bit less saturated and a bit sharper than typical for Canon. This can be readily adjusted of course. RAW is flawless.
+ -Live View is limited and cannot be used in Auto mode. Live view shuts off the viewfinder entirely (except during AF) and is limited in the modes it can use. The Olympus Live View is reputedly better implemented, but the 400/500 series viewfinders are smaller. For tripod use, the XSI Live View with image magnification and manual focus could be indispensable. 
+ -Proprietary Li-Ion battery. The 450D uses a (long-lasting) 7.4V 1080mAH Canon battery and includes a charger; replacements are not cheap and third-party versions can be inferior. Nearly all other manufacturers also use expensive proprietary packs, with the K200D being one exception.
+Absent from these small flaws, the Rebel XSI is a truly great camera with good features and a sensor that can really make make use of top-notch lenses. Versatile and compact, the XSI is more than enough camera for almost anyone.

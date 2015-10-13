@@ -1,0 +1,13 @@
+ID: B001Q04HTI-R3MK8MRLDQ3ZCE-A2RF3KPFUBPOBM
+Category: Laptops
+Product: Lenovo-IdeaPad-Y530-7343U-15-4-Inch-Processor
+ReviewerID: A2RF3KPFUBPOBM
+ReviewerName: Stephen Witte
+Date: May 2, 2010
+Helpful: 
+Rating: 1.0
+Title: Not happy with lenovo
+Content:
+We bought the Lenovo IdeaPad y530 1 year and 1 week ago from Fry's electronics for $599.  The road for the past year has been quite rough culminating with an unbootable computer with consistent blue screen of death every time it was powered up.  This occurred 6 days after expiration of the 1 year warranty. From the beginning, the computer had glitches that resulted in crashes and re-boots, hangs, etc.  My wife and I share this computer and one day she told me that the day we get rid of it, she is looking forward to going at it with a baseball bat.  
+I've used several computers over the years including an HP Pavilion, a Dell Dimension, a Compaq, and now this one.  This is the first computer that really forced me to test how well our backup habits are working.  We used to use Norton Ghost for the Dell and Pavilion and that went very smooth.  The IdeaPad came with Vista 64 bit, and by the way, had 300 Gbyte Hard drive and 4 GBytes of RAM, and a 2.0 GHz Core 2 Duo processor.  Excellent stats for a machine that was $599 at the time.  The new Vista required us to choose a different backup program, and we went with PC Pro because it had good reviews.  While this PC Pro backup utility did get our files backed up, it did nothing to help us when the operating system became totally corrupted on the machine.  Hence the computer is now in a repair shop (first time for me that I couldn't fix one of our computers myself.)  Also, the keyboard developed a loose key.
+Anyway, our goal now is to get this machine working to the point where both our email and basic word processing needs can be met, and than get another computer and relegate this computer to being an Ubuntu Linux box when we have the $ to pay for a really good laptop, such as a Sony or other high end computer.  We won't attempt to go cheap on this again.

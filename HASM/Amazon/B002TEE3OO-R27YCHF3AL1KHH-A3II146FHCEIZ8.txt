@@ -1,0 +1,38 @@
+ID: B002TEE3OO-R27YCHF3AL1KHH-A3II146FHCEIZ8
+Category: Laptops
+Product: 13-1030NR-13-3-Inch-Magnesium-Windows-Premium
+ReviewerID: A3II146FHCEIZ8
+ReviewerName: N. DEJESUS
+Date: February 19, 2010
+Helpful: 3 of 12
+Rating: 5.0
+Title: Blows the MacBook, Pro and Air away.
+Content:
+The HP Envy 13 is truly one of the best laptops I have ever owned (I ordered mine thru the HP site with all the bells and whistles, you can always find an online coupon to bring the price down about $300 less if you look), it has everything I wanted exept a harddrive larger than 250GB.  I decided to give it a try and gave my wife my Sony VAIO VGN-Z850G/B because I wanted a laptop that was more solid with up to date styling (Still, NOBODY beats Sony VAIO's for performance and the latest technology, you just have be willing to pay for it).  My Teen Kids both own newer MacBooks, the older owning the Pro. They were chosen because all their other Lemming friends had them. Comparison wise the Envy 13 blows the Macs away. Below is a comarison review from the hpfansite, the reviewer didn't even mention that the Envy 13 has the NEWER Core 2 Duo processors, a faster video card and a brighter screen with higher resolution. Maybe by years end Apple could come up with a newer laptop and fool people into thinking that were the first to make new innovations that are light years ahead of PC's (the truth is Sony does and did, do some research). Yea, and I still do like Sony Vaio's too! By the way Apple, my kids thank you for finally adding an SD card slot in the Mac (but still no HDMI?) :(
+Here is a comparison from the hpfansite:
+Thanks to HP United Kingdom posting up the product page for the HP Envy 13, I finally have some numbers to play with and make a comparison ABOUT the comparisons people are making out there. First off, a little intro about what's been happening since HP announced their Envy 13 and Envy 15 designer+performance notebooks five days ago... people have been touting the Envy 15 as the notebook that practically `owns' (AKA pwns) the Apple MacBook Pro (any existing MB Pro) with its 1 GB of ATI graphics, quad core Mobile Core i7 option, solid construction, stuff like that.
+On the contrary, the Envy 15's sibling, the Envy 13 has been called `less impressive' and `an overpriced copycat' of the Apple MacBook Pro 13. Really now? I digress. First off, let's take a look at the dimensions of the 13 inch MacBooks available.
+Note: I'll be using centimeters since HP UK has no measurements for the Envy 13 in inches and it's only fair to use manufacturer supplied dimensions, instead of DIY conversion.
+Apple MacBook White aka Plastic (13 inch model) = 32.5 x 22.7 x 2.75 cm @ 2.27 kg
+Apple MacBook Pro Unibody (13 inch model) = 32.5 x 22.7 x 2.41 cm @ 2.04 kg
+Got that? Now for the Envy 13:
+HP Envy 13 (13 inch model) = 32.0 x 21.5 x 2.05 cm @ 1.70 kg (Source: HP UK)
+The Envy 13 is a good 3.6 millimeters slimmer than Apple's Unibody MacBook and also shorter/narrow. So there's no way HP could have packs in a optical drive into the Envy 13, neither could they have stuffed in an Ethernet port without making the notebook thicker. HOWEVER, HP did manage to push in double the graphics memory (512 MB on Envy vs 256 MB on MacBook), a removable batteryand most `essential ports' - things that I would personally appreciate more than an optical drive or Ethernet port. Not to mention the Envy 13 is supposed to feature `Beats' audio, which people claim to produce much better sound than conventional notebook speakers.
+Back to my point, people are complaining that the Envy 13's $1699 price tag is too high. Why buy the Envy 13 when the so-called similar Apple MacBook Pro 13 can be had for 30% less at $1199, right? Wrong! I say that it's only right to compare the HP Envy 13 to Apple's MacBook Air (both spec and price wise).
+Apple MacBook Air (13 inch model) = 32.5 x 22.7 x 1.94 cm @ 1.36 kg
+That's right folks, the HP Envy 13 is mere millimeters thicker than the MacBook Air. In fact, the HP Envy 13 is overall, a more compact notebook compared to the Apple MacBook Air. If you compare their volumes, the HP Envy 13 is 1410.4 cubic cm while the Apple MacBook Air comes in at 1431.235 cubic cm. Simply put, if you could fill water (but please don't in real life) into the empty casings of both notebooks, the MacBook Air would hold more liquid (bigger) than the Envy.
+Fine, the size difference isn't huge, but my point was to prove the Envy is positioned closer to the Air than the Pro. But the Envy and Air have more than size in common: Lack of an optical drive, ultra-slim profiles, 1.86 GHz ULV SL9400 processors - you get the point. The Envy 13 costs $1699 but the MacBook Air is priced at a close $1499 ($1799 for the 2.13 GHz/SSD model) - pretty close huh?
+HP hasn't mentioned anything about disk capacities for the Envy 13 and Envy 15 yet. But comparing the HP Envy 13 and Apple MacBook Air in general, paying $200 extra for the HP Envy 13 versus the cheaper Air would get you:
+A HDMI port in place of Display Port 
+1 additional USB port 
+1 hour of extra battery life (5 hours built-in on Air, 6 hours primary battery on Envy) 
+Ability to add-on a secondary battery to extend battery life to 18 hours 
+More graphics memory (256 MB Nvidia on Air, 512 MB ATI on Envy) 
+Option for DDR3 RAM up to 5 GB (Apple locks the Air to 2 GB) 
+Supposedly better audio quality 
+Again, the difference between the Envy 13 and MacBook Pro is too large (no pun intended), in my opinion, for a fair comparison to be carried out. There's no way HP could've fit in larger/more components into the Envy.
+I don't have the Envy 13 in person but I do have a Pavilion dv2 to get an idea of the Envy's size.
+HP Pavilion dv2 (12 inch screen) = 29.2 x 24.0 x 2.37 cm @ 1.70 kg
+The dv2 is thinner than the MacBook Pro 13, and in turn, the Envy 13 is even slimmer than the dv2. So imagine that, HP had to do use some really compact components and a lot of design planning to make the Envy 13 as capable as it is now. Hence the premium price.
+If you're still complaining about the HP Envy 13 being more expensive than the Apple MacBook Pro 13, do yourself (and Apple) a favor by also complaining about how the MacBook Air is pricier than the MacBook Pro. After all, the Envy 13 is the Windows cousin to the MacBook Air. The MacBook Pro 13 is a whole different animal.
+Disclaimer: In no way is this article an anti-Apple or pro-HP post. I merely stating my observation on how people are comparing the HP Envy 13 to the wrong notebook. It should be HP Envy 13 vs Apple MacBook Air, because, again, the MacBook Pro 13 is a different class of notebook compared to the Envy.

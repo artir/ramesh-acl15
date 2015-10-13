@@ -1,0 +1,11 @@
+ID: B002ONCDSI-R2GSJGQUS8A45T-A3HYYO8PBJZ0J0
+Category: Laptops
+Product: Pavilion-DM3-1040US-13-3-Inch-Windows-Premium
+ReviewerID: A3HYYO8PBJZ0J0
+ReviewerName: G. K. Gibson
+Date: April 1, 2010
+Helpful: 
+Rating: 4.0
+Title: Good notebook
+Content:
+I'm quite pleased with this notebook.  It is thin and light.  The performance is great.  I had trouble with the touch pad and the video.  HP Support initially gave me bad information about the fixes for both problems, but the touch pad problem was eventually fixed by getting a BIOS update and the video problem was fixed by a video driver update.

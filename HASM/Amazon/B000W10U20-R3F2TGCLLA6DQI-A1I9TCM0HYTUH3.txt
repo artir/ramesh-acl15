@@ -1,0 +1,11 @@
+ID: B000W10U20-R3F2TGCLLA6DQI-A1I9TCM0HYTUH3
+Category: Laptops
+Product: Pavilion-DV2620US-14-1-inch-Entertainment-Processor
+ReviewerID: A1I9TCM0HYTUH3
+ReviewerName: C. Soares
+Date: April 15, 2008
+Helpful: 
+Rating: 4.0
+Title: Overall good but 1 GB RAM not enough
+Content:
+I bought this for my daughter, a university student. Overall she is quite pleased (the looks, the touch, the screen, the size, etc). The only thing she complained about was the speed, which I think is due to shortage of memory, 1 GB RAM, considering it uses Windows Vista. I will have to buy more memory, but the trick is you cannot add 1 GB to the existing one. You have to throw the existing 2 x 540 MB away and install 2 x 1 GB.

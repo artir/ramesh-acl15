@@ -1,0 +1,17 @@
+ID: B003AG7N4C-R2R8T3AMSYCL8T-A2CTMY5522AYD
+Category: Laptops
+Product: eMachines-E725-4520-Pentium-battery-DVD-super
+ReviewerID: A2CTMY5522AYD
+ReviewerName: A. Hall
+Date: April 7, 2010
+Helpful: 3 of 3
+Rating: 4.0
+Title: Excellent value - if you get it at the right price
+Content:
+There was a certain retailer who was selling this eMachines laptop for just under $300, and at that price, this laptop is an excellent deal.  Much above that price and you should probably look elsewhere.
+As others have said, the display is excellent - very bright.  The keyboard is OK - not great, a bit "spongy" but not bad.  The speakers are awful, perhaps the worst I've ever heard; attaching a pair of cheap USB-powered speakers makes a big difference when you use it at home.
+The CPU is a standard 2.2GHZ Pentium (Dual Core) T4400, which is a sweet budget CPU (a budget version of the now-being-phased-out Core 2 Duo CPU).  It's actually quite a fast CPU for basic stuff. The thing DOES NOT get hot (compare that to the AMD-based laptops) beyond a little warm on the bottom.  
+The two biggest downsides (beyond the speakers): only two USB ports and no webcam (even the Acer version of this laptop that has a webcam curiously has no built-in microphone).  So as I said, for the price I paid, I can put up with it.
+One little annoyance I've noticed lately:  The touchpad is a bit wider than I'm used to, and I seem to rub the left side of the touchpad with my left hand too often, causing the mouse pointer to jump.  This seems like a curious design feature of this particular model; when typing on other 15.6" laptops of this same era, I don't have this problem.
+RAM is DDR3 despite what official specs say.  Easy to upgrade.  The wireless card is easy to upgrade as well - you can upgrade it to an Intel 5100 "Draft-N" card that is an excellent wireless card for $10-$15 on ebay, very worth doing. You can use either a half-height or full-height mini-PCI wireless card in the slot, I've used both.  SATA hard drive is easy to swap as well - I've already done that.
+You can run XP on this thing too if you really want to - but you must first upgrade the BIOS to at least 3.06 (so you have to boot up Windows 7 for that most likely).  Then you have to set the BIOS SATA option to "IDE" not "AHCI" and then XP can boot easily (you'll need drivers from Acer on the Emachines support page for this laptop).  I did have trouble with Acer's supplied XP driver for the included Broadcom wireless card - it froze the laptop every time I enabled the card, but as I have since replaced the Broadcom card with an Intel card, I have no problems with wireless in either Windows 7 or XP.

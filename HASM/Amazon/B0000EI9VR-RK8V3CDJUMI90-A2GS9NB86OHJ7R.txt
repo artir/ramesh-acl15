@@ -1,0 +1,37 @@
+ID: B0000EI9VR-RK8V3CDJUMI90-A2GS9NB86OHJ7R
+Category: MP3Players
+Product: iriver-H120-20GB-MP3-Jukebox
+ReviewerID: A2GS9NB86OHJ7R
+ReviewerName: Chick Hebert "Chick Hebert, The Media Guy"
+Date: August 8, 2004
+Helpful: 18 of 34
+Rating: 4.0
+Title: Update of the iRiver iHP-140 MP3 jukebox
+Content:
+Since Amazon won't let me update my previous review of the iHP-140, I'll list it under the iHP-120
+Further evaluation of the iRiver iHP-140	
+Four months ago, (in April) I posted a review of iRiver's iHP-140 MP3 jukebox on Amazon.  Since then, I have received many emails and questions about this great device.  If this review is still on line, I would urge you to read it as a preface to this review.  
+Three weeks after mailing the email letter (sent to support@iriveramerica.com), and after sending it again recently (2004 August), I have not received an acknowledgment of the inquiry, let alone hope of pending solutions to the issues which I have discovered with the iHP-140.  
+Unlike other companies, iRiver lists no phone number or mailing address, either on their website or the user manual.
+Therefore, I am hoping that readers who notice the same problems with this device will send email to support@iriveramerica.com to ask for support and solutions.
+My evaluation of the iHP-140 may be summarized as follows
+Hardware  Awesome!  Robust, compact and very capable.  Not only is it a nice toy, but a 40 GB HD which connects to your computer by USB, encodes analog audio to MP3 and has a quick-charging, long-lasting battery built in.
+Firmware  Needs improvement!  The issues are described below.
+Support   Poor!
+Dear sirs, 
+In April, I purchased the iRiver iHP-140. Since then, I have recorded over 300 hours of microphone and line-in sound, and have done USB data transfer, becoming acutely aware of its strengths and weaknesses. Each is a separate issue and they should be assessed by your technical management and addressed separately, and hopefully improved with a firmware upgrade.
+My background It might be helpful for you to be aware of my extensive experience in sound recording. During the `60s, I did considerable recording using reel-to-reel tape, in both stereo and 4-track. When sound quality became adequate in the `70s, I switched to cassette tape, recording in stereo including Dolby NR technology. In the late `90s, my medium for recording sound became the Minidisc with Atrac compression, using the Sony MZ-R50 recorder. This device failed recently, and after extensive research, I decided to purchase the iRiver. I wrote an evaluation of this recorder for Amazon (which is apparently still posted) and have received and replied to numerous email questions about the iHP-140, based upon my (not completely satisfactory) experience. This puts me in a rather awkward position of being both a critic and supporter of your product.
+Programming issues 
+MP3 compression The algorithm used for MP3 compression is defective. Below 128 kbps at 44KHz sample rate, the sound quality is damaged by artifacts which sound like phasor-flanger effects, becoming worse as the bit rate lowers. Using computer WAV to MP3 conversion, I have extensively used 80 kbps satisfactorily, but the sound quality is not acceptable at that rate using the iHP-140, and is much worse at lower rates. The artifacts include frequencies which are NOT part of the original sound. This must be corrected!
+Record pause indication As programmed, the iHP-140 indicates "pause" by flashing the tiny "elapsed time" figure. This is difficult to see under low-light conditions. It would make a lot more sense to flash the large RECORD indicator.
+Record file-name indication When placed in record mode, before recording begins, no file name is shown. Because the recorder was built without any time-date indicator, I must write this information down, in order to maintain the dates of my recordings, and do not have the file name information available unless I hit the record/pause twice. This change should be exceedingly easy to implement. (It would certainly not matter if the track of that filename was not used)
+[From information available to me prior to purchasing this unit, I did not recognize that it did NOT have an internal clock (as my computer, digital camera, cell phone, camcorder and MD recorder contain). The reasons for this are understandable, as iRiver did not choose to add the small amount of extra hardware to implement an internal clock, and felt the extra power consumed by it merited this decision. This was certainly the WRONG decision for my purposes, and I would not have purchased this unit if I have realized this omission.]
+Playback error If the unit's function, using the record button, is changed directly from RECORD to PLAYBACK, after playing for a few minutes, occasionally the track being played will skip to the next track or just stop, even though the current track has no record errors. If the recorder is powered down and restarted, the track will play correctly.  Bug!
+Backlighting of display It was good design to allow the duration of display backlighting to be selected by the user, but when the unit is first powered up, the display backlighting duration is fixed, shutting off just a moment before the Record Setup screen appears, making it difficult to ascertain when the record button may be pressed to begin recording in conditions of low lighting.
+Playback fast-forwarding Many of my recordings are over an hour in length, and the fastest rate available is much too slow to get to the middle of that recording session in a reasonable time. This is a tough one. I cannot suggest how to make this function manageable. 
+Volume control I discovered that the volume control affects not only the headphone output but also the line output. On all other audio devices I have used, "line out" has a standard level, unaffected by any volume controls. Somebody in your design team seems to have missed this.
+Flow chart in the user manual would be useful It would be easy for an engineer (and useful for engineer users like me) to present the functions of the iHP-140 with a flowchart, showing which function results from which button pushes. I could suggest one, but would not offer this effort without a guarantee of compensation.
+In summary The hardware of the iHP-140 is excellent, but it should have been user-tested more completely before releasing it to the public for sale. One reason I chose this unit for purchase is that the firmware is upgradeable. Please consider my suggestions for your first available upgrade and notify me by email when improvements are available.
+[ drchick@mindspring.com ]
+Chick Hebert
+The Media Guy

@@ -1,0 +1,19 @@
+ID: B001FB9ZDG-R3B0CM6IMSJSAG-A102RLOGIBBDMW
+Category: MP3Players
+Product: TouchScreen-player-Plays-without-conversion
+ReviewerID: A102RLOGIBBDMW
+ReviewerName: Charles C. "Cool C"
+Date: November 24, 2008
+Helpful: 24 of 24
+Rating: 3.0
+Title: Cheap but reliable IPOD imitation
+Content:
+I did not want to spend more than $100 for a media player - IPod is out of the question.  This player is the next best thing.  After reading the reviews (this seller sells multiple products but they are essentially the same with different specs), I decided to try my luck.
+So far I am happy with what I got.  The description provided is a little misleading.  Read below for the goods and bads:
+Goods
+- For the price, it has a lot of features.  I like the music player, the picture viewer.  For the video, it is reasonable.  The sound of the player is very sharp and clear.  You can use the speaker or plug in an earphone.  The interface is quite clear and easy to use, but it is not the best.  The player is small and light and can easily fits your shirt pocket.  I believe the value that I get for this player is exceptional.
+Bads
+- The player doesn't play all AVI and FLV (although it says on the descriptions).  I did not try RM or RMVB so I'm not going to comment on that.  The player is very picky on the AVI and FLV.  Depends on how the video files are formatted, you may not be able to get them to work at all.  I tried many format using countless hours and I get file format error everytime I play the movies.  I finally found 2 ways to get it to work.  The Pazera conversion program ([...]) works well.  For AVI files, use Pazera conversion to AVI.  For FLV files, use Pazera conversion to FLV program and select YouTube profile.  Otherwise, the video player just refuses to work.
+- The touch screen of this player is not very responsive.  You get what you pay for.  There is no place to store the pointing device.  However, you can always use your finger.
+- The interface for the video is confusing.  You can play and pause, but it is extremely difficult to fast-forward.  I have yet to be successful to jump ahead in the video playing.
+For those who wants a player and do not want to let Apple makes money out of you, try this product.  There are other players out there that may be better choice.  But most of them has either 2 GB or 4 GB.  Everyone knows MP3 and Video files are big.  Unless you have 8GB or better, you will be spending a lot of time copying and transferring files between the player and your computer.

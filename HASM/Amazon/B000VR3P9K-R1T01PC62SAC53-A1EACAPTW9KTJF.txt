@@ -1,0 +1,11 @@
+ID: B000VR3P9K-R1T01PC62SAC53-A1EACAPTW9KTJF
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A1EACAPTW9KTJF
+ReviewerName: Interested Reader "Interested Reader"
+Date: February 26, 2009
+Helpful: 19 of 33
+Rating: 1.0
+Title: Defective hardware
+Content:
+The Macbook Pro is a fantastically designed machine and if not for the hardware problems I'm having, I would give it 5 stars. But, the screen is constantly flickering and the flickering becomes worse with each passing week. There are thousands of articles on the Internet about users experiencing similar problems due to defective NVIDIA chips in these machines. I've spent hours on the phone with Apple Support and they refuse to accept the machine for repair because I cannot force it to flicker on demand and they won't acknowledge the problem as their responsibility if it is intermittent in nature. I wrote to Apple corporate legal directly and they ignored my letter and sent it back to customer service for a boilerplate reply. Unfortunately, when I pay full retail to buy a machine at this price point, and I'm treated like this, it's impossible to offer more than a 1 star review.

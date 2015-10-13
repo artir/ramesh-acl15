@@ -1,0 +1,15 @@
+ID: B0029ZA5M2-R1KUBLT4YWAF92-A3F3NXHCOO9397
+Category: Laptops
+Product: Compaq-Presario-CQ60-410US-15-6-Inch-Laptop
+ReviewerID: A3F3NXHCOO9397
+ReviewerName: Scott Dehotman "World Traveler"
+Date: August 21, 2009
+Helpful: 4 of 4
+Rating: 4.0
+Title: Great Basic Laptop
+Content:
+I found this laptop on sale at Office Depot on 15 August 2009 with a base price of $[...] minus $[...] instant rebate minus $[...] by mail. Final price of $[...] is a pretty good deal for this machine.  This is my first Compaq/HP laptop, so I can't speak to longevity but after a week so far, so good.  A couple of observations:
+* Like most laptops (at least on the budget end) there is a fair amount of bloatware that should be removed for best performance and to free disk space.
+* This is my first laptop that features a numeric keypad, very convenient!
+* I haven't used the LiteScribe drive, but was surprised to find it on this value priced machine.
+Performance is as expected with 2gb of RAM and a 2.2 ghz processor. Very adequate for web, MS Office and typical functions. Runs EVE Online satisfactorily.

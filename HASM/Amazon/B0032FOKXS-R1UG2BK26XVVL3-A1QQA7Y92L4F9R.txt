@@ -1,0 +1,167 @@
+ID: B0032FOKXS-R1UG2BK26XVVL3-A1QQA7Y92L4F9R
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A1QQA7Y92L4F9R
+ReviewerName: Wavey Davey
+Date: February 28, 2010
+Helpful: 37 of 43
+Rating: 5.0
+Title: UL30Vt-X1 Is The BEST 13" Notebook On Planet Earth
+Content:
+I've been searching for the perfect, best, finest, fastest, coolest small notebook for almost 5 months, believe it or not, and here it is the Asus UL30Vt-X1. It could have reached out and bit me, it was so close at hand, so easy to find, but you almost never look right under your nose do you? Well, so much for finding it...let's tell the nice Amazon.com readers what it does, and how well it does it, and a whole slew of TIPS and TRICKS this user knows in and out!
+I've put together some sections where I am going to describe settings and specific control panel functions that work optimally for my uses, and I tell you what to expect when using them...this is a User's Review as much as it is a Review for pre-sales questions and general interest. Hope you like it!
+**13.3" 1366 x 768 pixels HD LED Backlit LCD Display-nVidia G210-M 512MB Video+ Intel GMA-4500 Integrated Graphics, SWITCHABLE GRAPHICS ENGINES! RealTek HD Audio! nVidia HD HDMI Audio!
+It's not the brightest display(200 Nits by measurement) nor the most defined by contrast, unless you get into the nVidia CP and adjust things...so go to nVidia Control Panel (right click, on the desktop), Adjust Video Color Settings, check "Dynamic Contrast Enhancement", and "Color Enhancement", then hit 'Apply' and BAM! Your LCD will become very, very nice, with deep blacks, browns and blues, while the bright colors themselves will 'Jump Out At You'--you'll think you are looking at a much more expensive computer's display. That's something that anybody can do to enhance the graphic power of the nVidia G210-M 512MB discrete video card output, and it does make a HUGE difference...try it, you'll like it!
+The native HD display is capable of rendering virtually any type of content with either of the video settings, as the GMA-4500 Intel Graphics (integrated video, that uses up to 4095MB of system RAM if the computer has 8GB RAM...with 4GB of RAM the video uses up to 1795MB RAM) are capable with HD content. It's just the nVidia card, however, that you want to use (whenever possible, ie not on battery) that fetches up 30-40FPS+ with Call of Duty: World at War for example! Yes, this notebook is a gamer's delight, to a point...don't expect 70+FPS in deep battle scenes with heavy, hard detail settings, but it is adequate for playing virtually any of the current crop of 1st-person shooter games...Crysis, literally any game available right now. It's that good!
+When on AC Power, PowerGear4 Hybrid set on High Performance and Turbo Boost, fire up any game you want and the UL30Vt-X1 springs to life, loads the game rapidly, enter your control panel Option settings and you're off and running, full screen if you want...this is a fantastic nVidia graphics engine, and it will do the job. I also have had xlnt results playing HD video/audio content.
+Do you like Hulu content, the online TV that displays programs/movies in HD? This is one notebook that will not disappoint Hulu fans, so let's get cranking! Open up "The Dresden Files", for example, the Canadian Sci-Fi/Suspense Thriller from 2004-2007 that Hulu has all the archives of, choose Full-Screen Mode in the controls on screen, and WHAM! You're watching full HD video at 1366 x 768, and the UL30Vt-X1 will come through stutter-free, without any problems at  all. The CULV CPU, the 1066mhz DDR3 RAM, and either of the graphics engines will do the job. You can count on this computer 100% with any type of video content, either online, HD movies from DVD's, or even BluRay discs can be played (with a player, of course) at full screen resolution. This video Rocks!
+It helps if you have the latest, and greatest Flash Player Beta 10.1.55.xx installed, but that's optional as is a browser other than IExplorer (I've been using Google Chrome). The sound is xlnt also, coming from Altec Lansing speakers which are positioned in the chassis front edge, left and right, for true SRS Surround Sound action via the RealTek HD Sound Manager. You can access the manager's controls by clicking on the System Tray's hidden icons, RealTek HD Sound Manager, double-click on it and choose from 30-or more different sound effects! Here's a couple I found to be optimal:
+RealTek HD Sound Manager: Set it to Stereo for headphones, then check "Headphone Virtualization" if you use headphones like I do 90% of the time. In Sound Effects, click on "Rock" which will enhance the sound just enough to put a slight EDGE on the drums, cymbals, bass is enhanced, and mids are subdued with voices accentuated perfectly. Click on "Living Room" for the Environment which stops any acoustic 'echo-effect' which many of the other choices will do. Then go to the last panel there, Default Format, and choose the Hz: I found that 24-bit 96,000Hz are perfect for this system, which is set OEM @ 24-bit 48,000Hz, just not enough Hz for my ears! TRY THOSE OUT! You will thank me a bunch, those are great settings for headphones every time!
+As for the speakers, they sound great with the same settings turned up to at least 70%... That's right, they will NOT distort at those settings I've listed above, which is what you want every time not a bunch of unnecessary sound effects. Experiment all you like, I did, but you'll come back to those settings I just listed as they are pretty pure, nicely enhanced music settings without bringing too many special effects to the party.
+**Keyboard, Special Fn Controls, PowerGear4 Hybrid (Power and Energy Saver Settings), GraphiX Boost Button (Switchable graphics!), HDMI Port Viewing!
+This is a fantastic chiclet-style keyboard with about a 1.5mm reach per keystroke, so it's TIGHT and nice, just like your best girlfriend is, right? I mean who wants a weak pulse that doesn't squeeze, not I! The keyboard does not flex, as it's structured over a metal frame, that has a couple fans and some acoustic things underneath it when you take it off to check it out (don't tell Asus, but we got the take-apart directions!), so if you like chiclet-style you'll love this one 110%! There are some special functions, so let's get into them and let's see how she performs and works for us.
+The Function Key, just below the Shift Key of course, performs a bunch of nice things for us, and here they are: 
+Fn - F1 = Computer Put To Sleep
+Fn - F2 = Computer WiFi and BT Controls (Bluetooth)
+Fn - F5/F6 = LCD Brightness UP and DOWN
+Fn - F7 = Turn Off LCD Display (!)
+Fn - F8 = Turn On, Off, External Display, or Projector
+Fn - F9 = Turn Off/On Trackpad (VERY IMPORTANT!!--YOU'll use it a lot!)
+Fn - F10 = Audio Defeat (all audio, speakers, headphones all of it!)
+Fn - F11/F12 = Speakers/Headphones Volume UP or DOWN
+Fn - Space Bar = PowerGear4 Hybrid Energy Saver Settings, Power Settings
+Fn - Pause, Break = For Use In BIOS
+Fn - Prt SC/SysRq = Print Screen, System Rq
+Fn - Insert/NumLk = Insert and Number Lock
+Fn - Delete/ScrLk = Delete and Screen Lock
+Why did I just list all of those? Because nobody else has who has done a review yet, that's why, and people want to know these things! People who don't own the computer yet..! And there's no owner's manual to speak of either with the UL30Vt-X1/A1, it's a pathetic thing that's a generic "Notebook PC User Manual". That's why I listed everything of importance that the Fn Key strokes will accomplish, and besides, it's my review, and I get to write what I Want!
+Next we've got Switchable Graphics, and the Asus P4G Hybrid Switch/GRAPHIX BOOST BUTTON, which is at the left, top corner of the keyboard surface, not on the keyboard of course...Click it once, and click it again, and you cycle through the three possible choices therein:
+1) Auto Detect Mode - The computer detects whether you are on Battery Power or AC Power, and adjusts the video output accordingly...battery gets Integrated Intel GMA-4500 graphics, AC Power gets nVidia Graphics, every time!
+2) Power Saving Integrated Graphics - The computer detects nothing! You are on Integrated Graphics no matter if you have it on Battery or AC Power, you are stuck with it!
+3) High Performance - For you performance phreaks, here you go! It's the setting which gets you nVidia Discrete Graphics on battery or AC Power, it doesn't matter you get HIGH PERFORMANCE!
+***Now there's been discussions about the P4G Hybrid Switch/Switchable Graphics button in the various forums that support this computer, and I'm going to explain a couple things that you need to know, and how to avoid thinking your computer is broke to boot! This is a discrete switch, and it does NOT work all the time. Along with Turbo Boost, there are caveats to operation, which I will get into real quick-like for owners, and for prospective buyers both.***
+I'll try and make this clean, clear, short, and sweet, but I may have to repeat myself a couple times, so don't mind the dialog...If you notice that the switchable graphics switch is OFF, and is not working it's probably because you have selected Energy Saver preferences that are not allowing nVidia Graphics to load, so here's how you solve this issue if you want nVidia back! Restart the computer, and immediately begin tapping F2 fully, every 1/2 a second or so, not stacatto-like, but 1/2-second intervals...That will get you into BIOS, which is where we need to go! 
+Once into BIOS use the arrow keys to cycle over to the Final Screen, (rigtht side of the choices, all the way RIGHT!) the DEFAULT Screen as it is known, where you set User or Manufacturer Values to use. SELECT "LOAD MANUFACTURER DEFAULTS!" After you do that, exit BIOS and SAVE the Values... Hit F10 once, Return, and WHAM! You're out of BIOS and the computer will load Defaults from Asus Gods! (not kidding!) It will take awhile for the computer to return to the desktop, don't think it's broken, it's NOT! Log on normally, and once the desktop stabilizes, it will take a few seconds as opposed to the normal Fast Boot Routine...then Right Click on the Desktop!
+Voila! nVidia Control Panel Returns! It should be in the selections that keystroke generates, and THAT is HOW you get back the MISSING SWITCH, and the nVidia Control Panel if it ever happens to you, so that is down, dirty, done.
+Next time you restart the computer, or shut down then restart, go back into BIOS again, ie hit F2 as above while the computer is offline, after Restart or Power Command is given, until BIOS Screen shows. Go back to the Default screen, the last BIOS Screen you can load, this time use the arrow key to select "Load User Defaults", then Exit BIOS...then F10 again, Return again, and KABAM! You're out of BIOS, and the computer will start up normally, Fast Boot is again enabled (if you have enabled it or it's at Default), and the desktop quickly appears. CHECK AGAIN... Right Click on the Desktop! Does the nVidia Control Panel appear as one of the choices? Yes? Good! All is Well in Asus Land now!
+That is how you reset Power4Gear Hybrid Controls and nVidia Control Panel! Got IT!? Good, now let's get onto some more interesting topics, but that is how we get things back to Square No. 1 with the Control Panels.
+**Next topic, the HDMI Port, which is on the left side of the computer, next to the USB Port there. All you have to do to enable HDMI is insert an HDMI Cable, select the correct HDMI port setting on your HD TV, insert the HDMI Cable into the HDTV's HDMI Port, and WHACK! The Asus UL30Vt'X1 Desktop is on the TV! If necessary hit Fn F8 to dismiss the desktop altogether on the computer, just remember to hit Fn F8 again when you dismiss the HDTV and take the HDMI cable out of the computer/HDTV! Easy!**
+***Now some folks have complained about the computer's Trackpad, and I for one don't have any problems with it. There is NEW SOFTWARE out for the trackpad, which was released the week of February 28, 2010 at Asus Central, so go to Support at the Asus web site, enter the UL30VT as your Support Model Choice, select "All" to select software, firmware, and utilities, and hit Return! That will transport you to the software web pages for this computer, where you can download the new Trackpad Drivers if you want them, if you need them, or if you just have to have the latest of everything with this computer. I don't need the new software, but some do, so there you go.***
+As for the trackpad being a pain, and dragging or erasing letters and numbers when you are typing fast, like I do: TURN IT OFF! That's what I do, when I am typing madly, and that ends the problems of the "Trackpad Blues"!! So hit Fn - F9 and SLAM! Done Deal, trackpad is disabled so you won't be bothered with it, and that's the end of the story. When you want it back, Fn - F9 =RETURN OF THE TRACKPAD! Simple In, Simple Out!***
+***That's the story there, so let's get into a look at the Energy Saver Control Panel, and how that works, that is P4G Hybrid all over again, sorry about that, it's redundant in the computer too!***
+P4G Hybrid is chosen by the keystroke Fn - Space Bar = 4 Modes of Energy Saver, preferences that are OPTIONAL, you don't have to use these settings, or you can MODIFY THEM in the Control Panels area of the operating system! That is what I have done with ALL of them, because the arbitrary controls didn't suit me, but nonetheless I am going to pretend I didn't for this review, and I'll tell you what the controls do, and what to expect...
+**Battery Saving Mode: The processor will cycle to no more than 60% full power, down to as little as 5% available power. The screen will dim to approximately 60%  brightness. The hard drive will go to sleep quickly, as quickly as in 5 minutes of non-use. The display will DIM to 30% if not used. Now, the freaky part, the Desktop Will VANISH, the one you were looking at before you selected this mode will! If you have been using Gadgets, they will VANISH! A new Desktop Wallpaper will appear and your custom or normal wallpaper will disappear also! WHY does it do all this? To save POWER, that is why! 
+Battery Saving Mode is one I use often, and I've customized it to my way of looking at the control panel now, but other than my customization it's still selectable by Fn - Space Bar=Battery Saving. I've also customized the settings in the control panel itself, apart from the operating system control panels! That is correct, the OS Control Panels can be customized, just like the Control Panel itself can have certain settings changed, just make certain that they do NOT conflict with what you have set in the OS Control Panels!! ****IMPORTANT!!****
+**Entertainment & Quiet Office Mode: The Processor will be set about about 1000Mhz, and the normal settings will be Moderate. Display will dim, etc...these two settings I don't use much, so will let the user discover more about them, but they are available by Fn - Space Bar selection...take it from there.
+**High Performance Mode: Everything is optimized here. The CPU will be @ 100% power for minimum and maximum speed, maxxed out. The screen will be @ 100% brightness. The HD will be set at NEVER in terms of sleeping. The screen will dim during period of non-use, but not to 30%, just a little dimmer than 100%. Now, the tricky part...
+****HIGH PERFORMANCE TURBO MODE****
+Click on the word TURBO, and it turns RED, but only after a RESTART! That is correct, to enable Turbo function you must restart the computer, and after that it is enabled UNTIL YOU DISABLE IT MANUALLY in the control panel once again! TURBO MODE=+33% CPU or shall I say, it is overclocked to 1733Mhz! That is correct, the computer overclocks from 1.3Ghz to 1733Mhz upon being restarted and it will STAY THERE ONLY IN HIGH PERFORMANCE MODE--will stay there until it is deselected, the computer is restarted once again, and BAM! Back to 1.3Ghz.
+Do not worry about the overclocking--it is a good thing! The computer is FASTER, it is capable of editing video, audio, etc...you can use it like it has a 2Ghz CPU in it at that point, because it is practically there. So that's a nice surprise for owners of the UL30VT series. The performance is very adequate for a computer that is normally just saving energy @ 1.3Ghz or less, for long battery life and run time, low wear and tear on everything in general. Now a word about the CPU in general, and how this computer performs with a popular utility.
+I used Everest Ultimate to do some comparison tests of the CPU, the memory, the video card, and this is a surprisingly adequate  machine, especially using Turbo Mode and High Performance in P4G Hybrid Control Panel. I found that the computer was the equal or better than many faster machines, some with the word AMD before their Quad Core CPU's and at speeds up to 3Ghz, so it was a surprising statement. Everest revealed a bunch of secrets of the computer so let's look at some of them of interest:
+Field	Value
+CPU Properties
+	
+CPU Type -Mobile DualCore Intel Core 2 Duo, 1733 MHz (6.5 x 267)
+CPU Alias Penryn-3M
+CPU Stepping R0
+Instruction Set	x86, x86-64, MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1
+Original Clock	1300 MHz
+Min / Max CPU Multiplier	6.0x / 6.5x
+Engineering Sample	No
+L1 Code Cache	32 KB per core
+L1 Data Cache	32 KB per core
+L2 Cache	3 MB  (On-Die, ECC, ASC, Full-Speed)
+	
+Multi CPU
+	
+Motherboard ID	ASUSTeK Montevina
+CPU #1	IntelGenuine Intel(R) CPU U7300 @ 1.30GHz, 1733 MHz
+CPU #2	IntelGenuine Intel(R) CPU U7300 @ 1.30GHz, 1733 MHz
+THAT is my computer in overclocked mode, so you can see that for yourselves. It described the CPU as being a Penryn-3M, a most capable mobile C2Duo CPU, and the motherboard from Asus is called Montevina! You can see the CPU has 3MB of L3 Cache at full speed on die (whatever speed the computer is operating at), a good thing again! The more L3 Cache the more information the CPU can cache at speed!
+This is more from Everest Ultimate, and I hope it translates into the format here, but if it does not I'll edit it out...never tried it before! You can see here that the maximum memory amount is 8GB! And indeed I have installed 8GB of fast Crucial DDR3 1066Mhz SDRAM in my UL30Vt-X1, and it just flies...it's a bird all by itself now, and is a very capable multi-tasking machine now with 8GB RAM! Here's the readout on my computer in terms of the chipset:
+North Bridge Properties	
+North Bridge	Intel Cantiga GS45
+Supported FSB Speeds	FSB533, FSB667, FSB800, FSB1066
+Supported Memory Types	DDR2-667 SDRAM, DDR2-800 SDRAM, DDR3-667 SDRAM, DDR3-800 SDRAM, DDR3-1066 SDRAM
+Maximum Memory Amount	8 GB
+Revision / Stepping	07 / B3
+Package Type	1363 Pin FC-BGA
+Package Size	2.7 cm x 2.5 cm
+Core Voltage	1.05 V
+In-Order Queue Depth	12
+	
+Memory Controller
+	
+Type	Dual Channel  (128-bit)
+Active Mode	Dual Channel  (128-bit)
+	
+Memory Timings	
+CAS Latency (CL)	7T
+RAS To CAS Delay (tRCD)	7T
+RAS Precharge (tRP)	7T
+RAS Active Time (tRAS)	20T
+Row Refresh Cycle Time (tRFC)	104T
+RAS To RAS Delay (tRRD)	4T
+Read To Precharge Delay (tRTP)	5T
+Four Activate Window Delay (tFAW)	20T
+Write CAS Latency (tWCL)	6T
+Refresh Period (tREF)	7.8 us
+	
+Error Correction
+	
+Memory Slots
+	
+DRAM Slot #1	4 GB  (DDR3-1066 DDR3 SDRAM)
+DRAM Slot #2	4 GB  (DDR3-1066 DDR3 SDRAM)
+	
+Integrated Graphics Controller
+	
+Graphics Controller Type -Intel GMA 4500MHD
+Graphics Controller Status	Enabled
+Graphics Frame Buffer Size	32 MB
+	
+PCI Express Controller
+	
+PCI-E 1.0 x16 port #2	In Use @ x8  (High Definition Audio Controller [10DE-0BE3] [NoDB], NVIDIA GeForce G210M [10DE-0A74] [NoDB])
+Here is one familiar quotient out of Everest, called PhotoWorxx, which compares the computer with a lot of very powerful machines, standards in their own class, and it came out surprisingly strong!  You can see that the UL30VT came in 12th in this field of contestants, an amazing feat to me anyway...these are partial results, condensed to save space...more than 50 computers were ranked and this one came out 12th!
+--------[ CPU PhotoWorxx ]----------------------------------------------------------------------------------------------
+    4x Core i7 Extreme 965 HT    3333 MHz  Asus P6T Deluxe                                                         X58                   Triple DDR3-1333      9-9-9-24 CR1                 35393
+    8x Xeon E5462           2800 MHz  Intel S5400SF                                                           i5400                 Quad DDR2-640FB       5-5-5-15                     25575
+    4x Phenom II X4 Black 940    3000 MHz  Asus M3N78-EM                                                           GeForce8300 Int.      Ganged Dual DDR2-800  5-5-5-18 CR2                 19168
+    4x Core 2 Extreme QX9650    3000 MHz  Gigabyte GA-EP35C-DS3R                                                  P35                   Dual DDR3-1066        8-8-8-20 CR2                 17431
+    8x Opteron 2378         2400 MHz  Tyan Thunder n3600R                                                     nForcePro-3600        Unganged Dual DDR2-667R  5-5-5-15 CR1                 15896
+    2x Core 2 Duo E6700     2666 MHz  Abit AB9                                                                P965                  Dual DDR2-800         5-5-5-18 CR2                 11922
+    4x Core 2 Extreme QX6700    2666 MHz  Intel D975XBX2                                                          i975X                 Dual DDR2-667         5-5-5-15                     11706
+    8x Xeon L5320           1866 MHz  Intel S5000VCL                                                          i5000V                Dual DDR2-533FB       4-4-4-12                      9621
+    4x Xeon 5140            2333 MHz  Intel S5000VSA                                                          i5000V                Dual DDR2-667FB       5-5-5-15                      8626
+    2x Athlon64 X2 Black 6400+    3200 MHz  MSI K9N SLI Platinum                                                    nForce570SLI          Dual DDR2-800         4-4-4-11 CR1                  7653
+    2x Core 2 Duo P8400     2266 MHz  MSI MegaBook PR201                                                      GM45 Int.             Dual DDR2-667         5-5-5-15                      7534
+    2x Core 2 Duo           1733 MHz  Asus Montevina                                                                 GS45 Int.             Dual DDR3-1066        7-7-7-20                      6896
+    8x Opteron HE 2344      1700 MHz  Tyan Thunder n3600R                                                     nForcePro-3600        Unganged Dual DDR2-667R  5-5-5-15 CR1                  6622
+    4x Phenom X4 9500       2200 MHz  Asus M3A                                                                AMD770                Ganged Dual DDR2-800  5-5-5-18 CR2                  6532
+    2x Athlon64 X2 4000+    2100 MHz  ASRock ALiveNF7G-HDready                                                nForce7050-630a Int.  Dual DDR2-700         5-5-5-18 CR2                  6419
+    2x Pentium EE 955 HT    3466 MHz  Intel D955XBK                                                           i955X                 Dual DDR2-667         4-4-4-11                      6058
+****Battery Run Time, Theoretical and Practical****
+The utility that I like to analyze batteries with is called EmBatPower Battery Utility, and it's a legitimate contender for one of the most esoteric battery utilities that I know of, yet its accuracy is XLNT, so bear with me as I list some attributes of the OEM battery, how I describe it generally, and what kind of use I've been able to get out of it in the first 3 weeks of ownership, after Leveling the Battery, which is to discharge it down to its reserve status, then charge it fully. 
+The battery is made by Asus, and it's called a UL50-44, Its design capacity for charge is 61,600mWh or 4400MAH converted to MAH. My particular battery will charge up to 60,732mWh, about 99% of full design capacity, a commendable figure considering battery science is inexact in general, but that's very good! Fully charged, the voltage of the battery is quite high, @ 16,583mV, or 16.58V actual voltage. Asus tells us in advertising that we can expect up to "11 hours" of battery run time with this 4400Mah, 61,000mWh battery, which I find incredibly WRONG in actual use. I have used the battery extensively in the 3 weeks I've had the computer, discharging it no less than 15 times thus far, full discharges down to where the battery goes into Reserve Mode, and the computer Hibernates, this at about 4% of capacity to protect the computer and the battery.
+During my tests I have had enabled typical things that most people would also have enabled, and I did not turn off key functions, so these are real world averages and they are quite different from Asus '11 hour run time' scenario. That just isn't possible with normal use, and here that is graphically put:
+Run time with BlueTooth & WiFi, ON, iTunes ON playing music constantly without break: Discharge down to 4% battery to Hibernation each run:
+Run 1) 6 hours 14 minutes
+Run 2) 5 hours 45 minutes
+Run 3) 5 hours 57 minutes
+Run 4) 6 hours 06 minutes
+Run 12) 6 hours 11 minutes
+Run 14) 5 hours 37 minutes
+Run 15) 5 hours 58 minutes
+Then for runs 7-10 I charted run time with iTunes OFF, BlueTooth Off, and WiFi On:
+Run 7) 7 hours 05 minutes
+Run 8) 6 hours 58 minutes
+Run 9) 7 hours 11 minutes
+Run 10) 6 hours 45 minutes
+Finally, I tried my best to eek the most battery run time possible, with WiFi Off, BlueTooth Off, and iTunes Off, with the computer virtually idling but a work script writing to disk in Microsoft Word until the computer went into Hibernation:
+Run 5) 7 hours 45 minutes
+Run 6) 7 hours 49 minutes
+There you go, the average for all of that is in the mid 6-hour range, and that is where a user should expect to get out of this battery with normal things going on, nominal settings...not bare bones virtually everything turned off and the computer idling! 
+I haven't addressed WiFi or BlueTooth, but those are XLNT also! Range is top-notch in both. It has "Intel 1000BGN" WIFI, note the "N" there, 2.4Ghz "N" mode for network Gurus. I've neglected some things, I know, but I also covered a lot of techno-stats and info, so I hope I didn't lose anybody doing it!
+With all of the positive things going for this notebook, plus it looks fantastic in black--don't let anybody kid you it doesn't because it does, this is a winner! It earns the Wavey Davey Ultimate Performance Gold Award, because it does things that a much faster, larger, more expensive notebook might do, but for a pittance. Get yours before they are all gone, and it will be soon enough! Black is indeed beautiful in the UL30Vt-X1! 
+"There is no substitute for quality," Gottlieb Daimlier said around the turn of the 20th Century, and he founded Mercedes-Benz automobiles...I say the same thing about this super-performing machine. There is no substitute for this Asus, it's the hands down winner in the small notebook class, bar none!

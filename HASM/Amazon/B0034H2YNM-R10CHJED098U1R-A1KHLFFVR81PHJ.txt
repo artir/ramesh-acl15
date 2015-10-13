@@ -1,0 +1,15 @@
+ID: B0034H2YNM-R10CHJED098U1R-A1KHLFFVR81PHJ
+Category: Laptops
+Product: UL80Vt-14-Inch-Light-Laptop-Silver
+ReviewerID: A1KHLFFVR81PHJ
+ReviewerName: John T. Parker
+Date: January 28, 2010
+Helpful: 5 of 5
+Rating: 2.0
+Title: More Touchpad Issues
+Content:
+After a couple months of looking around, I finally settled on the UL80VT.  Was aware of some of the faults people were having (build quality, resolution, touch pad), but it seemed sporadic.  I received my UL80 yesterday.
+Goods:  The build seems fine, I do not have any of the creaking noises others have reported, the battery is nice and tight with no free play, the screen is tremendous (at least compared to my old laptop), but there is some flicker when switching between the graphics modes. Not a problem, and expected.
+Bad:  The touch pad is truly terrible. Following the initial start-up and installation routine, it literally took me over 30 minutes to get as far as the control panel using the touch pad to get the driver uninstalled, so the generic driver over the internet would load, as others have recommended.  Every time I touched the touch pad it would go into select mode.  It kept initiating programs, dragging screens, or the mouse pointer would randomly jump a short space.  Even turning off the "tap" option in the Elan drivers did not help when I finally made it that far. Several times I could not get the pointer to move at all, with any finger (clean hands).  After finally getting the generic PS2 mouse driver installed, similar problems remained.  I finally went to the Asus website and re-installed the Elan driver, and this time I was able to get the "tap" option deselected.  I also turned off the palm rest sensitivity which also helped.  The touch pad still is very dicey to use and I have tried several settings of sensitivity, but at least it doesn't select something every time I use it. It still completely ignores a request sometimes.
+Everything else so far on the unit is solid, but I travel a lot and cannot live without a trustworthy touch pad. I've ordered an additional mouse, but will often need just the touch pad.  Will try another day or so to get this working, but not happy at all currently.
+Jan 30 2010 Update:  No luck, have tried all the recommendations on the ASUS Support site.  Lots of others have complained about this.  Found other ASUS models at Staples with very nice touch pads, so it must be unique to this model; this UL80VT is going back.

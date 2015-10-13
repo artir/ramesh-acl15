@@ -1,0 +1,12 @@
+ID: B000EP35US-R1YTAUS5HMAMWZ-A5CHGMF6496NJ
+Category: MP3Players
+Product: Apple-iPod-Silver-Generation-MODEL
+ReviewerID: A5CHGMF6496NJ
+ReviewerName: L. H. Joon
+Date: September 15, 2005
+Helpful: 4 of 10
+Rating: 3.0
+Title: Poor transfer speed :-(
+Content:
+I've received 2GB iPod nano today. 
+I tried to upload 290 songs to my iPod nano using iTunes 5 in Windows environment. It took more than twenty five minutes to sync all songs. I don't know why. I used latest notebook from Samsung (same as Dell's ODM model). Also browsing speed is some kind of bulky. I'd like to use Firewire to transfer songs, but iPod nano doesn't support Firewire data transfer. I've read other reviews that transfer speed is far more better than mine. What's wrong with my iPod nano? :-(

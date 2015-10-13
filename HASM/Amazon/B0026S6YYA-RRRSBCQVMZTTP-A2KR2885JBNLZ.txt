@@ -1,0 +1,26 @@
+ID: B0026S6YYA-RRRSBCQVMZTTP-A2KR2885JBNLZ
+Category: Laptops
+Product: DELL-INSPIRON-1420-14-1-Inch-Laptop
+ReviewerID: A2KR2885JBNLZ
+ReviewerName: Ronie "Goats & the Like"
+Date: December 4, 2009
+Helpful: 1 of 1
+Rating: 2.0
+Title: Utter Disappoint, but it works.
+Content:
+I bought this Dell inspiron about a year ago to replace my 6-year old gateway. I looked around at prices for lightweight but powerful laptops including macs, gateways, hps and sonys. The inspiron is not the lightest available for its power class (core 2 duo, 3G ram, 250G hard drive) and it even got miserable reviews on the battery life, but for the price, there was no competition.
+Pros: 
+Regular battery regularly lasts over 3.5 hours even after 1 year of daily use.
+9-cell battery regularly lasts over 5 hours even after 1 year of daily use.
+It's pink :)
+Built in webcam, speakers, microphone all great for skyping etc. 
+SD card reader and USB's on BOTH sides (6 total) make for nice use of a portable mouse & other gadgets.
+Cons:
+It's really fat and heavy. In fact my first impression of what I thought would be a lightweight model was "oh crap it's heavy!" When I tried to buy a protective sleeve, the store told me they didn't have any for laptops as fat as the inspiron :)
+The mousepad is consistently unresponsive! Not only does it fail to recognize my strokes if my finger accumulates even a little perspiration, but it often takes several minutes after bootup to recognize vertical strokes, and only moves horizontally even after opening and running several programs. It also randomly "clicks" so that when I'm typing, my cursor jumps around despite taking extra care not to touch the mousepad (ironically, it just did it as I was typing this sentence!). This is ultimately not cool and perhaps the main motivation for not liking this machine -- you can't like it if you can't use it.
+The built in mic and webcam weren't recognizable by linux software until the 9.10 release. pretty upsetting from a company that sells linux based machines.
+Despite having a 4-year customer support and insurance plan, I still can't figure out how to get hold of a Dell representative -- their website is completely incomprehensible making my customer support agreement nearly useless.
+Finally, the screen is pretty dim. in fact, the dimness that they use to generate the battery life is so dark that it hurts my 26 year old eyes to read. even now, plugged in, the screen's whites are actually pretty gray.
+------------------------
+So overall I really expected more from a machine that, after customization, cost me about $1200. When you spend that kind of money on something, you really expect it to be kind of pleasant, if not even enjoyable to use. After all, dual processor, huge hard drive and battery life of 3-5 hours isn't even competition any more.
+...but, it does work. Furthermore, owing to my genius decision to switch to linux, it also recognizes every printer I've ever plugged in to immediately without installation of drivers. This is pretty cool.

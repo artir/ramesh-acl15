@@ -1,0 +1,11 @@
+ID: B00005QJ2L-R16VNFUGG3KUBX-A1KGVDW56LDWZU
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: A1KGVDW56LDWZU
+ReviewerName: Corey
+Date: February 15, 2004
+Helpful: 5 of 6
+Rating: 1.0
+Title: BIOS is NOT the problem
+Content:
+Hey all-  I have been following the class-action suit against Toshiba RE: random shut-offs and wanted to correct something that another reviewer asserted.  In the &quot;one bad apple...&quot; review, the reviewer asserts that the BIOS fixes offered by Toshiba will correct this problem.  This is a truth wrapped in falsehood.  The BIOS fix WILL prevent this problem from occuring, but it is because it prevents your computer from running at its advertised speed.  To say this is a solution is insane.  All it suggests is that you should have bought a cheaper, slower computer to begin with.  Do NOT confuse the BIOS fix as a real  fix.  Do not buy this computer.  Also, do not buy a Satellite 5005-series or 1900-series.  Same deal.  Viva le lawsuit!

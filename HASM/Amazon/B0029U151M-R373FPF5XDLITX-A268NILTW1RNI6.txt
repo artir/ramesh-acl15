@@ -1,0 +1,28 @@
+ID: B0029U151M-R373FPF5XDLITX-A268NILTW1RNI6
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A268NILTW1RNI6
+ReviewerName: Bikramjit Ganguly "Icandy"
+Date: September 19, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: fast laptop, runs for several hours without additional charging
+Content:
+I will start by clarifying that this review is for the 4810T-8480 model, and  not for the model listed. I saw that several posters had provided their experiences here and i wanted to provide additional info on a related model.  ( i was able to buy the 8480,from a local retailer, for a little less than the price listed at amazon. )
+The 8480 model differs from the base model in these respects-
+# has 64 bit windows vista premium, base has 32 bit windows vista premium
+# has 4 gb ram pre-installed, base has 3gb installed
+# lid seems to be of aluminium, not sure on the base
+I have had the machine for only 3 days so far, but here are my observations-
+CONS-
+Spent some time disabling the numerous unnecessary programs at startup via msconfig. 
+Had to research the UAC issues etc. Downloaded and installed some of the drivers (vga/wifi/audio etc). Upgraded the BIOS.
+The card reader slot had a little piece of plastic in it, and i was first mistakenly pushing it in, rather than pulling it out :) With wifi on cable internet, youtube HD videos play reasonably ok. Of course, with an ethernet connection to the cable they are certainly smooth. Depending on the wifi strength/download speed, HD may be very choppy. MTS files from canon camcorder are barely ok in video, but i still need to tweak the audio. 
+Poor tech support - don't have easy/inexpensive phone support from acer. email support have an expected turn around time of 24 hours. Email support requires punching in a longish serial number. In response to my simple question on how to access the card reader, they said that the serial number was not found in their database, so they are not going to do anything about my question :) very disappointing. They makeup for this by listing all the required drivers/bios/user guides on their support website.(google for 'acer support' not 'acer timeline support'). On their support page, remember to pick the correct OS to get the appropriate drivers.
+Battery life is typically less than 8hr (about 6 or so) with the power setting set to 'balanced'. Full charging to 100% capacity can take several hours, if you are also working on the laptop in the same time. At 4.2 lbs, still feels somewhat heavy.
+PROS-
+Pretty fast machine (compared to my 4 yr old averatec 12.1' laptop). 
+With 4 instances of procexp running, and 1 instance of netbeans, and 4 instances of firefox, the CPU was less than 15% and system physical ram was below 33% usage. Launching netbeans takes 10 seconds or less. i can launch several instances of all 4 browsers with no problem. I will likely have both netbeans and eclipse running side by side, and so far , it looks like the laptop should be able to handle it well.
+Copying 16gb sdhc to hard drive took 15 minutes.
+Free upgrade to win 7 premium 64 bit.
+Overall, a solid laptop that will likely continue to give good service at least 2/3 years into the future.

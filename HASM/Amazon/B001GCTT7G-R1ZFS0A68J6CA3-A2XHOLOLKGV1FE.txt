@@ -1,0 +1,35 @@
+ID: B001GCTT7G-R1ZFS0A68J6CA3-A2XHOLOLKGV1FE
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A2XHOLOLKGV1FE
+ReviewerName: Skyhawk
+Date: October 22, 2008
+Helpful: 34 of 64
+Rating: 1.0
+Title: The missing Firewire will lock you out of many great products
+Content:
+The absence of FireWire is a major flaw.
+The aluminum Macbook is a non-starter due to no Firewire. Removing Firewire is like taking all the Philips screwdrivers out of a toolbox.
+Thousands of devices are Firewire only, with more coming out all the time.
+Some FireWire advantages are:
+True Target Disk Mode (ethernet can be used ONLY if the 'Bad' machine will boot)
+FireWire can be daisy chained
+Bus Power - FW - Up to 30V/45W vs USB 5V/500mA
+Peer to Peer Connections (no host or CPU required)
+Multiple Host on a bus support
+TCP/IP Networking support
+No Drivers Required (config ROM built in) aka Plug and Play
+Remote Control of devices like cameras
+CableTV Box Support
+You can't transfer a VHS tape or other Video tape using an Analog-to-DV Converter without Firewire
+DMA transfers - device to device data transfer no CPU involved
+Firewire allows two operating modes. One is asynchronous, like USB which suffers from latency, bus contention and collisions.
+The other is isochronous mode, and it lets a device carve out a certain dedicated amount of bandwidth that other devices can't touch. It gets a certain number of time slices each second all its own. The advantages for audio/video should be obvious: that stream of data can just keep on flowing, and as long as there isn't more bandwidth demand than the wire can handle, nothing will interfere with it. No collisions, no glitches. Firewire is Rock Solid.
+There are no USB to Firewire adapters. (Desperate aluminum Macbook owners are looking, but it can't be done.)
+The Macbook Pro has Firewire, but many don't want a 15" Macbook Pro, because of the large size. They want something more portable.
+The aluminum MacBook has no slot for an Express Card. There's NO WAY to connect any Firewire device to the new MacBooks...period.
+Keep in mind that when Apple dropped ADB, SCSI and floppy drives in the Mac at least there where alternatives. USB floppy drives and usb to ABD adapters that protected your investment. There is NO option to connect existing or future Firewire products to the new aluminum Macbook.
+It will be interesting to see what happens in the first revision of the new MacBooks. The original MacBook Pros didn't have Firewire 800, but Firewire 800 was added in the first revision after many complaints.
+Firewire is continuing to improve. (Firewire 3200 will be out soon.) Firewire is more relevant than it ever has been.
+Most would be better off with the White MacBook (that comes with Firewire). They're slightly faster and cheaper than the low end aluminum Macbook. The White Macbook is a good machine, good value and a great deal.
+Apple has always been a visionary company, leading the way in new technology adoption. This one has me scratching my head. They have removed a mature, ubiquitous and robust protocol and replaced it with... NOTHING!

@@ -1,0 +1,17 @@
+ID: B000AMC5TW-R3F2RYP5NMB554-A17DI37DFS230A
+Category: SpaceHeaters
+Product: Cadet-Mfg-67507-Built-Heater
+ReviewerID: A17DI37DFS230A
+ReviewerName: Lance B. Sjogren
+Date: November 27, 2008
+Helpful: 0 of 1
+Rating: 1.0
+Title: temperature control useless
+Content:
+I have Cadet wall heaters in my apartment.  One of these 2000 watt units in the living room, two 1000 watt units in the 2 bedrooms.
+As far as I can tell, the thermostats are useless.  Just as an example:
+I have one of the 1000 watt units turned on in my bedroom right now.  The room is 68-69 degrees.  If you turn the thermostat all the way down to shut the heater off, and then turn it up until the heater turns on, it turns on at about 62 degrees.  If you then turn it down until the heater goes off, it turns off at about 54 degrees.
+That's an 8 degree swing.  And the setpoints are WAY off from the actual temperature in the room.
+I don't understand why I don't see a lot of complaints on the internet about this kind of heater.  I don't think it's just Cadet, I think it's the particular type of thermostat, no matter who the manufacturer.  I believe these are what are called "bimetallic" thermostats.  As far as I can tell they are utterly useless.  All they are good for is as an on off switch.
+At least that is my opinion based on my own experience.  If I'm missing something, someone please point it out to me.
+Has anyone ever been actually able to control the temperature within a reasonable range with these?  If so please speak up and explain how you were able to do so.

@@ -1,0 +1,20 @@
+ID: B00005LEXL-R2XN5YEJN6QWA4-A1NLXVDS8J4E2I
+Category: SpaceHeaters
+Product: Heater-5-Foot-Propane-Assembly-F273701
+ReviewerID: A1NLXVDS8J4E2I
+ReviewerName: Randy Deane "Carpenter Follower"
+Date: December 1, 2005
+Helpful: 15 of 15
+Rating: 4.0
+Title: Propane Hose can be Quirky!
+Content:
+I am very happy with my new Mr. Heater hose hook up, but it did need some tweeking.
+I purchased the 12' Mr. Heater hose assembly, hooked it up, clicked the red Mr. Heater spark button and got a small pilot light to burn maybe 4 seconds.  Then I could get nothing, no flame at all.  
+This is not uncommon, I am finding out. The problem has to do with the new OPD safty rigged propane cylinders. Actually, it is caused by a very good safty valve that makes a lot of sense. 
+There is an Excess Flow shut off valve in the new OPD units, so that your granddaughter dosen't accidently open up a cylinder in your garage and get frost bite or worse from propane shooting out. When the valve senses a sudden need for gobs of propane it shuts off or greatly limits the flow.  Sounds like a good thing to me.
+However, the people at Mr. Heater make no mention of this.  That's not so good.  It took me maybe 45 mins. to an hour searching on the internet and experimenting with my own hose before I got it working.  
+What worked for me was this: 
+Once the E.F. valve shuts off it wants to stay closed.  So you want to bleed a small amount of "hiss" off the pressure valve. To do this, you will find a small slotted screw head on the side of the pressure valve up on top of the tank.  Slightly loosen this, let it hiss for a moment then tighten it down again. Now, with Mr. Heater hose hooked up and Mr. Heater off, slowly open the propane cylinder, hopefully you will hear it hiss inside the hose for a moment.  That means the valve intially opened and is slowly filling the hose.  Wait maybe five minutes for it to fill the hose. Once the pressure in the hose equalizes, you should be able to light Mr. Heater.  
+This got me going. I hope it helps anyone else with the same problem.
+Sincerely,
+Randy

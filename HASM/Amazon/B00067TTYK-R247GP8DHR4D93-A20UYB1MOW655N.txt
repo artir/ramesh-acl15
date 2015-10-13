@@ -1,0 +1,18 @@
+ID: B00067TTYK-R247GP8DHR4D93-A20UYB1MOW655N
+Category: MP3Players
+Product: Creative-Zen-Micro-Player-Green
+ReviewerID: A20UYB1MOW655N
+ReviewerName: Josh "jwlazar"
+Date: February 18, 2005
+Helpful: 16 of 18
+Rating: 5.0
+Title: In spite of IPod Indoctrinization, Creative holds its own
+Content:
+I can't help but feel peeved by the attitude created by Apple enthusiasts that basically detracts from anything that attempts to compete with Apple products in the marketplace.  Thankfully, Creative has come through with a product that puts the Ipod back in its place.  While I have not had the "privilege", as many call it, of owning an Ipod, based on the experience of friends who have had some misfortune with their Ipod (and subsequently purchased the Zen Touch or Zen Micro), I can pretty much rest assured that my decision to purchase the Zen Micro was one of the more informed ones.  Nevertheless, I still get shirked when someone out of ignorance states "But it's not an IPod!" or "Never heard of it, I'll go with the IPod". ¬_¬
+About the hype:
+I must applaud Creative for their restraint.  By focusing exclusively on quality rather than excessive marketing, they have introduced a player that can look the Ipod straight in the eye and not flinch.  While I'm not too keen on their customer service (none of the products I have from Creative have given me issues), I can definitely recommend the Zen Micro for the simple fact that it does exactly what it is supposed to do and more...without needing any of the extra hype except word of mouth.
+Apple, on the other hand, seems to have engaged in a blind marketing strategy that seeks to obliterate competition through utter abuse of marketing channels and un-orthodox "free player" schemes that just seem to pimp the product without pimping the features.  The result, while naturally encompassing the acquisition of greater market share, is a mediocre product that stands out sorely in terms of quality and value when compared in a virtual vacuum to its competitors.
+About the product:
+The Zen Micro is a sleek, stylish device that caters not just to "hip" youngsters but to people of all walks of life who like to listen on the go without having to worry frequently about battery life, size, or the "awkward" factor.  It fits comfortably in my shirt pocket and while very well-designed, doesn't look to ostentatious while I'm walking around with it.  The interface, while a bit confusing at first, is very easy to navigate after about 15 minutes.  Battery life is exceptional, lasting longer than the 8-10 hours that seem reasonable with most music players on the market.  Transferring files couldn't be easier thanks to the included software bundle.  Also, I am quite partial to the Creative MediaSource Organizer and Player software, which I had with Audigy ZS sound card originally; it is definitely an added plus.
+All-in-all, Creative has definitely come up with a winner in terms of product design and features, and I look forward to the Nomad/Zen line of products seizing more market share as people begin to realize that quality is a better determinant of experience than quantity and hype.
+P.S.  The only snag I encountered while initially configuring the device was trying to hook up the Micro to a front USB port.  The bus for the front port on my motherboard did not have enough power; after connecting it to the rear ports, it works perfectly.

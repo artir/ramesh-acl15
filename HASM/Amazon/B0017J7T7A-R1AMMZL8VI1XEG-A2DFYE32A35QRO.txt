@@ -1,0 +1,11 @@
+ID: B0017J7T7A-R1AMMZL8VI1XEG-A2DFYE32A35QRO
+Category: Laptops
+Product: Apple-MB471LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A2DFYE32A35QRO
+ReviewerName: R. Tobin
+Date: January 27, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Best laptop I ever owned -- exceeded expectations!!
+Content:
+This was my first time buying a Mac.  I needed a new laptop, and, at a friend's suggestion, I gave it a try.  Wow, I was so pleasantly surprised.   So well engineered and made, and the included software is fantastic.  I had a few programs that work only on a PC environment, but I had no problem installing Parallels and then Windows XP as a virtual machine.  PC programs work fine.  I think I may be slowly converting to Mac for all my computing needs.  I'm hooked.  Not to be foreshadowed is Amazon's excellent service and pricing.

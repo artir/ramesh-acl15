@@ -1,0 +1,11 @@
+ID: B002LEVGMO-R36LTZDIN5CSEP-A2NK4ZKVRBQTE8
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A2NK4ZKVRBQTE8
+ReviewerName: Kenneth Stark
+Date: September 18, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: If you are thinking of getting a netbook, get this instead!
+Content:
+I have been wanting to pick up a netbook for quite some time but have been turned off by their wimpy processors and poor graphic capabilities. Then I heard about this tiny Acer notebook with a ULV processor capable of running Vista, and its integrated graphics which are Aero capable and I could not wait to pick it up! I was looking at the 11z Dell but this has a faster processor (Penryn versus Celeron) and better touchpad/navigation (I like the mouse buttons) at the same price. I ordered it from Amazon the day after it became available. I ran it on Vista for a few days in which it ran great, except I had to remove all the crapware it comes with. A small price to pay for such a great notebook. I installed Windows 7 Ultimate using by the upgrade path and everything went smoothly and worked perfectly. It works great for just about any task you would expect to do with a notebook this size (web surfing, music, most video streaming). The intel graphics chipset is said to be Blu-ray capable but after trying to play some Blu-ray dics off an external BD drive I would say that is stretching it. Lot of video studder, and breakup. I did not plan to play Blu-ray movies on this, I was just testing the graphics capabilities. On a positive note, most Youtube HD videos play back smoothly, a more likely usage scenario. The screen is one of its weak points (poor off angle performance) but is acceptable for the price range. Overall I have really like this laptop and it will make a great travel companion as well as living room companion. I would have enjoyed some integrated graphics but that would likely raise the price by ~$100.

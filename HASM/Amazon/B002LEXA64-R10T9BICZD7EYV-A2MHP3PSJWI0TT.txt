@@ -1,0 +1,50 @@
+ID: B002LEXA64-R10T9BICZD7EYV-A2MHP3PSJWI0TT
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A2MHP3PSJWI0TT
+ReviewerName: Y. Yamamoto
+Date: August 29, 2009
+Helpful: 87 of 93
+Rating: 5.0
+Title: The best laptop ever!
+Content:
+This laptop is just by far the best laptop for the overall features.
+Pros:
+1. Very thin and light. Just a bit bigger than today's netbooks 
+2. Much faster than Atom based netbooks
+3. Bright and large screen with true HD aspect ratio. Very useful resolution.
+4. 4g upgradeable memory cap.
+5. Great webcam and good microphone
+6. Amazing battery life even with Core2solo CPU. Last longer than my other netbook with  the same capacity battery.
+7. HDMI out! wow
+8. Wireless N and Bluetooth 
+(Edited:8/31/2009) No Bluetooth! My bad assumption from the bluetooth switch and LED indicator on the laptop. Sorry...
+9. Multi finger/gesture touch pad like iPhone
+10. Very usable keyboard
+11. Quiet fan and harddrive
+12. It does not get hot like my other netbook
+13. Great speakers!
+14. Centrino architecture seems to be faster in network response compare to Atom based netbooks 
+15. Inexpensive for the quality laptop with all the features
+16. (Added on 8/29/2009) Spacious 250G HDD
+17. (Added on 8/29/2009) Free upgrade to Windows 7 from Acer. Nice! (However, it was little tricky to register using Chrome. I had to use IE. They may have fixed the issue though...)
+18. (Added on 8/29/2009) The lid opens up wider (deeper?) than my netbook. This is kind of important to me while using it on my lap.
+Cons (I do not really care about these cons, but here they are)
+1. Vista. I like XP myself
+2. Shiny LCD screen is too reflective. This may be just me.
+3. HD movies from Vimeo and Youtube are bit sluggish (not because of network bandwidth. It is more like not enough CPU power for Flash based HD movies.
+(Added on 8/29/2009) Even though the movies are cached all the way, the CPU hits 100% with Flash based HD movies. SD movies are just fine. I can kind of watch HD Flash movies better with this laptop than my Atom netbook though.
+4. All the pre-installed applications that I removed. 
+5. My wish for the laptop design to be somewhat like macbook or HP Mini series.
+6. I thought the CPU had hyper-threading like Atom. Task manager shows only one thread. I know it is "solo", but Atom shows two threads. 
+(Added on 8/29/2009) The CPU does not have HT (Hyperthreading). I had some wrong info there. Even without the HT, this little laptop performs much faster than my Atom netbook.
+Although I listed cons, they are very least items that I wish for. Of course, It does not perform like Intel i7 CPU based desktops. However, for the size and usability, this is a champ of all laptops and desktop PCs I have ever owned. I will use the i7 desktop for Video and photo editing. That may be only 5% of all my computer usage. The rest, 95% of tasks can be done with this little laptop for me. I cannot talk about the durability yet, but it seems to be well built. Anyway, this is a great laptop with very reasonable price tag!
+(Added on 8/29/2009) Some usual stuff that I did to make the laptop even better.
+1. Usual Vista tune ups like turning off Aero and other graphic intensive features.
+2. Removed many pre-installed apps mainly Office trial and Anti-virus software.
+3. Turned off unused start up programs
+(Added on 8/30/2009) Some tests
+1. HDMI out to HD TV
+1080p resolution worked perfect including sound with not much config. 1080 resolution gets everything too small to read for my setup. I switched to 720p. My TV does not adjust automatically, so I had to adjust the size using Intel TV wizard software (This app cannot be used with Dual monitor config. Switching to Digital TV only mode enables it.). I adjusted using the app to 720p. The app works, but the screen refreshes every time the adjustment button was clicked, I had to press the adjustment button very slowly and patiently. When I clicked too fast, the app froze with 100% CPU for a long time like 10 min. I had to restart. Other than that all worked perfect!
+2. Web cam and digital microphone using Skype
+I wanted a small laptop with webcam, so I can put it right next to my baby and show her to my parents in Japan via Skype. My other netbook kind of worked, but in low light situation, the video was so dark that they could see only my white eyes. Mic was also giving them echo. When I tried with this laptop, it was literary day and night. This laptop webcam is optimized for low light. They could see my baby clearly. The mic was clear and no echo. The only minor issue is that the image is bit white  tinted with default setting. My wife thought I was smoking... haha. I had to tweak a bit in config. Nonetheless, the webcam and mic worked great for Skype. FYI: It does not perform like high resolution after market webcams, but the built-in webcam satisfies my needs very well.

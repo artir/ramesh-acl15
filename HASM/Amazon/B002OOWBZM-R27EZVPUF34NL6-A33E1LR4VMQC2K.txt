@@ -1,0 +1,17 @@
+ID: B002OOWBZM-R27EZVPUF34NL6-A33E1LR4VMQC2K
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1307-13-3-Inch-Ultrathin
+ReviewerID: A33E1LR4VMQC2K
+ReviewerName: E. Yee
+Date: December 10, 2009
+Helpful: 6 of 8
+Rating: 3.0
+Title: was about to throw it out the window
+Content:
+At first sight, this laptop is pretty stunning.  Light, compact, thin, sleek.  It is pretty full featured: 3gb ram, 500gb hard drive, wireless n, bluetooth, etc.  However, it has some quirks that really irk me.  As far as Windows 7 goes, I hate having to verify programs over and over, I think the start menu it shares with Vista is clunky and should go back to xp style, but that is an os issue.  Now for my gripes with the hardware:
+The speaker issue which has been well addressed in previous reviews so I will not get into it.
+Webcam: default not set to night mode so if you are indoors forget about being able to see anything.
+Facial Recognition: takes longer if not just as long to type in your password than to use this.
+Keyboard: absolute fingerprint magnet
+Touchpad issue: this made me want to literally slam it against a wall and return it.  I think I have finally found a good solution to this problem.  I followed the other reviewers instructions as far as deleting the drivers and reinstalling the default drivers.  However, I found this to not fully solve the problem as I got sparatic movement and lost scroll and all functionality.  So I searched and found an updated driver and installed, now I am a happy camper, as long as it stays working.  I still hate the rocker button design, very dumb.  Download the new driver here: [...]
+hope I saved someone some headache.

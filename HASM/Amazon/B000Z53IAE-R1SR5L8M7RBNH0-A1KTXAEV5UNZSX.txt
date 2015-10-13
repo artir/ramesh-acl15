@@ -1,0 +1,12 @@
+ID: B000Z53IAE-R1SR5L8M7RBNH0-A1KTXAEV5UNZSX
+Category: AirConditioners
+Product: Portable-Air-Conditioner-7000-Dehumidification
+ReviewerID: A1KTXAEV5UNZSX
+ReviewerName: Pascal Meunier
+Date: January 8, 2010
+Helpful: 
+Rating: 3.0
+Title: Cooling through a wall
+Content:
+This thing is OK for cooling through a wall or door, with the machine sitting in an unconditioned area and sending cold air to a separate room you'd like to cool.  Otherwise, it is not what you'd expect from the description.  Due to the basic laws of physics, it can't cool an enclosed space it is sitting in;  it will heat it.  The unit I received had poor quality control, with the inside compressor's electric cable having bent the fins of the heat exchanger (condenser) and pushing against them.  It's also a poor dehumidifier due to the construction.  There is a single heat exchanger;  the top part carries the cooling tubes, which condense water, and the bottom part carries the heating ones.  A forward-inclined fan pulls air through the top, cold fins and out the tube at the top of the machine.  A regular fan pulls air through the bottom, warm fins and across the compressor (yes, the compressor is "cooled" with hot air).  So, water will drop from the top, cold part of the fins and re-evaporate on the bottom, warm parts of the fins.  Only water that manages to make it past all the warm fins and warm air blowing through, will reach the collection container at the bottom of the machine.  If you want to dehumidify, get a dehumidifier instead.  In addition, the two fans are in some degree of competition due to leaks between the two sections.  So, with the wheel fan on high, some warm air may get sucked in.  
+Note that there is no thermostat nor dehumidistat on this unit.  It's only off, on high or low.  It only makes sense to use this machine for cooling through a wall, or at a distance with a 20-30' duct as another reviewer suggested, so the heat exhaust (and noise) is away.

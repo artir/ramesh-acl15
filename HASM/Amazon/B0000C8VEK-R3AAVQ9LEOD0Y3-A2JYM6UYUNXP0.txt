@@ -1,0 +1,17 @@
+ID: B0000C8VEK-R3AAVQ9LEOD0Y3-A2JYM6UYUNXP0
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-Camera-18-55mm
+ReviewerID: A2JYM6UYUNXP0
+ReviewerName: Timothy Takemoto
+Date: January 23, 2005
+Helpful: 19 of 20
+Rating: 5.0
+Title: Lenses and download speed
+Content:
+The reviews below pretty much say it all. This is a high quality camera at a very reasonable price. A few points to note from my experience.
+Lenses
+I had a film EOS so I thought I did not need the kit lense and did not buy it. Lenses for film cameras do work with the digital kiss but there are two problems. Due to the size difference between the digital sensor and a 35mm film, the stated focal length of the film lens becomes about 1.4 longer when used with the digital camera. I.e. a 28 mm film lens becomes a 40mm lens when used on the digital Kiss. This means that I lack a wide angle lens for use with the digital. Secondly, while humans can accomodate for the fact that what it says on the lens is not the correct focal length, when using with a canon flash (I have a 380EX) the lens communicates its focal length to the flash gun based on the numbers on the lens not on the adjusted focal length. This means that the flash gun inturn adjusts its flash dispersion width to meet the incorrect focal length and so the exposures is out. One can adjust the exposure manually but the size of the adjustment does not seem to be consistent over the range for my "28" to "70" Canon zoom. So be wary when hoping to use your film EOS eqipment on your digital EOS camera. Buy the kit lens. 
+Download Speed
+A lot of people point out that the camera is a little to download. However it only costs a about 30 dollars (or less?) for a USB 2.0 adapter for the compact flash. I never download directly from the camera. I just change the compact flash and download from that. Using this method, download times are as fast as any other camera, or as fast as the media will allow. 
+Pixels
+While 6.3 is a lot for any amature use. If you want to sell your photos then it is about the minimum. If you plan to turn pro then get the next version up if you can afford it.

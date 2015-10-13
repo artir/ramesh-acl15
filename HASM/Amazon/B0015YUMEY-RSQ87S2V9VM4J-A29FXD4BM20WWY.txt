@@ -1,0 +1,12 @@
+ID: B0015YUMEY-RSQ87S2V9VM4J-A29FXD4BM20WWY
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A29FXD4BM20WWY
+ReviewerName: Gyong
+Date: May 17, 2008
+Helpful: 3 of 3
+Rating: 2.0
+Title: It seems like Apple has some QA issues
+Content:
+I have just returned the second MBP for defects. First one had couple of keys on keyboard with some scratches and super drive was some what loud. the   second one had some issue with mouse cursor freezing up. especially when I'm using photoshop to zoom in and out (or other quick key function), it would freeze and lose control over what I wanted to do.
+I should have kept the first one if I had know that second one would have more serious issue. anyways, what I have learned is that Apple do not have the best QA and bit disappointed. I'm now without a laptop until Amazon send me a replacement. Hopefully next one will be a decent one.

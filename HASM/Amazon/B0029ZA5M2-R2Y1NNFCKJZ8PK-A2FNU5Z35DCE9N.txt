@@ -1,0 +1,14 @@
+ID: B0029ZA5M2-R2Y1NNFCKJZ8PK-A2FNU5Z35DCE9N
+Category: Laptops
+Product: Compaq-Presario-CQ60-410US-15-6-Inch-Laptop
+ReviewerID: A2FNU5Z35DCE9N
+ReviewerName: Philip Ekema "compy 386"
+Date: November 24, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Great budget laptop
+Content:
+Pros:
+This is a very, very good computer for the price.  I bought mine factory direct and added a dual core processor, and the performance is great.  It is relatively light.  The hard disk transfer speed is as good as my older desktop which is a higher RPM drive.  It has a discrete nvidia graphics card (256mb) a separate key pad.  It has a very nice, big, widescreen.  And I got all this for less than $400!!!  Can't be beat.  
+Cons:
+Look at buying an upgraded battery.  Glossy cover and touch pad collect enough fingerprints to convict you in any court.  :)  Slightly bendy design.

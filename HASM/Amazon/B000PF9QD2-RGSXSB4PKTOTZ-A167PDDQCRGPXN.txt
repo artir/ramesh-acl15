@@ -1,0 +1,13 @@
+ID: B000PF9QD2-RGSXSB4PKTOTZ-A167PDDQCRGPXN
+Category: MP3Players
+Product: Philips-Flash-Video-Player-Tuner
+ReviewerID: A167PDDQCRGPXN
+ReviewerName: D. Hunt
+Date: March 2, 2008
+Helpful: 1 of 1
+Rating: 2.0
+Title: Great potential, poor interface
+Content:
+The SA6045 could be a great player, but the interface is not intuitive and needs a little more work.  I use this player primarily for watching videos while commuting and it does OK with half-hour shows.  The screen is a decent size and video looks good on it.
+However, the player does not easily remember where you've paused when you shut it down or even when you use the menu functions.  This makes it inconvenient to watch longer shows since you'd have to FFWD to where you left off.  The volume capacity is also low.  I have to turn it all the way up to hear anything over the regular noise on the bus.  The FM tuner does not reliably capture any stations, at least where I live, which makes this feature useless.
+Battery Life has been great, but the sound for music is just OK.  The interface does not support album art and I have not used it extensively for music.  Philips has updated the firmware once for this device, so I am hopeful that at least some of these problems can be corrected.  However, for now, I would not recommend buying this player.

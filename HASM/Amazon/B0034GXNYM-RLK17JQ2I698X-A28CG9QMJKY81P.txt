@@ -1,0 +1,28 @@
+ID: B0034GXNYM-RLK17JQ2I698X-A28CG9QMJKY81P
+Category: Laptops
+Product: N61JQ-A1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A28CG9QMJKY81P
+ReviewerName: Joseph P. Moss
+Date: March 6, 2010
+Helpful: 5 of 5
+Rating: 5.0
+Title: Amazing value!
+Content:
+Keyboard:
+Chiclet keyboard feels nice, the large keys and a number pad are great! When I ordered this laptop I was worried I would get the UK keyboard layout with the large return key and the backslash key in a inconvenient location.  When I received the laptop I was pleased to find that it was the standard US keyboard layout with large enter, backspace, shift, and control keys which is a nice change from other laptop keyboards that have smaller keys.
+Color:
+The page says the color is dark brown but appears black under almost all conditions, a plus in my book.  I had to shine the back with an LED flashlight for it to appear brown.  I haven't taken outside in direct sunlight but it may appear more brown outside.
+Build quality:
+I would rate this a medium.  It shouldn't break under normal use but it doesn't look as sturdy as some others. Very bright white LEDs on both sides of the laptop blink when in standy mode or when powered on make the laptop distracting in a darker room.  I like the quiet fan volume.  Even the DVD drive is fairly quiet.  Screen hinges look nice and shouldn't break easily.
+Performance:
+Windows 7 boots fast!  Windows Experience Index of 5.9. Runs most all modern games on high quality.  Great performance for the price.
+Ports:
+Aside from the standard ports, this laptop has an HDMI port with audio out, one USB 3.0 connector, an eSATA connector!
+Bundled software:
+Comes with standard game demos, Office 2007 trial, and various ASUS utilities.  Nothing special but not nearly enough to be considered bloat-ware.  Comes with Windows 7 and driver re-install disc as well as recovery disc maker software.
+Audio:
+Great sound quality for laptop speakers. No noticeable distortion even at high volume!
+Battery life:
+Mediocre, I average about 2 hours in power saving mode.  But what do you expect from a gaming laptop with an i7 processor?  Get a netbook if you want battery life :)
+Warranty:
+Great warranty, came with one free year of accidental damage protection.

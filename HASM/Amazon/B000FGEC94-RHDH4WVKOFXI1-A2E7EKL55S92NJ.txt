@@ -1,0 +1,15 @@
+ID: B000FGEC94-RHDH4WVKOFXI1-A2E7EKL55S92NJ
+Category: MP3Players
+Product: iriver-CXW-2G-Digital-Music-Player
+ReviewerID: A2E7EKL55S92NJ
+ReviewerName: S. Griggs
+Date: October 27, 2006
+Helpful: 9 of 14
+Rating: 2.0
+Title: Way too many problems with this player
+Content:
+This is my 4th portable media player and by far the worst. Yes, it plays video nicely. Yes, the sound fidelity is excellent. True, it has a nice interface and sharp display. I purchased the unit mainly because of it's small size and the fact that it'll play OGG vorbis media. 
+    However, here is where the good news ends. First and worst is the way charging and discharging function. The unit refuses to charge unless it's very nearly out of power. Want to quick-charge the unit before heading out for a long excursion? Forget it. Next on my long list of complaints is that it only supports the "MTP" protocol to get music on and off. I was horrified when I plugged it into my Unix boxes or Mac and found that it didn't support a "mass storage" mode (where it should basically show up the same as a hard drive or flash drive). So, if you don't use Windoze you are also outta luck. The thing is totally designed around Windows Media Player.  You can still copy files to it with Winamp or Windows Explorer (although the Explorer interface isn't fully functional since the device doesn't have a real file system).
+   My next set of complaints center around the controls. There is no way to set how fast or slow to navigate through the media. I listen to audiobooks a lot and the lack of a high-speed cue is a huge downside. The "revolutionary" screen is much to easy to press accidentially when the "hold" slider isn't engaged. Plus it can often navigate off the song (play ing in the "background") and you end up having no idea where you are or what you are listening to. Trying to find your place after turning the player on and off is tedious, at best. One false move when the unit comes on (pressing anything other than power immediately followed by un-pause) will probably result in you losing your place. If you charge the unit, then it'll also happily lose it's place. Charging also is a forced activity. When the unit is charging it won't play. So, forget about listening to it as you wait for the battery to fill. 
+     The reboots have also been a joy. The little Clix will, every so often, lock up and need a push of it's reset button. Well, at least they remembered one of those! They also made sure that the charging/syncing cable is propritery and delicate (little white teeth that latch on to the Clix can easily break). 
+     All and all I'd say this. If you are a hard core Windows lover and think Microsoft Windows Media Player is a fine work of software then you will probably only hate this player for the charging issues and the lockups. If you are a Linux user or a Mac user (no it doesn't work with iTunes) then you will will often feel like smashing it in betweeen trying to find your place or wondering why it's locking up again.

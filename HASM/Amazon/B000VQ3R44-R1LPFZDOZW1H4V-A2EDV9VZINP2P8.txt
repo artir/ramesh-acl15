@@ -1,0 +1,11 @@
+ID: B000VQ3R44-R1LPFZDOZW1H4V-A2EDV9VZINP2P8
+Category: MP3Players
+Product: Samsung-Portable-Media-Player-Bluetooth
+ReviewerID: A2EDV9VZINP2P8
+ReviewerName: Ray Beam "Ray"
+Date: May 9, 2008
+Helpful: 6 of 8
+Rating: 2.0
+Title: NO Bluetooth with FM Radio
+Content:
+Zero stars for Bluetooth with FM Radio. They are not compatible with this unit, and it even displays a message that tells you so. However neither Samsung nor Amazon give any hint of this deficiency until after you open the packaging.  It uses the headset cables as the FM antenna, and the headset jack disables Bluetooth.  I did not investigate operability with AM because I am not interested in it.  My only reason for buying the unit was to lose the headset cord while listening to FM.  It appeared a credible product for other purposes, so I scored it with two stars.  Amazon got it back.

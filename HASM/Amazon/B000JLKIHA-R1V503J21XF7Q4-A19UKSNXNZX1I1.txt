@@ -1,0 +1,27 @@
+ID: B000JLKIHA-R1V503J21XF7Q4-A19UKSNXNZX1I1
+Category: MP3Players
+Product: Apple-classic-Black-Generation-MODEL
+ReviewerID: A19UKSNXNZX1I1
+ReviewerName: SteveS
+Date: November 25, 2007
+Helpful: 25 of 29
+Rating: 1.0
+Title: iPod Classic Skips
+Content:
+All iPod Classics Skip
+I have two iPods:
+* The iPod Classic Model A1238 - MB150LL, Firmware V1.0.2 PC, 6th generation and 
+* The older iPod 80G Model A1136 - MA450LL, Firmware V1.2.1, , 5th generation (the one with the glossy front face).  
+The new iPod Classic skips when playing WAV and other lossless file formats loaded via iTunes...but its predecessor does not.  
+I synced about 20G of the exact same lossless and MP3 music on both iPods (5G & 6G).  
+The older 80G iPod does not skip. 
+The iPod Classic 160G skips on all of the songs...  It skips on every song in exactly the same place every time I play the song.  By skipping, I mean, the song plays and then suddenly stops and the iPod goes on to the next song.  
+In iTunes, I can select the song in the iPod Classic library and it plays through the whole song on the PC.  
+I finally took the iPod classic back to Apple and they gave me a new one.  The replacement iPod Classic does exactly the same thing.  The songs skip in exactly the same place they did on the one I took back.  
+I've read on a bunch of web sites where a lot of other people have been having the same problem.
+Technically it could be a parity problem, a certain bit configuration or something to do with the gapless feature of the iPod.  
+Apple suggested that I can fix the problem by take the original CD and rip it using iTunes and then syncing the iPod.  But if the CD has a tiny bad spot in it, the song will still skip. 
+Apple's stated solution for the skipping problem is to run (sync) the song through the MP3 compression using iTunes.  
+But, the reason for the 160G was to be able to load and play lossless files.  
+This has been a challenge since I bought the iPod Classic.  There are a bunch of us waiting for these problems with the iPod Classic to be fixed.  
+If you are considering purchasing an iPod for this purpose, save your money.   Apple has in essence said they have no intention of fixing this problem.

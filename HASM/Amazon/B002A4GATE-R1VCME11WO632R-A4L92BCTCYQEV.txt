@@ -1,0 +1,11 @@
+ID: B002A4GATE-R1VCME11WO632R-A4L92BCTCYQEV
+Category: Laptops
+Product: Sony-VAIO-NW-VGN-NW130J-Notebook
+ReviewerID: A4L92BCTCYQEV
+ReviewerName: Christopher G. Nishio
+Date: January 19, 2010
+Helpful: 
+Rating: 1.0
+Title: Beware of Sony Computers
+Content:
+I purchased a Sony Vaio and its been are real disappointment. The computer is packed with so much junk programs including Norton and various weird Sony programs that run in the background, slowing the computer down considerably. There are so many programs running in the background, it provides Windows 7 with poor performance. Start-up is slow and starting small programs can take several minutes. I do not recommend Vaio's since Sony has chosen to add every commercial program available. It appears they did not run these programs on their own computers to determine the degraded performance. The programs found were several Norton programs, including the anti-virus program, several Sony programs the made start-up a five minute process with Windows 7, Yahoo and Microsoft messengers, Arc Soft and Windows Live, none of these programs are necessary, but they slow down your computer. Its taken several weeks to remove these programs.

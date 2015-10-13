@@ -1,0 +1,272 @@
+joint coarse sentimentf1 for sentiment_1 0.5003322769239706confusion matrix6 x 6 matrix
+120   77  54 0 0 0
+306 1204 268 0 0 0
+648  793 674 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.1811320754716981
+precision for sentiment_0 0.11173184357541899
+recall for sentiment_0 0.47808764940239046
+f1 for sentiment_1 0.6251298026998963
+precision for sentiment_1 0.5805207328833173
+recall for sentiment_1 0.6771653543307087
+f1 for sentiment_2 0.4333011893281903
+precision for sentiment_2 0.6767068273092369
+recall for sentiment_2 0.3186761229314421
+f1 for finetopic 0.6309979353025987joint coarse sentimentf1 for sentiment_1 0.49747381108488614confusion matrix6 x 6 matrix
+127   78  46 0 0 0
+318 1177 283 0 0 0
+628  805 682 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.1918429003021148
+precision for sentiment_0 0.11835973904939422
+recall for sentiment_0 0.5059760956175299
+f1 for sentiment_1 0.6133402813965608
+precision for sentiment_1 0.5713592233009709
+recall for sentiment_1 0.6619797525309337
+f1 for sentiment_2 0.436340371081254
+precision for sentiment_2 0.6745796241345203
+recall for sentiment_2 0.3224586288416076
+joint coarse sentimentf1 for sentiment_1 0.501342352481105confusion matrix6 x 6 matrix
+130   80  41 0 0 0
+325 1204 249 0 0 0
+641  804 670 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.19302152932442465
+precision for sentiment_0 0.11861313868613138
+recall for sentiment_0 0.5179282868525896
+f1 for sentiment_1 0.6228660113812726
+precision for sentiment_1 0.5766283524904214
+recall for sentiment_1 0.6771653543307087
+f1 for sentiment_2 0.4357723577235772
+precision for sentiment_2 0.6979166666666666
+recall for sentiment_2 0.31678486997635935
+joint coarse sentimentf1 for sentiment_1 0.4912128655676841confusion matrix6 x 6 matrix
+114   90  47 0 0 0
+314 1189 275 0 0 0
+646  811 658 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.1720754716981132
+precision for sentiment_0 0.10614525139664804
+recall for sentiment_0 0.4541832669322709
+f1 for sentiment_1 0.6147880041365047
+precision for sentiment_1 0.5688995215311005
+recall for sentiment_1 0.6687289088863893
+f1 for sentiment_2 0.42520193861066236
+precision for sentiment_2 0.6714285714285714
+recall for sentiment_2 0.3111111111111111
+joint coarse sentimentf1 for sentiment_1 0.4906114975082498confusion matrix6 x 6 matrix
+123   89  39 0 0 0
+342 1179 257 0 0 0
+621  836 658 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.18399401645474944
+precision for sentiment_0 0.1132596685082873
+recall for sentiment_0 0.4900398406374502
+f1 for sentiment_1 0.60741885625966
+precision for sentiment_1 0.560361216730038
+recall for sentiment_1 0.6631046119235096
+f1 for sentiment_2 0.42880417073965454
+precision for sentiment_2 0.689727463312369
+recall for sentiment_2 0.3111111111111111
+joint coarse sentimentf1 for sentiment_1 0.4891195227587291confusion matrix6 x 6 matrix
+111   96  44 0 0 0
+301 1204 273 0 0 0
+620  845 650 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.17303195635229926
+precision for sentiment_0 0.10755813953488372
+recall for sentiment_0 0.44223107569721115
+f1 for sentiment_1 0.613815957175631
+precision for sentiment_1 0.5613053613053613
+recall for sentiment_1 0.6771653543307087
+f1 for sentiment_2 0.4218040233614536
+precision for sentiment_2 0.672182006204757
+recall for sentiment_2 0.3073286052009456
+joint coarse sentimentf1 for sentiment_1 0.49600168941929906confusion matrix6 x 6 matrix
+124   80  47 0 0 0
+312 1198 268 0 0 0
+658  797 660 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.18438661710037177
+precision for sentiment_0 0.113345521023766
+recall for sentiment_0 0.4940239043824701
+f1 for sentiment_1 0.6218531014793667
+precision for sentiment_1 0.5773493975903614
+recall for sentiment_1 0.6737907761529809
+f1 for sentiment_2 0.4271844660194175
+precision for sentiment_2 0.676923076923077
+recall for sentiment_2 0.3120567375886525
+joint coarse sentimentf1 for sentiment_1 0.49998378652579795confusion matrix6 x 6 matrix
+108   99  44 0 0 0
+149 1259 370 0 0 0
+523  899 693 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.20950533462657614
+precision for sentiment_0 0.13846153846153847
+recall for sentiment_0 0.4302788844621514
+f1 for sentiment_1 0.6240396530359354
+precision for sentiment_1 0.5578201151971643
+recall for sentiment_1 0.7080989876265467
+f1 for sentiment_2 0.4301675977653631
+precision for sentiment_2 0.6260162601626016
+recall for sentiment_2 0.3276595744680851
+joint coarse sentimentf1 for sentiment_1 0.48566474399534926confusion matrix6 x 6 matrix
+117   83  51 0 0 0
+331 1189 258 0 0 0
+644  834 637 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.1742367833209233
+precision for sentiment_0 0.10714285714285714
+recall for sentiment_0 0.46613545816733065
+f1 for sentiment_1 0.6122554067971164
+precision for sentiment_1 0.5645773979107312
+recall for sentiment_1 0.6687289088863893
+f1 for sentiment_2 0.4162038549493629
+precision for sentiment_2 0.6733615221987315
+recall for sentiment_2 0.3011820330969267
+joint coarse sentimentf1 for sentiment_1 0.4911282970357507confusion matrix6 x 6 matrix
+117   93  41 0 0 0
+327 1175 276 0 0 0
+632  817 666 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.17633760361718162
+precision for sentiment_0 0.1087360594795539
+recall for sentiment_0 0.46613545816733065
+f1 for sentiment_1 0.6083354905513849
+precision for sentiment_1 0.5635491606714629
+recall for sentiment_1 0.6608548931383577
+f1 for sentiment_2 0.42995480955455134
+precision for sentiment_2 0.6775178026449644
+recall for sentiment_2 0.3148936170212766
+joint coarse sentimentf1 for sentiment_1 0.5000782244577788confusion matrix6 x 6 matrix
+121   90  40 0 0 0
+302 1206 270 0 0 0
+643  799 673 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.18375094912680334
+precision for sentiment_0 0.11350844277673545
+recall for sentiment_0 0.4820717131474104
+f1 for sentiment_1 0.6227730441518202
+precision for sentiment_1 0.575656324582339
+recall for sentiment_1 0.6782902137232846
+f1 for sentiment_2 0.43447385409941897
+precision for sentiment_2 0.6846388606307223
+recall for sentiment_2 0.3182033096926714
+joint coarse sentimentf1 for sentiment_1 0.5080976746539764confusion matrix6 x 6 matrix
+115   95  41 0 0 0
+317 1191 270 0 0 0
+617  785 713 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.17692307692307693
+precision for sentiment_0 0.109628217349857
+recall for sentiment_0 0.4581673306772908
+f1 for sentiment_1 0.6188620420888543
+precision for sentiment_1 0.5750845002414292
+recall for sentiment_1 0.6698537682789651
+f1 for sentiment_2 0.45428480407773175
+precision for sentiment_2 0.6962890625
+recall for sentiment_2 0.3371158392434988
+joint coarse sentimentf1 for sentiment_1 0.505571251351124confusion matrix6 x 6 matrix
+123   84  44 0 0 0
+316 1199 263 0 0 0
+638  785 692 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.18524096385542166
+precision for sentiment_0 0.11420612813370473
+recall for sentiment_0 0.4900398406374502
+f1 for sentiment_1 0.6235049401976078
+precision for sentiment_1 0.5797872340425532
+recall for sentiment_1 0.6743532058492688
+f1 for sentiment_2 0.4444444444444445
+precision for sentiment_2 0.6926926926926927
+recall for sentiment_2 0.3271867612293144
+joint coarse sentimentf1 for sentiment_1 0.4989456757346542confusion matrix6 x 6 matrix
+127   84  40 0 0 0
+302 1189 287 0 0 0
+640  796 679 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.19242424242424244
+precision for sentiment_0 0.11880261927034612
+recall for sentiment_0 0.5059760956175299
+f1 for sentiment_1 0.61814400831817
+precision for sentiment_1 0.5746737554374094
+recall for sentiment_1 0.6687289088863893
+f1 for sentiment_2 0.43511694969561043
+precision for sentiment_2 0.6749502982107356
+recall for sentiment_2 0.3210401891252955
+joint coarse sentimentf1 for sentiment_1 0.49657827717719677confusion matrix6 x 6 matrix
+120   86  45 0 0 0
+294 1185 299 0 0 0
+631  803 681 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.18518518518518517
+precision for sentiment_0 0.11483253588516747
+recall for sentiment_0 0.47808764940239046
+f1 for sentiment_1 0.6152647975077882
+precision for sentiment_1 0.5713596914175506
+recall for sentiment_1 0.6664791901012374
+f1 for sentiment_2 0.4337579617834395
+precision for sentiment_2 0.6643902439024391
+recall for sentiment_2 0.3219858156028369
+joint coarse sentimentf1 for sentiment_1 0.5052688687788391confusion matrix6 x 6 matrix
+113   90  48 0 0 0
+310 1179 289 0 0 0
+618  782 715 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.17492260061919504
+precision for sentiment_0 0.10854947166186359
+recall for sentiment_0 0.450199203187251
+f1 for sentiment_1 0.6158265865761295
+precision for sentiment_1 0.5748415407118479
+recall for sentiment_1 0.6631046119235096
+f1 for sentiment_2 0.4515314177455005
+precision for sentiment_2 0.6796577946768061
+recall for sentiment_2 0.3380614657210402
+joint coarse sentimentf1 for sentiment_1 0.4998195091130999confusion matrix6 x 6 matrix
+120   79  52 0 0 0
+310 1180 288 0 0 0
+660  769 686 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+  0    0   0 0 0 0
+f1 for sentiment_0 0.1789709172259508
+precision for sentiment_0 0.11009174311926606
+recall for sentiment_0 0.47808764940239046
+f1 for sentiment_1 0.6200735680504467
+precision for sentiment_1 0.5818540433925049
+recall for sentiment_1 0.6636670416197975
+f1 for sentiment_2 0.43680356574339385
+precision for sentiment_2 0.6686159844054581
+recall for sentiment_2 0.32434988179669033

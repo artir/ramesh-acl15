@@ -1,0 +1,17 @@
+ID: B001H55J6M-R1VR4BXCESZU7T-A2LU6XCB2IPCXD
+Category: Laptops
+Product: Lenovo-IdeaPad-13-3-Inch-Processor-Premium
+ReviewerID: A2LU6XCB2IPCXD
+ReviewerName: Qusus
+Date: November 27, 2008
+Helpful: 64 of 73
+Rating: 5.0
+Title: A review from somone who actually knows something about notebooks.
+Content:
+Some of the previous reviews are frankly asinine.  
+Any objective evaluation of this notebook will show you that this is a state-of-the-art 13.3 inch notebook.  It has SWITCHABLE graphics, an LED screen DDR 3 ram, and the latest Centrino 2 processor.  On top of that, it weighs under 4.5 pounds, which makes it both lighter AND more powerful (when using ATI graphics instead of the integrated) than the 13.3 inch aluminum Macbooks.
+Best of all, because of the switchable GPU, you don't sacrifice battery life to get performance.  When you're on the road, use the Intel chipset and you'll get a realistic 4+ hours of wireless usage.
+This is without a doubt, the best value proposition in 13.3 inch laptop market.  
+This isn't to say this notebook is without it's flaws.  Ergonomically, this laptop is top-notch quality.  The typing experience is far more comfortable than the keyboard on the Macbook and Vaio's.  But design wise, this computer is a lot like a business laptop than a sleek sexy consumer laptop.  It's black all-around, very professional but not exactly an eye catcher like the aluminum Macbook or the Dell XPS m1330 and the carbon fiber Vaio's.  In my opinion, that's the biggest negative on this notebook, it's design simply isn't as good as other 13.3 inch consumer laptops like the aforementioned Macbook and XPS m1330.  (Of course, those are considerably more expensive as well.)  I realize that design is often subjective and some people like this business look more than flashy aesthetics, but again, this is a CONSUMER notebook not a business oriented ThinkPad.
+As for customer service, I won't lie, Lenovo's 1-800 tech support is really really really terrible.  Just atrocious.  But if you skip those guys and go through Mark Hopkins at the Lenovo forum he'll really help you out.  That guy is the best.  If you notebook is somehow not perfect on arrival he's arranged to have a Lenovo ship you a new one BEFORE you send yours back so there's no downtime for warranty repair.  
+Keep these things in mind if you're looking for a 13.3 inch portable notebook without sacrificing battery life or performance.

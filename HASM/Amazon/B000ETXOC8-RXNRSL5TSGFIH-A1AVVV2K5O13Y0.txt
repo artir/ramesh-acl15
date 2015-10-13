@@ -1,0 +1,15 @@
+ID: B000ETXOC8-RXNRSL5TSGFIH-A1AVVV2K5O13Y0
+Category: MP3Players
+Product: SanDisk-Sansa-Player-microSD-Expansion
+ReviewerID: A1AVVV2K5O13Y0
+ReviewerName: Christopher Robertson "ctr"
+Date: August 23, 2006
+Helpful: 16 of 23
+Rating: 2.0
+Title: Firmware Issues
+Content:
+Watch out -- this player's firmware does not, at this time, support the playing of Audible Audio Books.  Sandisk has in the past eventually provided firmware upgrades for their other players to support AA format, but have not yet done so for this one.  So, it is a real pain if you buy this player with using Audible in mind.  (There are file coverters and splitters out there, but the legality is doubtful and it is a real inconvenience.)
+Another problem is that the Sansa seems to be confused about rights management.  It won't play some music that I have downloaded from MusicMatch over a year ago.  Media Player does so, and says that I have unlimited rights to the music.  (It is not subscription music.)  But Sansa says that I have to "synchronize" to get them to play.  No matter how many times I do so, it still won't play.
+Otherwise, it is a pretty good device.  The spinning, glowing dial is pretty cool, but its movement feels a little bit rough/cheap.  
+For some reason, when you try to view the Sansa's directory structure on your PC, when connected by USB, the "MUSIC" folder is hidden, even though the other folders (Vid, Photos, etc) are visible.  Have to adjust your folder properties to see it and thus to copy music into it manually.
+So, I'd suggest that this thing is too quirky.  Wait six months or a year for better firmware.

@@ -1,0 +1,12 @@
+ID: B001GEP4YG-R17W8DL1Q7B7AF-A2VLXWDEDMK0QO
+Category: Laptops
+Product: Toshiba-Satellite-L300-EZ1501-Widescreen-Microsoft
+ReviewerID: A2VLXWDEDMK0QO
+ReviewerName: Carlos Sosa Jiron
+Date: January 30, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Enough for internet access and ofimatics works
+Content:
+It's a basic Dual Core 2GHz processor that allows you to work comfortable with office and Internet browsers. I think it's enough for a student or a professional that generally works with text processors, spreadsheet, presentations and e-mails.
+Note: If you want a better performance downgrade to win XP or some distribution of Linux (I suggest Ubuntu)

@@ -1,0 +1,18 @@
+ID: B0011NH5J4-R22IEZM3ZUS8A3-A1B6ABJYQ1T1SJ
+Category: Laptops
+Product: Sony-VGN-AR790U-17-inch-Processor-Ultimate
+ReviewerID: A1B6ABJYQ1T1SJ
+ReviewerName: James Daniel
+Date: April 24, 2008
+Helpful: 32 of 32
+Rating: 5.0
+Title: Very Fast Very Large laptop
+Content:
+[Review of "Sony VAIO VGN-AR750E/B 17" Digital Studio Laptop (Intel Core 2 Duo T8100 Processor, 4 GB RAM, 320 GB Hard Drive, Vista Premium)"]
+This is my 6th laptop and my 2nd Sony VAIO.  I've had zero problems with it other than learning VISTA's unique characteristics.  It is capable of running graphics-intense PC games as well as a desktop (examples include City of Heroes and Neverwinter Nights 2) with most graphics features turned on, though a high-end desktop will probably be cheaper and have a larger screen than this.  320 MB is a ton of disk space (two 160 MB drives in a RAID array), and I've only managed to use up a third of that so far.
+The LCD screen is large, high-quality and bright, and lacks that washed-out appearance that is common in others.  Both Blu-Ray and normal DVDs look great, and of course the same applies to the games.
+It's also more than capable of handling work-related tasks, including a full Visual Studio .NET development environment, and has more than enough memory to load and unload applications quickly.  Yes, only 3 MB of the 4 MB of RAM is available to the 32-bit OS, but the other 1 MB is available to the NVidia video card - 512 MB on the card itself, with 1279 MB available system memory, for a total of 1791 MB.
+Overall, I was looking for a notebook with a large, bright screen, plenty of horsepower and memory, that would be both a portable multimedia box and have the power of a desktop.  This product fits those expectations.
+As for flaws, there are but a few, and those flaws are perhaps better regarded as trade-offs than as flaws, per se.  The primary trade-off is that this is a big, heavy machine, and runs moderately hot.  A lighter machine that runs cooler would have a 13-14" screen and be significantly slower.  You'll think twice before packing it to travel by air (doable, but most business travelers would choose a smaller, lighter, slower PC than this).  Another trade-off is that if you're still on Windows XP, Windows VISTA will feel very different, and since VISTA is newer, there are more bugs to iron out.  Personally, I've run into very few VISTA issues, mainly dealing with having to "Run as Administrator" to get things done.  Finally, given the large amount of space available, the keyboard is of a normal, small laptop size - it would have been nice to have a larger keyboard, or perhaps a keypad given the extra space.
+I'd recommend this machine to anyone else.  I've owned it since 2/26/2008, and I'm using it to write this review.
+[Note that Amazon groups reviews for products such as these.  This review is for the model I specify at the beginning.  Other reviews may be for slightly different models/configurations.]

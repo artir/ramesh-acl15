@@ -1,0 +1,15 @@
+ID: B002U4TZ9Q-RUR5X9LA5JE1Z-A19X4BF861LQST
+Category: Laptops
+Product: Toshiba-Satellite-L455-S5975-Widescreen-TruBrite
+ReviewerID: A19X4BF861LQST
+ReviewerName: D. Adams
+Date: January 12, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great no-frills laptop
+Content:
+My grandparent's less-than two year old Compaq decided to give out very prematurely.  It had similar issues to what Xbox 360's are having, if your curious.  It's semi-fixed now, but that's beside the point :P  Anyway, I found one of these at Best Buy for $320 so I figured I'd give it a shot.  I was a little disappointed when I realized it lacked duel core, but honestly the new Celerons are miles ahead of the earlier models.
+Now, I can't vouch for what was originally loaded seeing as I removed Windows 7 and loaded Windows Vista SP2.  However, with a clean slate, it runs very well.  It boots exceptionally fast and doesn't struggle with anything we throw at it.  Youtube HD, hulu, flash-based sites, etc, it all works very well.  Honestly there's not much else their computer is used for, but most any basic tasks should be handled quite well.  Heat is manages pretty well.  It's not as cool as my Core 2, but better than their old laptop (Athlon X2) and pretty resonable when using basic features.
+I suppose my only real complaints would be the cosmetics and the battery life.  Cosmetics is minor.  It's a larger laptop than most 15.6" with more empty space around the keyboard than's really desired.  There are also no soft buttons as you may see in the pictures, but those usually remain untouched on my machines.  It does, however, have a nice volume roller along the front, so that's a nice plus!
+As for battery life, two hours is probably stretching it.  I'll use it off the plug while I'm at their house and probably can squeeze around 2 hours out of it using very basic things such as Meebo or browsing this site.  Once you start watching Youtube videos, the life (as with most lappies) drops dramatically.
+All in all, a good laptop for basic usage.  It's more aimed for the desktop replacement segment than portability though, so don't expect to be carrying it around all that much.

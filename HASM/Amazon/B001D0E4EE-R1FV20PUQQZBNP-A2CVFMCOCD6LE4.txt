@@ -1,0 +1,27 @@
+ID: B001D0E4EE-R1FV20PUQQZBNP-A2CVFMCOCD6LE4
+Category: MP3Players
+Product: Archos-320-Internet-Media-Tablet
+ReviewerID: A2CVFMCOCD6LE4
+ReviewerName: P. Campbell
+Date: December 31, 2009
+Helpful: 2 of 2
+Rating: 3.0
+Title: Upon closer inspection...
+Content:
+I'll say up front that I did not want to buy a media player at all, but handing my iPhone to a twenty month old for fourteen hours in a plane was definitely off the table.  We bought the player and two battery docks to make sure we would make it all the way across the Atlantic.
+Pros:
+1)  The player works.  It plays video and music, surfs the web via wifi, etc.
+2)  The screen is bright and clear.  No issues there
+3)  The battery life is pretty darned good for an electronic device with a hard drive.
+4)  Sound quality is good enough, better than I expected.
+Cons:
+1)  The power brick's plug is interchangeable, but the player only comes with a US plug (the battery dock brick comes with multiple countries)
+2)  The player plays mp3s and mp4s right out of the box.  To play VOBs, however, you have to pay an extra $20 for a download from Archos.
+3)  The documentation is incomplete and undetailed.  For instance, the instructions say not to turn on the player until it is fully charged, which you will know when the red charging lamp starts to blink.  They also say the device charges much faster if charged via the battery dock.  When you plug in the Archos it starts automatically.  So I shut it down and left it to charge waiting on the blinking light.  For a week.  Took my chances on the flight, everything worked.  Discovered by accident that the red light only blinks if two conditions are met: 1)  You are charging directly from the brick (and not via the battery dock) and 2) the Archos is powered ON.  Otherwise, the light will only stay steady red - despite the fact the battery is full.  Oh, and the onscreen battery indicator only indicates battery charge when the unit is on and unplugged...but you're not supposed to unplug it until it is fully charged...
+4)  The touchscreen is not implemented well.  I'm used to the gold standard of touchscreens (iPhone, iPod Touch), but this one is clunky.  It works, but sometimes it requires heavy pressure, sometimes the lightest touch.  If you plug the Archos into a television, the Archos outputs signal to the TV and shuts off its own display...but you're still supposed to navigate the player VIA THE TOUCHSCREEN.  Lesson learned - start the video, then plug it into the TV.
+5)  Playback stuttered on playing VOBs.  VOBs are big and I have not tested mp4s or any other type of video file, but I expect a media player to play VOBs flawlessly (without a $20 download...).
+6)  The interface is very Windowsy.  Lots of folders, files, etc. - even ones you probably shouldn't see.  If you like to hack your gear, this is heaven.  If you're giving it over to a small child or a person who likes to push buttons and ask questions later - it's a nightmare.
+7)  There is no way to "disable" the touchscreen - like a hold button on an iPod.  Again, when a twenty month old discovers that her little piggies can make things happen, Scooby Doo becomes tertiary entertainment.
+8)  The case is heavy metal, but gets fingerprints and finger oils on it very quickly.  It looks gross within literally minutes of picking it up.
+9)  Connectivity is inconsistent.  Connected directly to the computer, the Archos hard drive mounts no worries.  Connected through the battery dock (as it is supposed to do), no luck.
+In summary, I know I was pushing the limits using this with a twenty month old, but still I expected more for this kind of money.  I wanted a big screen to play videos - and that's what I got.  It works, but after this trip I'll be selling the Archos.  This product needs refinement in order to compete in the media player market.  If you're technically savvy and are just looking to play media, you're probably okay.  If you're looking for a fully mature media tablet, look elsewhere.

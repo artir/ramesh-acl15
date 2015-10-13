@@ -1,0 +1,19 @@
+ID: B000M8WTEU-R1KUORGGEA4GIN-A2R3SPH3EOJ2QR
+Category: Laptops
+Product: Toshiba-Satellite-A135-S4427-Widescreen-SuperMulti
+ReviewerID: A2R3SPH3EOJ2QR
+ReviewerName: James W. Hickman
+Date: January 22, 2009
+Helpful: 1 of 1
+Rating: 1.0
+Title: Very high maintenance PC
+Content:
+I purchased this PC to use as my working laptop as I travel around to universities.  I charge by the hour for my services, so the goal is to have a PC that is a tool for my trade.
+I estimate I have spent over 100 hours of personal and business time in the last year just trying to get this thing to work.  It has also been in the shop twice.  I am on my second hard drive and that one is beginning to fail.  I find I must run Task Manager to monitor for programs that are not responding. (Many times, Task Manager has itself responded with "Not Responding")  
+The CPU and hard drive seem to be under a heavy workload even when nothing is running.  I spent many hours reviewing the services and eliminating those that are unnecessary but that has not helped.
+I upgraded the RAM to 2Meg, but that did not seem to help much.
+I wiped the hard drive clean and reinstalled all software.  That did not help either.
+My first car was a VW bug.  I traveled with a tool-box just to be sure I would get from point A to point B and quite often had to use it.  
+The same holds true for this PC.  I have used the recovery disk at least 10 times.  I meant to purchase a machine that supported me as I earned my living.  Instead, I am finding I must be a PC mechanic in order to get it to operate on a daily basis.
+I almost can laugh at one error:  Even as I struggle to keep this thing up and running, once in a while...for a day or so... the R key doesn't work...
+DONT BUY IT!

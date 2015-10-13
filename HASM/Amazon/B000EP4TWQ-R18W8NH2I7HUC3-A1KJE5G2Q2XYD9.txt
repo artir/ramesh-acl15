@@ -1,0 +1,17 @@
+ID: B000EP4TWQ-R18W8NH2I7HUC3-A1KJE5G2Q2XYD9
+Category: MP3Players
+Product: Apple-iPod-Silver-Generation-MODEL
+ReviewerID: A1KJE5G2Q2XYD9
+ReviewerName: B. Littler "Ben"
+Date: March 19, 2007
+Helpful: 1 of 1
+Rating: 5.0
+Title: Impressed
+Content:
+Granted, I've only had my Nano for a day, but I am very happy.  Small, light, great screen, great sound.
+To answer another poster's lament on "sound, not music" -- you oversimplify the iPod.  Because really, it's about convenience, not necessary quality of sound.  Not to say that sound quality was not considered by Apple, because it obviously was.  Personally, I have some pretty nice mid-range audio equipment -- although I am far from an audio snob -- but the reality is that none of it compares to my little mp3 player.  How often am I sitting on my couch just listening to music?  Rarely, because like everyone else, I have things to do, like go to work or travel or whatever else takes me away from the couch.  To really appreciate hi-fidelity you have to concentrate on the music exclusively.  Most of us couldn't do that if we wanted to :)
+At any rate, sound quality on an MP3 player is about a lot of things, like:
+- quality headphones.  Get some, it matters.  The little earbuds that came with my iPod will go into permanent storage.  Sony makes some good monitors that aren't expensive and I like the Sennheiser open-ears when I need to hear what's going on around me.  
+- MP3 compression rates and encoding.  If you can, use a quality encoder like LAME, and use higher bit rates (192k or higher, variable rather than constant compression to save some space).  A little less music for a lot more sound quality.  BIG difference.  If the sound on your iPod is poor, this may be why.
+- EQ on the player.  Apple seems to do a good job with their standard EQ.  Much better than the Creative Zen I was using previously.
+There is a reason why the iPod is so popular.  They found that delicate balance between usability and performance.

@@ -1,0 +1,11 @@
+ID: B0029U151M-R1TUV6NYM0FVI7-A3NBGLQXDHE4I3
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A3NBGLQXDHE4I3
+ReviewerName: J. Chester "JPC"
+Date: October 10, 2009
+Helpful: 5 of 5
+Rating: 5.0
+Title: acer aspire timeline
+Content:
+A word of caution for anyone buying an acer aspire timeline computer either the 15.6" or 14". You will not have the lockups some on here are claiming they had if you use windows xp or windows7 and you do a clean install of the OS. If you update the bios and all the drivers that will help significantly too. Remember also, a 64bit os is better then a 32bit if you have 3 gigs or more of memory.

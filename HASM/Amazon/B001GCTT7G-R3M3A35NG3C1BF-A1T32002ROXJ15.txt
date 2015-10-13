@@ -1,0 +1,19 @@
+ID: B001GCTT7G-R3M3A35NG3C1BF-A1T32002ROXJ15
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A1T32002ROXJ15
+ReviewerName: TypicalUser
+Date: May 9, 2009
+Helpful: 2 of 18
+Rating: 2.0
+Title: MacBook makes MSBloat look good
+Content:
+After years of pent-up frustration with the bureaucratic, non-intuitive, user-hostile functioning of PCs, Windows, and Microsoft Bloatware, I was really looking forward to my switch over to MacWorld.  I bought a 13.3" Macbook upgraded with the best available processing and memory.  Right out of the box, the thing looked beautiful and sleek.  I switched it on and that's where the fun stopped.  The MacBook and OS Leopard make Microsoft products seem efficient, intuitive, and logical by comparison. I've had mine a month now, and I'm a reasonably intelligent person, so it is fair to say I've given it all the chance an average person should.  I look forward to using it as a $2K aluminum frisbee very soon.  Examples:
+I recently spent a 4-hour cross-country flight trying to get the word processor to let me expand the default working window from 5" to a more full=screen adult size.  But you can't do that.  Apparently MacApple also doesn't want you to be able to re-name files, or move them around among folders.  Even deleting them is not a one-key process, you have to drag them here, drag them there, play miniature golf with them, just to get them in the "trash."
+But backing up a couple of weeks; right out of the box, most programs started out with some kind of error message.  "Hold on there, you can't do that, who do you think you are"  So I had to burrow dep into the settings and preferences to try to reset things to get Garage Band, iPhoto, iMovie, iTunes etc, to run at the basic level.  And oh by the way, all "Help" menus are online, so you must be connected to the internet to use them.  That's a problem when your problem is that the MacBook won't connect to the internet.  So there went another weekend for me,  wandering through settings and preferences in weirdly arranged menus, trying to set the computer to the most obvious basic settings to get it online.  What sold me on Macs was the reputation that everything about them is "plug and play."  My experience is that almost nothing is.
+Now it won't let me send emails while I'm on the road.
+And the trackpad is going bad, after 4 weeks of service.
+When the CD drive ejects a disc, it sounds like somebody folding a CD jewel case in their hands until it snaps into pieces.  I sense big trouble in there soon.
+So: I spent big money experimenting with the switch from PC to Mac.  I used to keep a Bill Gates Voodo doll on my desk, sticking pins in it everytime I ran into some typical PC dysfuncion.  But now Apple has made me a big fan of PCs.  I'll be going back.
+The backlit keyboard is nice, and the glossy screen is not the problem other reviewers suggest.  The real problems with this product are not those superficial things.  The real problems are inside.
+Run, do not walk, away rom this product.

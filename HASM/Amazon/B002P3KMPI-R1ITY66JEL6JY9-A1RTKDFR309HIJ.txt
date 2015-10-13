@@ -1,0 +1,11 @@
+ID: B002P3KMPI-R1ITY66JEL6JY9-A1RTKDFR309HIJ
+Category: Laptops
+Product: UL50Vt-A1-Light-15-6-Inch-Black-Laptop
+ReviewerID: A1RTKDFR309HIJ
+ReviewerName: D. Howe
+Date: February 10, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Very Nice
+Content:
+Personally I love it!  dGpu for when I want to play games or watch a HiRes video and iGpu for when i need better battery life.  I haven't managed to deplete the battery below 40% yet :)  Only gripe I have is that the screen res and dpi are a little low for a 15.6 inch screen.  The UL80VT would probably be a better choice as they both use the same res.  Other than that, boots up in 40-50 sec and shuts down in under 10 - perfect for me ;)

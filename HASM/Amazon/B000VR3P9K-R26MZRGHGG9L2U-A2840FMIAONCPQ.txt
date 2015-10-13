@@ -1,0 +1,16 @@
+ID: B000VR3P9K-R26MZRGHGG9L2U-A2840FMIAONCPQ
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A2840FMIAONCPQ
+ReviewerName: M. Shulman
+Date: December 20, 2008
+Helpful: 1 of 1
+Rating: 5.0
+Title: Excellent update to a great product
+Content:
+I am glad that I waited for Apple to update the Macbook Pro models. The new case is stiffer and stronger. The fit and finish is excellent. The flush power button feels solid.
+The new trackpad was very easy to get used to. The lack of separate buttons is not an issue. You can even define the bottom left and right areas to be buttons if that is how you like it to be. 
+The glass cover of the LED backlit LCD screen does give it a glossy look. There are some reflections. In my use, I have no problems with the glass covered screen. I like that it is protected by glass. The display is very bright. The addition of an on-board video chip as well as a separate video card makes for great graphics options.
+The ability to easily swap out the hard drive is a welcome change on the Macbook Pro line. 
+I have had no problems with it. I installed Windows Vista Ultimate via Bootcamp and it runs very well.
+The battery life is acceptable. If you turn down the backlighting and use the on-board video chip, you can get over 5 hrs use.

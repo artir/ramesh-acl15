@@ -1,0 +1,12 @@
+ID: B000DZFTW6-RDT2G2IFIRL0J-AG5GY3F2HDCEE
+Category: SpaceHeaters
+Product: Desa-International-PP216-MP4-Photo-Cell
+ReviewerID: AG5GY3F2HDCEE
+ReviewerName: T. R. Rice "TRR"
+Date: April 16, 2010
+Helpful: 
+Rating: 5.0
+Title: Photo Cell for kersoene heater
+Content:
+I ordered a new photo cell from Amazon and it shipped from Desa ( somepalce around Dallas). Arrived in 3 days, was as advertised and upon arrival installed in less than 5 minutes. Resolved the shutdown problem and now heater is like new. The test procedure is good reference. The photo cell has very high resistance ( someplace in meg ohm range) when no light available. With a 60 watt bulb the resistance should be below 500 ohms ( not a fully closed contact). The new one has about 45 ohms resistance with a 60 watt light source and apparently the flame has a light source about the same intensity as a 60 watt bulb. Safety swithc now works as it should.
+Desa International PP216-MP4 Photo Cell

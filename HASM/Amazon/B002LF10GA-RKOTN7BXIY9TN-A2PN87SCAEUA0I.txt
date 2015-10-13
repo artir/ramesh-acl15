@@ -1,0 +1,15 @@
+ID: B002LF10GA-RKOTN7BXIY9TN-A2PN87SCAEUA0I
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A2PN87SCAEUA0I
+ReviewerName: M. Hung
+Date: September 9, 2009
+Helpful: 6 of 6
+Rating: 5.0
+Title: not perfect, but Awsome for the price
+Content:
+At first use, I noticed that the keys lack beveled edges, making touch typing more difficult.  But it was easy to get used to.
+The computer came with many junkware, which I took care of by simply installing XP.  Initially, the driver lacked features such as screen rotate * dimming.  But Acer quickly released updates that fixed everything.  Acer support was also great in helping me finish a broken windows-7 order.  The key worked in other computers.
+The 1.4GHz cpu is barely fast enough to decode 1080p videos. However, because the single-core cpu lacks hyperthreading, the computer sometimes stutters when bogged down by a slow thread (e.g., writing to a flash drive).  Lacking HT is definitely a step backward.
+The harddrive bay is a tight fit.  I have a WD 500G drive that is fraction thicker, and doesn't fit.  So other upgraders should check the dimensions. 
+This little acer has all the essential functions built in.  For the price range and specifications, there's no other competitor in the market that comes close.

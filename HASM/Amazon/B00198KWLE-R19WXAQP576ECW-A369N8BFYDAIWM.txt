@@ -1,0 +1,11 @@
+ID: B00198KWLE-R19WXAQP576ECW-A369N8BFYDAIWM
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: A369N8BFYDAIWM
+ReviewerName: Amata Demaio "rsant"
+Date: April 10, 2010
+Helpful: 
+Rating: 4.0
+Title: I had problems at first sent the laptop to dell and now its been over a year and runs flawless
+Content:
+Although I got this laptop w/o the webcam and with 3gb of ram for a steal about a year ago for $400, I have to say this has been a flawless product for me.  I did have a lot of problems with the trackpad at first it was defective and to get it fixed was very easy, I went onto the dell website, used the web based support and the issue was taken care of very promptly.  They rushed an empty box to my house with 2 day air which allowed me to send the computer to their facility for free and about a week to a week and a half later I got it back and the trackpad works fine now.  As for overheating, I have never experienced any.  I do not know if this is a vista problem, I formatted the computer off the bat and now I use the laptop with Ubuntu and on the side Windows XP for my electrical engineering programs.  I have had no other problems with this machine, I just wish it had a better than 2.5 hour battery life time.

@@ -1,0 +1,19 @@
+ID: B000TKFGWS-RHESZK13MKNX1-AOS3JKZ3AU18Q
+Category: SpaceHeaters
+Product: Lasko-5429-Oscillating-Ceramic-Heater
+ReviewerID: AOS3JKZ3AU18Q
+ReviewerName: Abe
+Date: February 5, 2009
+Helpful: 8 of 8
+Rating: 4.0
+Title: Works, but could be better
+Content:
+I did a lot of research online and got a Honeywell ceramic heater from Target.  I wasn't happy with it and took it back.
+Then I got this one, the Lasko oscillating ceramic heater.  I guess I will keep it, but not because it's super great; I just don't expect that I could find anything better.
+I like that it has two settings (low = 875 W, high = 1500 W), because my apartment wiring is not great and it worries me when it switches on and all the lights dim.  Since I'm just using it to supplement a flaky hot water radiator, I don't usually need to run it on high.  I've been running it for about 3 weeks, on low, using about 130 W on average.  I just set it on low and use the thermostat to try to keep the temperature in the room stable.
+The thermostat, though, is rather schizophrenic.  I guess this is a problem with all of these little electric heaters, though, since the Honeywell I returned was even worse.  I want this heater to just sit in the corner and turn on when needed to keep the temperature in the room constant, since my main heater varies too much in temperature, but I find myself adjusting the thermostat back and forth pretty regularly because it doesn't behave consistently from one day to the next.  The settings are different for high and low mode, too, presumably since it heats up its own thermostat and shuts off prematurely.
+In low mode (1), I have it almost to the lowest setting to get the room to stay at 65-70 F.  I often find it turning on when the room is already warm, and not turning on when the room is cold.  In high mode (2), I have to turn it up towards the top to maintain the same temperature.   I am sure they could have compensated for any self-heating effects and made the thermostat more accurate no matter what the circumstances, but they didn't bother.
+It doesn't have any kind of tip-over safety switch, but the other ceramic heater didn't either.  Maybe it's not as critical with these because the outside surface doesn't get too hot.  I can actually touch most of the surface of the front grill while it's on high and not get burned.  It has an overheat protection switch, which would probably trigger if it fell onto something that blocked the flow of air, but I've never seen it activate.
+I don't find it terribly loud, but I have a jet engine of a humidifier in the same room (Holmes garbage), so maybe I'm biased.
+It also has a (20 W) fan-only mode, which could theoretically make the unit useful in warmer weather, too.  The fan is apparently hard-wired to the thermostat in every mode, though.  You might think that a thermostat-controlled fan is a good thing, and I would too, except that the fan is stupidly connected with the same functionality as in the heater modes, so the fan turns ON when the room is cold, and turns OFF when the room is hot.  Duh.
+Oh, it also oscillates.  I care so little about this feature I almost forgot it had it.  It seems to circulate air just fine whether this is on or off.  I'd be happier if they left out the oscillation and spent the money on better temperature regulation.  It might be even better if  the thermostat could switch it from low to high when needed.

@@ -1,0 +1,11 @@
+ID: B00005RI8Q-R2DP2DUE46AIU-A3BD9ZK3WIF74P
+Category: Laptops
+Product: Apple-iBook-Laptop-600-MHz-PowerPC
+ReviewerID: A3BD9ZK3WIF74P
+ReviewerName: Gavin Smith
+Date: October 27, 2001
+Helpful: 6 of 6
+Rating: 5.0
+Title: Fast, beautiful and light
+Content:
+The latest iBooks are pretty much the opposite of the very first Blueberry and Tangerine iBooks.  They have a faster system bus, much more RAM, much bigger hard drives and they've lost the garish colors.  Perhaps most importantly, they've trimmed all the fat off making the iBook almost a sub-notebook.  Despite this, they're loaded with features and are the perfect laptops for student or business person wanting to travel light.

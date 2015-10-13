@@ -1,0 +1,12 @@
+ID: B002P3KMVC-R2WDN78YTAE0IQ-A2XJRNQWK7K7BE
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A2XJRNQWK7K7BE
+ReviewerName: Fan Chen
+Date: December 20, 2009
+Helpful: 3 of 4
+Rating: 5.0
+Title: Attention! Audiophiles!!!
+Content:
+I would comment on something that most people haven't talk about yet.If you are a musician, this is the best laptop that you can get under $700, PERIOD. The sound quality of the computer is amazing especially when you use a headphone. Thanks to SRS, my $20 Sony MDR V250V sounds as good as Monster Beat for the first time. What it does is to highlight the high frequency treble and boost low frequency bass. Internal speaker is also adequate as long as you place the laptop on a place higher than you abdomen. Although I haven't figure out how to switch to external speaker mode in SRS setting; maybe it only recognizes a usb speaker? The harddisk noise is a little distracting if you are in a quite room.(I am talking about loudness &lt;35db). There is no internal hiss that most HP/Dell notebook has (My freaking HP DV9000 died after 16 months! Seriously, don't be lazy, grabbing whatever you see in Bestbuy). I uses Pro Tools 8.01 as my main recording tools; it has no problem running this DAW under Windows 7 64bit with the "underpowered" CPU. One thing I want to point out is the difference between Intel Duo Core T6600 2.2 HZ and Intel Duo Core SU7300 1.3hz. With the same amount of budget, most people will choose laptop with Intel Duo Core T6600 because they think it's more powerful. That's true, but how much more powerful? T6600 has a CPU benchmark of 1250, and SU7300's benchmark is about 1050. There is not much difference in terms of the tasks you will run with the these CPUs, unless you can afford an Intel Core I7 or I5 with minimum benchmark of 4500. So... Do you need a calculator?
+oh, by the way, the graphic card can only be used for watching HD video. No World of Warcraft, no Adobe Premier Pro and no Autodesk Maya, otherwise                YOU = (#_# + Orz)^infinity

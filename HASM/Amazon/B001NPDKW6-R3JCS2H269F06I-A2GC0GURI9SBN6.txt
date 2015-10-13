@@ -1,0 +1,12 @@
+ID: B001NPDKW6-R3JCS2H269F06I-A2GC0GURI9SBN6
+Category: Laptops
+Product: HP-Pavilion-DV6-1030US-16-0-Inch-Laptop
+ReviewerID: A2GC0GURI9SBN6
+ReviewerName: Jorge
+Date: January 29, 2010
+Helpful: 
+Rating: 4.0
+Title: Good piece of hardware
+Content:
+As title says, very nice piece of hardware, neat, clean, love the chrome-style keyboard. The only issue i found was the preloaded Windows Vista. It's just pathetic (oh, by the way i'm a Network Engineer with over 15 years field experience, so believe me when i say Vista is pathetic). Anyway, first thing i did was re-partition and re-format the hard drive (didn't care about creating rescue discs, didn't need those), i installed Windows XP (had to do my homework searching for drivers, but at HP Forum i found everything i needed, they all work flawlessly) and latest Ubuntu distro, so now i have a dual-boot monster. It's lightning fast, no crapware, doesn't take forever to start or shut down. Can even edit HD videos on it and work with HDR photograpy using Photoshop CS3. It's really a little gorgeous fast monster. So for the hardware i give excellency rating, of course if you first get rid of that pathetic Vista frankenstein.
+Oh, Amazon's service: Impecable. Thanx a lot guys!!

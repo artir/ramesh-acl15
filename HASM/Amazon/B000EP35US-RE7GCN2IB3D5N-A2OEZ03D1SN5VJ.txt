@@ -1,0 +1,11 @@
+ID: B000EP35US-RE7GCN2IB3D5N-A2OEZ03D1SN5VJ
+Category: MP3Players
+Product: Apple-iPod-Silver-Generation-MODEL
+ReviewerID: A2OEZ03D1SN5VJ
+ReviewerName: C. Baril "audiobook reader"
+Date: September 20, 2007
+Helpful: 3 of 6
+Rating: 1.0
+Title: Incompatible with many sources
+Content:
+I am very disappointed with this portable device. I bought it primarily to download audiobooks from commercial audio book sellers or from a libary system in Oregon which rents downloaded books for 10 days.   I have discovered that because of the Ipod's proprietary software, programs used by the library system and some of the major on-line audio book sellers cannot be downloaded to that unit.  Even such common files as Windows Media Files are not downloadable.  THe WMF software for syncing files does not recognize the presence of the "portable device".

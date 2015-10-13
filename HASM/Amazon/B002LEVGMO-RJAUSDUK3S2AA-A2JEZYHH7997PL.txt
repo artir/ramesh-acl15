@@ -1,0 +1,33 @@
+ID: B002LEVGMO-RJAUSDUK3S2AA-A2JEZYHH7997PL
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A2JEZYHH7997PL
+ReviewerName: Jack
+Date: August 27, 2009
+Helpful: 48 of 53
+Rating: 5.0
+Title: Exceeds My Expectation
+Content:
+This notebook is one of those instances when you say to yourself, "Wow, it is as good as I expected, and more."
+I have refrained from buying a netbook because the low resolution and poor performance prevents me from multi-tab web browsing, not to mention continuous scrolling with Office documents. When I first saw this notebook, I was very excited because it has something the older generation netbooks have lacked:
+- Decent resolution (1366x768)
+- Decent performance
+- Even better battery life (6 hours)
+Except, it actually exceeded my expectation.
+LCD Screen: Very sharp, and very bright. I am amazed that Acer can squeeze 1366x768 into an 11.6 inch screen, and still keep it so sharp and clear. It is very comfortable to view, and I do not feel any different from viewing my old 14 inch LCD.
+Performance: In terms of word processing, web surfing and installing software, it has been as smooth as my old dual-core laptop. This notebook has upgraded the CPU and chipset from the previous generation netbook, which contributes to the performance I am seeing.
+Keyboard/touchpad: It's full size keyboard, and it's comfortable to type on. I am still trying to get used to some of the key placement, and the lack of home/end buttons. But it's definitely no worse than my other laptop's keyboard. Acer has also learned the lesson from Aspire 751h, so the touchpad is centered to the touch-typing keyboard, and has two buttons. However, the touchpad edge is difficult to distinguish.
+Battery: From what I read, one Acer hour is usually shorter than one Asus hour. This notebook has proven me wrong. I run it on high performance mode, and it still gives me about 6 hours of battery life. Running company VPN and remote desktop seems to reduce it to about 5 hours.
+Size: While slightly bigger than the prev-gen netbooks, I don't feel it's bulkier. At 3 lb, it's very light, but can still stand to lose some weight.
+Temperature: It doesn't heat up much, you can use it on your lap the whole day.
+Other Pros: 250 GB HDD, 2 GB RAM, 1 Gb LAN, 802.11n, webcam, microphone, no-latch lid
+Cons:
+- Lack of separate Home/End buttons. Unfortunately I think most netbooks have to make this sacrifice.
+- Battery charging is slow (I estimate about 4 hours). On the flip side, the charger is small and light.
+- Still requires a fan to dissipate heat, albeit quiet.
+- Others: lacks bluetooth
+As I said, the moment I started using it, all I could say was "Wow". I could not believe Acer could come out with something that outshines Asus (and the rest of the computer industry). For all the laptops I have owned (5), none of them have impressed me as much as this one does.
+Update 2009-09-07:
+I went on a business trip right after getting this laptop. It's proven to be very mobile. I charge the laptop at night, and take it to work with me in the morning, without the charger. The keyboard feels very natural, and overall work is smooth sailing.
+At night I use this laptop to play demo games and watch a few videos (I had the foresight to rip a few ISOs). Most DVDs play great, but there was one that does not play smoothly, so I guess it depends on the DVD encoding.
+Overall love this laptop's portability. The battery life ensures that the laptop is always ready when I need to use it.

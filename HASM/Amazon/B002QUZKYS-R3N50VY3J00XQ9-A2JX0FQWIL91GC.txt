@@ -1,0 +1,21 @@
+ID: B002QUZKYS-R3N50VY3J00XQ9-A2JX0FQWIL91GC
+Category: Laptops
+Product: Acer-AS5738Z-4111-15-6-Inch-Windows-Premium
+ReviewerID: A2JX0FQWIL91GC
+ReviewerName: Rick Meyer
+Date: November 2, 2009
+Helpful: 19 of 20
+Rating: 5.0
+Title: best computer I've had
+Content:
+I must have owned at least 50 computers (about 8 laptops) by now and this is an example of how they just keep getting better. 
+They display is improved and really gives color and sharpness to your drab old photos. The large square keyboard keys are a joy to type on. Mousepad takes some getting used to since you have to use the left side since the right is reserved for (new W 7) pinching etc. But there is a key to disable the pad (and then use a USB mouse)
+The unit stays remarkably cool and the battery lasts 3.5-4.5 hrs (I think)
+Seems to pick up more wireless signals and stronger
+Incidently the notebook has 4 usb inputs! - 2 on each side!
+Volume + and - keys are nice when watching DVD's
+It doesn't have built in bluetooth but evidently another model must because it has a (disbled) bluetooth on off key
+It comes in a small box with just the battery and charger and very little literature (most is loaded on the hard disk and available online. good - less clutter
+I made the single repair disk but haven't done the big 5 disk image. I also deleted MacAfee
+Windows 7 seems amazingly solid and simple. By far microsoft's best effort. It eliminates a lot of clicks. Features a dedicated show desktop hover click in lower right. Simplifications abound. After a while you seem to forget how easy everything is to do without losing the way you have done thing for a long time. You can think more about what you are doing and not on how to get the computer there
+So far only one problem with Win 7 (perhaps my recent update fixed it) is that the desktop has twice lost icons I have placed there

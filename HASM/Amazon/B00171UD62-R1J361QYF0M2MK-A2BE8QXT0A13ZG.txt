@@ -1,0 +1,15 @@
+ID: B00171UD62-R1J361QYF0M2MK-A2BE8QXT0A13ZG
+Category: MP3Players
+Product: iriver-E100-Multimedia-Player-White
+ReviewerID: A2BE8QXT0A13ZG
+ReviewerName: L. Bradley "Muse of the Woods"
+Date: December 6, 2008
+Helpful: 18 of 18
+Rating: 5.0
+Title: Fantastic for musicians.
+Content:
+I got this player because I wanted a one I could take out to the woods with my me, plug in a decent microphone and record acoustic guitar songs. This player works great. What the specs don't say is that the line in is stereo not just mono, so you can use nice stereo mics, so its better than I thought. Also the recording quality is really quite good through the line-in. Its comparable to the line-in on my macbook.
+Beyond that, its a decent player. The battery life is good, the sound quality is fine (a little worse than my ipod but WAY better than my $20 player) The headphones are okay, the video is watchable. Its a little slower getting around than my ipod, it lags a little but it really doesn't bother me much.
+One thing you should know is that you need access to a Windows computer when you first get it to configure the player and install the latest firmware, and also to put movies on it. After that, you change its settings so it can communicate with Linux or your Mac, which it does fine after the changes have been made.
+The only disappointment was with the Micro SD expansion. I have not found a way to record directly to it, and  it freezes on startup if it is inside, so you can only insert it once its on. Also it doesn't integrate with the music library, so unless you intend to watch movies/listen to long audiobooks from the Micro SD card, just skip the expansion card.
+However because of the quality stereo line in recording, I give it 5 stars.

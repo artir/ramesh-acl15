@@ -1,0 +1,12 @@
+ID: B00303G9QS-R2W13U6JHEA8QN-A2AJ0K0C985LFD
+Category: Laptops
+Product: Acer-Timeline-AS1810TZ-4008-11-6-Inch-Olympic
+ReviewerID: A2AJ0K0C985LFD
+ReviewerName: E. T.
+Date: March 17, 2010
+Helpful: 0 of 15
+Rating: 2.0
+Title: Typo, I presume?
+Content:
+I admittedly do not own this model of laptop.  I write solely to point out that I really hope there's a typo in the specifications because, currently, Amazon says this laptop has an 802.11B wireless card.  Not a/b/g/n or b/g/n, just B.
+Please either fix it, or don't sell this model.

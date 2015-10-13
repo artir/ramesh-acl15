@@ -1,0 +1,11 @@
+ID: B000W0XTJ2-R1QPBZMU8H4XJE-A31FOPBZQEY6O6
+Category: Laptops
+Product: Pavilion-TX1320US-Entertainment-Notebook-Processor
+ReviewerID: A31FOPBZQEY6O6
+ReviewerName: L. Kwok "modemoiselle"
+Date: February 11, 2009
+Helpful: 2 of 2
+Rating: 1.0
+Title: Tablet PC with a lot of problems
+Content:
+Bought the pavillion tx1320 back in november 2007 by november 2008 had gone back to hp for 2 repairs. This tablet pc is a piece of junk. First the dc power jack broke down and unable to charge the battery so the tablet pc went dead until the repair box from hp arrive and sent back. The second time the screen just dead at boot time so it was sent back to hp. Now after 14 months the wireless card just vanish from device manager, tried everything from updating to the new driver to doing a system restore, no success. The problem was the hardware, so was the other two repairs. There is a manufacturing defect with this family of pavillion tx1000 family BEWARE! I heard a lot of HORROR stories with this tablet pc in forums with the same exact problems. IF YOU NEED A RELIABLE TABLET PC LOOK SOMEWHERE ELSE BUT NOT THIS TABLET PC! Just a reminder so you don't have to go through a hardship like me. The worst part HP do not want to correct a manufacturing defect causing the motherboard of this families of tablet pc to overheat. When I contact HP support it seems as there was no other people who have the same exact problems. The exact truth there were a lot of people who have the same exact problems with wireless card vanish from device manager after 13-18 months. I AGREE with most people who give a 1 star review. If I can rate this tablet pc less than 1 star I will.

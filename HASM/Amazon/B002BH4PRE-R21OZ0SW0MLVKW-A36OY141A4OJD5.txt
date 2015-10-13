@@ -1,0 +1,12 @@
+ID: B002BH4PRE-R21OZ0SW0MLVKW-A36OY141A4OJD5
+Category: Laptops
+Product: HP-HDX16-1370US-16-Inch-Entertainment-Laptop
+ReviewerID: A36OY141A4OJD5
+ReviewerName: Jake Danzig
+Date: September 10, 2009
+Helpful: 10 of 10
+Rating: 3.0
+Title: Buy at your own risk
+Content:
+I originally wrote an extremely in depth review about this computer, but peculiarly enough, it never got published.  Rather than spending hours going through the extreme level of detail I did before, I'll just summarize it by saying I've had two of these now (first one returned for a replacement), and both had 1) dead pixels and 2) a horrible rattling/crackling/blown speaker sound in the right speaker.  Sent it to HP to fix it under warranty, they fixed the pixels and SAID they replaced the speaker, but the terrible rattling is still there.  More troubling, the HP representative tested several of these computers at the repair center and said that they were ALL exhibiting the same problem in the right speaker (which is placed directly over the triple bass) so this may in fact be a MANUFACTURING problem.  For anyone that has this laptop, please test and comment back.
+Other than that, everything else is fine (minus the horrid amount of bloatware that comes on this thing).  But I find it unacceptable for something that calls itself an ENTERTAINMENT laptop to be plagued by audio and video hardware flaws.

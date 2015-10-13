@@ -1,0 +1,11 @@
+ID: B000WWN3PA-RK8K9CQNWJNUL-AY4WEWB69G9Z7
+Category: Laptops
+Product: TouchSmart-12-1-Inch-Dual-Core-Processor-Touchscreen
+ReviewerID: AY4WEWB69G9Z7
+ReviewerName: Ellen Shirley
+Date: January 11, 2009
+Helpful: 2 of 2
+Rating: 4.0
+Title: Computer good, Vista bad.
+Content:
+I bought this computer about 6 mos ago, it was on sale at Staples for just over $800.00.  Not a computer expert so can't give specific details but haven't had any problem, only thing I don't like is Window Vista which came installed.  Vista does not allow some DOS based programs to run.  When I looked into why many said Vista had the same capabilities XP did in relation to running old DOS programs, but this does not seem to be the case.  Many DOS programs I ran using XP as my operating system do not work with Vista.  Other problems I have encountered are basically similiar, running older applications, not even DOS based but just maybe 2 or three years old, seem to have major problems due to Vista's drivers(?) or so I've been told. Other then the problems with Vista this computer is pretty good, I might however end up removing Vista and installing XP.

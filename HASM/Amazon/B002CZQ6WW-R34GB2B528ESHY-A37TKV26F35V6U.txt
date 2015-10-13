@@ -1,0 +1,13 @@
+ID: B002CZQ6WW-R34GB2B528ESHY-A37TKV26F35V6U
+Category: Laptops
+Product: HP-Pavilion-DV4-1433US-14-1-Inch-Laptop
+ReviewerID: A37TKV26F35V6U
+ReviewerName: TruthSeeker
+Date: October 29, 2009
+Helpful: 0 of 4
+Rating: 1.0
+Title: HP doesn't provide drivers for my HP printer!!
+Content:
+I just purchased this HP laptop with Windows 7, but guess what? I can't use my HP laserjet 1022 printer with it. I experienced over an hour of intense aggravation this morning trying to figure out how to get the printer to work. Finally learned from HP's website that they don't have the driver for this printer yet. Until they do, I can't print from this laptop.
+Now get this, I purchased a Macbook Pro a few months ago and guess what? I plugged this same HP printer into it and voila, immediate recognition! I was printing right away. Lesson learned: buy a Mac.
+Oh, and I tried to perform the recommended Recovery Disc backup the HP laptop advises, but the DVD-R's that I went out and purchased special for the occasion were deemed inferior - after once again spending over an hour with this backup process the DVD-R (not write) was spit out and I was messaged that the DVD was corrupted and to use a 'higher quality' DVD-R. I was using Sony. But I valiantly tried again, extra careful not to create any vibrations near it as it chugged away- I didn't even walk near it, and yet, after another hour, same thing.

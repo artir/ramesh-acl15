@@ -1,0 +1,30 @@
+ID: B001GCTT7G-R1PLP6VHS9E1IO-A36KUDE3Z9PYAI
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A36KUDE3Z9PYAI
+ReviewerName: visterm
+Date: November 11, 2008
+Helpful: 7 of 10
+Rating: 4.0
+Title: quick points to share
+Content:
++ Glossy LED display isn't as bad as I was worried about. Works just fine indoors. LED lighting easily overpowers any reflections you may have indoors (unless you're shining a flash light right on the screen). I haven't tried it outside, but I doubt it'll work at all. Then again, why am I trying to use my laptop outside? I usually like working at a desk! Or at least inside. Outside is for playing!
++ OSX Battery life right on target (5 hrs)
++ Form factor and size are really nice for the performance you get in this machine.
+  + Plays Command Conquer Red Alert 3 (under Windows) at 1280 by 800 with medium detail like it's nothing.
+  + Very nimble with multiple applications open
++ Installs XP Pro and Vista just fine. Bootcamp drivers and support already on the OSX DVD, so you don't need to burn anything. Just pop in the disc after Windows is done installing.
+- Mini DisplayPort to VGA adapter tricky to set up at first:
+  - OSX doesn't let you configure your MacBook to output to external only. You have to wake up or boot the computer while closed (power on, close display quickly!) with the external monitor plugged in for external display only while the laptop is open. If you unplug the Mini DisplayPort cable and plug it back in while in OSX, your laptop screen will turn on and stay on. Annoying.
+  - Windows does well with external displays thanks to the NVIDIA software that lets you set which display(s) you want to use, but the first few times, the drivers didn't seem to pick up the external display. Just unplug and plug back in. Eventually Windows XP Pro and Vista seem to "learn" your monitor preference with the external display plugged in. As an engineer, I have a hard time attributing "learning" to an OS, but that's what I observed. Vista seemed to learn faster than XP.
+  - Windows sometimes does not recognize the monitor after turning the monitor off for power saving. Again unplugging and replugging the mini displayport fixes this. Annoying.
+~ For what it's worth I use an Envision 20" g2016wa2 monitor with the Mini DisplayPort to VGA adapter. I had some problems getting the monitor to recognize the VGA signal reliably when running Windows, but after a software update in OSX that problem seemed to go away. May or may not have been related.
+- Screw holding hard drive clip in was easy to strip. Took a lot of pressure to start unscrewing, so be careful when you want to upgrade your hard drive.
+- Slot loading drive doesn't always behave: sometimes it won't swallow the disc, or eject it all the way out, or feel like it's still holding on to the disc after ejecting and you want to take the disc out. No worries though because you just have to push the disc back in, hit eject. If that doesn't work, you might need to power down so the drive resets. Annoying.
+- Battery life in Windows XP is worse than in OSX, probably because the power management drivers aren't as good. I noticed only 1:15 remaining after copying 5-10gigs of data with Wifi on and backlight about 20%. I may not have had a full charge though.
+- Stand-by not reliable in Windows, so make sure it actually goes to sleep before you bag the computer. I found out the hard way and pulled out a very warm metal laptop--cooled off quickly thankfully and continued running fine.
+- Touch pad in Windows is lousy: I use my right thumb to click touchpad buttons (in this case virtual button) while still touching the pad with my index finger, so when I do that in Windows, the cursor moves a little bit. You can use the tip of your index finger to do the click. Get an external mouse.
+NB: My Windows complaints are certainly minor issues for some people since this is a Mac, but some of us do like to be able to play PC games :)
+So overall, the problems I found certainly aren't show stoppers. It's a nice laptop given the performance, price, form factor, and capabilities.
+I hope you found my quick points helpful.
+P.S. Keep in mind I purchased the 2.0GHz model, which is plenty fast. In my experience the performance increase for the core processors isn't that huge when just increasing the frequency. It's the cache that'll speed up some things, but it's not worth the expense when Corei7 is coming out next year!

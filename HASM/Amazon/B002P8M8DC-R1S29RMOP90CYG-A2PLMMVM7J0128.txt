@@ -1,0 +1,14 @@
+ID: B002P8M8DC-R1S29RMOP90CYG-A2PLMMVM7J0128
+Category: Laptops
+Product: Toshiba-Satellite-A505-S6981-TruBrite-16-0-Inch
+ReviewerID: A2PLMMVM7J0128
+ReviewerName: Ehkzu
+Date: February 24, 2010
+Helpful: 0 of 1
+Rating: 1.0
+Title: 2 1/2 months and the hard drive failed
+Content:
+This is my 3rd Toshiba laptop. They've always been highly reliable, and Consumer Reports' reader surveys confirm that Toshiba laptops are the most reliable computers you can buy. Only my hard drive failed after 2 1/2 months and no strenuous travel. Mainly it just sits in my living room.
+The upside is that Windows 7 told me the hard drive was failing, and after spending $100 on an external backup drive, I was able to save a system image on the external drive before sending the unit back to Toshiba, who sent it back with a new hard drive within two weeks. After some fiddling around I was able to restore all the software almost without incident after a few hours. Now it seems the same as it was before the drive failed. I didn't need any software to do this besides Windows 7 and its backup/restore facility. Toshiba tech support had me run some routines, which all failed, then agreed to let me send it back. They sent me a shipping carton, and handled all shipping costs.
+I hope this was an anomaly, and that Toshiba hasn't traded in its reputation for quality for short-term profit.
+When it's time to replace this in a few years I plan to check reader reviews very carefully. Apart from the drive failing, this seems to be a fine laptop.

@@ -1,0 +1,12 @@
+ID: B00015XMDG-R1R20XDO3T1XJS-AJ8AQG2X9JJ2Y
+Category: Laptops
+Product: IBM-ThinkPad-2379DJU-Pentium-Centrino
+ReviewerID: AJ8AQG2X9JJ2Y
+ReviewerName: Donald Gillies "secretbearer"
+Date: May 17, 2009
+Helpful: 
+Rating: 5.0
+Title: Excellent unit, but suffers minor failures often
+Content:
+(a) Best keyboard ever made for laptops, (b) Decent speed, runs Office 2007 O.k., (c) Acceptable graphics (ATI 7500) or good graphics (ATI 9000 / 9600 / FireGL, the latter 2 can play Far Cry 1.0), (d) Thinklight is very useful on overseas plane flights, (e) fits perfectly on all airplane tray tables, (f) Outstanding battery life with CD-battery + 9-cell (5-6 hrs if you dim the screen), (g) It actually sleeps and wakes up properly unlike 50% of all laptops, and (h) You can just grab it and run to a conference room, yanking it out of the minidock, and it will sleep properly, unlike newer (T60, T400) machines where you have to hit a key first !!
+I have used about 4x of these machines at work over the past 6 years.  I just got my 4th machine so each machine lasts about 2 years.  The typical failure is a really bad/sticky key (1st), a failure of some buttons on the synaptics track pad (2nd), a hard drive failure (3rd), or a failure of the power-port male plug, making it difficult (but not impossible) to charge the unit.  With the exception of the hard drive failure, NONE of the failures were catastrophic "I cannot do any work right now" type of failures, so the system is robust.

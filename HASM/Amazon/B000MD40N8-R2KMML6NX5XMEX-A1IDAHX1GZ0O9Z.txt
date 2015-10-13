@@ -1,0 +1,16 @@
+ID: B000MD40N8-R2KMML6NX5XMEX-A1IDAHX1GZ0O9Z
+Category: MP3Players
+Product: SanDisk-Sansa-Express-Player-Black
+ReviewerID: A1IDAHX1GZ0O9Z
+ReviewerName: northaveorange "nao"
+Date: September 9, 2008
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great Deal, occassional gliches
+Content:
+I was able to purchase this from an Amazon market place seller for about $25 bucks.  It was brand new unopened in the infamous clamshell casing.  It worked superbly for a week.  Now it works great 95% of the time. One day, I stuck it into the usb port of an older work computer and it now has two minor glitches regularly:  
+1. If I turn up the volume a little, it will go all the way to max volume, either needing a soft reset or for you to go to the main menu and then lower volume.
+2. It will not shuffle songs, if you reset and had on shuffle it behaves as if not on shuffle. repair: just turn shuffle back off and on again.
+I use it daily and 1. glitch happens maybe every other week or so, i guess when I charge the drive on the computer. (as far as I know it charges on computer only, i think for about 3 to 5 hrs, I leave it on as soon as I get home or over night.) I tried an external usb charger but not notification of charging appeared on screen.
+FROM USER ERROR the FM radio didn't have any sound, but I discovered that play/pause toggle button will mute it. 
+Remember when putting microSD in it has to organize info first so can take 5 mins or more to load larger microSD card (2 gigs).

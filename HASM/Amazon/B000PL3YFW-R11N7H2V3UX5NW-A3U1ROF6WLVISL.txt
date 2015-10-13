@@ -1,0 +1,11 @@
+ID: B000PL3YFW-R11N7H2V3UX5NW-A3U1ROF6WLVISL
+Category: MP3Players
+Product: Coby-MP-C683-Player-Flash-Memory
+ReviewerID: A3U1ROF6WLVISL
+ReviewerName: A. Potter
+Date: March 4, 2008
+Helpful: 
+Rating: 4.0
+Title: Good value but strange delays
+Content:
+I've only had this thing a few weeks, and overall I think it's worth the $$, but I've noticed a strange issue.  I put in a 2 gig card filled with music.  When I first turn the thing on it takes an inordinate amount of time to 'boot up', as if it wasn't built to handle 2 gigs of music.  The problem seems to be worse when the battery is getting old.

@@ -1,0 +1,14 @@
+ID: B002OOWBZW-R6494VADZCQQP-A1SWXA6BWSCCWI
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310-13-3-Inch-Ultrathin
+ReviewerID: A1SWXA6BWSCCWI
+ReviewerName: Mitch Seville "Mitch"
+Date: December 4, 2009
+Helpful: 25 of 28
+Rating: 3.0
+Title: Great machine - lousy service and dead wireless OOTB
+Content:
+The laptop is awesome with few drawbacks not already noted (glassy surface = fingerprints all over). The battery life is great, screen fantastic, keyboard a little slick but adaptable. My big issue is with Toshiba support. It took me nearly a month to convince them that the machine had a defective wireless card and/or antenna out of the box. I should note that I did all of the troubleshooting for them and if I didn't know my way around the technology wonder if I would still be using a machine that only connected when 2 feet from an access point.
+Eventually I was bumped up to "Level III" tech support after about three weeks, but they never called me back. I then had to go back to square one and basically demand that they clear the way for me to ship it to the depot for repairs. The machine went out the next day using their shipping partner (UPS) on 11/19 and I am still waiting for its return. I have twice called Toshiba support, had to go through a whole litany of questions before they transfer me to the Repair Depot, and then I get to wait on hold for 25 - 35 minutes before I give in, leave my call back number, and of course NEVER GET A CALL BACK.
+UPDATE: I finally got through to talk with a depot technician, and was told that they didn't have either the replacement wireless card or antenna in stock and that it could be another 10 days before they can make the repairs. Now I have been on hold with their customer support for over 30 minutes, as I try to get my warranty extended since the machine has basically been useless for the first 1 1/2 months. This is my first Toshiba, and I can only compare to IBM/Lenovo and Dell support, which run circles around what I am experiencing now with Toshiba. 
+Bottom line = great machine if it works, but get ready for abysmal service if things go wrong

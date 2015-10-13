@@ -1,0 +1,59 @@
+ID: B0012OGF6Q-R3H9PZT2BLUC3V-AXLGGVRGSC8BR
+Category: DigitalSLRs
+Product: Nikon-10-2MP-Digital-18-55mm-3-5-5-6G
+ReviewerID: AXLGGVRGSC8BR
+ReviewerName: A. MOED "Batman moed"
+Date: February 25, 2009
+Helpful: 2 of 4
+Rating: 5.0
+Title: Nikon D60 ... The Best
+Content:
+Nikon D60 10.2MP Digital SLR Camera with 18-55mm f/3.5-5.6G AF-S DX VR Nikkor Zoom Lens
+The D60 is the third incarnation of Nikon's compact, user-friendly entry-level SLR line that started back in 2006 with the D40 (which replaced the first Nikon 'starter' model, the D50). The original D40 was a hugely important camera for Nikon and can be given a lot of the credit for the resurgence in Nikon's fortunes at the volume end of the SLR market (which had been totally dominated by Canon since the launch of the EOS 300D / Digital Rebel). The D40's success (which continued long after the D40X made its swift appearance only 6 months later) isn't hard to explain; it was keenly priced, nicely designed and built and capable of excellent results. It was also a camera that proved cameras do not sell on megapixels alone (even at launch its 6MP resolution was far from 'class leading').
+The D40X, which was positioned as a premium alternative to the D40 rather than its replacement, didn't mess around with the formula much at all; a new sensor with more (ten) megapixels and a lower base ISO, plus a slightly higher continuous shooting rate. The D60 is a direct replacement for the D40X (the D40 will stay around for a while as Nikon's budget option), and once again it's not a major upgrade; the sensor remains the same (though now has a dust reduction system) and the external design is almost identical. There's a few new features, including the same Expeed processing 'concept' seen in the D3 / D300, Active D-Lighting, an eye sensor (to control the screen display), and some tweaks to the interface, but perhaps the most significant change isn't to the camera at all; the move to an optically stabilized version of the kit lens.
+Auto Focus only for AF-S or AF-I lenses
+As with the D40 and D40X, the new D60 doesn't have an built-in focus drive motor which means it can auto focus only with lenses which have their own drive motor (AF-S and AF-I lenses). The lack of a drive motor can be seen by the missing mechanical focus drive pin on the lens mount (see images below). One of the D60's new features is an electronic rangefinder to help manual focus on non AF-S / AF-I lenses. 
+Nikon D60 key features
+    * 10 megapixel DX format CCD (1.5x FOV crop)
+    * Nikon EXPEED processing 'concept' (as per D300, D3)
+    * 3D Color Matrix Metering II, 420 pixel sensor
+    * Multi-CAM530 three area AF sensor
+    * New Image sensor cleaning system
+    * Eye sensor (turns off LCD display)
+    * ISO sensitivity range 100 - 1600 plus HI 1 (3200 equiv.)
+    * 3.0 fps continuous shooting*, unlimited in JPEG
+    * No status LCD, LCD monitor based status / settings screens (now rotates)
+    * Help suggestions on LCD monitor (eg. scene too dark, try using flash)
+    * Large 2.5" 230,000 pixel LCD monitor
+    * Short shutter lag and viewfinder blackout
+    * Support for SDHC (SD cards over 2 GB in capacity)
+    * In-camera retouching
+          o Quick Retouch
+          o D-Lighting (shadow / highlight enhancement)
+          o Red-eye reduction
+          o Trimming
+          o Monochrome
+          o Filter effects
+          o Small picture
+          o Image overlay
+          o Raw processing
+          o Stop-motion movie
+    * USB 2.0 with PTP and Mass Storage device support
+    * Very compact, light body
+    * Improved menu user interface
+    * EN-EL9 Lithium-Ion battery (7.2V, 1000 mAh)
+    * New stabilized AF-S DX 18-55 mm kit lens
+Differences compared to the D40X
+    * EXPEED processing
+    * Image sensor cleaning system with Airflow control system
+    * Automatically rotating user interface (for using camera vertically orientated)
+    * Stop motion movie function
+    * New stabilized kit lens (AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR)
+    * Eye sensor
+    * Electronic 'rangefinder' for manual focus
+    * Active D-Lighting with dedicated button
+    * In-camera Raw processing
+    * New JPEG retouch effects (Cross Star and Color Intensifier)
+* Slower with noise reduction enabled
+Review notes
+Because of the similarities between the two, parts of the first half of this review are taken from the D40X review.

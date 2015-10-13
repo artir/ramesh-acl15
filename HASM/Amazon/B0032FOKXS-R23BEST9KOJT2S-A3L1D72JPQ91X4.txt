@@ -1,0 +1,21 @@
+ID: B0032FOKXS-R23BEST9KOJT2S-A3L1D72JPQ91X4
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A3L1D72JPQ91X4
+ReviewerName: D. Laviniere
+Date: December 16, 2009
+Helpful: 8 of 8
+Rating: 5.0
+Title: Giving this a perfect score (read comment for trackpad fix)
+Content:
+I love this laptop.  My first Asus, and maybe not my last.  Very solid build with great features and a good price.
+Features: 5/5
+I wanted a Core2Duo processor and DDR3 RAM, and I got that.  As an added bonus, I have a discrete graphics processor that doesn't add bulk, and can be bypassed for energy saving.  I've seen 10 hours of battery life, although I think 8 hours would be average use for me.  I ordered the 5600mah battery so the rated battery life should jump to 16 hours from the 12 hours listed here.  The stock battery is 4400mah.  The battery life clinches the perfect score here.
+Build Quality: 4.5/5
+VERY solid build.  It feels as solid as the Macbook unibody.  A very solid hinge with a very nice keyboard.  It is a great size and gives nice tactile feedback.  The trackpad is garbage, and very inaccurate.  Likewise, the mouse button is one of those cheap unibrow buttons.
+Conclusion: 4.5/5
+A great, great product.  I was interested in getting a netbook at first, then I waited for the Ion notebooks to come out.  Just before jumping on one of those, Asus announced this and I am in awe.  It is lightweight with phenomenal battery life.  The 13.3" is a great compromise size.  I went from a 15" Dell to a 14" Gateway, and this 13.3" is a great size for the footprint.  There's actually space for a 14" screen on this bezel, but it would push the weight over 4lbs for sure.  For the $800 I paid, this is an amazing laptop.
+UPDATE: Giving it a 5/5.  Read the comment about the trackpad.  It's a driver issue that has a fix that keeps multitouch gestures intact while remedying the jerky trackpad.  This laptop is perfect now.
+Negatives:
+The trackpad is my only complaint, but it's a big one.  The dimpled surface with no borders makes it hard to use the pad without looking down to make sure you're finger is on it.  A simple raised outline would have helped tremendously.  Besides that, it seems like the dimples make the pad inaccurate as the cursor jumps all over the place.  Making precise clicks with this is a chore.  It might be a deal-breaker for some if they never fix it with driver updates.  I'm patient with it since all the other features are amazing.  I just don't understand how something like that slipped though QA.
+Still, it's clearly not enough for me to dock it too many points.  I don't think there's a better 13.3" laptop on the market right now.  That's not hyperbole.  Battery life is paramount to me, and this has it in spades.  The weight is also a huge improvement for me, at just under 4lbs.  I can carry this all day.  The features are amazing.  I'm gonna drop in an SSD and 8GB of RAM to go with the bigger battery, then this will be a real beast of a notebook.  Good job, Asus.

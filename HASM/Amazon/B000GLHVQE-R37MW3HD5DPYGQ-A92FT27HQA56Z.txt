@@ -1,0 +1,11 @@
+ID: B000GLHVQE-R37MW3HD5DPYGQ-A92FT27HQA56Z
+Category: SpaceHeaters
+Product: Dimplex-CS1205-Compact-Electric-Stove
+ReviewerID: A92FT27HQA56Z
+ReviewerName: Yours Truly
+Date: August 26, 2009
+Helpful: 4 of 9
+Rating: 1.0
+Title: Poor electronics parts quality....
+Content:
+This is an OEM/China product being marketed by different outfits under different brand names. Mine had a name of charming glow bought from the store which has depot in its name. Worked for just over a year -just past the warranty. Now the light has gone out which I found to be a set of LEDs in the unit. The transformer supplying power to these LEDs has gone out. Called the 'customer support' number listed on the product. Am told that there are no replacement parts for the product, need to go my local electrician. Luckily the transfomer has a label on it showing that it has an output of 13VAC 650mA, so until I can find a matching replacement transformer, I have an expensive 750/1500 watt heater.

@@ -1,0 +1,11 @@
+ID: B002ONCDRO-R2GO9CAE5L0E8Y-AW5F2VUBVAVL4
+Category: Laptops
+Product: Pavilion-DV7-3060US-17-3-Inch-Espresso-Laptop
+ReviewerID: AW5F2VUBVAVL4
+ReviewerName: BizPerson
+Date: January 19, 2010
+Helpful: 0 of 1
+Rating: 1.0
+Title: Fan runs at high speed all the time/tech support poor
+Content:
+Although I've been an IBM/Lenovo bigot, thought I'd give HP a try. What a mistake. Fan runs all the time which is quite annoying. Evidently, it is a known issue with BIOS and fan algorithm. HP support is poor. I would not recommend.

@@ -1,0 +1,15 @@
+ID: B001NPDKX0-R1Z4OJ4MM41LI7-A39N4KW57NSVYJ
+Category: Laptops
+Product: HP-Pavilion-HDX18-1180US-18-4-Inch-Laptop
+ReviewerID: A39N4KW57NSVYJ
+ReviewerName: P. William Bane
+Date: April 25, 2009
+Helpful: 5 of 6
+Rating: 3.0
+Title: Conflicts apparently exist between Adobe and HP HDX
+Content:
+Installed Adobe Premiere Elements 7, Lightroom II, and Photoshop Elements 7 (in that order) and Vista crashed; after "restore" and boot, the mousepad did not work. Called HP technical support and was told that they were having "many" "conflicts" with Adobe product line. The agent clammed up when I asked for details.
+Have purchased four HP laptops over last 3 years; construction quality (esp. drive wiring) on this laptop clearly inferior to older 9000 and 6700 models. 
+Technical support is highly variable, hence very frustrating. They have excessive training in "manners" and inadequate training in their work. They must fill out form info on the caller for half an hour. Their computer support (they search your problem as they talk) is weak (their response times are slow) and requires them to access multiple "data bases" on multiple computers. 
+In fairness, I suppose, after many years and many laptops, I stopped buying Dell because they were worse.... Unfortunately, I am afraid that HP is the "next Dell."
+Otherwise, a good, if somewhat expensive, laptop.

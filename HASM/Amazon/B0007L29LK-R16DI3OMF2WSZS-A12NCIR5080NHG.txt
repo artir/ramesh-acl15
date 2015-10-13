@@ -1,0 +1,17 @@
+ID: B0007L29LK-R16DI3OMF2WSZS-A12NCIR5080NHG
+Category: MP3Players
+Product: iriver-H10-Player-Lounge-Grey
+ReviewerID: A12NCIR5080NHG
+ReviewerName: Wilk
+Date: May 31, 2005
+Helpful: 
+Rating: 3.0
+Title: Bleeding Edge!
+Content:
+Bought it for the Janus/drm compat:
+Learned quickly there are lot's of shortcomings with DRM / Janus / subscription technology. Technology is still in it's infancy. Too bad for those of us who want it NOW.
+An ok mp3 player (audio quality should be better) handles non-drm music files aplomb.
+If you are not an computer geek, you may find it extremely time consuming getting it to work with subscription drm.
+Lots of formats, firmware updates, tricks are involved in getting the first tracks to play.
+Even when it works- slow slow. changing tracks takes 3-5secs even with latest firmware 2.03.
+SO- IF you are not the type that will enjoying tinkering with this device, you're probably better off purchasing tracks (Real Jukebox 10). Don't count on the susbscription services being easy to use!

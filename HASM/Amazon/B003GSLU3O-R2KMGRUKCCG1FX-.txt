@@ -1,0 +1,11 @@
+ID: B003GSLU3O-R2KMGRUKCCG1FX-
+Category: Laptops
+Product: Apple-MacBook-MC375LL-13-3-Inch-Laptop
+ReviewerID: 
+ReviewerName: 
+Date: April 23, 2010
+Helpful: 2 of 27
+Rating: 3.0
+Title: Battery life not as expected
+Content:
+I had the macbook aluminum 2.0 GHz before and the new one is much faster, but the battery last less than 5 hours without bluetooth on and hard working processor or dvd on - I think this is a bit disappointing. The second thing is my old one never crashed, and the new one crashed for the first week already twice.

@@ -1,0 +1,24 @@
+ID: B001MS6NP0-R3H9IRGTZCCWRT-A1NQQ745TM75WF
+Category: Laptops
+Product: Sony-VAIO-VGN-CS215J-14-1-Inch-Laptop
+ReviewerID: A1NQQ745TM75WF
+ReviewerName: R. Petersen
+Date: February 15, 2009
+Helpful: 22 of 23
+Rating: 4.0
+Title: Very Attractive Looking Laptop, Decent Specs, but not without flaws
+Content:
+What I really did like:
+ - Touchpad & Keyboard are phenomenal; On par with even Apple's offerings.
+ - Extremely good looking build & casing. Feels sturdy.
+ - Bright LCD screen
+ - Feels lighter than usual for a 14.1' laptop
+ - Decent specs for work & home (2.0GHz 2xCore, 4GB PC2-6400 DDR2, GMA 45000 HD, 1280 x 800, 800MHz bus, 250GB harddrive)
+ - Built in MemoryStick reader
+What i really didn't like:
+ - Touch Pad buttons are "clacky" - By this, I mean the click sound is a bit loud.
+ - Battery life good, but not great.
+ - Media Key touch sensitivity a bit off at times.
+ - Sub-par gaming performance; Non-discrete video.
+ - Ridiculous amount of bloatware that you'll have to remove. Besides the 30 SW packages that Sony provided, there was the Google Toolbar, QuickenBooks, Live OneSupport, MS Works, a trial of MS Office, Roxio, Adobe Air/Flash/Reader, ArcSoft Camera software, WinDVD and about a dozen other things (Java, VC++ Redistributable, MSXML, etc...)
+BTW: My purchase was the White version of the same model.

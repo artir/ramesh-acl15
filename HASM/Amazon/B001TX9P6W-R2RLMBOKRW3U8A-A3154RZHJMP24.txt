@@ -1,0 +1,14 @@
+ID: B001TX9P6W-R2RLMBOKRW3U8A-A3154RZHJMP24
+Category: DigitalSLRs
+Product: Olympus-Digital-Stabilization-14-42mm-3-5-5-6
+ReviewerID: A3154RZHJMP24
+ReviewerName: Douglas Henderson
+Date: June 26, 2009
+Helpful: 19 of 19
+Rating: 5.0
+Title: Olympus improves E-series image quality
+Content:
+I bought an Olympus E-620 from Adorama a few weeks ago and took it to Yellowstone to compare performance with my other Olympus digital cameras--an E-330 and an E-510.  Took along my two good Olympus lenses--a 14-54mm and an 11/22mm.
+I'll leave a fuller discussion of the camera to others and just say my photo results from a day of shooting was a set of images easily acquired that were of superb quality--very sharp, very well exposed and yielding a tonal/dynamic range that was much greater than I've come to expect from Olympus digital cameras.  Very easy to take photos without blowing highlights that also showed more detail in darker toned areas of an image.  Olympus has greatly improved dynamic range with the E-620 over earlier E-series cameras.
+One notable difference with the E-620 was the need to increase the exposure settings.  My older Olympus E-330 and E-510 required setting exposure with -1/3 EV (minus 1/3), to insure most highlights weren't overexposed.  With the E-620, the EV needs to be set to +1/3 or more--otherwise images initially look too underexposed.  The JPG engine in the camera seems to do very well--producing warm, saturated images.  I developed RAW files with Iridient Raw Developer 1.8.3.  The end files saved in Photoshop or TIFF are larger than those from earlier Olympus cameras (69mb or so, vs. 42mb from the E-330 and 57mb from the E-510). 
+I have had some odd, variable auto-focus behavior (back-focusing, sometimes), but this only requires I pay attention to what the camera is doing while taking pictures--and only seems to happen at the wide end of my lenses. Battery life was better than I expected--shot an 8GB CF card and most of another 4GB CF card with the battery still showing to be full. I'll post a few images to demonstrate the nice results.  The E-620 is highly recommended.

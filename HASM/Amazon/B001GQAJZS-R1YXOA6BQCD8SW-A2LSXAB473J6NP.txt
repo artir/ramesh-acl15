@@ -1,0 +1,12 @@
+ID: B001GQAJZS-R1YXOA6BQCD8SW-A2LSXAB473J6NP
+Category: Laptops
+Product: Dell-Inspiron-Processor-Genuine-Windows%C2%AE
+ReviewerID: A2LSXAB473J6NP
+ReviewerName: Brainhat
+Date: May 25, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Locks up a lot.  I would love it otherwise. (updated)
+Content:
+I really like the Dell mini 9 when it behaves.  I bought the max'd out version--64 G SSD and 2 gigs of Ram, running Ubuntu.  I kept Ubuntu.  I had a VM for XP for a while, but never used it.  My complaint is that my machine locks up a few times a day.  I contacted Dell support and went through the motions--reinstall the OS without any modifications, sat on the phone while we did a surface level integrity check of the solid state disk (yes, I know it makes absolutely no sense).  I lost the will to live when the Dell service representative asked me to reinstall the OS a second time.  So, I am living with a machine that locks up.  There's another review here from a fellow who gave up after while as well.  The moral of the story is that when you buy the Dell mini 9, you get what you get and you sit there and take it.  I'm not saying that's bad; I'm just saying my computer locks up a couple of times a day.
+Dell gave me a new one.  All is forgiven.

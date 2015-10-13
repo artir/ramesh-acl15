@@ -1,0 +1,11 @@
+ID: B001MS6NO6-RWKMU6ZPEJL6A-A1FETAEAQ22QJQ
+Category: Laptops
+Product: Sony-VAIO-VGN-FW373J-16-4-Inch-Laptop
+ReviewerID: A1FETAEAQ22QJQ
+ReviewerName: E. Tam "photog"
+Date: February 19, 2009
+Helpful: 14 of 14
+Rating: 4.0
+Title: Nice laptop but the Amazon description is wrong about the Blue-Ray drive.
+Content:
+This laptop is really nice for the price I paid.  However, I was somewhat disappointed by the wrong technical description listed by Amazon.  The blu-ray drive is definitely NOT read/write capable.  It is a ROM (Read Only)!!  I contacted Sony to verify it.  Thought about returning it but decided it is still a good buy even without that feature.  By the way, I still prefer Windows XP over Vista.  This laptop did not change my opinion about it.

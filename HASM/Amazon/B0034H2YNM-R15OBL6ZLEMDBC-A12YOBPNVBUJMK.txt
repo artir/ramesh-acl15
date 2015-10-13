@@ -1,0 +1,17 @@
+ID: B0034H2YNM-R15OBL6ZLEMDBC-A12YOBPNVBUJMK
+Category: Laptops
+Product: UL80Vt-14-Inch-Light-Laptop-Silver
+ReviewerID: A12YOBPNVBUJMK
+ReviewerName: Robert Chou
+Date: January 20, 2010
+Helpful: 1 of 1
+Rating: 2.0
+Title: trackpad problems
+Content:
+Anyone know of a fix or driver update fo the elan trackpad on this laptop?
+When using the trackpad, it:
+1) automatically clicks on items when I did not click or touch the pad
+2) the mouse location in in-accurate (it moves around by itself and is hard to make fine movements
+3) the mouse pointer stutters.  it moves, then stops for bit, then moves again (hiccups)
+It's a pain to use.  Other than that, and some sharp edges near the led light in the front because the top/bottom case is not aligned well, the laptop is a good one.  But the trackpad is so painful to use daily that it's the real reason for the low rating.
+UPDATE: found a solution, just uninstall the crappy elan driver and software using the control panel's programs and features section.  After the reboot, you'll get the default microsoft ps2 mouse drivers and now it's working fine.  No two finger gestures but that was gimmicky anyways.  At least now the trackpad works reliably.

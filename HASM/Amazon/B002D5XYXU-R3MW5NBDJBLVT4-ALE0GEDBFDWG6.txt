@@ -1,0 +1,11 @@
+ID: B002D5XYXU-R3MW5NBDJBLVT4-ALE0GEDBFDWG6
+Category: Laptops
+Product: S12-12-1-160GB-HDD-White
+ReviewerID: ALE0GEDBFDWG6
+ReviewerName: AP
+Date: December 29, 2009
+Helpful: 
+Rating: 5.0
+Title: 2nd one I purchased.
+Content:
+I have purchased 2 of these now, they don't have an HDMI or are super fast, but they are a good price for what you get.  I got both of them on holiday sales less then $400.  What I really like is the screen and the keyboard, both are usable unlike the 10 inch netbooks.  The led back lit display is very bright outdoors and viewable on a sunny day. The keyboard is almost full size and best netbook keyboard I have used, even as good as my Thinkpads keyboard.  It comes with windows XP, which is ok, there was no option for windows 7 for the white model.  I added an extra 1 gig of memory, but there was no speed increase, it does come with 2 pci-e ports, one for a cell card, maybe other options, and includes a sim slot onboard if you do install a cell card, and the other one is filled with a WIFI card.  The only way to make this thing faster is to buy an SSD drive and install windows on it possibly using the pci-e slot underneath or the expresscard slot on the side you should get about 50% speed increase.  Anyway even without any addons, this little thing is great. It gets about 4-5 hours of battery life.  One thing to improve is the webcam, its somewhat low resolution, most all are on netbooks.   On-board bluetooth was not an option when ordering, but there may be a possibility to install an internal one taking the laptop apart and buying the right piece.  The NVIDIA ION version is the ideal S12 Netbook to get,  its $200 more and turns all my negatives to positives.

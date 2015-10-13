@@ -1,0 +1,23 @@
+ID: B0002IHP62-R1FTKOQV3W6AG6-A3S4XLYI1XYSF1
+Category: MP3Players
+Product: Archos-AV400-Player-Recorder-Jukebox
+ReviewerID: A3S4XLYI1XYSF1
+ReviewerName: A. Arbit "technophile"
+Date: April 4, 2005
+Helpful: 2 of 4
+Rating: 4.0
+Title: Almost the perfect device...
+Content:
+Overall the AV480 has been an excellent investment, however there are some nagging issues.
+Pros:
+-Large HDD
+-Full color display
+-Large display
+-Optional FM with 30second delayed recording
+-CF card support
+-Usual pros for a robust media player
+Cons:
+-Very sensitive to static shocks.  It doesn't seem to have any permenant effect on the device, but a small shock will require a reboot.  Shuffling your feet in the winter is a bad idea.
+-Inability to play music with photos.  (email to Archos has cornfirmed this will NOT be fixed with a firmware upgrade)
+-Lacking a scroll wheel (or other way to quickly peruse long lists)
+-Slightly bulky

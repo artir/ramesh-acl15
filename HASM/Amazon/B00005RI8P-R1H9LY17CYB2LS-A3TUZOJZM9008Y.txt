@@ -1,0 +1,11 @@
+ID: B00005RI8P-R1H9LY17CYB2LS-A3TUZOJZM9008Y
+Category: Laptops
+Product: Apple-iBook-Laptop-600-MHz-PowerPC
+ReviewerID: A3TUZOJZM9008Y
+ReviewerName: Michael A. Brown "maniacmedia"
+Date: October 16, 2001
+Helpful: 
+Rating: 5.0
+Title: iBook is everything I need it to be.
+Content:
+As a webmaster, I have need of several utilities. Once I installed Dreamweaver and Firework on my iBook, I was ready to start. However, the USB interface allows me to mount my digital camera so as to add pictures to my sites. The Firewire interface allows me to add streaming movies via my digital camcorder. iMovie gives me good basic editing capabilities. The CD burner allows me easy access to storage. The machine is a fully packed portable. The design gives people reason to look it over one or twice.While I haven't really needed to work in OSX that much, the speed currently seems to be better under OS9 anyway.All in all, the second generation iBook is well worth a look.

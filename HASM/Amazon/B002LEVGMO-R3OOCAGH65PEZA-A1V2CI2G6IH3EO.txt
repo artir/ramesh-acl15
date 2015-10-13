@@ -1,0 +1,14 @@
+ID: B002LEVGMO-R3OOCAGH65PEZA-A1V2CI2G6IH3EO
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A1V2CI2G6IH3EO
+ReviewerName: L. SILVA "lrms"
+Date: November 24, 2009
+Helpful: 
+Rating: 5.0
+Title: Good value
+Content:
+Small, but not too small (except for directional keys).
+Light, good looking, nice battery performance, well equipped.
+Webcam works well with low light. Wifi seems to have a good range.
+Also came with a free upgrade to Windows 7 Home Premium.

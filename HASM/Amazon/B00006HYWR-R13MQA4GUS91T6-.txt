@@ -1,0 +1,11 @@
+ID: B00006HYWR-R13MQA4GUS91T6-
+Category: MP3Players
+Product: Creative-Labs-NOMAD-MuVo-Player
+ReviewerID: 
+ReviewerName: 
+Date: March 20, 2003
+Helpful: 
+Rating: 4.0
+Title: Good product
+Content:
+I first invested in Creative Labs with my Nomad Jukebox C-series 20 GB mp3 player.  I love it, but the only down side is that is about the size of CD player (a welcome compromise for the 20 GB storage).  I started searching for smaller players and found this.  It is a bit pricey, but I think it is worth it.  The only down side is what the other customers have mentioned: it shuts down after a day or two.  The storage works, but the player doesn't register.  I read a review before I bought it and the guy says how to troubleshoot the problem yourself.  I  tried his advice and it worked.Here is what you do: After you install the MuVo software, go through the start menu to "Creative" and click "Format."  When the format box comes up, just hit start and it will wipe your hard drive clean (the only down side to this procedure).  After this your player should work.  The other down side to the MuVo is storage, only 64mb.  The memory thing doesn't really bother me, but if you do want more, there is a 128mb version available.Despite these two problems, I am definitely pleased with this buy.

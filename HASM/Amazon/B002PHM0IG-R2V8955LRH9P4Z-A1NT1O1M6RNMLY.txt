@@ -1,0 +1,24 @@
+ID: B002PHM0IG-R2V8955LRH9P4Z-A1NT1O1M6RNMLY
+Category: Laptops
+Product: Sony-VPC-CW13FX-14-Inch-Windows-Premium
+ReviewerID: A1NT1O1M6RNMLY
+ReviewerName: Mr. Fix It "Theealaskan"
+Date: January 3, 2010
+Helpful: 2 of 4
+Rating: 4.0
+Title: Started Up Great.....Then----
+Content:
+I actually got it for her as a Christmas Gift. Let it charge over night before actually starting it. Then turned it on. Screen is a slight reflective. Unit wanted to update Windows right away. But it could not find the WiFi right away. Took it a minute or 2 after entering the super secrete code. Then it connected to I.E. & was receiving critical windows updates, so it said. I believe All computers should be set to receive updates on the security & anti-virus software FIRST.
+So it downloaded the windows updates. Then it restarted itself. Then I went directly to to run "Live Update" for the '09 NIS, it started to download, then suddenly the computer suddenly crashed went to the "Blue Screen" mode then I had to do a soft start and search for what went wrong. Only after 6 re-starts and at last After 1 system restore. I seen an issue with a the Lan Communication chip, that a new Driver Update was needed right away or the computer was going to continue to "Crash" time and time again. The Vaio said I had to get to another manufacture to get this tool? Oh well parts and pieces from other companies to make a Sony?
+I had to go to "HP" site to download the correction tool and install it. Then I could get downloads and updates for computer w/o problems. But now after installing it I no longer had I.E. The computer came with I.E. 7 and Chrome Browsers. So I preformed a system scan only to find out that the windows updates had corrupted the '09 NIS files and those window updates were also messed up.
+So I had to to the un-install thing. But of course with NIS you need the removal tool to completely clean & remove any traces. But one needs I.E. to do that. So I used the my home computer to email the tool that symantec forwarded to me to use Firefox to open and run. I sent the link to her email yahoo account opened her mail using Goggle Chrome. Then clicked on the link and downloaded the tool.
+Worked flawlessly. Then installed my 2010 NIS off my disc, then got the updates and antivirus running on the computer; Then it was secure.
+Then I was able to re-install I.E. since she uses that browser..I Will Not Use I.E. Unless I absolutely have to. It's so untrustworthy, the traceability and slow. (IMO)
+But needless to say after hours of trying to figure out what could be the key issue as to what was wrong. There was not just One. It was multiple issues. 
+1-Corrupted Windows Updates. 
+2-"HP" Chip Correction Tool. "Blue Screen"
+3-NIS Factory Install was Corrupted as well.
+ 
+But after re-configuring the software the Laptop operates Great now. Luckily I have the skills to figure it out. Plus I said I could fix it....I know in her mind She said; "yeah right"... I prevailed once again:)
+She's Happy...And so am I...Now she knows I can do anything..............
+I'm an Windows XP guy w/a Dimension 8400 computer that is 6 yrs old, still operating good. Windows 7 seems okay, but Soon I will be on a Completely New, White in Color All-In-One System that comes with a wireless keyboard & mouse. Saved myself some money and Bought it right here on Amazon!!

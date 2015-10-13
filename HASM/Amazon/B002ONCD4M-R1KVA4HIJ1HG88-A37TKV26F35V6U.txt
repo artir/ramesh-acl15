@@ -1,0 +1,11 @@
+ID: B002ONCD4M-R1KVA4HIJ1HG88-A37TKV26F35V6U
+Category: Laptops
+Product: Pavilion-DV6-1350US-15-6-Inch-Espresso-Laptop
+ReviewerID: A37TKV26F35V6U
+ReviewerName: TruthSeeker
+Date: January 2, 2010
+Helpful: 5 of 19
+Rating: 1.0
+Title: No printer driver for this pc
+Content:
+I purchased this not long ago and had to wait for HP to create the software driver for my 1 yr. old HP laserjet 1022 printer so it will run on Win7. They finally created a driver but it does not work. I've wasted countless aggravating hours and have gone to many message boards only to discover printer problems are a common meme. I still cannot print anything and cannot afford to buy another printer. Can you believe HP cannot properly support its own printers?!?? I will not buy HP brand products again!

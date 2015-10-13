@@ -1,0 +1,18 @@
+ID: B001FA1NGO-R175VYT4H5JU9G-A3INSO3DC8AA2Y
+Category: MP3Players
+Product: Apple-Orange-Generation-Previous-Model
+ReviewerID: A3INSO3DC8AA2Y
+ReviewerName: Ken Thatcher
+Date: February 7, 2009
+Helpful: 1 of 2
+Rating: 2.0
+Title: Nice ipod nano 4th gen, but has siginficant problems
+Content:
+The ipod nono 4th generation itself is nice.  Good features, good sound and nice size and feel.
+However, after a few months of use (we got it for Christmas) there are several issues:
+1) If the battery is less than 3/4 charged, it goes into this infinite connect/disconnect cycle when trying to plug into the computer.
+2) Apple support is not help and wants to charge to solve the design flaw.
+3) the iTunes software is a very poor product and does not do the ipod hardware justice.
+We have found that getting the battery charged using a wall plug in charger will then allow the nano to connect to the computer after the battery if full.  But, this is a very strange situation, it wont connect because the battery is less than 3/4 full and it won't charge on the computer unless it connects.
+Apple support just seems to want to charge to tell us that the problem is that we are using the ipod incorrectly.  No help in resolving the problem and not very reassuring.  This was my first apple product and will likely be my last, just based upon the support response.
+As far as I tunes, it seems to me that it has one job in life, to sell you more music.  It is required to perform many functions of the ipod (like deleting songs from the ipod) and is difficult to use.  It seems that all paths lead to "send apple more money" as opposed to support the product and providing an easy way for customers to purchase what they want.  The sales/function ration of the software seems much too high to bring the needed functions to the ipod user.

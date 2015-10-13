@@ -1,0 +1,12 @@
+ID: B002ONCDDS-REC1GYCYPWARK-ABM9574X8UCWY
+Category: Laptops
+Product: Pavilion-DV4-1547SB-14-1-Inch-Black-Laptop
+ReviewerID: ABM9574X8UCWY
+ReviewerName: Hellen K. M. Santos "HKMS"
+Date: January 12, 2010
+Helpful: 1 of 2
+Rating: 1.0
+Title: My computer doesn't work
+Content:
+I bought the computer in the internet, in amazon.com. It arrived yesterday, I turned it on and all I see is a message NO BOOTABLE DEVICE. INSERT BOOT DISK AND PRESS ANY KEY. I dont know what to do,it is written in the box that Windows 7 is already installed. There wasnt any cd in the box. The computer arrived perfectly but I cant start Windows because this message is always appearing. 
+I sent an email to HP and they gave me a few solutions that didn't work and I still can't use my computer because the Windows 7 doesn't start. I am waiting for a solution from the store.

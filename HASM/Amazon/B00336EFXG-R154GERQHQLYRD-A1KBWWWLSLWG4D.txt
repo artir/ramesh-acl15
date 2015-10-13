@@ -1,0 +1,29 @@
+ID: B00336EFXG-R154GERQHQLYRD-A1KBWWWLSLWG4D
+Category: Laptops
+Product: Acer-Aspire-AS7740-6656-17-3-Inch-Display
+ReviewerID: A1KBWWWLSLWG4D
+ReviewerName: Artset Outset
+Date: February 8, 2010
+Helpful: 22 of 22
+Rating: 4.0
+Title: Good Value
+Content:
+I am overall satisfied with this laptop. It seems to be solidly built. I am using it as a desktop replacement and do not care about portability or battery life. The integrated Intel GMA HD graphics is working well with video. I don't know about gaming performance.
+Pay attention to the SW you use. 64 bit and quad core do nothing unless your SW is written to take advantage of them. Video generally does not benefit from either capability. I used VLC Media player for nearly everything and the current release does not.
+If you have not used a laptop with the touchpad off center and separate number keys, you should go to a store and try it before buying. I am struggling to adjust from my old 4:3, 15.6" display. If you plan to use the laptop in your lap, you will naturally center the display in front of you resulting in a longer reach for your right hand to the home keys. This criticism applies to larger screen laptops in general.
+Pro:
+Excellent performer for my purposes.
+Excellent display.
+Touchpad disable button is a good idea. I previously downloaded Touchfreeze to prevent the cursor jumping around when typing.
+Except for the memory card reader, all connections are on the sides.
+I like the matte finish interior surfaces.
+Con:
+In general the user interface could be improved. Every one of these complaints are traits of many other laptops. Specifically-
+Major-Keyboard keys are completely flat resulting in many more typos. If I don't get better, I will go back to my old Dell for Office applications. While trying to write this, I have hit the Caps Lock instead of "a" at least 10 times.
+Minor-Separate Delete,Home,Page Up, Page Down, End are not in traditional locations so I leave the Num Lock off and use the number pad. 
+Minor-Touchpad is not as good as my previous Dell. I like it better when it is recessed.
+I probably will never get used to the touchpad buttons being fixed at the middle. You must depress them at the outer end of the touchpad. I find this clumsy.
+High gloss exterior of the case shows fingerprints.
+I use the separate arrow keys alot and they are very small.
+No recovery disks included. 
+I skipped Vista, so Windows 7 is a bigger leap for me from XP. So far, I can't see the point, but it has been stable. Look closely, most everything from XP is there, just disguised. Maybe I will eventually find something new that makes it more than just a way for Microsoft to make more money. As much as I fear it, the implementation of Cloud architecture might end this BS of changing the interface with every revision to the SW. I hate struggling to find the things they move with every revision.

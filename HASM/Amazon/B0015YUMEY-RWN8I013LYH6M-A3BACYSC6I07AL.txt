@@ -1,0 +1,12 @@
+ID: B0015YUMEY-RWN8I013LYH6M-A3BACYSC6I07AL
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A3BACYSC6I07AL
+ReviewerName: Christian N. Martirano "Designsounds.com"
+Date: November 21, 2007
+Helpful: 1 of 1
+Rating: 5.0
+Title: Best Laptop on the Planet
+Content:
+Apple MacBook Pro MA897LL/A 17" Notebook PC (2.4 GHz Intel Core 2 Duo, 2 GB RAM, 160 GB Hard Drive, DVD/CD SuperDrive)
+I have owned PC towers, desktop and laptops. I have owne Mac towers, desktops and laptops and for my money and needs, this laptop does it all. I am running OS X 10.4.11 and WIN XP Pro both on the same hardware. I am a musician and sound designer and this machine is FAST and stable. Great upgrade from my 17" Powerbook G4 1.67 GHz machine. The Intel platform runs true Unix and the Rosetta emulation mode is good as well (a little slow but hey, it works).

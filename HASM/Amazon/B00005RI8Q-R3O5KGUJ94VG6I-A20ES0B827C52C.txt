@@ -1,0 +1,11 @@
+ID: B00005RI8Q-R3O5KGUJ94VG6I-A20ES0B827C52C
+Category: Laptops
+Product: Apple-iBook-Laptop-600-MHz-PowerPC
+ReviewerID: A20ES0B827C52C
+ReviewerName: LangMat "Historian, Medical Writer"
+Date: September 28, 2001
+Helpful: 1 of 1
+Rating: 5.0
+Title: Flexibility is everything!
+Content:
+Although there are, admittedly, drawbacks to the iBook already mentioned by other reviewers, they pale in comparison to the great advantages of owning one. First and foremost for me, as a researcher and writer, is the incredible flexibility of the combined operating systems. And if you install Connectix'  Virtual Windows, you can also run the best of the PC world for the average user, Windows 98.I'm especially impressed with the TextEdit program on OS X; it gives me the option of writing a document that can easily be imported into many word processing programs, or writing a program of my own in the plain text option. And, with the UNIX core accessible through the Terminal program, there isn't much left to cover. My only frustration with the machine involves the system software: if a hard restart is necessary, the system clock has to be reset. I assume that will be fixed in the new release.

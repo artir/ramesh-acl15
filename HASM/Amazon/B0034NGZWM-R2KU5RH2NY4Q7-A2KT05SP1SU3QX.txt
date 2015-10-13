@@ -1,0 +1,31 @@
+ID: B0034NGZWM-R2KU5RH2NY4Q7-A2KT05SP1SU3QX
+Category: Laptops
+Product: Republic-Gamers-G51JX-A1-15-6-Inch-Gaming
+ReviewerID: A2KT05SP1SU3QX
+ReviewerName: D. Flaws
+Date: February 14, 2010
+Helpful: 18 of 19
+Rating: 5.0
+Title: Very Nice
+Content:
+I did a bit of research and this laptop seemed pretty highly anticipated by those looking to buy and well received by the few that already had them.  I also saw that it seemed most of the initial shipment came with 1333MHz DDR3 ram instead of 1066.  I opened mine up and it does have 1333MHz.  A supply issue I guess. Very nice considering it's a $150+ upgrade on some websites.
+I installed Borderlands and it seemed like a dog at first, then I realized I didn't have the AC adapter plugged in.  It automatically goes to a power saver mode when only on battery (of course) and it makes a big difference.  Once plugged in I put all the settings on high except for anti-aliasing at 4 instead of 16 and resolution at native 1920x1080 it ran a little slow.  Frame rate was around 30 usually. Fine for most games but not a FPS.  At 1280x720 the frame rate was in the 50s.   I played for about an hour and it was running very hot so I stopped for a while.  I bought this laptop to replace an older Dell laptop I had because I burned out the vid card on the Dell, so I was a bit worried, maybe needlessly.
+The keyboard is fine but the keys are real slippery, could use some kind of texture or concave shape.  They are lighted which will be very useful (hit Fn+F4 when you 1st get it, mine were turned off).
+Could use a USB in the back (I like to use a cooling pad) but it has 2 on each side near the front which is nice.
+Lights on the lid are annoying.  The side ones turn off in battery mode, I'll have to look into a setting to turn them off all the time.  The logo light in the center of the lid never turns off.
+I like the physical switch for wireless and bluetooth. 
+No dead pixels, I'll be looking close for 30 days but I hope to not have to RMA.  Nice warranties on this thing, definitely a selling point.  Watch out if you try to buy an ASUS from Best Buy --they do not honor all the standard ASUS warranties, I think the accident insurance.  Because Best Buy wants to sell you their own insurance for $179.
+The thing I don't like the most about this laptop is the screen size.  Not the resolution but the actual physical size.  There is approximately a 3/4 inch bezel on the sides and bottom and nearly 1 1/4 inch at the top.  This makes the laptop less attractive visually also, like it's chunky and thick. The large top bezel is likely because of the webcam which I will never use.   The screen could easily be 16+ inches which would help lots with the high resolution.  At 1920x1080 for a laptop you need all the size you can get.  Text at 100% is tiny but mine shipped at 125% so that's smart on their part.  I primarily use it for painting in Photoshop and Painter so the high resolution is great.  Trying to show someone text on the screen is difficult when they can't read it unless they are real close. 
+One other thing I didn't like was 40+GB of pre-installed software.  Why anyone would want all this crap is beyond me.  I was going to wipe and reinstall but there is the quick start OS which I need to look into and see if that will be wiped and if there is any difficulty reinstalling it. I pretty much always plan on wiping a new computer but most people wouldn't so that is a factor.
+I got my backpack and mouse, I see some others didn't.
+Oh yeah it's not black, even the darkest part of the lid is a dark blue.
+So:
++Free ram upgrade
++speedy
++lighted keys
++wireless switch
++free backpack and mouse
+-slippery keys
+-physical screen size
+-bloatware
+All in all very happy with it.

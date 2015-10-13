@@ -1,0 +1,35 @@
+ID: B001G4U11C-REQGCV8V5KIVY-A1UHT2U1QII2O1
+Category: Laptops
+Product: Acer-Extensa-5420-5038-Athlon-Premium
+ReviewerID: A1UHT2U1QII2O1
+ReviewerName: Owner Review
+Date: November 4, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: good performance
+Content:
+Compared to macbook pro 
+Pros:
+1) AMD Athlon 64 x2 Dual-Core Processor TK-57 is fast with supporting architecture.
+2) Streamed CBS s' 60 minutes off the internet seamlessly and in equivalent time.
+3) Wireless connectivity with 802.11 b/g WLAN is adequate compared to draft n. 
+4) Windows Vista which came installed is very usable.
+5) Laptop mouse is very stable, sensitive and sleek.
+(Good redundancy features)
+6) Given that the reliability of the processor is good (years out), this computer is robustly upgradable in the future:
+   PCMCI and Express Card slots can be used in future for Flash memory upgrade three years out from purchase date
+   (December 2008) to complement dwindling hard drive space.
+7) Equipped with 4 USB hubs, if one hub breaks there are three more in operation.
+8) Connectivity from virtually anywhere (If wireless LAN not available, an ethernet hub is built in; if ethernet not available, a modem hub connection is built in)
+9) Screen picture quality has brillant, vivid colors.
+10) Keyboard has a nice natural curve for typing so hands do not get tired.
+11) Computer barely gets warm -- cooling fan is vey good.
+12) 1/4 the price ($ 500) of mac book pro ($ 2000) and similar functionality except for battery and included hard disk space.  
+13) Warranty from radioshack and acer combined is 2 years compared to 1 year from apple.
+14) Acers online support for drivers and downloads is very transparent, acers documentation and manuals for older and current models is better than apples, phone service is good but needs improvement, (we have an apple  G5 1.8 GHz which is quite good, apples technical phone support is also good but apples store genius personal support is inadequate and very limited with respect to battery replacement or hardware fixes).
+Cons:
+1) Battery life wirelessly is about 2 hours; battery life is 2.5 hours with wireless off (battery is upgradable from 6 cell to 8 cell however).  So battery life will increase to 3 h 36 min ( 2h 57 min) but compared to the the macbook pro and acer timeline series currently (11/2009) with > 6 hours, the battery life could be better but this would consume spatial volume within the computer that I see can be better utlilized in the future for Flash (solid State memory upgrades) in the PCMCIA and Express card slots without having to carry around a portable drive (that may be faster for retrieval) but cumbersome to carry. 
+2) Hard disk drive included is 120 GB which is ok but not as good as 250 or 320 GB.
+3) No bluetooth included but installation of a wired internal bluetooth chip is quite doable for $20 off ebay or using one of the 4 USB hubs is also doable for the same cost.
+I really do not see why a CD drive is constantly being included in this and future laptops as it just takes up potential valuable hard drive space, Flash memory space or Battery space.  I anticipate flash memory will eventually displace CD infrastructure when it becomes more affordable for software and movie vendors.   
+Considering purchase of acer timeline 15.6" in addition for newspaper browsing family member just for the extra battery life per charge.  However I look to my acer extensa 5420-5038 more as a long term investment for the AMD processor life span and for the acer extensa 5420-5038 to be more expandable and upgradable in terms of memory --we will see, but so far so good.

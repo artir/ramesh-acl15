@@ -1,0 +1,12 @@
+ID: B0007QKMQY-RHEHJT1JF9IQ-A30DEGCTAWHS89
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-XT-f3-5-5-6
+ReviewerID: A30DEGCTAWHS89
+ReviewerName: Aaron Brown
+Date: December 30, 2005
+Helpful: 11 of 12
+Rating: 5.0
+Title: "rattle" is probably not a flaw
+Content:
+Regarding the highlighted review by L. Wimberley:  The Digital Rebel XT is equipped to detect whether you're shooting horizontally or vertically.  To do so, there may be a free-hanging piece within the camera to detect which way is up as you hold the camera.  This may be what's making the rattling sound.
+The sensor is handy, as the camera uses this data to auto-rotate images in the viewfinder for you when they were shot vertically.

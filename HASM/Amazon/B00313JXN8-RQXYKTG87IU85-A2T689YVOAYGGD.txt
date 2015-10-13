@@ -1,0 +1,15 @@
+ID: B00313JXN8-RQXYKTG87IU85-A2T689YVOAYGGD
+Category: Laptops
+Product: Toshiba-Satellite-A505-S6040-TruBrite-16-0-Inch
+ReviewerID: A2T689YVOAYGGD
+ReviewerName: Acontius "Acontius"
+Date: March 19, 2010
+Helpful: 5 of 6
+Rating: 2.0
+Title: Slot-loading DVD drive VERY noisy
+Content:
+The slot-loading DVD drive that comes with the S6040 model was so noisy and vibrated so much that I had to send the unit back.  For comparison, I played the same audio CD's on a seven year old Asus laptop with a tray drive, and there was no detectable vibration or noise.  Both the Toshiba and the older laptop were on the same, very stable coffee table.
+The noise from the Toshiba drive was so loud it drowned out the music at normal playing volume.  The vibration ran from my fingers/palms way up my arms; it was impossible to ignore.
+---> Note that I went to a BigBox store and tried the S6033 model (same CPU, but slower GPU and only 4GB RAM).  It has the TRAY-loading DVD drive and ran very smoothly and quietly.
+This is a beautiful machine.  The specifications are dynamite.  (By the way, mine came with a 120W adapter, a good match for the Core i7 CPU.)
+I can't say if the slot-loader was a lemon or typical.  One thing that bothered me was that the laptop was delivered in its own box only; it was not packed within another insulated box.  If audio-cables and paperbacks are well cushioned, shouldn't a laptop be too?

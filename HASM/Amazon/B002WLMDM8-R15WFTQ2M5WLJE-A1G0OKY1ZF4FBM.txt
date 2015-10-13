@@ -1,0 +1,24 @@
+ID: B002WLMDM8-R15WFTQ2M5WLJE-A1G0OKY1ZF4FBM
+Category: Laptops
+Product: Pavilion-dv4-2045dx-Notebook-White-Built
+ReviewerID: A1G0OKY1ZF4FBM
+ReviewerName: J. Liu
+Date: March 15, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Tremendous bang for the buck
+Content:
+The HP dv4-2045dx has an abundance of features that makes it a great value for its price.  I upgraded from my older Windows Vista-based HP notebook and immediately noticed a more stable and faster operating environment with the dv4-2045dx, which comes with 4GB of RAM and a 7200-rpm hard drive.  While shopping for my new notebook, I found most competing models in the same price range to have only 3GB of RAM and a 5400-rpm hard drive.  Further, the HP dv4-2045dx comes with a dedicated memory card, as opposed to the shared video memory of many other models in this price range.  The aesthetics of the notebook are very slick, as is typical of HP notebooks.  This model has a sleek white finish, and I personally find the 14.1" screen to offer the perfect blend of portability (feels much noticeable lighter than 15" and 17" notebooks) and usability (keyboard not cramped like my 10" netbook).  The keys have a nice tactile feel, although the touchpad of this model (like other HP notebooks I've owned) has more than optimal friction.  The speakers are suitable for general purpose use, although if you like listening to iTunes, I'd get a set of external speakers.  As is common these days, the notebook comes bundled with a lot of third-party software which I'd just assume strip from my computer.
+To summarize my thoughts, this computer provides tremendous value and relatively strong computing power for its price range.  There are a lot of little features (such as the 7200-rpm hard drive, e-SATA port, dedicated graphics memory, etc.) that aren't typically found on a notebook in this price range.  I wouldn't hesitate to buy this model again.
+Pros:
++ Relatively powerful AMD Turion x2 Dual Core processor at 2.2 ghz
++ Dedicated graphics card
++ 4GB RAM
++ Windows 7 64-bit is a tremendous improvement over slow Windows Vista
++ Nice blend of portability and usability
++ 7200-rpm, 320GB hard drive
++ e-SATA interface allows you to take advantage of faster external hard drives
++ HDMI out
+Cons:
+- No bluetooth
+- Uses DDR2 RAM instead of DDR3 RAM like Intel Core Duo 2

@@ -1,0 +1,12 @@
+ID: B002PHM0KE-R25737VRC3HN4F-A1ALFBNY6ND30M
+Category: Laptops
+Product: Sony-VGN-NW240F-15-5-Inch-Windows-Premium
+ReviewerID: A1ALFBNY6ND30M
+ReviewerName: Robert L. Coppedge "Opinionated Geek"
+Date: January 26, 2010
+Helpful: 1 of 2
+Rating: 3.0
+Title: Not XP Mode Compatible!
+Content:
+Not bad at all in all categories, except that it doesn't have the hardware capabilities to run XP mode on Windows 7.  Unfortunately, it's hard on the ad and supporting sites to determine that (and some of the links are actually misleading).
+Otherwise, it's actually a pretty good little system.

@@ -1,0 +1,24 @@
+ID: B002QQ8EKO-R2V5JWMUFV5S9T-A1MXSU9NS6680K
+Category: Laptops
+Product: Apple-MacBook-MC207LL-13-3-Inch-Laptop
+ReviewerID: A1MXSU9NS6680K
+ReviewerName: M Yeager
+Date: February 24, 2010
+Helpful: 8 of 8
+Rating: 5.0
+Title: The best laptop I have owned, Windows or Mac
+Content:
+I haven't owned a Mac laptop in 12+ years.  (though I have craved one)  Finally I found a good deal on this polycarbonite macbook.  The 2 other machines I was looking at were the 15 Dell Studio (nice eSata port) and the ASUS ULV models (with 12 hour advertised battery life)
+The processor in the Dell was faster at a similar price and the battery life of the Asus made it appealing.  I have no regrets that I chose the Apple product.  With VMWare Fusion I have a great Windows XP computer.  (that resumes and suspends way faster than my VMWare workstation does on my work PC)
+In addition, I loaded Windows 7 with bootcamp.  (I have to reboot to get to it)  I turned on all visual effects and the performance is impressive.  
+I found that a remote support tool called "TeamViewer" has a mac version that works great!  (shared my screen with my friends to show them the interface)  It obviously lowers the color palette to increase speed.
+It is nice that OSX has RDP built in!  I remote into my Windows XP desktop almost daily. 
+THINGS I LOVE:
+1)  Windows compatible (even XP, newer Windows machines with XP drivers are getting more and more rare)
+2)  Mac Safe power adapter.  My Sony laptop's AC/DC adapters always die right after the warranty expires.  They are over $100 to replace, but the latest macsafe is only $75.  I love this because I don't have to reach behind my machine to plug it in and I don't have to check if it is plugged in before I pick it up.  (you can see it on the side)  Also my kid tripped over the cord the first day I had it....it simply came unplugged. (gotta love Apple for this one)
+3)  The screen is LED backlit and only slightly glossy.  (macbook pros have glass on them, very shiny)  shiny is good for indoor use, but in the sun you will wish it wasn't glossy at all.  This is a happy medium and as always the Apple display is wonderful and bright.
+4)  Lithium Polymer battery (non-removable)  By eliminating the extra hardware needed to use a removable battery Apple has lighted the load.  Using this technology is unique in the market.  (I don't think any PC laptops have LIPO batteries)  The advertised 7 hr battery life is realistic in Windows or OSX if you lower the screen brightness a couple of notches from the top. (the lower you go, the longer the battery life)  Many people are upset over the non-removable battery.  The truth is you can replace it yourself or have Apple do it for $125 or so.  It is removable but you have to take of the cover and undo some fasteners.  It will also last longer than the Lithium Ion batteries we are used to replacing every 2 years.  (Apple says in 5 years it will have 80% of it's original life) 
+5)  Nice Nvidia graphics.  I was looking for a powerful machine not a netbook or machine without discrete graphics.
+6)  Chicklet keyboard.  Aside from confusion over which modifier key I should (being a long time Windows user) the keyboard is a joy.  I love the itunes dedicated play, pause next button setup as well as the volume (that even works in Windows or Linux) and the handy brightness settings.  In the past things like programmable keys on certain machines required locating drivers and a bit of work.  Apple makes things easy with their bootcamp setup.
+7)  Resale value.  At first I wanted to get a netbook.  I looked on Cragslist and notices that they were worth very little used.  I next determined that anything under 12" wouldn't do.  (older Sony machines and ultra portables)  I thought about picking up some old machines and buying a new battery.  Battery life is very important to me and there is no PC equivalent to this machine.  I spent a little more than a net book or order ultra portable, but I will be able to sell it later for a good price and it will probably be more reliable than either option.
+You can get the aluminum unibody macbook pro if you really want that but you will pay more for the same specs.  (though it will have Firewire and an SD card slot)  I like the looks of the Pro better but I couldn't justify the money.  Owning an Apple product (whether polycarbonite or aluminum) is a great experience.

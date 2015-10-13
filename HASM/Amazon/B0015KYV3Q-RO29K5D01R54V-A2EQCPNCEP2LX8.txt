@@ -1,0 +1,15 @@
+ID: B0015KYV3Q-RO29K5D01R54V-A2EQCPNCEP2LX8
+Category: MP3Players
+Product: SanDisk-Sansa-Video-Player-Silver
+ReviewerID: A2EQCPNCEP2LX8
+ReviewerName: E. D. Murray
+Date: December 19, 2008
+Helpful: 
+Rating: 5.0
+Title: Easy to use, tidy and full featured
+Content:
+I got one of these yesterday and my initial impression is very positive. 
+I dual-boot Windows XP and Ubuntu 8.10. On opening the package I plugged it into the USB port and it showed up as a removable drive in Ubuntu without me needing to install or run anything. I was able to drag and drop some mp3s and audiobooks and everything worked perfectly. I tried it in Windows later on and it worked perfectly there too. One small issue I noticed is that for someone like me who'll probably be using it with different operating systems you'll probably need to change the USB settings from autodetect to MSC. It defaults to MTP in windows, and for some reason when using MTP it can't see any files present that were added with MSC and vice versa.
+It comes with a little black sleeve to protect it - the material seems like cell phone plastic on the face and more rubbery on the back so it might get scuffed otherwise. The headphones seem pretty good and are very comfortable.
+Battery life seems to be good. I had it fully charged this morning and left it playing mp3s constantly all day. It's now about 14 hours later, and it looks like there's about a quarter left on the battery meter.
+It comes with a CD, but it's one of those mini sized ones and my slot loading drive can't use it. Whatever is on it, it works just great without it, and updating the firmware from the sandisk website was quite straightforward.

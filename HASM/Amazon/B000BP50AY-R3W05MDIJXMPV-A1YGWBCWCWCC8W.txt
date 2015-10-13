@@ -1,0 +1,15 @@
+ID: B000BP50AY-R3W05MDIJXMPV-A1YGWBCWCWCC8W
+Category: MP3Players
+Product: SanDisk-Sansa-m240-Player-Silver
+ReviewerID: A1YGWBCWCWCC8W
+ReviewerName: robotsluvme "the dark side of the rainbow"
+Date: November 23, 2005
+Helpful: 12 of 13
+Rating: 4.0
+Title: This player RULES
+Content:
+I took a chance with the m240 while it was on sale for $79 thinking "man, this is cheap, I bet it might suck," but I was pretty much blown away. This player sounds awesome! The built in equalizer really tweaks & boosts the sound, though I recommend better quality headphones than the included earbuds to experience its crisp, clean sound. The control buttons and menus are very easy and straightforward to use. FM works fine. I admit it's not the prettiest player around, but if you're like me and don't care about the cuteness factor (aka ipod), dazzling full color menus, photo/video capability, or ridiculous amounts of storage space, this player rules. 
+Only criticisms (or maybe just me being too anal):
+1) If you switch to FM mode in the middle of a song, it doesn't remember your time position within the song, or even what song you were previously listening to
+2) The shuffle feature is kinda hidden within the menus; I wish there was a simple shuffle button
+3) Playing full albums in the correct track order only works if the ID3 tag is formatted in a particular way (i.e. track "2" instead of "2 out of 10"), otherwise the tracks will be automatically played in alphabetical order

@@ -1,0 +1,13 @@
+ID: B002C7446A-R27MYR8SCGL39B-A1BNFWP2FSD61M
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A1BNFWP2FSD61M
+ReviewerName: B. Steeg
+Date: April 5, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Hybrid PC/Mac User
+Content:
+Switched to Mac from PC. I decided that as long as Microsoft wanted me to learn a new OS I might as well learn Mac too. I purchased a copy of Windows 7 to place on the Mac bootcamp partition so now I can operate in both worlds. However, my preference has become Mac - I like the consistency of the Mac toolbar at the top of the screen. 
+As far as build quality goes, the MacBook Pro is the best computer I've owned. The keyboard is perfect. It has dark keys with white letters that are very easy to see. They also light up which is perfect in a dark room. And the multi-touch trackpad is a genius invention. 
+It took me about a month to get completely comfortable with the Mac. But now that I'm comfortable, I like it.

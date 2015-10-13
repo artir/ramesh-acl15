@@ -1,0 +1,13 @@
+ID: B002LEXA64-R2A8ZV5G1H6VN-AO8I2P3GGXQVJ
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: AO8I2P3GGXQVJ
+ReviewerName: Sal
+Date: January 30, 2010
+Helpful: 
+Rating: 3.0
+Title: Good laptop but . . .
+Content:
+The laptop is exactly what my wife wanted.  The screen is crisp and bright, and the slightly smaller keyboard is not an issue for her since she also has smaller hands.  I find it comfortable to use for casual browsing, but haven't done any significant typing to judge.
+We did have one problem with the laptop.  About 9 days after receiving the laptop, it died.  No POST screen.  The power LED would turn on then nothing.  Sent it in for warranty and about 10 days later got it back.  Acer said it had faulty memory and replaced it.  After twenty minutes of use, it started to have odd errors, so out of suspicion I ran memtest on the laptop.  The warranty center replaced the bad memory with more bad memory.  Acer asked that I send it right back for another round of warranty repair.  Out of the first month of ownership, Acer wanted the laptop for another 10 days for a total of 20 days, so I asked them to just ship me the replacement memory and I would happily send them back the faulty memory they had just sent me since I didn't want my wife's Christmas gift to be in the shop on Christmas day.  I would go out and buy her some memory to hold her over until it arrived.  Nope.  Not in their procedure and there is no one at their customer service department who even cares about Acer's reputation enough to take care of a customer.  
+I went out and bought her some quality memory modules and have had no issues since.  The laptop ended up costing me a little bit more in total, but at least the extra cost is in better components.

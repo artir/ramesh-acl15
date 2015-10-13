@@ -1,0 +1,14 @@
+ID: B0028R6JW6-RQSPWDUIRQ2UA-A18TRCSB0YO78B
+Category: Laptops
+Product: MSI-X340-023US-13-4-Inch-Laptop-Silver
+ReviewerID: A18TRCSB0YO78B
+ReviewerName: Sarah Hoskovec
+Date: January 27, 2010
+Helpful: 
+Rating: 5.0
+Title: Excellent portability and power
+Content:
+Is it a super machine?  No.   But it does a better job of multitasking and processing that netbooks and actually weighs slightly less.   Plus you don't have to sacrifice the full-size screen and keyboard to get the light weight.
+I agree with the other reviews that the keyboard is kind of springy...however, I got the impression from those reviews that the whole laptop might be flimsy and flexible, and that's just not the case.  It's plenty rigid, it's just the effect of springy keys.  You'll want to work on a solid surface or with your legs up to help stabilize.
+My only complaint is the shiny screen: sure, it's pretty to look at, but it produces some pretty nasty glare and reflection.  I much prefer a matte screen.   But that a minor annoyance, and a personal one at that.
+Word of warning for anyone taking up the upgrade offer from Vista to Win7: Microsoft will only send the upgrade to you in DVD form, so you'll have to find a way to make a .iso image of the disk on another computer and then get an .iso reader to run it on your laptop.

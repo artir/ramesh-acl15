@@ -1,0 +1,17 @@
+ID: B002FU6BAQ-R2A8J4BD8GHD5P-A1ZUR8E6R7VTX7
+Category: Laptops
+Product: Asus-K50IJ-C1-15-6-Inch-Laptop
+ReviewerID: A1ZUR8E6R7VTX7
+ReviewerName: J. R. Conlin "Did Amazon really trademark &#3...
+Date: September 29, 2009
+Helpful: 4 of 4
+Rating: 4.0
+Title: Surprisingly nice box
+Content:
+I picked this box up for my inlaws to replace an aging desktop setup they had. I wasn't expecting much, but to be honest, I'm starting to think hard about picking one of these up for myself. 
+It's dead silent, even under load, and the battery lasts far, far longer than the "2hours 30minutes" that it displayed for four hours off power. Built in webcam is sharp and follows motion well and the screen is bright and sharp as well. The multi-touch touch pad takes a bit to get used to, but it's not a problem.
+A few things that are a bit annoying:
+* All the ports are on the sides of the laptop, meaning that you'll have lots of wires sticking out. 
+* Make sure to disable the "fancy startup" program, since it overrides things like selected backgrounds and menubar setups.
+* the slick cover is a fingerprint magnet. 
+Those issues aside, it's very light and nicely responsive.

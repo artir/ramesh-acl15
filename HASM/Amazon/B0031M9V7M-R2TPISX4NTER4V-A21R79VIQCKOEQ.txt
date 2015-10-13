@@ -1,0 +1,14 @@
+ID: B0031M9V7M-R2TPISX4NTER4V-A21R79VIQCKOEQ
+Category: Laptops
+Product: Acer-Timeline-AS3810TZ-4806-13-3-Inch-Aluminum
+ReviewerID: A21R79VIQCKOEQ
+ReviewerName: Dan
+Date: March 1, 2010
+Helpful: 
+Rating: 4.0
+Title: Good compromise: size, weight, price, performance and battery life
+Content:
+Very happy with this purchase.  Bought as a second computer to use mainly for web browsing and media applications such as iTunes.  The performance is surprisingly good, probably due to the combination of the SU4100 processor, 4 GB RAM and Windows 7.  This thing boots up and loads web pages lightning fast compared with my more powerful laptop (which has Vista).  720p videos from YouTube run without a hitch.  1080p videos are a tad choppy, but this is not a big deal for me, since you can't really see the benefit of 720p on a 13 inch screen, let alone 1080p.  Yes, 1080p may be more of an issue if you output the video via HDMI, but I'm not using the laptop in that capacity, so I don't mind. 
+I was debating on whether to purchase this or the similarly specd Toshiba T135-S1310, but I checked out the Toshiba at BestBuy and noticed the track pad cursor movement was very choppy.  After reading some reviews and looking at the Toshiba support forums, I found that this was a common problem with the T135 series laptops.  Toshiba recently issued a fix, but it requires you to send your laptop in to have a part replaced.  Glad I chose the Acer, which has a smooth cursor movement and also features a gigabit Ethernet port that the Toshiba lacks (the Toshiba has a 10/100 MBPS Ethernet port).
+There are two minor issues with this Acer (these are well documented issues that everyone knows about): The buttons below the track pad are stiffer than I would like and the sound coming from the speakers is on the tinny side.  Neither of these are deal breakers, but I do wish Acer (and Toshiba and other makers) would forgo the "one button" look and use two separate buttons for the track pad; two buttons are easier to use and would probably make the button-clicks less stiff.
+Overall though, this is an excellent buy for the money, with excellent battery life and decent performance.

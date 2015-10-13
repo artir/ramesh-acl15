@@ -1,0 +1,11 @@
+ID: B002C7446A-R145BKZBRR3XV7-AJOCLNB599BS2
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: AJOCLNB599BS2
+ReviewerName: Kevin Grachi
+Date: November 16, 2009
+Helpful: 20 of 36
+Rating: 1.0
+Title: MacBook Pro Issue
+Content:
+I purchased this Macbook Pro 2.53 with 4GB DDR3 ram. A month later I noticed the processing speed slowed significantly and the cooling fan became lower. I took it in an Apple store nearby and I was told that the the fan works and there is nothing they can do about the noise. I asked them if they could replace it with another one considering it was only a month old, but I was told that replacement is never an option unless the computer is broken. I am very disappointed considering how much I paid for this computer.

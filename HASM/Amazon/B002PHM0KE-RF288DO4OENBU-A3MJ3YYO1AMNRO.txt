@@ -1,0 +1,15 @@
+ID: B002PHM0KE-RF288DO4OENBU-A3MJ3YYO1AMNRO
+Category: Laptops
+Product: Sony-VGN-NW240F-15-5-Inch-Windows-Premium
+ReviewerID: A3MJ3YYO1AMNRO
+ReviewerName: Michael Epstein "scienceguy51"
+Date: November 26, 2009
+Helpful: 39 of 45
+Rating: 3.0
+Title: Great computer but BEWARE
+Content:
+This is a great computer but before you buy you need to realize a few things:
+(a) The Intel graphics media accelerator is not up to the quality of the rest of the computer nor is it close to graphics accelerator boards.  If you play graphics intensive programs, beware!
+(b) My unit was shipped without controlling software for the integrated camera and Sony technical support was not able to help, since Windows 7 would not allow installation of their controller software.
+(c) Big BEWARE.  This is a 64-bit system. If you have older programs that are 16-bit, or even if they are 32-bit but the installer is 16-bit, they will NOT run on your system.  I ran into this problem with several programs that ran fine under 32-bit Vista.  16-bit progams do not run under 64-bit windows.
+As I said, great computer so far but significant issues that any buyer needs to be aware of!!!

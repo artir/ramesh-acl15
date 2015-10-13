@@ -1,0 +1,13 @@
+ID: B0034G4YQS-RZ462A7OU5T63-A3054SPO9MG6MG
+Category: Laptops
+Product: Gateway-NV7922u-17-3-Inch-Laptop-Cherry
+ReviewerID: A3054SPO9MG6MG
+ReviewerName: SavyShopper
+Date: March 4, 2010
+Helpful: 4 of 5
+Rating: 4.0
+Title: Bang for the buck
+Content:
+The good: i5 M430 processor.  For the most part, I only run simple productivity software and surf the internet, but the speed is an improvement over my old P4 desktop.  The 17.3" widescreen is bright and crisp.  HDMI out is handy for streaming Netflix to the HDTV.
+The bad: I would have expected some video editing software included (even if they were the 'express' or 'lite' versions), but at this price I shouldn't have.  Also, some Window 7 compatibility issues with existing network printer.  The driver is not available.  The position of the pgup and pgdn keys on the numberpad is undesireable.
+Overall: For the price point this system performs well, but I would have liked to have seen some more software.

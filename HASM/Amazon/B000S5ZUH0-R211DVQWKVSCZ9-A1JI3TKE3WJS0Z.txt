@@ -1,0 +1,28 @@
+ID: B000S5ZUH0-R211DVQWKVSCZ9-A1JI3TKE3WJS0Z
+Category: MP3Players
+Product: Archos-Wi-Fi-Portable-Media-Player
+ReviewerID: A1JI3TKE3WJS0Z
+ReviewerName: Don N.
+Date: January 11, 2010
+Helpful: 2 of 2
+Rating: 2.0
+Title: What you REALLY get.
+Content:
+I bought this for some time and still use it. Archos has many flaws and I will list them
+Good: 
+* a lot of video format, can play avi, wmv, mpeg, flv and other as well. (Compared to other PMP this one have the most codex)
+* Touchscreen, 720 x 420 res.
+* Plays MP3
+* Views pictures and PDF
+* plays Flash files
+Bad to worst:
+* The player has many features but archos dicide the LOCK them from player.
+  * To play video like mpeg requires plug-in CODE to unlock it ($20)
+  * plugin for web browser, widget, cost EXTRA.
+* Video recording adapter NOT included (is required if you want to record)
+* Only USB cable comes with the package
+* Charger is not include, cost extra
+* Some Video cause slowdown (usually higher res video)
+* Each plug-in only work with YOUR device, REQUIRES WiFi to install.
+* Weak battery
+Conclusion: Archos is pretty evil sneaking all this stuff in there. With video plug-in is what makes this device worth it, becuase there's no other moble device out there that have this much codex to watch movies on the go. Cowon might be looking into as I haven't use cowoon yet.

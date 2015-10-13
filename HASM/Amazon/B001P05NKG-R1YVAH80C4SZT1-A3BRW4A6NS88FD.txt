@@ -1,0 +1,11 @@
+ID: B001P05NKG-R1YVAH80C4SZT1-A3BRW4A6NS88FD
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A3BRW4A6NS88FD
+ReviewerName: Chi L. Law
+Date: December 19, 2009
+Helpful: 1 of 2
+Rating: 5.0
+Title: Good quality and OS X.
+Content:
+This is my first Macbook pro. At first, I'm really not used to the control. After a while, I like it a lot, especially the quality. The screen is very good and really save power. Although some applications only support Windows, I just install Parallels on OS X and install Windows 7 Ultimate 64bit and other windows applications. It works great. Even I can develop programs using Visual Studio 2008. I don't need to reboot using BootCamp.

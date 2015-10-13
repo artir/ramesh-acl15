@@ -1,0 +1,30 @@
+ID: B002QUZKYS-R14PFQCZDFZYP5-A3FUVB2MVQNIX2
+Category: Laptops
+Product: Acer-AS5738Z-4111-15-6-Inch-Windows-Premium
+ReviewerID: A3FUVB2MVQNIX2
+ReviewerName: J. Leonard
+Date: December 9, 2009
+Helpful: 2 of 2
+Rating: 3.0
+Title: You get what you pay for...
+Content:
+Pros:
+It came with Windows 7 and not Vista. (The lesser of two evils.)
+Good price for the machines specs.
+Touch pad disable button.
+HDMI out.
+Volume buttons.
+Number pad if you use it. (If it recognizes all the keys you type...)
+Annoyances:(NOT cons)
+Touch pad sensitivity w/multi-touch enabled (Easily disabled.)
+Touch pad position. (I understand lining it up with the space bar but I would rather it centered to the laptop itself.) 
+Glossy screen allowing a lot of glare in bright places.
+The top of the laptop collects finger prints easily.
+Bloat ware. (Easily removed.)
+Laptop doesn't enable sound through the HDMI cable when a HDMI cable is plugged in sometimes.
+Cons:
+Acer support.
+The keyboard sucks. Misses a lot of letters while typing.
+Does tend to get pretty hot if ran for a long time on a table or lap.
+Power cord brick gets considerably warm compared to my old Acer power cord brick.
+Sound gets messed up if the computer runs for a long time. (It might be my codecs or Windows. I haven't figured out what causes it yet.)

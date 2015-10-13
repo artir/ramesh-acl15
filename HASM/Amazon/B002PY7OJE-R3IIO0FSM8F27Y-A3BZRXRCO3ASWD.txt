@@ -1,0 +1,11 @@
+ID: B002PY7OJE-R3IIO0FSM8F27Y-A3BZRXRCO3ASWD
+Category: Laptops
+Product: Dell-Inspiron-11-6-Inch-Obsidian-Windows
+ReviewerID: A3BZRXRCO3ASWD
+ReviewerName: A. Kutyrev
+Date: March 11, 2010
+Helpful: 
+Rating: 5.0
+Title: The right choice of mobility
+Content:
+First of all it is a very lightweight laptop(it's not a netbook), but the CPU installed can provide you substantial power. It is clear that 11z is not intended for games (due to built-in intel graphics), but the other parameters in W7 experience test says it is good for internet, programming and movie watching. For those who would like to use linux on it (especially RHEL\CentOS or OEL): there are some problems with using built-in NIC Atheros 8132 (wired) in linux distros, cause it don't works from the box you need to install kmod-al1c from one of the repos.

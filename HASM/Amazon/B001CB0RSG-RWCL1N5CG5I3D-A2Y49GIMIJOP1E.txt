@@ -1,0 +1,27 @@
+ID: B001CB0RSG-RWCL1N5CG5I3D-A2Y49GIMIJOP1E
+Category: MP3Players
+Product: Creative-Player-Wireless-Built-Speaker
+ReviewerID: A2Y49GIMIJOP1E
+ReviewerName: John C.
+Date: November 19, 2008
+Helpful: 4 of 5
+Rating: 3.0
+Title: Great Product, Horrible Software Problems
+Content:
+Pros:
+  Sound quality is superb
+  Included headphones is high quality
+  Easy to use interface
+  Many different features
+  Great looking screen (which is great for video)
+Cons:
+- Extremely disappointing and frustrating software compatibility issues
+- Extra, useless buttons
+- Most video files require transcoding
+- Some features are more gimmick than practical
+- Interface is not as smooth as it could be
+Summary:
+The player itself is great. It has great sound quality, the interface is very sleek and very customizable, and the included ear buds retail for around $30-$40, much better than the included earbuds of say an iPod. The screen is great for video viewing also.
+The main problem is the compatibility of Windows Media Player. Although many people will say that Windows Media Player will support the Creative Zen X-Fi just fine, I have a very frustrating experience with it. I'm the kind of guy who likes to maintain all his album information and likes control of what stays and what goes on my music, and I prefer to sync my music rather than go through the major trouble of manually keeping track of my music. I have a pretty large selection, so manually syncing the Zen to my computer is almost impossible. The problem is whenever I try to sync, 50of the time my Zen would crash. Now, this problem is prevalent not only in the X-Fi, but also prevalent in the older cousin Creative Zen. I absolutely believe that Creative just dropped the ball here, now that not one but TWO products have the same issues. I looked all over the Creative support website, and there are absolutely no mention of this problem at all. I'd have to constantly reset my player after syncing them. 
+Conclusion:
+The product itself is great, but the software issues (as well as the useless bundled software) creates a major headache for me. Syncing my music has become the most frustrating experience for me, and it seems like Windows Media Player CHOOSES when to sync and when to crash my player. I honestly blame Creative for not making the effort to fix this issue. My recommendation? If you want a great MP3 player and you're old school who doesn't care about automatic syncing, then definitely give this player equal consideration with other MP3 players. However, if you want great control of your music library without the tediousness of managing it manually, then stay away. Had I known there were these issues with Windows Media Player, I'd definitely take that into major consideration.

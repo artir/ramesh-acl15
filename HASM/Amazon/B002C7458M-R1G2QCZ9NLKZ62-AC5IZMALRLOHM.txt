@@ -1,0 +1,11 @@
+ID: B002C7458M-R1G2QCZ9NLKZ62-AC5IZMALRLOHM
+Category: Laptops
+Product: Apple-MacBook-MB985LL-15-4-Inch-Laptop
+ReviewerID: AC5IZMALRLOHM
+ReviewerName: R. Bohn "mo_native"
+Date: October 19, 2009
+Helpful: 3 of 14
+Rating: 3.0
+Title: MacBook Pro question
+Content:
+Question here - not a review: Some previous buyers have indicated that since mid September, select customers received OSX 10.6 Snow Leopard. Earlier, in the product description, even AMZN had a SL logo right under the price. Now, it's gone. The actual description never changed from OSX 10.5 Leopard. Can anyone confirm that they have or haven't received 10.6 since mid-September?

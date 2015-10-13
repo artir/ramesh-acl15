@@ -1,0 +1,21 @@
+ID: B00138R12I-R3E05GTQ4HUX1O-A2UQK3DAZ8NO2T
+Category: DigitalSLRs
+Product: Sony-DSLRA300X-SteadyShot-Stabilization-55-200mm
+ReviewerID: A2UQK3DAZ8NO2T
+ReviewerName: Hiram Grant "just call me Sam"
+Date: May 11, 2008
+Helpful: 119 of 122
+Rating: 5.0
+Title: The best value in an Alpha?
+Content:
+Having previously reviewed the Alpha 200 and 350, it seems a bit silly to review the Alpha 300.  After all, the Alpha 300 is a 200 with Live View, or a 350 with 10 megapixels instead of 14mp.  Right?
+Well, pretty much that's the case.  But there is also a corresponding price difference.  Is Live View worth an extra $100?  Is 14mp worth an extra $200?
+For my money, yes, Live View is worth the $100 because of the way Sony has implemented this feature.  Unlike most systems, you won't see a loss in autofocusing performance (or a loss of autofocus completely), nor will you alter the way the exposure and white balance are determined.  Add to this the articulated screen that makes extremely low or high angle shots easier, and I say "YES"!  Any drawbacks?  Yes, this screen is a bit thicker, and pushes you back a bit when looking through the camera.  Also, the way Sony implements Live View does mean you only see 90 percent of what you'll get on the image.
+OK, is 14mp worth the extra $200?  I don't know, but I don't think so.  We really need more critical comparisons from people with true scientific methods of measuring the difference in image quality, but there are a few assumptions that will probably hold true, based on previous cameras.  The 14mp will give a superior image in good lighting, when ISO values (the fake "film" speeds) can be set to higher quality settings.  You won't see this difference on an 8x10 standard photo, but probably could in very big enlargements or severe cropping of photos.  Keep in mind that the "1.4x and 2x teleconverter" option you have with Live View is nothing more than cropping, with 2x dropping your effective megapixels in half.
+Past cameras would suggest, however, that the higher pixel density of the 14mp camera would be a drawback in low light conditions, in particular when we have to raise the ISO settings.  Thus, they may not even be as good as the 10mp sensor for these applications (but we still need critical testing to confirm this assumption).
+So, for my money, I'd say the 14mp is probably not worth the money for someone shooting an even variety of shoots, but might be for a landscape/wildlife photographer.
+Compared to other brands, I think the Alpha 300 wins on features compared to the Canon Digital Rebel XTi or Nikon D60 (Live View, stabalization in body).  The new 12mp Canon XSi is more in the price range of the 14mp Alpha 350.  In any case, with 3 new Alphas, and the new D60 and XSi, there's no more excuses!  Get a camera and start taking great photos!
+Sony Alpha A200K 10.2MP Digital SLR Camera Kit with Super SteadyShot Image Stabilization with 18-70mm f/3.5-5.6 Lens
+Sony Alpha DSLRA350K 14.2MP Digital SLR Camera with Super SteadyShot Image Stabilization DT 18-70mm f/3.5-5.6 Zoom Lens
+Nikon D60 10.2MP Digital SLR Camera with 18-55mm f/3.5-5.6G AF-S DX VR Nikkor Zoom Lens
+Canon Digital Rebel XSi 12MP Digital SLR Camera with EF-S 18-55mm f/3.5-5.6 IS Lens (Black)

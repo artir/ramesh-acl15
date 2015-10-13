@@ -1,0 +1,22 @@
+ID: B002XZLURC-R1874X0ISAUW9K-A1IBKN1GXYJ3K4
+Category: Laptops
+Product: UL30Vt-X1-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A1IBKN1GXYJ3K4
+ReviewerName: Dave
+Date: January 9, 2010
+Helpful: 54 of 57
+Rating: 5.0
+Title: Very innovative notebook
+Content:
+I got to use this laptop for a few days and it's brought me dangerously close to buying one for myself.  If you are looking for a thin-and-light notebook with great battery life and a little gaming life under the hood this is (in my opinion) the best choice on the market today.  What sets this notebook apart is two things:
+1.	At the push of a button you can switch from a low power Intel 4500HD graphics processor to a higher power NVidia G210M with 512MB DDR3 RAM (this defaults on when plugged in and defaults off when unplugged).
+2.	At the push of a button you can enable the "Turbo 33" mode which uses a mix of hardware (such as overclocking the cpu) and software to boost performance by up to 33%.  I ran some basic benchmarks and it seemed to work pretty well.
+CPU - The 1.3GHz Intel SU7300 Core 2 Duo Processor 3MB Cache 800MHz FSB is a great fit.  Some of the thin-and-lights in this class ship with either a Core Solo (i.e. single core) or Celeron CPU.  I tend to avoid both because the single core CPUs tend to choke on all the Internet Security software you need these days and the Celerons come with cut-down cache and now power saving modes.
+RAM - The included 4GB of DDR3 is just the right amount to really start taking advantage of a 64 bit O.S.  I also like that Asus used DDR3 which uses less power than DDR2.
+HDD - It comes with a 500GB hard disk drive which is more than most users need today.  The 5400RPM speed is slower than the 7200RPM drive you will find on some models but I prefer the reliability and power savings that come with a 5400RPM drive.
+DISPLAY - The 13.3 inch widescreen is glossy and reasonably bright.  Outdoor use will suffer from some glare but the backlit screen helps.  I found the vertical viewing angles are a little tight but it wasn't a big deal.
+GRAPHICS - As mentioned above it switches between a low power Intel 4500HD graphics chip on the motherboard (fine for most non-gaming tasks) and a more power hungry NVidia G210M that will actually let you do a some 3D gaming (though newer games will still run best at reduced settings).  This simple and clever innovation really sets Asus apart.  Oh and either chipset can do 1080P HD video.
+Battery - It's rare to get a battery this good in a notebook this thin: 8 cell 5600mAh.  I couldn't get the claimed 12 hours of battery life but I got very close (doing a normal mix of MS Office tasks and web browsing I got just shy of 11 hours).  Even doing very compute intensive tasks like gaming or playing back video I went over 6 hours.  Most notebooks can't run Word that long.
+Touchpad - At first I hated the touchpad but as I got used to it I really liked it.  It two-finger scrolling and three-finger right click which may trip you up at first but after a few days you won't want to go back.
+It comes with most of the usual stuff: HDMI port (for an external monitor or compatible TV), Ethernet port, wireless b/g/n, 3 USB ports, headphone jack, microphone jack, and a vga (for an external monitor).  It does lack any kind of optical drive, so no playing CDs or DVDs without an external drive.  For this you would need the ASUS UL80Vt-A1 14-Inch Thin and Light Black Laptop.  It's a "thin-and-light" which as you would guess means it is thin (1") and light (3.75lbs).  I also found it to be very quiet.  It comes with a facial recognition feature that allows you to login without a password but this was disabled by our IT department so I wasn't able to try it out.
+I see a lot of notebooks and I've generally been impressed with the build quality of Asus notebooks.  The build on this model looks great and it's helped by the sleek and simple design: no fancy little bits that fall off in a year.  In my opinion this is the thin-and-light to have if you need great battery life but don't want to give up all the fun.   If you don't do any 3D gaming you don't need the Nvidia chipset and you probably should save a little money on a notebook without it such as the nearly identical ASUS UL30A-A2 Thin and Light 13-3-Inch Silver Laptop.   Otherwise this is a great choice for a student or business traveler who likes to do a little gaming.

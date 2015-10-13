@@ -1,0 +1,11 @@
+ID: B00005QJ2L-R3TGK3HRPZJCPX-A2MZ72ZYR1WYGK
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: A2MZ72ZYR1WYGK
+ReviewerName: "wileysbooks"
+Date: February 15, 2004
+Helpful: 1 of 1
+Rating: 1.0
+Title: Just a note...
+Content:
+I am one of many with the famous Toshiba laptop overheat-and-shut-down problems.  I just wanted to point out- since someone dismissed this problem as being easily correctible- it is NOT.  updating BIOS was a clever trick by Toshiba to deflect the problem- not fix it.  The BIOS fix merely SLOWS your computer down so that the processer produces less heat.  However, it means that the user wasted a lot of money on a fast chip they cannot use.  do not buy this computer  (or the 1900 series) and expect to run it at the speed you were promised.  Hell it may not run at all.  Mine shuts down when i load some acrobat files, use Word, burn Cds, etc.  i'm furious!  right now, as I type, I have TWO ice packs on this piece of plastic and yet it has already shut-off twice in the last hour.  I'm not kidding.  this is not a whiny-- why isn't my computer perfect?-- complaint.  I cannot use many Cd-roms, I cannot watch dvds AT ALL (meaning $ wasted on that drive), I cannot watch streaming video.  I cannot even write a term paper without expecting a shut-off or two.  No joke.

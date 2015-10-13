@@ -1,0 +1,13 @@
+ID: B000M8WTEU-R3V66J38W2OLH0-A5G96Q6BWZ2S0
+Category: Laptops
+Product: Toshiba-Satellite-A135-S4427-Widescreen-SuperMulti
+ReviewerID: A5G96Q6BWZ2S0
+ReviewerName: Kevin Sikes
+Date: May 14, 2007
+Helpful: 2 of 2
+Rating: 4.0
+Title: Excellent value
+Content:
+I picked up this notebook at OfficeMax for $650 (regular $800).  Overall, I am very pleased with the machine.  It's very lightweight and easy to carry, but still powerful enough to be a desktop replacement.
+Pros: Lots of computer for the money:  Core Duo processor, 120GB SATA, 1GB RAM, beautiful widescreen display, Vista Home Premium
+Cons: Keyboard layout is odd to make room for the never-used multimedia control keys, difficult to downgrade from Vista to XP (took many hours to find correct drivers), headphone jack in front makes it hard to use in cramped spaces such as an airplane.

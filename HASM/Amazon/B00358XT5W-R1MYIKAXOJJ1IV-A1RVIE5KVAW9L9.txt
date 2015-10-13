@@ -1,0 +1,12 @@
+ID: B00358XT5W-R1MYIKAXOJJ1IV-A1RVIE5KVAW9L9
+Category: Laptops
+Product: Acer-AS5732Z-4867-15-6-Inch-Display-Laptop
+ReviewerID: A1RVIE5KVAW9L9
+ReviewerName: plotinus4life
+Date: April 14, 2010
+Helpful: 
+Rating: 2.0
+Title: Display Problems, and Terrible Customer Support
+Content:
+The performance of this computer is alright. One significant problem I have on my computer, however, is that since first purchasing, the screen has had a persistent display problem, in which thin dots or lines of red pixels frequently appear in images and movies. The pixels are not permanently red, but rather seem to be 'fixed' to the image at certain spots, and move when the image itself is moved. I have tried several fixes for this, including checking and updating the drivers of the video card and other solutions.
+I have attempted to contact Acer about this problem, but their customer support lines do not recognize the serial number or SNID for my computer, despite having registered it. Because of this problem, I have been unable to get in touch with a live human, and messages sent to Acer's online support page have gone unresponded for days (both regarding the registration problem and the display issue). Their customer support is absolutely terrible, and if you are left with a defective machine like mine, you put yourself at the mercy of having no support. This renders their one-year warranty, and 30-days money-back guarantee, functionally worthless.

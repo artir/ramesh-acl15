@@ -1,0 +1,15 @@
+ID: B002NKLRF2-RJ0GDO1DRM1S0-A3P67FLVSEKHSR
+Category: MP3Players
+Product: Creative-Labs-Player-Touchscreen-Speaker
+ReviewerID: A3P67FLVSEKHSR
+ReviewerName: E. Miller
+Date: October 9, 2009
+Helpful: 13 of 19
+Rating: 2.0
+Title: Creative Zen x-fi 2 IS NOT Napster to go Compatible
+Content:
+The player is nice, sounds great, but it does not match product description if you are looking for a device compatible with the Napster-to-go service (which is why I bought the player).  Although the above description says it supports WMA-DRM9 files (protected content), the player is not compatible.  
+I asked Napster customer service about the player and here was their response:
+"Thanks for contacting Napster Customer Support.
+Regretfully, the Creative Zen X-Fi2 series is not compatible with Napster To Go as it does not make use of the Microsoft Digital Rights Management that is required. The original Creative Zen X-Fi series is compatible, however. We encourage you to check the Napster Compatible Devices page for regular updates on players compatible with our service. The Napster Compatible Device page can be found at: [...]
+DO NOT BUY product if you are doing so to get it for the Napster service.  The product description does not match what you get (not Amazon's fault..., but maybe product descriptions should be verified before publishing).  I am returning my player.

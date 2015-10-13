@@ -1,0 +1,12 @@
+ID: B000VR3P9K-RQ7JBWY1EJKBP-ABFN4NDDHOB7G
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: ABFN4NDDHOB7G
+ReviewerName: E. Levis
+Date: February 20, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: MacBook Pro 15"
+Content:
+This is my first Mac.  It seems well made and has a sleek design.  I'm using it mostly for email, web browsing, digital photography, iPod (audio books, music), and remote access to work systems.  Following optional packages are installed: iLife, Office for Mac, VMware Fusion, Windows Vista, and various Windows programs on Vista. The system seems remarkably stable; it stays running for ages without needing to be rebooted.  The transition from Windows to Mac has not been difficult though I miss the Windows keyboard shortcuts for moving around and have yet to learn their counterparts on the Mac.  
+The only real complaints I've got about the MacBook Pro are: 1) it requires a proprietary video cable (Mini DisplayPort to Dual-Link DVI Adapter) to work with a 30" external monitor and 2)the display contents (text, images) periodically become blurry/unreadable requiring me to put the system to sleep and wake it up to reset the display.  I'm using a Samsung SyncMaster 30" display but have seen several reports of other people having the same problem with other 30" displays including the 30" Apple Cinema model.  My recommendation is to use a 24" external display instead.  I understand they work fine with the MacBook Pro.

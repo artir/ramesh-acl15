@@ -1,0 +1,14 @@
+ID: B000FMZE7W-RAQF3E33WO611-A264U0MI27RXLE
+Category: MP3Players
+Product: Zune-Digital-Media-Player-White
+ReviewerID: A264U0MI27RXLE
+ReviewerName: RichCI
+Date: February 16, 2008
+Helpful: 1 of 1
+Rating: 3.0
+Title: Great hardware, terrible software
+Content:
+I've owned my Zune 30 GB Digital Media Player (Brown) now for a little over three months.  It's a really great media player with an outstanding screen.  My only complaint about the hardware itself is the limited EQ settings.
+The software...
+I felt compelled to write this review after searching for possible solutions as to why the software keeps locking up/hanging/freezing for 1 to 2 minutes (and sometimes longer) whenever I delete files off of the player and occasionally at times that seem completely random to me.  The software is slow and awkward and not very intuitive - okay, it's supposed to be a media player so that means it's supposed to be cool, but where the hell is the File menu???  Come on - it's Microsoft; I would think that they would at least stick with their own stodgy but usable conventions.
+I love my Zune player and use it at work, at the gym, on trips and even waiting in line at the barbershop, but the software makes me reach through my computer screen and throttle some Microsoft programmer and that's why it gets 3/5 stars instead of 5/5.

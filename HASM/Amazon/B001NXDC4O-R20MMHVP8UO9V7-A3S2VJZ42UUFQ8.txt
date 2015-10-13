@@ -1,0 +1,11 @@
+ID: B001NXDC4O-R20MMHVP8UO9V7-A3S2VJZ42UUFQ8
+Category: MP3Players
+Product: Cowon-Video-Player-Touchscreen-Titanium
+ReviewerID: A3S2VJZ42UUFQ8
+ReviewerName: BearSnake
+Date: February 10, 2009
+Helpful: 3 of 4
+Rating: 5.0
+Title: Awesomeness
+Content:
+Pretty much this mp3 player is awesome. Its a large touch screen mp3 player, that is also fairly thing providing an easy fit in your pocket. Its ui is fully customizable using Flash, you can download the manual and figure it out. Lets see, it plays FLAC as well as OGG (along with your mp3s etc...) it plays avi files, its sound quality is really good. The screen flips between horizontal view and vertical view, good for watching videos, you can get video out cables (sold separately) to hook it up to your TV. Its 16 GB, which is far more than I need. It works perfectly on linux, with the album covers and everything. Its way better than an Ipod in my opinion.

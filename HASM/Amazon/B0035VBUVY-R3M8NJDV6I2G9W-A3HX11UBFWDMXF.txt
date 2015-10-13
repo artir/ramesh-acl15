@@ -1,0 +1,11 @@
+ID: B0035VBUVY-R3M8NJDV6I2G9W-A3HX11UBFWDMXF
+Category: Laptops
+Product: Acer-eMachines-E525-2200-Notebook-PC
+ReviewerID: A3HX11UBFWDMXF
+ReviewerName: Chrisc151
+Date: January 30, 2010
+Helpful: 7 of 8
+Rating: 4.0
+Title: Reliable alternative to a netbook
+Content:
+Not a ton of features, but has a fast enough processor for web surfing and MS Office.  Goes to sleep and comes back to life quickly with Windows 7.  Good alternative to a netbook that has a micro-sized screen.  I also have the Acer version (straight Acer brand, not Acer eMachines) and it is almost identical to this laptop, but has an AMD processor.  I think this processor feels a little faster.  Just wish the processor was a dual-core.  Also beware that the screen resolution only has a height of 768, which by today's standards is a little short.  But for the money, you can't beat it.

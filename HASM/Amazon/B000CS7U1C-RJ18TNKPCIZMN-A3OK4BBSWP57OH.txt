@@ -1,0 +1,33 @@
+ID: B000CS7U1C-RJ18TNKPCIZMN-A3OK4BBSWP57OH
+Category: MP3Players
+Product: Creative-Zen-Vision-Video-Player
+ReviewerID: A3OK4BBSWP57OH
+ReviewerName: S. Lin "slin"
+Date: January 19, 2007
+Helpful: 2 of 2
+Rating: 4.0
+Title: great player
+Content:
+PROS
+great screen resolution
+excellent sound quality with my vmoda bass freq earphones
+nice video format support
+MTP with XP is easy for plug and play
+excellent value for 180-220 price range
+CONS
+thickness
+easily scratched
+lack of ac cord
+no ac3 audio
+MTP is not as good as mass storage device
+touchpad isnt as intuitive as clickwheel
+This player is really nice.  the overall look and feel is impressive.  one thing to note, most zvm's are shipped with a protective clear screen on top of the lcd - these sell for $10+ on creative's site, so leave it on unless you plan on getting an invisible shield or skin from bse. the screen and black finish scratch very easily even with careful use, but that goes for any mp3 player on the market.
+I would strongly recommend updating the firmware to the most recent, it is more stable as mine was freezing up when i first got it. However, i think xp and the mtp protocol are culprits as well.
+video: the divx support is great. although many movies are encoded with ac3 audio, you can process just the audio of the avi so that it has mp3 audio in pretty short time.  many of my converted movies went straight on with no problem.  This is such a bonus to ipods and having to re-encode vid's with videora.
+audio: the playlisting is kinda quirky, as it ignores directory structures and file names and follows info on the id3 tag exclusively (opposite if the zen micro). thus tagging your entire library becomes important. on the fly playlist creation isnt as good as ipod's. the sound quality is excellent - tho i do recommend better headphones. 
+other features: photos, fm radio, recording are all very decent.. customized wallpapers is a great option.
+Usability - i would give the Ipod a slight edge here, as the touch pad is a bit too sensitive and not quite as "natural" as the clickwheel. the ui experience is great and pretty much the same as apples' (who stole it!).
+Software: I havent installed any of the software. I use XP SP2 with windows media 11 and media monkey for managing my music and windows explorer to drop in videos.
+Overall, i give it a 4 star b/c it no longer ships with an AC cord, the dongle piece is a PITB to have to carry around, and the lack of ac3 support.
+accessories that are a must: ac charger, usb cord (w/o the dongle), some type of skin, better headphones. 
+the Zen Vision M is the best PMP/MP3 player on the market today... get the 60gb if u want more space....

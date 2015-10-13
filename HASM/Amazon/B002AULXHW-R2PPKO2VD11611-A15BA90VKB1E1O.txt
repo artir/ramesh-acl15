@@ -1,0 +1,11 @@
+ID: B002AULXHW-R2PPKO2VD11611-A15BA90VKB1E1O
+Category: Laptops
+Product: Acer-Timeline-AS4810T-8480-14-Inch-Aluminum
+ReviewerID: A15BA90VKB1E1O
+ReviewerName: J. Pollard "Jo-Po"
+Date: October 6, 2009
+Helpful: 3 of 4
+Rating: 4.0
+Title: NOT BAD
+Content:
+I bought this last week at Staples for $499, but they are selling out quickly.  My experience has been similar to the rest of the reviews.  As soon as I got the unit home, I flashed the BIOS and installed windows 7.  The system is great for listening to music, word docuemnts etc, but as soon as you start really multri-tasking the system gets bogged down. It has also had trouble gracefully shuttiong down in 7, but that could be a non-hardware related issue.  I had originally bought the 11.6" Aspire 1410 which was way too small and was going to have to purchase an external drive.  Tis model was bigger, had a better battery life and a DVD burner and only weighted 1 pound more.  It cost an additional $50 at the $499 price so it was  ano brainer to switch.  I am wondering if I can over clock it.

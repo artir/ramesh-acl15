@@ -1,0 +1,11 @@
+ID: B0000DAL8I-R1KT6TZASC76UC-A3B3BOFXCPA0KB
+Category: Laptops
+Product: Toshiba-Satellite-P25-S609-3-00-GHz-Hyper-Threading
+ReviewerID: A3B3BOFXCPA0KB
+ReviewerName: Claudio Marcelo Sampalione
+Date: November 5, 2003
+Helpful: 13 of 82
+Rating: 5.0
+Title: I was expecting this model
+Content:
+Hace meses que estaba esperando que a la Serie P25 la proveyeran de todas las características para hacerla realmente una máquina equilibrada en sí misma. En verdad era un desperdicio adquirir un desktop replacement con una placa de video de solamente 32mb, y con un disco rígido de mediana capacidad y de sólo 4200 rpm (aunque el actual siga siendo el punto más flojo, por qué no le instalaron un HDD de 7200rpm?)Un plus invalorable fue el de subirle la velocidad del procesador a 3.00GHz que con la tecnología Hiper-Threading y los 1024Mb la hacen volar...Otro acierto fue incorporarle el nuevo software Windows Media Center 2004, que hace más amigable y fiable el ver y grabar programas de tv.Como arquitecto, al trabajar con software que necesitan de  tecnología de mucho poder para poder renderear las imágenes de los proyectos que diseño, esta laptop es realmente útil a mis necesidades. La recomiendo a mis colegas.Definitivamente valió esperar todo este tiempo, pero con la P25-S609,la Serie P25 llegó a su pináculo.

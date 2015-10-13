@@ -1,0 +1,15 @@
+ID: B000JO7RVC-R1L9NLKRFWT076-A69D2NQCNMXCE
+Category: MP3Players
+Product: Apple-classic-Silver-Generation-MODEL
+ReviewerID: A69D2NQCNMXCE
+ReviewerName: Yachtman
+Date: November 28, 2008
+Helpful: 2 of 2
+Rating: 4.0
+Title: About the sound...
+Content:
+I agree with other critics of the sound on this unit..HOWEVER I have recently learned something that might help you.
+I had ripped my music to the Apple Lossless format because I listen to a lot of classical stuff and wanted the highest quality.   The iPod sound was AWFUL and no EQ setting would fix it.  So I experimented a bit and found that I got a much more acceptable sound using high quality MP3 format.
+If you suspect the A/D converter try this experiment - play the same MP3 file in iTunes and Windows Media player.  You may need a file with lots of information, say a symphony.  I hear a distinct difference with iTunes being on the thin & tinny side.  WMP is fuller and richer.  Wouldn't surprise me that Apple's A/D algorithm is poor to start and the impact is worsened when moving the data to the iPod.
+I also agree with critics of the EQ.  Forget it.
+After all this, I think the product is very good after converting my library to MP3.

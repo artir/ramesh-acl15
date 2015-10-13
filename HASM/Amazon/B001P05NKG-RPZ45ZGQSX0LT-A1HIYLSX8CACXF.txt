@@ -1,0 +1,12 @@
+ID: B001P05NKG-RPZ45ZGQSX0LT-A1HIYLSX8CACXF
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A1HIYLSX8CACXF
+ReviewerName: P.H.
+Date: February 14, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: great laptop
+Content:
+being a windows user, i was a little reluctant to purchase a macbook, but im glad i did.
+Out of the box, the macbook is ready to go with little to no extra software needed. What really helped with the transition from windows to mac is the videos on [...] that show you how to use the laptop and its software. i recommend the getting an external hard drive to take advantage of the built in backup software (time machine).

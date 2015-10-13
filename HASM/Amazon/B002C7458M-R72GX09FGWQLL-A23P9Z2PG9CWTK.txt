@@ -1,0 +1,17 @@
+ID: B002C7458M-R72GX09FGWQLL-A23P9Z2PG9CWTK
+Category: Laptops
+Product: Apple-MacBook-MB985LL-15-4-Inch-Laptop
+ReviewerID: A23P9Z2PG9CWTK
+ReviewerName: J. A. Pape
+Date: August 15, 2009
+Helpful: 10 of 10
+Rating: 5.0
+Title: Good time to upgrade an older Mac Laptop
+Content:
+For those considering upgrading from an older Mac laptop, this new line-up is extremely compelling. My previous model was the PB G4 1.33 15". I replaced it with the new (mid-2009) MB Pro 2.53 a few weeks ago. Benefits noticed so far in order of importance to me...
+1. Speed. Of course, but this upgrade has gone beyond just reducing frustration to actually noticeably improving efficiency.
+2. Display. My old display was growing dim. The new LED display is beautiful, bright, and sharp. The reflections are annoying, but less so now than at first and the benefits easily outweigh the disadvantages.
+3. Battery life. No comparison.  I usually plug in, but the times I've used it off-grid it's run 7 hours.
+4. Compatibility. Snow Leopard and much other new software will require Intel processors. Also, I occasionally run into a website designed with older, non-standards based software that doesn't work quite right with Mac browsers. Intel Macs can run Crossover, an inexpensive program that will run certain Windows programs like IE 6 & 7 without actually having to install Windows. Of course, if you actually need or want to run Windows programs extensively you can install it on these Macs.
+5. The new larger, multi-function trackpad, backlighted keyboard, rigid uni-body design, magnetic power cord attachment, built-in SD slot, thinner shape, more powerful speakers, built-in mic & camera, better WiFi reception, more comfortable keyboard, cooler on my lap. Which of these is best? I've used laptops extensively since the PB 150 (1994) and during that time I've kicked 'em all to the floor on multiple occasions. Based on that experience, the magnetic power attachment wins the prize, but I like them all.
+So, if you've been holding out like I was on upgrading a G4-based Mac laptop, upgrading now may be a smart, value-conscious decision. It was for me.

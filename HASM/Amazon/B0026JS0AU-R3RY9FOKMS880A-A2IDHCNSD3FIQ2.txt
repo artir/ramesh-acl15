@@ -1,0 +1,16 @@
+ID: B0026JS0AU-R3RY9FOKMS880A-A2IDHCNSD3FIQ2
+Category: MP3Players
+Product: SanDisk-Sansa-Connect-4GB-Black
+ReviewerID: A2IDHCNSD3FIQ2
+ReviewerName: Mike H "Mike"
+Date: November 20, 2009
+Helpful: 14 of 14
+Rating: 4.0
+Title: awesome little mp3 player - and wifi w/ yahoo music works
+Content:
+I picked up one of these players about 2 months ago - great player so far - good battery life, big screen, good sound quality even with the included headphones, and 4 GB of storage built in.  Also it has a built-in speaker to use without headphones and the quality is suprisingly decent.  
+Don't pay $100+ for the WIFI-enabled version of this player - you can download a firmware update to enable WIFI on this player for free (just google for sansa connect wifi firmware or similar).  The update also enables photo and video support.  I read that the update *may* also enable microSDHC support up to 8 or 16 GB, but I have not tested that yet.  Out of the box the player supports regular microSD up to 2 GB. 
+Once I flashed my player and enabled the WIFI, I put in my router info (w/ WEP key) and it hooked up seamlessly.  You need a free Yahoo account to use the WIFI music features of this player.  I can use it to listen to Yahoo! internet radio stations throughout my house, and it offers an easy-to-use menu to select which station you listen to.  It won't purchase or download songs over the WIFI - as stated in another review, that part of the service is discontinued.  It also works to display photos from flickr.  I have not tested videos on the device, and you will need to download and use the converter from [...] to format videos for it.  
+One neat thing is that the player is fully functional when you are syncing music from a PC.  It will still play MP3's or WIFI yahoo music and is fully responsive.  Most players are not usable while syncing music so that is an added bonus.  
+Most Sansa mp3 players can function like a USB drive, but this one unfortunately does not.  It shows up as a MTC device and you have to sync to it with Windows Media Player or MediaMonkey or similar (not sure about iTunes).  It works decently under Windows XP - have not tested Vista.  However, I had trouble with the device under Windows Media Player 11 on my laptop and had to downgrade to WMP 10 for it to sync properly.  Another downside to the player is the creation of playlists - they must be created and sent to the player using WMP 11.  I have not tried MediaMonkey to see if it handles syncing playlists to the player or not. 
+Overall, despite some quirks, this is a steal in my book - 4 GB player with WIFI Yahoo music support for $30.  I wish it had wireless music syncing like the Zune's, but they cost tons more than this player.

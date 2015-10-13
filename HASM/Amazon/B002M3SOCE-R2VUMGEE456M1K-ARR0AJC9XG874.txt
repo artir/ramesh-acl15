@@ -1,0 +1,19 @@
+ID: B002M3SOCE-R2VUMGEE456M1K-ARR0AJC9XG874
+Category: MP3Players
+Product: Apple-touch-Generation-NEWEST-MODEL
+ReviewerID: ARR0AJC9XG874
+ReviewerName: Lucas Smith
+Date: October 2, 2009
+Helpful: 33 of 37
+Rating: 4.0
+Title: Awesome - But know the limitations/restrictions
+Content:
+I just recently moved from a Palm TX to the ipod touch 3rd gen, and wanted to list out a couple limitations that i ran into that people should be aware of.  Note i really like my ipod touch and think this is the best overall small portable device available (especialy as palm stoped selling their pda's and is only selling phones now).   
+1 - Apple locks down syncing to only support certain file types, so to get other files types you have to have an application that is net enabled.  Example being ebooks.  You cann't choose files to send to the ipod, you have to get them through the app you are using (ebookreader, kindel, etc. . ).  
+2 - Video format support is fairly limited.  Stuff that plays looks great, but you pretty much have to have it in quicktime format.  And even then i havn't always been able to get my own videos to sync correctly.  
+3 - No office document support without extra cost.  Palm TX came with Documents To Go.  You can buy this for the ipod touch, but costs $10.  
+4 - Apple seems pretty draconian about limitations on using mp3s purchased through iTunes.  I havn't worked out all the details, but it looks like you have to make sure to "deactivate" a computer before you move files to another computer where you have to activate the new computer.  You also can't re-download content that you lost if you loose data or something.  I looks like some people have been able to get apple to help them if they complain enough, but for now i think i am going to stick to buying mp3s through Amazon.  
+5 - Artificial limitations - not all hardware is activated (N wireless, FM transmitter), and no support for running multiple processes at once (except music).  This is pretty crippling for some apps.  For example, i can use Skype to make calls to anyone anywhere as long as i have WiFi access and Skype is open.  If you could run skype in the background then this could function pretty much as a total phone replacement for me (i have vonage & no cell phone).  However as is i am certainly not going to leave skype open all the time, so it only functions to allow me to call out (still awesome, but kills me to see the potential limited).  
+6 - Propiatary connectors.  You have to use only your ipod usb cable.  Would be great if you could use a standard usb cable so i don't have to keep switching cables into my laptop.  
+7 - No good category system for much of content.  Notes, calendar, contacts, etc have no ability to assign a category (unless i am grossly missing something).  That is definitly something i miss from my Palm that helped me find things quickly and keep things organized better.  
+8- No default ability to use synced data without ipod plugged in.  So with palm you have the palm desktop software that you can edit contacts/calendar/notes, etc. . in without the palm and can sync it later.  You can't even see the options for the ipod touch unless it is plugged in, and even then it is pretty limited what you can change.

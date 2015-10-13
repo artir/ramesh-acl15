@@ -1,0 +1,12 @@
+ID: B0007QKMR8-R2YRLBDPVUH8BZ-A25HU4493HU0NY
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-XT-Camera
+ReviewerID: A25HU4493HU0NY
+ReviewerName: Michael F Delineate "love photoshop"
+Date: February 25, 2006
+Helpful: 8 of 16
+Rating: 5.0
+Title: digital rebel xt
+Content:
+i owned a plain digital rebel and upgraded to the xt.
+i am just getting used to the new one now.  my pictures are much better (8mps)vs 6  i have noticed that my file size is much larger when i switch from RAW to TIF.  i had to do al lot of work to get canon's camera raw to work in my photoshop application. when i called canon they were absolutely no help.  i finally went onto the adobe site and got a plug-in to enable me to use the camera's cr2 files in photoshop.  i'll be frank, i don't know why the camera manufacturers are not using a standard camera raw. photoshop wants me to save everything in their dng type file, but my favorite sharpening program(Dx0 pro optics 3.5)can handle the canon raw but not the adobe dng.  so i don't know what to do except to save my canon cr2, adobe dng, and my DxO raw files.  i spend more time than i should erasing files from my system.

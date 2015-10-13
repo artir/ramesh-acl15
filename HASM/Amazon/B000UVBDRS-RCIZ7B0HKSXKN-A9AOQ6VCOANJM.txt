@@ -1,0 +1,16 @@
+ID: B000UVBDRS-RCIZ7B0HKSXKN-A9AOQ6VCOANJM
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A9AOQ6VCOANJM
+ReviewerName: Moore Paul Patrick "ppmoore"
+Date: April 7, 2008
+Helpful: 6 of 7
+Rating: 2.0
+Title: Cannot connect to PC
+Content:
+I bought this little player after reading the mix of positive and negative reviews. I chose it over the Sony NWZA818 because of the cheaper price and because of the non-proprietary USB/charging connector. I'm a computer engineer, and was confident that I would be able to solve the various software issues described in the negative reviews. I was wrong...
+Others have already described the good aspects of the device - the good sound quality and the visually stunning display. I agree, so I won't go into that. Instead, I'll list the negatives I experienced.
+First, the user interface and the menu structure are non-intuitive. Sometimes the East and West navigation keys are used, and sometimes the menu key at the top of the device is used. When trying out one of the bundled audio files, I could pause the playback and restart it from the beginning, but was not able to stop it. For ease of use, this is no Apple iPod.
+The device firmware does not seem to be stable. At one stage when pressing one of the menu keys, the unit locked up, and I had to reset the device by inserting a paper-clip into the reset hole located at the bottom of the unit. Not so encouraging. I had earlier downloaded and installed the latest firmware version before using the device, so using an old software version was not the problem.
+Finally, the unit does not always successfully conect to the PC. The first time I tried it after installing the supplied software it worked, and was able to use the supplied Creative ZEN Explorer to copy files to the unit. But that was it. All further attempts failed. Even reinstalling the software failed to solve the problem. The System Tray on the bottom right of the desktop showed "MTP Device connected", but selecting ControlPanel -> System -> Hardware -> DeviceManger listed the Creative ZEN as an unknown device. During one attempt, when I disconnected the unit from the PC the unit displayed "Shutting down..." and then locked up. Again I had to use the paper-clip to reset the device. The Trouble Shooter page on the Creative ZEN web page also failed to identify and solve the connection problem.
+The unit goes back to the shop tomorrow. A pity, because the sound quality and display are very good. The Sony is starting to look attractive, in spite of my misgivings and the much more expensive price. I noticed it has attracted very few negative comments here on Amazon.

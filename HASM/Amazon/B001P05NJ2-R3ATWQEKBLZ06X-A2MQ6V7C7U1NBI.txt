@@ -1,0 +1,19 @@
+ID: B001P05NJ2-R3ATWQEKBLZ06X-A2MQ6V7C7U1NBI
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: A2MQ6V7C7U1NBI
+ReviewerName: Patrick Groeneveld
+Date: March 24, 2009
+Helpful: 6 of 6
+Rating: 5.0
+Title: 17" MacBook pro delivers on high expectations
+Content:
+I've been using my new 17" unibody MacBook Pro intensively for over a week. It has hold up to the high expectations that I had from it. The design is stunning: the solid aluminum body is offset by a pitch-black screen. When closed, its a sleek minimalist work-of-art that looks smaller than its massive 17" screen size. The top lid and bottom aluminum body fit perfectly, sealed like a fridge by a magnet and a slim rubber edge that runs around the entire display. Its gorgeous from any angle: the back is flush has no battery bay and there are no visible ventilation holes. The fan exhausts are intricately hidden in the hinging mechanism of the display. The fans are barely audible under normal use. 
+Putting the unibody in on your lap after a cold night is a boner-shrinking experience. Also when powered up the MBP runs cool, consuming only 18 watts in normal use. Battery life is about 5 hours if you only do some office work. That is probably as good as it gets today. Battery life is considerably less when the graphics is stressed, or when I boot it in Windows Vista instead of OSX. I noticed that the battery life predictor never gets even close to the promised 8 hours. Apple marketing is quite simply lying. 
+The display is stunning: the sharpest and best contrast I've seen until now. The colors and sharpness of the glossy screen is visibly better that that of the matte screen (a $50 option). In contrast to the glossy screen, the matte display is not mounted flush into the case. Side-by-side, the glossy looks a lot better. I noticed no problem with the reflections of the glossy screen in heavy daily use. 
+Performance is good. Subjectively it seems faster and more responsive than my daughter's Imac. The system wakes up within a few seconds after opening the lid. My previous Dell tool a full 2 minutes to fully wake up after sleep, and much longer after a cold start. That is a real productivity saver. 
+Of the 5 laptops in my home (of different vintage and make), the MBP seems to have the best and most solid WIFI connectivity. It picks up base stations that are out-of-reach of the other machines or Iphones. 
+There are some minor design flaws: the front edge of the laptop is quite sharp. This is where your wrists rest, especially  when using the trackpad.  By now I've gotten used to this S&M experience with cold metal, but its clearly a case of form-over-function. 
+Another flaw is that the beautiful design of the lid forces the connectors to the side instead of the back of the laptop. When placed on a desk (which is 95% of the time),  a wild assortment of wires sticks out on the left, taking up precious real-estate on my desk. Since external displays require a adapter, the mess is even larger. Apple does not provide a docking station so my daily routine involves plugging in and out 5 wires multiple times. Apple uses a nonstandard video plug that require one to schlepp around two extra adapter cables anywhere. I would have gladly sacrificed the entire DVD-drive for this, since that is only used to install software. 
+I've installed Windows Vista in 2 flavors: running in parallel using VMWare fusion, and sequential using bootcamp. Vista is a sluggish, slow and clumsy operating system compared to MacOS, so the latter is my preferred mode of operation. Fusion is faster and more convenient, but its only flaw is that it does not support graphics well (Flight simulator X did not work). 
+In short, the 17" MBP is probably the best (and certainly the most beautiful) laptop one can buy at this time. Its considerably more expensive than similarly equipped competitors, but it makes up for that by better components and better design.

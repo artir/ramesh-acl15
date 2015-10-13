@@ -1,0 +1,41 @@
+ID: B002AULXHW-R2FI7UBFMUWX8I-A27N36BPXB2EKB
+Category: Laptops
+Product: Acer-Timeline-AS4810T-8480-14-Inch-Aluminum
+ReviewerID: A27N36BPXB2EKB
+ReviewerName: 80sGuy
+Date: November 26, 2009
+Helpful: 6 of 8
+Rating: 3.0
+Title: 3.5 Stars actually...
+Content:
+This is my first Acer computer, aesthetically speaking it is the nicest looking laptop I've seen so far and one of the thinnest -- measuring at a mere 1" thick. The 14" screen, weight and dimensions are just a fraction more compared to an ordinary Netbook, but you get much much more. For one; you're not getting an Atom processor but an Intel Centrino Core2 Solo CPU. Yet small, but it also comes with an integrated DVD Burner -- almost unheard of for a 14" size notebook, as opposed to having an external unit dangling around. These are only a few good reasons why I bought the unit, but...the ultimate deal was the long battery life! Acer claimed that it can pull more than 8 hours. Reading my reviews here on Amazon (also from various other sources) most reviewers seems to have stood by their claims. So for this I am willing to sacrifice the trade-off of not purchasing a Dual Core or Core 2 Duo CPU system but instead opted for the ultra low voltage 'Solo' core for its battery life; 
+Although the 8480 was deemed versatile for most apps but it wasn't user-friendly "out of the box". Acer did not update their Timeline series with the latest BIOS and necessary drivers before rolling out to the masses which resulted the computer in a constant 100% CPU spike and ultimately rendering the unit to freeze, therefore a forced-shutdown/restart is the only solution. For this, it has caused a large number of confused day to day 'Average Joe' and the typical novice computer consumer letdowns, not to mentioned; the numerous negative feedbacks as to why their newly purchased computers did not add up to the mfg claim. 
+Some of the folks that bought and researched should know what has to be done to get the unit running in tip top condition, but for those of you who haven't, here's what you MUST do before using the notebook for the first time: 
+1.) Have 3 blank DVD discs ready for burning and making the recovery discs because Acer (and most Manufacturers these days) does not provide any.
+2.) Go to Acer's support site and choose your model, but here's the trick; in between the top part of the page and the drivers' lower part of the page, there is very tiny drop-down box for you to choose your Operating System -- make sure you choose the right one. For example: choose "Windows Vista Home Premium 64Bit" if you are using this OS. Most people tend to miss out on this part because it is pretty hard to see on the page.
+Update to the latest Bios (there are two released simultaneously; one is the regular and the 'OE' stands for "Olympic Edition"
+3.) Update to the latest Video Driver
+4.) Update to the latest WIFI driver
+The rests of it are optional.
+Upon my updates, the unit has performed flawlessly, there are no more 100% CPU usages but in the 10-30% range and applications seems to run much smoother like it supposed to. The one thing that still hinders is the 'Sleep Mode'; if you closed the lid and reopen it, the unit tends to freeze up a bit and takes time for it to completely come back to its original state. This happens mostly if you have a browser opened at the time of closing the lid. Acer needs a new BIO for this, or perhaps Windows7 will rectify this dilemma. 
+Pros:
+*Light Weight
+*Thin
+*Battery Life (8+Hours)
+*Screen resolution and bright enough
+*DVD Burner (Integrated)
+*4GB DDR3 RAM
+*320G Hard Drive
+*HDMI port
+*Keyboard (quiet, very nice play and solid feel with no diving/caving while typing -- unlike my Toshiba Satellite)
+*Mouse Pad (very responsive and non-erratic)
+*Design/Beauty
+*Very solid feel -- no flexing or creasing of any sort
+Cons
+*Single Core processor
+*No 'Caps Lock' light
+*No 'Number Lock' light
+*Tiny Power Button -- tiny meaning it is designed to work only with the tip of your fingernail (needs to press twice to power ON or hold for 3 seconds -- only if you are using the AC cord with the Battery detached, otherwise just press once with Battery attached)
+*No Express Card slot
+*No eSata
+*No Phone jack (couldn't use Windows Fax)

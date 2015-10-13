@@ -1,0 +1,23 @@
+ID: B003070YJW-RR0E6WF2TGZ4W-A1DP9Q35EU64L2
+Category: Laptops
+Product: Toshiba-Qosmio-X505-Q860-18-4-Inch-Black-Red
+ReviewerID: A1DP9Q35EU64L2
+ReviewerName: Isaac E. Schwoch
+Date: February 10, 2010
+Helpful: 29 of 29
+Rating: 5.0
+Title: Best gaming laptop out there for the price
+Content:
+I purchased this laptop as a desktop replacement and I use it for gaming, watching movies, writing software, and basic Microsoft Office and web browsing tasks.  Overall I am extremely pleased with it and would highly recommend it to others.  Here's the breakdown:
+PROS:
+- This is an extremely fast machine.  It boots up in under a minute with Windows 7 and I have yet to notice the occasional lag with starting up programs that I experience with most Windows PC's.  
+- Newer games like "Dragon Age: Origins" run extremely well on this machine with all of the graphics maxed out
+- The screen on this computer is beautiful.  The color quality and contrast are extremely good and there is a ton of screen real estate.  Some people have complained that it isn't full 1080p but I find that the 1680x945 resolution makes icons and text the perfect size for this size of screen.
+- Multitasking works great with a dual-core processor (four virtual cores with hyperthreading) and 4GB of DDR3 RAM.  I routinely have 12 Firefox tabs up while watching videos in iTunes and editing four or five MS Office documents. A lot of computers don't like this but the Q860 handles it wonderfully.
+- The battery life is over three hours, which is pretty good for such a behemoth.
+CONS:
+- This is an extremely heavy laptop and I wouldn't recommend it for frequent business travel.  That being said, I do use this laptop for grad school and haul it back and forth to class one day a week using a Toshiba 18" gaming backpack and it isn't terrible on my back.  I would definitely recommend a backpack if you want to carry this thing around as a normal laptop shoulder bag would probably destroy your neck and shoulder.
+- Both Toshiba and Amazon claim on their websites that this keyboard is backlit but unfortunately, it isn't.  Amazon customer service handled this issue extremely well after I reported it, so I can't complain about this too much.  All X505-series keyboards are compatible so you can probably pick up a backlit one off of eBay if that's a big deal to you.
+- There is a decent amount of junkware pre-installed on this system, although not nearly as much as on the last Dell computer I bought.  It's kind of annoying that Toshiba does this on a high-performance computer that will probably be purchased by people that don't want or need it.
+OVERALL: 
+- I did a large amount of research before buying this laptop and as of this moment, there isn't a better value out there in gaming laptops than this.  It lacks some of the higher-end features such as dual graphics cards, a 1080p display, and solid-state drives, but for the money you can't do better than this.  I am now selling both of my desktops and I plan on making this my sole computer.

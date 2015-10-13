@@ -1,0 +1,14 @@
+ID: B0012Y6HC8-RDS5CW2SFCVUC-A3A5YISXYMHIB
+Category: DigitalSLRs
+Product: Canon-Digital-XSI-18-55mm-3-5-5-6
+ReviewerID: A3A5YISXYMHIB
+ReviewerName: L. Leung
+Date: February 5, 2009
+Helpful: 
+Rating: 5.0
+Title: A great step for the point-and-shoot photographer
+Content:
+This is my first dslr; I stepped up from the canon sd750. I am so happy with the xsi. All the manual features and customizations are great for the intermediate/advanced photographer. 
+For those familiar with CHDK for canon cameras, I've added that to my sd750. Even with the unlockable manual features with CHDK, a solid dslr blows a point-and-shoot away. The image quality is so much better. 
+The fact that it is an dslr, changing lens is wonderful. I bought an olympus om to canon eos adapter on ebay to use my old olympus lens on the xsi. Unfortunately, I haven't received the adapter yet, but the customization options are limitless. An external flash is also a great and vital add-on.
+Overall, I'd recommend this camera to anyone who is looking to step up from a point-and-shoot camera.

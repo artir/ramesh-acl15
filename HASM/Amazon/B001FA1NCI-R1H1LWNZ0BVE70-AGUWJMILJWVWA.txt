@@ -1,0 +1,20 @@
+ID: B001FA1NCI-R1H1LWNZ0BVE70-AGUWJMILJWVWA
+Category: MP3Players
+Product: Apple-Black-Generation-Previous-Model
+ReviewerID: AGUWJMILJWVWA
+ReviewerName: Scott Kendall Mcfadden
+Date: December 7, 2008
+Helpful: 3 of 4
+Rating: 2.0
+Title: ok but could be better
+Content:
+Purchased the Nano 4g to replace my Nano 2g.  Overall, I like it but it could be better.
+Pro's:
+  Nice bigger / brighter display (compared to 2g)
+  Cover flow is nice
+  Accelerometer is cool for games
+Con's
+  Battery life not as good as 2g (probably because of the larger display)
+  Scroll wheel not as accurate or responsive as 2g scroll wheel (wheel feels like it is made out of flimsy material). 
+  Must disconnect ear buds before connecting/disconnecting dock connector cable because of space constraints.  
+  On Windows Vista, ITunes runs like a frozen t**d.  The folks at Apple recommend you migrate to a Mac to overcome this hurdle.

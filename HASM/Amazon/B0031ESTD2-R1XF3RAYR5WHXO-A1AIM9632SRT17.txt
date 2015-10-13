@@ -1,0 +1,12 @@
+ID: B0031ESTD2-R1XF3RAYR5WHXO-A1AIM9632SRT17
+Category: Laptops
+Product: Toshiba-Satellite-T115D-S1120-TruBrite-11-6-Inch
+ReviewerID: A1AIM9632SRT17
+ReviewerName: John A. Lewis
+Date: January 14, 2010
+Helpful: 71 of 73
+Rating: 5.0
+Title: Please note!
+Content:
+Amazon merged the two models into one page and fixed most of their info, but they have the battery life listed as nine hours in one place and six hours in another; the six hour figure is correct (thanks, Philip!).
+Also, the cheaper model (T115D-S1120) has a single core 1.6 GHz processor, not a dual core 1.5 GHz processor. This is currently still incorrect on one part of the page.

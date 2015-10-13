@@ -1,0 +1,12 @@
+ID: B00352LQYO-R621UXALW28E5-AZF6XZ8Q93YVR
+Category: Laptops
+Product: N61JV-X2-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: AZF6XZ8Q93YVR
+ReviewerName: S. Boostani "boosts"
+Date: April 22, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Buying ASUS only from now on!
+Content:
+I bought this laptop about a week ago and used over night shipping. So first things first, the product arrived in pristine condition which was a relief. Everything was included and well packaged. After putting it together and turning it on, the first message i got when i logged into windows was about creating a back up DVD of everything on the laptop including the windows. This was perfect since I have a habit of reinstalling windows every year and clearing my HD. So right off the bat it was reading my mind because I was going to do that anyway but now ASUS has created their own back up program that does it all. You just need 4 DVD's to burn the data. I don't use the laptop primarily as a gaming system but I do run SolidWorks and MATLAB and Rhinoceros on it as well as a couple of other programs that require high specs. And I am happy to say that it outperformed and not only runs each program without any glitches, it is perfectly capable of running them all at once. 
+The only thing that gave me a worry about two days ago was the wireless card. The front I/O switch wasn't working and the hot key for enabling the card was also not working. This went on for a couple of days and when it started to get irritating I decided to actually try and fix it. After Disabling and Enabling the card from Device Manager, the card seems to be working again. There hasn't been any other issues with the laptop and I'm happy to say that it is definitely a good choice for the price. Not to mention that it comes with a one year accidental damage warranty from ASUS, that you just need to register your laptop for.

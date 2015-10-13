@@ -1,0 +1,14 @@
+ID: B003G2ZKLS-RGKVFNHX1WX7T-AA4T9Z4T7402G
+Category: Laptops
+Product: Apple-MacBook-MC373LL-15-4-Inch-Laptop
+ReviewerID: AA4T9Z4T7402G
+ReviewerName: Robert Lee
+Date: April 23, 2010
+Helpful: 2 of 7
+Rating: 5.0
+Title: I love it!
+Content:
+There are tons of detailed reviews on this computer, so I don't have to say much about it. I purchased this from Amazon on the first day it came out, upgraded to 8GB using 2x4GB Crucial DDR3 memory Crucial Technology CT51264BC1067 4 GB 204-pin SODIMM DDR3 PC3-8500 CL=7 Unbuffered NON-ECC DDR3-1066 1.5V 512Meg x 64 Memory. I just ordered the Intel 80GB SSD drive Intel 80 GB X25M Mainstream SATA II Solid State Drive (SSD) Retail Package SSDSA2MH080G2R5 and the MCE OptiBay.
+Update 4/27/10
+Just installed the SSD and the OptiBay. The OSX, the applications and the Win7 Parallel VM is on the SSD. Much faster now. Most of the programs now open with just half bounce to one bounce.
+However, there is an issue with short battery. I am getting only roughly 4 hours on battery. It seems there are issues with the graphic switching, which is keeping the NVIDIA going instead of the onboard graphics. Bugs me a bit, but I guess that's all part of being early adopter. I'm sure Apple will get this resolved soon. I have no regrets on this purchase. More here... [...]

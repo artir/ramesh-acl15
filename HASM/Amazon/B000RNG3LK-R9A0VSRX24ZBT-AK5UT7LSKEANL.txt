@@ -1,0 +1,14 @@
+ID: B000RNG3LK-R9A0VSRX24ZBT-AK5UT7LSKEANL
+Category: Laptops
+Product: Pavilion-DV9420US-17-inch-Processor-Premium
+ReviewerID: AK5UT7LSKEANL
+ReviewerName: Drive4Fun
+Date: April 6, 2008
+Helpful: 0 of 2
+Rating: 1.0
+Title: Nice hardware, but HP support and options suck
+Content:
+I bought this laptop as a nice priced option only to discover, that the mighty monopolistic HP corporate approach would kill it for me.
+This is a true 64-bit multi-core computer and yet HP is crippling it by installing the stupid 32-bit Vista Premium by default.
+I tried to talk to an HP CSR 3-4 time to ask them for video drivers for XP 64-bit version I have a legal copy with license for a PC/Laptop. It was always a dead end call. At the end I escalated to the management, in which case they told me "It is our policy and I can not do much about it. Besides XP will not be supported for us by MS any more". So in short the old "good" MS + "designed for MS Windows" is playing a role here.
+At the end of the day I cursed a few times and installed Fedora Linux 8, which is the only one working with the HP new BIOS protection, which prevents you from putting a different OS on their machine and is desperately crying for a class action lawsuit against monopolizing the market of hardware, benefiting the OS vendor.

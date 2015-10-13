@@ -1,0 +1,12 @@
+ID: B002OOWBZM-ROMUXBVEYTYGF-A3KUC5K5VSJNU9
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1307-13-3-Inch-Ultrathin
+ReviewerID: A3KUC5K5VSJNU9
+ReviewerName: Gricycle "uriel81"
+Date: October 25, 2009
+Helpful: 96 of 109
+Rating: 3.0
+Title: Very attractive and useful with one limitation
+Content:
+Very sleek and beautiful LIGHT notebook, but you'll need the external optical drive for $60 more. I was impressed with the quality and 'Maciness' of this baby, especially in the white which is just beautiful and allows you to see the keys better in a darkened room. The Core 2 Duo speed, bluetooth, webcam are all plusses. The one drawback I see is that I and the reviewers at Bestbuy find the touchpad to be clunky, grainy with the mouse harder to finely control and the buttons too narrow but unresponsive. You have to concentrate on touching them on the very end where leverage is better and your fingers won't get worn out. All in all, gorgeous to look at, lug around and mostly use. I found the touchpad clunky and rough compared to my Dell so I gave this only 3 stars. An inexpensive external USB mouse would solve this problem. 
+Also, it says Windows 7 Professional or higher is required to run legacy apps in the special XP emulator mode--however it runs the 16-bit Norton Filemanager which can set a filespec and branch directories just fine!

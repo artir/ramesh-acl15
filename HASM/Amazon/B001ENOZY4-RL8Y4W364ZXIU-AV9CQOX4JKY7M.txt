@@ -1,0 +1,16 @@
+ID: B001ENOZY4-RL8Y4W364ZXIU-AV9CQOX4JKY7M
+Category: DigitalSLRs
+Product: Nikon-D90-Digital-18-105mm-3-5-5-6G
+ReviewerID: AV9CQOX4JKY7M
+ReviewerName: William Jefferson
+Date: September 19, 2008
+Helpful: 64 of 101
+Rating: 3.0
+Title: Say no to Live View
+Content:
+The "Live View" feature is not usable to take still photos.  It takes several seconds to do autofocus and the shutter delay and mirror vibration are significant.
+When the camera is in Live View mode, the mirror is flipped up, the shutter is open.  Autofocus is done through software image processing through the image sensor.  It takes at least two three seconds to focus on a subject with good contrast.  And often the autofocus goes into "hunting" for several more seconds before it settles down.  
+When shutter release is pressed in Live View, the camera closes the shutter, drop the mirror then lift the mirror and open the shutter.  All these actions create a long shutter delay and significant vibration.
+Because the mirror is held in the up position and the shutter is open in Live View, it consumes a great amount of battery charge and produces a great amount of heat for the circuit.
+It appears that Live View is released before the design is ready.
+Another problem is that Nikon changed the raw file format.  Weeks after the camera is on the market, the raw image file format is still not supported by PhotoShop or Nikon's own Capture NX2.

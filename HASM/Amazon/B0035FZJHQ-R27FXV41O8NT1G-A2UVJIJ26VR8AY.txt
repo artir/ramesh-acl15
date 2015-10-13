@@ -1,0 +1,19 @@
+ID: B0035FZJHQ-R27FXV41O8NT1G-A2UVJIJ26VR8AY
+Category: DigitalSLRs
+Product: Canon-T2i-Digital-3-0-Inch-18-55mm
+ReviewerID: A2UVJIJ26VR8AY
+ReviewerName: Y. Leventhal
+Date: March 21, 2010
+Helpful: 7 of 9
+Rating: 5.0
+Title: Excellent camera with a caveat
+Content:
+I got this camera a week ago from another dealer (couldn't wait for Amazon:-) But I got the Tamron AF 18-270mm f/3.5-6.3 Di II VC LD Aspherical IF Macro Zoom Lens for Canon DSLR Cameras lens instead of the kit lens (and the Tamron lens is nice!)
+As someone who's used the Rebel XT for over 5 years, the T2i feels like a big upgrade--literally, in many ways:
+1. The files are HUGE--large JPEGS are over 6 MB each. RAW's are about 21 MB each.  So it does not take much to shoot 2 Gigs' worth of photos. That means that if you buy the camera, you'd better get a large SD card.
+2. Although I like having the 1600/3200 (and up) ISO's--and the pictures shot in 3200 ISO look decent--better than those shot in 1600 ISO with the XT, I am not terribly wowed by the quality. Yes, I get decent pictures in situations where I would otherwise must use a flash, the pictures are still very grainy and can't be sharpened easily for some reason.
+3. The expanded range for exposure compensation--5 steps each direction (versus 2 on the XT)--is definitely a big plus.
+4. I really appreciate having the extra convenience buttons (for changing the ISO or the other functions), but that may be because I have been using the XT for too long.
+5. The camera uses up a lot of battery power. I was surprised by how quickly the battery meter went from half (two bars left) to nothing. A backup battery, which just showed up on Amazon, costs $80+. No small change. Perhaps the price may come down eventually, but perhaps not. So what was just an inconvenience--the display cannot be set to be "OFF" by default--is just plain annoying. Yes, you can turn the display off with the push of a button, but you have to do it each time you turn on the camera.
+*6 The one big drawback for me is that Canon's Zoombrowser, the most recent update, no longer opens up the RAW files. Sure, I can use the Digital Photo Professional, which comes with the camera, but the nifty "adjust and then batch process" is not in the DDP. (I can batch process, but can't gather all the files for batch processing, adjust individual files on the fly and THEN execute the batch processing command--which means that I either batch process the RAW files as they were shot, then adjust EACH JPEG afterwards, or tweak the RAW files by opening EACH individually .) In any case, in the past, I have always converted the RAW files using Canon software and then tweak JPEG files in Photoshop. The RAW editing feature in Zoombrowser was very convenient. That's a bummer! 
+Otherwise, this is a great camera!

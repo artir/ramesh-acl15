@@ -1,0 +1,21 @@
+ID: B001MS6NOG-RVKSXF38YX8N7-A3DVKMZ0RWFRN1
+Category: Laptops
+Product: Sony-VGN-FW373J-16-4-Inch-Processor-Blu-ray
+ReviewerID: A3DVKMZ0RWFRN1
+ReviewerName: G. Gulik "Riding the bleeding edge."
+Date: June 5, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Not bad for the money, but not perfect either
+Content:
+I bought this laptop to replace an older laptop that was just too slow for the applications I wanted to run.  I wanted a faster processor, more memory capacity, bigger hard drive and a big screen.
+The pros:
+The screen is beautiful, it would be nice if it was lit by LEDs to be thinner and for better battery life.  I don't mind tiny fonts at all as long as they are crisp and readable and that they are.  The PC is fast.  Vista was initially very slow but I upgraded to Windows Server 2008 and that felt considerably faster.  Once RAM prices come down a bit more I'll upgrade to 8G.
+The laptop is fairly thin and relatively light weight considering the screen size.
+The HDMI port is also nice.
+The cons:
+Why are all the USB ports in the wrong place?  They really should be further back and maybe on both sides.  I use an external mouse when at my desk and the ports are right where I like my mouse to be.  
+I use an external monitor to extend my desktop and I had a lot of issues with blue screens every couple days.  Sony tech support is completely useless.  I returned the first laptop for a new one only to find the new one had the same blue screen crashes in both Vista and Windows Server.  I later found that it's a known Vista issue that affects a lot of people.  I got a Toshiba Dynadock-U to add a 2nd video card that solved the issues acceptably.  
+The battery life is  barely acceptable.
+My co-workers laughed at me that I went through so much trouble with the video that I probably should have just bought a Mac that "just worked" and if I did factor in the hours I put in "making this one work" I probably could have justified the MacBook Pro.
+I've had two other Sony Vaio notebooks in the past that were great but this one was clearly an attempt to appeal to people that would otherwise buy a MacBook.  After this experience I think next time I'm in the market I'll just buy the real thing.

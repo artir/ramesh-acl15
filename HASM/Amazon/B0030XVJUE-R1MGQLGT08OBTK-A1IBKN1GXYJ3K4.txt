@@ -1,0 +1,15 @@
+ID: B0030XVJUE-R1MGQLGT08OBTK-A1IBKN1GXYJ3K4
+Category: Laptops
+Product: Pavilion-DV6-2190US-15-6-Inch-Laptop-Black
+ReviewerID: A1IBKN1GXYJ3K4
+ReviewerName: Dave
+Date: January 23, 2010
+Helpful: 12 of 14
+Rating: 5.0
+Title: Big performance bump over older DV6 line
+Content:
+Note: since I wrote a few reviews for some very simliar DV6 models Amazon has cross posted all those reviews.
+I posted a long review of the current crop of DV6-21xx series of notebooks here: HP Pavilion DV6-2170US.  The models are mostly the same with different CPUs (one has a discrete graphics chip).  All include the newest mobile processors from Intel which eclipse the older Core2 line in terms of performance.  Those with integrated graphics include Intel's new HD graphics which are also a big improvement over Intel's old 4500HD graphics (which are still inferior to discrete graphics chips from AMD/ATI and Nvidia when it comes to 3D gaming).
+One specific thing I want to highlight about this model is that the CPU is the Intel i7-720QM, one of the top performing notebook CPUs on the market.  With four cores running two threads each you computer can (if needed) act like a 8 core processor.  When not needed the extra cores shut down and the frequency goes up (part of what Intel calls "Turbo mode".  The downside is that the combination of this quad core CPU and the discrete graphics chip from nVidia will drain your battery much faster than a dual core CPU with Intel's integrated graphics (expect the battery to last 1-2 hours during typical use).  Unless you are a 3D gamer this is probably not the notebook for you.  If you are a 3D gamer the included nVidia 230M graphics chip will make 3D games at lot more playable.  For example Fear2 goes from 12FPS on Intel HD to 45FPS on the nVidia 230M at medium settings.
+The other thing to note about this model is that it has Gigabit ethernet (10/100/1000) whereas the dual core HPs have standard 10/100 ethernet.  Not something that matters to most people but I thought I'd mention it since it's easy to miss when you are comparing models.
+If you are really sold on this model but need better battery life you can buy a HP KS526AA 12-Cell Multi Battery for it and get another 1-2 hours of battery life.  It adds another $100 to your purchase price.  You can order direct from HP with this battery but I'm not sure if that gets you a better price (taxes, shipping, etc...) over Amazon or not.  It's worth pricing out.

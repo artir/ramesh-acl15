@@ -1,0 +1,20 @@
+ID: B002BH4Q82-RKPOYRIV5KUFM-A15DZK0I69HP0G
+Category: Laptops
+Product: Pavilion-DV7-2180US-17-3-Inch-Entertainment-Laptop
+ReviewerID: A15DZK0I69HP0G
+ReviewerName: Eric
+Date: October 1, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Awesome deal - really good gaming laptop
+Content:
+I use this laptop mostly for gaming and so far it's proven a solid performer. World of Warcraft runs lag free with the video quality set to ultimate (1x over sample) with the screen resolution set quite high 1900x
+Network setup was a breeze. The system connected to my Netgear  802.11G WAP with no difficulty. WPA+TKIP set up was also straight forward. Performance is at the limit of my ISP at 6GBps
+The system is fast, and I mean really fast. With 4 cores running at 2.0 Ghz this laptop can haul the mail (computationally speaking). Not a single game I've run on this system ran in anything other than high quality mode.
+One real bonus is the HDMI port. I connected the laptop to my Sharp Aquos 52" LCD HDTV and WoW was a blast to play. It looks awesome!
+The display is bright and sharp. Very high resolution but you must look at it nearly head on or it gets odd. The LCD finish is very shiny so if glare is a concern you may want to look at this unit in person before buying one.
+The eSATA port came in very useful for plugging in an external SATA drive (with appropriate enclosure). Backups are a snap. I also was able to hook up my Belkin gaming keypad and USB headset without issue. Ventrillo works fine (run as admin),
+The previous reviewers' comment on the touchpad seems off. I've been using the touchpad with no issues at all. The touch pad has a neat scrollbar area that you can use to scroll the screen and the normal mouse area. If you want to use a external USB mouse you can turn off the touchpad by pressing a button above the pad.
+The keyboard has a really soild quality feel to it. Not cheap feeling at all. Touch sensitive controls include Mute and volume. Standard CD type controls and a WiFi off control -you can turn off the wireless by touching the antenna light on the body of the using - nice.
+The hard drive is a bit on the slow side at 5400 RPM for a gamer but it's not too bad. Sound quality is good and a equalizer that is included in the audio driver lets you tweak the audio to your hearts content.
+In closing; this is a high quality laptop with a rich high-end feature set that would have cost thousands more only a few years ago. A definite "must consider" unit if you in the market for a new laptop

@@ -1,0 +1,13 @@
+ID: B000PHN1TU-R21BEXMZ91WH0N-AM3HO6QDILYSO
+Category: MP3Players
+Product: Creative-Stone-Player-Lime-Green
+ReviewerID: AM3HO6QDILYSO
+ReviewerName: Kent Kiefer
+Date: July 6, 2007
+Helpful: 1 of 2
+Rating: 5.0
+Title: A Great MP3 Player That Works Seamlessly With Windows Explorer
+Content:
+I have been waiting for a long time for a more mainstream, non-Mac MP3 player that would work with Windows Explorer.  This one is great.  I use it in my car. It is highly recommended.
+What baffles me is that no one seems to think very much of the fact that this player works seamlessly with Windows Explorer. Even Creative doesn't do much to advertise the fact. It is more than a matter of convenience.  It is a matter of principle. Countless MP3 services and MP3 player, CD, and DVD manufacturers think nothing of imposing needless restrictions on their customers.  This is how we end up with CDs, MP3s, and DVDs that we've purchased legally and cannot make copies of.  This is how we get DVDs that install malicious software on our PCs (thanks Sony). 
+The Zen Stone is untainted by any of this nonsense. You plug it in via usb, it appears as a new storage drive, and you drag MP3s onto it. It's as easy as that. It doesn't impose any DRM or format restriction. It is a pure, unrestriced computational process, which is exactly what it should be.

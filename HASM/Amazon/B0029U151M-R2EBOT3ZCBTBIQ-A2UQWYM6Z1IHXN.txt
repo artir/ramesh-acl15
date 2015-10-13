@@ -1,0 +1,23 @@
+ID: B0029U151M-R2EBOT3ZCBTBIQ-A2UQWYM6Z1IHXN
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A2UQWYM6Z1IHXN
+ReviewerName: IlovesAmazon
+Date: January 7, 2010
+Helpful: 
+Rating: 3.0
+Title: Love the build, but I've never felt not in control of a computer!
+Content:
+I've never purchased an acer computer before, only a scanner way back in the 90s.  I've always been good with Windows computers and I fix all of my family's computer problems.  This computer was the first time where I felt like I don't have control over one.  
+Literally, right on the 31th day of the amazon return period, my grandfather (who owns the computer) told me that the computer would automatically reboot about 10 seconds into loading the Windows desktop.  I funked around with it for a while and determined that a RAM stick went faulty.  From what I've heard, RAM is the least likely piece of hardware to break (and it's happened to me before on a Dell XPS.  In that computer, two went bad at the same time!).  So I ended up talking to outsourced technical support which is essentially only good for arranging shipments to a repair center.  
+They sent me back the computer and replaced the 2GB stick.  It's been working fine for now as I've installed a fresh copy of Windows 7 and went through the device manager to install the appropriate drivers from the acer website.  For now there are two issues that make me fear another breakdown.  First off, I don't know what this is due to, but sometimes it seems that Windows doesn't see or recognize the CD drive, and if you were to put in a DVD when the drive isn't recognized, (and attempt a restart because the laptop won't play the DVD), Windows gets stuck in an endless shut down cycle.  If you do manage to take out the DVD while its shutting down, the screen goes blank, but the computer doesn't restart and requires you to hold the power button.  The second issue, which 
+is more ominous, is that one time after waking up the computer from standby, there was graphics corruption similar to this [...]
+The video drivers are updated and when I had my memory issues I actually had graphics corruption similar to this.  Since the graphics corruption is here after the memory replacement, I'm worried this computer will need to be sent back.  Another thing you should know is that I can't do a BIOS update after installing Windows 7 because acer's update software is specific to Windows Vista.  I spoke to technical support and they told me many customers have been complaining so they're working on something (supposedly).    
+Short summary of issues:
+RAM failure
+Faulty DVD drive
+Graphics corruption
+BIOS update restricted to Vista
+No peace of mind...
+On the other hand, when the computer works, I thoroughly enjoy working with it.  It's got a nice keyboard and it's light and cool.  The contrast ratio is meh, but you could get pretty good skin tones with intel's graphics utility.  If you do get this PC, switch to windows 7 because though the core of it is the same as vista, the rough edges have been rounded and its a much better computing experience OS-wise.
+Hope this review helped!

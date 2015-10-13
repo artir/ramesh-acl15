@@ -1,0 +1,11 @@
+ID: B0000DAL8I-R1QPN9Q6ABY3N6-
+Category: Laptops
+Product: Toshiba-Satellite-P25-S609-3-00-GHz-Hyper-Threading
+ReviewerID: 
+ReviewerName: 
+Date: January 14, 2004
+Helpful: 6 of 7
+Rating: 4.0
+Title: Luggable Performance Star
+Content:
+This computer leaves me with some mixed feelings.  I am very happy with my previous machine T5005-S507 and have replaced it seeking higher speed, USB2, more memory and a larger display all of which are included in this machine.  In the area ofperformance it is hard to complain - faster memory and a subwoofer would have made the bundle even more impressive. I miss the XUGA display and the subwoofer availalble on the 5005. I am still trying to understand why they have brought back the parallel port but not the serial port.  My biggest issue is aesthetic.  Whereas the 5005 is such a good looking machine, the P25 is hard to get used to.  Why is the keyboard so small when there is all this space?  The use ofmetal is a nice touch but what is the idea behind the whiteplastic area around the keyboard and touchpad?  I also muchprefer the hard plastic exterior shell to the more matte finishof this machine.  In short I prefer the plastic used in the 5005case for its looks and finish.  The P25 has wisely made themove from Bluetooth to 802.11 and it has covered all the bases there impressively.Overall this machine is great in delivering exactly what it promises.  It is a luggable desktop replacement and you haveto understand the limitations of its size and weight.

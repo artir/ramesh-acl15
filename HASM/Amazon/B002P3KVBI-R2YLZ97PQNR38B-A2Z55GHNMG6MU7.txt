@@ -1,0 +1,22 @@
+ID: B002P3KVBI-R2YLZ97PQNR38B-A2Z55GHNMG6MU7
+Category: Laptops
+Product: Acer-AS1410-2285-11-6-Inch-Windows-Premium
+ReviewerID: A2Z55GHNMG6MU7
+ReviewerName: K. C. Wood "outdoors guy"
+Date: November 11, 2009
+Helpful: 8 of 9
+Rating: 4.0
+Title: very nice hardware, but acer fails on support and software
+Content:
+After my 4.5 year old PowerBook finaly became useable, I though long and hard about getting another one, But i just couldn't justify the price. For one quarter of the price I originally paid for the powerbook, this laptop does great, but it certianly doesn't have the polish of an Apple.
+The good:
+The 1.2 ghz processor (dual core) has plenty of spunk for all my tasks. There are other versions of the 1410 out there with a 1.4 ghz that is actually slower because it is single core. Intels naming conventions don't make it easy to figure out, but both these processors are way better than the Atom you fin in the netbook. I've output 1080p quicktime via hdmi to a flatscreen and it ran very smooth.
+The laptop is just to right size for carrying around all day, but still has a big enough screen and keyboard to actually be usefull for more than just chacking my email.
+I've gotten over 5 hours on a battery with the wifi off reading pdfs and listen to music. (note: the speakers are on the bottom and work well if it is siting on a hard surface, but you'll get almost nothing when it is on your lap.)
+Windows 7 is the best version of windows I've ever used, and feels very Mac OSX like. you canr ead reviews of Win7 elsewhere, but note that this computer has Home Premium, not Starter like the Atom-based netbooks.
+The Bad:
+The track pad is tiny and hard to use. This is part of the sacrafice of getting a tiny notebook, beacuse there is no way Acer could have made it any bigger. The multi-touch features make it a little more usefull, but don't even come close to the quality of apples track pads.
+THe keyboard is nice and I'm back up to about my old typing speed, but the flatness of the keys makes it a little bit hard to feel your way around, and the the keyboard has some flex.
+Acer's documentation is pretty much non existent. the box contains a quick start guide and a copy of the warranty. There is no disc with documentation or a recovery disc, although you can burn one with an external drive.
+Bloatware: The Acer comes preinstalled with all sorts of junk you don't need. I knew this coming in , but it was still annoying to have to spend time uninstalling everything. The biggest annoyance came when The Macafee Secuirty center downloaded an update for itself that conflicted with the computers power management and cuase it to freeze when going to sleep, I had to run system restore twice because, the software auto updated again after the restore, causing the same problem.
+Overall this is a well equiped laptop at a great price, and I'd recomend it with a few reservations about the bloatware and lack of documentation. But I saved $1200 over buying another apple so I will but up with a few hassles

@@ -1,0 +1,15 @@
+ID: B0033KELCM-RBP2VTX96RREN-AWPXFGOQ0PD4P
+Category: Laptops
+Product: Compaq-Presario-CQ60-615DX-Notebook-SuperMulti
+ReviewerID: AWPXFGOQ0PD4P
+ReviewerName: Hermes F. Rivera
+Date: January 13, 2010
+Helpful: 51 of 51
+Rating: 4.0
+Title: Excellent Budget Computer
+Content:
+Being a computer technician for the last 15 years, I am very picky when it comes to buying computers, especially laptops and even more special, laptops with Celeron CPUs. This is my very first Celeron laptop and I have to tell you that I am surprised and amazed at the performance of this particular Celeron. Todays Celeron CPUs are NOT the Celeron CPUs of 10 years ago. These new Celeron 900 are based on Core 2 Duo CPUs. They are exactly the same except for 2 things: They have 25% less Cache than their Core 2 Duo counterpart and they are single core, but that doesn't mean it's slow by any means. This laptop came with 2GB of RAM (I upgraded it to the full 4GB), a 15.6" HD LCD Screen, a 250GB Hard Drive running at 7200 RPM - yes you are reading right - 7200 RPM! - Most laptops out there have a 5400 RPM HD, including the more expensive models, so this is a real bonus. It comes with B, G, and N Wireless, Intel 4500 Graphics, 2 USB Ports and a DVD Writer.
+The performance of this laptop is quite good. Very fast booting up. Windows open smoothly. Tasks are handled quite well, even with 2GB of RAM. The 4GB of RAM makes things even better. The Celeron 900 2.2 GHz CPU inside packs quite a punch. Take a look at this benchmark:
+[...]
+It is by no means a weak processor. Overall this is a great laptop for $329.00 (BestBuy). Much better than a Netbook for sure (since that is what I was going to buy in the first place). Netbooks have no CD or DVD units, only 1GB of RAM, Slow Atom CPUs and 8 to 10 inch screens and cost over $350.00 (a good one). This laptop simply beats the netbooks in price, power and features. You will not be able to do serious video editing or play online games like Unreal Tournament 3, Crysis or things like that because of the limited video card, but hey let's get real, who uses a laptop to play games anyways? That's what desktops are for. If you are going to be mobile (traveling), going to school or simply work at the office then this is the perfect machine for you. If you are into web surfing, email and Microsoft Office and on a budget then look no further. For the price, you are getting a quality built machine with everything you need to do. All that and a little more. The components inside (motherboard and chipset) are all made by Intel.
+I highly recommend it.

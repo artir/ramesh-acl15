@@ -1,0 +1,18 @@
+ID: B002AULXHW-R18LXMIMB5JXDO-A6DUK3QKXVQFR
+Category: Laptops
+Product: Acer-Timeline-AS4810T-8480-14-Inch-Aluminum
+ReviewerID: A6DUK3QKXVQFR
+ReviewerName: drama "Aj"
+Date: February 25, 2010
+Helpful: 
+Rating: 4.0
+Title: Needs a bit of fine tuning
+Content:
+Pros
+1 Great specs at a great price
+2 Battery life of 5 to 6 hours 
+3 light & thin
+4 Decent screen &ergonomics
+Cons
+1 Does not perform well out of the box, needs bios/wifi updates, bloatware removal
+2 acer website is very confusing for picking up the right drivers etc

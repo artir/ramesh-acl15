@@ -1,0 +1,21 @@
+ID: B00061UHDS-R1ZE9HIMZ657MW-A1R0D48X7AB3HT
+Category: DigitalSLRs
+Product: Olympus-Evolt-Digital-14-45mm-3-5-5-6
+ReviewerID: A1R0D48X7AB3HT
+ReviewerName: Rolf Bertram "RolfBertramDotCom"
+Date: December 17, 2004
+Helpful: 33 of 44
+Rating: 4.0
+Title: Nearly Perfect
+Content:
+I compare the Evolt to the E20, which I owned for several years. In comparison, the Evolt looks like this:
+1) Very lightweight.
+2) Much higher dynamic range (in RAW), contrast, sharpness, shot to shot speed. No Photoshop sharpening required.
+3) The nice E20 Manual/Auto Zoom switch is missing, but can be programed on the OK button.
+4) Viewfinder shutter switch missing. Instead a tiny piece of plastic has to be slid manually over the viewfinder.
+Really superslow is the solution for viewfinder shutter, which was a switch on the E20. That was excellent if you use it every few second for tripod shots with wired remote. Taking 100 shots in one hour you can just use the switch 100 times to look through the viewfinder. The Evolt on the other hand requires to peel of the rubber ring from the viewfinder and slide on a tiny plastic cover, which also could drop and disappear in the sand in a millisecond. This procedure is not suitable for being done every few seconds over and over again. That limits my usuall way of shooting with a tripod and a wired remote, checking the viewfinder for every shot. This is not possible with this camera the way it comes. But I will make my own viewfinder cover which should be removable in a fraction of a second, and put on again also as quickly, without removing the rubber-eyepiece.
+The lens, when fully zoomed out, can be wiggled around for about 1mm in each direction up/down/sideways on the lens hood. This is also different from the E20, where nothing would extend when zooming. Everything happend completly inside and enclosed. I did not see any picture quality issues or dust-proof problems on the Evolt related to this yet.
+Olympus reduced the price compared to the E1 to half, in order to enter the amateur market. Therefore they had to reduce production cost and leave out some convenience features, like viewfinder shutter switch, manual/auto-zoom switch, basic information LCD on top of the camera.  But they still have dead pixel mapping in the camera menue, which is really good.
+RAW to 16bit TIFF conversion is at this point of time in December 2004 only available in the Olympus Studio Software.
+Rolf Bertram
+www.PhysicalSystems.com

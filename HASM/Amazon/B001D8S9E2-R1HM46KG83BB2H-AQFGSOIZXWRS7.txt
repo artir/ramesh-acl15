@@ -1,0 +1,22 @@
+ID: B001D8S9E2-R1HM46KG83BB2H-AQFGSOIZXWRS7
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: AQFGSOIZXWRS7
+ReviewerName: Your Role Model
+Date: October 21, 2008
+Helpful: 28 of 92
+Rating: 1.0
+Title: No FireWire Makes the new 'MetalBook' a Mixed Bag...
+Content:
+Well gosh, where to begin...
+In a few ways, the new aluminum MacBooks ('MetalBooks') are actually an improvement... the aluminum is IMO nicer-looking than the previous white plastic, there's a slightly more solid-feeling keyboard, a new LED-backlit glass (not plastic) screen, the trackpad now lets you use multitouch gestures (like the iPhone) for a few common functions, the whole trackpad is one big button now (some may dig that, some might not), and there's somewhat better graphics performance too (though still far from hardcore gamer standards). 
+Sounds pretty nice, right? But somehow, in a VERY puzzling decision, Apple managed to give with one hand and take away with the other, by eliminating FireWire from the new MetalBooks.
+Apple's removal of Firewire is a real (and very unnecessary) kick in the teeth, especially at the $1300 point (medium for *Apple*, but high for Windows switchers, who are about 50% of Apple's clientele these days). 
+Besides losing Target Mode and super-easy file migration, many ppl with expensive Firewire-only video cameras and/or audio equipment are being left in the lurch by this, and USB 2 and Firewire-to-whatever adapters/hubs are not real solutions, as they can't do all the things Firewire can. 
+These folks are stuck with either having to move up to the very pricey MacBook Pro (at $2000+), or settling for the old 'Plastic'Books, still around at $1000 with FireWire (though probably not for much longer).
+Some ppl will also dislike the lack of a matte screen option- while it's nice that the screen is now LED-backlit and made of glass, it's also verrry glossy now, with all the annoying glare and fingerprints that that entails. Also, the viewing angle is surprisingly narrow, and the screen doesn't have very good blacks or contrast, which is disappointing for a laptop in this price range.
+All in all, this is a quite pretty MacBook with some clever touches/minor upgrades, but one huge downgrade that did not need to happen, plus a less-than-stellar screen. 
+If all you plan to do with it is Internet, email, productivity apps and playing Starcraft 2 or WoW, then it's fine. But, isn't much of the reason why MacBooks are WORTH the price premium the fact that you can do darn near ANYTHING with 'em? Not anymore.
+At $1300, most 'prosumers' will be expecting a notebook that's a 'win-win', not a 'win-lose'. Sadly, that is what the new MetalBooks ultimately are. 
+Why Apple, why?  =[
+[Edit:] Also be aware that many users are noting problems with the new Macbook and MB Pro trackpads, such as not all clicks registering, the cursor repeatedly leaping off of selected items, etc.  Apple is now aware of this and is saying that a software fix is on the way, but it remains to be seen how effective it'll be. Another reason to wait, I guess.

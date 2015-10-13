@@ -1,0 +1,17 @@
+ID: B001NEJO18-R37M8C3AOFBZGE-A3MGQCHM5D0B7T
+Category: Laptops
+Product: Toshiba-Satellite-L355-S7902-17-0-Inch-Laptop
+ReviewerID: A3MGQCHM5D0B7T
+ReviewerName: D. Knowlton
+Date: September 10, 2009
+Helpful: 
+Rating: 2.0
+Title: Beware Toshiba Satellite Webcam
+Content:
+The model I bought (P205-S6297)is no longer available.
+However, I think all Toshiba Satellite laptops with Windows Vista may run into a similar problem.
+The built-in webcam stopped working at some point.  I'm not sure when, because I don't use it frequently.  It probably happened after a Windows update.
+Going back using Windows restore point did not fix it.  When I enable the camera I get an error message to "Please turn on the Camera".  Unfortunately there is no control to do that.  Doing an internet search shows many users get the same error.  The recommended solution is generally to reinstall the driver.  Doing that brings a new error message that Windows cannot install the driver.  So it's catch-22.
+Toshiba has no support.  They refer all to Microsoft.
+End result is total loss of use of the web cam.  I have wasted about 10 hours trying to fix this with no success.
+Otherwise, a nice machine, but I would never buy it again.  This is why Apple is a better integrated solution.

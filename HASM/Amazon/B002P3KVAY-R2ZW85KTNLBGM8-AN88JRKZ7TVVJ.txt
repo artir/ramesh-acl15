@@ -1,0 +1,24 @@
+ID: B002P3KVAY-R2ZW85KTNLBGM8-AN88JRKZ7TVVJ
+Category: Laptops
+Product: Acer-AS1410-2039-11-6-Inch-Windows-Premium
+ReviewerID: AN88JRKZ7TVVJ
+ReviewerName: Fabio Higa "Feh HKK"
+Date: January 2, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Fast netbook, well balanced and great price for the money
+Content:
+I got the 1.3GHz Celeron CULV version, with the following specs:
+- 1.3GHz single core Celeron CULV processor
+- 11.6" 1366x768 screen, LED backlit
+- Built-in Intel 4500MHD graphics accelerator
+- 2GB RAM
+- 250GB SATA hard drive (it's a Western Digital Scorpio Blue drive)
+- Wifi 802.11b/g/n
+- Windows 7 Home Premium 64-bit
+I had a previous model Acer Aspire One 8.9", and really needed more screen space. I wanted a netbook, without an Atom processor (the Atom is way too slow at least for my tastes), and that had a 1366x768 screen. This netbook had all the specs I wanted. 
+Thinking that 1.3GHz would be underpowered, I played with it for almost an hour in the store before actually buying it. It was really impressive that it actually performed faster than any other 1.6GHz Atom netbook I compared it to. I can play youtube videos full screen, although when switching to HD mode, it stuttered a bit.
+Windows 7 on this machine is really a pleasure to use. For the minimal tasks it's used for (Skype, Web Browsing, Office 2007, Youtube/Hulu videos) it has very, very acceptable performance. I think it is due to the fast hard drive it included, a 5400 rpm Western Digital Scorpio Blue (WD2500BEVT), which are known to be great laptop drives.
+The screen is very good, bright and easy on the eyes. I don't think a resolution less than 1366x768 would be acceptable for any netbook. Great improvement in terms of available desktop space compared to my smaller 8.9" netbook.
+In terms of battery life, upon doing the tasks I previously mentioned, with mostly web browsing and with the screen set at full brightness, it can do around 5 hours of use. Compared to my Aspire One's 1 and a half hours of battery life, this is a massive improvement.
+Very satisfied with Acer netbooks, they always deliver a great user experience, along with a great price.

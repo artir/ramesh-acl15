@@ -1,0 +1,11 @@
+ID: B00006CXS8-R63LZPUVJ50TT-A1SGZ4ZWW3LSFI
+Category: MP3Players
+Product: RCA-Lyra-RD1080-128-Player
+ReviewerID: A1SGZ4ZWW3LSFI
+ReviewerName: Travis Weston
+Date: January 3, 2004
+Helpful: 1 of 4
+Rating: 1.0
+Title: How?
+Content:
+The mp3 player itself is great so far but for the life of me i cannot figure out the software. It loads on my computer and it does nothing else. i cant put music on the player. the software asks me about &quot;drivers&quot; and things of that sort. what do i know about that.

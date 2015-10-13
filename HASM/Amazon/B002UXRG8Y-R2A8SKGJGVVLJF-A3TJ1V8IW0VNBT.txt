@@ -1,0 +1,42 @@
+ID: B002UXRG8Y-R2A8SKGJGVVLJF-A3TJ1V8IW0VNBT
+Category: DigitalSLRs
+Product: Olympus-E-P2-Interchangeable-14-42mm-Electronic
+ReviewerID: A3TJ1V8IW0VNBT
+ReviewerName: R. Kaufmann
+Date: December 14, 2009
+Helpful: 47 of 49
+Rating: 5.0
+Title: GREAT knockabout small camera
+Content:
+Bottom line: this camera represents a fantastic compromise between price, portability and picture quality.  For those who can't take their big DSLRs everywhere they want to take pictures, this is the best camera I've found.  Folks who are moving up from point and shoots should get a "real" DSLR as their move-up camera; this thing is really for those who already have DSLRs and looking for a great 2nd camera.
+Likes:
+Image quality, feel, size, weight.  Really, you get great pictures up to ISO 400 (and I'm picky), and ISO 800 is completely usable.  This is my replacement for a Canon G9, and this camera is just a little bit bigger and TONS better.
+This is a system with multiple manufacturers.  I'll be able to upgrade bodies and lenses from different companies without worrying about compatibility.  Panasonic may make a better body a year or two from now -- no worries, I'll just buy it and know my lenses will just work.
+The 14-42 lens is really sharp.  I've ordered the 45-200 and pre-ordered the super-wide 7-14 zoom.  They all weigh about a pound.  I also have a Gitzo Traveler.  My travel photo kit will be quite nice, small and light.  Ahhhhh!
+I synch external 3rd-party strobes at 1/320th of a second.  Very, very nice.
+The electronic viewfinder is bright and clear.  I really like the diopter correction.
+Just OK:
+The autofocus isn't as good as my prime DSLR (a Canon 1ds iii, so you know from whence I speak!), but is a heck of a lot better than normal point & shoots.  The autozoom function while manual focusing is a nice touch, but in moderated-to-low light is too noisy to get tack-sharp focus.  A "preview" button would be a nice workaround, but only if it was just used to temporarily freeze the zoomed view and show a quick focus check.
+Dislikes:
+As *everyone* says, you have your choice of one option at a time: strobe, electronic viewfinder, or external microphone connection.  Arghhh!
+The USB connector is some darned combo AV / USB thing.  It is NOT compatible with standard USB cables.  My suggestion: don't take the cable with you on the road, but instead use a separate card reader to download pictures.
+The battery it came with is lame.  Get a higher capacity battery for $9.  In fact, get two!  Maximal Power DB OLY BLS-1 Replacement Battery for Olympus Digital Camera/Camcorder (Black)
+I really wish they made a very little strobe for this other than the Olympus FL-14 Flash for Olympus E-P1 Micro Four Thirds Digital Camera.  The FL-14 is lame (no tilt or swivel, low power), but the FL-36R is too big.  The ideal setup would be to just use a wireless trigger and move the strobe off-axis.
+The user interface is a little weird.  I actually had to read the manual.  I suspect this is just because I'm a Canon-head, but be warned.  I'm getting used to it, which mostly means going into the secret setup menu (you have to turn on the detailed setup menu) and customizing things.  One strong suggestion: set Auto-ISO to 100-400.  No real penalty in picture quality at ISO 400, and you won't mind if the camera swings between 100 and 400 as it pleases.
+The user interface requires you to use the wheel often, e.g. to change the f-stop/shutter tradeoff in "P" mode.  It's way too easy to push on the ring and accidentally change a setting (e.g. ISO 100 --> 6400!).  This has happened to me a few times.
+The bracketing feature is useless for HDRs.  You only get to change by 1 EV; you need two or three.
+(In response to an excellent comment, here's a follow-up...)
+I agree that ISO 1600 is "really good," but in my opinion 400 is the highest ISO that maintains the best quality.  In fact, there's really no noise to clean up -- even in solid red areas of the picture.  800 and above, you're trading off quality for sensitivity.  I suspect we're really agreeing with each other, but I could have been more explicit.  So, here goes: this thing has near-DSLR image quality in a very small, nice package.  If you make huge prints, stick to 400 or lower (advice that's also relevant for all but the highest-end DSLRs); judicious use of Noise Ninja, et al, may allow you to push a bit past 400, but you're literally pushing your luck.  ISO 1600 is fine for smaller prints, and more than fine for web pages, etc.
+For the numerically inclined, here's the noise index from Noise Ninja:
+ISO  100   11
+ISO  200   14
+ISO  400   20
+ISO  800   28
+ISO 1600   46
+ISO 3200   99
+ISO 6400  148
+My rule of thumb: 20 and under is near-perfect, 20-30 is quite usable, and 40+ has issues.
+And since I've written my original review, I've come to appreciate the auto-tracking continuous focus mode.  I have my Fn key mapped to MF (manual focus), so I can bounce back and forth easily.  I sure wish the camera had a few more mappable buttons, though.  I'd really like to also get access to the white balance set command as well as the depth of field preview.  Oh, well.
+Also, I built a dual-illuminant DNG Color Profile for my E-P2.  Amazing improvement!  I was able to take a picture of the target on my LCD, bring the pic into Lightroom (where the profile is automatically applied), and then see that the colors of my displayed image exactly match the original.  Nice stuff.  Just google "dng color dual illuminant" to see how to do it.
+As you can tell from the above, I also built some Noise Ninja profiles.  Feel free to get them at [...]
+Finally, the nice guy who runs epaperpress made ptlens work with the E-P2 about an hour after I asked him to.  I highly suggest using ptlens from Photoshop to correct barrel distortion, etc.

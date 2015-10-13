@@ -1,0 +1,12 @@
+ID: B000X1PZYW-R2ZZ2TRUQE288-A2R77BP8GVDF9H
+Category: Laptops
+Product: Pavilion-dv6000z-RD167-3-Notebook-Sempron
+ReviewerID: A2R77BP8GVDF9H
+ReviewerName: Christian Baude "BoomBoom"
+Date: April 2, 2010
+Helpful: 
+Rating: 1.0
+Title: Black Screen - Overheat - Video Chip design
+Content:
+This is a HP fiasco. Refuses to repair the unit as it is "out of Warranttee". The issue is that the unit is basically designed to fail when OUT OF WARRANTEE.  Just Google: "how to repair dv6000 motherboard" and check out the site: [...]
+  THIS IS NOT AN isolated case.  Buy HP with a caveat.  My suggestion?  Buy ASUS, Lenovo, Toshiba ..... but NOT HP.

@@ -1,0 +1,11 @@
+ID: B000EPNDEG-RASTYPX1P1MQJ-A1AQ775BF309YI
+Category: MP3Players
+Product: Apple-Video-Player-Black-Generation
+ReviewerID: A1AQ775BF309YI
+ReviewerName: VENEZUELAN
+Date: January 16, 2007
+Helpful: 2 of 7
+Rating: 4.0
+Title: Can't recover your music if your hard drive fails
+Content:
+OK, Ok, you have all your music in your Ipod, that's ok, and it's logical, you have the same music in your Itunes in your hard drive. If your hard drive fails and you can't recover it, then if you install a new hard drive and install Itunes, when you plug your Ipod full of music to your computer, all the music will be erased, as the Itunes have nothing.

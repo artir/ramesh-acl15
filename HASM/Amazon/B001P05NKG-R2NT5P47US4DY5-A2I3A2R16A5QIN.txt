@@ -1,0 +1,30 @@
+ID: B001P05NKG-R2NT5P47US4DY5-A2I3A2R16A5QIN
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A2I3A2R16A5QIN
+ReviewerName: Bagpipe Player
+Date: February 4, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Ideal Compromise Between Power And Portability
+Content:
+I bought this computer to replace a 13" black MacBook that I had used for a long time. Needless to say, it was time for an upgrade. This computer was on sale at my university bookstore, the specs looked good and the price was right, so I picked it up. It was the ideal computer to meet my needs. 
+Pros:
+*Ultra portable: The aluminum unibody enclosure provide for a thin, sleek, lightweight laptop: weighing in at only 4.5 pounds and is slightly less than an inch thick. Easy to carry around, and won't make your arm tired doing it.
+*Plenty of power: At 2.53 GHz and 4 GB DDR3 RAM standard, this little notebook is a powerhouse, and actually is probably about as much as you can put in a notebook of this size due to heating issues. Nonetheless, this thing plowed through my long Mathematica and MatLab scripts without any problem, and ran several of my self-authored Python scripts and other mathematical routines without taking a performance hit (all running simultaneously), all while I was browsing the web and IMing at the same time the scripts were running. Final Cut, Aperture, and the iLife suite were handled like they were nothing. Blazing fast performance.
+*Backlit keyboard: The keyboard backlight is extremely bright. So bright you can see the letters clearly from the other end of the room. Definitely a plus in the dark. The keys feel just "right" with just the right amount of resistance before they bottom out. A pleasure to type on. 
+*Display: This display looks a lot larger than 13" to be quite honest. The definition is excellent and the colors are bright and vivid. The LED backlight provides a sharper image and more evenly lit screen, and consumes very little power.
+*Battery: Under the heavy workload I put it through, I still get 4 and a half hours of battery life out of it. It might not get the 7 Apple claims, but I highly doubt they test battery life under a heavy load.
+*Operating system: Of course I'd list this. Mac OS X is a far more enjoyable user experience than Windows or Linux either one. 
+*Trackpad: I love the "gestures" this trackpad recognizes, as well as the click anywhere. A lot of these were adapted off of the iPhone/iTouch, and it only makes sense they'd gravitate naturally to a laptop trackpad.
+*Ports: Firewire 800 was a blessing to have back. Addition of an SD card slot, and the video out for hooking up to an external monitor is quite nice.
+Now, some cons (and some are some of the pros listed):
+*Heat: The processor gets dang hot, even under a light to moderate load. Using a fan control application (free download, and it's called just that), I adjusted my upper and lower thresholds, and increased minimum fan speed to as high as it would go. This brought my CPU temperature way down, and when combined with using the computer on a cooling pad, it idles around 46C, under a load it pushes up to around 72C.
+*Issues with Flash player and Skype: It's no real big secret these two applications are resource hogs, hogging the CPU and also driving your temperature up. That said, Flash has never worked efficiently with Mac OS X (and as mentioned in my Snow Leopard review, this issue got worse), and Skype drives the CPU up to around 170% (dual core CPU can get up to 200% capacity) and well over 78C. 
+*Display: The glossy screen, though beautiful to look at and the colors and definition are there, has quite a bit of glare, which can be annoying. Also, 13" isn't enough real estate for serious graphic designers or gamers, nor is the particular graphics chip (NVIDIA 9400M).
+*Battery: Non-removable. A sacrifice for that additional battery life, however it costs $129 to have it replaced. That said, that's about what you'd spend on replaceable batteries as they wear out rather quickly.
+*Trackpad: Takes some getting used to. The click definitely works best toward the bottom of the trackpad, and so I always click there. 
+*Ports: 2 USB Ports really isn't much considering that's now the universal standard for peripherals (you can get a hub though).
+*No Blu-Ray drive option: Let's be honest, this would be nice. I don't use it myself so it's not a big deal for me, but it would be a nice addition.
+Bottom line:
+This is an economical, yet powerful laptop that will meet the needs of a wide variety of users. Given the small price differential, it's now definitely worth it to step up to the MacBook Pro line over the standard MacBook line. It handles everything I throw at it and then some, and though it might not be the perfect machine (of course I would argue no machine is perfect), the power, portability, and features of this machine make it the standard in its class.

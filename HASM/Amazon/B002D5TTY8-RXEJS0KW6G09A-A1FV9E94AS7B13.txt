@@ -1,0 +1,84 @@
+ID: B002D5TTY8-RXEJS0KW6G09A-A1FV9E94AS7B13
+Category: Laptops
+Product: Lenovo-Ideapad-Y550-15-6-Inch-Laptop
+ReviewerID: A1FV9E94AS7B13
+ReviewerName: Nan Chen "cinneaste"
+Date: October 24, 2009
+Helpful: 8 of 9
+Rating: 5.0
+Title: Satisfied with product
+Content:
+First of all, I didn't purchase the laptop through Amazon. I got it
+from Lenovo's website. Having heard good things about the company and
+read some good reviews of their laptops, I decided to check them out
+when I needed a new laptop. I've had my Y550 for 4 days and will post
+updates if things change for the worse but so far so good.
+The specs:
+Intel Duo P8700 (2.53 GHz)
+4GB of DDR3 memory
+500 GB HDD
+Standard integrated graphics card
+Blu-ray optical drive
+The price was very good. I couldn't find a better deal (about 900
+bucks after the ecoupon) for such a powerful machine with a blu-ray
+option.
+The first thing I noticed after setting up everything was the
+beautiful, bright, and crisp screen. It is a full HD screen and
+it is wide/squat (1366 x 768), great for watching movies. The screen
+is bright, crisp and glossy but has very little glare. It really does
+live up to the hype I've heard about it though I do wish that Lenovo
+offered a higher resolution screen option (like a 1920 x 1080). After
+seeing a blu-ray movie on it, I came away not disappointed that I paid
+the extra 150 bucks for the blu-ray option.
+The setup was easy and the software gives you the option of deleting
+all the bloatware that it comes standard with. (It took me about 15
+minutes to deselect all the bloatware) I only selected two of them to
+run on my computer as the rest was useless junk that will slow
+everything down and I suspect useless to most people too.
+Performance: The computer is quite fast so for my needs (email, net
+surfing, word processing, etc), it is more than sufficient. The
+computer has the newer DDR3 memory making it even a little more
+impressive performance wise.
+Looks: It has a beautiful design with black carbon-fiber shell and
+white palm-rest. The idea is to make the laptop light (it is just over
+6 lbs, and only 1 inch thick(!) which for a laptop this size, it
+really is among the lightest and thinnest.
+Sound: The speakers are pretty good. It has a subwoofer and two JBL
+speakers that, for a laptop, gets decent sounds.
+Cool factor: The Veriface security software works very well in
+allowing one to use one's own face to log in (the computer's camera
+scans your face and logs you in when there's a match to saved images
+of you) and only takes a few seconds to set up. No problems yet with
+it and it works like a charm. The carbon-fiber shell, though not
+fingerprint proof, will make cleaning them off easier; just wipe once
+with non abrasive cloth and they're gone. The Touch Inductive Panel
+above the keyboard is pretty cool but only a little better than being
+useless as far as I can see. The touchpad allows for expanding/shrinking 
+text size by sliding two fingers apart or together.
+Batteries: There are several energy settings. Since this is a powerful
+laptop and has a relatively large screen, it doesn't do well at all on
+the highest setting unplugged as to be expected. But on the lowest
+energy-saver setting (Super Energy Saver), you could probably get a
+little over 3 hrs of internet surfing, email, etc. and about 2- 2.5
+hrs of watching movies. But who wants to watch a movie on such a low
+setting? The bright LED screen makes viewing a pleasure but on the
+lowest settings, you will not get nearly as much image quality. So
+this laptop is more like a desktop replacement in that area but get's
+OK battery mileage for simpler functions.
+Negatives: 
+-The thing only has two USB ports (Plus one eSATA port). For
+a laptop with almost a 16 inch display, it should have more.
+-Like I mentioned, Lenovo doesn't offer a 1920 x 1080 display
+option. Watching blu-ray on a system like that with this type of
+screen would have been incredible I'd wager.
+-Like some other customers have mentioned Lenovo's customer support blows. I emailed them with some simple questions about my order and could not get a satisfactory answer. The answer they did give me was wrong as I later found out doing my own research. But since this has nothing to do with the product, I didn't deduct my rating on this account but the customer should be warned. Also, if you are buying from Lenovo's site, make sure you look into all the offers they have on sale such as the ecoupons they have scattered (hidden from view?) about on their site. You need to enter the code on the order page for the coupon when you order to get the discount. I got a 12% "employee discount" that cut the price of my laptop by 120 bucks but I had to dig through the site to find it. They sometimes also offer free shipping but search/hunt down and read the disclaimers (they don't offer this for several states). The Lenovo website was pretty disorganized and confusing.
+-There's a lot of bloatware that comes installed on this laptop. Like I
+said, remove as soon as possible because they are mostly crap and will
+slow your computer down.
+-The laptop doesn't come with backup software. Instead, it has a "One
+Key Restore" function. I've had to use this function when I
+accidentally uninstalled some good software that I wanted. I'd like to
+have backup software, still.
+-The touchpad takes little to get use to but that's not too much of a problem.
+Overall, the computer has lived up to my high expectations and surpassed
+them a little too!

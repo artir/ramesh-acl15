@@ -1,0 +1,18 @@
+ID: B001PF095K-R3HEZRKYXOP980-A3AOC90J4BAXH3
+Category: DigitalSLRs
+Product: M1031-W-Network-Camera-Small-Indoor
+ReviewerID: A3AOC90J4BAXH3
+ReviewerName: Harry P. "Harry P."
+Date: March 10, 2010
+Helpful: 0 of 1
+Rating: 1.0
+Title: Product drops network and Axis' customer service is unacceptable
+Content:
+I purchased this product on Amazon in Early Feb 2010 and I followed all instructions trying to install it. That's when all the issues started. 
+1) Camera was not detectable on my wired or wireless network so I decided to call AXIS customer service. Note that they do not show their customer service telephone number anywhere on their site and I had to Google it. After waiting for 40' someone picked the phone up and helped me fix the issue (after spending another 45' on the phone with him) by resetting the camera multiple times.
+I hanged up thinking that the camera works.
+However, 5' minutes later my network dropped. I reset the network and a few minutes later it dropped again. (My wireless network has dropped 2-3 times in the 6 years that I have had it set up) To make the long story short, the network kept dropping because of the camera. Once I disconnected the camera, the network was working flawlessly. 
+2) I contacted AXIS customer support again and after about 20' someone was on the phone helping me adjust the camera properties. We hanged up 1hr later (i had to restart camera, network, and desktop multiple times) thinking that the network and the camera works. However, a few minutes later the network dropped again. I contacted AXIS again, and they blame my network instead of the camera.
+To test their claim but mostly also to cover my immediate need for a WiFi camera, I purchased a Panasonic BL-C230A and both the camera and the network work flawlessly since then, without any assistance by any customer service dept.
+After identifying that my network is fine, I contacted AXIS to return the product and they say that it's my network's issue and not the camera's, when obviously there is nothing wrong with my network. I contacted the seller (Gizmosforlife) and they say that they cannot do anything. Next thing I am gong to do is contact Amazon directly.
+HOWEVER, I would not recommend this product or any Axis product, based on their customer service by denying that the product works perfectly. My Panasonic works fine, and if you can save yourself time and frustration, don't risk with Axis. Buy another brand.

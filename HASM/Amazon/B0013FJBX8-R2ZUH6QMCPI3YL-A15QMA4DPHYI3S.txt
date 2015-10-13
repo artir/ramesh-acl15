@@ -1,0 +1,14 @@
+ID: B0013FJBX8-R2ZUH6QMCPI3YL-A15QMA4DPHYI3S
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A15QMA4DPHYI3S
+ReviewerName: Anthony "Life is a sport.  Reap the rewards."
+Date: December 8, 2008
+Helpful: 1 of 4
+Rating: 4.0
+Title: WIndows runs better....
+Content:
+Windows runs better on this Macbook Pro than on that old Dell I have at the office. I installed Windows XP to run natively and reinstalled my office apps (Word, Powerpoint, etc.) and have not had a crash in two weeks. On my Dell laptop, I was calling customer service at times as much as twice a week to track down driver issues and bugginess with their built-in graphics processor. 
+This thing is rock solid, both in terms of Mac OS X (10.5.5) and the well designed construction of the hardware. Can't believe I ever put up with a PC laptop for so long! 
+Would have been nice if Apple included a Firewire 800 cable or even the mini-display port-to-VGA connector for the $2000 price tag, but Apple is irritating like that. They don't even ship the Apple Remote with their computers anymore. 
+Fast. Solid construction. Highly innovative technology. Well worth the investment.

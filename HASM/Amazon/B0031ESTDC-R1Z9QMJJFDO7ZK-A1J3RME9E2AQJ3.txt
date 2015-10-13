@@ -1,0 +1,15 @@
+ID: B0031ESTDC-R1Z9QMJJFDO7ZK-A1J3RME9E2AQJ3
+Category: Laptops
+Product: Toshiba-Satellite-T115D-S1125-TruBrite-11-6-Inch
+ReviewerID: A1J3RME9E2AQJ3
+ReviewerName: niteshade
+Date: April 2, 2010
+Helpful: 3 of 3
+Rating: 5.0
+Title: A good compromise between size and power
+Content:
+This is a really nice machine; it strikes a good balance between being compact and powerful.
+It's not the most powerful thing out there, but it does have a dual-core 64 bit processor; nothing to sneeze at.  I was able to run basic Photoshop tasks without a blink, and [...] worked just fine, under Windows 7 and Ubuntu Linux.  When I pushed it a bit more, doing some graphics programming, it did start to choke a little, but then again I was running a 32 bit Linux.  So, although I didn't test, I imagine it could run 3d games, but probably with any effects turned off.
+So, it's powerful enough to do actual work.  I think it's main selling points are the full-size keyboard and the desktop-class resolution monitor.  This machine does not feel cramped, but it's still very light and small.  I like the HDMI and VGA outputs and three USB slots... this would be the perfect computer to surf the web on the couch one day and do an office presentation on the next.  Oh, and the SD card slot is an eye-opener... I'll never buy a computer without one again.
+My only beef is the trackpad is a bit miniature, and maybe a little overly sensitive.  The buttons basically make you use two hands.  I would give this computer 4.5 stars if I could for this reason.  Anyways, I usually use a mouse, which makes this problem go away.
+Build quality seems good... the machine is rigid, and feels like it can take abuse.  Finger prints do show up like crazy on the glossy black surface, though, so be warned.

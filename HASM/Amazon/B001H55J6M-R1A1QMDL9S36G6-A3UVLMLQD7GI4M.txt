@@ -1,0 +1,18 @@
+ID: B001H55J6M-R1A1QMDL9S36G6-A3UVLMLQD7GI4M
+Category: Laptops
+Product: Lenovo-IdeaPad-13-3-Inch-Processor-Premium
+ReviewerID: A3UVLMLQD7GI4M
+ReviewerName: S. Basu
+Date: February 22, 2009
+Helpful: 7 of 7
+Rating: 3.0
+Title: Nice package with a couple of issues
+Content:
+I liked this product very much on paper. when I received, it was pretty much what I expected except a couple of issues:
+1. The wifi connection was getting disconnected intermittently. Calling Lenovo they advised to uninstall Lenovo's wifi software (I forgot the name!) and use the Vista's built-in one. It has not given any problem since then.
+2. The sound volume is VERY low. Even with a headphone without additional volume control, it can be just enough at the top volume. I wish with a BIOS patch they will fix it.
+3. It took time to understand and calibrate the running time on battery. When all of the apps closed with Outlook, one browser window/ tab (either IE or Firefox), lowest screen brightness, and in Powersave mode I am getting about 4 hrs 20 min consistently. I think that is acceptable.
+4. The locations of the 2 USB ports are odd and affects your mouse handling.
+5. Swapping the locations for the Function and 'Ctrl, Alt and Windows' keys is difficult to operate and prone to repeated mistake. 
+I like:
+1. Lenovo service. Called twice and got a real person without a maze of question answer session with automated response system. That is one reason I changed my last 12 years loyalty with HP.

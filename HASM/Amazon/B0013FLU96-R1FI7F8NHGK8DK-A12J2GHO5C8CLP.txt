@@ -1,0 +1,11 @@
+ID: B0013FLU96-R1FI7F8NHGK8DK-A12J2GHO5C8CLP
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A12J2GHO5C8CLP
+ReviewerName: R. Parzoch
+Date: September 6, 2008
+Helpful: 1 of 39
+Rating: 1.0
+Title: Promises a lot and delivers headache
+Content:
+I bought MacBook Pro from Newegg and it came with obsolete operating system and without support. It took three days to resolve support problem and update operating system. IMovie crashes repeatedly. The worst thing is that when it does you have to wait up to an hour for the system to go through its paces to do anything else. Generally there are delays in any application and one never k nows if the system got stuck or it is doing something. Most of the time there is no indication what the system is doing. I do not think I will ever buy another Mac again.

@@ -1,0 +1,13 @@
+ID: B001LUYT8W-RV0N7TE5MXW2U-A18FVZWJ4RBGNH
+Category: SpaceHeaters
+Product: iheater-IH-1500B-Quartz-Infrared-Portable
+ReviewerID: A18FVZWJ4RBGNH
+ReviewerName: Christopher Chirdon
+Date: February 8, 2009
+Helpful: 28 of 49
+Rating: 1.0
+Title: Remember, it's only ~1500 Watts
+Content:
+It states that it opeartes at a max of 1483 watts.  Efficiency aside, that's about the same output as most hairdryers.  And that's about all the heat it -can- put out.  1500 watts is 1500 watts.
+HOW TO TELL IF THIS PRODUCT WILL DO WHAT YOU WANT IT TO DO:
+Find a 1500 Watt hairdryer, turn it on, and hold it in the room and see if the ambient temperature gets where you want it.  If after 45 mintes the hair dryer has not heated up the room in question, then neither will this heater.

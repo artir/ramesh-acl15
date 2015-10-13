@@ -1,0 +1,12 @@
+ID: B0002SP6AE-R1PRQ0SUMU0Q50-AW86G7FF470W9
+Category: SpaceHeaters
+Product: Hunter-44110-Save-Programmable-Thermostat
+ReviewerID: AW86G7FF470W9
+ReviewerName: J. Lane
+Date: April 19, 2010
+Helpful: 
+Rating: 3.0
+Title: Misleading
+Content:
+When the description of the thermostat says that it can be programmed for "every day of the week," that does not mean than there can be a separate cooling and heating program for each day of the week.  The thermostat can be programmed so that there are separate heating and cooling programs for weekdays (MTWThF) and others for weekends (SaSu).  The weekday heating or cooling program must have 4 settings for a 24 hour period and similarly for weekends.  For example for either heating or cooling, it can be set for one temperature from 6 AM to 8 AM, another for 8 AM to 5 PM, another from 5 PM to 10 PM, and a fourth from 10 PM to 6 AM.  The times at which it switches temperatures can be adjusted.  To change from the Heating programs to the Cooling programs, you move a switch from "Heat" to "Cool."
+If the programming limitations suit your weekly schedule, then you will probably be happy with this thermostat.  We have had ours for over a year and have had no problems with it.  Installation for our all-electric system was fairly easy.  Based on our power bill, the thermostat has saved us money.

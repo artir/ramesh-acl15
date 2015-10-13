@@ -1,0 +1,15 @@
+ID: B00006WNOQ-R2VKN22VMMP7B4-A26HKI4MS1QK9V
+Category: SpaceHeaters
+Product: Honeywell-HZ-315-Ceramic-Heater
+ReviewerID: A26HKI4MS1QK9V
+ReviewerName: Prinado
+Date: February 9, 2005
+Helpful: 15 of 20
+Rating: 1.0
+Title: worthless
+Content:
+Wow, what a fine example of terrible engineering. The only control is a knob that ranges from OFF to SUPER. To set the thermostat, you  turn the knob to the SUPER setting. When the room reaches a comfortable level, you slowly turn the thermostat down until the heater goes off. This is the point at which the thermostat setting equals the room temp. At this setting, the thermostat will automatically turn on and off to maintain the selected temp. 
+This design sets the stage for a frustrating user experience: 
+- By design, you must turn the thermostat to the highest setting, then WAIT FOR THE ROOM TO HEAT UP before fiddling with the knob until the unit clicks off, at which point you end up turning it up a bit until it clicks on (if it does). Its like trying to adjust your home's thermostat in the dark...just show me where to set the dial for 68 degrees and let me get on with my day. 
+- when the heater is working as designed, it turns on for 30-60 seconds, turns off for 10-90 seconds, then repeats the cycle relentlessly and unpredictably until you unplug it, let it cool, box it back up, and send it back. 
+I want a refund, reimbursement for lost productivity, and an ice cream sandwich.

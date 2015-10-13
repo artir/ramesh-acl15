@@ -1,0 +1,11 @@
+ID: B00006HYWR-R3LESYYW7QW2TL-A2LCI8S4XTSST
+Category: MP3Players
+Product: Creative-Labs-NOMAD-MuVo-Player
+ReviewerID: A2LCI8S4XTSST
+ReviewerName: Sarah M.
+Date: April 6, 2003
+Helpful: 3 of 4
+Rating: 1.0
+Title: This player is absolute junk
+Content:
+I bought the 64MB MuVo and initially it worked great.  It's true that you can get it running more quickly than most MP3 players because you don't have to install special software.  However, the player stopped working when I tried to put a new album on the player.  At first I thought it was the copy protection that Windows Media player enforces by default, so I turned that off.  Still, the player would only play the first couple seconds of the first song before turning off.  Since then I've tried everything--different MP3 formats (bitrates), WMA, copy protection on/off, reformatting multiple times, being ultra-careful about copying files onto the player (not dragging multiple things at once), etc. etc.  This thing is just a major piece of [poo] and won't even turn on.  As others have noted, the USB portion seems to work ok, so the memory portion is solid.  I know this because I can play the music from the USB drive on my PC.  But the player itself...either won't turn on or won't stay on for more than a few seconds.  All this with multiple brand new batteries.  The WORST consumer electronic item I have ever purchased, even worse than my Lexmark Z32 printer.

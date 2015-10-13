@@ -1,0 +1,15 @@
+ID: B00066EK36-RNBDJ76WV564W-A2UY40T5NQJBY
+Category: MP3Players
+Product: SanDisk-256-MP3-Player-Red
+ReviewerID: A2UY40T5NQJBY
+ReviewerName: Keith E. Hocker
+Date: February 3, 2005
+Helpful: 3 of 4
+Rating: 4.0
+Title: Nice little device! Does it freeze up on you???
+Content:
+I got this because I was attracted to the reasonable price. I don't need a ton of memory; don't even need a stellar fidelity experience.
+I looked for shuffle play, which this player is capable of. However, when I loaded it up with files, it froze up after about three songs! And removing the battery is the only way to reset it. This is not good, and I thought maybe I made a mistake with my purchase. HOWEVER, I THINK I know how to get around the freeze ups until this is fixed. So I wrote this review. Here's what I recommend to stop the 'freezing' (hopefully I'm not writing too soon!):
+1) Turn OFF the repeat function when using SHUFFLE mode. When repeat is turned ON, you'll see an arrow pointing right over the DIR or ALL or 1 song and another arrow pointing left - indicating it'll go back and play them again. So make sure it's OFF. The firmware has internal memory. I suspect that the system overloads when it tries to keep track of which songs have already played AND attempts to repeat the whole set. If repeat is turned OFF, the unit appears to handle this tracking better.
+2) Put all the songs in one folder. (I know some may not want to do this, but it has worked for me so far.)
+If this solution works for the long term, I'm satisfied with my purchase. It makes a good first MP3 digital audio player!

@@ -1,0 +1,25 @@
+ID: B002ONCDSI-R2OJQ6405B4R3I-A5BXE1MN34ARB
+Category: Laptops
+Product: Pavilion-DM3-1040US-13-3-Inch-Windows-Premium
+ReviewerID: A5BXE1MN34ARB
+ReviewerName: miko
+Date: January 6, 2010
+Helpful: 4 of 4
+Rating: 4.0
+Title: Five stars without the HP bloatware
+Content:
+I've had this laptop for a week and I'm loving it.
+Pros:
+  - Light and good looking, great keyboard.
+  - Price... I got this for under $[...] with rebate.
+  - Fast... despite the 1.3GHz processor this machine is faster at image processing than my older 1.6GHz laptop and as fast as my 2.3GHz desktop, both running XP. Probably because 64-bit Windows 7 is able to utilize more RAM (expandable to 8GB). No problems running multiple apps.  
+  - All day battery... carrying the cord to work is no more. Runs cool and quiet.
+  - Beautiful display
+  - Feels solid.
+  - No optical drive--let's speed the obsolescence of these bulky, heavy, battery sucking things.
+  - Windows 7 is great, though avoid Live Mail and IE, which seems to get worse every release. Thunderbird and Chrome.
+Cons:
+  - Ships with a bug in the Intel power management that causes screen brightness to fluctuate on battery power. This has to be disabled or manually fixed with a download. Scary and inexcusable out of the box problem..
+  - Touch pad sucks miserably--it must have taken months of redesign and engineering to make a simple touch pad suck this much. But I use mainly keyboard shortcuts or a cordless mouse, so no big deal for me.
+  - Battery does not fit in completely snug, causing an annoying click when carrying it, and detracts from the "solid" feel.
+  - MASSIVE HORRIBLE BLOATWARE AND GARBAGE SOFTWARE INSTALLED BY HP. They have installed all these ridiculous things that perform normal Windows functions but with three times the effort and ten times the fanfare, as well as gigabytes of trashy games, useless entertainment software, who knows what else. Tempting to just do a fresh install of Windows from the recovery partition, but I suspect it is rigged to reinstall all the HP crap. This is the only reason I didn't give this 5 stars. The computer must say "HP" on it a dozen times, between all the stickers and logos--no need to vandalize the OS as well.

@@ -1,0 +1,14 @@
+ID: B002LEVGMO-R1ACL6QNDC15NK-A3SGIU7XABQF44
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A3SGIU7XABQF44
+ReviewerName: MBA Student
+Date: October 16, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Five stars now that I got replacement
+Content:
+Just want to mention since I saw the recent review about the faulty fan, I got my 1410 today and sure enough LOUD buzzing fan noise. Replacement is on its way. I was involved with the faulty trackpad problems on Toshiba's new Mini (Toshiba acknowledged manufacturing process problems, so returned it) and hope that we don't have a mfg problem here also. Everything else on the 1410 looked amazing, beautiful screen and keyboard. Build is a little more plasticky than the Toshiba, and the trackpad is noticeably smaller, but everything else blows other netbooks out of the water, and it is about the same size and weight. Amazing! I'll post more when the replacement arrives.
+UPDATE: Ok, replacement came and is very quiet. Whew. Everything is beautiful, especially the screen, which is like a bigscreen tv compared to the 1024x600 netbooks. One small complaint is the unbelievable amount of junk software that begins installing itself, scanning your hard drive, hawking upgrades, etc, as soon as first boot up, making the computer unbearably slow. But I guess all those companies and their adware are helping to subsidize the great price for such good components. 
+Easiest way to get rid of all the performance-choking bloatware? Aha, just clean install a fresh copy of BLAZING FAST 64bit Windows 7 of course. 7-64bit won't "upgrade" the 32bit Vista that comes pre-installed, but you can boot with the installation disk and do a custom clean install to take full advantage of your 64bit chip. Acer is only including a free upgrade to 32bit W7, which is fine also, but as a student who can get Windows 7 Ultimate for close to free (through the school's licensing agreement), I am very excited to take advantage of the 64bit chip with 4gb of RAM!
+What a great package! 64-bit Windows 7, 4gb RAM, big hard drive, big screen, digital out, on and on. I'm very happy with this purchase.

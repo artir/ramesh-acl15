@@ -1,0 +1,11 @@
+ID: B0015YUMEY-R2NAT169ETYRCD-A1RVQV0GGQ0HRZ
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A1RVQV0GGQ0HRZ
+ReviewerName: James Cox
+Date: October 1, 2007
+Helpful: 8 of 9
+Rating: 5.0
+Title: Best notebook I've ever used
+Content:
+I've used many high-end notebooks over the years during my electrical engineering career.  Of course, being in engineering meant using Thinkpads and such running WinXP.  I've recently gone out on my own as a contractor and I bought myself a MacBook Pro C2D 2.2Ghz instead of a WinTel notebook.  This is definitely the best of both worlds.  I have MacOS X for Mail, Calendar, web surfing, documentation and any graphical work.  I've installed Fusion for the few things that are WinXP-only or Linux-only.  My wife has the previous generation MBP C2D 15".  The current version definitely has a better LCD display (now LED backlit).  The only thing a Thinkpad has an advantage on is the higher resolution 15" displays.  However, I believe the Mac's build quality and bundled software outweigh having a few more pixels.  Also, I bumped the memory to 4GB with no problems.  I couldn't be happier!

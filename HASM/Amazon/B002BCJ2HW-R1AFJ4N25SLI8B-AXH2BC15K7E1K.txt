@@ -1,0 +1,15 @@
+ID: B002BCJ2HW-R1AFJ4N25SLI8B-AXH2BC15K7E1K
+Category: Laptops
+Product: Acer-Aspire-5335-2238-Widescreen-CineCrystal
+ReviewerID: AXH2BC15K7E1K
+ReviewerName: D. Blickstein
+Date: August 23, 2009
+Helpful: 1 of 1
+Rating: 3.0
+Title: Great value, but not ideal
+Content:
+This PC is a great value for the price it's selling at these days.
+It's fairly high powered within its price-range, and unlike a lot of low-end laptops, this one has a great feeling keyboard.   Even better yet is the fact that the keyboard comes with a (numeric) keypad.   You usually don't see that on laptops this size and for some of the applications I use (particularly remote hosting to server systems and financial programs), it's great.  One draw-back however is that it means that the main keyboard (non-numeric) is a bit smaller than normal and I do notice this although I think you can easily get used to this.
+It also has a dedicated $ (and euro) key, although I'm so used to shift-4 I don't see myself as using it for anything other than one-hand typing.
+I'm not crazy about the placement of certain keys (PgUp, PgDn, Home, End, arrows).
+One thing I found VERY VERY annoying is that there are no USB-ports on the right-hand side of the unit.   This means that your wired mouse has to be plugged into the left-hand side and most of the length of the wire is wasted running to the other side which gives you less options.  (This is all assuming you use your mouse with your right hand.)

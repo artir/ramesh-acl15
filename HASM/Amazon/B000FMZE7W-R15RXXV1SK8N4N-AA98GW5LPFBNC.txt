@@ -1,0 +1,17 @@
+ID: B000FMZE7W-R15RXXV1SK8N4N-AA98GW5LPFBNC
+Category: MP3Players
+Product: Zune-Digital-Media-Player-White
+ReviewerID: AA98GW5LPFBNC
+ReviewerName: JOEKC "JKC"
+Date: December 28, 2006
+Helpful: 
+Rating: 5.0
+Title: Excellent hardware . . .software needs work
+Content:
+I am writing this review in two parts, because I feel the software should be reviewed separately from the hardware.  Why?  Because very few reviewers factor in Itunes when reviewing the Ipod, so I feel it's only fair to evaluate the hardware, which mostly will stay the same, separately from the software, which (hopefully) may be changed a lot.
+I currently own an Ipod Gen 4 and my wife has the newer video Ipod.  The Zune beats the video Ipod.  I won't bother re-hashing what others have said.  My primary interest in the Zune was the larger, better proportioned screen.  I make videos and slide shows and they look great on the Zune.  Also, the sound seems better and I can get somewhat higher volume from it.  The radio works beautifully and I live outside of a large city.  It's kind of fun to see the additional data the stations broadcast.  A few stations actually display the song/artist, while others just "promote" the station.  But it's cool to see and the display is vivid and crisp.
+Setup was reasonably easy, although I made the mistake of opening another program during the install and the install had to be restarted . . . which brings me to the software:  It's not so good.  Of course it's functional, but the interface is non-traditional and non-intuitive.  I'm still not sure I understand everything about it, and it's often slow to update.
+I have hope that after reading enough bad reviews Microsoft will re-think the non-traditional interface.  It's puzzling, and I've taught multimedia production at the college level.  I have a strong dislike for programs that work outside the standard Windows interface.  They may look pretty, but form follows function and you'll often find yourself staring at the computer screen trying to figure out what exactly is going on.
+So why five stars?  The hardware is top notch.  If I factored in the software, I would have to lower my rating, but I'm not going to do that.  I also feel I should try to average out the ridiculous "one star" reviews from Ipod fanboys who have obviously never even picked up a Zune.  (Amazon should dump such "reviews." IMHO)  And if you think I can't be harsh in my reviews, check out what I have to say about the Zune Car Pack.
+In fact, the Zune is a well-made piece of hardware.  It does not feel junky or cheap as a previous reviewer said. It looks great, sounds great and does a super job with my videos.  Will it ever be an Ipod killer?   Probably not, but the competition will be good for Microsoft and Apple and the consumers will be the eventual winners.
+(One other thing.  If you're using Vista, the latest software/firmware upgrades during installation will give you compatibility.  You can download directly from Microsoft.)

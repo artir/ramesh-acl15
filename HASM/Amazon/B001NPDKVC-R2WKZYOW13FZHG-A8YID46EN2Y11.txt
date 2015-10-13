@@ -1,0 +1,15 @@
+ID: B001NPDKVC-R2WKZYOW13FZHG-A8YID46EN2Y11
+Category: Laptops
+Product: Pavilion-X16-1160US-16-Inch-Processor-Premium
+ReviewerID: A8YID46EN2Y11
+ReviewerName: Gregg A. Kulback
+Date: September 15, 2009
+Helpful: 0 of 1
+Rating: 4.0
+Title: 4.0 out of 5 stars Excellent value, yet is definitely worth the extra money compared to the HP DV7
+Content:
+4.0 out of 5 stars Excellent value, yet is definately worth the extra money compared to the HP DV7, June 22, 2009
+	
+The HDX18t Premium Series laptop is the perfect desktop replacement. Its build quality rivals anything Apple makes. The design is much more stylish than other PC's on the market today. The Geforce 130M GPU with a gig of ram allows this PC to play Crysis at 1280x720 with High settings for everything except Post Processing. Setting Post Processing to low definitely improved the fps. The 18 inch LCD is just plain beautiful at 1920x1080. Once the UAC in Vista was disabled, and the HP software was deleted it's been nothing but good things with this machine. Many other reviews of the HDX18t complained about it being a fingerprint magnet, well it's not that bad. The keyboard has a nice soft feel to it compared to the HP DV7. It's a similar feel to an Apple laptop.
+Now onto the complaints, as with all laptops the HDX runs hot. It's not too bad when doing basic things; however it will still burn your legs without a cooler or cutting board underneath. If your stove stops working, the HDX will fry an egg while running Crysis. The GPU throws off a ton of heat when worked hard especially through the left side of the keyboard which can burn your fingers after several hours of use. Heat is the biggest enemy of computer hardware, however using the sleep mode greatly helps along with keeping it on a hard surface in an air-conditioned room. If you're looking for a laptop that sits on your lap, I'd recommend a netbook.
+Gregg Kulback

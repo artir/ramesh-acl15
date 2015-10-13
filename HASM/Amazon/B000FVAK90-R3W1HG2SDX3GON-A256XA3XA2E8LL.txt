@@ -1,0 +1,11 @@
+ID: B000FVAK90-R3W1HG2SDX3GON-A256XA3XA2E8LL
+Category: SpaceHeaters
+Product: Honeywell-HZ-3750GP-Electronic-Ceramic-Heater
+ReviewerID: A256XA3XA2E8LL
+ReviewerName: DAFFDA
+Date: October 22, 2007
+Helpful: 5 of 6
+Rating: 3.0
+Title: Not so good temperature control, swings +/- 2 oC
+Content:
+Not for babies, I wanted to keep temperature more or less constant at around 26oC for the small baby room, the HZ-3759GP turned out to be noisy and the room temperature goes down little more than two degrees oC below the set temperature before the unit turns on (too cold) and then the unit will not turn off until the temperature goes two degrees above set temperature (too hot), that is a 4oC temperature swing!!! of course I measured the temperature with a calibrated ambient thermometer...since the built in thermometer does not do a good job tracking the room temperature...may be that is the problem.

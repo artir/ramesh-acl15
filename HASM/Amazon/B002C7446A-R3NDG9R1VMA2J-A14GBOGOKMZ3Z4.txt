@@ -1,0 +1,29 @@
+ID: B002C7446A-R3NDG9R1VMA2J-A14GBOGOKMZ3Z4
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A14GBOGOKMZ3Z4
+ReviewerName: Stephan I. Fenstemaker "Computer Enthusiast"
+Date: December 26, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Best laptop I've ever used
+Content:
+Let me start by saying this is my first foray into the world of Macs, I couldn't be more pleased. I've used HP's, Dell's, a high end Alienware, Compaq's etc. They all feel cheap next to the MacBook Pro. 
+Pros:
+AWESOME multitouch trackpad, once you try it, there is no going back.
+Backlit keyboard is very nice when typing in lower light conditions.
+iSight camera is the best I've seen in a laptop or a desktop webcam. And the built in mic is surprisingly good.
+The magsafe power adapter is a big improvement over the standard "tube" adapters.
+The screen is crisp and clear, no washy colors or blurry images.
+It stays in the 40-50c range for web browsing and editing documents, and cools down quickly when it does heat up.
+The chicklet style keyboard has excellent feedback, and is very comfortable to type on.
+The aluminum enclosure is extremely classy, yet very durable. I expect this laptop to last a long time.
+Battery life is very good, I can use it off and on for a full day before I need to recharge.
+Startup and shutdown times are much faster than the PC based laptops I've used.
+Last but not least, OS X. While not suited for gaming, it's nearly perfect for everything else, and it's particularly good as a laptop OS.
+Cons:
+Not a hardcore gaming machine by any means. Though I can play TF2 via bootcamp and pull an average 45-55fps, with spikes up to 100fps, and a minimum around 20fps.
+Only 2 USB ports
+No dedicated mic port, you will need a USB mic. But the built in mic should be good enough for most people.
+Overall this is a fantastic laptop, light and snappy running OS X or Windows 7, and the multitouch trackpad makes mobile use SO MUCH EASIER. I've found myself gravitating to the trackpad even when I've had my high end gaming mouse plugged in, that should tell you something. 
+If you are a heavy gamer, avoid. For anyone else, this is a must have laptop.

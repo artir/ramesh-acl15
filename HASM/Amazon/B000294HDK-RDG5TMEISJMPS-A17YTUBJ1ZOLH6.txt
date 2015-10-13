@@ -1,0 +1,13 @@
+ID: B000294HDK-RDG5TMEISJMPS-A17YTUBJ1ZOLH6
+Category: MP3Players
+Product: Samsung-YH-820MC-Digital-Audio-Player
+ReviewerID: A17YTUBJ1ZOLH6
+ReviewerName: AMM
+Date: July 17, 2005
+Helpful: 6 of 9
+Rating: 2.0
+Title: Napster is terrible
+Content:
+Overall this isn't a bad MP3 player.  The sounds is great and I have no real problem with the controls.
+However, for full functionality, the system requires you to use Napster.  You can add or remove tracks with Media Player, but you can't add playlists this way, which is a big drawback.
+Napster is just about the WORST program I've ever used.  It is slow, unstable, it requires an internet connection, it has popup ads, and it hogs processor time.  It doesn't even minimize properly.  The box should contain an outright warning that you have to use this terrible program.  Until there is an alternative software, stay away.

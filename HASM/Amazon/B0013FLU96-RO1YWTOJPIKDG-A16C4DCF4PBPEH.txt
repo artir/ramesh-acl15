@@ -1,0 +1,14 @@
+ID: B0013FLU96-RO1YWTOJPIKDG-A16C4DCF4PBPEH
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A16C4DCF4PBPEH
+ReviewerName: Justin Steiger "67comet"
+Date: May 6, 2008
+Helpful: 
+Rating: 5.0
+Title: One Year Old and Going STRONG
+Content:
+I purchased a MacBook Pro (MBP) last year and haven't regretted one minute of it. When I replace this one I will probably go with the 15" model since the 17" has been a bit big to be hauling around all the time (my notebook and Nikon are always with me).
+I've been using mine for Java Programming, Project Management, Photography, Web Site Development, Games and of course other graphics creation for miscellaneous projects. It occasionally runs a little bit hot but I expect it when I'm running Photoshop, Lightroom, Illustrator, Parallels with Windows XP running Projects and cruising the web all at the same time.
+One of the first things I did (and do) when I get a Mac is REMOVE iTunes (Floola instead), iCal and iChat (Adium instead). I install VLC, Adobe Reader, NeoOffice, Firefox, Eclipse, HandBrake, iSquint, iAlertU, OoVoo, smcFanControl, Transmission, The GIMP, MacPorts, Fink and the Developer tools available on the OS X installation DVD. I also install a plethora of Adobe stuff (Photoshop, Flash, Dreamweaver, Illustrator & Lightroom).
+I can't say a bad thing about my MBP. I also purchased the chicklets (metal) keyboard and mighty mouse. I have my own home workstations, but it is very common for me to ignore them in favor of using this MBP. I can't wait to see what next year's models are going to be like, that is when I plan on replacing this one with a shinny new one.

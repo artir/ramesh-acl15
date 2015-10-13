@@ -1,0 +1,20 @@
+ID: B002AURXTY-R10EVQKO1YPSYF-A2ZEWI7M5ZBQJY
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS5810TZ-4274-15-6-Inch
+ReviewerID: A2ZEWI7M5ZBQJY
+ReviewerName: Andrew
+Date: August 28, 2009
+Helpful: 13 of 13
+Rating: 5.0
+Title: Thin, light and good battery life
+Content:
+I have used several laptops (work and personal), including the hyped ThinkPad T61, T500, T400.
+But the Acer Timline series laptops have really surprised me in terms of build quality, price, form factor, and battery life.
+If these are the things you care most, the Timeline is for you!
+My T400 never got passed 4hrs at the lowest CPU setting and LCD brightness.  The Timeline consistently gives me over 5hrs (not the 8hrs+ as they claimed though) using Windows XP.  
+Windows XP installation (over the default Vista Premium) was a straightforward task, as Acer website provides XP drivers so you don't have to search anywhere. I tried both the 15.6" and the 14" version and personally I'd like the 14" for its screen size, though both share the same 1" thin dimension and similar battery life.  The 15.6" keyboard comes with a numeric keypad.
+For those people who complained about CPU spiked at 100% at random or eject button locked up the laptop, I had the same problems.  After I updated it with the latest Intel graphics driver and Acer BIOS, all the problems went away!
+I am usually picky about what I use, but I have to give Acer a thumb up for such a great job. After all, it only costs $549!
+Can't say the same for Lenovo ThinkPad which costs more, thicker (>1.2"), and only average battery life.
+What's the point of having wireless internet if you must plug in your power regularly?  With the Timeline, I can truly roam most of my day without fear of running out of power.
+My only complain about the 14" version: if the mouse pad could move to the left about 1", that would be perfect.  As I type, my right palm occasionally touches the mouse pad that causes the mouse cursor to move.  If Acer did this on the 15.6" version, why not on the 14"?

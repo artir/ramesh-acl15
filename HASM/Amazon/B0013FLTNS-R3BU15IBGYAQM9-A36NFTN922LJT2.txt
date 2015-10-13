@@ -1,0 +1,19 @@
+ID: B0013FLTNS-R3BU15IBGYAQM9-A36NFTN922LJT2
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A36NFTN922LJT2
+ReviewerName: Software Craftsman
+Date: April 25, 2008
+Helpful: 28 of 31
+Rating: 4.0
+Title: 2 weeks into the switch
+Content:
+There was no reason for me to switch to a Mac product.  I've always have been intrigued, but XP was doing it for me day in and out.  My current Dell Latitude was on its way out and I wanted something high quality.  I couldn't find anything that comes close in build quality/finish to the Macbook Pro.  Asus makes some nice notebooks but I didn't want Vista, with all of its assorted issues and XP doesn't seem like a sound choice given its looming end of life.  
+So now I have my Macbook Pro.  As a software developer I was drawn to the idea of a UNIX shell as a first class citizen (sorry Cygwin).  The toughest part is learning the keys.  In XP I could move around an IDE effortlessly, with keys: home,end,ctrl-arrow etc.; not so on the Mac keyboard.  This proved the most frustrating.  The lack of the forward delete is also a disappointment but I hear there are keyboard mapping solutions.  
+I installed VMware Fusion and XP for initial comfort and to ease the transition off windows.  BTW, Fusion is amazing.  It feels like it's native, and it's definitely faster than XP on my current Dell.  With Fusion, I can map drives, cut and paste and access servers between the two -- it's all very fluid.  Full screen your Fusion in a different Expose window and you can quickly swap back and forth between Mac and XP.
+Now the downside.  In the first few days I experienced no less than 4 crashes, where it had to be power cycled.  I haven't had any issues since, so I'm going to conveniently forget.  Firefox crashes still, but no more than it did on windows, and maybe less.  
+So in conclusion, Mac was the right choice for me.  High quality in and out and at a decent price.  The interface is pure eye candy and orders of magnitude superior (usability-wise) than XP.  While there will be some pain points in learning, it will hopefully be worth it.  Get VMware Fusion and install Windows for when there is no Mac alternative.
+*UPDATE* I have now had the macbook pro for 2 months.  I'm really enjoying some of the UI features, such as expose and spaces more and more.  The hotkeys are awesome (e.g. show desktop, lock/start screensaver).  
+There are however a few recurring problems that I have been experiencing.  I'm going to detail the top two.  The first issue is the screensaver hotkey stops working at times.  This is a huge issue because it is also the mechanism for locking my computer, and I cannot leave my desk w/o locking it, so I must either close the lid (sleep) or restart, which fixes the issue.  
+Now for the second issue: often when I try and restart/shutdown, it does nothing, then a minute later tells me that Finder failed to quit and I should quit Finder then try again -- great suggestion Apple, given that you CAN'T QUIT FINDER!! So now I have to hold the power button down for 10 seconds to kill it or run "sudo shutdown -r now" from Terminal.
+So in my latest conclusion, my mac is not living up to my expectations of reliability.  I was led to believe, by many in the mac community/stupid commercials, that Mac was the panacea from XP.  The Mac user interface is *unmatched* and that along with the UNIX foundation were and still are my original reasons for choosing Mac.  My previous XP Pro notebook however was significantly more stable.  The reliability issues are getting more and more annoying and I just hope Apple is able to resolve and restore my faith in their product.  Lastly, I would change the star rating to three but it won't seem to let me.

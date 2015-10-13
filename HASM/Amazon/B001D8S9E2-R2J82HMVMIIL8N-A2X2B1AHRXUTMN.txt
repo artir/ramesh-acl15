@@ -1,0 +1,12 @@
+ID: B001D8S9E2-R2J82HMVMIIL8N-A2X2B1AHRXUTMN
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A2X2B1AHRXUTMN
+ReviewerName: Mac User
+Date: December 12, 2008
+Helpful: 0 of 1
+Rating: 4.0
+Title: Great, except for under boot camp (Windows)
+Content:
+Overall, I really like the new MacBook.  Great construction quality and great software included.  The new graphics are a really nice improvement over previous MacBooks.
+My only complaints are with using it with Windows (under Boot camp).  The trackpad is completely unusable and the sound drivers cut out a lot.  Also, there seems to be a bit of vibration from the hard-drive that is noticeable when the computer is on my lap.

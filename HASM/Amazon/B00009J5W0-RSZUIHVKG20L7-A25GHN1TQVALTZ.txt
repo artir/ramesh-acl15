@@ -1,0 +1,11 @@
+ID: B00009J5W0-RSZUIHVKG20L7-A25GHN1TQVALTZ
+Category: MP3Players
+Product: Apple-White-M8948LL-Generation-MODEL
+ReviewerID: A25GHN1TQVALTZ
+ReviewerName: A. Brenner "adam-brenner"
+Date: June 9, 2003
+Helpful: 5 of 6
+Rating: 4.0
+Title: Windows problems all easily bypassed
+Content:
+Like other  reviewers, I was excited about the ipod.  This initial enthusiasm was tempered when I tried to install on my XP system.  After much web research I found the simple cures and now my ipod is a pleasure.  I reinstalled all software with my virus software off after a fresh restart.  I sync my whole library with ephpod but use MusicMatch for it's tagging and playlist functions.  I got a powered Firewire connector from belkin to allow charging/powering while syncing with my PC.  I use Outpod to transfer contacts and calendar data.

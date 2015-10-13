@@ -1,0 +1,15 @@
+ID: B0018SLJ94-R28CX6PUOFM73N-AHJ3Q29LI0Z3S
+Category: Laptops
+Product: ASUS-M50Sv-A1-Core-T9300-Laptop
+ReviewerID: AHJ3Q29LI0Z3S
+ReviewerName: D. Siddiqui "s___s"
+Date: January 29, 2009
+Helpful: 0 of 1
+Rating: 1.0
+Title: Terrible
+Content:
+I bought this laptop in May 2008 so it has been 9 months and I can tell you it has been a waste of money. It looks really nice and its camera speaker touchpad HD memory CPU are all decent. 
+The two big problems with this model are its terrible screen and ventilation system.  Moving the screen vertically even slightly significantly distorts the picture. I find that unacceptable especially since it's a laptop, it's kind of obvious I would like to move my head around a bit and sit comfortably ... well can't do that without having to adjust the screen. The screen is also not evenly bright. I don't expect it to be perfect but some parts look like a light bulb and others look like a dark alley. This is true whether you have their automatic adjustment feature on or off. 
+Second major issue is overheating and subsequent noise. If you want to buy this for graphics intensive work or play maybe a few hours of video games everyday, forget it. Heating issues came up within 4 months of use with the temperature hitting the high 90s anytime I did graphics intensive work. I don't even play video games that much ... just wanted to play 1-2 hours of TF2 on this thing but can't do that. What's the point of the 2.5 Gig dual core processor and all that RAM if I can't do graphics intensive work for a few hours?
+The last point is that the keyboard feels really cheap for a $1300 ( $1500 now for almost the same specs from a year ago) laptop... I mean you feel the cheapness every time you type as your fingers 'sink in' and I am feeling it even more now as some keys require extra pressure to work. 
+This review was written with the CPU forced down to 64% of its speed to keep the core temperature reasonable and it's not fun seeing a machine like this perform like my old pentium 150 as I scroll down this text box in slow motion while typing.

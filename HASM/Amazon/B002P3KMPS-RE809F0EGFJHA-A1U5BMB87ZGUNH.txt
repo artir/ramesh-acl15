@@ -1,0 +1,15 @@
+ID: B002P3KMPS-RE809F0EGFJHA-A1U5BMB87ZGUNH
+Category: Laptops
+Product: K61IC-A1-16-Inch-Versatile-Entertainment-Windows
+ReviewerID: A1U5BMB87ZGUNH
+ReviewerName: ALEXANDER
+Date: February 3, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: good laptop
+Content:
+Had this laptop for about 2 months now, no tech problems. Had to replace Win7 with Linux, as it gets very slow as you load it with stuff. 
+Pretty decent for common tasks and quite good for gaming, but perhaps not for the latest FPS on max settings. Also works pretty fast with photoshop, although windows does consume a huge amounts of memory.
+Laptop does stay pretty cool and after 2 months still works very quietly (my last Acer had a scratching and wiggling fan by that time). Battery lasts about an hour and a half on video playback (I guess could be longer if the power saving options are configured properly).
+The only thing I did not quite like -- the glossy finish of the laptop cover, however, to be fair, it does not show fingerprints as badly and does look pretty cool when clean (for about 15 minutes that is :). Another little annoyance -- plastic around the display is pretty soft and can easily accumulates minor scratches.
+Another thing I did not expect -- the 16" display has a 1366x768 resolution, which means that it is more stretched than more "standard" 15.4". Some games playable in full screen on 15.4" now run in a small square in the center of the screen -- which is not a huge deal especially if you have external display -- but at the same time its great for watching movies.

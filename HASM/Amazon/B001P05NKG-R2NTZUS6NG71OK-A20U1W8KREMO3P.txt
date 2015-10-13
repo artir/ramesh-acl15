@@ -1,0 +1,33 @@
+ID: B001P05NKG-R2NTZUS6NG71OK-A20U1W8KREMO3P
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A20U1W8KREMO3P
+ReviewerName: KSBAY
+Date: November 11, 2009
+Helpful: 9 of 11
+Rating: 4.0
+Title: MB Pro standard - good but not great.
+Content:
+I recently bought the new MB Pro 13 inch. Having used the White MB (Late 2007 release) in the past, the differences between the two in terms of quality are immense.
+The White MB I owned was a poor quality product, the polycarbonate body was prone to cracking, it suffered random hardware failures for no reason and the screen on it was horrible - pathetic viewing angles and color reproduction.
+On the other hand, the MB PRo feels like a high quality product (externally) The Unibody construction process has resulted in a computer that feels built to last. These are the features that make it a compelling purchase.
+The LCD screen. It is glossy and that can be a problem in some environments but if you use your notebook regularly instead of connecting it to a external monitor, it really is a very good screen. The MB Pro screen has a 60% greater color gamut and it beats the MB screen easily in terms of black levels, color depth and accuracy. It's great for watching movies or viewing and editing photos. 
+But I have to add that it may not be for everybody. Online reports on Apple's MB Pro support forums have indicated that the new LED screen causes tremendous eye strain and headaches for some people. A few users have said that they cannot use the computer for more than an hour at a time because of the eye strain and headaches. 
+These are individual cases but the possibility does exist that the screen may not suit you and cause eye strain and other health issues. At the same time, you may not face any of these issues. My advice would be to use the MB Pro as a notebook extensively within the fourteen day return window and if you face any of these issues, do not hesitate to return the product. If you do not face any of these issues, then please enjoy using your MB Pro.
+The glass trackpad is a pleasure to use for navigation due to it's design.  Unlike the old MB Pro trackpads, this is a single large glass trackpad with no visible buttons - the whole trackpad can be used as a button once it's configured in System preferences. Scrolling, clicking and dragging all happen effortlessly once you're used to it and, once you're used to it, it will be hard to go back to using regular or smaller sized trackpads on other notebooks. 
+Firewire 800 is another addition - for media professionals who need a better and faster way to transfer data than USB 2.0
+Bluetooth 2.1 - easy to transfer your phone data to the macbook by using bluetooth.
+SD Card slot - finally Apple realizes that consumers may want a convenient way to download their photos or videos without using an external card reader. An SD card slot is built in - tough luck for Pro's who uses other card formats or who need an express card slot but something is better than nothing.
+Backlit keyboard wth chiclet keys - good for typing in dark rooms and comfortable to use for long periods of time.
+Built in battery - 7 hours of power as advertised by Apple, your mileage may vary but it allows you to be mobile for 5 to 6 hours. It's an Inbuilt battery so once it's exhausted, it's back to the Apple store or an Apple Authorized Service Provider for replacement. However, Apple states that the battery will hold 80% of it's charge for up to a 1000 charges which means approximately 3 to 4 years of daily use. So it should be a while before you have to go in for that battery replacement.
+A few things to take into account before you make your decision  -
+Whatever you do, please buy the Applecare.Protection.Plan AppleCare Protection Plan - For Portable Apple Computers 13.3 Inches and Below. Unfortunately what most customers don't know before they buy their first Apple computer is that if you don't have Applecare and a product malfunction occurs after the first year, the repair / replacement charges are much higher than other PC makers in most cases.
+Apple's products are as prone to failure as any other  PC because Apple sources components from manufacturers just like every other PC maker. But If something goes wrong with a Mac, and you don't have the A.P.P, you'll be paying exorbitant fees for getting the hardware repaired.  Keep in mind, the A.P.P. only covers hardware failure - not accidental damage so it's still expensive for what you get but it's better than paying Apple's prices for repair/replacement parts.
+ 
+You will also NEED to upgrade your ram from 2 gb to 4gb if you plan to do any image processing or video editing. 
+With the standard 2gb of ram, my machine starts to stutter the moment I try to open up a large image file and listen to music simultaneously. That's being cheap on Apple's part, considering a customer has just bought a computer for $1200 and it has only 2 gb of ram. This is not a netbook, its supposedly a "PRO" notebook. For the ram, that will be another 80 to 100 dollars.Crucial CT2KIT25664BC1067 4GB 204-PIN PC3-8500 SODIMM DDR3 Memory KIT (2GBx2)
+If you're a datajunkie, the 160 gb that Apple includes with the MB Pro is woefully inadequate so factor in another 80 to 120 dollars based on the hard drive you may buy to replace the stock drive with
+The MB Pro has a mini display port, you'll have to buy a MiniDP to VGA convertor or MiniDP to DVI convertor if you ever feel like connecting your MB Pro to a larger monitor - since Apple is nice enough not to include it with the machine it will cost you $30 more IF you buy it from Apple. Here's a cheaper option - Mini DisplayPort to DVI Female Adapter Cable for Apple Macbook, Macbook Pro, iMac, Macbook Air, Mac Mini Laptop
+Your total cost would actually be $1200 + $200 A.P.P + $80 RAM = 1480 dollars + applicable taxes. I'm counting the ram as a mandatory upgrade if you want to avoid a sluggish user experience.
+Taking all of that into account, the machine is still good for me - well built, fairly capable and it works well. It could have been great if Apple stopped diluting a supposedly premium product experience by being cheap and skimping on the ram and hard drive capacity. However, if you are buying a 13 inch MB Pro I recommend buying the standard 13 inch MB Pro instead of the high end MB Pro 13 inch and upgrding the hard drive and ram yourself. (Instructions are in the manual and you'll need a Philips #00 screwdriver. Videos are also available online showing you how to.)
+It works out to a much better deal.

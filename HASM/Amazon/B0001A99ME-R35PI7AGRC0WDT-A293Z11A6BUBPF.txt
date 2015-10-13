@@ -1,0 +1,11 @@
+ID: B0001A99ME-R35PI7AGRC0WDT-A293Z11A6BUBPF
+Category: MP3Players
+Product: Apple-iPod-M9434LL-Green-MODEL
+ReviewerID: A293Z11A6BUBPF
+ReviewerName: H. Franques
+Date: November 5, 2004
+Helpful: 13 of 19
+Rating: 4.0
+Title: Check out the Windows Compatibility Specs before purchasing
+Content:
+Love my new mini iPod but did not expect to pay an additional $100 to get it to work.  Although headlines tout "Windows Compatible", pls read the technical specs before purchasing.  I had Windows ME on my machine and had to upgrade to XP in order to use the device.

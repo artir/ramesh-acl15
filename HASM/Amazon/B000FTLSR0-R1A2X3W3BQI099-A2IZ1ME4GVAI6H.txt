@@ -1,0 +1,28 @@
+ID: B000FTLSR0-R1A2X3W3BQI099-A2IZ1ME4GVAI6H
+Category: DigitalSLRs
+Product: Pentax-Digital-Reduction-18-55mm-3-5-5-6
+ReviewerID: A2IZ1ME4GVAI6H
+ReviewerName: Subramanian Iyer
+Date: July 11, 2007
+Helpful: 13 of 13
+Rating: 5.0
+Title: Highly recommended
+Content:
+I've had this camera for 3 weeks now and I've grown to love it. 
+Things I really like:
+1. Beautiful pics in daylight or when using flash.
+2. Excellent grip. Even though the body is quite compact, the grip is excellent - way better than the canon rebels and comparable to the Nikon D50.
+3. Large, crisp LCD screen
+4. Nice shutter sound.
+Things I don't like
+1. Poor AWB in Tungsten light. (more to come)
+2. Using menus to change WB, ISO settings (instead of dedicated buttons)
+3. Popup flash construction is rather flimsy.
+More about AWB issues in Incandescent light..
+AWB in Incandescent light (2700K) is a problem for most DSLRs. Unfortunately the K100D is really weak in this area. The reason is that the K100D AWB is designed to handle color temperature above 4000K.
+The good thing is its easily fixable.
+1. Use a flash.
+2. Don't use Auto mode. Use P mode and use the dedicated 'Tungsten' WB mode.
+3. Don't use incandescent bulbs! Use CFL lights instead. They are good for the environment and give much better light!
+Conclusion
+I really like this camera. It offers the best VFM compared to the Nikons and the Canons. Go Pentax!

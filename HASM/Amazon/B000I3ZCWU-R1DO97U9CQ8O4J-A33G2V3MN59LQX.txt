@@ -1,0 +1,18 @@
+ID: B000I3ZCWU-R1DO97U9CQ8O4J-A33G2V3MN59LQX
+Category: DigitalSLRs
+Product: Canon-Digital-10-1MP-Camera-Body
+ReviewerID: A33G2V3MN59LQX
+ReviewerName: Alan Somers
+Date: September 14, 2006
+Helpful: 60 of 63
+Rating: 5.0
+Title: Great camera, but the included Macintosh software is tricky to install
+Content:
+I've been wanting a digital SLR for a long time and with the introduction of the Canon Digital Rebel XTi, I decided the time was right.  My experiences are based on about 7 years of point-and-shoot zoom cameras and, before that, a manual focus Canon A-1 film SLR.
+As SLRs go, the camera is very compact out of the box.  Unfortunately, it didn't stay that way after I attached the optional BG-E3 battery grip.  It feels very solid regardless of the attachments, but I think it's a little easier to handle with the extra bulk of the battery grip, which also allows for up to three times the battery power of the standard Li-ion battery when used with the high capacity NiMH AA batteries currently available, 
+The lens included in the kit is passable, especially if you can't afford a better lens, but I found that a Canon EF 24-105mm f/4L IS USM lens gives noticeably sharper images.  I will be using the kit lens only when I need 18-24mm focal lengths.
+One of the first things that impressed me when I started using the camera was the autofocus speed.  It is really fast and works well in lighting conditions that would make my Canon PowerShot S1 IS's autofocus choke.  It uses the flash as a focus assist light when the light gets too low for the autofocus to work unassisted.
+The controls are well laid out.  They provide one-button access to white balance settings, ISO settings, autofocus modes, and exposure modes.  Exposure compensation is accomplished almost as easily: turn the dial next to the shutter release while holding down the aperture/exposure compensation button with your thumb. 
+My only complaints center around the difficulty with which the included Macintosh software installed.  First of all, unlike software installers for any other package I've installed under OS X, which give you the opportunity to authenticate with an admin name and password even when installed from a normal user account, the installer for the included software does not.  Therefore, you *must* install the software while logged into an admin account.  This is very bad installer design IMHO.
+Secondly, the Digital Photo Professional application would not operate correctly when run in a normal user account unless it was run once in an admin account.  I presume that the first run installs some extra software (plugins or drivers?) in a location only writable by an admin user.  Before I figured this out, the app would not decode nor process RAW images, more often than not resulting in the SBOD (spinning beachball of death) and requiring a force-quit of the app.  However, once I got it working, the software worked well on the RAW images I had captured with the camera.  I was able to brighten up a slightly underexposed RAW photo of one of my cats in a particularly expressive pose by about 0.5 stops with no noticeable quality loss.
+I would heartily recommend this camera to anyone who has been disappointed with the image quality, speed, and other limitations of a point-and-shoot.

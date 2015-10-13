@@ -1,0 +1,18 @@
+ID: B001P05NKG-R2A1JPXVU26PA0-A2WJUHMYM9IKUY
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A2WJUHMYM9IKUY
+ReviewerName: Harun "completedsearch"
+Date: November 5, 2009
+Helpful: 2 of 4
+Rating: 3.0
+Title: Only Useful if you are an advanced Excel user - Others don't even bother to read.
+Content:
+I am using this laptop for almost four months now and here are my main comments:
+This Mac is sure incredible in many ways: Great look, keyboards, track pad, monitor, to name just a few. It is also incredible fast and potent.
+Why three stars?? For one main reason: Software and not hardware. Let me explain. If you, like me, is a frequent user of Excel, and if you need to write macros using VBA (not the macro recorder), then you are not going to like this computer at all, or any Mac for that matter.
+I give three stars because nowadays with the technology we have, does not make sense to have such an advanced piece of equipment that is not able to run Macros on it.
+Even if you install Parallels or any other virtual machine software you will still suffer, because when you run Macros using such types of software you will realize it will freeze almost 80% of the time (repeat, only when running a Macro).
+I agree that most people may even say that this is not a review of the computer, but I disagree. When you buy a lap top that costs USD1400 you'd expect to be able to use for all your needs. And Apple should work either in developing something that could play the role of excel (Number's is great, but also lacks Macros capabilities) or work with Microsoft to develop Excel for Mac that has that feature. Ohh yes, I forgot to mention that Office for Mac 2008 does not support Macros (again - VBA), and as funny as it may sound the older version of Office for Mac (2004) had that. The only other possible solution for that is to install windows using Boot Camp, which I will try and share my experience later.
+The incredible thing about that is that you find very few comments on that from Apple and Microsoft. I guess it all comes down to statistics: Probably less than 1% of Mac user are really concerned with the way "ONE" software will run on it, and from those, I would guess perhaps another 10% is really concerned with the fact that does not run VBA on it.
+In any case, as I said at the beginning, I have not found other significant issues, therefore most probably you are one of those users that fall in the 99%, i.e., to you this review is certainly not very useful.

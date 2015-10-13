@@ -1,0 +1,56 @@
+ID: B0012OGF6Q-R31Z3PLQUSYV08-AJX2I7QYQC2CB
+Category: DigitalSLRs
+Product: Nikon-10-2MP-Digital-18-55mm-3-5-5-6G
+ReviewerID: AJX2I7QYQC2CB
+ReviewerName: Marlene R. Powell
+Date: April 17, 2009
+Helpful: 13 of 13
+Rating: 4.0
+Title: Great Little Camera, But Be Prepared To Work A Bit
+Content:
+I've had my D60 for two months now, and only have just gotten familiar enough with it to feel that I can competently write a *useful* review for it. "Right Out Of The Box" reviews cannot really stand in for a good, solid understanding of what you're holding.
+I quite like it. I now know what IT likes, doesn't like, and how to fix its mistakes. 
+Pros:
+1. Quite lightweight
+2. Sturdy
+3. Very quick boot-up time.
+4. Battery lasts a flabbergasting amount of time (camera on all day? No problem!) because of its chary use of power. 
+A word to the wise: Either have it on or have it off. Do not toggle back and forth. 
+"On" and in its powersaver mode saves more power than turning it off when sporadically taking photos. This might be due to the sensor cleaner (it cleans on start up and shut down).
+5. It thinks about as fast as you do.
+6. Acceptable buffer space for taking multiple shots 'on the go'.
+7. Most controls are intuitive (still SOME menu-hunting, though. Some important crap is just plain buried in the menus).
+8. Does *amazing* things with  grey/blue lighting. Its favorite situation seems to be a cloudy or partly cloudy/overcast day.
+9. Noise levels are acceptable at least up to 800 ISO, which is nice. Past that, though, you're pushing it. The result is still workable, though, which is an achievement.
+10. SDHC Compatable -- I use a 16gb card.
+11. Active D-Lighting mode is nice if you're still going to insist on shooting in jpg. 
+Almost completely useless if using RAW.
+Be prepared to make use of your buffer and shoot multiple pictures of the same thing for redundancy; it tends to not always choose the place you wish to focus. *Especially* when using Dynamic Area mode with Autofocus. It's sometimes seems to me like all I'm managing is blurry pictures, faster than ever. If I take more, it's more likely I get one that's usable.
+Cons:
+1. Often picks strange/insane exposures, ISO levels, etc, if left on Automatic Mode. 
+I had it once, in full daylight, choose 760 ISO. WHY? God knows. 
+It will generally err by underexposing a photo. This is at least more 'fixable' than overexposing, so that's your silver lining.
+2. Over-saturates the yellow/orange spectrum, and consistently creates photos that are too 'warm'.
+3. Hunts a lot in low lighting, no matter the ISO. 
+When you've gotten so frustrated as to set it at "HI" (3200), give up. 
+That said, when it DOES find its target, it captures it well.
+4. The flash is not impressive (except impressively BRIGHT) especially with the limitations it creates with external flash (and with how it jumps to the conclusion that you need it even in full daylight), but generally you do absolutely fine without it. 
+If it tries to pop up the flash, just hold it down. That's what I do. LOL.
+5. The Nikon Transfer software has issues at times; it locks up and freezes often when transferring things off of HDHC cards of the size I use. I suggest buying a card reader (8-15 dollars depending how multifunctional you want it to be. Targus Digital TGR-CRD25 Universal 25-in-1 Memory Card Reader/Writer possibly) for less general frustration. 
+If you DO NOT have a card reader, you cannot access the card through the camera. 
+This means if you DO have a problem, there's no way to get your information off the card. 
+You CANNOT bypass Nikon Transfer if it screws up. Information transfers only one way -- from the camera to the computer. 
+The camera does not show up as a drive on either a Mac OR a PC, and not only THAT, your virus software might pop up thinking that Nikon Transfer is a trojan (it boots immediately upon plugging in the camera or a card reader with NEFs on it. This makes a Windows virus scanner wig out).
+6. It makes it very hard to trust that what you see in the camera's preview mode will be what you see on your computer. This is mainly because it IS untrustworthy. 
+With that in mind, I can't recommend that you trust the in-camera editing software either. 
+Take a pass on this feature.
+-
+Be prepared to shoot in RAW and learn how to use a digital darkroom. I use Adobe Camera Raw, tho I suspect that in some instances, Nikon's own software would translate the information better. It just depends on how you want your finished product to look.
+Unfortunately, if you let the camera create your photo as a jpg, you're stuck with whatever fool choices it has made, unable to 'fix' the error.
+Don't trust this camera's color rendering! :P
+It's *so* much better to just clean it up in post-processing.
+-
+With all that out of the way:
+IF you shoot in RAW, and IF you take the time to post-process your photos, the work it does is simply jaw-dropping. This little camera can do some AMAZING work, if only you devote the time to nurturing your photos after the fact. 
+Fortunately, once you have yourself a digital darkroom (Nikon's own, Adobe's, or other third-party programs that can process a NEF file), you'll find it very easy to get into the swing of things. You'll not want to go back once you experience the freedom that RAW brings. Don't worry; it only sounds complicated.
+This camera, for the price, is a gem. I might seem to be smacking it around, but I'm only pointing out the places where it means MORE WORK FOR YOU. If you're willing to put in the work, it's just an astounding little go-anywhere friend.

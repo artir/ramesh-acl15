@@ -1,0 +1,20 @@
+ID: B0028R6JW6-R2P1Z6NZY9T48I-A2Y0I299T2G5IF
+Category: Laptops
+Product: MSI-X340-023US-13-4-Inch-Laptop-Silver
+ReviewerID: A2Y0I299T2G5IF
+ReviewerName: ThirdHeat
+Date: April 21, 2010
+Helpful: 1 of 1
+Rating: 2.0
+Title: Completely Unusable
+Content:
+Let me preface this by saying that I build out an average of 25 server, workstation, laptop, and tablet build outs during a week at my job.  I have my A+, MCSE, and RHCT.  I'm not new at this.
+This MSI xslim x320 should never have been released to the public.  It belongs in beta testing or doing useful work like holding down papers to keep them from blowing away.
+First of all I went into this knowing the netbook specs it had and am okay with that.  My need is to have a lightweight portable system that can get onto the internet, word process, read browser based email, and interact with my favorite websites.  Basically I wanted my 7" eeepc but more gentle on my eyes and friendlier to my fat fingers.
+When I saw this form factor I started salivating and had plans for it.  It is the perfect size.  But that's where the love affair ends.
+I will not use Vista and no one should be expected to use Vista so that needed to be changed immediately.  I tried Windows 7 but it was so unbearably unresponsive and slow that it was impossible to use.  Plus it had to be rebooted around every 5 minutes from stalling.  And forget about trying to use any product like MS Office.
+I don't like macs and wanted this to be my linux macbook anyways.  So I went through a whole bunch of Linux OS's and had a range of the same problems: it would freeze frequently, it needed to be rebooted often, lan wouldn't work (on some distros), wan wouldn't work (on some distros), and a general lag when it came to anything.  I tried Fedora LXDE, Fedora XFCE, JoliCloud, Moblin, Archos, Ubuntu NBR, Mint, Slax, EEEBuntu, Easy Peasy, Puppy, Knoppix and for fun I tried to overdo it with Ubuntu openArtist and Ubuntu Studio.  Sometimes one network service wouldn't work, sometimes another wouldn't work.  It was a crap shoot but I was guaranteed to have to reboot constantly no matter the distro.  The common denominator here is the hardware.
+Ubuntu NBR worked the best so I was determined to make that work even if it meant I had to be tethered to a modem.  Since the LAN driver didn't want to work, I had to use USB.  However, trying to watch a video on youtube or hulu or any streaming site is so choppy that this function is out of the question.  Forget about trying to fullscreen anything.  Trying to pull up a video on VLC is choppy but watchable until you try to go to full screen.  GoogleDocs works great but anything that is dependent on the local resources of this machine (like OpenOffice or AbiWord) will fail.  You can use these programs if you don't mind waiting for the program to catch up with you (from just entering text) and rebooting every 5-15 minutes.
+Multitasking is out of the question since it takes around 10 seconds to switch menus and just under a minute to open any application.  That means you cannot run applications side by side.  Which got me to thinking, if I cannot take advantage of this screen space for multiple applications or full screen video viewing, what is the point of having this machine at all?
+I wanted to test this against my first gen pre-atom 7" eeepc.  The two year old eee blew it out of the water.  I had a playlist going and had answered an email by the time the x320 came up.  Both were running Ubuntu NBR.  Now I understand that the eee has less graphical work to do but that is a reason not an excuse.  The slim x320 is grossly mis-speced.  It fails to satisfactorily perform the most basic tasks regardless of the application or OS.  The graphics insufficiency bottlenecks the whole operation so that it is a miserable experience.
+Save your money and by a 10" acer, asus, dell, or hp.

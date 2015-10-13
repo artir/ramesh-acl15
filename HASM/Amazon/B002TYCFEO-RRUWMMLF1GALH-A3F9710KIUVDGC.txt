@@ -1,0 +1,16 @@
+ID: B002TYCFEO-RRUWMMLF1GALH-A3F9710KIUVDGC
+Category: Laptops
+Product: Acer-Aspire-AS5532-5535-Laptop-Notebook
+ReviewerID: A3F9710KIUVDGC
+ReviewerName: Vladas Mazelis "reviewer07"
+Date: February 6, 2010
+Helpful: 5 of 5
+Rating: 5.0
+Title: Great new HyperTransport technology!
+Content:
+What a great new technology is that AMD HyperTransport, which eliminates number of buses on the system and avoids data transfer bottlenecks, plaguing old FSB systems. Surprisingly, this AMD TF-20 1.6GHz system is noticeably faster and running smoother than similarly priced Intel Celeron 900-based systems with 2.2 GHz processor and double sized L2 cache. 
+Also, this laptop has a great ATI Radeon 3200 graphics chip, which also helps to balance and speed up the processing load of the system.
+Our Acer is running perfectly. I bought it for my wife, who uses it for videos, MP3's, browsing internet, word processing and not much else. 
+I set it up by first downloading and installing a free, wonderful Revo uninstaller, available everywhere. Then I uninstalled all the preinstalled junk, like McAfee antivirus, MS Office trial, Adobe Acrobat Reader and other useless and bulky stuff. Did it using option 4 on the Revo uninstaller, which removes all the leftovers of any software from the registry. Then I installed her the following wonderful freeware: Firefox and Chrome for browsing, PDF Xchange viewer, VLC Player for audio and video, Irfanview for photo viewing and basic editing, Abiword for word processing, Glary utilities for system maintenance, Avast antivirus, Spyware Blaster, Wordweb (a thesaurus and dictionary), Skype and that's about it. Of course, updated all drivers and Windows 7. And here it is - a frugal but smooth running, fast, modern and really wonderful Acer notebook.    
+Acer Aspire AS5532-5535 Laptop Notebook - 15.6" LCD / AMD Athlon TF-20 1.6GHz / 3GB DDR2 / 160GB HD / DVD±RW/CD-RW drive / 802.11b/g/Draft-N / Windows 7 Home Premium 64-bit
+Acer Aspire AS5532-5535 Laptop Notebook - 15.6" LCD / AMD Athlon TF-20 / 3GB DDR2 / 160GB HD / DVD±RW/CD-RW drive / 802.11b/g/Draft-N / Windows 7 Home Premium 64-bit

@@ -1,0 +1,27 @@
+ID: B001GAPHOC-R3VYV8N1O3ARK6-A3N4VTNFPMTHEF
+Category: DigitalSLRs
+Product: Pentax-K2000-18-55mm-AF200FG-Flash
+ReviewerID: A3N4VTNFPMTHEF
+ReviewerName: James Lin
+Date: July 8, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: Going from a K100D to the K2000
+Content:
+My K100D still works great, but it's starting to feel a bit dated with its slower autofocus system and lack of SDM lens support.  Since K2000s are getting so inexpensive, I decided to pick one up for a minor upgrade.
+My initial impression was that the K2000 is heavy.  It actually weighs slightly less than the K100D, but the smaller hand grip makes it feel heavier to me.  The hand grip is less bulbous so it doesn't fill into my hand nearly as well, but I suppose that the hand grip was the only part that could be drastically reduced in size without making the camera feel unbalanced.
+I also immediately noticed the missing LED screen at the top. Fortunately, all of the information is clearly and brightly displayed on the back LCD screen now.  The new interface is actually very, very well designed.  It's familiar enough that I could jump right in, and intuitive enough that I quickly figured out the new shortcuts and features.  I'm finding the autofocus to be pretty quick and camera operation a bit quieter.  Overall, I find the K2000 to be extremely usable.
+The switch to the 10MP sensor finally gives me ISO 100 and smaller ISO increments for more control, but I'm also noticing much more noise than with the wonderful 6MP sensor in my K100D.  With my K100D, I found ISO 800 to be very usable, but I'm afraid of pushing beyond ISO 400 with the K2000.  I think this is something that I'll just have to get used to when I'm framing and exposing scenes.
+The DA L kit lens seems to be about the same as my old DA 18-55mm, except for the plastic mount and sticker badge.  You also don't get a lens hood.  I haven't really tried the AF200FG flash because I have the AF360FGZ, but it seems appropriate for an entry level kit flash.
+Pros (relative to the K100D):
++ Smaller and slightly lighter than the K100D.
++ 10MP sensor that gives more control over ISO.
++ Incredibly intuitive interface.
++ Sv (sensitivity) mode!  I didn't have this before on the K100D.
++ Excellent mix of pro and non-pro features like the Help button, which can also be changed to be the RAW button.
++ Despite the cheaper construction, the kit lens still feels solid and comparable to my old 18-55mm that has a metal mount.
+Cons (Relative to the K100D):
+- The 10MP sensor is noisier than what I'm used to.  I've seen some amazing pictures taken with this sensor though so I'll have to learn the limits of this camera.
+- The ergonomics of the body aren't quite as good as the K100D.  It's probably perfect for people with smaller hands though.
+- The DA L kit lens has a plastic mount, a sticker badge, and no lens hood.
+UPDATE 7/28/09: I took my K2000 to San Diego Comic-Con and I must say that it performed admirably at ISO 800.  I found that as long as I expose properly (preposterous!), the noise levels are totally acceptable.  It's a bit more fussy than the K100D when underexposing at the same sensitivity, but I'm no longer afraid of using this sensor at ISO 800.

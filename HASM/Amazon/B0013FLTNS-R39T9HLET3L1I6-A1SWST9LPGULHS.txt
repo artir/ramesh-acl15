@@ -1,0 +1,11 @@
+ID: B0013FLTNS-R39T9HLET3L1I6-A1SWST9LPGULHS
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A1SWST9LPGULHS
+ReviewerName: N. Key "CTA Inc"
+Date: July 15, 2008
+Helpful: 0 of 9
+Rating: 5.0
+Title: Don't be an idiot!
+Content:
+Don't buy the new MacBookPro's from Amazon because based on the prices I just saw, they are less expensive in the Apple store or online. Plus you cannot get any corporate and/or school discounts here (with the Mac and Apple Care warranty). Otherwise, I have two MacBookPro's (a 15" and a 17") and an iMac...all great systems and only about a year old. You will not be disappointed, especially if you're coming from the dark era of the PC...no more memory problems, system lockups, and blue screen of death. What's great, you can use Bootcamp (included free with your Mac OS DVD) to partition your Mac HD and create a boot drive to install a 32-bit Windows OS. I'm running Vista Ultimate (for school) on my iMac and MacBookPro 17"; when you need Windows, simply reboot your Mac, hold down the Option key, then select the Windows OS drive. It's that simply. Updates are easy! Every week the system will automatically search for ALL updates, including your applications and then alert you of what is available. This saves you the hassle of having to search each vendor's site looking for updates, patches and so forth. Lastly, Widgets...just a waste of time really but the young kids and teeny-boppers really get into useless "gidgets and gadgets" that serve no purpose.

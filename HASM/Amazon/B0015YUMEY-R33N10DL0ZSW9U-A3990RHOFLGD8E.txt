@@ -1,0 +1,16 @@
+ID: B0015YUMEY-R33N10DL0ZSW9U-A3990RHOFLGD8E
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A3990RHOFLGD8E
+ReviewerName: A. Collins
+Date: May 18, 2008
+Helpful: 
+Rating: 5.0
+Title: Quick off the line, get the Speck Case for it
+Content:
+Speck MacBook Pro 15" See-Thru Hard Case - BLACK - Fits all versions of 15" MacBooks
+4GB 667MHz 2x2GB PC25300 DDR2 Fully Buffered ECC DIMM Memory Modules Kit Apple Mac Pro
+Brenthaven Pro 15-17 Backpack for MacBook Pro and Powerbook 15-17"
+VMware Fusion
+The MacBook Pro is a great investment at these prices.  I upgraded from a Dell M1210 (with nVIDIA video) to this machine.  Not looking back!  It runs a 1vcpu Windows XP and 1vcpu Ubuntu VM in VMware Fusion with no problem.
+Few things, get 4GB of ram and get the speck case.

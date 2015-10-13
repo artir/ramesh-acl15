@@ -1,0 +1,44 @@
+ID: B001JTA59C-R223V07U8S3VHM-A2VODABWSVHV8E
+Category: Laptops
+Product: Mini-1000-Notebook-Processor-Brightview
+ReviewerID: A2VODABWSVHV8E
+ReviewerName: Ray "A Reader"
+Date: May 11, 2009
+Helpful: 7 of 8
+Rating: 5.0
+Title: A Real Breakthough Technology (and I Mean that Seiously)
+Content:
+I've been using this HP Mini 1000 Netbook for a while now, and decided to write a review for Amazon because I'm so impressed with the device. If you are considering a "Netbook" like this, chances are you've never owned one, and are perhaps a bit skeptical about the device. So was I.
+First off, let's set the parameters. This isn't a multi-core Pentium processor machine with a high end dedicated graphics card. It isn't meant for running the most processor intensive applications faster than any other computer on the market. Most of you have one of these number-crunching machines at home already, or perhaps a high-end laptop with all the power-intensive support. This is a "Netbook," which means a slimmed down laptop that can be used for basic functions, such as web browsing, e-mail, and some minor picture viewing.
+That's a bit deceptive, because when you read descriptions like that, you expect that the HP Mini 1000 will essentially be a performance "dog" that can handle only a web browser, and perhaps Picasa. I can tell you, that's a real mistake.
+There's no doubt this in one of the lightest and smallest computers you've ever seen, but, surprisingly, it is also one of the most sprightly performing laptops you're likely to find in the price range (and speaking of price, it's basically a steal at between $400 and $500; I had two other laptops not long ago that were both sub-3 pound devices, and they each cost over $3,000). I went ahead and just took a gamble on loading all of a trial copy of Microsoft Office 2007 (Outlook, Word, Excel, OneNote, etc.), and then just piled on other applications I typically use on my regular laptop (a dual core T8100 processor in an HP Dv2000 body), including picture viewers, utility programs, etc.. Surprise. It not only handled all the software, but it runs the programs remarkably well, with little lag time and surprisingly deft performance. The Intel "Atom" Processor powering this thing can easily be seen as a "sleeper" technology that people are going to increasingly talk about.
+Boot time is also surprisingly fast. Mine usually loads within 20 seconds, certainly faster than my "powerful" laptop. Of course, the Mini is running Windows XP, not Vista, but still, that's pretty impressive. (By the way, I also installed Windows 7 RC1, and it worked just fine.)
+The wireless has thus far worked without problems. I connect to my home network with high security settings, and to public locations using open networks, all without a hitch so far. (The unit, however, does not support draft-n specifications, so you'll be connecting at g speeds.)
+The physical construction of this unit is excellent. Yes, it is small and light. But it is also sturdy in the way it feels, with little squeaking and a solid construction. The screen is bright and clear. And the keyboard is one of the best I've seen in any laptop. How did they do this?
+Finally, when youfeel the tiny weight and size of the battery as you take it out of the box, you'll be thinking that it will run 30 minutes, tops. Well, with the Atom processor sipping current at exceedingly low amounts, you'll likely see some 90 - 120 minutes on a single charge. It's amazing.
+You can probably tell I'm impressed with this device, because I am. If this is the beginning of "Netbooks," then I think they will become increasingly popular as people discover them. 
+Rating for Size and Weight: Five Stars
+Rating for Price: Five Stars
+Rating for Configuration: Four and 1/2 Stars 
+Pros:
+1. Exceedingly light and small
+2. Beautiful physical appearance
+3. Clear and bright screen (but glare can be an issue)
+4. Remarkable performance, even with software suites such as Office 2007
+5. Excellent keyboard with good tactile feel and large size layout (how is this possible?)
+6. Wireless that actually works
+7. Lightweight adapter cord (you've been stung on this before, haven't you? They finally got it right.)
+8. Two USB 2.0 ports, plus a network port and a HP adapter output port
+9. Built-in webcam
+10. Can put in a 2Gb memory card (even though it claims 1Gb is the limit)
+11. Very good battery life for such a dimunutive battery
+12. Great price for the package
+Cons
+1. No draft-N wireless available
+2. Bluetooth not on every model
+3. HP Proprietary connector required for VGA output 
+4. Non-common 1.8" hard drive format limits upgrade options to the 1.8" format
+5. Screen resolution, though very good, is not as high as we might wish (but is good enough)
+6. Display does not fold back as far as most laptops
+7. Outstanding performance probably drives us to push the unit past its stated purposes (i.e., just don't be upset if you can't run a C++ compiler while listening to Windows Media Player and editing an Excel spreadsheet)
+To sum it up, this is truly an outstanding breakthrough if you understand what the unit is designed to do. I'm already seriously considering substituting my main laptop with the HP Mini for most out-of-home tasks. Five stars.

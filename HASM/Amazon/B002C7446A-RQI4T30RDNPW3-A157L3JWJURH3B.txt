@@ -1,0 +1,17 @@
+ID: B002C7446A-RQI4T30RDNPW3-A157L3JWJURH3B
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A157L3JWJURH3B
+ReviewerName: Tecayehuatzin
+Date: August 23, 2009
+Helpful: 2 of 3
+Rating: 4.0
+Title: novice in Mac world, likes it so far
+Content:
+This is my first experience on a Mac, the user experience is far much better than on Windows machines, the set up was so easy, user restriction for children is quite nice from what time to what time they can use it. easy to set up home network could see shared drive on windows machine and access the data.
+Concerns or Cons: 
+1.-Time zone setting, currently I'm in Mexico , so even that it's PST (GMT -8:00) the daylight savings time is not the same time as US.
+2.- I don't know if it's my imagination or what, but the surface of the body feels like some very light electrical current tingling sensation.
+3.-The wifi card seams to disconnect from my network often.
+Other than that so far great machine, mostly it's just getting used to new user interface (lived so long in a windows world) 
+Recommend to anyone.....YES

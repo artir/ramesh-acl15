@@ -1,0 +1,16 @@
+ID: B001D8S9E2-R14AHXWH7IVR5W-A2C7RV7NWC02FQ
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A2C7RV7NWC02FQ
+ReviewerName: Hongyu Chi
+Date: December 16, 2008
+Helpful: 2 of 5
+Rating: 2.0
+Title: Poor quality LCD
+Content:
+I know the LCD of the new Macbook is not very good, but I didn't expect that it is is that bad. It is not on par with quite some other laptops on the market with much lower price tags.
+1. The black and contrast level very poor, comparing side by side with another laptop, the darkest black you can get is a dark gray.
+2. The viewing angle is extremely narrow. I am NOT as picky as to use a laptop while walking around, just move my head a little bit produces noticeable artifacts.
+So when viewing or watching dark toned pictures or videos, ink patches like effect is very obvious, though for more vibrant colored scenes like the factory supplied background pictures and the ones showing in Apple store, with the help of the bright LED backlight and glossy coating, it does not seem to be that bad.
+The new Macbook is definitely trendy and tremendously good looking as a successful consumer electronic, but the poor quality display will surely diminish its usefulness as any slightly serious tool for photo and video processing, which ironically boasted as the Mac's appeal all along.
+On the bright side, the Mac OS is very responsive and quick comparing to Windows Vista, thought you may find that the system settings configurable with the UI interface is limited to make the system less complex. One thing I found missing is that you can not change to use larger fonts at system level, it might be hard to read some texts.

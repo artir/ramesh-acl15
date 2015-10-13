@@ -1,0 +1,37 @@
+ID: B002XZLURC-R1NHKIC3IFF0B7-A19XNV2SRMTQNJ
+Category: Laptops
+Product: UL30Vt-X1-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A19XNV2SRMTQNJ
+ReviewerName: BTX
+Date: December 8, 2009
+Helpful: 11 of 38
+Rating: 3.0
+Title: It's A Good Start, But Asus Could Do So Much Better
+Content:
+Adding the following on December 12: I decided to purchase an Intel 80 gigabyte X25 SSD Drive.
+Removing the original hard drive and inserting the SSD was a breeze.
+Asus includes a DVD with an image of the hard drive for restoration purposes. I hooked up a USB DVD drive. Pressed Escape after powering up and the BIOS instantly recognized my DVD drive and allowed me to boot to the DVD.
+Sadly, the recovery process to the SSD stopped at 28%. I tried it multiple times from all 3 USB ports. I am guessing the Recovery DVD is flawed. So, I had no choice but to do a clean install using a Windows 7 Home Premium Upgrade Retail DVD. (I had one with a 3-license deal that a family member purchased.)
+The installation was blazing fast on the SSD. 
+I then used the Driver CD Asus includes to install all the drivers.
+Let me tell you, the SSD is fabulous. The computer boots up so fast. Shuts down fast. Runs fast. (Please know that I upgraded the SSD's firmware immediately prior to the install. The firmware restores Windows 7 Trim support to the SSD.)
+I paid $250 total for the SSD. I am very happy I made the drive switch.
+The original 500 GB hard drive was fine. But I had a little extra $$ and always wanted to try an SSD. Seriously, the wake up from sleep mode and boot up truly rocks.
+It is now time for my original ASUS UL30VT-X1 review.
+I hope to address what most people would want to know.
+Speakers: Surprisingly good sound. Volume is loud. Better than most small laptops. I think you will be happy with the sound. I am.
+Touchpad: Asus, what were you thinking? Why try to be different if the difference won't be better? While the Touchpad is usable and in time I suspect most will get used to it, I myself dislike it a lot. I dislike it so much I just had to attach an external mouse. After I put in a Logitech mouse with the tiny transmitter I was so much happier. I don't like the feel of the Touchpad. It has these tiny dots. You truly feel the dots. It feels odd under my finger. I really hate it. The multi-finger gesture thing just doesn't work well. Just not smooth. The glidepad is also just not smooth. I don't like the feel at all. In my opinion, there will be many like me who just don't like the Touchpad. And if you don't mind either a bluetooth or standard wireless mouse, you will easily choose to go that route like I did.
+I am upset at Asus for this stupid Touchpad design. So unnecessary. Not upset enough for me to return the laptop. (Again, I'll just mostly use a mouse.)
+The screen: If on battery and using the "save battery video mode," the brightness of the screen changes greatly. This lack of brightness really bothered me, so I will almost always use the enhanced graphics mode. (Thanks for the comments about how one can increase the screen brightness while in power save mode. I knew that and tried that, but for some reason on my unit the brightness will not increase. Maybe I got a lemon on that respect alone?)
+The quality of the screen is fine. No disappointment here. I like the screen. Very clear and a nice positive. The 13" screen is a good size.
+Battery: Started it on a full charge. Ran just Internet and email (nothing else) on WiFi connection. I got 5 hours. Better than most laptops. Yes, I know I'd get better battery life if I ran it with the decreased screen brightness on the power-save video card. But again, the lack of brightness bothered my eyes.
+When you first boot up the laptop out of the box, be patient. Might take 20 minutes till first full boot.
+I spent a lot of time uninstalling the crapware. Why do they think I want their lame games? They also put in a trial antivirus and trial Office 2007 with SQL Server. There is also a ton of Asus system software. 
+My laptop unit weighs a smidge under 4 pounds...basically it is 4 pounds. It's light, but if you have it resting bare on your legs for hours you are going to feel a bit uncomfortable from the 4 pounds. On the positive, after hours on my bare legs, the unit never got too warm. Temp was nice.
+I wish the laptop weighed 3 pounds or less, but the 4 pounds total is not a deal-breaker. I make this particular comment because Asus calls it "Thin and light." It's thin. And I guess it's light compared to a full-size laptop. But when I think "light" for a laptop I think 2 to 3 pounds...not 4 pounds. (I agree with the comments that this laptop is not really heavy. I didn't mean to make it sound like it is heavy.)
+The laptop boots up fast. Runs as fast as you'd expect from the specs...and I am happy with the speed.
+Body: Fingerprint and body oils magnet. Again, Asus, what were you thinking? Just plain dumb. The black looks nice, but your prints will be all over the thing. 
+Keyboard is fine. Most will be OK with the keyboard. I like it.
+Value: You know the price on this model will drop to $500 in 2010. If it was $500, I'd be more forgiving on its Touchpad fiasco. But for $800, I have to reduce stars because it was so unnecessary, as was the decision to make it a fingerprint magnet. Stars off for that too. Again, some won't mind the Touchpad as much, but a lot will agree with me.
+I am also reducing it 1/2 star because of the crapware and the fact they call it "light" when it weighs 4 pounds. How about "Thin and comparatively light"? (OK, commenters. Go ahead and tell me I just shouldn't keep it on my lap for so many hours straight. I know.)
+I am keeping this laptop. It's a great start by Asus. But if they released a similar model that corrected some of the disappointments, I'd sell it in a second and buy the newer model. If one is not in need of a new laptop now, maybe wait until Asus gets the next model right(redesigned touchpad, no-fingerprint magnet body, maybe a pound lighter but not necessarily).

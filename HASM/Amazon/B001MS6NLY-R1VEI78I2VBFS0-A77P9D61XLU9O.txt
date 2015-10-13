@@ -1,0 +1,15 @@
+ID: B001MS6NLY-R1VEI78I2VBFS0-A77P9D61XLU9O
+Category: Laptops
+Product: Sony-VGN-AW220J-18-4-Inch-Processor-Blu-ray
+ReviewerID: A77P9D61XLU9O
+ReviewerName: MK
+Date: February 3, 2010
+Helpful: 
+Rating: 5.0
+Title: Very nice
+Content:
+I like that it has the # pad and full 1080P screen and HDMI HD out + dolby 5.1 out.  Makes it so you can hook it right into anyones home theator and play a blue ray over it.  Runs both Vista and Windows 7 with no issues.
+I would say its the perfect laptop except it does have 3 small issues.
+1) It has vista blah...now it has windows 7 on it :)
+2) It is battery hungry, but then with that screen I would expect it to be
+3) The video card despite being a Nvidia 9600 gt can't use the nvidia drivers from [...], you have to get ones co-written by sony/nvidia which only seem to get updated about 1 time a year.

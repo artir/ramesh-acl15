@@ -1,0 +1,24 @@
+ID: B002XZLURC-R22S6MK3S5CZSB-A16DP6P3LB4Q4N
+Category: Laptops
+Product: UL30Vt-X1-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A16DP6P3LB4Q4N
+ReviewerName: G. Bullock
+Date: December 28, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: UL30Vt = 9/10
+Content:
+I am very impressed by what we get for the money with this computer. My main requirements for a notebook were portability and battery life, and this computer nails them both. In real-world use, I get about 8 to 10 hours of internet browsing and playing around with documents on a single charge in the battery saving mode. It's smaller and lighter than some of the reference materials that I have to carry around everywhere I go, and it's sturdy enough that I haven't bashed it to pieces - yet.
+Pros
+- Battery Life
+- Switchable GPU
+- Keyboard is excellent
+- Multi-touch trackpad
+Cons
+- Placement of trackpad; sometimes when I'm typing my thumb hits a random spot on the page and I end up erasing my work
+- Screen leaves a lot to be desired, and is nearly illegible in bright environments
+- Turbo Boost or whatever it's called is a pain to deal with
+- No BIOS options for overclocking / underclocking
+- Glossy inside surfaces show fingerprints and dust
+- LOTS of bloatware
+Overall, I'm very satisfied with this computer. It's my main rig right now, as I'm traveling for work until next summer, and it serves my purpose exceptionally well. Would certainly recommend to anyone who needs both power and portability, but won't be affected by the loss of an onboard optical drive.

@@ -1,0 +1,11 @@
+ID: B0017J7T7A-R11UI6DQV6J3ZR-A3L58C5B5TLA0H
+Category: Laptops
+Product: Apple-MB471LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A3L58C5B5TLA0H
+ReviewerName: John L. Nash "Johnnash"
+Date: December 28, 2008
+Helpful: 2 of 2
+Rating: 5.0
+Title: New Mac experiance
+Content:
+As someone with about 20 years in IT, mostly on the server/desktop side, all Microsoft, I have to say that using my new Macbook pro has truly been a pleasure.  I had considered getting a Mac for about a year and finally took the plunge a month or so ago.  The setup was easy and using the computer itself is also easy.  With parallels installed, I am still able to work in my PC based applications without any of the seeming lag that you normally see in any other virtualization product.  I liked it so much, i recently bought my daughter a Macbook.

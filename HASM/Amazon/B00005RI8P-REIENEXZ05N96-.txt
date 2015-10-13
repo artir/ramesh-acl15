@@ -1,0 +1,11 @@
+ID: B00005RI8P-REIENEXZ05N96-
+Category: Laptops
+Product: Apple-iBook-Laptop-600-MHz-PowerPC
+ReviewerID: 
+ReviewerName: 
+Date: August 8, 2002
+Helpful: 4 of 9
+Rating: 1.0
+Title: Too slow
+Content:
+If you want to buy an iBook, buy a faster one.  This one just can't run any modern software.  Heck, it isn't much good for old software.  Go for the 700MHZ G3 or don't bother!   If you need to run any graphics software then buy a G4.  My G3 can't hack Adobe anything!  If I could go back I would buy a G4 based Powerbook (I use one at work).

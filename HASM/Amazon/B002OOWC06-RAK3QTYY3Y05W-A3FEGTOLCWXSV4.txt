@@ -1,0 +1,23 @@
+ID: B002OOWC06-RAK3QTYY3Y05W-A3FEGTOLCWXSV4
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310RD-13-3-Inch-Ultrathin
+ReviewerID: A3FEGTOLCWXSV4
+ReviewerName: Damodar Chetty
+Date: March 12, 2010
+Helpful: 1 of 1
+Rating: 1.0
+Title: Public Service Announcement: Touchpad has a known issue
+Content:
+I returned this unit just one day after receiving it. It broke my heart to do so - I researched my purchase in great detail, and literally could go on at length about why this laptop is such a wonderful little device.
+Unfortunately, the deal breaker for me was the touchpad.
+Toshiba has just released a service bulletin (#98082909) that clearly states:
+"When using the left or right touchpad button, if either button is pressed too near the center, the cursor will no longer move with the touchpad or will move erractically.
+- - - - - - - -
+This issue is resolved with a hardware change.  Please contact Toshiba Support and arrange to have the unit repaired."
+It seemed tragic to have a brand new unit, and such a good looking one at that, spend its first few days being repaired.
+Obviously, the problem is a non issue if you are an external mouse user (which I am not).
+For those offended by this low rating, please note that my aim here is not to malign Toshiba (I actually am a big fan of their laptops). Instead, I'm hoping this information will spare you the immense frustration that I just went through with this product as I tried to figure out what in the world was happening with the touchpad.
+Update: 
+Call me fickle, but I've since found a new true love ... the Lenovo U450P. Check out my review of that product for details. My U450P meets all my needs with great panache ... and I recommend it very highly indeed.
+Happy mousing!
+~Damodar

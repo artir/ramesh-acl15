@@ -1,0 +1,12 @@
+ID: B0007Y79AI-R1O7WWWS9ERNES-A32U0X220Y08BC
+Category: MP3Players
+Product: Apple-iPod-Black-Generation-MODEL
+ReviewerID: A32U0X220Y08BC
+ReviewerName: Christoph Martin "Christopher Martin"
+Date: October 21, 2005
+Helpful: 9 of 19
+Rating: 1.0
+Title: Worthless Software
+Content:
+I'll start off by saying that I am biased against apple.  I bought this thing for my mom because she wanted something small and thought this looked cool.  The software for this is some of the worst I have ever used in my life.  I thought that the creative labs MediaScource was bad but I was wrong.  One thing that I could never figure out is why USB devices are so annoying to install.  You can't plug it in prior to installing the software and if you do you're SOL.  After installing and uninstalling every bit of the drivers that came with this thing I still cannot get iTunes to recognize the iPod even though Windows does.  And of course it will not function without iTunes.  Even during the installation when it tries to format the iPod it just stalls out (much to my dismay the progress bar is just on a set loop; so it does not actually show any progress).  
+I am not a fan of any of the MP3 player software; I personally would like to see it function like a removable storage device.  Just move whatever files you want over and it will play anything that's a supported file type (just like an MP3 CD you put in your car).  But it is especially annoying when the software you need won't recognize your device even though everything else does.

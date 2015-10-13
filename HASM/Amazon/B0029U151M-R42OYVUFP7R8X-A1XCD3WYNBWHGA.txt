@@ -1,0 +1,13 @@
+ID: B0029U151M-R42OYVUFP7R8X-A1XCD3WYNBWHGA
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A1XCD3WYNBWHGA
+ReviewerName: T Liang
+Date: July 5, 2009
+Helpful: 4 of 14
+Rating: 1.0
+Title: External TV or Monitor Connection do not work
+Content:
+A very disappointing issue: the Acer screen became fully distored when connect to external digital TV or extra monitor...no video output detected, nothing shown on the external devices; even with proper setting for external devices and proper cables.
+Sound quality is not to par on youtube or other video playback.
+It is a nice notebook if you are a light user and do not need external display devices connected.

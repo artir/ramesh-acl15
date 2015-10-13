@@ -1,0 +1,15 @@
+ID: B0017J7T7A-R21IXVOXMC9GO1-A252ZI9HVT3PLF
+Category: Laptops
+Product: Apple-MB471LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A252ZI9HVT3PLF
+ReviewerName: Robert M. Brown
+Date: October 27, 2008
+Helpful: 120 of 138
+Rating: 3.0
+Title: The Good, The Bad, and the Shiny
+Content:
+The new MacBook Pro has some significant advantages over the old one.  The new case design is attractive and solid.  The keyboard is crisp and responsive.  The hard drive is as easy to access as on every other notebook on the market (as opposed to requiring complete disassembly of the machine with the old model).  The new NVIDIA 9600 graphics adds a lot of 3D horsepower.
+There are some significant drawbacks as well.  The video output for connecting an external monitor is only compatible with one monitor at the moment.  Connecting to the kinds of monitor that people actually own will require the purchase (and carrying) of an additional $30 adapter.  Or two, if you need to connect to both VGA and DVI monitors.
+The new MacBook Pro actually has two video adapters; the NVIDIA 9400 and 9600.  The system uses the 9400 by default, which is less powerful than the 9600 but uses less power.  The 9400 is an integrated adapter without its own memory; it uses 256MB of the system RAM.  The problem is that it uses that 256MB RAM even when the system is using the 9600 adapter.  In other words, these laptops effectively have 256MB less RAM than the previous generation.
+The new display is very clear and sharp, at least as good as the previous generation's screen.  It is also covered with a pane of glass and is very, very shiny; much shinier and more reflective even than the previous generation's 'glossy' screen.  If the lighting conditions in your work environment are exactly right, the screen looks wonderful.  If there is any light behind or above you, the screen acts as a mirror and the glare and reflections can be very annoying.
+The new MacBook Pro is a wonderful computer, but it is not a clear upgrade from the previous version and the mirror finish of the new screen means that no one should buy this computer without actually trying it first.

@@ -1,0 +1,14 @@
+ID: B000WWKM2M-R124VQ4K7D4PL8-A1ZY1VXL6DCE2T
+Category: Laptops
+Product: Pavilion-TX2000Z-NOTEBOOK-Dual-Core-FINGERPRINT
+ReviewerID: A1ZY1VXL6DCE2T
+ReviewerName: O. Spichenok
+Date: March 28, 2008
+Helpful: 11 of 14
+Rating: 1.0
+Title: It is not a REAL tablet. Period.
+Content:
+I bought it directly from HP and received 30% discount to find out a week later that HP stopped producing tx1000 (hence the large discount). What they do not tell you is that this model does not have Wacom digitizer and active display. This model has a passive display,and what that means is that you would be able to write on the screen as successfully as you try to write something in you Blackberry.
+ When you try to write on the screen you have to apply so much pressure and the hand has to be at a certain angle. Even that did not always help me as a result I got a bunch of dots or some weird looking lines that did not resemble any letters. The pen primarily serves a function of the mouse. And also forget about trying to draw anything, it will not work the same as the writing.
+The computer is loaded with HPs bloatware (as usual) and Vista is slower than XP. The comp is unable to play any games (tried Command and Conquer) due to its weak videocard. In addition the screen is very grainy though it was expected.
+If you you are looking for a real tablet get yourself their new tx2000 which has Wacon Penable digitizer and an active display. That baby will allow you to write on it like on the real paper with no problems at all.

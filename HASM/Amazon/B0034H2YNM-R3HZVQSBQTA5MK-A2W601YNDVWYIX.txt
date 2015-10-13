@@ -1,0 +1,13 @@
+ID: B0034H2YNM-R3HZVQSBQTA5MK-A2W601YNDVWYIX
+Category: Laptops
+Product: UL80Vt-14-Inch-Light-Laptop-Silver
+ReviewerID: A2W601YNDVWYIX
+ReviewerName: epidemico616
+Date: April 5, 2010
+Helpful: 2 of 2
+Rating: 2.0
+Title: mixed bag
+Content:
+after only 3 months of having this computer the usb drives failed on me and refused to recognize any device as usb 2.0 - this led me to realize that asus HAS THE WORST CUSTOMER SERVICE. to compound my dissatisfaction with the purchasing experience overall, asus hasn't updated any of their PROPIETARY drivers since the laptops release. what this means is that you HAVE to use their drivers (if you want the system to operate in anything higher than 600x400 res.) and that your system wont be able to utilize flash 10.1 or the cuda architecture 3.0 (as it is stuck with 2.2)
+when it works it works. the battery life for the first month was as promised at a whopping 11 hrs. although im now lucky to get 5 (in power save mode *and yes i did a clean install of the os and am running only the essential applications & drivers). 
+the bottom line is that if you are on the fence about this one, i implore you to consider avoiding ASUS. a good alternative would be the m15x or perhaps the sager NP8690. both are far more powerful and about the same price. I'll make sure to update this if i ever hear back from asus

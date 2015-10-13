@@ -1,0 +1,11 @@
+ID: B000FK850C-R1GTXWG8D904CP-A34N0HVG9SO749
+Category: SpaceHeaters
+Product: SH-1508-Tower-Ceramic-Heater-Ionizer
+ReviewerID: A34N0HVG9SO749
+ReviewerName: Heater Hal
+Date: December 3, 2008
+Helpful: 2 of 2
+Rating: 2.0
+Title: I didn't like it.
+Content:
+I returned it due to the low-fan speed not working, the fan was always on high speed, even when in low-heat mode.  But, I also noticed, when in auto mode, when it came close to the set temp it would switch from high heat to low heat (I noticed by feeling the heat with my hands, as my unit's fan was stuck on high all the time), but it wouldn't cycle off because it didn't reach it's set temp yet, but this made it run alot longer to reach the set temp.  If it just stayed in high heat mode until it reaches the set temp then it would cycle off sooner.  So, I didn't like the way it worked - plus when it's real cold out, it may never be able to reach the set temp since it goes into low heat mode when it gets close.  I think this is a design flaw.

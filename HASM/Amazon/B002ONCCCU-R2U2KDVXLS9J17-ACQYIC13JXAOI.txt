@@ -1,0 +1,24 @@
+ID: B002ONCCCU-R2U2KDVXLS9J17-ACQYIC13JXAOI
+Category: Laptops
+Product: G60-530US-15-6-Inch-Black-Silver-Laptop
+ReviewerID: ACQYIC13JXAOI
+ReviewerName: S. Barrett
+Date: January 5, 2010
+Helpful: 5 of 5
+Rating: 5.0
+Title: A nice computer at a budget price
+Content:
+I purchased this Windows 7-64 bit notebook to replace a crashed desktop.  It's nice enough that there's a sleek design with its black case and aluminum touchpad and trim, but there's a lot more "under the hood" of this budget-priced model. 4GB of installed DDR2 @SDRAM with 1MB of installed memory cache, a 320 GB hard drive and a 2.1 Ghz  speed on its T4300 processor.  The 1366 x 768 BrightView is crisp and clear with a 15.6 display size.  The G60 weighs less than seven pounds yet has enough bells and whistles to perform like a desktop.  In fact, I am using it as one with a purchased flat screen monitor and wireless keyboard and mouse.
+Ports/Connectors:
+3 USB 2.0 
+RJ-11 modem
+RJ-45 LAN
+HDMI
+HDDB15 VGA
+headphone
+microphone
+Additionally, there's a webcam and a 5-in-one media reader (alas, not large enough for a compact flash card, but an external card reader solved the problem).
+Windows 7 Home Premium 64-bit edition is pre-installed and took a little getting used to after my XP machines, but I think it ultimately will make home networking a much easier install as the system is quite intuitive.
+This is my second HP computer and I am impressed with its performance.  I especially like the software compatibility feature that allows me to run older programs in XP mode.
+Gripes?  Very few.  The 5400 rpm drive speed seems a little slow after a 7200 desktop speed and I would not recommend it for serious games, however, for the beginner to average user, it's a good solid machine.
+Recommended.

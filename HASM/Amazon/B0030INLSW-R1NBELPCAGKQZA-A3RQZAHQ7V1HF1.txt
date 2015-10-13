@@ -1,0 +1,25 @@
+ID: B0030INLSW-R1NBELPCAGKQZA-A3RQZAHQ7V1HF1
+Category: Laptops
+Product: Toshiba-Satellite-L505-GS5037-TruBrite-15-6-Inch
+ReviewerID: A3RQZAHQ7V1HF1
+ReviewerName: N. J. Heldt
+Date: March 9, 2010
+Helpful: 125 of 125
+Rating: 4.0
+Title: A fantastic mid-range laptop. Great for college students.
+Content:
+Not too long ago, I needed to buy a new laptop computer since my old Dell computer nearly died. (There was some sort of hard drive problem that would only allow me to start up in 'safe mode.') After scouring Amazon for several days, I decided upon this Toshiba Satellite computer. It seemed like the best value for the money I was willing to spend.
+Pros:
+Big screen -- This is great for watching movies in true 16:9 ratio. The screen is also really bright so you won't miss any details.
+It has a number pad -- I really like being able to use 10-key typing to enter numbers in documents and web sites. Having a number pad is surprisingly necessary.
+Fast start-up / Fast wake-up -- This computer has enough resources to start up quickly from an off state. The start-up feels like it could be a little bit faster, but, again, it is still significantly faster than my old Dell. I usually don't put my computers in hibernation mode when I walk away for any extended period of time, so I can't critique that feature of this computer.
+Stylish -- This computer looks sleek and sophisticated. It is a real joy to look at.
+Generous system resources -- This computer has 4GB of RAM and 500GB of hard disk capacity. It also has those new Intel processors that feature "hyper-threading" technology. Since Windows 7 is a system hog, a new laptop should at least have 6GB of RAM, but 4GB seems to be just fine for this machine. I can switch quickly between programs, start programs quickly, and end them quickly, too. A 500GB hard disk is just an astoundingly huge amount of storage space. There is more than enough space for photos and movies.
+The mouse-pad -- I don't know how Toshiba did it, but the mouse-pad is the coolest feature of the laptop. The mouse-pad looks like it was spray-painted on top of the plastic shell. It also works really well AND it offers multi-touch functionality. If you need to increase the size of the font on a web page, all you do is spread two fingers on the mouse-pad. It is actually pretty damn cool.
+Cons:
+Atrocious speakers -- OK, the worst feature in this computer are the absolutely horrible speakers. The sound that comes from them is tinny and without depth. I find it interesting, to say the least, that Toshiba would have a mid-range computer with decent hardware specs but include insufficient speakers. Whoduthunk?
+Not enough ports / Bad port locations -- Again, for the amount of hardware specs this computer has, Toshiba only included 2 USB ports. The laptop shell is spacious enough to include 4 USB ports without any problems. My old Dell laptop had 4 USB ports. Also, the USB ports and power DC-in locations are really inconvenient: They are located on the right side of the machine. Most people are right-handed BUT protruding cords interferes with desk space which, in turn, limits the space that most people might have because of the locations of the ports. The USB ports and DC-in power port should be re-located to the back of the machine.
+Other details:
+The computer is finished with a matte black plastic shell. Just so you know, matte (any color) shows off every single speck of dust and finger print! After I type this review I'm going to wipe down the whole machine with a clean cotton cloth. Also, the keys are matte black, too, so they really show off finger prints! Don't laptop manufacturers know that laptops are dirty machines?! This laptop also weighs 6lbs. For me, it isn't heavy, but for others it might be too heavy.
+Final thoughts:
+Overall, I really like this laptop. It has plenty of resources for a multitude of applications. I can play some graphically intense games without too many problems. It has plenty of processing speed, RAM, and hard disk space for just about anything you can throw at it. This is a great all-around mid-range laptop. The only reason I didn't give this laptop a 5-star rating is because there simply are not enough USB ports, and the locations of the ports should be on the back of the machine instead of the right side. The speakers are also sub-par for what could have been included.

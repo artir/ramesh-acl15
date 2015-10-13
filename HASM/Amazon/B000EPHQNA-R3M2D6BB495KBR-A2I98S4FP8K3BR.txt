@@ -1,0 +1,32 @@
+ID: B000EPHQNA-R3M2D6BB495KBR-A2I98S4FP8K3BR
+Category: MP3Players
+Product: Apple-shuffle-Bright-Generation-MODEL
+ReviewerID: A2I98S4FP8K3BR
+ReviewerName: Bridge Burner
+Date: December 17, 2006
+Helpful: 30 of 54
+Rating: 1.0
+Title: Disappointed
+Content:
+First let me say that this iPod Shuffle is my first experience with an MP3 player. I don't listen to music much when I'm out and about but I've been flying for business more lately so I wanted something less bulky than my portable CD player. I didn't need one of the large capacity models, 240 songs is more than enough to get me through any round trip flight. Apple being the leader amongst MP3 players I figured I couldn't go wrong with an iPod.
+I have to say that I am disappointed with the iPod Shuffle.
+The frequency response is not as advertised (20hz - 20000hz) and the overall sound quality is quite flat and poor. Particularly absent is the bass. This frequency range is commonly featured on most portably audio devices including my old portable CD player and it provides plenty of bass. I tried swapping headphones for the ones I use with my CD player; it sounded better but only barely. I tried the same song on my CD player, iTunes on my PC, and then on the iPod and the iPod was the worse by far. 
+I'll also never use the provided ear buds. They do not fit well in my ears, nor do they stay in (in addition to not sounding very good). 
+Another draw back is that the Shuffle can only be charged from its docking station, which can only be plugged into a USB port on a computer that is on. This kinda makes it difficult when you're on the road and need to charge the thing. You could try to beg some juice off a fellow traveler I suppose [Approaching someone at the airport you see using a laptop] "Excuse me sir, would you mind if I could suck some power from your computer's USB port for my iPod?" 
+I also didn't think I'd mind not having some indication of what I'm listening to (even a track number display would be nice) but it is an inconvenience not knowing where you are in your play list. 
+The provided instructions are very thin, especially on how to use iTunes with your iPod. I've been using iTunes for a while and it took me some time to figure out how transfer music to the iPod (after I figured out I needed to upgrade iTunes to version 7+). 
+Speaking of the software, my computer has crashed more in the last week than it has in the last 2 years after installing iTunes 7. I cannot boot the computer with the iPod in the docking station and the docking station plugged into the PC. I also cannot put the iPod on the docking station without first having iTunes running. Doing either of these causes the computer to lock up.
+There are a couple things I do like. I like that it's small. And I like that the volume can be turned up pretty darn loud to drown out the screaming children on the plane.
+I cannot recommend the Shuffle if it is going to be your primary means of playing your music. It works well from a functionality standpoint but falls very short on quality. An $80 learning experience to be sure...
+ 
+Pros:
+Small
+Volume goes up high
+More than enough storage space for casual use
+ 
+Cons:
+Poor audio quality
+Poor ear buds
+Can only charge with USB docking station
+Poor instructions
+Software crashes my computer

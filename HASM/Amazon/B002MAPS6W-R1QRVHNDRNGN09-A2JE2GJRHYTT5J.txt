@@ -1,0 +1,19 @@
+ID: B002MAPS6W-R1QRVHNDRNGN09-A2JE2GJRHYTT5J
+Category: MP3Players
+Product: SanDisk-Sansa-Clip-Player-Black
+ReviewerID: A2JE2GJRHYTT5J
+ReviewerName: Iliko Sama
+Date: January 28, 2010
+Helpful: 2 of 2
+Rating: 3.0
+Title: The player is nice
+Content:
+This is a nice, inexpensive player. There are many reviews on amazon already, let me get straight to the pros and cons.
+PROS:
++Native support of FLAC - you wont find that on any IPOD.
++Memory card slot - allows you to take really huge collection of music with you for a very low price.
++No silly ITUNES, it plugs like a flash drive. No mess with plugging into the friend's computer or anything else like that.
++The device remembers when you left your last audiobook and asks you if you want to continue from the saved spot.
+CONS:
+--Battery live is MUCH shorter than advertised. Works around 4 hours of listening to music for me, or even less while exposed to low temperatures (-15°C outside, should be around 0°C inside my pocket). I can't say the charging is fast. Well at least it charges via USB slot, its not so troublesome as external charger. But Sandisk should really think about the bigger battery there in next version.
+-SLOTRADIO icon is very, very annoying and useless. Sandisk, if you really want it to be there just put it under settings or somewhere else deeper into menus, not just below the music itself.

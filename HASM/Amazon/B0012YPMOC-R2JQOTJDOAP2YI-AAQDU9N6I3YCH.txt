@@ -1,0 +1,14 @@
+ID: B0012YPMOC-R2JQOTJDOAP2YI-AAQDU9N6I3YCH
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: AAQDU9N6I3YCH
+ReviewerName: Brian Legros
+Date: October 4, 2007
+Helpful: 3 of 14
+Rating: 2.0
+Title: Not a Flash Drive that Plays Media
+Content:
+I was looking for a PMP that could interact like a simple flash drive.  I wanted to drop my media (in any of the many listed formats) onto the player and go.  Unfortunately with music (AAC encoded or not) you need to use WMP or Creative's sync software to transfer music to the player.  Doing so will create the .alb files necessary for transfer that allow the player to recognize your music and categorize it; why ID3 tags weren't good enough, I have no idea.
+The video converter that came with the player couldn't convert any of my Xvid movies to the correct resolution and the player couldn't play the videos when transferred over if not in the correct resolution.
+The hardware is nice and sleek and the software is flashy, but don't fall  for the glamor if you're looking for a simple PMP that you can just drop files onto like a flash drive.  I have a Zen Micro (not a PMP) and love it; for now I'll be sticking with that player and living disappointed in Creative.
+NOTE : If anyone uses Juice for podcasts then look elsewhere; I was not able to get Juice working with this player.

@@ -1,0 +1,19 @@
+ID: B002C745OQ-RKLUXQ7SA4Q3Y-A251AUO4BYE25Q
+Category: Laptops
+Product: Apple-MacBook-MB986LL-15-4-Inch-Laptop
+ReviewerID: A251AUO4BYE25Q
+ReviewerName: Mark H. Webster
+Date: November 22, 2009
+Helpful: 12 of 12
+Rating: 5.0
+Title: 12 years of windows, and now, liking the mac
+Content:
+I didn't want to convert over to mac land. As a college teacher and a twelve year windows user, I was a windows convert. I live and work on a windows network of 60 pc's. I tried to find a windows laptop that had good reviews, was relatively light and thin, was made from aluminum and had a battery life of 6 hours. I was unable to find anything that fit those parameters except this macbook. 
+Most of the software I use on a daily basis was windows, so when I bought this mac I also bought Parallels, and a copy of Vista so that I could run vista in a virtual window on my mac. I wasn't about to run out and buy all new software just because I bought a laptop with a goofy operating system.
+Three months in, to my surprise, I am running most of my software in the mac os. It runs better there. The mac operating system is more reliable than windows. When people used to tell me that, I blew them off, thinking they were just mac fanboys. 
+I'm not a fanboy yet, but I am impressed with this new laptop. I did buy office 2007 for windows so I could use excell on the mac. Yes I know there is a mac version, but I also needed it on my other computer, which is a pc. I have had up to 9 word documents open simultaneously on my mac, in vista with no problems. Occasionally I see some lagging, and, as with any windows application, either office will crash from time to time, or vista will freeze up. 
+The cool thing about this macbook pro is that when windows goes belly up, or appears to be thinking about it, I simply click the mac desktop under vista's virtual window and  open some mac software to carry on working. Windows will either die, or sort itself out as I work in mac land. Windows does not stop me from working as it dies, because it is just a virtual window, and the mac os is always running behind it, ready to go. 
+In three months, I've only seen the mac os crash twice, and both times it was my fault. Once it was when I was trying to sync my blackjack 2 with the mac email software. Windows mobile does not like running in a virtual vista window (via parallels), so I had to find some crossover mac software so I could sync my windows cell phone with my new converted mac address book. That was tricky, and cost $50, but now the two machines (macbook and blackjack 2 cell phone) are on speaking terms.
+The battery life is as impressive as advertised. I've never timed it to the end, but I do know it went 5 hours one time, and was not out of juice yet. I missed explorer for a while, but once I got used to the mac finder and realized that the mac does have a directory path, I could find my way around. Now I am faster in finder than I am in explorer.
+I am a power user. I run the adobe creative suite, and frequently have photoshop, indesign, illustrator and dreamweaver open at the same time. Plus I will be running office in vista, with several browers open. The mac has no problem keeping all these software applications running simultaneously. Safari is a cool browser. I like it better than firefox.
+There are of course a lot of other cool things I could comment on, but others already have. I'm glad I bought a macbook pro, instead of a windows laptop. It's an awesome machine. Yes it costs more, but you get what you pay for and I wanted something that would last a long time.

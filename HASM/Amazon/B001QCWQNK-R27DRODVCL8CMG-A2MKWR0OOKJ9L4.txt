@@ -1,0 +1,17 @@
+ID: B001QCWQNK-R27DRODVCL8CMG-A2MKWR0OOKJ9L4
+Category: Laptops
+Product: Apple-MacBook-MB881LL-13-3-Inch-Laptop
+ReviewerID: A2MKWR0OOKJ9L4
+ReviewerName: Todd Slavinsky
+Date: July 22, 2009
+Helpful: 
+Rating: 5.0
+Title: Everything I wanted and more...with tiny tweaks
+Content:
+My MacBook is my second Mac - my first was a 20" iMac G4 that lasted me four years and was still working fine when I sold it.  My wife also had a iBook G4.
+I use a PC all day at work, and after selling my iMac briefly used a work PC at home as my primary computer for about three months.  That was enough for me, I needed another Mac for home - I just enjoy the experience much more.
+I initially had shopped for PC laptops with larger screens, and was a bit hesitant to get the 13" screen, but it's worked out well for me - I use a DVI to HDMI cable to work at home on a 22" widescreen monitor, and still have a laptop that is small enough to lug around when needed.
+I'm not thrilled with the initial specs on the MacBook, but a couple of them were easy to rectify - on the advice of another reviewer here, I immediately upgraded to 4GB of RAM on my own, and replaced the drive with a 360 GB 7200 RPM Seagate drive.  The system screams now, and I have plenty of room for everything I need.
+I also installed 64-bit Vista using Bootcamp for my occasional work-at-home projects, I can't speak highly enough of this functionality. 
+Included software is great - out of the whole iLife suite (iPhoto, iDVD, iMovie, GarageBand, iWeb), I've used all of the software short of iWeb, and they've all been very handy and intuitive.
+I will be purchasing more Macs in my future.

@@ -1,0 +1,12 @@
+ID: B0013FLU96-R1WLXAC7JU5PQQ-ALDC5J446D4KZ
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: ALDC5J446D4KZ
+ReviewerName: Joe Hardin "Joe Hardin"
+Date: June 18, 2008
+Helpful: 2 of 3
+Rating: 5.0
+Title: Love it
+Content:
+It is a dynamite laptop.  I have had no problems with it crashing or not running.  I shouldn't need to say that but my old WinXP laptop would do this constantly.  I did upgrade the memory to 4GB right away since it is so easy to do and much cheaper than having it factory installed.  I did also install VM Ware Fusion to allow me to run Windows only programs and it works great.  The set-up is really the best of both worlds, simplicity and reliability of Mac and compatability of Windows.
+Highly recommended.

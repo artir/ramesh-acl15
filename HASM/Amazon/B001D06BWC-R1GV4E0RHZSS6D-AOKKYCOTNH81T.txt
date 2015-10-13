@@ -1,0 +1,14 @@
+ID: B001D06BWC-R1GV4E0RHZSS6D-AOKKYCOTNH81T
+Category: MP3Players
+Product: Archos-60-Internet-Media-Tablet
+ReviewerID: AOKKYCOTNH81T
+ReviewerName: Mark D. Mendonca
+Date: May 30, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: Very Good Internet and Media device
+Content:
+I am using it with Windows and Linux (Ubuntu), works very good and automatically chooses between windows media device and linux/macos access, reproduces lots more content than the iPod (I gave goodbye to mine) but I hope they increase the number of available applications and open the devices SDK so people can start developing more good stuff for the platform.
+For those geeks who buy it, it has great support for Widgets and Flash applications, just built your own and load it into the device.
+Have Fun,
+Mark.

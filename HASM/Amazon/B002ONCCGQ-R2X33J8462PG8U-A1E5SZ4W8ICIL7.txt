@@ -1,0 +1,11 @@
+ID: B002ONCCGQ-R2X33J8462PG8U-A1E5SZ4W8ICIL7
+Category: Laptops
+Product: Pavilion-DM3-1030US-13-3-Inch-Silver-Laptop
+ReviewerID: A1E5SZ4W8ICIL7
+ReviewerName: Lewis M. Weinstein "author of CASE CLOSED, A ...
+Date: January 30, 2010
+Helpful: 
+Rating: 1.0
+Title: two HP laptops don't work; enough with HP!
+Content:
+I have returned this computer. The problem was a failure to properly click between sheets on Excel spreadsheets. The bigger problem was the failure of HP Support to solve the problem, despite several hours of effort on their part and mine. This is in the context of another HP computer failing after 13 months (1 month after warranty expiration) with a motherboard losing USB, sound and other connections, sometimes booting up and sometimes not. HP offered only to replace the motherboard at a cost of more than $400. So I returned the new HP (the one I'm reviewing here), put the old one (also purchased from Amazon) in the closet, and bought a Toshiba Satellite, which (so far) is outstanding. BTW, the extended warranty on the Toshiba (I've learned my lesson) is much less expensive than for an HP.

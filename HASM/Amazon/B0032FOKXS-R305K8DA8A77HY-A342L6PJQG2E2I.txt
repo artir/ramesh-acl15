@@ -1,0 +1,28 @@
+ID: B0032FOKXS-R305K8DA8A77HY-A342L6PJQG2E2I
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A342L6PJQG2E2I
+ReviewerName: E. Bukoski
+Date: February 21, 2010
+Helpful: 3 of 3
+Rating: 5.0
+Title: Great Thin and Light Notebook
+Content:
+I've had the UL30vt-a1 for just over a month and it has met all of my needs perfectly.  It is the perfect balance of mobility and power.  I use it primarily for web development, office apps, internet, email, and occasional gaming.  It runs all of my development tools without issue and feels just as snappy as my desktop Core 2 3.0 GHz. And Windows 7 64 bit is a dream after Vista.  The battery life is amazing; I just finished a 7 hour development session on battery and still have 15% left.  The laptop is very lightweight which is really important to me as I need to carry around two laptops.  I have used it to play a couple of games (Modern Warfare 2 and Company of Heroes) and it has played them with moderate framerates (30-40 fps) although I did have to reduce settings.  I have found the trackpad to be OK; not great but OK. I certainly don't have the issues others have mentioned.  The trackpad buttons are pretty hard to click; I mainly use the trackpad  (double tap, etc) itself and avoid the buttons.
+My biggest con has been the build quality, it is less than it should be.  My original keyboard had a lot of flex on the left side and some keys would make a "jingle" noise when pressed.  Everything worked fine but the jingle noise drove me crazy because I kept thinking something was broken.  I called ASUS support and they offered to send me a replacement keyboard.  I received it within a week and installed it myself.  The new keyboard eliminated the flex and the annoying jingle noises.  Kudos to ASUS for the quick and free replacement but if they have good keyboards available they really should have made sure that the notebooks shipped with them in the first place.
+Another con would be more of a warning to buyers that understanding the Turbo, GPU, and power management settings is not for beginners.  If you are experienced with computers and Windows PC/laptops the settings are easy to use and will make sense.  However beginners might not understand all the technical details with this laptop, like that the laptop can't switch GPUs if there are still some processes running using the other GPU.  A user who doesn't understand this might get only 4-5 hours of battery life even on "Battery Savings" mode and wonder what is going on.  
+All and all though this has been a fantastic laptop for me and I highly recommend it to anyone looking for something much more powerful than a netbook that is also lightweight and has long battery life.  There is nothing else on the market like this.  I give it 5 stars (wish I could give it 4.5 for the build quality issues).
+PROS
+Fantastic battery life
+Lightweight
+Runs cool
+Looks great
+Performance 10x better than a netbook
+No fingerprint smudges with silver version
+Good customer support
+Window 7 64 bit 10x better than Vista
+CONS:
+Understanding Battery/GPU/CPU settings not for beginners
+Build quality could be better
+Core i3/i5 CULV laptops just around the corner
+Express Gate software at wrong resolution

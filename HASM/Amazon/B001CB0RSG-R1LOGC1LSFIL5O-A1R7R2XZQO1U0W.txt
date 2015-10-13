@@ -1,0 +1,25 @@
+ID: B001CB0RSG-R1LOGC1LSFIL5O-A1R7R2XZQO1U0W
+Category: MP3Players
+Product: Creative-Player-Wireless-Built-Speaker
+ReviewerID: A1R7R2XZQO1U0W
+ReviewerName: Braden
+Date: January 19, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: A great player with a few problems.
+Content:
+I got this player as an early Christmas gift a few months ago and I love it. I wanted to get something other than an iPod, and this is a great player, despite  a few problems. 
+The sound on the player is great. The sound quality is much better than an iPod's. The X-fi part of the player is a nice bonus. Some people say that it makes the music sound worse, but with the proper firmware upgrades it makes the music sound better. The crystalizer makes the music crisper and sounds great, while the expand function seems to dull the sound a bit. The volume can go up high; at volume level 5/25 it is plenty loud enough with most headphones.
+I like the controls on the player also. There are 13 buttons, but I have no difficulty navigating menus at all. There is a play/pause, back button, contextual menu (like the right-click function on a computer mouse), and a shortcut button which will take you to any screen you assign it to, such as the "now playing" screen I use for mine. The nine navigation buttons in the center are easy to use. The center button is the enter key, and you have left, right, up, and down to go through the menus. The left corner keys are used to go to the very top or bottom of a list, and the right side ones allow you to scroll through a list by letter. The extra buttons actually make it easier to do what you want to do and I don't find at difficult at all to navigate any menus; I actually find almost as easy as an iPod to use.
+The video quality on the player is very good. The only problem is that you have to convert videos into THE supported format used by the player using the included software, and this is irritating. The software only converts certain video file types, but common ones all work, and the videos can be in any resolution. On the player the only complaint I have about the video is that you cannot easily seek to any point you want in the video; you can do it but it's painfully slow. This seeking problem also is a problem when playing audio files. A 1 and 1/2 hour movie will be about 500 MB which is pretty reasonable. 
+As for some of the other features: 
+Online features are incredibly slow and are mainly a gimmick.
+The FM radio is a great feature but signal strength could be better.
+An SD card slot allows you to expand memory but is not integrated, so you can't copy files from the card to the player.
+Menus on the player are customizable, and you can make wallpapers using photos you have. Screen brightness can be changed and at 10% I'm able to get around 12 hours of music out of the battery (with the X-fi on). The only way to turn the screen off is to put the player on hold, which is annoying. The X-fi and equalizer drain the battery fast but are worth it. 
+Bundled headphones are of very good quality ($50 value)
+Creative Central is a horrible piece of software. Use Media Monkey instead to transfer your files. Dragging and dropping also works. 
+Many people have complained that the player crashes a lot. Mine has only done so once, and that was because I unplugged it while it was syncing files. Make sure you have the latest firmware updates. 
+The player accepts common audio formats such as MP3, WMA, and AAC. Only the MP3s can be in VBR and the AACs must be unprotected. Your iTunes purchases won't work on the player unless they are the "Plus" versions. 
+The screen is fragile so buy a case for the player. I recommend a leather case from Loreve. 
+In general a great player. The sound is superior to an iPod's and the player is packed with extras which make it well worth the money. But the bad software makes syncing files a challenge, and the interface is not as user-friendly as an iPod. In any case I like the player much better than my old Nano.

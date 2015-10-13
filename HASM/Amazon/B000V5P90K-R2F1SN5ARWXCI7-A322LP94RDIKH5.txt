@@ -1,0 +1,18 @@
+ID: B000V5P90K-R2F1SN5ARWXCI7-A322LP94RDIKH5
+Category: DigitalSLRs
+Product: Canon-40D-10-1MP-Digital-Body
+ReviewerID: A322LP94RDIKH5
+ReviewerName: ArtPhotoMusicNut
+Date: June 15, 2008
+Helpful: 85 of 102
+Rating: 2.0
+Title: Quality issues, solved for now
+Content:
+I really wanted to like this item. I had a Canon point and shoot from 2005, and got the Rebel XTi (5 stars after 10,000+ snaps of flawless performance) in December 2006. Over the next year and a half, I got several Canon lenses including 2 L lenses. When the 40D came out, it got on my radar, since I wanted something more professional, I was worried about my XTi shutter giving out, and frankly my lenses were supposedly better than my camera.
+I finally made the plunge and ordered the 40D body in May. The first one was DOA and would not power up. I returned it to Amazon and got a replacement body which functioned fine for 3 weeks. Now it has developed a "stuck pixel" (a red dot in the same place on the frame...see various forums). 
+One solution is to clone it out, but since I occasionally do a shoot of several hundred pics and have sold some prints this is not really practical on a large scale. And it does show up on enlargements if it is in the shadows. It looks like someone is using one of those laser pointers on your pic.
+I have a message in to Canon support on this. I suspect they will want me to ship the body to Irvine and have them deal with it.
+I suppose I can live without it for a couple of weeks since my XTi is, as I said, working flawlessly, but I really hate shipping precision equipment like this. It is expensive (my shipment back to Amazon on the first one was over $50 with insurance) and the camera takes needless knocks.
+I hope Canon reads this. My XTi and the Canon lenses have been flawless, and every picture I took that was less than great was my error. But the 40D is now down two strikes.
+June 21 update: Canon recommended shipping to their service center (and they would provide prepaid shipping labels). Searching on the net I found a procedure for a do it yourself remap. Basically, you run the manual sensor clean procedure for 30 sec or so with a lens on and a cap on the lens. It seems to have worked. So the symptom is a stuck pixel from images about 600 to 900, then it went away, possibly as a result of this procedure. I will not send it back to Canon unless the problem reappears.
+When it is working, the camera is 4+ stars, not ready to give it 5 yet.

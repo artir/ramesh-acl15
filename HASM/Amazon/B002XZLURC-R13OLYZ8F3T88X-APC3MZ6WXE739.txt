@@ -1,0 +1,17 @@
+ID: B002XZLURC-R13OLYZ8F3T88X-APC3MZ6WXE739
+Category: Laptops
+Product: UL30Vt-X1-Light-13-3-Inch-Laptop-Battery
+ReviewerID: APC3MZ6WXE739
+ReviewerName: J. Hilewick
+Date: February 3, 2010
+Helpful: 
+Rating: 4.0
+Title: Solid Full Featured Netbook trouncer
+Content:
+Was considering top of the line netbooks until I found this.
+Pros:
+Battery life is really as long as the claims
+keyboard has a good feel
+hdmi output
+only con:
+switching between graphics performance modes is a little buggy if used while not plugged in

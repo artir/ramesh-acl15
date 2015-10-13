@@ -1,0 +1,12 @@
+ID: B0013FLTNS-R132YGMRYPJ5OP-AZF5848HSHPTA
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: AZF5848HSHPTA
+ReviewerName: Artak Aleksanyan "journalist_2008"
+Date: April 10, 2008
+Helpful: 1 of 20
+Rating: 4.0
+Title: My first Mac and it's Pro
+Content:
+I have always used, but after purchasing iPod, I got familiar a little bit about what's this Mac-omania is about. So, I bought new MacBook Pro. 
+It's almost perfect, but I have one problem with this laptop. I cannot synchronize your Hotmail and Yahoo accounts with iMail. Does anyone know how to do that?

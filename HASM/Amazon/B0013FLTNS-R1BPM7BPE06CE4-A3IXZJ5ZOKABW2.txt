@@ -1,0 +1,68 @@
+ID: B0013FLTNS-R1BPM7BPE06CE4-A3IXZJ5ZOKABW2
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A3IXZJ5ZOKABW2
+ReviewerName: Bullwyf "1080P"
+Date: November 12, 2008
+Helpful: 19 of 19
+Rating: 5.0
+Title: Better value than new unibody MacBook Pro
+Content:
+Background:
+I wanted to buy the new unibody MacBook Pro. 
+Tried it at the Apple store and here are my findings and opinions,
+and comparisons with the March 2008 model (MB134LL/A - the one I bought and am reviewing).
+Display on unibody model is super glossy and very reflective - and has no option for matte finish. 
+Keyboard on unibody model did not feel as nice as the March 2008 model.
+Unibody model is slightly larger - bezel width is more than the March 2008 Model.
+Also, the March 2008 model is a lot cheaper (about $700), 
+and there is an additional $150 rebate from Amazon.
+Meaningful specs difference:
+2.5 GHz versus 2.53 GHz CPU in the new high end one,
+2 Gigs of RAM versus 4 Gigs of faster RAM in the new high end (I upgraded to 4GB myself for $60),
+8600M GT 512MB versus 9600M GT 512MB in the new high end (20-30% faster),
+250GB 5400RPM versus 320GB 5400RPM in the new one (more on this below),
+The new one also has dual graphics (use the lower power one for more battery),
+but I'd always use the higher one, which would lead to less battery life
+than the March model.
+Display:
+Like I said, I prefer matte finish (or a glossy that is not like a mirror).
+The default colors were a little dull, so I went to System Preferences/Display/Color/Calibrate and
+tweaked around and saved a new color profile. It is MUCH improved now - much better saturation
+and has the contrast of glossy without the reflections.
+Usage:
+In less than 5 minutes, I upgraded to 4 Gigs RAM - bought that for about $60 from Amazon.
+I am keeping my two original 1 Gig sticks in case I need them in the future.
+I have VMWare Fusion running Windows XP Professional for some of my 
+must-have Windows apps. I have given the VM 1 Gig of RAM and 40 Gigs of disk.
+Performance of Mac apps and Windows apps is superb.
+I am using a WD Passport 320GB USB drive for backups with Time Machine.
+Battery:
+Last about 2.5-3 hours with almost constant usage. The best thing is when I close the lid,
+it goes to sleep instantly, and wakes up instantly when I need it again, with no loss of
+battery regardless of how long it sleeps. That is VERY DIFFERENT from my experience with
+Windows laptops that lose battery even when sleeping. No idea why.
+Storage:
+It came with a 5400RPM 250GB HD. I bought a WD 7200RPM 320GB with a big buffer from 
+Newegg - I plan to swap out the HD - that  requires "minor surgery" so I am doing my research
+before I do it this weekend. The new disk will be a lot faster, although the it comes with 
+seems to be pretty fast already. I am swapping as I like doing stuff like that.
+UPDATE: I swapped the hard drive and did a full restore from Time Machine - it now is exactly
+the same as my las back-up with all apps and settings, except with a bigger and faster hard drive.
+This "surgery" is t for the faint of heart. :-) And is probably totally unnecessary for most folks.
+Mac OS X:
+So simple. After using Windows PCs and laptops for over 15 years, I am amazed how easy
+and intuitive it was to use a new OS. I know Mac OS X is very powerful and I am just beginning
+to learn the advanced features to play with. Being able to run Windows XP in a VM with such a small
+load on the system is very nice. I use software apps that are either not available on the Mac yet,
+or have much older versions on the Mac. This is not specifically about the MacBook Pro but the
+fact that the MacBook Pro has enough juice to do this is what is worth noting.
+Boot Times:
+When I shutdown and restart,  it comes up in 30 seconds or so. Much faster than my experience 
+with Windows laptops. Here's the best part - if I put the Windows VM to sleep in my Mac,
+it comes back up in seconds! Much faster than Windows used to wake up on a Windows laptop!
+So for a portable laptop, the MacBook Pro is quite powerful and fast.
+Overall:
+I am glad I bought this model instead of the new Unibody model. This is by far the best portable computer
+I have ever owned. I've always felt that the MacBook Pro carries a price premium over "equivalent" or
+more feature rich Windows laptops, but now I know why. They are better.

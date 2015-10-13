@@ -1,0 +1,13 @@
+ID: B001D8S9E2-R2RIS660VGX5G4-ABYSKS49MYA6
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: ABYSKS49MYA6
+ReviewerName: rjweisberg "rjweisberg"
+Date: December 9, 2008
+Helpful: 3 of 5
+Rating: 5.0
+Title: A great machine
+Content:
+I waited a long time to replace my 5 1/2-year-old G4 Powerbook 12" because I was worried about the lack of Firewire (I make regular backups on a LaCie Rugged drive, so transfer rate is important) and comments about the glass screen having too much glare. But I needed to get a new machine this year and thought the Air would be too limited and didn't want to get the Pro, so I crossed my fingers and took the plunge . . .
+So far, in a week and a half, I haven't been disappointed at all. I used ethernet for the migration from my old Mac, it took 2 hours (which was acceptable). I bought a USB 2.0 mini cable and transfer to the LaCie drive is plenty fast. The screen is very bright and glare hasn't been an issue at all, and glass is much easier to keep clean. Of course, everything is much faster than the old machine. The backlit keyboard is great, and I love how light and thin it is.
+(One thing I encountered, and from message boards at various sites a few others have as well, when migrating from a PB using Tiger to the new Macbook using Leopard: the machine kept resetting the time zone for GMT. It took a little doing before I read about a solution which involved the Terminal and deleting a file from a hidden folder. Just something to mention.)

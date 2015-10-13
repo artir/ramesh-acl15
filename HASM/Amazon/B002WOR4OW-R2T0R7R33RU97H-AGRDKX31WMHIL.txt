@@ -1,0 +1,13 @@
+ID: B002WOR4OW-R2T0R7R33RU97H-AGRDKX31WMHIL
+Category: Laptops
+Product: G72Gx-A1-Republic-Gamers-17-Inch-Gaming
+ReviewerID: AGRDKX31WMHIL
+ReviewerName: G. Cogar
+Date: February 22, 2010
+Helpful: 0 of 1
+Rating: 2.0
+Title: Probably ok if you dont need support
+Content:
+The unit I received has a bad GPU.  I have been trying to get it fixed for some time now, but Asus support is terrible.  I started off with an online support request but never got a response.  I have called several times now and spent hours on the phone with clueless help desk staff.  
+     None of the first level techs I have spoken with even knew what a GPU was.  I finally got an RMA# after begging one of the second level support techs.  The last second level tech I spoke with did not understand what "video corruption" was.  Then after trying to send the system in to get the repairs done with the RMA# I found out that Asus will not honor the "free two way overnight shipping" included with the warrant.  After multiple calls I am consistently being told "Asus changed that part of the warranty, sorry no one told you".  At this point I am quite disappointed after finding out that the "included warranty" was just false advertising.
+     If you get lucky and dont need warranty support any time in the two years "included" with the system then Im sure the system is probably fine.  I did notice a few design flaws that buys should be aware of though.  The built in microphone is on the back of the LCD so its really only usable if you are going to sit behind your computer.  For most people this wont be much of an issue because headsets with boom mics are pretty common these days.  The other poor design choice is the use of a touch sensitive pad instead of a switch to launch the express gate.  The problem with this is that the pad can not be powered off.  It drains about %10 battery per day.  The only way to stop it is to remove the battery while transporting or storing the system.

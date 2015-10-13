@@ -1,0 +1,45 @@
+ID: B000HZ9CCA-R31NX3KK8DGOWR-A1HMQYW7JZVJBZ
+Category: MP3Players
+Product: SanDisk-Sansa-e280-Player-Black
+ReviewerID: A1HMQYW7JZVJBZ
+ReviewerName: M. Thomas
+Date: August 11, 2007
+Helpful: 7 of 9
+Rating: 4.0
+Title: Love at First Sight!  Then Shock-Horror!  Then Relief....(for now)-THERE IS HOPE
+Content:
+I've had this Sansa e280 8GB MP3 Player for approximately 1 month now (purchased from [...], of course)... and it has been absolute true love.  The functions are excellent, the unit has been sturdy for me (with reasonable pampering).  From day one it was easy to set up and use.  Especially am addicted to the 'Voice Record' function.
+I had no problems whatsover shifting songs to it, and Voice Recordings from it to my computer. ..UNTIL.....
+2 days ago, in the very wee hours of the morning I decided to transfer a couple of voice recordings to my computer, -and within moments of connecting my precious little gadget, right after the Media Player surfaced recognizing the Sansa and began its synchronizing, the screen on my Sansa went black (dark gray, really), -absolutely froze!  I gave it a while, -disconnected it from the computer, -tried to turn it off (held the so called power key down for SEVERAL seconds), -still NOTHING!
+I felt heartbroken!  I've become VERY fond of this little Sansa player, (almost addicted to it), and even more importantly, I had some important recordings to extract from it, -never mind the fact that I didn't want to have to go without my tunes until a replacement could be arranged. :-(  
+After trying to get to the battery to no avail, thinking I could remove & replace it, -hopefully resetting it...(my screwdriver's not small enough, -am I'm sure they'd frown upon this, though I couldn't find anything that clearly addressed a warranty), and several more attempts with the 'power' button, I gave up the fight.  Hopeful for a rapid e-mail reply from Sansa to be awaiting me upon waking, I called it a 'night', sad and depressed, absolutely gutted.  Lo and behold FIRST thing in the A.M. they had sent a reply, -which, should Amazon allow, will follow toward the end of this write-up should it be of any help to others who might suffer such a tragedy with their Sansa.
+On the way to checking my e-mail, with a heavy heart, for the grins of it I picked up the little gem (which had FINALLY shut off within only a few short hours), pushed the 'power' button and 'THANK GOD ALMIGHTY!!!' I believe were the words, -it showed signs of life!!!!! hurrah!  ..of course the very first thing it did was tell me that the battery was too low, and shut back off again... but THERE WAS HOPE!!!  So it got to rest on the matching speaker dock system and charge up.  ..Only moments later I tried again..after glancing through the e-mail from Sansa (which didn't really matter to me at that point) to find everything in tact, -good as new!, BUT!  with ALL of the music files from my computer now loaded onto it! (have NO CLUE how that happened!, -but it clearly occurred in the BRIEF moment it was connected, -I'm talking only a minute, -MAX!) On the plus side it saves me time from having to do it myself down the road... 
+***Long story short: it seems that letting the battery run down, -then recharge/'reboot' worked a charm.  Hopefully it'll work for others suffering the same malfunction.
+It has been a couple of days now, -and with regular use hanging around my neck using headphones, and on the charging/speaker dock it's functioning at 100% again. (You can't imagine how relieved I am!)  However, I must say that I am a tad bit reluctant to hook this thing up to my computer again (that will be the real test, I suppose), -but at least I have a bit more hope that it can survive it in the end.  
+Computer System Info: A new Dell Inspiron E1705 (purchased within past 3 months), running on Windows Vista Ultimate, the most I could afford for Processor and Memory, etc. 
+I REALLY LOVE the combination of features of this Sansa e280, the price, the size/weight, the thought of Apple having a suitable competitor, etc., and was totally hating the idea of having to go the iPod route (cost, lack of functions, etc.). Though after re-reading the reviews from others who have had similar problems with their Sansas locking up on them it was looking to be inevitable.  
+I AM SOOOOO THANKFUL that it has managed to redeem itself (for the time being), -fingers crossed it keeps up the fight.
+*******Reply from Sansa copy-pasted below:*******
+Hello,
+Thank you for contacting SanDisk Technical Support, and for your recent inquiry into our product line.
+This issue may be due to a file or system corruption on the player itself. We should try formatting the player as a possible solution.
+If it's currently frozen we don't need to remove the battery of the MP3 player, just hold down the Power/menu button for 20 seconds in order to soft reset it.
+Please observe the MP3 player, if the MP3 player freezes most of the time then there could be corrupted files inside it.
+Let's try to "Format" the player.
+Note: Formatting your MP3 player will delete all the files in your device, I suggest that you create a back-up copy of your files from your MP3 player to your computer.
+Please do the following steps to format your MP3 player.
+Plug it into your computer, then open "My Computer", right-click the drive associated with the player, and choose Format. It may give you a choice of file system, if so, choose "FAT" (it may only let you choose "FAT32", which is fine). Now click on Start and it should format the player.
+After formatting the MP3 player, please try to transfer a different set of files to the MP3 player so we can determine if this is due to a corrupted file.
+Please advise.
+Please verify the following information for complete and proper product registration:
+- Date of purchase.
+- Place of purchase.
+- Is there a "Rhapsody Channel" option in the "Main Menu" of the MP3 player?
+- Do you have "Play for Sure" and "Rhapsody" on the Mode Settings of the MP3 player?
+- What is the brand of your Computer?
+- What is the model of your Computer?
+- Are you using a laptop or desktop?
+- What is the Operating System?
+Should you have any further inquiries or concerns, please do not hesitate to reply to this message or send another inquiry via Email.
+Best regards,
+SanDisk Technical Support

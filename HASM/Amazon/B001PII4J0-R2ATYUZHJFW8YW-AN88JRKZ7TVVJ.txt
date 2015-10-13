@@ -1,0 +1,16 @@
+ID: B001PII4J0-R2ATYUZHJFW8YW-AN88JRKZ7TVVJ
+Category: Laptops
+Product: Sony-VGN-P530H-Lifestyle-Processor-G-Sensor
+ReviewerID: AN88JRKZ7TVVJ
+ReviewerName: Fabio Higa "Feh HKK"
+Date: February 17, 2009
+Helpful: 12 of 14
+Rating: 4.0
+Title: Great netbook, just don't expect it to be a powerhouse laptop
+Content:
+Like the title of my review says, if you're expecting a netbook to play 1080p videos while doing Adobe Photoshop while playing Crysis, then this is not a machine for you.
+Screen is really sharp and the fonts seem too tiny at first (8" screen coupled with 1600x768 resolution), but if you adjust your font size dpi to 120dpi or higher, it's very manageable. After a while of using the Vaio, all other notebook screens look so coarse.
+Portability, excellent keyboard, and excellent screen is the main reason I like this unit.
+Cons: The Intel Atom Z520 1.33Ghz is slightly underpowered. I have a Acer Aspire One as well running an 1.6GHz Atom, and the 0.33GHz difference is there, even though the Acer has 1GB of memory, and the VaioP has 2GB, the extra memory helps a little, but not much. The Aspire One is definitely speedier.
+Battery life is ok, since you can get 2 1/2 hours under normal use. The recharge time seems kinda long, but it's ok for me, since it's better to have a battery charge slower vs. faster, so it wears out less.
+I got the VGN-P530H which is the 60GB PATA HDD model. I played with the 64GB SSD and 128GB SSD models in the store, and frankly I felt as if the SSD models were slower, mostly because SSDs are slower because of write operations. Windows is a OS that swaps to disk a lot when memory is low, so having an SSD is not that beneficial. The $300 price premium over the HDD doesn't seem worth it to me, so go for the HDD version.

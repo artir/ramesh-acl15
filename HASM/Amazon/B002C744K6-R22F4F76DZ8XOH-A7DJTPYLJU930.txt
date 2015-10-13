@@ -1,0 +1,19 @@
+ID: B002C744K6-R22F4F76DZ8XOH-A7DJTPYLJU930
+Category: Laptops
+Product: Apple-MacBook-MC118LL-15-4-Inch-Laptop
+ReviewerID: A7DJTPYLJU930
+ReviewerName: Ohio Engineer
+Date: December 30, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: Best Windows Machine I've Found
+Content:
+My business involves creating fairly large reports, and distributing them via pdf files.  I use Adobe Acrobat probably as much as any other software.  But my old laptop just wasn't up to the demands of Acrobat, freezing up for, at times, up to 20 minutes while processing graphics-rich reports.  So a new, more powerful computer was required.  (I travel enough so that a laptop is my only feasible solution.)
+After looking at the array of available Windows-based laptops, I concluded that none of them had the combination of portability (I do not want a 10-pound laptop), battery life, and graphics horsepower provided by the MacBook Pro.  The idea that I could run Windows via BootCamp and the Parallels virtual-machine environment sealed the deal for me.
+I've been using this machine for about 4 months now, and it has been all I hoped for.  The hardware is bulletproof, and Windows runs flawlessly via BootCamp.  Parallels version 4 was a little clunky (mouse was very jerky when I ran Vista in Parallels 4), but now that I've upgraded to Parallels 5 things work much more smoothly, so I can run Vista and OSX simultaneously if I wish.  Graphics are spectacular, Acrobat works like a champ, and the keyboard is the best laptop keyboard I've used for touch typing.
+What are the drawbacks?
+1. If you run Vista under BootCamp, battery life is only about 2.5 hours under heavy use; it's well over 6 hours when running Mac OSX.
+2. The keyboard, though great for typing, is NOT a Windows keyboard.  So many things you are used to doing via keyboard shortcuts are not available to you with this machine unless you buy a separate keyboard.
+3. My old faithful Logitech VX Nano mouse just didn't ever quite pair up with this computer; drag and drop were always an adventure.  I bought a new Logitech Bluetooth mouse (V470?) that is flawless, and saves me a USB port in the process.
+4. Only 2 USB ports?  Ridiculous!  Four USBs should be an absolute minimum for any laptop IMO, though the excellent Bluetooth (which allows you to pair an apparently unlimited number of peripherals) certainly helps.  My Toshiba DynaDock port expander has helped by affording me an extra 5 USB ports along with outboard video and audio opportunities.  The DynaDock works well under both OSX and Vista.
+For me, OSX is not an option as a serious operating system, simply because my profession (I'm an engineer) requires that I use a lot of proprietary software written only as Microsoft-compatible code.  But when I am just surfing the web, or doing other goof-off stuff, I'm usually logged into OSX.  Also, I'm so used to the user interface in Vista that Office for Mac is a lot less convenient (for me).  But this is a great machine - highly recommended.

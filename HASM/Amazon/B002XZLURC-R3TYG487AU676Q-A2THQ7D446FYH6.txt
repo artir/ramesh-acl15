@@ -1,0 +1,22 @@
+ID: B002XZLURC-R3TYG487AU676Q-A2THQ7D446FYH6
+Category: Laptops
+Product: UL30Vt-X1-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A2THQ7D446FYH6
+ReviewerName: J. Park
+Date: December 3, 2009
+Helpful: 37 of 40
+Rating: 4.0
+Title: Great thin/light laptop.
+Content:
+This is just a quickie review since I've only had the machine for 6 hours.
+Out of the box there's manuals, warranty card, AC adapter, back-up DVD's and the laptop.
+The machine comes with a 1 year ADH (accidental damage & handling) warranty which you must activate within 60 days by sending in a warranty card.  Other models come with 2 year parts and labor warranties, but this model comes with 1 to cut costs.  Speaking of which, another area where they cut costs is the battery.  It's a 4400mah battery that is stated to achieve a 12 hr run time.  I'm seeing about 10 hours of battery life in power saver mode, still a great amount.  The last thing I that bugs me is the wireless card.  It's Intel, but it's only a 2.4Ghz card.  I have a dual band router and would have liked to take advantage of 5Ghz.  But at least it works fine and doesn't seem to have any issues like others seem to have experienced on other models (UL30A).
+That's the end of the negative stuff.  Everything else is to be great so far.
+Build Quality (9/10)
+I'm comparing this machine to a Sony Z750D which my fiancé uses.  The materials on the Sony are better but actual build quality is very similar.  No squeaking or sharp edges anywhere.  The machine feels very solid and sturdy.  The keyboard has very minor flex and is very comfortable to type on.  One thing some may find awkward is the placement of the "home" button which is right next the "backspace" key.  Those of you concerned with this aspect need not worry.
+Graphics Performance/CPU performance (8/10)
+With the CPU overclocked to 1.73GHz paired with a NVIDIA G210M video card, the laptop has no problems handling everyday tasks such as word processing, email and internet.  The machine also has no problems handling HD content.  Games such as L4D2 and Counterstrike Source run great as well.  More in depth benchmarking can be found elsewhere on the net.
+*edit*  Let me add that I'm comparing this machine to the Sony Z which has a much faster processor.  That being said, this machine is still fast and can hold its own.  The addition of the Intel SSD makes this a 9/10 but since not many will add an extra HD like this, I took the 500GB into consideration.
+Heat Management/Acoustics (9/10)
+The laptop never got hot to the touch even during stressful games.  You can go for hours on end with this machine in your lap without discomfort. The noise of the fan never became an issue.  It is even quieter than the Z750D in that aspect.  However, I must add that I am using an Intel G2 SSD.  I switched out HD right when I received the machine.  So take that into consideration as the traditional drive is a bit noisier.
+Hope this helps.

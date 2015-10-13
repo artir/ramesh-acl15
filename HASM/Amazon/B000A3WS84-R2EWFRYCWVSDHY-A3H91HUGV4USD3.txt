@@ -1,0 +1,23 @@
+ID: B000A3WS84-R2EWFRYCWVSDHY-A3H91HUGV4USD3
+Category: MP3Players
+Product: Apple-Video-Playback-Black-Generation
+ReviewerID: A3H91HUGV4USD3
+ReviewerName: Gregory John
+Date: November 18, 2005
+Helpful: 8 of 11
+Rating: 5.0
+Title: Excellent
+Content:
+We bought the 30 GB version and we love it.
+- The screen is small but clear and sharp. Go to an Apple store and see it first to make sure you're cool with it.
+- The audio is excellent.
+- It is very stylish. The 30 GB version is thin and convenient and holds a lot.
+- It is very easy to use. iTunes is a breeze to use (we have a PC).
+- Chinese characters show up just fine in the iPod text.
+- We bought QuickTime Pro ($30) because it was the most convenient software I found for converting video to the iPod format. Videora Converter is free and useful for getting video into the H264 format, but I found I needed QuickTime Pro to get it to the final correct iPod format. The final conversion is very, very slow.
+- It comes with a reasonable case, but I'm hoping for an after-market case to hold it and the headphones. Ideally there would be one that would protect the screen and let you view it clearly. In general, we're just very careful.
+- It comes with a cable to hook to USB 2.0. Early USB version apparently may not supply enough power to recharge the iPod.
+- The Lithium Ion battery charges up to 80% really quickly (less than 3 hours from dead zero), and then trickle charges to 100%. The battery may be recharged at any time w/o risk of "memory" like a Nickel Cadmium battery.
+- Playing music, a full battery is supposed to last about 14 hours. Playing video it lasts a lot less. I would estimate about 3 to 4 hours on a full charge.
+- Replacing the battery currently means sending the entire iPod back to Apple and getting a new/refurbished one. See the Apple web site for details.
+- I saw a review about it hanging on the language selection screen right out of the box. Ours did, too, but I just followed the instructions on resetting it. No problems since.

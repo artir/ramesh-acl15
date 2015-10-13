@@ -1,0 +1,18 @@
+ID: B000IXD7YA-R1C11YZG4DR1SP-A2N0JDUQC8H79W
+Category: Laptops
+Product: Toshiba-Satellite-P105-S6114-Processor-SuperMulti
+ReviewerID: A2N0JDUQC8H79W
+ReviewerName: J. Mezera
+Date: January 11, 2007
+Helpful: 8 of 8
+Rating: 4.0
+Title: Great value overall - just a few minor annoyances.
+Content:
+At the time of this review, I have used my notebook for close to two weeks. I am very satisfied with the product thus far. The 17" Trubrit screen delivers great contrast and colors (which is important for me as I do quite a bit of graphic design) as well as tons of processing power. Considering it's size, it is rather light weight and not overbearing. The Harmon Kardon speakers in my opinion produce above average sound for a notebook. The large number of available USB and media ports makes it perfect for what I do. As I have come to expect from Toshiba, the build quality is amazing.
+All this cannot be said though without noting a few the annoyances with this notebook. As was stated by other reviewers, the keyboard is definitely takes some getting use to - especially with the tiny period key and right shift key. But, in my opinion, having a keypad and the right hand side compensates for this.
+The finger print scanner, while an excellent time saving function, quite often doesn't work and reads (Bad Quality) when attempting to scan. Because it uses heat spots to map your fingerprint, the accuracy tends to decrease as your laptop heats up from prolonged use.
+Finally, by far the most annoying thing with this laptop is the fan. I've read other reviews were people have actually returned there notebooks because of the fan. It's not that it's necessarily loud, it's that it turns on for 1/2 a second then off again - only to repeat the process 5 seconds later. So you constantly have a fan turning off and on, off and on, off and on. If you are in a quiet setting, it can drive you insane. I've attempted to see if there is a firmware fix for the MB through Toshiba, but to no avail *UPDATE - FIX NOW AVAILABLE - SEE BELOW. As long as I have some background noise and am not working in total silence, it's livable.
+All in all, if you can find this notebook on sale it is a fantastic bargain if you can get around the few minor annoyances.
+*Update 10/12/09*
+I felt I should add to this review, seeing that when you search for the firmware/fan problem this page comes up. I wanted to update my review to notify everyone that firmware update was released in 02/09 that fixes the annoying fan issue stated above. The BIOS update is version 4.70 which is available for download off Toshiba's page: [...]
+There is also an update to the Fingerprint Utility which also solves the fingerprint reader problems I stated above as well. Now with both of these issues fixed, this laptop continues to serve me well and is very livable with the normal fan speed.

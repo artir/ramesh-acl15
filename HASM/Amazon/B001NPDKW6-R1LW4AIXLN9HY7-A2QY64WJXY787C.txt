@@ -1,0 +1,12 @@
+ID: B001NPDKW6-R1LW4AIXLN9HY7-A2QY64WJXY787C
+Category: Laptops
+Product: HP-Pavilion-DV6-1030US-16-0-Inch-Laptop
+ReviewerID: A2QY64WJXY787C
+ReviewerName: W. Husong "nhopsing"
+Date: June 25, 2009
+Helpful: 
+Rating: 5.0
+Title: DON'T UPDATE THE BIOS!!!!!!!!
+Content:
+Absolutely awesome machine, however if you buy this computer you must read the following thread BEFORE trying to run the HP automatic updates.
+http://h30434.www3.hp.com/psg/board/message?board.id=General&thread.id=3243

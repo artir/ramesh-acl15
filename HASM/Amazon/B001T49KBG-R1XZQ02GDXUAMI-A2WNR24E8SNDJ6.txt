@@ -1,0 +1,16 @@
+ID: B001T49KBG-R1XZQ02GDXUAMI-A2WNR24E8SNDJ6
+Category: Laptops
+Product: Asus-G71G-Q2-ASUS-17-Inch-Laptop
+ReviewerID: A2WNR24E8SNDJ6
+ReviewerName: Brian Straight
+Date: April 6, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: Well-built, high-performance laptop
+Content:
+Laptops will probably never be accepted by truly hard-core gamers, but if you want a well-built, high-performance full-size laptop, this is a machine worth considering.
+The build quality is what you would expect from Asus--solid and workmanlike.  The finish is lovely, but it is a magnet for fingerprints.  Fortunately, Asus has thought of that and provides a very useful duster. The finish maybe a little flashy for a business meeting, but this laptop has it where it counts.  The quad core processor has ample power for almost any business task, and the 1920 x 1200 display enables you to display two full document pages side-by-side, a useful feature when you're editing.
+Game performance is very good.  I don't game a lot, but the GeForce 9800M GS graphics card seems able to handle the games I play quite well (in terms of performance, it ranks about 20th in the top 100 graphics cards).  Oblivion looks lovely and is at least equal to the PS3 version in terms of graphical quality (and it scales nicely to a full 1080p on the laptop).  The sound from the x4 Altecs is very satisfying!  The sound stage is large and deep--but it is well-focused and does not carry far beyond the machine.  I was playing a thunderous game and walked around the machine.  Behind the LCD, the sound was very muted--very useful if you play in a public place without headphones.  The provided gaming mouse is a useful value-add.
+There are a few "nits."  The turbo function doesn't work (apparently a bios upgrade disabled it on all G71 series machines--Asus are working on it).  Closing the screen results in a sleep mode that takes a complete shutdown to reverse.
+The warranty is superb--2 years, with one year of accidental damage (such as dropping the laptop or smashing the screen!) coverage.  That's hard to beat.  But Asus test their laptoops brutally, so they are well capable of standing up to abuse (a must with frustrated gamers!).
+All in all--I highly recommend this computer.

@@ -1,0 +1,11 @@
+ID: B00006C7HJ-R3VXGSJSK79W9D-AROV0BRFF7FXZ
+Category: SpaceHeaters
+Product: Vornado-VH2-Vortex-Heater
+ReviewerID: AROV0BRFF7FXZ
+ReviewerName: Sarabjit Singh
+Date: January 3, 2003
+Helpful: 11 of 13
+Rating: 3.0
+Title: Warm and silent but faulty thermostat
+Content:
+The heater gets full points for warm and silent operation but the thermostat is faulty. I don't know if the problem is specific to my unit but sometimes it toggles on/off for short periods. It runs for 15-30 secs and then shuts off. This happens intermittently and seems to be caused by a bad thermostat. Also, when the heater turns on, it draws considerable power which dims lights somewhat and trips my cable modem. But for these problems, I would have kept this heater.

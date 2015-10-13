@@ -1,0 +1,40 @@
+ID: B0013FJBX8-R3LDSGWN561WBV-A1ZN48BMZLMZO1
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A1ZN48BMZLMZO1
+ReviewerName: Jon R
+Date: April 26, 2009
+Helpful: 4 of 4
+Rating: 4.0
+Title: A great, but expensive machine.
+Content:
+When looking over reviews for Macs, you tend to run into the Apple fanatics. These people will praise anything that Apple makes, regardless of whether its worth the price or not. Having owned and used both PCs and Macs, I have no allegiance to either. I'm going to try to make this as unbiased as possible.
+Whether you should go with a Mac or PC largely depends on what you'll use it for. These days Mac ARE PCs under the hood, they just use Apple's BIOS (EFI) and of course OS X. OS X is hands down a superior OS to Windows, however there are many applications that won't work under it. Sure you can boot Windows on Mac now, but why would you pay the premium to use Apple's proprietary hardware if your going to use Windows anyway? If your going to get a Mac make sure most of your applications will run on it. Otherwise the Macbook becomes an overpriced PC.
+That said this is a review of the Mackbook Pro, so here are the pros and cons of it. Its a bit long, but I tried to point out everything.
+PROS
+- Beautiful, bright screen
+- Backlit keyboard
+- Glass cover LCD, so you can wash it without worring about damaging the LCD.
+- Fast DDR3 memory
+- An integrated graohics card to conserve power (GeForce 9400) and a decent graphics card (Nvidia 9600 GT) to use for gaming and graphic intense programs.
+- Slot-load DVD drive, you don't have to worry about the tray.
+- Firewire, a feature missing from the regular Macbook
+- Nice large and responsive touchpad.
+- OS X performs much better than Windows. Almost no crashes/freezes, very hard to get a virus, and faster.
+- No preloaded bloatware, in fact most of the apps included are quite useful and easily removed if you want the space back.
+- Decent speakers for a laptop.
+- I have no benchmarks, but it seems like Vista runs faster on my Macbook even though the hardware is inferior to my other laptop.
+- The thinnest and lightest 15 inch notebook I've ever encountered. I have no problem lugging it back and forth. 
+CONS
+- It get HOT under intense use (especially above the number pad).
+- The DVD drive is slow to burn and read.
+- Screen resolution should be higher for this price.
+- Multi-Touch touchpad takes some getting used to.
+- THE PRICE.
+- Despite the fact that Nvidia claims its possible to use the 9400 and 9600 in "hybred SLI" (using the 9400 to give the 9600 a power boost) Apple has not included the functionality. There are report that it may come with the next release of OS X.
+- The HDD is realitivly slow at only 5400 RPM. They should have gone with a 7200RPM. On the bright side its possible to upgrade the drive yourself.
+- The only video output port is a "Mini Display Port". There are currently only two screens on the market that natively support this. Therefor you need to purchase a converter to use HDMI, DVI, or VGA.
+- The glass screen is VERY reflective.
+- For the most part its not upgradeable. You can add memory or a new HDD and that's it. However, most laptops are either not upgradable or the "upgrades" are so expensive that its better to buy a new one instead.
+- A minor qualm for me, and something common to nearly all Macs is the lack of an HDD access light. This can sometimes be useful. Also common to al Macs is the keyboard and shortcuts. These are different from Windows and take getting use to. For the most part neither is better than the other, its just a matter of learning a new setup.
+Overall I love my Macbook. Despite its higher price you get a quality machine for your money. Its much more solid than my other laptop, and s far seems more stable. I would say that if you don't game (or use one of the few games that support OS X) go for this. If you've never thought about a Mac before, its really not that hard to get to know it. Its designed for the computer illiterate (According to Apple, I wouldn't go quite that far), so you shouldn't have trouble finding your way around. Despite the good, I still would recommend you stick with the PC if you intend on gaming. Macs are getting there, but they just don't stand up to a gaming PC.

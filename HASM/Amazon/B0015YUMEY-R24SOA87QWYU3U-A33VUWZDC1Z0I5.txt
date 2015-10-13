@@ -1,0 +1,12 @@
+ID: B0015YUMEY-R24SOA87QWYU3U-A33VUWZDC1Z0I5
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A33VUWZDC1Z0I5
+ReviewerName: Omar Noguera
+Date: September 1, 2009
+Helpful: 
+Rating: 5.0
+Title: Macbook Pro 15"
+Content:
+Don't have too many words for this but EXCELLENT.
+Got it working with dual boot using Leopard and Win XP for a long while and it's simply excellent. Now I'm using Leopard and Win 7 Beta and it still works like a charm.

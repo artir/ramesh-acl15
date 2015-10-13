@@ -1,0 +1,11 @@
+ID: B0008JFCWY-R290H1OXXY8C48-A2FXWQE9J4NBZ7
+Category: MP3Players
+Product: Sony-NW-E507-Network-Walkman-Digital
+ReviewerID: A2FXWQE9J4NBZ7
+ReviewerName: Steve Jobs "two2go"
+Date: December 22, 2005
+Helpful: 1 of 2
+Rating: 2.0
+Title: player is good, transfering music is a pain, music management very bad
+Content:
+I recently purchased the sony network walkman NWE507 after checking it out at a local electronic store. The player looked amazing, with unique display and in-built FM radio. But, I was totally disappointed while transfering music using the sonicstage software management program that sony ships with the walkman. YOu need to be a software programmer to understand what is going on. It does not automatically transfer songs within a play-list. I had to do a lot of manual data entry. And just after I purchased the product, I called in for support and I was told that I need to download a later version of sonicstage off their website. It is a pain.

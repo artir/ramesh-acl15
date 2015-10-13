@@ -1,0 +1,20 @@
+ID: B0013FJBX8-R3JNDTJKTNH0ZB-A1VKEJY0NURG4V
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A1VKEJY0NURG4V
+ReviewerName: Michael Taylor
+Date: January 20, 2009
+Helpful: 9 of 39
+Rating: 1.0
+Title: Beautiful and Troubled
+Content:
+A beautiful but flawed product. Yes, it's pretty. You can read the other reviews to hear the Apple fanboys gush. Generally, Apple products have good ideas but poor engineering. 
+Negatives
+- My spacebar stopped working a few weeks into actually using this laptop. I had to pry it off so I can touch the sensor directly in order to type this review. If you look at how the keyboard was designed from the inside, it's not surprising that it has issues.
+- The dual-link dvi cable (after waiting for months for it to come out after being on back order) wigs out and starts displaying junk on 30" monitors. Apple later declared retroactively that the cable will only work on Apple branded 30" monitors. A lot of people are upset about this.
+- Given the size of the screen, the screen real-estate (measured in pixels) is very small. Especially sucks if your 30" monitor is dead in the water.
+- The edges of the laptop are sharp.
+- The laptop only opens to ~130 degrees,
+- Runs hot.
+- Fan goes crazy if the bottom is covered up.
+- Optical drive makes noise everytime you wake the laptop.

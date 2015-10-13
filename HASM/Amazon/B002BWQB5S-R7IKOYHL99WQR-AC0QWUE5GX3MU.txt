@@ -1,0 +1,15 @@
+ID: B002BWQB5S-R7IKOYHL99WQR-AC0QWUE5GX3MU
+Category: Laptops
+Product: Compaq-Presario-CQ60-420US-15-6-Inch-Laptop
+ReviewerID: AC0QWUE5GX3MU
+ReviewerName: ElfNeedsFoodBad
+Date: August 30, 2009
+Helpful: 4 of 5
+Rating: 4.0
+Title: Great laptop at rock-bottom price
+Content:
+Bought this from one of the "office supply" stores at about the price the CQ60-410 is going for elsewhere, was actually cheaper than the 410 in this store.
+Screen is very nice.  For the keyboard, the 10 key is very cramped, I think I would have preferred it just not be there and a bit of a wider normal keyboard, although the keyboard spacing does seem fine other than the 10 key.  
+The processor is the very capable T4200 (Core Duo), which is great for something at this price point, as netbooks and many other "value" notebooks are shipping with either the Atom or Celeron single core chips.
+A lot of trialware, as I suspect most laptops have: Trail of office, trail of Norton, pre-installed Compaq branded Microsoft Bing toolbars, etc.
+This laptop does qualify for a free upgrade to Windows 7 and uses the Windows Home Premium version of Vista.  Hopefully the Windows 7 disc won't come with all of the trialware.

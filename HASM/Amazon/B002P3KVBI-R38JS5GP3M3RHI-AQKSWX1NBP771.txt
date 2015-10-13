@@ -1,0 +1,21 @@
+ID: B002P3KVBI-R38JS5GP3M3RHI-AQKSWX1NBP771
+Category: Laptops
+Product: Acer-AS1410-2285-11-6-Inch-Windows-Premium
+ReviewerID: AQKSWX1NBP771
+ReviewerName: Adam W
+Date: October 27, 2009
+Helpful: 19 of 22
+Rating: 4.0
+Title: Dual Core Intel Ultra Portable Laptop for $400!
+Content:
+Ignoring colors, Acer now has two different AS1410 Windows 7 laptops at the same $400 price point: Dual Core SU2300 with 160GB hard drive and a Single Core Celeron 743 with a 250GB hard drive. I chose this model with the SU2300 because of the additional performance associated with the dual core CPU. 
+Pros: 3.1 lbs, compact size, 6 hour battery, SU2300 performance, keyboard, 1366x768 LED-backed display, Intel GMA4500MHD graphics, 802.11n Wi-Fi, HDMI, webcam
+Cons: 
+- Touchpad buttons too stiff, also, left button does not always register a click
+- Glossy top cover attracts fingerprints
+- No dedicated volume control (have to use arrow keys)
+- Glossy screen shows reflections (I would prefer a matte screen)
+- No bluetooth
+- No esata
+- 2 GB of memory comes as 2x1GB SODIMMs so if you want to upgrade to 4GB, you have to chuck the existing memory. Note that specs on Acer's website incorrectly indicate that the 2GB comes in a single SODIMM leaving a slot empty for upgrading.
+In summary, the AS1410 could be better but for $400, it is a pretty good ultra portable laptop value. Amazon did a good job of packing it and shipping it quickly. Recommended.

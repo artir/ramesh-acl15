@@ -1,0 +1,15 @@
+ID: B0012YPMOC-R1DLBSAXMM2ZGZ-A3G58QLNL2BOD0
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A3G58QLNL2BOD0
+ReviewerName: Brian Vollrath
+Date: May 6, 2008
+Helpful: 8 of 12
+Rating: 3.0
+Title: Not as Creative describes
+Content:
+I am writing this to inform people because I had no idea that the Zen cannot play Nero AAC.  I am sure other people will be in this same situation.  On Creative's web site they say it plays unprotected AAC format.  It will not play Nero AAC which is unprotected.  I do not think that Creative should be able to falsely misrepresent their product like this.  It is very misleading.  I have written to Creative's customer support.  They responded back by saying my files had some kind of Digital Rights Management (which they do not).  I wrote back again and they responded by giving me tips on how to use iTunes Plus which is irrelevant to what I am doing.  
+Originally, to get the music onto my PC, I used Exact Audio Copy and saved them directly as FLAC (Free Lossless Audio Compression).  I used Foobar2000 with the free Nero Digital AAC codec 1.1.34.2 to convert these files to AAC.  I know there is no DRM involved of any kind.  AAC has better sound quality than MP3, but that is a whole different issue altogether.  The fact is Creative is claiming that the Zen will play unprotected AAC files and it does not.  I feel like Creative is getting away with this misrepresenting their product.  They should not be able to do this. 
+Someone did make an app that changes some coding with the tag that make the Zen work with the Nero AAC files.  You can find out more here [...]
+When I turn off my player while it is playing a song, it will lock up.  I do not think this is normal.  If I pause the song, before I turn off the unit.  It will not lock up.  
+Other than these things, the player is good.  Great sound quality and a high resolution display.  The custom EQ is very convenient to adjust the sound to how I want it.

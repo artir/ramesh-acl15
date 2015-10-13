@@ -1,0 +1,13 @@
+ID: B001UDRAS6-R2KMDQBTT1BJ9O-A1R77DWKZP0UZV
+Category: Laptops
+Product: Acer-Aspire-4730-4516-Laptop-Notebook
+ReviewerID: A1R77DWKZP0UZV
+ReviewerName: B. Poulin "espresso lover"
+Date: April 1, 2010
+Helpful: 
+Rating: 5.0
+Title: Amazing laptop for the money; 1 GB ethernet makes Internet fly
+Content:
+Overall, this is an outstanding little laptop for the money. I upgraded to 4 GB DDR2 SDRAM, to go along with the dual-core processor (Intel), and 250 GB hard drive. When plugged into the Ethernet directly, this laptop outperforms nearly any computer in speed. Very, very fast Internet downloads. This is a 14.1" wide-screen wxga with HD quality picture. 2 USB 2.0 ports, a VGA out, DVD/CD R/W drive, multimediacard drive, and an adequate audio card which is greatly upgraded with even tiny external speakers-- the kind that come for free with some desktop PCs. 
+I use a USB 2.0 4-port adapter to expand the USB ports to 5, and can run a webcam, memory stick, external HD, wireless mouse, and USB speakers off this at the same time without a hitch. The PC runs flawlessly. PC has a nice clean looking shell, is lightweight (5 lbs), and the keyboard is very smooth, easy to use.
+My only complaint is the touchpad mouse needs to be configured so it won't jump to wherever the cursor is on the page. I avoid this by using a laser mouse anyway, and the PC is great. Highly recommended if you can find one for under $450. It is also upgradeable to Windows 7, but Vista Premium works well on this.

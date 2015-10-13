@@ -1,0 +1,32 @@
+ID: B001PL42LG-R2P7PGDOOTZ8EU-A13U1YQIGXI5BC
+Category: CanisterVacuums
+Product: Miele-Caniser-Vacuum-Cleaner-SEB217-3
+ReviewerID: A13U1YQIGXI5BC
+ReviewerName: Claybuster
+Date: January 28, 2010
+Helpful: 2 of 5
+Rating: 3.0
+Title: Miele post mortum
+Content:
+I've reluctantly purchased the LEO to replace the Miele De Luxe 401Si purchased in 1996.  The reluctance is based on the following annoyances-
+ . The 401S1 always ran hot 
+ .  The 401Si died due to failure of the fan bearing after about 3,000 hours of operation in the course of 13+ years.  Miele's fan bearing is an unsealed ball bearing (made in Singapore) pressed onto the front of the motor armature shaft.  The motor and fan assembly was manufactured in the USA by Lamb / Ametek (Part Nr. 117923-23). 
+ .  After many hours of research and a $200 expenditure, I was unable to locate an appropriate replacement assembly.  A vendor from Valley Stream, NY claimed to have a 117923-23 but sent me a $100 Lamb #115923 (assembled in Mexico).
+ .  Like most "German" companies, Miele generally has the attitude that only 'expert technicians' should repair their machines and is not particularly helpful making replacement parts and exploded diagrams available to the masses.
+ .  It appears that by the time components are due to fail, replacement parts have become unavailable.
+ .  Miele's penchant for discontinuing models and introducing new models with little or no published parts or accessory backwards compatibility is not consumer friendly. 
+Notwithstanding the above, the 401Si was relatively powerful and quiet compared to my Porter Cable shopvac.  Hopefully the S5381 Leo will perform as well or better and my investment in accessories for the 401Si will be largely applicable on the new machine.
+The LEO ordered on 27 Jan arrived from Indiana on 3 Feb via UPS, poorly packed with little cushioning.  On the plus side, the Vac has adequate suction and is relatively quiet.
+On the negative side-
+Most of the accessories ($300 - $400 worth), eg filters, wands, brushes, hoses from the Miele 401Si are not compatible with the Leo.
+Most of the Leo's ABS plastic parts are flimsier / thinner than the 401i's.
+Leo has three caster wheels compared to 401i's four caster wheels.
+Leo's hose connection to canister does not swivel, making the hose more prone to kinking and more awkward to store.
+Leo's power indicator lights are not readily visible in bright sunlight.
+Leo's operator manual says power cord should be fully extended to facilitate motor cooling.
+Brush bristles of Leo's accessories are not very dense / luxurious and crevice tool is quite short.
+There is no provision for vacuum strength adjustment on the handle or wand; only via the motor speed control located on the canister.
+Leo's power brush wand is quite heavy, making it less comfortable for overhead vacuuming. 
+Leo has no apparent provision for a blower port.
+10 Feb 2010-
+By cannibalizing parts from my dead 401Si canister and in combination with the 1 1/4" adapter supplied with the Leo, I was able to fashion a connector which permits use of the 401Si hoses on the Leo.

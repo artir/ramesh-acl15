@@ -1,0 +1,24 @@
+ID: B0012Y89JW-R3DW0KMR21FHCR-A5V9729A9OXRF
+Category: DigitalSLRs
+Product: Canon-Digital-XSI-Camera-Body
+ReviewerID: A5V9729A9OXRF
+ReviewerName: Drifter
+Date: July 4, 2008
+Helpful: 22 of 31
+Rating: 4.0
+Title: Comparison: 400D v 450D v D60 v E420
+Content:
+This review is strictly comparison of image quality of these four SLRs, I am completely leaving out ergonomics, features, size of LCD etc.
+After shooting 100s of shots and pixel peeping images of identical scenes.
+Color reproduction:
+1st: Nikon D60 
+2nd: Canon XTi and  Canon XSi 
+4th: Olympus E420
+D60 has sliglty more vibrant and punchier colors than the Canons. Casual user will be much happier with Nikon over the other three. XSi and XTi and identical in this regard inspite of the former's 14-bit A/D converison advantage. Upgarding from XTi to XSi will not give any advantage in real world improvements in terms of color reproduction.
+Image Noise (at 400 and 1600 ISO)
+1st: Canon XTi 
+2nd: Canon XSi 
+3rd: Nikon D60 
+3rd: Olympus E420 
+XTi has the least image noise, as it has less megapixels in the same area CMOS sensor when compared XSi. D60's CCD is noisier but it also has more color information at higher ISOs where Canons mutes colors to suppress the noise. E420 smaller LiveMOS sensor has worst of both worlds. It's images are as Noisy as D40 but colors are as muted as Canon's.
+If you factor in the prices, the best choices are either XTi for D60. The trade off is between better color and less noise.

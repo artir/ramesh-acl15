@@ -1,0 +1,17 @@
+ID: B0007QKMQY-R2XUGZNYNYEALW-AHROSV6WJOEGY
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-XT-f3-5-5-6
+ReviewerID: AHROSV6WJOEGY
+ReviewerName: John Faughnan "John G Faughnan
+Date: December 3, 2005
+Helpful: 10 of 10
+Rating: 4.0
+Title: A few tips on focusing
+Content:
+There are many good reviews on this camera on amazon and elsewhere. I'm partial to an eclectic review I wrote on my blog -- if you want to read it Google on [Gordon's Tech Digital Rebel XT review] and you'll find it. (Amazon does not allow one to put URLs in a review).
+I won't repeat the full review here; instead I'll focus on ... getting sharp images. The negative reviews on Amazon complain about out-of-focus images. I think I can help.
+If you've used a consumer digital camera with a tiny CCD sensor, you've gotten used to great depth of field. The APS-sized (2x3 aspect ratio btw, not 3x4!) sensor on this camera is big enough that depth of field is back. When I use my 50mm Canon 1.8 (equivalent of 80mm on 35mm camera) the depth of focus is inches.  That's not much to work with.
+Also, the 'smart' 8 point focus tends to fail for me. I got much better results when I switched to a single focus point and started using focus lock.
+Lastly, the default built-in flash settings favors an odd combination of flash and long exposures (so one gets the background exposed) along with wide open lens and ISO 400 sensitivity (to reduce power drain?). Bad choices for most of us.
+You can fix the flash behavior. Read the manual carefully, there's an esoteric setting that fixes the shutter speed to 1/200 sec with Av flash pictures. Use that setting and use Aperture priority for flash images, set your lens to f 4 or better, ISO to 200 and you can expect sharp flash pictures.
+I think this is a solid camera, despite the annoying rattle in the flash unit "arms". I think we'll eventually move beyond SLR technology, but for now the power consumption of these larger more light efficient sensors requires that they be embedded in an SLR body.

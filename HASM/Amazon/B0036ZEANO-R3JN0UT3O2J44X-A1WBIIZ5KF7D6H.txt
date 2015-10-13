@@ -1,0 +1,42 @@
+ID: B0036ZEANO-R3JN0UT3O2J44X-A1WBIIZ5KF7D6H
+Category: Laptops
+Product: ASUS-U30JC-A1-13-3-Inch-Laptop-Silver
+ReviewerID: A1WBIIZ5KF7D6H
+ReviewerName: Impetigo
+Date: April 13, 2010
+Helpful: 6 of 6
+Rating: 5.0
+Title: Great notebook!
+Content:
+I just got the ASUS U30JC-A1 a few days ago and have had a few days to play around with it. 
+The Good:  
+==========================================================================
+1. Design/Aesthetics & Construction/Build-quality
+This is a really nice looking/feeling notebook!  The brushed aluminum lid is very, dare I say it, 'high-end' appearing, and the matching aluminum palm rest is a nice touch.  Very simple, understated, yet elegant design usually not seen outside of Apple's products.  Yes, the screen and black bezel is glossy but I rather like it like that, it's not bad at all indoors as long as you don't have bright light shining on it.  Also, very solid build-quality.  No flex in the keyboard or lid and sturdy hinges as well.  The chicklet style keyboard has nice matte keys with well thought out layout (arrow keys, delete key in the corner, function key to adjust volume, etc.).
+2. Screen
+1366x768 resolution LED backlit screen (16x9 aspect ratio) looks really good.  The vertical viewing angles aren't great, but acceptable (a good 15 degrees), and the horizontal viewing angles are wide enough to allow you and your friend to sit side by side and watch a movie on it.  And again yes, it is glossy, but really very usable.
+3. Performance/Hardware
+With the non-ULV Core i3 (350M) processor, the U30JC is a good performer.  You can check out the multiple reviews online to see that it stacks up very well against most comparable notebooks.  With the 64-bit Windows 7 and 4gb DDR3 RAM, multitasking is a joy.  The graphics system (integrated graphics + NVIDIA 310M with 512mb VRAM and Optimus auto-switching technology) is great and allows for seamless transition between integrated and dedicated graphics, depending on the need, and apparently helps with the battery life.  I am not much of a gamer but I tested Left 4 Dead (first one) and the graphics seem to perform rather well.  
+4. Optical Drive
+Yes, you read that right, I think it's nice to have an optical drive in a notebook even if it adds to the bulk a bit.  That said, many people would prefer not to have one, in which case you can wait for the optical drive-less U33JC (with Core i5) that should be coming to the US eventually...
+5. Battery Life/Power Management
+I have not done any serious battery life tests, but with casual usage with wifi internet browsing, the U30JC will easily get some six plus hours out of it.  I would not count on getting 9.5 hours as advertised unless using really basic settings (no wifi, etc.).  There are also multiple power management settings that let you customize exactly how you want battery usage to be managed, which is great.  You can even choose integrated vs dedicated graphics for every program you have installed if you want, in addition to the usual backlight, hibernate, etc., settings.
+6. Great Warranty
+Pretty great warranty, including 2-years coverage (with 3-day turnaround time and free return shipping) and 1-year accidental damage coverage too!
+7. Speakers
+They actually sound pretty decent for a notebook.  
+8. Miscellaneous
+The HDMI port is nice to have (and pretty standard), as well as three USB 2.0 inputs and the SD/MS/XD card reader.  
+The Not So Good (Or Could Have Been Better):
+==========================================================================
+1. Bulk/Weight
+Yes, it is a bit thick and a bit heavy, but at the price point it is selling for you can't really expect it to be MacBook Air thin with a SSD, etc.  That said though, the notebook is very 'carry-able' and I have no problem putting it in my backpack for a night on the town.
+2. No Firewire/USB 3.0
+I wish they could have put one in, but alas, no firewire or USB 3.0 ports.
+3. 0.3MP Webcam
+It would have been nice to have a bit better, higher resolution webcam, but the one they include does work fine.
+4. No Blu-ray drive
+If they're going to put in a bulky optical drive, it would have been nice to have a blu-ray drive (since there is an HDMI port) and be able to use the U30JC as a HTPC.  But at this price point, again, it's wishful thinking. 
+Overall:
+==========================================================================
+I think this is a fantastic notebook that really exudes quality and has a good balance between performance, portability, and battery life.  It is not perfect, but I am quite satisfied with it thus far and would definitely get this one again!

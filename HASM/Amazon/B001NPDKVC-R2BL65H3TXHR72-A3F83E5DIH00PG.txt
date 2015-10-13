@@ -1,0 +1,26 @@
+ID: B001NPDKVC-R2BL65H3TXHR72-A3F83E5DIH00PG
+Category: Laptops
+Product: Pavilion-X16-1160US-16-Inch-Processor-Premium
+ReviewerID: A3F83E5DIH00PG
+ReviewerName: Deyu Xu "euclid"
+Date: April 25, 2009
+Helpful: 4 of 8
+Rating: 3.0
+Title: Too fancy to be good
+Content:
+Pros
+1. 18" HD screen is very clear and bright
+2. Fingerprint log feature is pretty nice.
+3. With 7200rpm hard disk, this laptop runs like desktop.
+4. With a full size keyboard.
+5. Build in webcam
+6. Lowest price compare other brand with same configuration
+Cons
+1. I don't like these touch buttons on the keyboard at all. Slow response or response by wrong way all the time. I have to be very careful how many times touch on that volume touch button. It has to wait for CPU available to take sound adjustment request processor. A normal mechanical button is more efficient. 
+2. Wireless connection comes and goes. I guess that is windows vista's common issue.
+3. DVD player interface is so bad; actually, HP media DVD player is the worst DVD player software I have even seen, which shows HP is really not a software company! Player does NOT allow use mouse to do most of DVD normal function and remote control doesn't work at all in most of time. Backward, forward can only go one speed.  And every time I want to change movie feature (add subtitle), DVD will restart from beginning.
+4. HDMI output doesn't include sound, only video.
+5. You can put second hard disk in this laptop. But it's not wired.
+6. Not indication bar on screen shows screen brightness level during adjustment
+Overall conclusion
+Performance is pretty good as a laptop stand. Good for doing some serious job, but not that good for entertainment purpose.

@@ -1,0 +1,16 @@
+ID: B000N84H08-R1QUXLK2CYVT80-A2AW8J4LSKGEGX
+Category: SpaceHeaters
+Product: Cadet-03405-240V-Almond-Thermostat
+ReviewerID: A2AW8J4LSKGEGX
+ReviewerName: Robert Plamondon
+Date: November 6, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great Thermostat For On-Baseboard Use
+Content:
+If you have electric baseboard heat and want a digital programmable setback thermostat -- and you do, because it will make your rooms more comfortable and save you money -- but you don't want to wire in a regular thermostat on the far side of the room, this on-the-baseboard thermostat is the one for you.
+It only fits Cadet Series F baseboards, so you'll probably end up replacing the one you have now.
+Installation is the same as for any on-the-baseboard thermostat (have an electrician do it if you're not familiar with household wiring). Programming is pretty easy. The thermostat's temperature regulation is much better than I expected. I thought the heater would heat up the sensor and mess it up, but the sensor is right at the bottom, and the way convection works is that hot air exits the top of the unit, which draws cold air in at the bottom, and putting the sensor at the bottom of the thermostat assembly does the trick.
+The only issues are:
+1. Power outages (including a blink of about a second) cause the unit to lose track of what time it is. It still remembers its heating program, though.
+2. If you have furniture in front of your baseboard heaters, getting at the thermostat can be a nuisance.

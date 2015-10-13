@@ -1,0 +1,25 @@
+ID: B000H0QDCC-R8JOUT0O9XSGV-A2WCH9IHZRMPR6
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Brown
+ReviewerID: A2WCH9IHZRMPR6
+ReviewerName: Justin R. Hodge
+Date: May 31, 2008
+Helpful: 
+Rating: 1.0
+Title: Not worth the trouble.
+Content:
+After my Creative Zen Vision:M stopped working I was debating on whether to get a Zune or an iPod.  The Best Buy salesperson recommended the Zune because of its wireless feature that would allow you to share music with other Zune users.  I bought the Zune and found out right away that I had made the wrong choice.  I have now had the Zune for nearly a year, so I have had time to discover its numerous disadvantages.  Here is a list of the issues I have with both the Zune player the the included Zune software:
+---You have to do EVERYTHING through the software.  You can't do anything             on the device itself such as create a playlist or even delete a song.  The only thing you can do on the device itself is create a "quick list" playlist of which you can only have one at a time.
+---The Zune software is exclusive; you cannot use any other media player such as iTunes, Winamp, or even Windows Media Player to organize and sync music to the Zune.
+---The Zune is only compatible with the Zune Marketplace music service.  It is not compatible with the iTunes store, Napster, or any other DRM-using or PlaysForSure-using music service.  The only service that I have found that works is Amazon MP3 which sells DRM-free music.
+---The software is not user-friendly by any means.  Organizing your music is very difficult, and the fact that the software does not support any kind of drag-and-drop function makes it worse.
+---The Zune player, unlike the iPod and Zen Vision:M, cannot function as a removable drive.  It doesn't even show up in the "My Computer" window, which is why you have to use the Zune software to access it.
+---The Zune player only supports MP3 and WMA music formats and MP4 and WMV video formats.  It does not support other common formats such as AVI or MOV.  To make matters worse the software does not come with any kind of conversion tool that would enable you to convert these other formats to one compatible with the Zune.
+---The wireless feature is practically useless.  It will only let you sync music with other Zune users, and I have only met one other person with a Zune, so that feature has been useless.  In addition, when you share a song it will delete after you play it three times.
+---The battery life is very short-lived (most likely due to the larger LCD screen).
+Even though the Zune does have a couple nice features, like an FM radio larger screen which is nice for viewing videos, I would still HIGHLY recommend that you stay away from the Zune.  I would instead recommend the Creative Zen Vision:M for several reasons:
+---It works with numerous media players and music services
+---It has a built-in FM radio and voice recorder
+---It can function as a removable drive or can be partitioned as an external hard drive
+---The included software can convert numerous formats so that they are compatible with the Vision:M
+--On the player itself you can create playlists, delete songs from your library, etc.

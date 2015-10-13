@@ -1,0 +1,17 @@
+ID: B001NPDKW6-R34QCQ0TDONZFA-A19F0K2W8LMFOW
+Category: Laptops
+Product: HP-Pavilion-DV6-1030US-16-0-Inch-Laptop
+ReviewerID: A19F0K2W8LMFOW
+ReviewerName: Joseph Grenon Awesome Restorations
+Date: May 12, 2009
+Helpful: 9 of 14
+Rating: 2.0
+Title: Disappointment abounds
+Content:
+I am not a geek, but have been using computers since 1988, and have become somewhat literate.
+The specs on this thing looked good. I thought I saw that it had a s-video output and a fire wire port. No s video, and I finally located the fire wire port, I think by going through my collection of old cables until I found one with the right fit for the computer and the external hard drive's fire wire input. Does not seem to be as fast as the USB connector though. 
+There is a remote control to run the tv function, but I have not been able to figure out how to get either to work, and I accidentally stumbled upon the slot to store the remote while i was looking for the slot to install a game card. No slot for the game card, but there is a place for the remote. none of this is illustrated in the internal documentation inside the pc. It might be in the paper manual, but if there was a paper manual in the box, i must have lost it. 
+within a week of purchase, the screen started to flicker. I contacted HP email support and did what they told me. The flickering got better, for a couple of hours, then started up again. I contacted HP again by email, got more instructions, and the problem got worse. In frustration I called HP support and spoke to a female operative who gave me vague and incomplete instructions on resetting the BIOS. After a contentious exchange, she consented to send me a box to return the notebook for service. It will be gone for two weeks. HP continues to assure me that all the problems will be solved, but I am not optimistic. In addition to the screen issue, the Media Smart Resident TV program stopped working. 
+I was also mistyfied why the screen saver would not start up as scheduled in the control panel, only to discover after two weeks and 3 friends that the screen saver cannot work if I have my external mouse plugged in. 
+The Altec Lansing built in speakers are about as crummy as you would expect to find in a laptop. 
+I am stuck with it now I guess.

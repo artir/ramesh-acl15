@@ -1,0 +1,13 @@
+ID: B001GCTT7G-R354SSGDD8QUZC-A1G8F9WOIMRZWR
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A1G8F9WOIMRZWR
+ReviewerName: consumer chick
+Date: December 16, 2008
+Helpful: 0 of 1
+Rating: 5.0
+Title: awesome
+Content:
+I wanted a machine that would run xp, so first I picked up a sony vgnns115n/s.   Unfortunately, the 3rd party vendor (qdirect) that was supposed to provide the promised xp downgrade disks renegged, refused to answer my messages and refused to respond to sony, and then finally deactivated their webpage.  Sony could not guarantee I'd ever get the disks, so I took the laptop back and bought this macbook (first mac ever)
+What sold me on this was the boot camp application which allows the user to partition the hard drive and then load windows onto it. I MUST have xp, so this was the initial selling point.  I also thought the computer was  very well built.  
+Well, using boot camp and an oem version of xp pro, the installation was FLAWLESS, and the directions provided by apple were very well wrtitten!.  I am so happy with this computer...as I have my old os that I can't get away from , but also mac, which is something I am exploring. So far, I am VERY HAPPY.  The computer is light and sleek, and I finally have a laptop that I can use.  I will say it only took 9 days to decide I hated vista on my sony machine....it degraded each time I browsed the internet. Thanks mac for giving a rip about the consumer....something microsoft has gotten away from.  Now there is no excuse to not get a mac. (since they've demonstrated the ability to seamlessly run windows).

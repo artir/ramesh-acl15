@@ -1,0 +1,11 @@
+ID: B002PHMC9I-R1ZFSR2UXFELQB-ACX89C5DVWDJJ
+Category: Laptops
+Product: Pavilion-DV4-1541US-14-1-Inch-Espresso-Laptop
+ReviewerID: ACX89C5DVWDJJ
+ReviewerName: Thanh Tran
+Date: January 15, 2010
+Helpful: 0 of 1
+Rating: 5.0
+Title: a great laptop
+Content:
+this is a great little laptop! it's powerful enough run photoshop cs4 and visual studios 2008 at the same time. not too happy with all those bloatware that hp installed with it, but overall it's awesome for the price paid.

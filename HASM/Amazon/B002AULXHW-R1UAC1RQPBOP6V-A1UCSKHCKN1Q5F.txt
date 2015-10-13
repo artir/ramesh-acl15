@@ -1,0 +1,17 @@
+ID: B002AULXHW-R1UAC1RQPBOP6V-A1UCSKHCKN1Q5F
+Category: Laptops
+Product: Acer-Timeline-AS4810T-8480-14-Inch-Aluminum
+ReviewerID: A1UCSKHCKN1Q5F
+ReviewerName: Anncamas
+Date: November 20, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Battery life & weight worth the hassle!
+Content:
+Pros: A twice long (real time) battery life, super light weight for 14" screen laptop w/internal DVD player, & glossy screen w/ great colors. Aluminum chassis & metal lid vs. molded plastic. Wireless easy to set up. Great price + Windows 7 upgrade.
+Cons: Speakers - tin sound unless I use headphones then really improves. Bloatware and a bunch of driver updates and potentially bios too. Acer customer service reps no help for soft or hardware issues and their web page for driver updates is a mess.
+I did extensive research before purchasing at Office Depot for $549 mid October.  I primarily wanted a laptop (not netbook) that was this weight or less and that would last at least 6 hours while travelling, if not more. While I use Office software, it's secondary so while not super fast, still faster then my last LT which was 4 years old. 
+There were some very helpful reviews on Tiger and Amazon about what needed to be updated to prevent crashes. Thus, I was willing to take on the hassle of having to load a bunch of driver updates and potentially flash the bios (which I have not yet had to do). I did most of the driver updates but not all of those related to the wireless or other optional features as there is no help on Acer's site to determine if they are relevant. 
+I did have some freeze ups until I turned off the sleep function. Most were then eliminated but I updated the bios to 1.28, and most drivers, as many reviewers at other sites said it was needed.  So far so good but the Acer site is very un-user friendly for finding the latest driver.  They just keep adding new ones in no particular order.  Also, before using wireless, turn off the Windows Security Functions (as much as it lets you) assuming you are using Internet Security Software. 
+While the customer service is very weak (compared to Dell - most of my computers including current XPS One) or Gateway (4 years ago)), they did send me a free recovery CD set (since I was unable to make them after wasting 5 DVDS). I like the feel of the full size key board but am not a touch pad user so cannot comment - use a wireless optical mouse. Volume could have a bigger range so louder option.
+Finally, yesterday I used the free software to upgrade Windows 7 and was fairly simple (esp since did not add much software except Office prior).  Acer update disk helps - only problem was at end after install was done. The new OS did not recognize my DVD drive; needed to finish the process by inserting Acer disk back in after Windows. Restarted once and it was there which was a nice surprise as there have been problems reported about this on the Windows 7 microsoft blog.

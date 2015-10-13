@@ -1,0 +1,11 @@
+ID: B00005QJ2L-RQY65RP8T7OY7-
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: 
+ReviewerName: 
+Date: January 27, 2002
+Helpful: 1 of 2
+Rating: 2.0
+Title: Stay Away From This Looser
+Content:
+Bought two of these computers for the family. Both have track pads that are virtually unusable. The pointer will freeze unexpectedly, requiring a hard shutdown to "get free." The arrow/cursor wanders, sometimes inserting itself in the document a line or two away (sometimes even a paragraph or two away) as you continue to type. There is no way to surpress the tapping function of the touch pad. Using an external mouse causes the same problems, leading one to believe that it is a driver problem. I downloaded and installed a new driver from the Toshiba site -- same problems. The Toshiba online help site has a message board where owners voice their problems -- others have experienced these same track pad problems, with no solutions. Toshiba technical support has been very UNhelpful, virtually guessing what is wrong. I was even told that I was unrealistic to expect everything to work properly right out of the box. I guess a functional track pad is too much to expect.Based on my experience, I'd stay away from everything Toshiba altogether, not just this model.

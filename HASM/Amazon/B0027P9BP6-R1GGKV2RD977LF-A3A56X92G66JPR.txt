@@ -1,0 +1,16 @@
+ID: B0027P9BP6-R1GGKV2RD977LF-A3A56X92G66JPR
+Category: Laptops
+Product: Sony-VAIO-VGN-SR410J-13-3-Inch-Laptop
+ReviewerID: A3A56X92G66JPR
+ReviewerName: R. Blake
+Date: November 2, 2009
+Helpful: 4 of 7
+Rating: 1.0
+Title: Buyer beware on all Sony laptops
+Content:
+Aside from the bloatware, Sony offer very poor support past the release of any model. They will not and do not support any OS other than the factory install. An extract directly from Sony Support had the following to say:
+"I'm happy to assist you with the information regarding Drivers for the Windows 7 Operating System. Your Sony VAIO Computer is shipped with preinstalled Windows Vista Home Premium Operating System. It does not support the Windows 7 Operating System. Sony's VAIO Computers are designed for, and supported under, the OEM version of Windows pre-installed at our factory. If you install any other Operating System in your system, you will need to contact the manufacturer of that Operating System for any and all support issues or device drivers and Software utilities they may have available. This includes, but is not limited to alternate versions of Windows and/or dual-boot configurations."
+In addition, even the newer ones do not support XP mode under Windows 7. They have disabled some of the Intel features. As their Xavier Lauwaert explains:
+"Contrary to perceived opinion, we have received very little if any requests to enable VT technology up until very recently.
+In addition, our engineers and QA people were very concerned that enabling VT would expose our systems to malicious code that could go very deep in the Operating System structure of the PC and completely disable the latter."
+Suggest another brand

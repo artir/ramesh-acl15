@@ -1,0 +1,17 @@
+ID: B001TZVW8E-R2QERCNU4QFUN0-A37GJRP6G1J63N
+Category: Laptops
+Product: Samsung-7-Inch-UMPC-with-Touchscreen
+ReviewerID: A37GJRP6G1J63N
+ReviewerName: Dale Brown
+Date: August 2, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: If you want small, the Q1EX is it
+Content:
+PROS: Small size, bright display, lightweight, SDHC card slot
+CONS: Not very fast, no Web cam, funky stylus storage
+I purchased a Samsung Q1EX with 2 GB RAM, 1.2 GHz VIA Nano processor, Windows XP, and 32 GB solid-state hard drive (not from Amazon, sorry). The SSHD added about $300 to the price. I needed a small tablet PC running Windows XP to use in my unpressurized airplane to run electronic chart and navigation software. Conventional spinning HDDs aren't very reliable with cabin altitudes over 10,000 ft. so I needed the SSHD. I rarely travel so I don't need a full-size laptop, and when I do travel I want a laptop with a small footprint.
+I purchased the Q1EX with a keyboard portfolio, which combines a tablet support, a dock with VGA and LAN ports, and a keyboard in a nice folding protective vinyl case. Other recommended options are a Stowaway Bluetooth mouse (the portfolio keyboard has a touch pad) and a USB port expander (the Q1EX has 2 USB 2.0 ports).
+The Q1EX is extremely thin and light. The touchscreen is very bright. There are no buttons on the device (unlike the other Q1s) except the on-off-lock switch and the Dial Menu wheel on the left and the CTRL-ALT-DEL button on the right. I use a 32 GB SDHC card so storage hasn't been an issue. Wi-Fi and Bluetooth are built-in. The sound quality and volume are good. It's a nice little package.
+I haven't encountered any real cons about the device except it seems very slow to boot up, almost as if it has frozen or crashed. There is a camera on the back but it would've been nice to have a camera facing the user. Built-in GPS would've been nice too. If you want a small tablet you'll compromise on the tiny characters in 1024x600 res, but it is very sharp and bright (barely readable in direct sunlight, like most touchscreens, but it's fine outdoors in shade). Having to carry a keyboard is a slight hassle but programs such as DialKeys might solve that issue. Other reviews I've read say that videos are choppy but I haven't noticed that. The stylus is stored in a little slot on the wrist strap, but I don't use the wrist strap so I need to bring a stylus or just use fingers.
+If you want or need small, the Q1EX is great, and you'll accept the trade-offs.

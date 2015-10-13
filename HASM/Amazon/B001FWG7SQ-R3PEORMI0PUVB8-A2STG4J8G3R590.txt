@@ -1,0 +1,19 @@
+ID: B001FWG7SQ-R3PEORMI0PUVB8-A2STG4J8G3R590
+Category: Laptops
+Product: EliteBook-Mobile-Workstation-8530w-fingerprint
+ReviewerID: A2STG4J8G3R590
+ReviewerName: Diane Marie Goldschmidt "Re-Creativity"
+Date: September 25, 2009
+Helpful: 
+Rating: 1.0
+Title: HP Elitebook 8530w notebook workstation
+Content:
+HP EliteBook Mobile Workstation 8530w - Core 2 Extreme X9100 / 3.06 GHz - Centrino 2 - RAM 4 GB - HDD 320 GB - DVD?RW (+R DL) / DVD-RAM - Quadro FX 770M - Gigabit Ethernet - WLAN : Bluetooth 2.0 EDR, 802.11 a/b/g/n (draft) - TPM - fingerprint reader, Sm...
+This is an overpriced product that is poorly designed and constructed.  For example, the SD memory card slot has a credit card size space above it and in order to "safely and not to lose your memory card" one must physically lift the notebook and inspect carefully where the card is entering.  LOST DATA, EXPENSIVE CARDS AND MONEY!  Eventually, they will slip out if tipped just so but by then the heat of this machine has destroyed them forever.
+The machine gets so hot it melted a leather sofa, stuffing in a pillow and burnt my leg through 4 layers of cotton clothing.  Before week 3 it was already out of user disk space (for your data) as they set it up into 4 partitions with very poor planning and sizing.  
+Applications stop responding, a "system admin" - unknown has the rights to the PC and does not allow many Windows updates ACCESS DENIED, SEE SYSTEM ADMINISTRATOR.  I am the only user, and the administrator of the machine (but it does not allow me admin rights for the most part either).  I can not re-enter my fingerprints after a system restore in which I used control panel, Backup and Restore, to backup my data files onto an external HDD which appears to be fine (the WindowsImageBackup) and the right size.  HP does not recognize the backup and does not accept my (the ONLY) password ever used on this machine to re-register the fingerprints under HP Protect Tools.  It asks for a Windows Password, of which, it does not accept mine and continues to "RESTART" the PC.
+After about 10 minutes the HP Protect Tools will popup again and if you still do not know what it knows to be the right password, it RESTARTS AND YOU HAVE NO TIME TO SAVE ANYTHING.  Figure that into your workday and progress/production are futile.
+In addition, this product runs Vista 32 which HP does not tell you will NOT BE COMPATIBLE with your HP SCANNER (a mainstay in your business) as it only provides a generic flatbed scanner driver which does not operate the main features of the HP SCANJET 5500c which are an automatic sheet feeder for up to 4x6 photos, a slide scanner, and a negative scanner.  I have NO USE for a flatbed scanner and would not have paid what I did for that EXPENSIVE scanner with the features needed only to find out shortly that HP won't support it.
+BUYER BEWARE - HP Tech Support causes more problems than it solves.  HP Customer Service will not treat you well if you buy under Home and Office - only a little better in Small Business, and otherwise, don't waste your time.
+3 PCs from HP have been disasters this year and for no income and no recourse for nearly 10 months - STAY AWAY...
+Unless you like to risk burning your house down, losing ALL your data including zipped backup copies (corrupts any and all of these it can get at) and melts and/or eats cards, and the dvd drive cover falls off the 2nd time you use it - AND THAT SHOULD NOT BE TO USE THE RESTORE DVD'S PURCHASED WITH THE PC.  NOTE also the software driver restore CD DOES NOT INCLUDE THE CORRECT NOR COMPLETE ORIGINAL SOFTWARE.  Disk says I have lightscribe, hardware says NO.

@@ -1,0 +1,11 @@
+ID: B000ALGM1U-R1MJXFE6JKWJC9-A2FSC06GG7SDBR
+Category: SpaceHeaters
+Product: Hunter-44260-Save-Programmable-Thermostat
+ReviewerID: A2FSC06GG7SDBR
+ReviewerName: R. S. Burchette
+Date: March 9, 2009
+Helpful: 0 of 1
+Rating: 3.0
+Title: Not for a heat pump with back up electric or gas
+Content:
+This is a basic thermostat to run a simple system.  It runs on a battery instead of the system voltage.  It will not control a heat pump with electric or gas back up.  I would suggest moving up to a better model.

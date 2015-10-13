@@ -1,0 +1,11 @@
+ID: B003212AYI-R3FOJBGK87F1X0-A2C5UXZ81PX09N
+Category: Laptops
+Product: Sony-FW-16-4-Inch-EXTREME-Processor
+ReviewerID: A2C5UXZ81PX09N
+ReviewerName: B. Wade
+Date: January 22, 2010
+Helpful: 2 of 3
+Rating: 1.0
+Title: why is the hard drive on this new laptop obsolete?
+Content:
+This scant specification is a deviation from Sony's specification. The hard drive on this laptop is an obsolete Seagate ST412 with speed of 3200 rpm.  Sony's harddrive is a Serial ATA with speed of 7200 rpm.  BECAREFUL before purchase.

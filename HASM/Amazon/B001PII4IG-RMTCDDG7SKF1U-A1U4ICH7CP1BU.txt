@@ -1,0 +1,22 @@
+ID: B001PII4IG-RMTCDDG7SKF1U-A1U4ICH7CP1BU
+Category: Laptops
+Product: Sony-VGN-P530H-Lifestyle-Processor-G-Sensor
+ReviewerID: A1U4ICH7CP1BU
+ReviewerName: Mugur F. Tolea "Mobile Ask Me"
+Date: April 5, 2009
+Helpful: 12 of 15
+Rating: 2.0
+Title: High Priced, Low Performance
+Content:
+This computer has style. It has everything you need from mobility prospective - especially the Verizon broadband connection that complements the regular Wi-Fi ($45/mo plan required). The screen is sharp and bright, keyboard is ergonomic, fast boot mode is useful. Definitely for someone that is travelling a lot and needs a lite, stylish and connected computer - this is IT.
+However, there are negative elements that you may consider in your purchase decision:
+- Microsoft Vista makes it a VERY slow computer, with a lower than average performance index - including regular start-up, launching programs, video sub-optimal (I cannot watch iTunes or YouTube videos in normal conditions);
+- touch pad and stick are very sensible - I had to disable them and use and external nano USB mouse;
+- screen size is too small, text is very hard to read;
+- GPS application is crashing often, the wireless/connectivity dashboard has to  disabled to use the mouse correctly;
+- Internet Explorer 7 is crashing regularly, I had to use Firefox, Safari or Chrome.
+- short battery life - about 1 hour with only one wireless connection on (all others and GPS are off);
+- there are not useful productivity or multimedia applications installed, however there are all kind of obscure things pre-installed that take a lot of space;
+- Microsoft OneCare is very slow and clunky;
+- price is high, accessories are expensive, not a good value.
+Overall, this netbook is not worth the price, better value and performance may be found in Asus eee PC or Acer Aspire One.

@@ -1,0 +1,400 @@
+joint coarse sentimentconfusion matrix6 x 6 matrix
+835 205  11 15 78  79
+261 961  36 12 80  17
+ 24  35 128  0  0   7
+ 64  47   6  0 12   7
+ 11  15   5  0  2   4
+292 133  30 71 14 647
+f1 for fientopic 0 0.6162361623616237
+precision for fientopic 0 0.5615332885003362
+recall for fientopic 0 0.6827473426001636
+f1 for fientopic 1 0.6956207021353601
+precision for fientopic 1 0.6883954154727794
+recall for fientopic 1 0.7029992684711046
+f1 for fientopic (2) 0.624390243902439
+precision for fientopic (2) 0.5925925925925926
+recall for fientopic (2) 0.6597938144329897
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 0.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.017937219730941707
+precision for finetopic_1 (4) 0.010752688172043012
+recall for finetopic_1 (4) 0.05405405405405406
+f1 for finetopic_1 (5) 0.664271047227926
+precision for finetopic_1 (5) 0.8501971090670171
+recall for finetopic_1 (5) 0.5450716090985678
+joint coarse sentimentf1 for finetopic 0.6187945508600708confusion matrix6 x 6 matrix
+806 199  26 24  95  73
+239 868  98 27 119  16
+ 11  15 162  0   3   3
+ 59  43  14  5   9   6
+  7  11   6  0  10   3
+274 112  45 88  36 632
+f1 for fientopic 0 0.6155021000381825
+precision for fientopic 0 0.5773638968481375
+recall for fientopic 0 0.6590351594439902
+f1 for fientopic 1 0.6638623326959847
+precision for fientopic 1 0.6955128205128205
+recall for fientopic 1 0.6349670811997074
+f1 for fientopic (2) 0.5944954128440367
+precision for fientopic (2) 0.46153846153846156
+recall for fientopic (2) 0.8350515463917526
+f1 for fientopic (3) 0.03571428571428572
+precision for fientopic (3) 0.034722222222222224
+recall for fientopic (3) 0.03676470588235294
+f1 for finetopic_1 (4) 0.06472491909385114
+precision for finetopic_1 (4) 0.03676470588235294
+recall for finetopic_1 (4) 0.2702702702702703
+f1 for finetopic_1 (5) 0.6583333333333333
+precision for finetopic_1 (5) 0.8622100954979536
+recall for finetopic_1 (5) 0.5324347093513058
+joint coarse sentimentf1 for finetopic 0.6231514509635376confusion matrix6 x 6 matrix
+826 202  27 14 76  78
+248 904 108 11 79  17
+ 13  15 163  0  0   3
+ 62  43  13  0 11   7
+ 12  13   6  0  2   4
+288 124  50 68 15 642
+f1 for fientopic 0 0.6182634730538923
+precision for fientopic 0 0.5700483091787439
+recall for fientopic 0 0.6753883892068684
+f1 for fientopic 1 0.6776611694152924
+precision for fientopic 1 0.6948501152959262
+recall for fientopic 1 0.6613021214337966
+f1 for fientopic (2) 0.5811051693404635
+precision for fientopic (2) 0.444141689373297
+recall for fientopic (2) 0.8402061855670103
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 0.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.01818181818181818
+precision for finetopic_1 (4) 0.01092896174863388
+recall for finetopic_1 (4) 0.05405405405405406
+f1 for finetopic_1 (5) 0.6625386996904024
+precision for finetopic_1 (5) 0.8548601864181092
+recall for finetopic_1 (5) 0.5408593091828138
+joint coarse sentimentf1 for finetopic 0.6310370270221055confusion matrix6 x 6 matrix
+835 205  11 15 78  79
+261 961  35 12 81  17
+ 24  35 128  0  0   7
+ 62  49   6  0 12   7
+ 11  15   5  0  2   4
+292 133  30 71 14 647
+f1 for fientopic 0 0.6166912850812408
+precision for fientopic 0 0.5622895622895623
+recall for fientopic 0 0.6827473426001636
+f1 for fientopic 1 0.695117540687161
+precision for fientopic 1 0.6874105865522174
+recall for fientopic 1 0.7029992684711046
+f1 for fientopic (2) 0.625916870415648
+precision for fientopic (2) 0.5953488372093023
+recall for fientopic (2) 0.6597938144329897
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 0.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.017857142857142856
+precision for finetopic_1 (4) 0.0106951871657754
+recall for finetopic_1 (4) 0.05405405405405406
+f1 for finetopic_1 (5) 0.664271047227926
+precision for finetopic_1 (5) 0.8501971090670171
+recall for finetopic_1 (5) 0.5450716090985678
+joint coarse sentimentf1 for finetopic 0.6287763557541263confusion matrix6 x 6 matrix
+835 205  11 14 78  80
+269 956  33 11 81  17
+ 25  36 125  0  0   8
+ 64  47   6  0 12   7
+ 11  15   5  0  2   4
+299 131  30 66 14 647
+f1 for fientopic 0 0.6126192223037418
+precision for fientopic 0 0.5555555555555556
+recall for fientopic 0 0.6827473426001636
+f1 for fientopic 1 0.6935074356184259
+precision for fientopic 1 0.6877697841726619
+recall for fientopic 1 0.6993416239941478
+f1 for fientopic (2) 0.6188118811881188
+precision for fientopic (2) 0.5952380952380952
+recall for fientopic (2) 0.6443298969072165
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 0.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.017857142857142856
+precision for finetopic_1 (4) 0.0106951871657754
+recall for finetopic_1 (4) 0.05405405405405406
+f1 for finetopic_1 (5) 0.6635897435897435
+precision for finetopic_1 (5) 0.8479685452162516
+recall for finetopic_1 (5) 0.5450716090985678
+joint coarse sentimentf1 for finetopic 0.6291013648592709confusion matrix6 x 6 matrix
+835 205  11 14 78  80
+267 958  34 11 80  17
+ 25  36 125  0  0   8
+ 64  47   6  0 12   7
+ 11  15   5  0  2   4
+296 134  30 66 14 647
+f1 for fientopic 0 0.6137449467107682
+precision for fientopic 0 0.5574098798397864
+recall for fientopic 0 0.6827473426001636
+f1 for fientopic 1 0.6937002172338885
+precision for fientopic 1 0.6867383512544802
+recall for fientopic 1 0.7008046817849305
+f1 for fientopic (2) 0.617283950617284
+precision for fientopic (2) 0.5924170616113744
+recall for fientopic (2) 0.6443298969072165
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 0.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.017937219730941707
+precision for finetopic_1 (4) 0.010752688172043012
+recall for finetopic_1 (4) 0.05405405405405406
+f1 for finetopic_1 (5) 0.6635897435897435
+precision for finetopic_1 (5) 0.8479685452162516
+recall for finetopic_1 (5) 0.5450716090985678
+joint coarse sentimentf1 for finetopic 0.6270215470920807confusion matrix6 x 6 matrix
+841 218   8 11 62  83
+278 973  26  7 64  19
+ 31  48 108  0  0   7
+ 63  52   3  1 10   7
+ 12  16   4  0  1   4
+306 137  27 52 13 652
+f1 for fientopic 0 0.6107480029048657
+precision for fientopic 0 0.5493141737426519
+recall for fientopic 0 0.687653311529027
+f1 for fientopic 1 0.6922803272856635
+precision for fientopic 1 0.6738227146814404
+recall for fientopic 1 0.7117776152158011
+f1 for fientopic (2) 0.5837837837837838
+precision for fientopic (2) 0.6136363636363636
+recall for fientopic (2) 0.5567010309278351
+f1 for fientopic (3) 0.00966183574879227
+precision for fientopic (3) 0.014084507042253521
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010695187165775402
+precision for finetopic_1 (4) 0.006666666666666667
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.6656457376212352
+precision for finetopic_1 (5) 0.844559585492228
+recall for finetopic_1 (5) 0.5492839090143218
+joint coarse sentimentf1 for finetopic 0.6279036015796294confusion matrix6 x 6 matrix
+841 217   8 14 62  81
+274 976  27  8 64  18
+ 30  48 109  0  0   7
+ 64  51   3  1 10   7
+ 12  16   4  0  1   4
+301 137  26 62 13 648
+f1 for fientopic 0 0.6127504553734061
+precision for fientopic 0 0.5525624178712221
+recall for fientopic 0 0.687653311529027
+f1 for fientopic 1 0.6941678520625889
+precision for fientopic 1 0.6754325259515571
+recall for fientopic 1 0.7139722019019751
+f1 for fientopic (2) 0.5876010781671159
+precision for fientopic (2) 0.615819209039548
+recall for fientopic (2) 0.5618556701030928
+f1 for fientopic (3) 0.009049773755656108
+precision for fientopic (3) 0.011764705882352941
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010695187165775402
+precision for finetopic_1 (4) 0.006666666666666667
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.6639344262295083
+precision for finetopic_1 (5) 0.8470588235294118
+recall for finetopic_1 (5) 0.5459140690817186
+joint coarse sentimentf1 for finetopic 0.6276427405846148confusion matrix6 x 6 matrix
+841 218   8 14 62  80
+275 975  28  8 63  18
+ 30  48 109  0  0   7
+ 64  51   3  1 10   7
+ 12  16   4  0  1   4
+302 136  26 62 13 648
+f1 for fientopic 0 0.612304331998544
+precision for fientopic 0 0.5518372703412073
+recall for fientopic 0 0.687653311529027
+f1 for fientopic 1 0.6937033084311633
+precision for fientopic 1 0.675207756232687
+recall for fientopic 1 0.7132406730065838
+f1 for fientopic (2) 0.5860215053763441
+precision for fientopic (2) 0.6123595505617978
+recall for fientopic (2) 0.5618556701030928
+f1 for fientopic (3) 0.009049773755656108
+precision for fientopic (3) 0.011764705882352941
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010752688172043012
+precision for finetopic_1 (4) 0.006711409395973154
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.664274730907227
+precision for finetopic_1 (5) 0.8481675392670157
+recall for finetopic_1 (5) 0.5459140690817186
+joint coarse sentimentf1 for finetopic 0.6273698724435604confusion matrix6 x 6 matrix
+842 216   8 14 63  80
+278 972  27  8 64  18
+ 30  48 109  0  0   7
+ 64  51   3  1 10   7
+ 12  16   4  0  1   4
+302 136  26 62 13 648
+f1 for fientopic 0 0.6121410396219557
+precision for fientopic 0 0.5510471204188482
+recall for fientopic 0 0.6884709730171709
+f1 for fientopic 1 0.6928011404133999
+precision for fientopic 1 0.6754690757470465
+recall for fientopic 1 0.7110460863204097
+f1 for fientopic (2) 0.5876010781671159
+precision for fientopic (2) 0.615819209039548
+recall for fientopic (2) 0.5618556701030928
+f1 for fientopic (3) 0.009049773755656108
+precision for fientopic (3) 0.011764705882352941
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010638297872340425
+precision for finetopic_1 (4) 0.006622516556291391
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.664274730907227
+precision for finetopic_1 (5) 0.8481675392670157
+recall for finetopic_1 (5) 0.5459140690817186
+joint coarse sentimentf1 for finetopic 0.6307433559996908confusion matrix6 x 6 matrix
+835 205  11 15 78  79
+262 960  36 12 80  17
+ 24  35 128  0  0   7
+ 60  51   6  0 12   7
+ 11  15   5  0  2   4
+294 131  30 71 14 647
+f1 for fientopic 0 0.6164636397194537
+precision for fientopic 0 0.5619111709286676
+recall for fientopic 0 0.6827473426001636
+f1 for fientopic 1 0.6946454413892909
+precision for fientopic 1 0.6871868289191124
+recall for fientopic 1 0.7022677395757132
+f1 for fientopic (2) 0.624390243902439
+precision for fientopic (2) 0.5925925925925926
+recall for fientopic (2) 0.6597938144329897
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 0.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.017937219730941707
+precision for finetopic_1 (4) 0.010752688172043012
+recall for finetopic_1 (4) 0.05405405405405406
+f1 for finetopic_1 (5) 0.664271047227926
+precision for finetopic_1 (5) 0.8501971090670171
+recall for finetopic_1 (5) 0.5450716090985678
+joint coarse sentimentf1 for finetopic 0.6312689886318079confusion matrix6 x 6 matrix
+835 205  11 15 78  79
+260 962  36 12 80  17
+ 24  35 128  0  0   7
+ 63  48   6  0 12   7
+ 11  15   5  0  2   4
+296 129  30 71 14 647
+f1 for fientopic 0 0.6157817109144543
+precision for fientopic 0 0.5607790463398253
+recall for fientopic 0 0.6827473426001636
+f1 for fientopic 1 0.6968489677653024
+precision for fientopic 1 0.6901004304160688
+recall for fientopic 1 0.703730797366496
+f1 for fientopic (2) 0.624390243902439
+precision for fientopic (2) 0.5925925925925926
+recall for fientopic (2) 0.6597938144329897
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 0.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.017937219730941707
+precision for finetopic_1 (4) 0.010752688172043012
+recall for finetopic_1 (4) 0.05405405405405406
+f1 for finetopic_1 (5) 0.664271047227926
+precision for finetopic_1 (5) 0.8501971090670171
+recall for finetopic_1 (5) 0.5450716090985678
+joint coarse sentimentf1 for finetopic 0.6274387237545451confusion matrix6 x 6 matrix
+841 217   8 14 63  80
+277 973  27  8 64  18
+ 30  48 109  0  0   7
+ 66  49   3  1 10   7
+ 12  16   4  0  1   4
+305 133  26 62 13 648
+f1 for fientopic 0 0.6107480029048657
+precision for fientopic 0 0.5493141737426519
+recall for fientopic 0 0.687653311529027
+f1 for fientopic 1 0.6942561541205852
+precision for fientopic 1 0.6775766016713092
+recall for fientopic 1 0.7117776152158011
+f1 for fientopic (2) 0.5876010781671159
+precision for fientopic (2) 0.615819209039548
+recall for fientopic (2) 0.5618556701030928
+f1 for fientopic (3) 0.009049773755656108
+precision for fientopic (3) 0.011764705882352941
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010638297872340425
+precision for finetopic_1 (4) 0.006622516556291391
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.664274730907227
+precision for finetopic_1 (5) 0.8481675392670157
+recall for finetopic_1 (5) 0.5459140690817186
+joint coarse sentimentf1 for finetopic 0.6277236631415167confusion matrix6 x 6 matrix
+841 217   8 14 63  80
+275 975  28  8 63  18
+ 30  48 109  0  0   7
+ 64  51   3  1 10   7
+ 12  16   4  0  1   4
+302 136  26 62 13 648
+f1 for fientopic 0 0.612304331998544
+precision for fientopic 0 0.5518372703412073
+recall for fientopic 0 0.687653311529027
+f1 for fientopic 1 0.6939501779359429
+precision for fientopic 1 0.6756756756756757
+recall for fientopic 1 0.7132406730065838
+f1 for fientopic (2) 0.5860215053763441
+precision for fientopic (2) 0.6123595505617978
+recall for fientopic (2) 0.5618556701030928
+f1 for fientopic (3) 0.009049773755656108
+precision for fientopic (3) 0.011764705882352941
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010695187165775402
+precision for finetopic_1 (4) 0.006666666666666667
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.664274730907227
+precision for finetopic_1 (5) 0.8481675392670157
+recall for finetopic_1 (5) 0.5459140690817186
+joint coarse sentimentf1 for finetopic 0.6276504229120474confusion matrix6 x 6 matrix
+840 218   8 14 63  80
+274 976  28  8 63  18
+ 30  48 109  0  0   7
+ 64  51   3  1 10   7
+ 12  16   4  0  1   4
+298 140  26 62 13 648
+f1 for fientopic 0 0.6129149945275447
+precision for fientopic 0 0.5533596837944664
+recall for fientopic 0 0.6868356500408831
+f1 for fientopic 1 0.6931818181818182
+precision for fientopic 1 0.673567977915804
+recall for fientopic 1 0.7139722019019751
+f1 for fientopic (2) 0.5860215053763441
+precision for fientopic (2) 0.6123595505617978
+recall for fientopic (2) 0.5618556701030928
+f1 for fientopic (3) 0.009049773755656108
+precision for fientopic (3) 0.011764705882352941
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010695187165775402
+precision for finetopic_1 (4) 0.006666666666666667
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.664274730907227
+precision for finetopic_1 (5) 0.8481675392670157
+recall for finetopic_1 (5) 0.5459140690817186
+joint coarse sentimentf1 for finetopic 0.6278051337035525confusion matrix6 x 6 matrix
+839 219   8 14 63  80
+273 977  27  8 64  18
+ 30  48 109  0  0   7
+ 65  50   3  1 10   7
+ 12  16   4  0  1   4
+303 135  26 62 13 648
+f1 for fientopic 0 0.6112932604735885
+precision for fientopic 0 0.5512483574244416
+recall for fientopic 0 0.6860179885527392
+f1 for fientopic 1 0.6948790896159317
+precision for fientopic 1 0.6761245674740485
+recall for fientopic 1 0.7147037307973665
+f1 for fientopic (2) 0.5876010781671159
+precision for fientopic (2) 0.615819209039548
+recall for fientopic (2) 0.5618556701030928
+f1 for fientopic (3) 0.009049773755656108
+precision for fientopic (3) 0.011764705882352941
+recall for fientopic (3) 0.007352941176470588
+f1 for finetopic_1 (4) 0.010638297872340425
+precision for finetopic_1 (4) 0.006622516556291391
+recall for finetopic_1 (4) 0.02702702702702703
+f1 for finetopic_1 (5) 0.664274730907227
+precision for finetopic_1 (5) 0.8481675392670157
+recall for finetopic_1 (5) 0.5459140690817186

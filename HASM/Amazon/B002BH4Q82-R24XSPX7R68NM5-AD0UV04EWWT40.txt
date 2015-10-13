@@ -1,0 +1,23 @@
+ID: B002BH4Q82-R24XSPX7R68NM5-AD0UV04EWWT40
+Category: Laptops
+Product: Pavilion-DV7-2180US-17-3-Inch-Entertainment-Laptop
+ReviewerID: AD0UV04EWWT40
+ReviewerName: J. McDaniel
+Date: August 18, 2009
+Helpful: 10 of 10
+Rating: 5.0
+Title: At this price this laptop is a steal
+Content:
+You won't find a laptop comparable to this one for less than $2000. 
+Some details not given in the specs -
+- supports up to 3 displays (laptop display, hdmi, vga)
+- has a dock port
+- video card uses DDR3 memory
+- mousepad power can be turned on and off via a button
+- full numeric keyboard!
+- the HP recovery partition software asks you if you want to backup your program and user files to a USB hard drive before performing the recovery (SO helpful if you haven't made a recent backup!)
+- the default sound settings are horrible and require some tinkering to get the speakers giving their maximum quality of sound. Volumes are down 50% and all the features are turned off by default.
+- the 1600 x 900 resolution isn't nearly as bad as I thought it would be. After the initial few seconds I didn't even notice the difference between it and my old laptop's display.
+- Very sturdy design although easily scratchable.
+- 5.3 Windows Experience base score (RAM). Other than the RAM everything else is a 5.6 - 5.9.
+- BIOS gives the option to simulate multiple processors with the CPU's multiple cores (advanced users only).

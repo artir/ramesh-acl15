@@ -1,0 +1,19 @@
+ID: B002C7446A-R12S5ROSZD46FB-A3EQ5P1OVLAOJ2
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A3EQ5P1OVLAOJ2
+ReviewerName: Kev
+Date: July 18, 2009
+Helpful: 46 of 49
+Rating: 5.0
+Title: What a great machine!
+Content:
+I want to break this into TWO reviews.  One about Mac in general (specifically OS X) and one about THIS computer.
+Mac in general:
+I was raised in a PC household.  Dad worked with old-school technology in the 70s and 80s, and was serious about PCs.  As a Linux / UNIX admin (and former Windows server admin), I am just used to working on PC gear.  Since I can generally figure it out or reinstall, it was never a problem.  Then I met Mac.  Gone are the days of rebooting and trying to fix driver conflicts.  Gone are the days of vague error messages.  I love the simplicity and the way OS X just... WORKS.  Aside from Office, everything you need is included right in it.  If I can make the switch from PC to Mac, so can you.  And I'm not just spitting the propaganda that the "I'm a Mac, I'm a PC" commercial does.  It really is that solid of a technology.  I am a Mac, even though I'm paid to be a PC from 8-5.
+And this product in particular:
+I've used a 2005-era 20" iMac at work, plus my wife has had a MacBook (plastic white) for a while.  I, being the computer geek, kept buying random cheap PC laptops and netbooks, hoping to find a simple solution.  Sadly, I was just wasting more time trying to install OS_X86 or make the software do what I wanted.  I had a Ghost image of my PC laptop so that I could restore it every 6 months when the XP began slowing down.  Buying this Mac was a luxury, but was much needed for my own sanity!!
+On a side note, I love Apple's ability to create products that solve problems, and their ability to charge almost a fair price for them.  For example, the 500gb airport / backup is *almost* worth it to me, and will likely become worth it sometime soon.  The same applied for this MacBook.  I drooled for months at the unibody and waited for the new product line.  I wholeheartedly believe that this exact model is the best laptop ever made.  While it seems painful to pay a bit more than a PC laptop, look at what you're getting.  Comparable hardware in a PC laptop (I priced out a few Dell laptops with the same specs) and this one is really a good price.
+I upgraded mine with Crucial's 4gb RAM and stuck in a 500gb SATA drive.  I can run 3 VM desktops (Fedora 11, Ubuntu, and Windows) simultaneously on VMware and... well, I see the performance issue, but I can still function.  The battery is good too.  While I'm getting more like... 5 hours of battery life, I'm also running the keyboard backlight and screen on bright all the time.
+I love my new MacBook Pro 13.  This thing is solid and light and absolutely beautiful.  Fast, functional, and suits all my technology needs.  Don't underestimate iPhoto's ability to sort photos by faces.  I had an UNMANAGEABLE amount of photos... imported them in and POP!  All done.  Duplicates ignored, sorted by the embedded date, including videos.  My iPhone photos (where I allowed the GPS to store data) show up on a map at the exact point where the photo was taken.  Yeah, this is cool stuff.  And face recognition works.. "pretty well".  It gets me and my toddler confused, but in all fairness, she looks a lot like me.  I just wish it was a *bit* smarter, but it's still a feature I'd miss if I didn't have it.
+This laptop is the last one you'll ever need, at least for the next couple of years.  I will not let mine out of my site.  Buy one!!

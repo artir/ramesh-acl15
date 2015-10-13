@@ -1,0 +1,13 @@
+ID: B002AURXTY-R356OXENCSMQ6W-A3QZKRZ94KTTGW
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS5810TZ-4274-15-6-Inch
+ReviewerID: A3QZKRZ94KTTGW
+ReviewerName: D. Williams
+Date: July 7, 2009
+Helpful: 16 of 51
+Rating: 3.0
+Title: Acer Aspire Timeline 5810t bluetooth blues
+Content:
+I purchased this for $729.00 plus tax, shipping and handling which brought the total to approx $800.00 from HSN with 4GB ram and a 320 GB hard drive(got ripped). Prior to, I knew the possibilities of this new product to the US market (previously released elsewhere)but was not expecting the same old business practice to continue. NO BLUETOOTH built in. Yes there is a button to turn it on but the expectations are for you to accessorize your latest technology laptop with a external device. There is no support or intention to offer this as an internal option from Acer or HSN. Try calling them, hopefully before you buy if this is important to you. Here is a post/response found YEARS AGO from Acer about this issue but different laptop.
+"Although there is a button on the notebook for Bluetooth, the Aspire 1640 models that ship in the US and Canada do not ship with a Bluetooth module on the motherboard. Therefore it does not support Bluetooth as it ships. If you push the BT button you should see No Device on the screen. In order to get Bluetooth, you will need to purchase a third party device such as a USB to Bluetooth transceiver, or other external device that provides Bluetooth capabilities. These type of devices are available at most computer shops that sell options and accessories for  notebook products. We do not plan to implement an option to install a Bluetooth module on the motherboard."
+If your looking for a laptop that you can customize to fit your personal needs (personal computer, go figure), this may not be the brand/laptop for you. It is however a step in the right direction towards portable green computing.

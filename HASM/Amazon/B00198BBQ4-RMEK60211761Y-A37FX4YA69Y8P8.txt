@@ -1,0 +1,17 @@
+ID: B00198BBQ4-RMEK60211761Y-A37FX4YA69Y8P8
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: A37FX4YA69Y8P8
+ReviewerName: Rusty Bell "Super sweet if you know what I me...
+Date: November 18, 2009
+Helpful: 
+Rating: 4.0
+Title: Despite it's problems, it works pretty well actually!
+Content:
+A couple notes before I begin: My 1525 came with Win Vista Home Premium, 250GB HD, a Core 2 Duo 2.0 GHz processor, 3 GB ram, webcam, and an Intel GMA965 video card. I've since bumped the ram up to 4 GB and installed Win 7, XP, and Ubuntu. Most of the problems people notice probably happen on Inspirons like mine too.
+Hello world! I'm writing this from my one and only Dell Inspiron 1525 notebook computer. Sure it's got some problems, but it's got power to prove itself. I've been able to use this laptop for just about everything to be done on a computer: playing games, watching movies, server hosting, casual internet browsing, heavy internet browsing, cd/dvd burning (a LOT of that), image editing, everything Office, recording/watching TV (with a usb tuner I bought separately), webcam use, and more! There's really more than most people give it credit for. Or maybe they just don't know how to use a computer right... Anyway, here's a couple things that irk me about this lappy:
+Overheating: It happens whenever the laptop can't breathe, a problem I encountered several times due to my ignorance of where I put the computer. The computer will shutdown if it gets too hot, but placing it in such a way that the vents can do their job, it works nicely. Of course, if you don't make it do all the stuff I make mine do, your's should be fine.
+Touchpad: Yes, it doesn't react when I want it to. This seems to happen only when my computer gets hot (thus the touchpad gets hot as well) or when I don't set the sensitivity right. However, this isn't a big deal to me since I use a USB mouse (makes it MUCH easier to work). Also, make sure you install the drivers for it when installing new operating systems or else the scroll won't work right.
+Graphics: Begin a built-in video card automatically makes you the weaker kid in gym class. The GMA 965 integrated video card uses shared memory to do it's work. That means that instead of using it's own RAM, it has to borrow from the installed memory. This may or may not be a problem (not particularly if you have 4 GB of RAM to support it), but if you're really into gaming or need the video for other programs, you might want to look into a different laptop. This one's fine for most purposes though.
+Other than that, I can't think of many other problems that I've encountered. If I note any new ones, I'll tack em on to the list. If anyone has any questions, raise your hand (leave a comment) and I'll answer them if I ever bother to check to see if their's any. Thanks for taking the time to read this!
+Oh, one last note. I'm not sure why this particular seller is selling the laptop for over 900 dollars, but I got mine for 600 at Best Buy! :D

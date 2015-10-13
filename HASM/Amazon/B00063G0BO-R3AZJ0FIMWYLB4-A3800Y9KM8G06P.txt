@@ -1,0 +1,13 @@
+ID: B00063G0BO-R3AZJ0FIMWYLB4-A3800Y9KM8G06P
+Category: MP3Players
+Product: iAudio-U2-Digital-Music-Player
+ReviewerID: A3800Y9KM8G06P
+ReviewerName: R. Ferguson
+Date: April 30, 2005
+Helpful: 9 of 19
+Rating: 3.0
+Title: DOES NOT SUPPORT M3U
+Content:
+The marketing material all claims support for playlists, specifically m3u files.  As of firmware 1.3 4/30/05, that is still an empty promise.
+Cowon still claims that this will be added in a future firmware release, but they haven't released any updates in ages.
+Aside from that, it's an excellent player.  I would give it 5 stars if it had the m3u support, and 4 stars if the manufacturer wasn't pulling a bait and switch with m3u support.

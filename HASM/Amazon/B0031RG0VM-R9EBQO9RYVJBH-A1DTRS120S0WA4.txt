@@ -1,0 +1,11 @@
+ID: B0031RG0VM-R9EBQO9RYVJBH-A1DTRS120S0WA4
+Category: Laptops
+Product: Gateway-EC1457u-11-6-Inch-Display-Laptop
+ReviewerID: A1DTRS120S0WA4
+ReviewerName: J. Sommerville
+Date: March 18, 2010
+Helpful: 3 of 3
+Rating: 4.0
+Title: Very good little computer
+Content:
+This laptop fills a very specific niche: It is compact enough to have the effortless portability of a netbook, but has the processing speed, RAM and hard-disk space, and quality of assembly to mark a significant step up from the ubiquitous $300-$400 (Atom processor/Windows Starter/1 GB RAM) netbooks. I have owned a couple of those, and tried out several more at retail stores - they are all glacially slow, prone to freeze, essentially incapable of running any memory-intensive tasks, and feel cheap. I should mention perhaps that I am a long-time Mac user; The Gateway does not replace my Macbook, but Windows 7 is definitely the best-functioning iteration of that OS I have used, and Apple does not make a computer with this combination of price point, capacity and speed. I travel a lot, and this unit is very small and light. It starts up quickly, has excellent battery life, good enough screen and keyboard for my eyes and fingers. I had considered another one of the ASUS netbooks, but after upgrading the RAM, installing a more functional OS (Windows Starter is pretty woeful), you would be approaching the price of this Gateway, and still have a machine that is significantly inferior. If you are shopping for a netbook and can make the price jump to the EC1457 without wincing too hard, you won't be disappointed.

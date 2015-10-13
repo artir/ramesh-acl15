@@ -1,0 +1,11 @@
+ID: B0029U151M-R32XBGQ68A7ZB5-A1J59J8B7ZHY8B
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A1J59J8B7ZHY8B
+ReviewerName: Jeff Cuthbertson
+Date: September 4, 2009
+Helpful: 5 of 5
+Rating: 4.0
+Title: Great computer for most basic tasks Great Battery Life
+Content:
+I bought this computer as a step down from my last laptop.  I had a dual core HP that went south due to a bad nvidia chip.  This one looked great for what I use a laptop for (web browsing, email, office productivity).  It does ok with web video but stutters on HD youtube video.  Standard definition youtube plays fine.  I had researched this purchase.  I came to the conclusion I wanted more than a netbook but didn't need the 17" desktop replacement notebook I had used in the past.  I feel this was the perfect choice.  The battery life is 8 hours minimum with low screen brightness and web surfing.  Under heavier use and brighter screen you are looking at 5-6 hours minimum.  The major drawback to this system is that it needs immediate technical attention from the start.  You need to upgrade the LAN, Video driver, and BIOS from the Acer website immediately.  Your system will slowly develop 100 percent cpu usage when idle if you don't.  All is fine after the update.  The other major negative is all the pre-installed software.  I spent quite a bit of time getting rid of all this junk.  Bottom line: Buy if you are a light computer processing user that needs a long battery.  You shouldn't be scared off by updating drivers.  Avoid it: You are game player. Power user (video encoding, photoshop).  Scared to death of updating a driver and BIOS.

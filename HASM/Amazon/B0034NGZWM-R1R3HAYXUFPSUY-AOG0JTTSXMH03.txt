@@ -1,0 +1,29 @@
+ID: B0034NGZWM-R1R3HAYXUFPSUY-AOG0JTTSXMH03
+Category: Laptops
+Product: Republic-Gamers-G51JX-A1-15-6-Inch-Gaming
+ReviewerID: AOG0JTTSXMH03
+ReviewerName: Dumdummuoi
+Date: February 21, 2010
+Helpful: 4 of 5
+Rating: 4.0
+Title: Good laptop, but with flaws
+Content:
+I bought this system to replace a stolen HP HDX16t because it was the only currently available laptop I could find that had some things that I required (since the HDX16t is now discontinued). So far, it seems like a solid, powerful machine, but not without little quirks that I haven't been able to find workarounds for.
+First, the pros:
+1. Impressive specs (you'd know about those already if you're reading the product reviews)
+2. Backlit keyboard, with 3 brightness levels
+3. Almost full-size keyboard with number pad, and lots of Fn key shortcuts
+4. LED backlit screen has decent viewing angles and is very bright
+5. The "soft touch" palm rest feels nice
+6. Freebies, and better warranty than any "standard" laptop warranty I've ever seen
+Cons:
+1. My biggest beef with this laptop: its volume controls. First of all, I can't change the volume or mute/unmute with one hand. 3 of the LED indicators above the keyboard are also touch-sensitive buttons. They could have included volume controls there. Secondly, when the volume is at 0 and you press volume up, it goes straight to 12%. After that, it goes up in 6% increments. The only way to get finer control is to use your mouse on the volume icon in the system tray--a PITA if you're trying to watch something full-screen. I MUCH prefer the HDX16's dedicated volume slider, which does 2% increments. 
+2. The touchpad buttons are stiff. They seem fine to me now, but they stressed my thumb when I first received the laptop. I must have gotten used to them, or they became softer with use. Either way, be warned.
+3. It runs kind of hot. This is not surprising, and it actually seems to manage heat a lot better than HP laptops in my experience. The keyboard, palm rest, touchpad, etc., all feel cool to the touch. However, the area around the side vent gets quite hot. It makes me wary to have any kind of food, beverage, pills, or things made of soft plastic/rubber on the left side of my laptop. 
+4. I'm not a fan of the colors and LEDs on the lid. Too "loud" for my taste. I also find the whole "Republic of Gamers" thing rather silly, and am glad they at least had enough sense not to slap that text label on the backpack, or *too* prominently on the laptop lid. [Disclaimer: I'm not a gamer =P]
+5. The wireless card only supports up to half-N speeds (150 Mbps), and only in the 2.4 GHz band. I tried to find out what type of card it is before buying, but couldn't find anything as the model was quite new at the time. Anyway, it's an Atheros AR9285. I suspect it would be upgradeable, but if you want full 802.11n speeds and/or dual-band functionality, it's an extra cost you'll have to consider.
+6. Biggest, heaviest power brick ever. The thing weighs over 22 oz, twice as much as the HP HDX16t one. This is my first quad core/high-end GPU laptop, so maybe it's supposed to be a common thing, but it came as a surprise to me. FWIW, my boyfriend's Thinkpad W510 with an i7 and Nvidia Quadro GPU also came with a similarly huge power brick.
+Other thoughts:
+- Speakers weren't as good as I'm accustomed to (long-time HP customer here)
+- The screen could've easily been 16" without increasing the size of the overall machine. The 15.6" screen has a huge bezel on all sides.
+- Yes, my system also came with the upgraded 1333 MHz RAM, but I don't think I'm getting much of a performance boost, if any at all. Just maybe a slightly better resell value. MAYBE.

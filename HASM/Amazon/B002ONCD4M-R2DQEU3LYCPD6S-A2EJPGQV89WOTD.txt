@@ -1,0 +1,15 @@
+ID: B002ONCD4M-R2DQEU3LYCPD6S-A2EJPGQV89WOTD
+Category: Laptops
+Product: Pavilion-DV6-1350US-15-6-Inch-Espresso-Laptop
+ReviewerID: A2EJPGQV89WOTD
+ReviewerName: Sam S "Sam"
+Date: January 22, 2010
+Helpful: 2 of 3
+Rating: 2.0
+Title: windows media center does not work; hp advisor keeps crashing
+Content:
+lousy product from hp
+pile of ugly issues experienced
+1. network card keeps shutting off randomly
+2. windows media center periodically stops working with message ( windows media center crashed)
+3. hp advisor keeps crashing on startup

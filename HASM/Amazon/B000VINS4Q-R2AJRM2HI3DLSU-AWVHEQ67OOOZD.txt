@@ -1,0 +1,18 @@
+ID: B000VINS4Q-R2AJRM2HI3DLSU-AWVHEQ67OOOZD
+Category: Laptops
+Product: Hewlett-Packard-Screen-Notebook-TX1320US
+ReviewerID: AWVHEQ67OOOZD
+ReviewerName: J. Veteran "tabletlover"
+Date: November 11, 2007
+Helpful: 2 of 2
+Rating: 3.0
+Title: this is my 2nd tablet pc
+Content:
+11-22-2007 Update - my second TX1320US has the same problem as the first one. This model has, in my opinion, a factory defect. Avoid purchasing. The defect is in the wiring harness that goes through the swivel mount and causes audible clicks to sound through the speakers when manipulating the display. You can position the screen so that the clicking repeats like someone playing a snare drum roll repeatedly.  HP blew it big time on this 'tablet' which is not a true tablet, it should be called a 'touch screen laptop' as it has no synaptic pointing device.  I'd downgrade this to a one star but Amazon  has it set up so you cannot change your original rating.  What follows is my original review:
+This is my second tablet PC. I'd say my experience so far is mixed.  After 12 days of use I'm going to need to exchange it for another one as there is an electrical short in the swivel mount for the screen.  The laptop makes a very loud audible, "clack clack clack clack" noise when the screen is positioned at various angles.  The noise comes through the speakers and can be induced or stopped instantaneously by screen angle (tilt the screen 45 degrees towards you as if you were closing the lid and stop - and the noise is heard). 
+I am almost greatful that the screen is acting up because I was disappointed by the response of the space bar in the keyboard. I type 70 wpm and never have an issue hitting 'space'.  However on this keyboard I routinely find that the space bar did not recognize my input forcing me to backspace (as I type this about every 10th space has this issue).
+My 3rd complaint is the tablet stylus.  I was an early adopter of the tablet, purchasing the very first Toshiba model when they first came out around 2001'ish.  What I noticed immediately about this tablet's stylus is the lack of a spring to the tip.  My first tablet was very responsive to different screen pressures, and it was easy to know how much pressure you were applying to the screen because of the ability to push with varying pressure.  The default stylus that ships with the HP tx1320us is just a piece of plastic with a permanent type of tip. It feels harsh and unresponsive in comparison to my first tablet's stylus. 
+Once my exchange is finished (and should I decide to keep this laptop) I will be looking for an aftermarket tablet stylus which is unfortunate because the docking cradle for this laptops stylus is really well done.
+The laptop feels quick and responsive within the VISTA OS and the screen resolution is decent.  The fingerprint swiping mechanism really needs an overhaul however because it hurts to drag your finger across it. It has very sharp edges.  
+Overall I'd give this a 3 out of 5 assuming you don't get a lemon like I did.
+(note I did an 'even exchange' on this laptop and got an identical one.  The new one has a responsive keyboard and no shorts or problems with the swivel display mount.  I did find out though that I will never get the reponsiveness I thought I would get from this tablet due to the fact that the screen is not interactive with the stylus in the way that many tablets are.  A much better name for this laptop would be TOUCH SCREEN laptop NOT Tablet Laptop...Microsoft and HP and screwing up the 'TABLET' branding by allowing this type of device to bear that name).

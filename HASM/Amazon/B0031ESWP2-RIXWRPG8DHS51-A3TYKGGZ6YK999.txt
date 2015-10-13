@@ -1,0 +1,26 @@
+ID: B0031ESWP2-RIXWRPG8DHS51-A3TYKGGZ6YK999
+Category: Laptops
+Product: Pavilion-DV6-2162NR-15-6-Inch-Laptop-Up-Battery
+ReviewerID: A3TYKGGZ6YK999
+ReviewerName: Brett
+Date: April 26, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: The Good and the Bad...but not the Ugly.
+Content:
+It's been a bit of a journey with this laptop. I purchased it for my wife's birthday, with Amazon offering by far the best deal I could find online or locally. It arrived in good time, and looked sleek. I began setting everything up, to have it ready to be presented to her. Figuring I'd turn it on and have all the usual setup work done for her, I encountered a roadblock - a faulty fan was preventing it from passing Bios, and that was all she wrote. Dead-on-arrival.
+Amazon was able to quickly send me a replacement, and with a bit of trepidation, I went through the process again. This time, much better luck. Everything working very well, and my wife quickly falling in love with it after having nothing but problems with her previous Sony Vaio from day one. 
+All was well until 2 days later. After spending hours and hours transferring all the necessary media files and downloading all the program and driver updates - the optical drive wasn't being recognized, and I couldn't load the very last bit of software (printer drivers). Not again! 
+Unfortunately, I was unable to troubleshoot the issue myself. Not wanting to get yet another replacement sent out and spend another two days transferring everything, I contacted HP support with little hope they'd be able to address it. Seems I had some preconceived notions based on feedback I'd heard from others.
+Much to my surprise, I was able to work with an agent via chat who quickly identified the issue as a known problem (upper and lower filters needing to be removed in the registry keys). He sent me detailed instructions and about 10 minutes later, everything was working again. Great!
+On to the system itself.
+Pro's:
+Very sleek and shiny. Good ergonomics, the keyboard and touchpad work very well.
+Great performance. Able to run multiple programs, network, etc. very quickly. Huge improvement from our 2 year old Vaio.
+My first experience with Win7 - already a fan. 
+HP support pulled through for me.
+Con's:
+Dead on arrival and encountered problem on replacement after only 2 days. 
+Battery life would be pretty hard-pressed to last 4.5 hours. With typical energy-saving settings unplugged, this might last 2.5 hours in my experience - but that's about what I expected.
+I'd give this 5-stars easily if it weren't for the two quality issues missed.
+Time will tell if the issues I experienced were isolated, but I certainly hope so. The laptop itself has been a joy.

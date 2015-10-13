@@ -1,0 +1,11 @@
+ID: B00352LQYO-R2HNE3799DEJIM-A336DFU330V7VX
+Category: Laptops
+Product: N61JV-X2-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A336DFU330V7VX
+ReviewerName: F. Miller
+Date: March 23, 2010
+Helpful: 3 of 26
+Rating: 2.0
+Title: No LINUX Drivers Available
+Content:
+I thought that I found my next laptop.  It has EVERYTHING that I've been looking for, except that I'm a UBUNTU LINUX user and this graphics card series IS NOT supported for use with LINUX.  Reference: [...]  I can't believe it!  Common ASUS, now I have to keep looking!

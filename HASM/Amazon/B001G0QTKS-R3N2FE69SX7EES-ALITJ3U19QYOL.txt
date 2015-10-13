@@ -1,0 +1,11 @@
+ID: B001G0QTKS-R3N2FE69SX7EES-ALITJ3U19QYOL
+Category: Laptops
+Product: EliteBook-2730p-Bluetooth-fingerprint-Widescreen
+ReviewerID: ALITJ3U19QYOL
+ReviewerName: J. Knapp "Übergeek"
+Date: July 31, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Love my tablet!
+Content:
+Excellent tablet! I'm running Windows 7 RC on mine, and it's got the horsepower to do it right. I added 4GB of RAM and a 16GB solid state drive in the expresscard slot for ReadyBoost, and the difference is notable, although I haven't run any benchmarks to back up my perception. There are plenty of video reviews as well as reviews of the features under Windows XP and Windows Vista out there on the internetz; like everyone else - I can't get the panel display to auto-rotate in tablet mode under Windows 7, nor does the rotate "hot key" button work, but I found iRotate at [...] to mange my display, and it works like a charm.  I bought mine from HP Direct on a scratch 'n dent sale for some serious savings, but it's worth every penny of the list price!

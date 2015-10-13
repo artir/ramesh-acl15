@@ -1,0 +1,28 @@
+ID: B000W0OVV2-R1Y0RELFXOAU4T-AZ64YGZH7XR9L
+Category: MP3Players
+Product: Archos-Wi-Fi-Portable-Media-Player
+ReviewerID: AZ64YGZH7XR9L
+ReviewerName: Bruce P. Markowitz
+Date: January 15, 2008
+Helpful: 11 of 16
+Rating: 1.0
+Title: Archos 705 big problem they need to fix
+Content:
+This is a slam dunk video player, BUT...
+The 705 (at least the 80 gig model) has a serious defect:
+When playing videos, every time the hard drive spins up to load more data, the video pauses for up to one second. This was a known issue on the 604 and 704, and they released firmware updates on both to correct the condition.
+I am on my second unit, the first being replaced with a new unit on RMA, and BOTH have the exact same issue. I have been calling Archos every day to report the problem and get some action. So far, they seem to just be ignoring it. So don't buy until you see a firmware update where they address this issue, or this player will drive you NUTS. Every 4 to 6 minutes there is a one second "freeze' while the disk cache is filled. Very very annoying. Makes it hard to sit down and watch a movie on it, and if you use the SPDIF output, it actually loses the audio for one second, it just goes silent.
+COME ON ARCHOS ADDRESS THIS ISSUE.
+If you look at the firmware update history for the 604 or 704, you will see:
+Version 1.6.20
+-----------------
+Improvements:
+- Photo: allow to turn slideshow transitions off
+- Videocorder & Audiocorder: audio gain is now from -12dB to +10dB
+- Videocorder: Widescreen setting in now saved
+- PDF: Added right to left language support
+Bug fixes:
+- Video: high bitrate VOB files with AC3 played jerky
+- Video: fix video playback pausing for a second when buffering from disk starts
+That last line above is EXACTLY THE PROBLEM WITH THE 705. THEY HAVE TO KNOW THIS EXISTS, SAME AS ON THE 604/704
+SO FIX IT OR DON'T BUY THIS MACHINE.

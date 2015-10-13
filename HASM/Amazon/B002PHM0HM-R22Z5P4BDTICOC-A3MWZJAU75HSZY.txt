@@ -1,0 +1,11 @@
+ID: B002PHM0HM-R22Z5P4BDTICOC-A3MWZJAU75HSZY
+Category: Laptops
+Product: Sony-VGN-FW520F-16-4-Inch-Windows-Premium
+ReviewerID: A3MWZJAU75HSZY
+ReviewerName: Robert Williams
+Date: February 24, 2010
+Helpful: 2 of 3
+Rating: 1.0
+Title: No VT support in processor- No XP Mode Function
+Content:
+I upgraded to Windows 7 Ultimate ($238 upgrade) so I could use the XP mode to use an xp business software that I have. Then I found out the processor in this machine does not support something call Virtual Technology and won't run the XP mode without it. So I'm screwed with a $1000 computer that isn't much use to me and now I have to buy another one. I hope this saves someone a headache.

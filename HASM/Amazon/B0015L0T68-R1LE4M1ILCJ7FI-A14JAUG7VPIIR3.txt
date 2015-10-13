@@ -1,0 +1,18 @@
+ID: B0015L0T68-R1LE4M1ILCJ7FI-A14JAUG7VPIIR3
+Category: MP3Players
+Product: SanDisk-Sansa-Video-Player-Black
+ReviewerID: A14JAUG7VPIIR3
+ReviewerName: I love yoga
+Date: May 27, 2009
+Helpful: 6 of 6
+Rating: 5.0
+Title: An awesome find - great interface, great performance
+Content:
+This little baby is a great catch!  Lots of functionality - and expandable! - for a great price.
+iPod has 75% of the market, so there's lots of stuff made for it...and you pay for that convenience.  This sweet little machine matches the functionality, but at half the price.  It's very easy to use, with a smooth scroll wheel and nice 'clicking' feel.  Everything happens on the wheel, so the interface is super simple in spite of the functionality.
+It feels great in your hand - smaller than a credit card, but substantial enough to hold and use.  Others have mentioned the rubberized back, which prevents sliding.  I also got a silicone case to protect it and further prevent sliding in my car.  If you haven't discovered the joy of MP3 connectivity in your car, you should also check out a direct connection (if your car stereo has an aux-in jack), a tape deck converter cable, or an FM transmitter.
+I really like that I am able to select music via playlist, genre, artist, album, folder, recently added, specific songs, or ratings on the Fuze.  The interface to access all of these is very simple.  It also has a 'go list,' which is a playlist you can create on-the-fly on the device itself.  It also plays podcasts and audiobooks.
+Additional sweet features: you can rate songs directly on the unit, as well as delete them from there.  There is a graphic equalizer with a number of presets.  It displays date and time and has a sleep timer in case you want to fall asleep to music.  It automatically scans for FM stations and creates presets for them.  You can set up slide shows with background music.  You can bookmark videos and audio books, too.
+I haven't used the photo, video, or FM radio, so can't comment on those.  I tested the voice recording functionality and it seemed pretty straightforward, although I haven't really used it yet.  You can also record the radio on the unit.
+One thing to understand is that the real power of your media library is in the library software you use on your computer.  This is where you'll manage all the tags (author, title, album, genre, etc.) that the player will use to organize your files, as well as create playlists and subscribe to podcasts.  Windows Media Player was a little handicapped for me, and after some research I determined that Media Monkey would be the most complete solution for my needs.  It does have its drawbacks, though -- especially that it doesn't recognize my wife's and my Fuzes as different devices, so my only option for autosync is to put the same playlists on both of them, or sync manually.  But that's Media Monkey's problem, not Sansa's.  My point is just that the player is dependent upon your library software to really deliver the value.  Plan to invest your time on the software, not the player.
+Sansa's Fuze does have drawbacks of its own.  I would prefer that it use mini-USB for the PC connection, rather than the proprietary connector.  The power switch on the side is hard to get at if you have a case on the player.  It doesn't come with a wall charger or car charger.  (However, those can be had very cheaply online.  You'll also probably want to buy a carrying case for it.)  I worry about the wheel wearing out after lots of use.  My dad bought my mom one, and the wheel already feels a bit loose because he thought you had to push it down while turning it.  :)  That's about all the negatives I've found in it.  Overall it is a very solid unit, and a steal of a deal at this price!

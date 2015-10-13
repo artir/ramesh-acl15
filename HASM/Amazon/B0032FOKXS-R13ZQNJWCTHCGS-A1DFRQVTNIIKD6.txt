@@ -1,0 +1,25 @@
+ID: B0032FOKXS-R13ZQNJWCTHCGS-A1DFRQVTNIIKD6
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A1DFRQVTNIIKD6
+ReviewerName: David J. Moreau "David Moreau"
+Date: December 6, 2009
+Helpful: 9 of 9
+Rating: 4.0
+Title: Love it at the moment
+Content:
+[I have lowered the review to 4 stars due to the lack of a true installer for Windows 7. This means that I am unable to use the Windows 7 Recovery Media since one of the files on the my Drivers & Utility CD seems to be corrupt. The recovery media requires the Utility CD, forcing me to abort the reinstall of the OS in a bad state. If I didn't have an unused upgrade license to Win 7 Professional, my machine would have been left in limbo
+If the Driver CD works, I imagine it is a very simple process to restore the OS.
+Still a very nice machine. It is unlikely that many of the Driver CDs will have the same problem, so this likely won't affect many. Nevertheless, there would have been an easy workaround if there were a real Win 7 installer disk.]
+My UL30Vt-X1 arrived on Friday, December 4. I have used it quite a bit since then. I give it 5 stars because it delivers a lot for the price in a nice package.
+My wireless has been great. I know some were concerned about this. I have had no problems whatsoever. The screen looks good, though the viewing angle vertically is extremely small. 
+There is less 3rd party software on the laptop than came with my HP and Dell laptops, which is a good thing. Most of what comes preinstalled are ASUS utilities. These utilities tend to have no documentation. I Googled some to find out what they were. I went ahead and registered the Trend Micro antivirus that came with it and will use that for the free 60 days before installing Avast.
+I like the Fastboot utility. It allows you to manage what starts immediately at startup for quicker booting. I assume that everything still starts up eventually, but some are delayed to allow you to get control of the OS first.
+It is light and feels good when I carry it. It stays cool on my lap. The speakers also do a good job compared to what I expected. I haven't carried it around outside yet, so I can't yet vouch for its ultraportable-ness.
+I'm still trying to figure out the implications of the warranty card. It says that you get another year of the accident warranty if you submit the card within 60 days. Does this mean my warranty for hardware failure would end in a year, but if hardware fails and then I decide you pour water on the machine, I could then get warranty coverage during the second year?
+The video mode button is very convenient. Turning the turbo on and off is not as easily done. It requires going into an applet and clicking on a button (and then rebooting). I would like to see a one click method of overclocking (though rebooting would still be required). Perhaps something in the system tray could offer this.
+I was sad when I found out that only black would be available for the UL30Vt at first. I thought the silver version had an incredible profile and black is so business world. The machine looks quite nice, but is a bit drab. The blue function labels on the keyboard help some, as does the subtle speckles in the palm rest. Finger prints are as bad as you can imagine.
+I am not yet comfortable with the keyboard. I feel I have to hammer the keys to get them to register at times. Especially the space bar. The spacing is good -- I have had no problems touch typing, apart from the 40 unregistered space bar hits in this review. Regarding key placement, my only complaint is that it is not easy to increase the volume with one hand due to the distance between the F12/volume increase button and the Fn key that needs to be pressed with it. My hand spans that distance uncomfortably.
+The tracking device is a mixed bag. The stickiness is good for letting you know your finger is in the correct location, but it takes practice to get two finger scrolling down pat. I am improving, but it still can be a chore. I modified my 2 and 3 finger clicks to be right click and maximize respectively. I was disappointed that the maximize would only maximize. Doing it for a maximized window would not un-maximize it. Hopefully a driver upgrade could fix that if I complain to the maker. I do not like the trackpad button. It seems a blatant example of compromising function for form. Even that doesn't work well as it has a gift for collecting fingerprints that look even worse then the fingerprints on the chassis. I find myself wiping down the palm rest and mouse pad a lot, but it does look nice wiped down.
+I haven't had a chance to test the battery because I have been indexing around 230GB of PDFs that I copied to my hard disk and want to get that done as soon as possible.
+This grade may be inflated because of how much I hate my most recent portable laptop before this from HP.

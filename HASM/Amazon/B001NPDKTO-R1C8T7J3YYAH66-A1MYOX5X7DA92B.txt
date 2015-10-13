@@ -1,0 +1,16 @@
+ID: B001NPDKTO-R1C8T7J3YYAH66-A1MYOX5X7DA92B
+Category: Laptops
+Product: HP-Pavilion-HDX16-1140US-16-0-Inch-Laptop
+ReviewerID: A1MYOX5X7DA92B
+ReviewerName: Germania
+Date: February 23, 2009
+Helpful: 17 of 17
+Rating: 5.0
+Title: Well designed laptop - great desktop replacement
+Content:
+I bought this laptop a few weeks ago to use for my small business in various areas of my home and for travel. The laptop saves energy compared to using my desktop (also Energy Star compliant). It's also a great desktop replacement because of the expandability, powerful processor, screen size and keyboard layout. I looked at comparable units from Toshiba, Dell and ASUS, but they cost a lot more and/or didn't include the faster processor. I think you get a lot of bang for your buck with this one.
+For those who want to be able to view TV on the laptop, HP sells a USB TV tuner for around $98, so no need to worry about the lack of a built-in TV tuner. The media drive includes Blu-ray, which is nice.
+PROS: The extended keyboard with separate numeric keys is a nice feature. You can even turn off power to the touchpad if you use a USB mouse. I also like the fingerprint reader. You don't have to use it, but it saves time typing in passwords when logging in to Windows or sites online. The HDMI port is great for connecting to larger monitors or TVs. HDMI outputs sound as well, which is awesome!
+CONS: I'd prefer XP over Vista. Some of my specialized 32-bit programs don't run as well on the 64-bit OS, but most are fine. I wish the screen weren't glossy because it's hard to use outdoors with the reflection.  
+UPDATE: I've had the laptop for a few months now and still love it. The keyboard is great for touch-typists. The only glitches I've noticed have been related to the sound device and fingerprint reader. I think the problems were OS-related, because they seem to be resolved now. For a short time the fingerprint reader wasn't being recognized even though it worked initially. Then the OS had problems detecting when to use the HDMI sound output, even though that also worked correctly initially. I had to help it detect which device I wanted it to use for sound output, and now it's working fine again. 
+I'd definitely buy this laptop again and have already recommended it to friends. A great backpack for it is the Alienware Orion backpack. It fits perfectly and isn't bulky at all, although it's a bit more expensive than some other options.

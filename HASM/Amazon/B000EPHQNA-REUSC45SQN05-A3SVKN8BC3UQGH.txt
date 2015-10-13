@@ -1,0 +1,11 @@
+ID: B000EPHQNA-REUSC45SQN05-A3SVKN8BC3UQGH
+Category: MP3Players
+Product: Apple-shuffle-Bright-Generation-MODEL
+ReviewerID: A3SVKN8BC3UQGH
+ReviewerName: C. H.
+Date: February 27, 2007
+Helpful: 4 of 7
+Rating: 3.0
+Title: Not compatible with Vista OS
+Content:
+The iPod Shuffle is extremely small and cute, but iTunes is not compatible with Vista, yet.  I kept getting error messages when I tried to upload my playlist.  Apple has a repair tool, but I could not get it to run.  I'm sure it will work out eventually when Apple comes out with a newer version of iTunes, but waiting kills the excitement of having a new toy.

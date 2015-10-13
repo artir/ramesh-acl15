@@ -1,0 +1,11 @@
+ID: B0030L5BZA-R1SPNL1IL7HRR5-ANGLK4UWA6LW8
+Category: Laptops
+Product: HP-Pavilion-dv4-1548dx-Notebook-Pentium
+ReviewerID: ANGLK4UWA6LW8
+ReviewerName: D. Achey
+Date: January 4, 2010
+Helpful: 0 of 1
+Rating: 1.0
+Title: Good performance, bad design
+Content:
+Performance/specification wise for the price this is a pretty good deal.  But if you're a stickler for design you'll be very disappointed, mostly around the keyboard/touch pad.  First off the keyboard is offset to the left about an inch while the touch pad is centered.  This leaves your right hand constantly contacting the touch pad during use and moving/clicking the mouse all over the screen.  This is very very annoying.  Second, the keys are large and well placed for the main letters, but most of the extra keys: insert, del, arrows, etc just don't feel right or natural.  I've used much smaller keyboards than this that have been much more intuitively placed.   Then the touch buttons for volume and wireless enable/disable are too easy to accidentally touch.  I can't tell you how many times I've accidentally disabled my wireless, and there is no option to disable these buttons.

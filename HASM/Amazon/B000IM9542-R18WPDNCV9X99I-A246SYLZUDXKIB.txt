@@ -1,0 +1,13 @@
+ID: B000IM9542-R18WPDNCV9X99I-A246SYLZUDXKIB
+Category: MP3Players
+Product: SanDisk-Sansa-c250-Player-Black
+ReviewerID: A246SYLZUDXKIB
+ReviewerName: JC "Limey Traveller"
+Date: January 5, 2008
+Helpful: 
+Rating: 2.0
+Title: Decent device, spoiled by stupid software engineering
+Content:
+This is a reasonably decent device, spoiled by a lousy interface.
+When you try to navigate in album mode, or in any other mode other than 'songs', it mixes up the album order.  I have my mp3 albums named so that when you sort the songs in alphabetical order, the songs will be in the correct order within the album.
+The Sansa device sorts the songs by the write time of the song to the player, making it impossible to play an album in the correct order.  Compared to my iRiver player, this is junk.

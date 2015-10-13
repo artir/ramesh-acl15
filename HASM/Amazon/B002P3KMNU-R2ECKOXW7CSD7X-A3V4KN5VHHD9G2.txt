@@ -1,0 +1,40 @@
+ID: B002P3KMNU-R2ECKOXW7CSD7X-A3V4KN5VHHD9G2
+Category: Laptops
+Product: UL30A-A2-Light-13-3-Inch-Silver-Laptop
+ReviewerID: A3V4KN5VHHD9G2
+ReviewerName: FNJ
+Date: October 23, 2009
+Helpful: 97 of 99
+Rating: 4.0
+Title: Overall, a very nice machine!
+Content:
+Like the previous reviewer, I also pre-ordered the UL30A-A2 and it was delivered on October 22nd proper. (Kudos to amazon.com for such quick delivery!) I also have only had it for a day, but thus far these are my impressions:
+Middle of the Road:
+1. Lack of an Optical drive - either internal or external. While this may be an issue for some people, it is plenty easy to hook up an external optical drive to it. However buyers should keep a sharp eye out for which external drive they get. The cpu in this machine is an ultra low voltage processor, and some of the external optical drives out there that only run on the power of usb ports (1 or 2) will find that the UL30A-A2 does not crank sufficient power through the usb ports for many of the drives available. I fortunately had an external drive powered by only usb ports and one with an external power supply. The usb powered external drive I owned (a nu-esw860, which worked with an HP 8710w laptop) did not work, whereas the external power source usb drive (an dvd writer/cd burner from Iomega) worked fine.
+2. The Touchpad and Mouse Buttons. While the touchpad is fine for me the mouse buttons actually consist of a single button that rocks back and forth. I find it a little awkward, but not unusable. In general I try to use an external mouse with laptops anyway.
+3. DDR3 memory limitation. While the inclusion of DDR3 RAM is excellent in of itself purchasers should be aware that this model maxes out at 4gb of RAM - that is, the amount it sells with. No upgrades in this area of the machine. And since the machine sells with a 64 bit OS, which is not subject to the 3.5 gb RAM cap of 32 bit OS's, it kinda makes one wonder what Asus was thinking, especially with the video card potentially borrowing so much memory. That being said, other UL models DO come with an 8gb max and ship with 4gb of RAM, although usually those models use DDR2.
+4. Keyboard. While I very much like the chicklet design of laptop keyboards my unit has noticeable (but not terrible) flex across the keyboard proper. For those of you who are used to the standard of the old IBM laptops this is a bit of a disappointment. But even though I thought it should be mentioned it is very easy to live with nonetheless.
+5. Tiny power adapter. A very small adapter comes with the unit, and although I too have seen reviews (admittedly of the UL30A-A1 model) where the adapter got downright hot thus far my use of it has not achieved that. At worse it has been noticeably warm. Maybe a determining factor for the size of the adapter was to shave a few extra ounces off of the overall weight of carrying the machine and its accessories around?
+6. Intel x4500 graphics card. Not the greatest of cards, but sufficient to the the job on a basic daily level. Likely chosen in part for purposes of battery life.
+Negative:
+1. No bluetooth. This was a disappointment for me, but there are models in the UL series that do come with bluetooth capability. In the end I opted for battery life over the bluetooth - a person could always get a usb bluetooth adapter if need be. Still - it would have been very convenient to have this.
+2. Usually Asus's laptops come with a bag and a mouse, as the previous reviewer has mentioned. No such extra accessories came with my machine.
+3. Internal Wireless Card. My unit was bundled with an Aetheros wireless card and only one of the two antennae was attached/active. I would presume that this was to reduce power consumption. For me personally it is not a problem, but I have heard many fellow users complain about its weak signal and limited range. It works - just not very strong or far-reaching. This has been a deterrent for some in considering to purchase this machine.
+Positive:
+1. Sturdy build, light weight. I am impressed by the general external build of so thin and light a laptop as this one - it is not super sturdy, like, say, the old IBM T40 series, but it is quite adequate. Kudos to Asus on this front!
+2. Screen. It is a lovely and vibrant screen indeed - although potential buyers should be aware that it is the reflective screen.
+3. Aesthetic Design. I personally think it is an attractive laptop as well. The same basic design comes in both silver and black. Looking only at pictures I thought the black looked slightly better of the two, but on receiving the UL30A-A2 (which is the silver model) I am quite satisfied with how it looks, and even impressed. Asus did a very good job on this one!
+4. Cooling system. As advertised, Asus did an impressive job with this. The machine stays very, VERY cool when running. Even when doing high intensive cpu tasks the machine only heats up in a barely noticeable way.
+5. HDMI Port. This is something I have seen many people ask about. Different models of the UL series either come with or omit the hdmi port. This hdmi port also is not of the sort that can also be used as a usb port.
+6. Not a whole lot of bloatware. Mostly Asus programs - a few could be useful, like the power saving app, which I have not yet used. Mine came with a trial of Trend Micro antivirus and MS Office 2007 student level - both were easy enough to uninstall.
+7. Windows 7. This is my first hands on look at the OS, and while it took a while to find my way around the thing, I have to say I am impressed, in particular by the power saving features and general speed improvement over Vista.
+8. Battery Life. This was the deal breaker for me. The battery itself fits up very snugly to the overall design of the laptop, and the UL30A-A2 model was advertised (perhaps incorrectly) as having up to 16 hours of battery life. I put it through some initial tests and these are the rough figures I came up with:
+Initial Battery Life Results:
+When I make a power saving profile maximized for battery length (which means screen dimmed to lowest possible and wireless turned off) AND reduce the color from 32 bit to 16 bit this is what I got before shutting down the machine at 5% power - these are rough numbers only, mind you:
+Playing .avi files and installing a fair size program: about 8 hours of battery life.
+Playing .avi files only: about 10 - 10 1/2 hours of battery life.
+Only word processing: about 13 - 13 1/2 hours battery life.
+So, at least based on the first run of draining the battery life, while it does not live up to the 16 hours listed on amazon.com, it DOES do better than the advertised "up to 12 hours" for the other machines - but this is in extreme power saving mode.
+Conclusion
+Overall this is an ideal machine for me personally. I thought long and hard before choosing what my next laptop was going to be, and I am very satisfied with the result. I would recommend this machine to others who need long battery life with decent cpu strength and speed in their machine at the same time. For the record, the Intel Core 2 Duo SU7300 cpu is very roughly the equivalent of an Intel Core 2 Duo T5500 and/or an AMD Turion 64 X2 TL-64.
+I am hopeful that in the future Asus (or some third party) will make available larger power supplies and especially larger batteries! Then something like 16 hours of battery life could easily be reached with dedicated power saving settings (as opposed to ultra-extensive, as I did).

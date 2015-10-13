@@ -1,0 +1,27 @@
+ID: B0036QTH9A-RXLU33PGBW52Q-A3ODX2HCMPBUCA
+Category: Laptops
+Product: Gateway-EC1815u-LX-WFA02-012-Notebook-PC
+ReviewerID: A3ODX2HCMPBUCA
+ReviewerName: C. M. Pyles
+Date: April 19, 2010
+Helpful: 
+Rating: 5.0
+Title: BEST LAPTOP/NETBOOK!!!  Perfect size/speed/storage/ease of use for 95% of people.
+Content:
+This version just came out a few weeks ago and I couldn't be happier!  I was waiting for these exact specs but there were no models from any company with these specs until now.  In fact, for now, this Gateway is king of the hill for what target audience it is serving.  The requirements I was waiting for was the 500Gb hard drive and newest Intel chip Duo core SU7300 with no more than a 12inch screen(there is a su4000-something series that is slower and cannot do virtualization).  This new chip easily runs the full blown version of Windows 7 premium 64bit version (so you are getting the real deal not some netbook "skinny" version).  BTW, Windows 7 is the first version of this OS I've had much good to say -- it shocked me how intuitive, good and fast it is.  Get this:  the sleep and hibernate actually work 100% of the time. 
+Why did I wait for these features and laptop.  Because this is the "sweet spot" (literally and figurative) for most laptop or netbook users.  For example, it has all the power and storage to replace a desktop without a tiny screen.  And it has all the portability and go anywhere ability as a netbook.  I find that even with 13.3 inch screens, it becomes much less desirable to move around/take out due to size and weight.  This one weighs in at about 3 lbs!  Real heavy users (probably less than 5% of people) would probably be served with a different model but for the rest of us.  Also, if you are bothered with the screen size, Gateway makes these with larger size screens too.
+Pros:
+-- Gateway in name only.  Made by Acer which makes me feel better.  Acer makes clones of these branded under their name too.  Acer bought the name a few years ago when the old Gateway was sold in pieces.
+-- Great build quality and style.
+-- 3 pounds in weight.
+-- Screen size is the perfect compromise especially with Mozilla zoom in feature.
+-- HDMI output!!!  I stream movies right from Netflix or you tube to my 42' LCD.  Awesome.  Also, the 42' lcd serves as the world's largest computer moniter from time to time through HDMI. 
+-- Best battery life across all other models without some optional heroic large size battery sticking way off the back and adding size and weight.  Gateway/Acer have really figured out battery life with their whole "Timeline" models including this one.  Any other laptop I've used could only go 2-3 hours (and some way less if you did video, etc) without needing a charge regardless of what they claim.  Does this get 8 hours?  Close if not exactly 8 but that misses the point...this last long enough for the vast majority of real life uses unlike most lap tops.  For example, a cross country flight is 5+ hours.  Any other laptop becomes a pain with extended batteries or extra batteries, etc need for real world outing.
+-- Full size key board with a great feel.
+-- 500GB Hard drive.  Yes, use an external for back up, but you can carry a lot of files with 500gb (a lifetime worth for some people) in this small marvel. 
+-- Runs cool unlike many laptops.
+-- Not too much junk/bloatware loaded on automatically vs. competitors.  I used ccCleaner and removed the few trial offers they did have.
+-- Perfect 11.6 screen size.
+Cons:
+None, given my caveats about most users.
+Go get this model!!!  You will be amazed.

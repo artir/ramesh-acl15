@@ -1,0 +1,13 @@
+ID: B002QPZZN4-R3JH4YJR3CIEQC-A2H6FIDAW2J3HS
+Category: Laptops
+Product: Acer-AS5738-6969-15-6-Inch-Windows-Premium
+ReviewerID: A2H6FIDAW2J3HS
+ReviewerName: S. Becker
+Date: December 18, 2009
+Helpful: 6 of 6
+Rating: 4.0
+Title: Good product, with some annoying things
+Content:
+This product is well designed and offers good performance.  The screen is big, wide and bright.  The built-in numeric keypad is a plus.  With plenty of RAM, a big hard drive and a Core 2 Duo processor, it offers snappy performance and should continue to do so for quite some time.  Battery life is respectable; although I have mine plugged in most of the time, so battery is not that important a consideration for me.  For some reason, it feels lighter than it actually is.  The touchpad does seem a bit sluggish, but I haven't adjusted that yet and I'm guessing that can probably be remedied.
+If it weren't for some annoyances - some minor, some not so minor - I'd give it five stars.  For some reason, it has a hard time connecting to my home wireless network, based on a Linksys WRT110 router. Several other notebooks have had no problem connecting to this network, so I have to conclude it's an issue with the notebook and not the router. I'll give Acer the benefit of the doubt and say that this issue probably doesn't affect all their notebooks or even all units from this particular product line.   Also, about every hour or so, a message pops up that this product is already registered with Acer.  It's relatively minor, but it is annoying.  And then of course there's the bundled programs that are constantly wanting you to register, etc.  That kind of bundled software is not unique to this system or to Acer, however, so don't let that sway you.  You're going to find that with almost any system these days, unfortunately.
+All in all, this is simply an outstanding value for what you get.  I would recommend it despite the minor flaws I find in it,

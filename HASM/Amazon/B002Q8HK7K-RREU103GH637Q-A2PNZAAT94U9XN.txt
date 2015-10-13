@@ -1,0 +1,17 @@
+ID: B002Q8HK7K-RREU103GH637Q-A2PNZAAT94U9XN
+Category: Laptops
+Product: UL80Vt-A1-14-Inch-Light-Laptop-Battery
+ReviewerID: A2PNZAAT94U9XN
+ReviewerName: Cafa123
+Date: January 9, 2010
+Helpful: 
+Rating: 5.0
+Title: Everything as expected
+Content:
+Great laptop. The 8 sec boot into WEB is great for airport emails & surfing etc. Also sufficient power/ memory to run a complete 3 tier PeopleSoft 9.1 VM including Oracle database. Good compromise between small and lightweight for travel and a full blown desktop for heavy hitting database apps.
+Screen is very clear. Long battery life, just keeps going. Nice touches with the switchable graphics card and auto boost of the overclocking CPU. Why don't the others do this trick - very sweet.
+Improvements?
+8 gig ram.
+Solid state disk with USB 3.0 drive for apps.
+Better customer support (email not answered after 6 weeks).
+Remove crapware being installed - allow a user option upon first boot to install or not. Removing this unwanted software is a pain!

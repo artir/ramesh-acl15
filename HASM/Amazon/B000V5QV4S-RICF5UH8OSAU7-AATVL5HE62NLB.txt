@@ -1,0 +1,12 @@
+ID: B000V5QV4S-RICF5UH8OSAU7-AATVL5HE62NLB
+Category: DigitalSLRs
+Product: Canon-40D-Digital-28-135mm-Standard
+ReviewerID: AATVL5HE62NLB
+ReviewerName: Daklin
+Date: February 13, 2008
+Helpful: 2 of 3
+Rating: 4.0
+Title: Solid Camera
+Content:
+I purchased the Canon EOS 40D body along with the Canon EF 50mm F1.4 USM lens. I am very impressed with how quiet and fast it is. The controls are very natural and easy to adapt to. The camera takes great pictures with jpeg compression, but in many cases they seem to be blurry when shooting in Raw format. I don't know how an uncompressed format can create unsharp results and a compressed mode can create better results, but I am going to research that. Other than that, the LCD resolution for the 3-inch screen is only 230K. 
+A warning to Photoshop lovers. If you like to shoot in RAW, Photoshop CS2 will not support CR2 files and you will have to upgrade to Photoshop CS3. Lightroom is a popular program used by professional photographers and is supposed to have the capability of supporting the CR2 files.

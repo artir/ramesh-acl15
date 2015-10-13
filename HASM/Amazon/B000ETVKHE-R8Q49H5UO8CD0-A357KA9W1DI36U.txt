@@ -1,0 +1,13 @@
+ID: B000ETVKHE-R8Q49H5UO8CD0-A357KA9W1DI36U
+Category: MP3Players
+Product: SanDisk-Sansa-Player-MicroSD-Expansion
+ReviewerID: A357KA9W1DI36U
+ReviewerName: letshavepaneer
+Date: November 17, 2008
+Helpful: 1 of 1
+Rating: 2.0
+Title: Player plagued with software kinks, hardware lasts for less than 1 year
+Content:
+I used this player for my workouts at the gym.  I've gone through 3 of them already since the hardware is so unreliable.  I've had a variety of issues, from the scroll circle moving up when I move it down, to buttons getting so sensitive that they are pressed inadvertently in my pocket, to the headphone jack going faulty and not allowing me to listen on any set of headphones.
+The software has alot of kinks, specifically this player crashed quite often.  I used rockbox to get around the software kinks, and this makes it alot easier to use.
+I don't recommend it, and I wish there was some better alternative that is more reliable.

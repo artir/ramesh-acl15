@@ -1,0 +1,23 @@
+ID: B002ONCCGQ-R13HCBSC6S5QTI-A2AH0ALHEZIFHX
+Category: Laptops
+Product: Pavilion-DM3-1030US-13-3-Inch-Silver-Laptop
+ReviewerID: A2AH0ALHEZIFHX
+ReviewerName: Customized
+Date: November 16, 2009
+Helpful: 28 of 31
+Rating: 3.0
+Title: So far, OK, but just developed a bad pixel
+Content:
+I've only had this machine for a couple days but it's very nice so far.
+Pros: sleek, widows 7, plenty powerful, lots of ram and drive space, battery life, graphics card is decent, weight
+Cons: power plug sticks out pretty far when plugged in, but not a big deal.  Updated the track pad driver after one freeze and it hasn't locked up again since.  No gigabit lan.  Memory card reader won't read MS Duo without an adapter, not a deal breaker.  Small up/down arrows, again not a killer, I'm already used to it.  Track pad is a little sticky.
+The biggest problem I've had so far isn't a ding against this computer, it's a windows 7 issue.  Games for Windows Live wouldn't update, couldn't uninstall, couldn't reinstall.  Finally got it working, but don't ask me to repeat the process.
+I saw a guy on the interwebs frantically searching about how to change the DM3 Function Keys back to the standard F1, F2, F3 etc.  It's in the bios.  Hit Esc during startup, then F10 to enter the bios, configure from there, it's on the third tab or thereabouts.  I may keep them as the media keys, don't know yet.
+Games: Runs Halo 1 very well, runs Team Fortress 2 pretty decently, Dawn of War II is playable with everything turned way down.  So that's a pass for the graphics and processor as far as I'm concerned.
+My favorite thing about windows 7: You can select a group of files, right click and change their meta data!  So awesome!  Updating mp3 tags is a breeze!
+I didn't want a desktop replacement, I wanted a laptop replacement and this fits the bill.  I'm coming from an old Sony PCG-SRX99 so I'm used to not having an optical drive.  Windows 7 lets you mount one on the network anyway.
+Very good overall.  I'll update if anything changes.
+EDIT 11/29/2009
+The touchpad is still unresponsive after coming out of sleep.  It's turning into a major issue.  Hopefully a firmware update comes out.
+EDIT 12/14/2009
+Now I have a bad pixel, right in the middle of the screen.  Always on green.  I've knocked down the rating to 3 stars, and thinking about sending it back.

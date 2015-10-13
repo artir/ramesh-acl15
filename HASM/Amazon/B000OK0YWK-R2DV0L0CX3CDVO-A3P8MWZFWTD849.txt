@@ -1,0 +1,28 @@
+ID: B000OK0YWK-R2DV0L0CX3CDVO-A3P8MWZFWTD849
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Red
+ReviewerID: A3P8MWZFWTD849
+ReviewerName: Peter T. Brown
+Date: November 26, 2006
+Helpful: 31 of 57
+Rating: 1.0
+Title: "Avoid the loony Zune" - review from Chicago Sun-Times
+Content:
+Read this reveiw by Andy Ihnatko at the Chicago Sun-Times:
+Yes, Microsoft's new Zune digital music player is just plain dreadful. I've spent a week setting this thing up and using it, and the overall experience is about as pleasant as having an airbag deploy in your face.
+"Avoid," is my general message. The Zune is a square wheel, a product that's so absurd and so obviously immune to success that it evokes something akin to a sense of pity.
+The setup process stands among the very worst experiences I've ever had with digital music players. The installer app failed, and an hour into the ordeal, I found myself asking my office goldfish, "Has it really come to this? Am I really about to manually create and install a .dll file?"
+Only the Zune software can sync music, video and pictures onto the device; Zune is incompatible with Windows Media Player, the familiar hub of the Windows desktop media experience.
+The Zune app doesn't even have as many features as WMP. And why (for the love of God) doesn't it support podcasts? That's pure insanity.
+It's incompatible with Microsoft's own PlaysForSure standard, too.
+You'll have to buy all-new content from the new Zune Marketplace.
+Oh, and the Zune Marketplace doesn't even take real money, proving that on the Zune Planet there's no operation so simple that it can't be turned into a confusing ordeal. The Marketplace only accepts Zune Points, with an individual track typically costing the equivalent of the iTunes-standard 99 cents.
+Take the Zune's one unique and potentially ginchy feature: Wi-Fi. You see this printed on the box and you immediately think "Cool. So I can sync files from my desktop library without having to plug in a USB cable, right? Maybe even download new content directly to the device from the Internet?"
+Typical, selfish user: How does your convenience help make money for Universal? No wonder Doug despises you.
+No, the Zune's sole wireless feature is "squirting" -- I know, I know, it's Microsoft's term, not mine -- music and pictures to any other Zune device within direct Wi-Fi range. Even if the track is inherently free (like a podcast) the Zune wraps it in a DRM scheme that causes the track to self-destruct after three days or three plays, whichever comes first.
+After that, it's nothing more than a bookmark for purchasing the track in the Zune Marketplace. It amounts to nothing more than free advertising.
+The Zune is a complete, humiliating failure. Toshiba's Gigabeat player, for example, is far more versatile, it has none of the Zune's limitations, and Amazon sells the 30-gig model for 40 bucks less.
+Companies such as Toshiba and Sandisk (with its wonderful Nano-like Sansa e200 series) compete effectively with the iPod by asking themselves, "What are the things that users want and Apple refuses to provide?"
+Microsoft's colossal blunder was to knock the user out of that question and put the music industry in its place.
+Result: The Zune will be dead and gone within six months. Good riddance.
+Andy Ihnatko writes on technical and computer issues for the Sun-Times.

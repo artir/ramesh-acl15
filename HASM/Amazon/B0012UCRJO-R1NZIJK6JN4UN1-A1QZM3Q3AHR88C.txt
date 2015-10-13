@@ -1,0 +1,11 @@
+ID: B0012UCRJO-R1NZIJK6JN4UN1-A1QZM3Q3AHR88C
+Category: Laptops
+Product: Lenovo-59012696-IdeaPad-Y510-1-Notebook
+ReviewerID: A1QZM3Q3AHR88C
+ReviewerName: Unsatisfied computer buyer
+Date: July 31, 2008
+Helpful: 1 of 3
+Rating: 1.0
+Title: Unreliable
+Content:
+Actually bought this computer from office depot.  Unfortunately, the computer performs a random memory dump (with a blue screen) every so often.  After calling in twice, I sent it back to Lenovo, but they were unable to reproduce the problem and returned it to me with the hard drive reimaged.  They were not able to diagnose or fix the problem and I am stuck with an unreliable system.  I do not recommend this computer.

@@ -1,0 +1,11 @@
+ID: B001NPDKW6-REWLS265LP5MH-A3IBC8HT1271HW
+Category: Laptops
+Product: HP-Pavilion-DV6-1030US-16-0-Inch-Laptop
+ReviewerID: A3IBC8HT1271HW
+ReviewerName: Joshua Jones
+Date: April 11, 2009
+Helpful: 9 of 22
+Rating: 1.0
+Title: I can't work on it. I can't play on it. What good is it?
+Content:
+This machine's specs sounded excellent, so I made the (somewhat foolish) assumption that this highly-rated model would suit my needs. WRONG. I've owned this thing less than a day and it's already going back to Amazon! The integrated graphics chipset runs into serious 3d rendering errors with Matlab. It barely runs World of Warcraft -- a 4.5-year-old game. This machine might be OK if a user never needed video performance, but the graphics chipset is a botched abortion that renders it useless. Your options are to wait for Windows 7 (and hopefully better video drivers); install Linux and spend a few weeks reconfiguring it; or just request an RMA number. 3 guesses which one I chose.

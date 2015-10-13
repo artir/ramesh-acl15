@@ -1,0 +1,22 @@
+ID: B0032FOKXS-R26F9KBONQTS1M-AAU6OZFE6ZSAS
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: AAU6OZFE6ZSAS
+ReviewerName: Rodrigo Landa
+Date: March 21, 2010
+Helpful: 14 of 21
+Rating: 3.0
+Title: Decent computer bogged down by its horrible display
+Content:
+I couldn't wait to get this laptop. It's got good specs, great looks, and a long battery life. However, the computer suffers from a fatal flaw.
+Pros: 
+Specs: This machine packs a 500 GB HDD (Not too fast though, I believe it's at 5200 RPM) 4 GB of RAM, an integrated and a discrete graphics card, and an Intel dual core processor. It also packs Windows 7. I didn't play any video games on it, but they are supposed to run very well.
+Keyboard: The keyboard is full size, and responsive. I honestly had no trouble adjusting to it from my desktop keyboard. I was typing at a constant 90-100 WPM with minimal errors within 20 minutes of starting the computer for the first time. One little problem is that sometimes I would press the home key, since it's next to the backspace key but no problem. It would've been better if the keyboard was backlit.
+Battery life: On power saving mode, I was able to browse the web and listen to music on iTunes for about 8 hours. That's excellent for a notebook, specially of this size. Even on full power mode, the advertised 4 hours (it's probably about 2 and a half) isn't bad.
+Trackpad: Everyone hates the trackpad on this laptop but I personally loved it. It wasn't nearly as good as the brilliant trackpads Apple uses on their laptops but it was good for a PC laptop. Multitouch commands worked very well and I felt no need for an external mouse.
+Cons:
+The display: I don't know what happened but the display on this laptop is truly abysmal. I watch a lot of movies and it's impossible to get a decent viewing angle. The black levels are horrid and I constantly had to tilt the screen in order to get a decent picture. I configured the settings many times with no results. For a computer centered around power and multimedia capabilities, this is a big problem. The horizontal viewing angles are pretty bad too. It is not easy to get good picture quality with two people sitting side by side. On a friend's late 2009 polycarbonate MacBook, the display is fantastic. 
+Bloatware: There is an enormous amount of bloatware on this laptop. Not as much as my HP Pavilion I bought in 2006, or my brother's HP laptop, or two Compaq PCs in my household. Why can't PC manufacturers take a page out of Apple's book and only include essential programs. I'm never going to play their terrible games or use their mediocre anti virus programs.
+GraphixBoost: GraphixBoost is a pain to deal with. I couldn't find settings so that it would stay in balance mode always. On power saving mode, it changes your wallpaper sometimes and other times it hides your taskbar. Sometimes I could not even change the brightness at all! The GraphixBoost settings, while a neat feature, are extremely glitchy.
+Hard Drive Partitioning: I don't know what ASUS was thinking but why is the hard drive partitioned so oddly. There's a partition that holds your operating system and another for DATA. It's logical that a user would want to merge the partitions as soon as possible. Also, there is a hidden partition with about 14 gigabytes of space, that even when formatted, cannot be merged into your main partition. The only way to do so is to install Windows 7 from scratch using an actual installation disc, not the included recovery disc. 
+Overall, it's a decent computer. The pros are outweighed by the con, since display quality is a big deal. I paid $800 for this computer and I expected an excellent display. I returned it and only received about $627. I lost $172 on this computer. The terrible display is a big deal considering the power of this machine with things like HD video and computer games. I really regret buying this computer and will be saving up for a MacBook Pro.

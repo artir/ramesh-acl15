@@ -1,0 +1,19 @@
+ID: B001N86VXS-R1XPC2EAR5DAK3-A2SZRY5TFW27TR
+Category: Laptops
+Product: Notebook-Processor-1-60GHz-Brightview-Infinity
+ReviewerID: A2SZRY5TFW27TR
+ReviewerName: Gordon Ewasiuk
+Date: March 2, 2009
+Helpful: 19 of 19
+Rating: 4.0
+Title: The portability is addictive.  Netbook goes everywhere.
+Content:
+It is hard to believe that HP and other netbook makers packed so many features into such a small package.  This HP netbook is a little bigger than the average DVD case.  It is TINY...and slim too.  At 2lbs and some change, you can carry this thing all day long and not even notice the weight.  
+The features in the 1033CL match up with other netbooks on the market.  The hard drive is a bit smaller than average - 60GB v/s 120GB.  This model comes with 1GB RAM v/s 2GB RAM on most Vista-enabled netbooks.  Not deal breakers by any means...but savy shoppers can get more bang for their netbook dollars.
+Now, let's talk about this netbook.  The keyboard is darn near full-sized which makes touch typing possible.  I crank out 80wpm on a regular keyboard and can get near that speed on this netbook.   There are a few compromises though.  The touchpad has buttons on either side v/s on top like most netbooks and laptops.  The arrow keys are smaller than regular keys.  There is no dedicated home key and now requires two keys be pressed (fn-left arrow).  Most people won't notice it but power users might have an issue.
+The speaker sits directly above the keyboard and sounds great!  Some laptops and netbooks put the speakers under the unit or in the palmrest (so your hand covers it!) but HP got it right.  Volume is loud and sound is full.  Not tinny.  
+The 1033CL has plenty of ports.  Power, USB, headphone/mic, and Ethernet are on the left.  Another USB port and a smartcard slot are on the right.  The front has buttons for power and for turning off the wireless network card.  (great for saving power)
+Speaking of power, this netbook comes with a 3cell battery.  It is good for quick trips but if you want long-term power, shoot for a 6 cell battery or better.  The battery compartment is in the bottom of the unit for easy access.  RAM can also be upgraded via the bottom of the unit.
+The display is very crisp.  10.2 inches sounds small but the Windows XP resolution is 1024x600 so it's bigger than expected.  Movies look great on it.  The display has the a reflective coating on it (don't remember technical name).   
+A few minor annoyances with this netbook.  The webcam requires a lot of background light just to get a half-way decent picture.   There is a port for an external monitor but the dongle for it wasn't included in the box.  HP charges extra for it.  The touchpad includes a generous space for scrolling.  Almost too generous.  About 3/4 of an inch of the touchpad is reserved for scrolling down a page.  Fortunately, it can be adjusted using software.
+Overall, the 1033CL is a fun netbook.  It isn't the fastest or packed with the most features but the crisp display, the almost full-sized keyboard, and the audio make this unit stand out among competitors.  I'm happy I bought it.  The portability of it is just addictive.  I take it to the kitchen, the bedroom, the garage, the front porch, backyard and more.

@@ -1,0 +1,16 @@
+ID: B0032FOKXS-R993VXH0UHX1F-APD8KIOOUIVPO
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: APD8KIOOUIVPO
+ReviewerName: J. Le
+Date: December 14, 2009
+Helpful: 3 of 4
+Rating: 5.0
+Title: Best Laptop I've Owned Yet
+Content:
+I've owned 3 laptops prior to this one. All have been desktop replacement laptops (+6 pounds, +17 inches, -4 hour battery life), so this is my first foray into thin and light laptops.
+I bought the UL30VT because of price, mobility, long battery life, and versatility. At face value and tech specs, it's a great value when ASUS retails this laptop at just $800 when others can fetch upwards to $1500 with similar specs. At less than 4 pounds and 13 inches, it's far lighter and smaller than what I've owned before. I could one-hand carry this everywhere all day. I get about 8 hours on this thing, using USB tethering on my phone, heavy web surfing, and listening to my MP3s most of the time. I have it fully charged in the morning, take it with me to work at 9 leaving the power supply home, come home in the evening with about 27% charge left, which leaves me enough juice til I wind down for the night and charge it overnight. Repeat.
+The biggest selling point for me was the dedicated Nvidia GPU. I was almost sold on the UL30A models, but this feature on this laptop is what brought me over the edge. I love the fact it has a dual graphics setup, using the integrated Intel GPU for battery saving mode and using the dedicated Nvidia GPU for performance. When it's in battery saving mode, the Nvidia GPU is not expending any unnecessary battery life, but it's there when I'm ready to use it. I love it. I've only tested two games on it thus far, L4D2 and COD4 ran just fine. Two popular, modern games, so I assume it can run a majority of games available out there.
+I intended to reformat and install a fresh Windows 7 on it, but I found it was really easy to find out what each ASUS "bloatware" did and remove what was unnecessary.
+My biggest gripe is the trackpad. The trackpad sits flush with the palm rest, so I don't have enough tactile feedback when my finger is off the trackpad. It could've had a slight bevel to it to solve this problem. Also the unibody left and right button is horrible. The center of it is an absolute deadzone. You have to click close to the extreme ends to register. I found it requires a little bit of force to click these buttons also. I have to use both hands, one for the trackpad and the other for the button, as opposed to just using my thumb for clicking. I would have to exert an uncomfortable amount of pressure for it to click. These setbacks are quite unfortunate since these could've been easily avoided.
+But as fate would have it, I prefer using a mouse anyway so it doesn't effect me as much. I figure I point that out for those that hate lugging a mouse around. Other than that, this is the best laptop I've owned yet.

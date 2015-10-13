@@ -1,0 +1,11 @@
+ID: B001NEK34K-R3U4XE3TSQOFS0-A39LWQZM6WQ5VY
+Category: Laptops
+Product: Toshiba-Satellite-A355-S6935-16-0-Inch-Laptop
+ReviewerID: A39LWQZM6WQ5VY
+ReviewerName: David E. Zamora
+Date: August 4, 2009
+Helpful: 0 of 1
+Rating: 2.0
+Title: great computer but poorly designed
+Content:
+Well first this is a beautiful laptop and pretty fast for its price point. It has amazing sound, a gorgeous screen and a myriad amount of ports including 4 USB ports and an Esata port. Now the bad. It is the biggest fingerprint magnet I have ever owned, from the outer shell to the area around the keyboard and touchpad. The touchpad is pretty unresponsive, it takes multiple tries to move the onscreen cursor. Also the Os crashes whenever the function button is pressed, but that's a software problem not hardware. It has to do with Toshiba's software that is supposed to pop up when you press it. Unfortunately its what controls the screen brightness and some other functions. Next time I will do a little more research and make a better informed buy.

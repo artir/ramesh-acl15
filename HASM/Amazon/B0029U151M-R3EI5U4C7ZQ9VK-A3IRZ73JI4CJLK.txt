@@ -1,0 +1,20 @@
+ID: B0029U151M-R3EI5U4C7ZQ9VK-A3IRZ73JI4CJLK
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A3IRZ73JI4CJLK
+ReviewerName: David Vergier
+Date: June 28, 2009
+Helpful: 23 of 28
+Rating: 2.0
+Title: Great hardware, but very unstable system - UPDATE!
+Content:
+This review relates more to the AS4810T-8480, but as it is not sold on Amazon yet, I wanted to make sure everyone is aware of the problems I am experiencing on that model, as this might impact the entire product line.
+I received my new laptop 4 days ago. Overall it is great, and I'd love to post a positive review here. It looks great from the outside, the 6-8 hours of battery life is a reality (let's see how long it lasts before the  battery worns out), keyboard is nice, etc... Also agree that the built quality is not perfect, but overall it is fine.
+My major concern, is the overall system stability. I am not a heavy user, mostly internet surfing.
+However, in the past 4 days, I have experienced a tremendous number of crashes, maybe 2 to 3 a day, just using normal programs such as Skype, Internet Explorer 8 and MSN Live Messenger... At somepoint, the CPU goes to 100% utilization and the system becomes very slow or totally unresponsive, so I need to do a forced shut down. I thought this was due to Internet Explorer, but experienced the same with Firefox yesterday...
+I just tried to install a USB AT&T 3G key, and despite a successful installation, now I am unable to log into Windows because on the log on screen my cursor and keyboards are none responsive. I have just logged a ticket with their Support Team, let's see what they come up.
+I have never had some many problems with a new laptop in the past and am considering returning it for a refund.
+Again, I would really like to love this laptop, I think ACER has a great product here, BUT I cannot recommended it at this point, and hope I will be able to update my recommendation very soon.
+UPDATE: just over one month after receiving the laptop and as I was about to return it after ACER's customer service proved unable to provide a solution, I updated the Intel VGA driver (as many of you suggested in your comments, thanks a lot - my bad for not checking them out earlier!) and the BIOS, both being recommended on [..] and I am happy to confirm the issues have disappeared. The laptop is now fully functional, so I have decided to keep it.
+In regards to other features of the computer, I would say that my main complaints are the lack of a hardware switch for the wireless, and the screen is a little too glossy for me. The speakers are a bit weak. Bluetooth could have been included but I knew about it so can't complain.
+But overall I'm still happy with the Timeline, and would recommend it to anyone traveling a lot and not requiring high CPU power!

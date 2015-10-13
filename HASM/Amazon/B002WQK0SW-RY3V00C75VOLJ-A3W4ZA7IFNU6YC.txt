@@ -1,0 +1,29 @@
+ID: B002WQK0SW-RY3V00C75VOLJ-A3W4ZA7IFNU6YC
+Category: Laptops
+Product: Acer-Extensa-EX5230E-2177-Notebook-Webcam
+ReviewerID: A3W4ZA7IFNU6YC
+ReviewerName: Amy Moore "Mumto3girls1boy"
+Date: April 30, 2010
+Helpful: 
+Rating: 5.0
+Title: Excellent laptop when you upgrade two things.
+Content:
+We purchased this laptop here on Amazon just before Black Friday 2009.  We paid $309 even though it was $249 at Best Buy the following week.  After getting it home and realizing the single core Celeron 900 was an absolute dog of a processor, I went on eBay and bid $41.66 for a Pentium dual-core T4300 processor.  I installed that and bumped the memory up to 3GB from 2GB using a PC2-5300 chip I had available from another machine.  PC2-6400 memory can be used but it does increase temperatures inside the laptop.  To put it simply, the computer now flies.  Video is clean, clear, and stutter-free.  It does not hang at times during booting.  It does not freeze or lock up when multitasking.  I use it as my primary computer and it blows away every desktop I've owned in the past few years.  To be honest, I don't use it as a laptop, but as a desktop.  I use an ASUS 23.6" LCD monitor (full 1080p video on a VGA connection), Logitech optical mouse and USB speakers, Kensington Keyboard For Life, and I just stick the laptop in my keyboard tray, put my external keyboard on the desk itself, and it's perfect.
+This laptop can game.  The Intel HD graphics (X4500MHD) is on-board, but it is THE BEST on-board graphics set you can get today.  The performance is comparable to any of the following modern PCI Express cards:
+ATI Radeon HD 4550
+ATI Radeon HD 5450
+nVidia 9400GT
+nVidia 9500GS
+nVidia 9500GT
+nVidia GT120
+It delivers close to 8600GT performance as well.  I couldn't be happier with this laptop-as-a-desktop.
+The computer having 3 USB ports is a slight problem, but a 4-in-1 USB hub solved that.  I now have all ports in use and one free plug on the hub for flash drives, camera docks, printers, and other such temporary connections.  It does not have a webcam (I use an external model) and it has no card reader (I have a microSD adapter and will be getting a full-size SD to USB adapter soon, but worst case, I can plug an SD card into my Kodak camera and unload it from there using my camera dock).  The laptop's case appears to support these upgrades and other models of Extensa (5630 for example) do have these options.  But a deep research into the computer's service manual shows that the card reader cannot be added to this motherboard.
+Other processors that do absolutely for a fact work with this motherboard, chipset, and BIOS include:
+Stock Celeron 900 (2.2GHz)
+Celeron dual-core T3000
+Celeron dual-core T3100
+Pentium dual-core T4200
+Pentium dual-core T4300
+The T3200, T4400, and T4500 should also work fine as they are in the same processor family (Penryn-3M standard voltage, socket P) they are just newer models than when this GL40 chipset was introduced.
+The T4300 does not have a noticeable heat increase over the Celeron 900, a degree or two hotter at idle, but identical under load.  A T4500 might see another degree here or there.  Other chips like Core 2 Duos may work in theory but may run hotter.  These include T6400, T6500, T6600, T6570, T6670, T8100, T8300, and some later T9300/T9500 steppings, 
+Do NOT discount this computer, or any other cheap laptop with the GL40 chipset, for having a single core Celeron in it.  These dual-core Celerons and Pentiums can be bought for $50 or less and provide a much needed kick in the rear as far as performance in daily use.  The third GB of RAM just provides an extra cushion against slow operating when you're really busy.  A $300 or $400 laptop with a $50 processor and $50 in RAM upgrades is now equal to a $700 model.  Anyone who bought one of these at Best Buy for $249 just gets to do it cheaper than the rest of us.

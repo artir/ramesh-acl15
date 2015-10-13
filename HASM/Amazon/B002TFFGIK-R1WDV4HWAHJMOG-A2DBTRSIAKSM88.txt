@@ -1,0 +1,24 @@
+ID: B002TFFGIK-R1WDV4HWAHJMOG-A2DBTRSIAKSM88
+Category: Laptops
+Product: Lenovo-G550-15-6-Inch-Laptop-Black
+ReviewerID: A2DBTRSIAKSM88
+ReviewerName: K. J. Brett
+Date: January 19, 2010
+Helpful: 22 of 24
+Rating: 4.0
+Title: What can you expect for $500.
+Content:
+I'm a presentation technology specialist and I use laptops everyday for presentations and normally I would never buy a computer that costs less than $1200. Anything less than that and you're asking for performance problems on all fronts; processor, RAM, graphics and hard drive.
+First things first, this computer only cost $549 dollars or less.
+This computer is not a workhorse by any means and is ugly as only a mother could love.
+That being said, this is what can you expect.
+Flimsy plastic body construction? Check.
+The plastic looks and feels as cheap as what you paid for. Think of a low end DVD player that you can pick up at Walmart for $30 dollars. This computer does flex on the bottom but as long as you don't handle it like the "Samsonite Gorilla" you'll be fine. It does have a raised texture pattern on the surface to help you grip it better. The screen does not have a latch to secure it but that is not detrimental to me. One reviewer commented that the DVD drive popped open a couple of times because of the flexing of the case and I would refute that claim and suggest that it happens when a thumb or finger presses the eject button as has happened to me.
+Intel shared video performance? Check. Poor lcd viewing angles? Check.
+The Intel chipset can use as much as a Gb of RAM to help with graphics.  Mine is currently using 57Mb.  This screen is great for direct viewing only. As for off viewing angles, I often laugh when people complain about this. How often do you view your work on a laptop from any position other than directly in front of the screen. I have been using it to watch DVD and Streaming movies on Netflix with no performance problems.  I also use Corel Draw 13 and Corel Painter 10 and it runs those programs equally fine. It also runs TrialDirector, a special presentation software, surprisingly well for non-dedicated video graphics. I won't be running Maya or Max or any highend 3-D apps or games on it so there is no expectation to be crushed on that point.
+Windows XP Professional loaded? Check. Windows 7 Professional 32 bit on disk? Check.
+Netbooks primarily ship with Windows 7 Starter and that version is severely diminished in functionality. I highly recommend setting this computer to dual boot keeping both operating systems intact. You can always reformat later.
+Large 15.6 inch screen? Check. Fullsize keyboard with numeric pad? Check.
+I bought this as opposed to a netbook because of the screen. My eyesight is pretty bad and I prefer having a larger screen.
+The keyboard is fullsize and typing in numbers on the numeric key pad is a plus for me. The only flaw I find on the keyboard is the placement of the Function key. It is located on the outside of the left hand side Control key which is counter-intuitive to the better quality laptops I'm using.
+This Lenovo is considered their "value line" series so don't buy this and expect alot and you will most likely be pleased with the performance.

@@ -1,0 +1,12 @@
+ID: B002R5ARKY-R2KHFU5T6UI4U5-A1DNWIOIIZJJ97
+Category: Laptops
+Product: Pavilion-DV6-1354US-15-6-Inch-Black-Laptop
+ReviewerID: A1DNWIOIIZJJ97
+ReviewerName: Jose Mora Solis
+Date: December 14, 2009
+Helpful: 1 of 24
+Rating: 1.0
+Title: hey men I have a problem with the laptop
+Content:
+Help me, is that the laptop that I bought, I got an error when turning, a blue screen windows and try to reinstall the operating system windows 7 and it gives me another blue screen windows. What can I do?
+regards.

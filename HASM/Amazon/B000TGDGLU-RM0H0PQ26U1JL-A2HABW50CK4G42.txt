@@ -1,0 +1,11 @@
+ID: B000TGDGLU-RM0H0PQ26U1JL-A2HABW50CK4G42
+Category: SpaceHeaters
+Product: DeLonghi-EW7707CM-Oil-filled-ComforTemp-Technology
+ReviewerID: A2HABW50CK4G42
+ReviewerName: Heavypku
+Date: March 7, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: If you are experiencing a louding clicking noise after not using for a long time..
+Content:
+Just posting this for trouble shooting. I was getting a loud clicking noise while operating my Delonghi 6705L heater. In order to solve the problem I had to take apart the entire unit, disconnect all the electric wires and remove the heater coil from the resevior using a pair of channel lock pliers. You'll need to break the o-ring seal on the unit in order to remove the heater coil. I would not recommend this to the inexperienced user. If you do try it make sure to clean the metal o-ring sealing surface with a piece of fine sand paper before scewing the heater coil back in. Once assembled run the unit on high for a while and make sure that there is no oil leaking from the area.

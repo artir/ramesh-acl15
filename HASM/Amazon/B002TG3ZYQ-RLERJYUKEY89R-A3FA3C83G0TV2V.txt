@@ -1,0 +1,11 @@
+ID: B002TG3ZYQ-RLERJYUKEY89R-A3FA3C83G0TV2V
+Category: DigitalSLRs
+Product: Canon-EOS-1D-Mark-IV
+ReviewerID: A3FA3C83G0TV2V
+ReviewerName: A. Harrison
+Date: March 3, 2010
+Helpful: 5 of 42
+Rating: 2.0
+Title: Wrong Frame Rates
+Content:
+Yet another camera with idiotic frame rates for video.  When are the boneheads at these companies going to simply make a camera that records at 24 frames per second like film has done for 50 years.  Film makers do NOT want 23.976 fps!  Its not complicated, although many people who misunderstand audio sync make it so.  Ideally a camera would record at all the common frame rates ( 23.976, 24, 25, 29.97, 30, 48, 50, 59.94, 60 ).  Then users could pick what they need for their individual situation.  Each has its uses.  If every camera would record at both the silly, awkward old frame rates we inherited from color TV in the 1950's (23.976, 29.97) as well recording in the natural, easy to work with frame rates ( 25, 25, 30, etc. ) then the industry could gradually move on and dump the old ones!

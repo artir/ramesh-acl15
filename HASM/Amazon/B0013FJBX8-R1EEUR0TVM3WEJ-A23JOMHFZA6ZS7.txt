@@ -1,0 +1,13 @@
+ID: B0013FJBX8-R1EEUR0TVM3WEJ-A23JOMHFZA6ZS7
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A23JOMHFZA6ZS7
+ReviewerName: T. OKABE
+Date: April 9, 2009
+Helpful: 1 of 2
+Rating: 5.0
+Title: Choose this one for cost-performance, but replace to 4G mem and SSD
+Content:
+Choose this one instead of MB471LL/A(2.53 GHz/4GB RAM/320GB HDD) for cost-preformance.I think MB471LL/A is overpriced for marketing, so choosing the model of this page is wiser.
+However, 2GB memory is too tight. You need 4GB memory especially if you run windows on some virtual environment. So buy 2Gx2 DDR3 and replace. 1Gx2 is a waste, but still chepaer than buying at Apple store or buying MB471LL/A.
+Also, replacing HDD to SSD is highly recommended. 32G minimam, 64/128G is plenty and enough. Using HDD is such a bottle-neck of this kind fast machine.

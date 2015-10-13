@@ -1,0 +1,11 @@
+ID: B00006CXS8-R2N4FFMPTMYRG0-A19P97G4K7T27D
+Category: MP3Players
+Product: RCA-Lyra-RD1080-128-Player
+ReviewerID: A19P97G4K7T27D
+ReviewerName: Vincent J. Russo "nivho"
+Date: August 12, 2003
+Helpful: 1 of 1
+Rating: 3.0
+Title: It's not bad, FOR THE PRICE
+Content:
+On the whole, this is a fine product for the price.  It's an inexpensive option for the first time mpg/portable music user.  Just be willing to take the time to explore the software (terrible help files) and not have your hopes set on it coming with a great interface.  If you're willing to take the time to get familiar with the software and what it can (and can't) do, it's pretty good. Updates are easy and can make it compatible with WMA files as well as mpg.  The sound is pretty decent and is even better if you replace the headphones that it comes with. You can drag and drop exisiting files on to the device with Windows Explorer or use the included software.Picky problems - poor carry case, slot for memory card is open (no cover or protection), usb port on device could be better placed, software interface is poor.

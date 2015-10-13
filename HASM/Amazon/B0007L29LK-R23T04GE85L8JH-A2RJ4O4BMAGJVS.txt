@@ -1,0 +1,16 @@
+ID: B0007L29LK-R23T04GE85L8JH-A2RJ4O4BMAGJVS
+Category: MP3Players
+Product: iriver-H10-Player-Lounge-Grey
+ReviewerID: A2RJ4O4BMAGJVS
+ReviewerName: Datapoint3000 "Laissez les bons temps rouler"
+Date: May 7, 2005
+Helpful: 6 of 9
+Rating: 1.0
+Title: Horrible -- do not buy; maybe wait for future version
+Content:
+This device basically doesn't work and is poorly thought out.  If you don't believe me ask yourself why the first insert you see when you open the box is a bright orange piece of paper saying "STOP! Do not return this product!  Call us first..."  I don't see IBM needing to put those sorts of inserts into their ThinkPads...because they work.  
+My background is that I have had an iPod for 18-24 months and bought this so that I could use a subscription music service (Rhapsody to Go).  This experience has made me appreciate the many features I took for granted in iPod.
+Generally, the H10 operates like a computer that is being asked to run an application for which it has insufficient memory (if you have ever tried to play the latest computer games on a non-latest PC you'll know what I'm talking about).  So essentially this means it acts like it has been hit in the head, being jerky at best and nonresponsive often. For instance, it takes forever to load up a new song on the H10.  Whereas on iPod you go from song to song seamlessly, on the H10 between songs you get a whirring and it stops...I guess it's loading it up...and finally, if you're lucky, it will play the song.  There is never less than a 30 second break between songs.  That's feeble.  That stuff needs to be invisible to the user.  It would be faster to go from single to single on a real physical jukebox playng vinyl 45's.  Also, it doesn't always play the song you expect.  Also, the little slider control is frequently nonresponsive.  Also, the fast forward, rewind, play controls are hard to distinguish from each other (you have to focus on them, which is hard to do while jogging). When scrolling, you frequently overshoot your target (too sensitive).  That's aside form the fact that often it just crashes and won't do anything at all.
+I guess I should call this number on the "STOP!" insert before I return it but I get the feeling it's going to have to go back.  This just does not come up to the level of an acceptable mp3 player.  This is a protoype.  (By the way I did the firmware upgrade first thing so that won't help.)
+Now that I realize how great the iPod is relative to the H10, it really makes me appreciate the thinking that went into it.  To be honest, would anyone take a job at iRiver if they could get a job at Apple?  I don't want to be harsh but probably not.  And I think that collective personnel advantage at Apple probably translates into a better product for them in a million ways.  One dumb decision was to include several features like photo display and text display that I suspect 98% of users don't care about at all.  Basically, people want an mp3 player to play music.  Looking at your photo collection on a one in ch screen probably is not a key feature.  Instead of devoting time to creating a phto and text service, they should have made sure they had the basic music player working. Duh.  
+[Update: bought a Samsung Yepp and it works well.  Very happy now.]

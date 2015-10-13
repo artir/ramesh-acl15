@@ -1,0 +1,14 @@
+ID: B002PAQXCM-R2QQ3DCXLFJP73-A2LBDMGOZHFTB6
+Category: Laptops
+Product: N81Vp-D2-14-Inch-Versatile-Entertainment-Windows
+ReviewerID: A2LBDMGOZHFTB6
+ReviewerName: E. Loehr
+Date: February 9, 2010
+Helpful: 3 of 4
+Rating: 2.0
+Title: Hardware/software issues, poor WLAN card and hard drive
+Content:
+I regret purchasing this computer; it really is not worth the price compared to others on the market now.  I have also had some issues with the computer itself.  If you Google "ASUS N81 crash" you will find that many people are experiencing random system crashes, especially when trying to do any gaming at all on this computer.  There is a possible hardware issue that causes the crash, which many assume to be from the ATI Mobility card, but ASUS has not acknowledged it.
+I sent my machine back to ASUS for repairs due to all the random system crashes I experienced; it was updated as "Repaired" and assigned a tracking number the day after received.  I called and they said no issues were found with my computer.  I called several times and left my number several times, but they would never let me speak with a supervisor, and a supervisor would not call me back.  I got my computer back and found that they had removed all the AMD/ATI software from the machine, but didn't make any mention of this on their notes.  There is a problem with either the graphics card and/or its software.  I did a full reformat and fresh install and got rid of all the ATI and AMD software except for the driver, and my system no longer crashes.  The WLAN card included is also really weak.  I replaced mine with a Gigabyte GN-WI07HT-RH that I had in an older machine, and it gets much better connection.  The hard drive is a Seagate Momentus 7200.4.  Just google the name of the hard drive and you see what a piece of crap it is.  It's a noisy, clunky hard drive; I guess I will replace it with a Hitachi drive on my own dime.  No real reason to RMA it for the loud Seagate because it seems like it's the product itself that is a joke, not just mine. 
+This computer has had issues with multi-tasking.  It locks up and requires a full reboot.  When I watch stream feeds, I have to reboot 3-4 times in a 2 hour period.  I have a netbook that performs better than this computer.  It's pretty much a piece of crap.  
+I experienced terrible customer service, a poor warranty/repair department, and unaddressed shutdown issues make this a computer to avoid, in my opinion.  I have purchased three ASUS laptops in the past three years, but after the experience with this one, it will be my last.

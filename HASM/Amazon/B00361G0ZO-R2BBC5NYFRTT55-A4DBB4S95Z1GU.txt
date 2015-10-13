@@ -1,0 +1,15 @@
+ID: B00361G0ZO-R2BBC5NYFRTT55-A4DBB4S95Z1GU
+Category: Laptops
+Product: Republic-Gamers-G51JX-X3-15-6-Inch-Gaming
+ReviewerID: A4DBB4S95Z1GU
+ReviewerName: Hector Guilarte
+Date: April 21, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Computer lasted less than 12 hrs
+Content:
+EDIT: First I gave it a 1 star because of this: When I got my G51JX-A1 everything was ok. The mouse is cool and the backpack looks good too. The computer is awesome, it really is, but after using it for about 5 hours I got a BLUE SCREEN OF DEATH (BSOD), I updated the nVidia drivers and that was the end of that error. About 3 hours later it started FREEZING constantly, but the temp was ok and I had not too many programs open. Everytime it freezed I had to turn it off pressing the on button for like 5 seconds, then it turned on fine... The freezing became more constant and I couldn't even use it for 10 minutes straight, then it came the WORST, It doesn't even turn on now, just gives me a black screen and that's it. One time it turned on fine and I managed to update the BIOS with the latest version, it did it ok, when I restarted the computer I got on the BIOS information and in fact it was the version I updated it to. It turned on fine, got on windows, 5 minutes later it FREEZED AGAIN, that was the last time it worked... I called Asus, they gave me a RMA and I'm going to send it back to get it fixed, however I don't live in the USA and I'm here for vacations only, after they send it back I'm gonna have to pay like 150$ to get it send to Venezuela and that's not on Asus...
+Good luck with yours, but give it a try and search "Asus freezes" or "G51JX freezes" on Google before buying, that might help you reconsider...
+EDIT: My New 5 star review would be after this: I contacted Amazon and in one day I got a replacement laptop for the one that was bad. The one I received worked great... Great Laptop for real!
+Pros: Awesome Machine, Graphical Applications like Autodesk Maya 2010 and Unreal Development Kit works like a charm. Everything you would expect from such machine.
+Cons: Sound Volume is REALLY (REALLY REALLY) low on speakers, I don't know if it's just mine or if it is a common thing for this laptop. Also laptop gets really hoy, left side of the keyboard feels hot and the air that flows out of it is hot as well.

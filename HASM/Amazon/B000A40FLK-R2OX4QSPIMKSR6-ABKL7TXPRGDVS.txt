@@ -1,0 +1,12 @@
+ID: B000A40FLK-R2OX4QSPIMKSR6-ABKL7TXPRGDVS
+Category: Laptops
+Product: Toshiba-Satellite-A75-S1253-Mobility-Widescreen
+ReviewerID: ABKL7TXPRGDVS
+ReviewerName: Daniel Becce "circumlocutor"
+Date: November 29, 2006
+Helpful: 1 of 1
+Rating: 1.0
+Title: Design flaw can lead to lots of repair time
+Content:
+Mine has been back to Toshiba four times already in the first year. It's going back again for the same reason (See JL32's review above) as soon as I can get back to CompUSA. The motherboard and power socket was replaced last time and it still overheats even when the grills and heat sink are totally clean. The system automatically shuts down. This happens especially if the room temperature gets much above 70 degrees (F) or when I run multiple demanding programs. And this machine never gets used for gaming, mostly internet browsing and writing papers.
+UPDATE: Toshiba seems to have found a fix for this serious flaw. Since sending it back to Toshiba in early 2007 it has been actually stable and "symptom free." It is still quite snappy and has not needed repair for that problem after 2 years of daily use.

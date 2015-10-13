@@ -1,0 +1,27 @@
+ID: B001TXIDCE-R1LMWFATGNFPUY-AB3467KDBUHGQ
+Category: DigitalSLRs
+Product: Olympus-E620-Digital-Stabilization-Body
+ReviewerID: AB3467KDBUHGQ
+ReviewerName: Waqas Mustafeez "waqasm"
+Date: May 10, 2009
+Helpful: 88 of 92
+Rating: 5.0
+Title: Very competitive mid entry dslr
+Content:
+I have had the E-620 for about a week and i moved from a E-510. E-510 was my first DSLR and using that over the years i have been very satisfied and happy with the 510 especially due to the in body image stabilization and lens line-up. Liveview was also a plus over competitors but i never really used it unless it was really dark or i needed to manual focus. 
+Some things on the E-510 that were aging and were kind of the few weak points of the entry level E series was the 3 point autofocus system, small viewfinder and low light focusing. The lcd was so so too but for an SLR i don't see why a high pixel LCD should be important.. sure its good to have one but its not important. 
+Anyhow the E-620 really improves all these problems and really becomes a strong no compromise camera; worthy of buying just because its excellent.. not because its great value as was the case for me for the E-510. 
+1) The viewfinder is much larger; suitable for manual focusing.
+2) now has 7 points - 5 cross (which is better then any entry slr .. d5000, t1i etc included). -- now that Ive had sometime to try out the imager AF; ill say that although its not the fastest AF system (talking about the hybrid mode as i don't have compatible lenses for standalone imager mode) -- it works very reliably in low light conditions; better then the phase detect sensor on its own. Using liveview to compose night shots many times i found my e510 hunting and eventually taking out of focus shots forcing complete manual focus-- hybrid mode definitely lets you use AF in seriously dark conditions. 
+3) nice flipping LCD which again trumps the other 2 boys in the group in terms of utility. 
+4) Much better tone curves/gradation/dynamic range.. people argue .. i don't know.. i just know that highlight and shadow information is retained very well. Of course jpgs turn out nice due to the gradation but there is dynamic range improvement visible in raw too. 
+Some things that have continued to be Olympus selling points
+5) in body image stabilization 
+6) Excellent body quality... compare it to canon entry levels and see what i mean
+7) Very strong, potentially the best lens line-up out there. kit lenses being outstanding value for money -- you can start taking good photographs right away.. unlike kit lenses from others. 
+Some other feature like the Art filters and multiple exposure (over laying multiple photos) are just a side for most people. Id say all of them are aesthetically pleasing filters and fun to try-- if you use them, you still have your raw file to do off camera processing. But id say that these features to me are like the video recording by canon and nikon -- just a pleasant aside but not really what dslr photography has been about (at least in the past).
+The issue of high ISO with oly has always been there, some thoughts: 
+I like the extra ISO steps and use the ISO 160 as standard ( people say 200 gives best DR in comparison to 100 -- but i think 160 is slightly better then 200) 
+In contrast to canons move up to 15MP for the 50D and t1i-- Olys move from 10 to 12.3MP you will find actually better high iso performance then the E-510 and 520. ISO 1250 is about comparable to 1600 of others. id say upto ~ 1250 is useable. Notice that 15MP and over the APS-C pixel density actually goes above the 10MP 4/3rd sensor. Essentially low light performance in APS-C cameras has been going down (or staying stable at best) across the board. So if you want to take pictures of football games in pitch dark at 6400 ISO  4/3rds or APS-C is not what you are looking for. Generally the solution to low light is not pumping up the ISO the first course of action is of course flash- with regards to that E-620 allows a lot of functionality with the Fl-36R/50R units including built in wireless flash support (no need for carrying a transmitter)
+Over all for an mid entry SLR you will be very happy with the E-620. Another factor is ergonomics and i like holding an Olympus but that you will have to try and compare yourself-- happy shooting!
+-updated to include thoughts on Imager AF and wireless flash support

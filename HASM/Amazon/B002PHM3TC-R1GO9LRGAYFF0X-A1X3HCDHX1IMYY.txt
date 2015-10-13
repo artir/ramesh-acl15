@@ -1,0 +1,26 @@
+ID: B002PHM3TC-R1GO9LRGAYFF0X-A1X3HCDHX1IMYY
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS1810TZ-4174-11-6-Inch
+ReviewerID: A1X3HCDHX1IMYY
+ReviewerName: value-post
+Date: October 28, 2009
+Helpful: 8 of 8
+Rating: 5.0
+Title: First impressions - excellent
+Content:
+Pros:
+Thin and light
+Quite fast without the noise and heat. 
+Videos and downloads fast and smooth
+Little bloatware (office, mcaffee, 2 web links on desktop, dvd program)
+Great screen. 11.6" is nicer than 10.1" but just as portable.
+Speakers quality above average but not great
+No problems with win7-64 bit so far
+Touchpad feels great and very smooth
+Bluetooth works well
+Cons:
+Speakers were better on a 14" timeline model I saw at a membership warehouse
+Wifi light blinks when transferring data - a minor annoyance
+higher price for the blue model where we bought it
+Other Thoughts:
+We got it as a replacement for a 12" dell 700m - battery life, portability, size and speed were our criteria.  Haven't had it long enough to evaluate the battery life, but the other criteria were met quite well. Compared to Samsung NC10 (Atom, 1GB XP) which we also have, this one is definitely better performing.

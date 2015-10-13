@@ -1,0 +1,15 @@
+ID: B002C7446A-R3PKJCD6WXWQ5V-A2BXEA6LXUDFC4
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A2BXEA6LXUDFC4
+ReviewerName: Rob Gendreau
+Date: November 15, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Great computer, but flawed firmware for some
+Content:
+I've had a lot of Macs before, both desktops and laptops, and this is one of the best I've owned.
+The display is crisp with vibrant colors. Some don't like the glare, but I find the brightness outweighs any issue with reflections.
+The addition of a lighted keyboard is helpful, and the scrollpad is marvelous, very iPhone-like. I also like the addition of a SD car slot, although it does stick out a bit. One less thing to carry around, and you can create a bootable card, which is kind of cool.
+Since lots of folks have extolled the virtues of the machine, let me explain where Apple stumbled.
+This computer comes with a user-serviceable hard drive and memory. Check Apple's site; they have instructions for how to replace a hard drive or add memory. But before you slam in a hard drive, beware. Most of the new MBPs come with a firmware update, EFI 1.7, installed. On some MBPs this has caused problems when copying large files. Apple refuses to acknowledge the problem; indeed, EFI 1.7 supplanted EFI 1.6 because many users were adding SSDs and finding that speeds lagged behind what you'd expect with SATA II. But EFI 1.7 broke some computers, and users have been going back to Apple stores to get the firmware rolled back to 1.6. Which fixes the crashing, hanging behavior, but also means they don't get the advantage of SATA II speeds (you'd only notice such speeds with SSDs, not normal hard drives). I mention this because Apple's support has not been very helpful, and any switcher coming over would expect a modern computer to play nice with off-the-shelf user added hard drives and SSDs. Too bad Apple dropped the ball here, it mars an otherwise excellent product.

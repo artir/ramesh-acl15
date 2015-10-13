@@ -1,0 +1,17 @@
+ID: B001D8S9E2-R156RQF12C4P2Q-A1W2BVM37WI2X8
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A1W2BVM37WI2X8
+ReviewerName: Enrique Pineda
+Date: December 14, 2008
+Helpful: 1 of 3
+Rating: 5.0
+Title: MacBook much improved over its iBook predecessor!
+Content:
+The major things improved that I noticed:
+- Magnetic power plug.  The non-magnetic version was very vulnerable to breakage, resulting in a motherboard that required replacement.
+- LED screen.  Vastly improved display quality.
+- Reduced heat.
+- Magnetic lid latch.  The old hook style latch was prone to wear and would eventually fail.
+- Graphics process performance is much improved.  The litmus test for me was World of Warcraft.
+The real test is to see how this laptop holds up after a year.  For me, the one-year mark is when these devices tend to show their ability to stand up to daily use.

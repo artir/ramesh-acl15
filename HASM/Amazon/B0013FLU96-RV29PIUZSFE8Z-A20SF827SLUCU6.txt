@@ -1,0 +1,13 @@
+ID: B0013FLU96-RV29PIUZSFE8Z-A20SF827SLUCU6
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A20SF827SLUCU6
+ReviewerName: T K
+Date: November 11, 2008
+Helpful: 3 of 4
+Rating: 4.0
+Title: Great laptop.. but there is one huge issue I wish I had known about before buying.
+Content:
+I love my new macbook pro.. but I wish I had known that the nvidia 8600m GT gpu is faulty, and has a very high chance of failing.  Apple has added an extra year to the standard warranty to cover faulty gpu issues, but I probably would have gone for the new glossy macbook if I had known.
+For what it's worth, nvidia are at fault, not apple.  
+Google the gpu.  Every laptop from every manufacturer (dell, hp, and others) with that series is affected.

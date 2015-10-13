@@ -1,0 +1,17 @@
+ID: B001D8S9E2-R35NIEL62WNW69-A1O7IVRX2VPWR7
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A1O7IVRX2VPWR7
+ReviewerName: IT Developer
+Date: March 12, 2009
+Helpful: 3 of 47
+Rating: 1.0
+Title: Not a developer's machine
+Content:
+For examples:
+(1)Irrelevant GUIs take away too much usable space from the screen.
+(2) Apple seems to use it as an advertising tool, as often it would prompt me to purchase MobileMe and instructed me to sign up some tutorials at the Apple store etc. Compared to that, PCs are cleaner. 
+(3) Stuff in trash can't be emptied, as they are locked by the computer.
+(4) When you open a file directory, a new window will pop up.
+(5) No Cut and move option for file managements.  You have to select one file at a time and copy and delete it if you want to move it to a different location.
+Thus, despite me having received this computer for just a few hours,  I already dislike it.

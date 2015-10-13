@@ -1,0 +1,20 @@
+ID: B001MS6NPK-R2D66YEKBY2LZ0-A3C8PZYAA7NJXZ
+Category: Laptops
+Product: Sony-VGN-CS215J-14-1-Inch-Processor-Premium
+ReviewerID: A3C8PZYAA7NJXZ
+ReviewerName: Gary Hendricks "www.best-laptop-guide.com"
+Date: May 21, 2009
+Helpful: 
+Rating: 5.0
+Title: Lovely and stylish laptop!
+Content:
+Pros:
+* Super stylish number with very nice LEDs and a sexy pink color
+* Powerful specifications (Intel Core 2 Duo, 250 GB hard drive, DVD writer)
+* Fast graphics and wireless connectivity
+* Ample USB ports, Firewire
+* Solid software because it has 64-bit Windows Vista Home Premium with SP1
+Cons:
+* Not all might like the pink color
+* Typing on keyboard gives some noise (not very silent)
+* A lot of bloatware - you might want to remove them

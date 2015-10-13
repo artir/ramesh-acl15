@@ -1,0 +1,11 @@
+ID: B002LEVGMO-R2PIT9XM5EE0HF-A3UPEVYM62KF3N
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A3UPEVYM62KF3N
+ReviewerName: Kevin R. Harbert "KRH"
+Date: December 10, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Everything I heard in reviews but
+Content:
+Everything I heard in the reviews so far is what I have experienced.  You want to ensure you have the configuration for the 1410-xxxx, the xxxx will determine how the specs are implemented i.e., 2 gb ram is 2/0 versus 1/1 meaning a 2 gb chip in one slot versus 1 gb chip in 2 slots.  Also the headphone jack does not seem to work but have not taken te time to see if the set up is correct or if it is a defect.

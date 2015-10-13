@@ -1,0 +1,34 @@
+ID: B00352LQYO-R33WOSK30S6PIA-AGE30NTN3QEV0
+Category: Laptops
+Product: N61JV-X2-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: AGE30NTN3QEV0
+ReviewerName: Scott Beamer "Scott"
+Date: March 7, 2010
+Helpful: 9 of 11
+Rating: 4.0
+Title: I really really like this laptop.
+Content:
+I'd never owned a laptop before, so I had nothing to compare this one to. And PRIOR to owning this laptop, I'd only spent 15 minutes using laptops (trying them out in computer stores).
+Therefore some of the issues I have may not be unique to this one.
+But I digress...
+The plusses:
+I like the dark brown color. HP calls it "Espresso Black" on their laptop line. It's a nice change from the ordinary without being pink or green. :)
+The keys are pretty comfortable (as laptops go).
+The NVIDIA Optimus technology works as advertised. You can specify what programs you want it to work with in the NVIDIA control panel (some of the common ones are already selected for you).
+The laptop does get warm, but not enough to warrant the use of a cooler.
+The i5 processer, NVIDIA Graphics card and 7200 RPM hard drive are a powerful combination that will satisfy most anyone but hard core gamers who will want a laptop with an i7 processor.
+But with all that power comes short battery life.  (3 1/2 hours at best).
+The Minuses:
+The backlight on the LCD seems too strong. You can see how it makes the boot screen (ASUS Logo) and the Windows boot screen look somewhat washed out before you even get into the OS (It fades from the bottom of the screen - where it's the brightest).
+Once in, you'll find yourself wanting to tweak the settings.  I tweaked like crazy but still could not get rid of the overkill of the backlight (which makes colors looked washed out and gives the whole screen a bit of a "haze").
+By the way, I thought I might have missed a protective plastic covering over the screen, but after several checks, it appears I did not.
+So it's not horrible, but if you're going to be doing some photo or video editing, I'd not do it on this laptop.
+I've played with the settings on the laptop itself AND in the software and I've gotten the color and contrast to look a bit better, but that overall backlight problem still prevails (maybe it's just my laptop [defective?], I don't really know).
+The battery life is short (but the laptop also has a 7200 rpm hard drive - most laptops have 5400 rpm drives - and an i5 processor which explains that. It's a worthwhile tradeoff).
+There aren't any other battery options (yet) from ASUS. I'd like to buy a 9 or 12-cell battery for it.
+The high-gloss exterior is a fingerprint magnet (but it looks great once you wipe the fingerprints off). :)
+The rubbery base where you rest your hands seems to get smudgy with skin oil (easily wiped off though), but at least it's not glossy also - as is the case in many laptops these days).
+The trackpad is VERY sensitive. But I only briefly used it. I prefer to use a mouse (speaking of which, I'd recommend this nice AND [mostly] color coordinated one)
+Despite the minuses, I'm very happy with this laptop.
+My biggest issue though is it the bright backlight issue (that doesn't seem to be sufficiently adjustable with hardware or software controls). I may have to investigate this further.
+P.S. If you don't find my review "helpful" please do me the courtesy of an explanation in the comments. Thank you.

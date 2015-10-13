@@ -1,0 +1,28 @@
+ID: B001PII4HW-R2O2PYCY8F8DT9-AC3TCAJAFYYLV
+Category: Laptops
+Product: Sony-VAIO-VGN-P530H-Lifestyle-PC
+ReviewerID: AC3TCAJAFYYLV
+ReviewerName: tim
+Date: February 13, 2009
+Helpful: 26 of 28
+Rating: 4.0
+Title: Pros and cons
+Content:
+My model is US version
+Good:
+Small size and lightweight.
+Lots of RAM.
+Usable keyboard for the size.
+Small power brick.
+Great looking display. 
+Windows XP performance is great. 
+The external vga / network connector clips to the power brick when not being used.
+Bad:
+Installing XP is possible but needs a good amount of operation system and driver installation knowledge, and needs a bootable USB CD/DVD drive.
+Only 2 USB ports.
+VGA and wired network are on an external connector, which is ok when you take into account the size. 
+Screen resolution of 1600x600 is too small, try 800x600 or 1024x600.
+Pointer stick instead of trackpad, not a problem in my opinion.
+Ugly:
+Vista, performance is pathetic. Install XP.
+XP install of GPS and WAN support is in the early days.

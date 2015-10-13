@@ -1,0 +1,13 @@
+ID: B002PHM0GI-RDNPB5P65Y34P-A19QC27VHRDWMR
+Category: Laptops
+Product: Sony-VGN-FW510F-16-4-Inch-Windows-Premium
+ReviewerID: A19QC27VHRDWMR
+ReviewerName: jkp
+Date: January 16, 2010
+Helpful: 6 of 7
+Rating: 1.0
+Title: Used 1 time, now is dead!
+Content:
+I received my Sony Vaio VGNFW510F on Monday evening 1-11-10.  Installed McAfee Security and Microsoft Office.  The laptop worked beautifully and I was pleased with my purchase.  Attempted to turn on the laptop the next day - NOTHING!  No light indicating power was reaching the unit.  I spoke w/ Sony who suggested I remove the battery & attempt to power up with only the AC adapter.  NOTHING!  The AC adapter's light was glowing but the laptop had no light.  I called Sony back on Wednesday 1-13-10 & they are to send a tech to my workplace to troubleshoot.  No one showed up on Thursday or Friday, so I expect them on Monday 1-18-10. So far, I'm not impressed.
+Update:  it's now Tuesday 1-19-10 - no Sony tech has shown up.  I called Sony & they told me the tech didn't show because they didn't recognize the serial number I gave them as one of their laptops.  I read it off the laptop & off the box to 3 different people.  Offered to make a copy of the bar code & fax it to them - they declined.  Once more, they've promised to send a tech out.  I've just printed a return label from Amazon.  Makes me wonder if I've gotten some kind of gray market laptop?
+Update:  the tech showed up at my workplace & replaced the mother board.  Unfortunately, I was out with the flu so didn't get to work with the tech to ensure the computer would turn on.  When I returned to work & attempted to boot up, it still wouldn't come on.  I sent the laptop back to Amazon.com - to their credit, they refunded the entire amount.

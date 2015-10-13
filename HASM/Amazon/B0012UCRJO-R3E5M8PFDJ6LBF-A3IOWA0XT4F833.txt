@@ -1,0 +1,11 @@
+ID: B0012UCRJO-R3E5M8PFDJ6LBF-A3IOWA0XT4F833
+Category: Laptops
+Product: Lenovo-59012696-IdeaPad-Y510-1-Notebook
+ReviewerID: A3IOWA0XT4F833
+ReviewerName: Mr. Santhanam S. Kumar
+Date: November 30, 2009
+Helpful: 
+Rating: 2.0
+Title: proprietary Laptop
+Content:
+Keyboard keys are in weird places. Fn key is in where usually ctl key is. Eventhough it has a full size keyboard you have to use function key to type certain commonly used keys like home, end which is very annoying. I find typing with this laptop very hard. Finally you cannot upgrade any component other than memory in this laptop. Mine came with Intel 3945ABG wifi and want to replace with 4965AGN card found a good deal over the internet. After the upgrade the laptop BIOS catchup saying non lenovo item found and wont boot at all. Moreover lenovo is not selling this card and lenovo branded card cost you a fortune. If this laptop is not under warranty anything happens to it forget it you have to throw it out. My Dell laptop few things went wrong after warranty I replaced the components with bargain price and this I have to trash if I have any problem. I already replaced keyboard under warrany and the cusomer service insisted me to send the laptop and they will do a through diagnostics that it is not my problem only then they will replace. I don't recommend this laptop and it is good only if you have warranty and definetly not worth for money. Lenovo will lose customers to their competetors until they change their proprietary mentality.

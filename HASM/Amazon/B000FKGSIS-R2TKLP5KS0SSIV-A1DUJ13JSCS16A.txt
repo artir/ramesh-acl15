@@ -1,0 +1,11 @@
+ID: B000FKGSIS-R2TKLP5KS0SSIV-A1DUJ13JSCS16A
+Category: SpaceHeaters
+Product: Holmes-HCH4954-U-Whisper-Ceramic-Heater
+ReviewerID: A1DUJ13JSCS16A
+ReviewerName: Joe Colorado "GeoCache"
+Date: January 15, 2007
+Helpful: 4 of 4
+Rating: 1.0
+Title: 3 returns, all failed on low heat
+Content:
+I want to like this heater, it is so quiet.  But, in thermostat mode on low heat, the unit shuts itself off and goes into reset mode, thinking it is overheating.  What a shame, all 3 units failed miserably.  Thermostat mode works fine on high heat, but I need low heat for a smaller space.

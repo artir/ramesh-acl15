@@ -1,0 +1,18 @@
+ID: B0029NYI4K-R2GAH4PR415TQ9-A1QA8CFOV2I62J
+Category: MP3Players
+Product: Sony-Walkman-Video-Player-Display
+ReviewerID: A1QA8CFOV2I62J
+ReviewerName: --pat
+Date: August 24, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: more helpful hints
+Content:
+I used these reviews to select and set up my Walkman X 32gb.  So I'll post some of my observations, now that I have mine set up.
+First, I don't use the wifi, podcasts, Youtube, movies, photos, so can't comment on those.  I wanted a good music player and went by the comments here that the sound is great.  
+--The earbuds are about as tinny as most earbuds.  For the money this player cost, I use good Bose on-ear phones.  I also have some Bang & Olufsen earbuds that still aren't as good as the Bose, but they're much better than the ones that came with the Sony.  
+--The initial sound needs improvements, so I played with all the Music Settings to get the sound that works best for me and with my Bose.  For the biggest improvement, I have the Custom 1 Equalizer set with the left three buttons at the top and the right two buttons in the middle.  Another big difference occurred when the VPT was set to "Live."  DSEE is off.  Clear Stereo is on.  Dynamic Normalizer is on.  Playback Range is Selected Range.  Play Mode is Normal.  Some of these didn't make any difference, but the two biggest improvements were from the equalizer and the VPT.
+--I like the look and feel of the unit.  I love the unique-looking sides, and the way they slant a bit and are a little rough, so it's easy to grip.  I'm anxiously waiting for the little case I ordered for it.  
+--This took a lot of experimenting to figure out.  The "Artist" category uses "Contributing Artist" from WMP11.  So, if you have an album with a different artist for every song, like all of the Time-Life series, you get a mess of artists.  I went through in WMP and organized the Advanced Tag Editor to change multiple songs to a single artist name or description.  For T-L's Singers and Songwriters, I made the contributing artist "Singers and songwriters."  Remember, though, that the player is CASE SENSITIVE.  "Singers and songwriters" and "singers and songwriters" created two artists on the Sony, whereas WMP interprets them as one.  It's a good thing the WMP Advanced Tag Editor is so powerful.  After discovering that typo on two albums, I deleted the album art and music from the Sony, using Explorer, went back into WMP and corrected the typos, and then synched again.  I ended up loading my music twice, and some artists three times before I got it all right.  On the other hand, if you do want the one song out of 2,000 by Dusty Springfield to show her in the Artist listings, then you'll need to weed through those hundreds of contributing artists every time you use your Sony.  Lot of work, and VERY short playlists. I have already emailed Sony that they need to provide the option to show Album Artist and/or Contributing Artist.  The Sony ignores Album Artist altogether.
+--The touch feature seems to work well so far.  
+--One of the main reasons I chose this player was that it works with Explorer.  Makes cleaning up errors much easier.  Note that there are two folders to access when deleting music: the Music folder and the Album folder.  The first has the actual music, and the second has the album art.

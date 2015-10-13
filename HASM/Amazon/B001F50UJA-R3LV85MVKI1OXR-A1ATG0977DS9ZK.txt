@@ -1,0 +1,13 @@
+ID: B001F50UJA-R3LV85MVKI1OXR-A1ATG0977DS9ZK
+Category: MP3Players
+Product: Sony-Walkman-Video-Player-Pink
+ReviewerID: A1ATG0977DS9ZK
+ReviewerName: B. Krishnamurthy
+Date: April 26, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: It's got everything except for full resolution video playback
+Content:
+When I first started shopping around for a video player like this one, my only requirement was that I should be able to plug it into a Linux machine and just drop files into a folder without having to use fancy software. All content into a Zune and iPod must go through such software, which is not available on Linux. So I bought this one. As soon as you plug in to the computer, it shows up as a USB drive labeled WALKMAN. Songs go into the MUSIC folder and videos go into the VIDEO folder. It's that simple. The second great thing is that it has got FM radio.
+There are two things keeping me from giving it a five star rating. One is that the mp4 videos have to be under 320x240 resolution. Zune plays mp4 videos at 720x576 resolution and iPod plays videos at 640x480 resolution. Second reason (a minor one) is that I can't delete content from the player (not sure if other players allow deletion from the device). If I don't like a song or a video, I have to remember what it was and delete it later when I plug it in to the computer. It could have also been great if I could fast forward, but I suspect that is too much to expect from a device such as this one.
+That said, the audio and video quality is great. Any one who wants a hassle free, no-need-to-read-the-manual mp3 video player should buy this.

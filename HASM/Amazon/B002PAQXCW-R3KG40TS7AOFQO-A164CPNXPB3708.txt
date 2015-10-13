@@ -1,0 +1,20 @@
+ID: B002PAQXCW-R3KG40TS7AOFQO-A164CPNXPB3708
+Category: Laptops
+Product: ASUS-G51J-A1-15-6-Inch-Gaming-Laptop
+ReviewerID: A164CPNXPB3708
+ReviewerName: D. Pao
+Date: January 31, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: great laptop
+Content:
+This is an great laptop, especially when considering its price.
+Great boot speed, and has handled all the games I've thrown at it (so far)
+Love the 1080 resolution, allows me to fit so much on the screen at once.
+Some text can be a bit too small to read, but most modern applications have ways of increasing the font size.
+My favorite is browsing the web at this resolution, I can easily scan the whole page ( so much screen real estate ) , and when I find something that looks interesting I can either get closer to the screen OR just increase the page zoom level to 125%.
+My biggest complaints are: no blu-ray, low volume and the keyboard sensitivity is ok, NOT great ( especially bad when using key combinations like Ctrl+c )
+The built in DVD drive is upgradable to a blu-ray drive ( comes off easily with two screws on the bottom, no need to open the laptop case )
+The keyboard experience can be easily improved by using an extenal keyboard ( which I plan to do, since I live off Ctrl+c / Ctrl+v for software development )
+For normal typing, the keyboard works great for me.
+Use headphones to get around the low volume problem ( when ambient noise warrants it ) .

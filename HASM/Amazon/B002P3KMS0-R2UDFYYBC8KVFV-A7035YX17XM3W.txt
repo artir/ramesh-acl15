@@ -1,0 +1,15 @@
+ID: B002P3KMS0-R2UDFYYBC8KVFV-A7035YX17XM3W
+Category: Laptops
+Product: G71Gx-A2-17-Inch-Gaming-Windows-Premium
+ReviewerID: A7035YX17XM3W
+ReviewerName: Computer Guru
+Date: October 31, 2009
+Helpful: 4 of 5
+Rating: 4.0
+Title: Good laptop
+Content:
+I had been wanting to get  a laptop with blu-ray, and at least a 1080P resolution screen, and this one met all thee requirements.  This screen has a great max resoltion going all the way to 1920x1200.  The video card in this is top notch and will handle just  about anything you throw at it.  This laptop could easily be compared to an Alienware with similiar specs... but the only difference is the Alienware will cost a good deal more.
+Unfortunately, the speakers on here are not as good sounding as I had hoped.  Several months ago, I purched a cheaper ASUS laptop (model UX50V-RX05) from Best Buy.  That one is only 600 bucks and has great specs for the money, except for the fact that it has only a solo core processor.  However, the speakers on that one pretty much sound better than this one! Its big enough and has enough in it, to act as a desktop replacement, so if it's on a desk and you have decent computer speakers, I'd recommend plugging them into it.
+Another issue I've had is with the WinDVD blu-ray player software that comes with the system.  You have to install it with the disc provided, but when I went to play a blu-ray movie, I got this popup saying the "AACS key is expired and needs updating".  So I followed all the prompts to do this, and the program and webpage to update it seems to hang every time.  It says this key is needed to play some blu-ray movies.  I'm sure it's not an issue with ASUS, but more with the WinDVD program, but still a hastle.  I'm happy to say however, that I skipped updating that code, and my blu-ray movie still played anyhow.  It would have been nice if this laptop had an illuminated keyboard too (like my UX50V-RX05), but it does not.
+And one other thing too is apparently, this laptop has DDR2 RAM in it.  DDR3 has been out for a while, and many other laptop manufacturers are installing DDR3 type memory in their notebooks.  I really wish ASUS would have put DDR3 RAM in this!
+So all in all, this is a very good laptop.  I've had a couple small issues as mentioned above, but I still would recommend this system for gaming or just an all around good multi-media system.  The backpack and gaming mouse included are nice too!

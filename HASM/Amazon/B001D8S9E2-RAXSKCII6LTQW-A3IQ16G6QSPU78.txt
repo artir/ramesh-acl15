@@ -1,0 +1,20 @@
+ID: B001D8S9E2-RAXSKCII6LTQW-A3IQ16G6QSPU78
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A3IQ16G6QSPU78
+ReviewerName: A. Fermin
+Date: October 23, 2008
+Helpful: 3 of 9
+Rating: 5.0
+Title: Worth every single penny
+Content:
+Pros:
+LED Backlit screen. 
+2GB of 1066MHz DDR3 SDRAM, sure most Pcs come with 4GB of Ram but are they DDR3 running at 1066Mhz? i don't think so.
+1066MHz frontside bus, that's another thing you should take into account when buying any machine 
+graphics processor with 256MB
+802.11n integrated
+5 hour battery life, that's also a nice to have
+Precision aluminum unibody enclosure, that makes this machine look like a Ferrari compared to others
+Cons: No FireWire which was nice to have on the older models, but that a lot of people will not miss cause not everyone has a need for it, and  since USB 3.0 is just around the corner, FireWire, R.I.P.
+My own opinion is, don't be fool by cheap laptop prices, one example is, you buy any brand laptop for $999  with 4GB of SDDR2 ram running at 667mhz and you think you got a good deal, think again cause everyone is moving forward with SDDR3 Ram and in 5 months your going to need a new machine as even microsoft pushes out new updates, in other words your machine pretty soon is going to be running slows as a turtle, the new Macbooks have all that cover, that's why in my opinion no other machines run even windows vista as flawlessly as the macs

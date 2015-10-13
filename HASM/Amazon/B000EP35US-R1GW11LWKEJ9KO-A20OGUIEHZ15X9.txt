@@ -1,0 +1,11 @@
+ID: B000EP35US-R1GW11LWKEJ9KO-A20OGUIEHZ15X9
+Category: MP3Players
+Product: Apple-iPod-Silver-Generation-MODEL
+ReviewerID: A20OGUIEHZ15X9
+ReviewerName: Y. Lee "cylp"
+Date: February 24, 2006
+Helpful: 0 of 1
+Rating: 4.0
+Title: Documentation is inadequate
+Content:
+Problem happen on recharging failure.  No helpful information available, neither on Apple's web site.  No hope to get support from Apple.  Ask help on Internet.  Problem getting resolved by suggestions.

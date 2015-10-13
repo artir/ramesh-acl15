@@ -1,0 +1,11 @@
+ID: B002P3KVBI-R2KKK61J81Q8AS-A1YKL35EFRDS7K
+Category: Laptops
+Product: Acer-AS1410-2285-11-6-Inch-Windows-Premium
+ReviewerID: A1YKL35EFRDS7K
+ReviewerName: John S. Hodson
+Date: October 30, 2009
+Helpful: 7 of 7
+Rating: 5.0
+Title: SU2300 versus SU3500
+Content:
+I own both this laptop with the dual core SU2300 and the model with the single core SU3500.  The SU2300 feels quicker and has a lower cpu utilization for a given activity than the single core SU3500, but my initial observation is that the battery life may be less (~10%)for the SU2300 laptop.  I'm curious to see what results the formal review sites get.

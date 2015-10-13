@@ -1,0 +1,14 @@
+ID: B0013FLTNS-R3HRYJJ3II5FDV-A858NHQJIE2UT
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A858NHQJIE2UT
+ReviewerName: T. Son
+Date: August 6, 2009
+Helpful: 1 of 4
+Rating: 2.0
+Title: Cool laptop, but over-priced
+Content:
+Mac is a good OS with better user interface and integration than Windows.  Better tech support than some of the larger sellers like Dell, Lenovo and HP.  Smaller target from worm/virus attacks compared to Windows (this doesn't make Mac more secure, by the way).  Better multimedia apps which are already part of the OS.  Nice and hip design.  I can see why so many people gravitate toward Apple products these days.  Personally, though, I can't justify the extra cost for having a "cool" laptop.  And those extra features I mentioned are not enough to sway many seasoned PC users away from Mac unless one has money to burn....so to speak.
+I recently bought Dell Studio XPS16 with following configuration for my wife:   15.4-in screen, 2.53 ghz w/ 1033 FSB, 4 GB memory, 500 gb hard drive @7200 rpm, ATI graphic card with dedicated 512 mb memory.  I paid about $1250 including tax (free shipping).  My wife needs a solid performance to run memory-guzzling applications like Photoshop, Illustrator, AutoCAD and Autodesk Ravit.  
+Similar MacBook pro on Apple website (with smaller hard drive and integrated graphic card) comes out to about $1860 with tax (based on CA sales tax).  One listed here on Amazon.com has lesser hardware specs than current one listed on Apple website, but is still selling for $1500.  You can do the math.  Cool design matters, but not for extra $250 to $600.  
+Apple makes good products and made mundane computing products into something fashionable.  And it also knows people will pay premium to get it.  I may decide to get Mac one day, but definitely not at its current pricing.  It's simply overpriced for what it actually delivers.

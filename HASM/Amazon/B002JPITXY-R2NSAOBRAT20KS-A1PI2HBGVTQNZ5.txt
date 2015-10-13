@@ -1,0 +1,15 @@
+ID: B002JPITXY-R2NSAOBRAT20KS-A1PI2HBGVTQNZ5
+Category: MP3Players
+Product: Zune-Video-MP3-Player-Black
+ReviewerID: A1PI2HBGVTQNZ5
+ReviewerName: NYgto
+Date: December 26, 2009
+Helpful: 0 of 4
+Rating: 2.0
+Title: might be good, but hard to get started
+Content:
+I'm giving a low rating because after a day of wasted time, we have not been able to do what we want to do with the Zune HD, load tunes manually onto the device with autosynch turned off. All instructions I have found say to drag music from your collection (I assume that means from a PC) to the "device icon in the lower left of the Zune software" or to the "playlist icon".
+The device icon is greyed out and doesn't accept anything I drag to it. The playlist icon is nowhere to be seen. Maybe the device is broken or maybe I'm misinterpreting the instructions, but in either case it is too frustrating to be happy with the Zune.
+Update 2 days later:
+We finally accidently hit upon the right thing and are now able to load music and are happy with it, but wasted two days we will never get back. So the low rating is partially for the documentation.
+Another annoyance: we bought and downloaded a movie from Amazon and tried to put it on the Zune. No can do, because of DRM (digital rights media) protection, unless some third party software is used to strip the protection. This is a big minus. The same movie is not available at the Zune marketplace.

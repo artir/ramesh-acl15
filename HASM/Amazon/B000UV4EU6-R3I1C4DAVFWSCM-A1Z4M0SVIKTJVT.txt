@@ -1,0 +1,17 @@
+ID: B000UV4EU6-R3I1C4DAVFWSCM-A1Z4M0SVIKTJVT
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A1Z4M0SVIKTJVT
+ReviewerName: G. Flores
+Date: January 27, 2008
+Helpful: 1 of 2
+Rating: 3.0
+Title: Great product for the price but with several shortcomings
+Content:
+I bought the Zen 4gb almost two weeks ago and I've enjoyed using it for music, video and pictures. For the price, it's a steal, especially with an additional SD card.
+Unfortunately, a few days ago, the on/off switch broke. It somehow got pushed towards the internal part of the player and I'm unable to "pop" it back out. Makes the Zen seem kind of cheap. I had a few other griped. 
+*It's not easy to navigate the media library using only one hand (even worse if you're left-handed).
+*It's also a challenge to navigate the media library in the dark (e.g. in bed before going to sleep)
+*The software is terrible in comparison to iTunes. You have to use different programs to convert and add podcasts
+*I found no easy way to add a playlist (.m3u) to the Zen. I found that Winamp could do this after installing the portable media support plugin.
+*only certain divx, wmv video files work and there's not a huge selection on the Internet, as opposed to the iPod.

@@ -1,0 +1,11 @@
+ID: B0012JNQYK-RIIBLE16C2CXA-A1JVVWZKFLW2WF
+Category: MP3Players
+Product: Apple-iPod-touch-Generation-MODEL
+ReviewerID: A1JVVWZKFLW2WF
+ReviewerName: K. Chu
+Date: May 25, 2008
+Helpful: 24 of 53
+Rating: 1.0
+Title: Buyer be aware
+Content:
+Buyer be aware: IPod Touch only plays video bought from iTune store. If you convert your home video or your own DVD collection to MP4 format and tried to watch, you will NOT be able to. It keeps crashing. It is a shame that Apple never states this fact in the description. After trying many different approaches with Apple techincal support, they finally admitted "videos from sources other than bought from iTune store are NOT supported" even though it is MP4 format.

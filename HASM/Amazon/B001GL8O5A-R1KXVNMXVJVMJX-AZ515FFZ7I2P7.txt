@@ -1,0 +1,24 @@
+ID: B001GL8O5A-R1KXVNMXVJVMJX-AZ515FFZ7I2P7
+Category: Laptops
+Product: Dell-Latitude-E6400-Processor-DDR2-800
+ReviewerID: AZ515FFZ7I2P7
+ReviewerName: Jerry Jackson Jr.
+Date: November 28, 2008
+Helpful: 1 of 1
+Rating: 4.0
+Title: I've been using one at work. It's good, but not great.
+Content:
+The Dell Latitude E6400 is a great performer and a solid replacement for the Dell Latitude D630. It seems to be built well enough to be thrown around in day-to-day use, and it's clear that Dell is trying to improve the Latitude line and offer compelling features ... like 19-hour battery life.
+I really couldn't find any major reason to dislike the E6400, but there are a number of "minor annoyances" that could make some businesses look elsewhere. Although the E6400 proved to be quite durable during several weeks of use, the alloy chassis is thin in some locations which makes the notebook "feel" less durable than it actually is. I'm certain the thinner alloy sections where used in order to keep weight as low as possible, but flex is something you don't want to see in a business notebook.
+Overall, corporate clients who are looking for the next generation of business notebooks from Dell have plenty of reasons to buy the E6400. Dell made every effort to improve the Latitude family, and the E6400 is a great 14-inch business notebook. That said, there is some pretty strong competition such as the Lenovo ThinkPad T400 and HP EliteBook 6930p ... and those notebooks might prove to be better alternatives for some.
+Pros:
+    * Very tough structure and rugged overall chassis design
+    * Excellent selection of ports and fantastic docking station
+    * Excellent battery life ... particularly with extra battery slice
+    * Solid performance
+    * Remains very cool where your body comes into contact with it
+Cons:
+    * Industrial design (although cool) looks a little "unfinished"
+    * Build quality is durable, but alloy chassis feels thin in some spots
+    * ControlPoint software can be frustrating
+    * Trackpoint/touchpoint is better than the one on the D630, but still not great

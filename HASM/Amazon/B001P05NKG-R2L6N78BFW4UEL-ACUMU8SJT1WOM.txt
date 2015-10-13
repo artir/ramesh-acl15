@@ -1,0 +1,14 @@
+ID: B001P05NKG-R2L6N78BFW4UEL-ACUMU8SJT1WOM
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: ACUMU8SJT1WOM
+ReviewerName: philosopher "krishna"
+Date: December 30, 2009
+Helpful: 5 of 17
+Rating: 1.0
+Title: Airport Died after 1 year
+Content:
+I bought this laptop Late 2008, with standard 1 year warranty given all the positive reviews it had received. It was great while it worked. However it seems that just after its anniversary the wireless wouldn't work with my router, which connects to about 5 other PCs without issues. Then the airport card finally gave up and now I get a message saying Airport not installed.
+I now have a laptop without wireless. I am trying to fix it myself, i really cant afford to send it to apple... funny that I can not find parts anywhere. anybody any suggestions on where I could get an airport card for this?... except ebay. Now that is something to consider. For PC's you can get the hardware anywhere..
+After doing some research online.. I found that there were some quality issues with airport in the past too... when brand new laptops wouldn't have airport/bluetooth because someone FORGOT to connect the pins?
+So yeah my advice would be to buy a good warranty on this.

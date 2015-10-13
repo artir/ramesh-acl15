@@ -1,0 +1,20 @@
+ID: B001EQ4BY0-R3U447O9BTD44U-A1TSOJR6YSPL73
+Category: DigitalSLRs
+Product: Canon-50D-Digital-28-135mm-Standard
+ReviewerID: A1TSOJR6YSPL73
+ReviewerName: Peter Witham
+Date: October 13, 2008
+Helpful: 59 of 70
+Rating: 4.0
+Title: Great camera, but think before upgrading.
+Content:
+I upgraded my 30D for the 50D. One reason I chose the 50D over waiting for the 5D MkII was I could use everything I already had for my 30D. So I can continue to use my batteries, grip and remote release.
+The new screen is perhaps the most obvious upgrade to anyone used to a 30 or 20D, the screen is stunningly clear and the higher resolution is obvious from the moment you turn it on.
+The Digic 4 menu system is far easier to get along with compared to previous models, and the user custom menu allows you to configure your favorite options all on one place.
+The 15 megapixel sensor is honestly overkill in my opinion, there is way too much attention pushed to the 'make it higher everytime' by camera companies. 8 megapixels is more than enough for most people out there and big enough for most normal size prints, I've printed up to 13 inches without any problem. The one thing the extra mega pixels does give you is the option to crop closer in post processing.
+Live view is nice, but I'll probably never use it. One of the reasons I like my DSLR over my point and shoot is the way the view finder allows me to see nothing but the shot and compose exactly the way I want without any distractions. Personally I still think Live view is an odd feature to put in a mid to high range DSLR but I can see where Canon would want to target those people used to point and shoot cameras. And most likely is something designed to get slowly move us towards the video/still camera style of which the 5D mkII is the future I'm sure.
+I have to say at first I was some what concerned how sharp the images were at the full resolution, I shoot with the 24-105 F4/L and 70-200 F/4L and both of those lenses are incredibly sharp on my 30D. However I believe now that it is the software that is to blame, I have never been impressed with Canon's software and am delighted that Adobe has released Camera RAW 4.6 to allow me to get back into Bridge and Photoshop CS3. I hope that Lightroom 2.1 gets released soon as that is my normal workflow and image management application. (I do also use Aperture 2 but I am sure that will be a while before it becomes compatible with 50D RAW files).
+The in camera JPEG files are OK...until you see what the RAW files can do, but at times it's nice to use in camera JPEG's when I am just doing point and shot stuff.
+The camera feels very solid, and the build quality is excellent, the main scroll wheel feels much better than my 30D which always felt a little soft on the clicks.
+I am concerned that for the first time today I got the err99 that many have reported and I am hoping it was a one off and not a sign of pending hardware failure in a camera less than one month old, there is plenty of posts out there on dpreview.com discussing these problems and I suggest reading them.
+Overall I am happy with the upgrade (assuming the err99 does not become a problem, I've never had this with a Canon DSLR before), but when it comes down to the images I have to say that I'm not seeing anything that justifies the upgrade price for any 30D owners and certainly not 40D owners. The two main reasons I upgraded are the new screen that finally enables me to check focus and the sensor cleaner (dust was always a problem on my 30D sensor).

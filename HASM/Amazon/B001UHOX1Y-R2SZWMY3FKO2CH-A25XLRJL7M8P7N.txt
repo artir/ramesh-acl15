@@ -1,0 +1,18 @@
+ID: B001UHOX1Y-R2SZWMY3FKO2CH-A25XLRJL7M8P7N
+Category: Laptops
+Product: HP-Pavilion-DV2-1030US-12-1-Inch-Laptop
+ReviewerID: A25XLRJL7M8P7N
+ReviewerName: Susan Rhodes
+Date: February 2, 2010
+Helpful: 
+Rating: 2.0
+Title: too hot, bad touch pad, no PGUP/PGDN
+Content:
+I bought this computer to finish a book. It was adequate but has several things I don't like:
+1.  runs very hot
+2.  poor touch pad; way too much drag
+3.  no dedicated pageup/pagedn keys; this is something I continue to miss
+4.  heat outlet on front left; when I use FN/Arrow up or Arrow Down, my hand is   
+    hit all the time by the hot air.
+5.  awfully slow startup running VISTA (even when in sleep mode)
+I'm returning to Toshiba, which I like a lot better....

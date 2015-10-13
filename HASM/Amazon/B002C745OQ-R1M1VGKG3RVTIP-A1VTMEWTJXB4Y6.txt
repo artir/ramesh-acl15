@@ -1,0 +1,27 @@
+ID: B002C745OQ-R1M1VGKG3RVTIP-A1VTMEWTJXB4Y6
+Category: Laptops
+Product: Apple-MacBook-MB986LL-15-4-Inch-Laptop
+ReviewerID: A1VTMEWTJXB4Y6
+ReviewerName: Parry "laptop freak"
+Date: June 28, 2009
+Helpful: 103 of 108
+Rating: 5.0
+Title: Real improvement
+Content:
+Coming from a troubled Nvidia 8600M GT MacBook Pro - let me say that I was very skeptical buying another Apple Laptop with nVidia chip in it.
+However, one weekend I decided to visit the nearest Apple Retail Store and check out the newly released models. My decision was mostly influenced by the reduced prices and increased battery life.
+After some debating over buying the older model for same price or getting the latest one we settled on the newest mid end $1999 model with 2 GPUs. As is common I got a very nice resale price for my older MacBook Pro as it had AppleCare.
+This generation is an all around improvement over the past generation unless you happen to be using ExpressCard on 15" model that is. In our case we never used the ExpressCard after attempting to use a eSATA card that did not work really well. And we have a few SD Cards that we figure we can easily use.
+So on to the specific improvements over its predecessor  -
+1) Battery Life - I was very doubtful that the battery would last any longer than 4 hours at the maximum but was pleasantly surprised to find that for surfing/email type and the occasional CNN/Youtube flash videos getting 6+ hours was quite easy.
+2) Prices - No doubt prices are the most reasonable Apple laptops have ever had. If you have no need for the dual GPU you can get the $1699 model which comes with a respectable 2.53Ghz Processor, 4GB RAM and a very capable 9400M GPU. 
+3) Operating Temperature - I have owned my share of laptops (Apple and non-Apple) and I have to say this one is the coolest - it never gets too warm and I can use it on my lap all the times - even encoding videos using the HandBrake application did not make it uncomfortably hot. However if I switch it to use the 9600M GPU it gets warmer even on regular use. It also runs very quiet - the fans may be coming on but I never notice.
+Initially there was a lot of furor over Apple's downgrade of the Serial-ATA interface speed (used to transfer data to and from the hard disk) to 1.5Gbps but Apple quickly restored the speeds to 3Gbps - I do not however notice any difference with the 5400RPM hard disk. 
+About the display - it is gorgeous and colors are vibrant. I had the opportunity to use a calibrated color profile to make it look even better. However I find the display to be a little too much reflective but I am coming from almost always using matte display so I figure it's a matter of getting used to it.
+Apple's use of Mini DisplayPort is ahead of its time - not many displays support it and so I had to buy a $30 DVI adapter - not a big problem but Apple should at the very least re-start bundling the adapter with the Pro machines. Also, another USB port in lieu of the SD Card Reader would be quite welcome - people can use the SD Card Reader for only SD Cards, but a USB port can be used for SD Cards as well as other peripherals.
+That said, this generation is overall a very nice improvement - the great battery life itself is enough to convince one to upgrade.
+[ Edited to add some findings after extensive use ]
+After using it for a few months, I find a handful of things moderately annoying about this laptop -
+1) The positioning of USB ports - both USB ports are on one side of the laptop and they are far too closely positioned to use both at once. For example I found I could not attach my Sandisk USB thumb drive and anything else at a time. And I don't have any irregular/unusual devices. They should really go back to having the ports on two sides or at least position them a bit more apart.
+2) The Lid of the laptop is loose - this was known to me before but I never thought it would become annoying. I don't routinely use the laptop in bed but whenever I do it's annoying.
+3) The amount of RAM Apple advertises (4GB) is not actually entirely usable - only 3.75GB is. So you lose 256Mb of RAM for the dual GPU.

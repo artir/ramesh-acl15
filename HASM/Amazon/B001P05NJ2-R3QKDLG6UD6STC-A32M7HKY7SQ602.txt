@@ -1,0 +1,18 @@
+ID: B001P05NJ2-R3QKDLG6UD6STC-A32M7HKY7SQ602
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: A32M7HKY7SQ602
+ReviewerName: J. mcnalley
+Date: April 11, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: The PowerBook is back!
+Content:
+My last portable mac was a 1GHz Titanium PowerBook - the TiBook. Since then, I've been waiting for a suitable replacement. After a few years of weak aluminum G4 "PowerBooks", I switched over to a G5 Tower. A few more years later, I wanted to move back to a portable machine and started looking at the new unibody MBP.
+1. The new MBP is as fast and quiet as a PowerBook should be. The late G4 machines always seemed underpowered at the Apple Store. The early Intel machines were either too loud or too hot. The MBP is just right.
+2. Style is back. The previous generation of aluminum machines always struck me as a matte-gray version of the Snow iBook/MacBook design. That design works very nicely in brilliant white and matte black, but felt clunky to me when executed in aluminum. The new unibody design does a great job of mixing a glossy black display with a block of carved aluminum.
+3. Power too. OSX is Unix and a GUI in one well-integrated system. Everything good about OSX that has been written elsewhere applies here.
+4. Upgradability. Open the battery cover and you have access to both the HD and the battery. 250GB is plenty for me today, but when I can get a 2.5" 1TB drive spinning along at 4200 RPM, the upgrade will be easy. All the screws appear to be phillips now, so I won't need my T8 driver anymore.
+5. Magsafe is a big win. The old power cables were very easily damaged, and easily damaged your mac 
+6. The DVD drive is finally where it belongs - on the side! Actually, I wish I could order a MacBook Pro without an optical drive at all. Who uses optical media anymore?
+7. The new trackpad is simply great. I was going to order a nice laser mouse to go along with the MBP. After 15 minutes with the new giant trackpad, I don't think I'll ever plug a mouse or external keyboard into this machine. I wish apple made external trackpads for desktop computers.

@@ -1,0 +1,17 @@
+ID: B001G5ZTMM-R1FAZL1C6MONZ1-A25C2M3QF9G7OQ
+Category: DigitalSLRs
+Product: Canon-EOS-5D-Mark-II
+ReviewerID: A25C2M3QF9G7OQ
+ReviewerName: Comdet
+Date: December 28, 2008
+Helpful: 20 of 20
+Rating: 5.0
+Title: A very worthy successor to the 5D
+Content:
+I've used and throughly enjoyed a 5D for a couple of years, and have found it to be a simply outstanding full-frame camera. Like a lot of people, I was eagerly looking forward to the 5D Mark II, and pre-ordered one. After using it for a few weeks, I am pleased to report that this is an excellent update to the 5D.
+If you're researching this camera, you've probably heard about the "black dot" problem (basically, some dark pixels to the right of blown highlights). Unless you're printing photos in the several feet by several feet size, you'll never see them. Sure, I'll download a firmware fix when it's available, but in the meantime, I've never encountered even the slightest problem in real-world use.
+Size and controls are very comparable to the 5D - you'll feel at ease very quickly. The viewfinder is fantastic -- bigger, brighter, and a very welcome addition. There are many "under the skin" upgrades, the biggest being 21.1 megapixels. So much more flexibility in shooting, but be prepared for some huge raw files! A processor upgrade (DIGIC 4) keeps things moving along at a good clip. I can't comment on the HD video capture since I'm just dabbling with it at the moment and have essentially no experience as a videographer. But, looking forward to learning. The video capture was just icing on the cake for me - bought it for still photos.
+Disappointments are very few and far between, such as the fact that the battery pack is a different design, so it can't be interchanged with the 5D. Supposedly, it has a longer life, but model interchangeability would be nice to keep the add-on costs down. I also regularly shoot with my 40D and Rebel (with the latter converted to IR), so the greater the interchangeability, the better.
+In short, this is an outstanding camera, and one that will be a welcome addition to anyone's kit. If you already have a 5D and use it a lot, the Mark II is well worth the cost. The kit is a good value versus the body -- the 24-105 f/4 L IS is one of the best walk around lens available. Should you not have a need for it, you can get a good price for it on the used market.
+If you're presently working with a crop sensor camera, you will be amazed at what a full frame will do for you (although, be prepared to spend some coin on some good glass -- once you get the L lens fever, you'll never want to go back!). Keep in mind that the original 5D is still available, and going at a very nice price new (and some outright steals for used bodies). The original is still a fantastic camera, and well worth considering if budget is tight. 
+One final point -- the RAW files are not compatable with CS3. But, the recent update to Lightroom (2.2) solves that problem. No need to update to CS4 just for that.

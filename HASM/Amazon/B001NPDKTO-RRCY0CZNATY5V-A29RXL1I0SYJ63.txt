@@ -1,0 +1,13 @@
+ID: B001NPDKTO-RRCY0CZNATY5V-A29RXL1I0SYJ63
+Category: Laptops
+Product: HP-Pavilion-HDX16-1140US-16-0-Inch-Laptop
+ReviewerID: A29RXL1I0SYJ63
+ReviewerName: Grumpytico
+Date: September 8, 2009
+Helpful: 
+Rating: 1.0
+Title: Dead after 5 Months
+Content:
+I bought this laptop because of the specs.  The case felt cheap and it did not play well with Windows 7, so I sold it to a friend on April 21, 2009.  Today (September 08, 2009) I get a call and she tells me the laptop is not turning on.  After looking on the Internet for "HP Laptop won't turn on" I find that this is a very common issue with HP laptops.
+So her laptop is dead (I suspect the motherboard) and now we have to see how to get it fixed by HP, whose customer support is below mediocre.  Not a good purchase at all, buy a Macbook and run Windows 7 - better hardware and support.
+UPDATE October 20, 2009: Today I called HP and they told me that they will NOT honor the warranty directly, that I must contact Amazon so they can send the computer to HP, which is ridiculous.  So pretty much, if you buy this computer through Amazon, HP will NOT honor their warranty.

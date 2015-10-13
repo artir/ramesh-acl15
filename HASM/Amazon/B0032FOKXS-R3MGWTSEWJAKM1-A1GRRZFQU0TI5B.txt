@@ -1,0 +1,19 @@
+ID: B0032FOKXS-R3MGWTSEWJAKM1-A1GRRZFQU0TI5B
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A1GRRZFQU0TI5B
+ReviewerName: OptGrow
+Date: March 5, 2010
+Helpful: 1 of 2
+Rating: 5.0
+Title: Nice laptop, but HDMI port doesn't work on mine - It works now. Read the additional comments.
+Content:
+As other customers commented, this is a very nice laptop, I would give it 5 Stars if its HDMI port worked. Amazon did excellent job on very quick shipping. The first shipment delivered on the next day. I tested everything, it worked very well except HDMI Port: the HDMI Port didn't work on my home 46" Sharp LCD TV. Then I tested HDMI on two monitors in my office (while other laptop with HDMI works well), it didn't work either. I called Asus tech support, they couldn't get it work either. They issued me RMA and need to repair it. I didn't want a brand-new laptop to be repaired, so I returned it to Amazon and got a replacement the next day - Again, Amazon did excellent job and this is why I always shop on Amazon as my first electronic supplier.
+Guess what, the HDMI Port on the new replacement laptop again doesn't work on my home TV and on monitors in my office while a HP laptop with HDMI Port works very well. I don't want to return it to Amazon again because I should leave some profits to Amazon. I guess either I have bad luck on this Asus laptop or such Asus model laptops have the same problem.
+Fortunately, I am not going to use its HDMI Port anyway because its resolution is low. I got a media player supporting 1080p for my home TV and Projector. While in office, I don't need HDMI Port at all. Therefore, I don't really care about its HDMI Port because it is still a good laptop without working HDMI Port for its price.
+If you do need to use HDMI Port, you need to test it immediately when it is delivered to you. I wish this would help you to get max value from your purchase!
+****** Additional Comments:
+Hello to all Asus fans: 
+Good news is that I finally got the HDMI port work on my replacement laptop. Here is the trick: Install all Windows Updates, reboot the laptop, connect to LCD TV or monitor with a HDMI cable, wait for a short moment, if the "Plug N Play" doesn't work for you (it doesn't work for me), press and hold down "Windows" key (the key between Fn Key and Alt Key and press X key, that is, Windows Key + X Key combination, Windows Mobility Center window will pop up, if you still cannot see any External Display shows there, click Connect Display buttom, it will find the connected LCD TV or monitor.
+I wish the above trick could help those who have HDMI port issues.
+Now my Asus UL30Vt deserves 5 Stars!!

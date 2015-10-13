@@ -1,0 +1,12 @@
+ID: B002TEDANO-R2XR0GQB54QYQN-A3JYLOCC9VMAG7
+Category: Laptops
+Product: Acer-Timeline-AS1810T-8638-11-6-Inch-Display
+ReviewerID: A3JYLOCC9VMAG7
+ReviewerName: C. Keane
+Date: March 29, 2010
+Helpful: 
+Rating: 5.0
+Title: A better "netbook"
+Content:
+Having used a dell mini 9 since first released, and relying on my netbook with all my travel, I had fallen in love with the Mini 9's battery life.  Wear and tear took out that machine, but looking for a replacement I saw the 1810 and was piqued.  However, I had reservations about battery life and weight given the larger size, faster processor, and real hard drive.  However, I would say my battery life has been better, and the weight differential is negligable.  The power supply has a small brick, but not bad - I still liked the built in PS on the mini 9.  All in all I am very pleased, and get consistent 6+ hrs of battery use (offline email, editing in word, working in eclipse, periodic video).
+Other nice this is the laptop doesn't get unreasonably hot, but be sure to respect the vents, otherwise it overheats like older laptops with corrupted screen and input.

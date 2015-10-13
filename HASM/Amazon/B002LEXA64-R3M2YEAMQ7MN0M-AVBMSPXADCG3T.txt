@@ -1,0 +1,13 @@
+ID: B002LEXA64-R3M2YEAMQ7MN0M-AVBMSPXADCG3T
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: AVBMSPXADCG3T
+ReviewerName: C. Shubert
+Date: November 29, 2009
+Helpful: 
+Rating: 4.0
+Title: Great choice for netbook fans
+Content:
+This was my third attempt at finding a netbook that would meet my power user needs.  My first was a MSI Wind that I turned into a "Hackintosh".  While it worked ok, I didn't like the keyboard and trackpad.  My next was a Dell Mini 10, but with only a gig of ram and the HD screen crammed into a 10" screen, it too left me wanting.
+This Acer, my first of this brand, has really been a delight.  I upped the ram to the max, 4gig, and am amazed how fast it is even with Vista HE.  I wanted a netbook that had a HD screen resolution, a full sized keyboard, and the guts to run Photoshop CS4 and Bridge without choking... and boy does this.  Even though the 32bit version of Vista I have only recognizes 3gigs of ram, it still is amazing and quick.  I can't wait to see how this runs with Windows 7.  My copy is on its way and I will load it on as soon as I get it.
+No computer like this will ever be able to do all the heavy lifting like a full sized laptop or desktop unit, that is not their goal.  But to find one that for under $500 will do most of it and still have the ultra portability, well, that is just a good deal to me.

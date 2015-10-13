@@ -1,0 +1,12 @@
+ID: B002OL2LUA-R15DVKCD7HF4QY-A3M5XJMOP7KGLP
+Category: Laptops
+Product: Toshiba-Satellite-P505-S8970-18-4-Inch-Laptop
+ReviewerID: A3M5XJMOP7KGLP
+ReviewerName: Zen Master "a_free_man"
+Date: January 29, 2010
+Helpful: 
+Rating: 3.0
+Title: It's a big and cheap laptop, but not good for LINUX fans !
+Content:
+I bought this laptop at Best Buy for $720!  It's a bargain for its screen size and blue-ray DVD, plus 6 GB memory!  However, the webcam is only at a resolution of 640x480 ( not HD quality).  And the worst part is that I can't get any network adapter ( Atheros and RealTek ) working with the latest Ubuntu !   
+So it's not a bargain for Linux fans!

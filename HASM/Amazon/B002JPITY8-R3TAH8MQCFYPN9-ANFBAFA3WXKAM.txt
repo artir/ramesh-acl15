@@ -1,0 +1,24 @@
+ID: B002JPITY8-R3TAH8MQCFYPN9-ANFBAFA3WXKAM
+Category: MP3Players
+Product: Zune-Video-MP3-Player-Platinum
+ReviewerID: ANFBAFA3WXKAM
+ReviewerName: Kitron "Kitron"
+Date: December 14, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Amazing little player
+Content:
+PROS
+*ZunePass download all the music you want for $15/month, keep 10 songs per month DRM-Free)
+*720p HDMI output
+*Awesome PC software. Unlike iTunes this thing is Fast and a pleasure to use.
+*Good looking device, def has the Wow factor
+*OLED screen (brighter, more vibrant than LCD)
+*Free HD radio
+*XBOX Live integration
+*nVidia Tegra Chip (great graphics, some good looking games are free to download)
+*On-demand music (play music online with your Zune HD, don't need to download it to your hard drive) 
+CONS
+*Needs more Apps
+*A viable SDK is needed for dev and a proper way for devs to distribute their apps. It currently has only XNA support.
+*Needs to support more Hidef formats like MKV

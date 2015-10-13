@@ -1,0 +1,12 @@
+ID: B0015YUMEY-R1ETLJY2U0FAI-A1UVYDMDY3GQYV
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A1UVYDMDY3GQYV
+ReviewerName: banker "banker"
+Date: December 24, 2007
+Helpful: 1 of 6
+Rating: 4.0
+Title: Apple MacBook Pro
+Content:
+Lack of written material makes it difficult for users who are accustomed to Windows to start off.  The Boot Camp Assistant that is supposed to be able to install and run Windows has obvious flaws that users - and some Apple resellers - haven't so far been able to solve.
+The notebook itself is well designed and well made, with excellent graphics.

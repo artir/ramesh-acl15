@@ -1,0 +1,14 @@
+ID: B0013FJBX8-R14PH3CJSDFH21-AC4OVOLC9P2FJ
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: AC4OVOLC9P2FJ
+ReviewerName: Leetsauce
+Date: November 10, 2008
+Helpful: 21 of 36
+Rating: 2.0
+Title: Introducing...The Mirrorbook Pro
+Content:
+No doubt there are some great improvements on this model over the previous model. This includes a much better graphics card, a user replaceable hard drive, larger hard drive options, faster processor, and front side bus. 
+However, there is one glaringly (literally) huge oversight on the design of this computer--that of the glossy-only option on the display. If you use this machine in front of windows, or near florescent lights, you will be faced with HUGE white bands of glare no matter how you position the machine. For a "pro" computer to not offer a non-glossy display (matte) option is UNACCEPTABLE. This is the kind of feature you would find on a consumer notebook, not a "pro" line.
+Sure, it's pretty, but at some point basic function must take priority over visual appeal.
+I've returned mine and I have ordered the previous generation macbook pro for my upgrade. Hopefully by the time it needs to be replaced Apple has come to their senses and introduces a real "pro" notebook.

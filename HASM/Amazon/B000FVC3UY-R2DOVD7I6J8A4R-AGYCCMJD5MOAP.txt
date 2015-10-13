@@ -1,0 +1,11 @@
+ID: B000FVC3UY-R2DOVD7I6J8A4R-AGYCCMJD5MOAP
+Category: SpaceHeaters
+Product: Honeywell-HZ-510-Professional-Ceramic-Heater
+ReviewerID: AGYCCMJD5MOAP
+ReviewerName: T. Johns
+Date: February 16, 2008
+Helpful: 5 of 5
+Rating: 1.0
+Title: Serious design flaw
+Content:
+Yup, my experience is the same as everyone else.  But, as an electrical engineer, I can't help but make my own modifications...  It's got a great heating element, and the fan appears to be good quality.  But, the thermostat is not designed with enough hysteresis to be useful - and it's positioned inside the outer chassis, and outside the inner heat tunnel.  The thermostat is triggered off by heat from the unit itself, not by the ambient room temperature (which would be more ideal for regulating the temperature of a room).  Without hysteresis, the slightest change in the temperature of the bi-metal armature trips the unit off immediately after the contacts become cool enough to close... which energizes the heating element... which warms the armature slightly, opening the contacts and turning the heater off again... you get the picture.  It's also possible that some amount of I^2*R losses contribute to self-heating of the thermostat when the contacts close, which would further increase positive feedback, decreasing the time the contacts stay closed when the armature is near the trip temperature.  I think a little bi-stable hysteresis in the thermostat armature would go a long way to solve the majority of the thermal regulation problems w/ this design.  So, until I can install a better thermostat, I've bypassed it completely.  "Don't try this at home.  I'm what they call a 'professional.'" "...I have years of experience to keep me safe."

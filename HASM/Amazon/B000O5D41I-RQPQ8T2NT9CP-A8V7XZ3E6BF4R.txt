@@ -1,0 +1,11 @@
+ID: B000O5D41I-RQPQ8T2NT9CP-A8V7XZ3E6BF4R
+Category: Laptops
+Product: DV9320US-Pavilion-Entertainment-Processor-SuperMulti
+ReviewerID: A8V7XZ3E6BF4R
+ReviewerName: David M. Burke
+Date: June 24, 2008
+Helpful: 
+Rating: 3.0
+Title: OK Laptop but horrific support
+Content:
+Just got the laptop in. Had to re-image the system.  I'm not much for all the adds and junk.  Good luck on getting drivers.  I needed to move over to a 64 bit O/S and HP just can't get the ftp site operational.  Basically that laptop is just a waste of power until I can get the drivers, so off hunting the internal component drivers from vendors.  Last time I'll buy something like this from HP.  Stick to printers and save the install disks.

@@ -1,0 +1,16 @@
+ID: B002ONCDJM-R19ZT4V7C8P7BM-A1Q98AIK39KPIW
+Category: Laptops
+Product: G61-320US-15-6-Inch-Black-Silver-Laptop
+ReviewerID: A1Q98AIK39KPIW
+ReviewerName: Brian A. Tuftee
+Date: November 27, 2009
+Helpful: 41 of 41
+Rating: 5.0
+Title: Great starter laptop
+Content:
+Just ordered the HP G61-320US laptop from Amazon a few weeks ago, and I'm quite pleased with the overall quality of the machine.  I think it's a great starter laptop, it runs Windows 7 smoothly, boots quickly, and seems to have plenty of processing power.  This is not a gaming laptop, of course, but it's great for internet usage, word processing, etc.  I've found that the touchpad is quite responsive and easy to use, and the keyboard has a nice layout.  The separate numberpad is a nice feature.  Having only limited experience with laptops (from using them at work), I can say that this one is the best I've used yet.  
+The laptop does come with the expected trial software, bloatware, etc... all it really took was about one good evening to get everything set up, update Windows 7 with the latest releases, remove some of the annoying preinstalled HP software.  Also, the laptop comes with a utility to create system restore DVDs, you should run it right away.  The majority of the setup time was spent creating those backup DVDs - it's a very simple, user-friendly process, but it takes time for the software to build the DVD images and burn them.
+I specifically waited for Windows 7 to come out to buy this laptop, and I'm glad I did, things are running very smooth.  Setup of other features (like wireless networking) was pretty easy, owing to the Windows 7 interface.  This machine comes with 3 GB of RAM, which seems more than adequate.  Can upgrade to 4GB if desired, but so far I see no reason to do so, the laptop runs smoothly.
+The viewing angle on the screen is good, but not great, however the overall picture quality is high, and the images are sharp.  Not much else to review on this laptop - adequate number of USB ports (2 right, 1 left), and I haven't used the SVGA or HDMI video output yet, so I don't know how well that works.  Digital card reader worked just fine to read the SD cards out of my camera.  The headphone and mic jacks are on the front underside of the laptop, which is a good access point.  The laptop doesn't seem to get very hot, the built-in cooling seems more than adequate.
+The only real con I can think of is the perhaps slightly undersized hard drive, I would have preferred 320 GB or larger, but honestly, since I'm not going to load a ton of software on here, and I have a desktop that can serve as a media center for DVDs and music, I'm not sure the smaller HD size will end up being a real downer.  Also, battery life is OK but not great, but then again, I don't think anyone is ever really satisfied with the battery life of any laptop!  I find that I can get a about 2.5 hours of casual surfing, and maybe 90 minutes for playing DVDs.  Don't expect to watch an entire movie without being plugged in.  
+In all, I think this is a great starter laptop, or for that matter, a good upgrade if your old laptop is showing its age.  Windows 7 is a pretty slick operating system, with lots of features that I'm still discovering.

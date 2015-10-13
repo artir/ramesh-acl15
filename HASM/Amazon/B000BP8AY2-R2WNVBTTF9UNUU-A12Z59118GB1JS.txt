@@ -1,0 +1,14 @@
+ID: B000BP8AY2-R2WNVBTTF9UNUU-A12Z59118GB1JS
+Category: MP3Players
+Product: SanDisk-Sansa-m250-Player-Black
+ReviewerID: A12Z59118GB1JS
+ReviewerName: Saneless "Saneless"
+Date: January 3, 2007
+Helpful: 3 of 3
+Rating: 4.0
+Title: Great compared to its competition (the shuffle) and playlist problem SOLVED
+Content:
+This is a perfect device for what it should be for - a tiny mp3 player for working out, running, or anything else that could damage a real ipod.  It's also better than what Apple has to offer - the shuffle.  For the same price as the shuffle you get - a screen, 2x the storage, and playlists.
+Everyone keeps saying this player can't handle playlists correctly.. and they were right.  Win WMP I've gotten 1 playlist to stick and sync up out of who knows how many I've tried.
+Here's the biggest tip ever: USE WINAMP.  Winamp sees the device PERFECTLY.  Better yet, it's as simple as right clicking and picking "New Playlist" that you'll have a new playlist.  Go to the songs in the library, control/shift click all the ones you want, and do "Send To -> (playlist name)"  Easiest thing I've ever done.  FINALLY good playlist management.
+I had to dock this 1 star due to the crappy 1/2 power backlight issue (I use rechargables, let me deal with it) and sometimes odd track ordering.  But for competition to the shuffle it dominates (I'd give the shuffle a 3)

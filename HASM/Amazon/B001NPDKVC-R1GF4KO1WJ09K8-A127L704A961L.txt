@@ -1,0 +1,22 @@
+ID: B001NPDKVC-R1GF4KO1WJ09K8-A127L704A961L
+Category: Laptops
+Product: Pavilion-X16-1160US-16-Inch-Processor-Premium
+ReviewerID: A127L704A961L
+ReviewerName: Mark Landry
+Date: October 6, 2009
+Helpful: 0 of 1
+Rating: 1.0
+Title: Too Many Problems
+Content:
+This computer is loaded with features: fancy touch buttons, a built in webcam, a fingerprint reader, etc.  However, I would definitely NOT recommend this for the following reasons:
+ - This computer runs very hot.  Even sitting on my desk, it sometimes overheats.  I know the fan can run faster, as it did when I did a BIOS update.  However, for some reason, the fan speed never increases, regardless of how hot the computer gets.  Seems stupid to have the capability and not use it.
+ - The touch controls are very temperamental.  The volume buttons are especially hard to control.  Worse, the controls frequently act on their own.  The volume occasionally mutes itself and more frequently, the treble/bass control goes crazy, which has the side effect of hanging up the computer.  Moreover, the wireless control is a touch button, and my wireless frequently turns off.
+ - For some reason, this computer crashes a couple times a week.  It starts with a an annoying whining noise, then proceeds to a blue screen, then a reboot.  I figured out that hitting the computer when its making the noise usually prevents it from crashing.  I thought that kind of stuff only happened in movies.  Worse, this occurs far more often when the computer is running hot.  As mentioned above, this computer naturally runs very hot.
+ - Audio/video playback can be very jerky.  For a media computer, this seems like a problem.
+ - This computer is made very cheaply.  The DVD drive sits crooked, some parts of the frame don't line up, certain regions of the keyboard sink in, and the rubber foot in the center on the bottom of the computer is a little to big, making the computer wobble a little.  I could likely come up with more if I really though about it.
+ - One last thing that seems to be common to all HP laptops: you can't adjust the volume until you are signed in.  So if I have my volume cranked up because I was watching a movie, and close my computer without muting, when I open it up again, everyone in a 20 foot radius gets to hear the sound Vista makes when you log in.  This can be an issue if you need to open your computer quietly.
+While this computer is filled with cons, it does have some pros:
+ - The sound is really nice for a laptop (in my opinion).
+ - The fingerprint reader is nice and convenient.
+ - I actually like the way the touchpad feels.  You also get to customize the touchpad quite a bit.
+If you still decide to buy this computer, keep the little cloth thing that was inside of it.  I think it helps prevent the screen from being scratched, as I have not experienced this problem yet.

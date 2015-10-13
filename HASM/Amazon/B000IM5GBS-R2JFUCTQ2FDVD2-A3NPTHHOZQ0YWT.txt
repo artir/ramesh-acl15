@@ -1,0 +1,15 @@
+ID: B000IM5GBS-R2JFUCTQ2FDVD2-A3NPTHHOZQ0YWT
+Category: MP3Players
+Product: SanDisk-Sansa-c240-Player-Black
+ReviewerID: A3NPTHHOZQ0YWT
+ReviewerName: Andrew Rayburn
+Date: July 21, 2008
+Helpful: 1 of 1
+Rating: 3.0
+Title: Great Mp3 Player (for geeks)
+Content:
+For the price there isn't a lot that can beat the Sansa c240.  I bought it because it has a MicroSD slot. (extensible memory is great) The FM Radio, Picture Viewer, and Voice Recorder aren't all that great, but they're fun extras.
+Speaking of fun extras, the biggest boon to the c240 is it's ability to run RockBox [www.rockbox.org] as custom firmware. This is a bit geeky for most users, but since the original interface is horrible, it might be worth a try.  You'll find that your c240 is much more powerful than you thought it could be.
+With RockBox you can watch videos, play games, skin the interface, run simple programs, and still have all the original functions (radio/voice) intact. The biggest limitation is it's screen. At 132x80 you really can't do a lot with it. If you want to show off to your iPod using friends, just show them how your mp3 player can run DOOM.
+I adore my c240 running RockBox, but here's why it's still a 3 star. RockBox is an add-on and isn't terribly easy to get started on. The original interface is horrible. The screen is tiny and lo-res. The USB cord is custom and replacing it isn't cheap.
+Nonetheless, I love my new Sansa c240.  If you're geek who loves to customize your electronics then you will love it.  If you aren't then you might want to pass.

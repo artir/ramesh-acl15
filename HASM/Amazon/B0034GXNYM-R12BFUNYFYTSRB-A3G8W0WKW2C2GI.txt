@@ -1,0 +1,25 @@
+ID: B0034GXNYM-R12BFUNYFYTSRB-A3G8W0WKW2C2GI
+Category: Laptops
+Product: N61JQ-A1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A3G8W0WKW2C2GI
+ReviewerName: A. Lam
+Date: March 13, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: good purchase
+Content:
+You won't find any laptop better for $970 without tax. I've searched high and low for the best one and this is what I got.
+Pros:
+Very strong graphics card, fairly new (couple months old), can handle new games easy
+Very quiet, you might think a disc tray may make noise but I assure you it's quiet
+Extremely fast, quad core i7, 7200rpm HDD, 4gb ddr3 ram
+Great viewing angles for LED screen
+VERY good quality built-in microphone, most laptops built-in mics are terrible
+Numpad
+Cons:
+ATI drivers suck, need 3rd party programs to get into advance settings (unlike nvidia)
+Base idle heat of about 60, which is kinda high. But expected for a quad core i7.
+Somewhat low height of resolution for a 16" screen.
+Alot of useless ASUS bloatware
+Wish the numpad was a little bigger
+Overall the best you could get for the price, you won't find anything near this systems specs for this price.

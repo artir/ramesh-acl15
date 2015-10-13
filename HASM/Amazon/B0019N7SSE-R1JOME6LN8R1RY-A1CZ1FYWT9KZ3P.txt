@@ -1,0 +1,15 @@
+ID: B0019N7SSE-R1JOME6LN8R1RY-A1CZ1FYWT9KZ3P
+Category: Laptops
+Product: Inspiron-1720-Widescreen-Notebook-Bluetooth
+ReviewerID: A1CZ1FYWT9KZ3P
+ReviewerName: A. Hardesty "Alex"
+Date: July 24, 2008
+Helpful: 3 of 8
+Rating: 1.0
+Title: Avoid this like the plague.
+Content:
+I purchased a Dell Inspiron 1720, refurbished, and it has been nothing but trouble since the box was opened. During the "Computer Set-Up" Vista crashed & rebooted the machine. It kept randomly rebooting, without any rhyme or reason: While I was looking at the installed programs; When I tried some of the pre-packaged games (solitaire); When I was online using Windows Explorer; When I was using my Firefox browser. It would restart with multiple programs or a single program running. 
+The obvious fix was to upgrade to Windows XP. Except that this machine is engineered so that it is not backwards compatible with any OS prior to Vista. 
+It was even replaced with another refurbished machine which crashed just as frequently and inexplicably. 
+Then they replaced some of the hardware (CPU & Hard drive) and returned it without reinstalling the operating system or any software.  After I did that the computer continued to randomly reboot.  Now they want to return to the beginning and make me do their diagnostic work for them instead of making good on their poorly designed machine.
+Buy something else instead. There has not been one PC in my possession that has not needed serious effort to get to work at the most basic level, and this machine continues that experience. Save your money & aggravation...buy some other system.

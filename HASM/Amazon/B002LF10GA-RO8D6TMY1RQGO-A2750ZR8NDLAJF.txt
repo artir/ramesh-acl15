@@ -1,0 +1,26 @@
+ID: B002LF10GA-RO8D6TMY1RQGO-A2750ZR8NDLAJF
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A2750ZR8NDLAJF
+ReviewerName: R. Wolfe
+Date: September 7, 2009
+Helpful: 9 of 9
+Rating: 4.0
+Title: *almost* perfect netbook
+Content:
+I loaded windows 7 pro x64 onto this as soon as I got it.  Installation from a USB drive was quick and easy.  Almost all the drivers needed were already included w/ 7, I only needed to update the video driver and the synaptic touchpad driver (to enable multi-touch).
+Pros:
+-The laptop feels very snappy with windows 7.  For general browsing, word processing, etc. it's plenty fast.
+-battery life is great.  I get 6-9 hours with Wifi on and the brightness dimmed to 1/4 from the bottom.
+-the size is perfect.  It's got the same footprint as a textbook and it's light and thin so I can take it everywhere.  Plus, the battery fits w/in the body of the machine so it's easy to slide into a bag.
+-full size keyboard
+-doesn't get very warm.  If it's running full load (i.e. flash video on the web) it will get a little warm, but overall it's much cooler than my old compaq laptop.
+-the screen can get VERY bright.
+-speakers are better than I expected.  They point downward, which I think is bad for sound quality, but the volume isn't that bad
+Cons:
+-The keyboard feels flimsy.  It's hard to feel where the keys are so I often have to look at the board before I start typing.
+-the touchpad doesn't really feel or look any different than the surrounding panel.  It's hardly lowered so you can't really feel where the touchpad is.
+-too glossy!  The outside is glossy so it shows fingerprints, and I not a fan of glossy screens.
+-no bluetooth (though since it's european version comes with it I could probably add a module later)
+While I can't call it perfect, I have no regrets about getting this laptop.  I think it is the best option as of now.
+Use touchpad driver v13.2.6.1 to enable multitouch in 7 x64: [...]

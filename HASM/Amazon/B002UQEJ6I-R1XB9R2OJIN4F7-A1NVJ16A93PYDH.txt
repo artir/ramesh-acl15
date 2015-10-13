@@ -1,0 +1,32 @@
+ID: B002UQEJ6I-R1XB9R2OJIN4F7-A1NVJ16A93PYDH
+Category: Laptops
+Product: Acer-Timeline-5810TZ-4761-Windows-Premium
+ReviewerID: A1NVJ16A93PYDH
+ReviewerName: Ben Stoner "ben_jamin78"
+Date: January 10, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: Balance of speed and battery life.
+Content:
+I typically use the computer for listening to music, hooking the hdmi to my tv to watch 720p movies, building web sites with Microsoft expression, downloading a lot of content from the internet, use video conferencing, and use remote desktop to connect to and fix other computers.
+Pros
+- dual core does an excellent job of multitasking for a 1.3Ghz low voltage
+- chicklet keyboard is a pleasure to type on, just the right feedback
+- never gets warm or loud under any condition
+- actually will last up to 8 hours
+- very solid build quality
+- includes multi touch track pad
+- very thin and light
+- very fast wifi with draft N technology
+- bright screen
+- very stable with Windows 7
+Cons
+- cpu can easily hit %100 usage if playing videos (1080p files skip)or heavy multitasking
+- GMA 4500 video provides only basic capability and kills your windows index score
+- screen quality has limited viewing angles and is some what washed out (it is average compared to other notebook screens, however not a deal breaker)
+- difficult to see keyboard in low light (needs back lighting)
+- lacks bluetooth and esata ports
+- multi touch trackpad gestures do not work as well as they should
+- trackpad button is very stiff and can wear down your thumb or fingers
+- speakers are very soft
+Overall if I had to make the purchase again, I definitely would. Why? For such a low price it does an excellent job of combing good performance with amazing battery life. This is my first Acer and I am very happy so far. However, I still need a powerful desktop though for heavy duty work and bluray ripping.

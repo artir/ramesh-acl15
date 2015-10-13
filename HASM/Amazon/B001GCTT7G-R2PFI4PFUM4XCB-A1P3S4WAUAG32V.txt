@@ -1,0 +1,26 @@
+ID: B001GCTT7G-R2PFI4PFUM4XCB-A1P3S4WAUAG32V
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A1P3S4WAUAG32V
+ReviewerName: Traveller "Where in the world are you today?"
+Date: November 2, 2008
+Helpful: 11 of 15
+Rating: 3.0
+Title: Too expensive for what it is
+Content:
+Briefly:
+The good:
+(1) Aluminum body feels sturdy and solid
+(2) Liking the new pad, wish it didn't have the effect, don't like the friction of the surface (move your finger over the touchpad vs the aluminum body)
+(3) Mac OS X :)
+(4) Form factor. The 15.4" are way too bulky, the 13" is just right - lightweight and portable
+The neutral:
+(1) The brightness adjustment of the screen is too responsive - if you're sitting with your back to a lightsource, every time the book moves or your body moves will change screen brightness noticeably.
+(2) Don't like that I can't move the screen all the way back into the horizontal. Depending on how I sit, that's a very natural way for my to type.
+(3) I can sort of live without firewire. It's lame and I'll need to sell some of my hardware, but I can deal.
+The bad:
+(1) The screen. I could live with the glossiness, but the viewing angle is bad. A much larger/higher resolution screen would have fit the form factor if not for the insanely large bezel around it.
+(2) Battery life: with my factory new macbook, I get about 2h at best. Compare to the advertised 5h.
+(3) Lack of a card reader of standard video ports. This is a huge deal if you bought the book for it's small form factor, because now you'll have to carry around lots of accessories all the time. How the Hardware Designers justify not adding $10 in everyday use parts to a 1300 USD machine is beyond me. Ouch.
+(4) UPDATE: Recurring hangs when resuming from sleep. About one in every 30 times I close the lid, the macbook will either show a black screen or a spinning beachball upon reopening, with no recourse except a hard reset. Very disappointing :( I guess the lesson here is the old "never buy a v1 product from Apple" adage.
+Overall, nice enough not to return, but not worth the money I paid for it. If you can, wait 8 months for the next generation which will hopefully fix some of the design decisions that went into this product.

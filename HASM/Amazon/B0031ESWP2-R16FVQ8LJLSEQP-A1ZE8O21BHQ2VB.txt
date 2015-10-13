@@ -1,0 +1,26 @@
+ID: B0031ESWP2-R16FVQ8LJLSEQP-A1ZE8O21BHQ2VB
+Category: Laptops
+Product: Pavilion-DV6-2162NR-15-6-Inch-Laptop-Up-Battery
+ReviewerID: A1ZE8O21BHQ2VB
+ReviewerName: J. Tanenbaum
+Date: March 29, 2010
+Helpful: 9 of 9
+Rating: 5.0
+Title: Very pleased - all expectations met
+Content:
+This is a very nice laptop.  Here are the highlights:
+The Core i3 runs cool and fast
+The 15 inch screen is bright and clear
+The 500GB hard drive is a good size and is also 7200 rpm (many laptops in this price range are only 5400rpm)
+The keyboard is comfortable and includes a number pad.  At the top is a smooth touchpad style volume control/mute button.
+The synaptics trackpad is somehow different than others that I'm used to, being made of a shiny silver material, but works just like any other; it has a dedicated vertical scroll area, but does not seem to support two finger scrolling, even after installing the driver support for it.
+Not too much preinstalled junkware to remove.
+Good amount of ports (4 USBs, one which handles eSata, plus an HDMI port) in addition to the standards you'd expect on a laptop.
+Speakers are nothing special, which is to be expected, but the computer comes with a small remote control that can be used to control audio and video playback.  I haven't messed around with it much, but it might only work on the preinstalled HP media software.  The remote can be conveniently stored in the express card slot on the left side of the computer.  There is a nice dedicated volume/mute 
+Fairly lightweight.
+Wireless-N capability
+Negatives? Not much really.
+It won't handle heavy duty gaming, but that's not what it's designed for.
+This model doesn't include Lightscribe or bluetooth, which is important to some people.
+You can definitely see fingerprints and I could do without the bubble graphics, but it's still a very sleek looking computer.
+I compared this to a number of other similarly priced laptops (mostly other HPs, Dells, and Sonys) and feel pretty confident that I made the right decision.

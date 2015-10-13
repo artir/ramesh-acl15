@@ -1,0 +1,15 @@
+ID: B000K72JSO-R3J2O3LWMHWRQY-A1XMVTWULFCKSU
+Category: Laptops
+Product: Gateway-MX6453-Notebook-Computer
+ReviewerID: A1XMVTWULFCKSU
+ReviewerName: D. Seabolt "DS-"
+Date: February 28, 2010
+Helpful: 1 of 1
+Rating: 3.0
+Title: Not bad, not great!
+Content:
+Pros:  Memory door gives you access to the CPU, too (good construction design).  Rigid case.  Attractive finish and design.  AMD Socket-S1 platform.
+Cons:  Keyboard is hard to get too -- of the 20 some laptops I've worked with, I dislike the ergonomics of this one the most.  Over a period of time, the paint wears off of the palm rest exposing ugly gray-white plastic streaks when used frequently.  Power adapter socket is soldered directly to the motherboard -- over a period of time, bumps and tugs to the plug work the connector loose from the motherboard, as opposed to being connected by a wiring harness.  A poor construction choice.  Re-soldering is a challenge and involves extra material to reinforce its grip on the board.  Simply replacing the board costs $175 in 2010.
+Mine started out as a MX6439 (Sempron with 512MB ddr2-400.)  AMD's Socket S1 platform dictates that the memory controller be built into the CPU rather than the chipset.  This is a good thing, as memory upgrades rely more on the CPU than the system maker.  Sempron wouldn't let me upgrade to 2gig system ram unless I bought the memory from Gateway ($300).  Turion 64x2 TL-52 allowed me to use over the counter Kingstons from Best Buy ($120).  The CPU upgrade, by the way, only cost me $20 from Ebay.  And, it was as easy to replace as the memory (no braking open the case)  Oh, and I had to get a 90 watt power adapter from the same place for $15 to handle the added demand of dual core.
+Performance was great.  It's not a gamer by desktop standards.  But you can feel the raw muscle of twin Turions when you start working several apps at the same time.  System specs for the Gateway MX64xx socket S1 series state that 2gig is the max in memory.  I've tested it with 3 gig, and it works fine.  Keep in mind that with 3 gig (1gig stick + 2gig stick), you loose dual channel memory access for the mismatch.  Dual channel brings up another point.  The specs I saw from gateway stated that it does not support dual channel memory access.  I installed a matched pair of 1gig sticks and got dual channel access.
+Summery:  I think replacement parts specific to this particular brand are overpriced on Ebay even with totally trashed models. I saw one that looked like it had been run over by a car sell for $125 -- not a piece of it was salvageable.  It's a sharp looking laptop when clean.  Power connector is something to be handled with care.  Keyboard is awkward in my opinion.  I believe it has upgrade potential to 2.5 GHZ dual core and 4GB DDR2 system ram, but I can only verify 3GB.  If I were to sell mine today, I wouldn't part with it for less than $250, and would hold out for $350 in good cosmetic condition unless I was really in a hurry.  Being limited in HDD speed by the EIDE interface (PATA) I would not expect even a fool to pay more than that.

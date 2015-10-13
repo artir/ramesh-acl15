@@ -1,0 +1,14 @@
+ID: B0030INLSW-R18U5ZWSS6RFI0-A3MBJTOL76EZQN
+Category: Laptops
+Product: Toshiba-Satellite-L505-GS5037-TruBrite-15-6-Inch
+ReviewerID: A3MBJTOL76EZQN
+ReviewerName: Working Dad
+Date: February 28, 2010
+Helpful: 46 of 47
+Rating: 4.0
+Title: Good laptop for the price
+Content:
+I got this laptop about 1 week ago, and I am generally pleased with the quality.  Everything worked smoothly out of the box, and it's been working flawlessly with my wireless N D-link router.  Toshiba's functions key controls for hibernating, changing video output, etc are well designed and intuitive to use. 
+On the minus side, the speakers are a bit tinny sounding.  The video output is adequate for casual movie viewing, but will not satisfy someone looking for HD like video.  This notebook has integrated graphics without a discrete video card and would not support high end games with 3D graphics.  I also could not get an older game like diablo 2 to work.  Additionally, Toshiba does note recommend trying to upgrade the video card (although it's possible), and doing so would void the warranty.
+On a side note, I tried this computer with Toshiba Dynadock and did not find the speed sufficient for smooth operation.   I would not try to dock this computer, or in general any computer that is not designed to be docked.
+Overall, this is good computer for the price.  It will be good for work and casual video viewing, but do not plan on playing games or using it for watching high quality video.

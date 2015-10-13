@@ -1,0 +1,26 @@
+ID: B002PHM3RY-R2I1K96HESPTAE-A3R30JD03L26N4
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS1810TZ-4013-11-6-Inch
+ReviewerID: A3R30JD03L26N4
+ReviewerName: Paul Taatjes "Ptaaty"
+Date: October 31, 2009
+Helpful: 63 of 64
+Rating: 5.0
+Title: the perfect portable
+Content:
+This ultraportable rocks.  I have a nice laptop core2duo 15.4" with Blu-ray, etc...but I started to realize I needed portability and battery life for use on the road and around the house.
+Why this laptop is "perfect" for me on the go and around the house off the plug:
+1.  Small form: barely over an inch at the thickest, just under 3.1 lbs. 
+2.  Battery life: this is huge.  The screen seems very bright.   I am using it surfing the web on wifi and after about an hour and a half it still says over 9 hours of battery life.  On the plane...I watch over 3 hours of high quality DVD rips (over 1 gig an hour mpeg4), plus an hour of full screen flash based "Peggle Nights"...and still over 40% battery left.  
+3.  Keyboard is full sized (other than directional keys), touchpad multi works great
+4.  Real premium windows 7.
+5.  HDMI, 1080p, full uncompressed multichannel PCM audio.  It actually plays bluray quality clips...no netbook outside of an ion based can get close to this
+6.  A solid dual core CULV processor.  Each core can easily best an Atom 1.6Ghz
+7.  Real specs...3 GB RAM, 320GB HDD.
+8.  Screen.  Awesome...no more scrolling when surfing or incompatible apps, a real usable res.
+Cons.
+1.  No optical drive.  this is expected on something this small and light like a netbook, but it is still a con
+2.  Cost.  All these real specs, win7, comes at a premium over a netbook.  Still it does what other ultraportables do at a third their cost.
+3.  Processor trounces Atom based, but forget real games on it, it still uses integrated gfx...while they are optimized for video, they don't push polygons.
+4.  Case lid.  While it makes a good picture, the glossy finish of the lid is a fingerprint magnet.  I am looking into a few options to reduce prints (car wax, skins, etc)
+Overall...I can't be more happy I went for it.  The only other option that was a contender was the HP mini 311.  It also has the same type of 11.6 higher rez screen, HDMI with 1080p processing.  But it falls down because while base is $400, that is without bluetooth, without wireless N, with only 1GB RAM, 160GB HDD, winXP, and considerably lower battery life (30-40%), AND a far inferior atom N270.  Really no contest...

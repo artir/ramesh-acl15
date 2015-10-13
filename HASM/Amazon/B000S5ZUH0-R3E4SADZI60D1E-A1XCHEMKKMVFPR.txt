@@ -1,0 +1,18 @@
+ID: B000S5ZUH0-R3E4SADZI60D1E-A1XCHEMKKMVFPR
+Category: MP3Players
+Product: Archos-Wi-Fi-Portable-Media-Player
+ReviewerID: A1XCHEMKKMVFPR
+ReviewerName: Prime Risk "primerisk"
+Date: January 17, 2008
+Helpful: 3 of 3
+Rating: 5.0
+Title: Archos: the ipod touch killer
+Content:
+I received the Archos 605 WiFi 30GB for Christmas and I am very impressed with the bang for the buck.  
+The good:
+This is a well designed product that seems to be build very solidly.  The image the screen produces is phenomenal.  High resolution, excellent dot pitch, vibrant, well back lit, and viewable in all lighting conditions.  The responsiveness is excellent and the touch screen sensitive.  The box includes all of the cables and components to get you going and it actually includes a printed manual that is useful.  In addition the Archos is pre-loaded with the unabridged version of the manual in PDF format on it.  But you probably won't need it for much.  The Archos is very intuitive to use.  The UPnP features work great for streaming media to your Archos.  Just setup your Windoze box with Media Player 10+ and set it up to share.  MAKE SURE YOU OPEN THE PORTS IN YOUR FIREWALL SOFTWARE and very shortly you'll be asked if your Archos 605 should be allowed to access media on your computer.  Seconds later you'll be able to view any picture or play any video or audio file that the Windows Media Player has in it's library.  Wait until you get to play with the Archos content portal.  Of course they want to sell you stuff, but the free part is the best!  Just click on DailyMotion and enjoy.  It is YouTube for your Archos.  (Check out archos.dailymotion.com)  On top of everything, the battery life is great.
+The Not So Good:
+The WiFi is pretty good...as long as the Archos likes your wireless router.  There have been some software upgrades that have made the WiFi more compatable, but you may be forced to change the encryption scheme to get the Archos to play nice.  I had to change from WPA to WPA2 on my router at home.  Oddly, I have not run into any challenges at public WiFi locations.  I was a bit frustrated that after purchasing the device that I was expected to spend more to get additional codecs and the opera browser.  But at the end of the day I don't need the codecs and Archos is using a leveraged model that allows the unit to be cheaper for those of us who don't want or need the other features.
+Why did I give it 5 stars instead of 4?
+Wow, that was a hard one.  The device is rock solid and has exceeded my expectations in the value department.  I was a bit frustrated with the WiFi problems I had,but that has been worked out.  I was also put off by the fact I had to pay for the browser, but I thought about the value proposition and decided that had the product been $30 more expensive to begin with and included the browser I would have still thought it was a great value.  So, it is not a *perfect* 5 stars, but closer to 5 than 4.
+If you're on the fence about buying one, just do it, you'll love it!

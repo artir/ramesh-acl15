@@ -1,0 +1,27 @@
+ID: B002C747XA-R3JERX13E7T0W3-A37PZ1EQV1TET7
+Category: Laptops
+Product: Apple-MacBook-MC234LL-13-3-Inch-Laptop
+ReviewerID: A37PZ1EQV1TET7
+ReviewerName: A. Barkaloff "abarkalo"
+Date: October 25, 2009
+Helpful: 33 of 33
+Rating: 5.0
+Title: who this is for--
+Content:
+First of all, make sure that the battery is working properly.  I just returned one with a bad battery -- it kept telling me that there was no battery present and also the system kept stalling.  But i did play around with one that worked properly.  
+ I'm only going to speak about the SSD (higher end) version.  If you are going to get this MacBook Air, I completely feel that you are wasting your money buying the lower end version.  The lower end drive is terribly slow and feels underpowered whereas the SSD drive version beats a faster MacBook Pro with a HDD.  To further illustrate, the Macbook Air SSD opens up Adobe Photoshop in 3 seconds.  Word in 2 seconds or less.
+So here are the pros:
+--super, light...it's addictive, wonderful.   You'll carry it everywhere, annoyingly so.  
+--good battery life.  I think the battery life in real world conditions even beats out the 7 hour battery of the Macbook Pro.  Seems to use less battery and more intelligently
+--AC converter is also light to carry around (but i still think it should be lighter)
+--sturdy, and able to comfortably hold with one hand
+The cons:
+--don't use this for multimedia, other than simple video, YouTube, etc.  If you try playing HD video on this machine loses frames
+--the speakers!  sorry, the speaker.  don't use this machine for presentations that involve sound.  hard to hear in a busy environment (such as trade shows).   really i think this is the worst con!
+--the USB port is hard to reach, difficult for those USB Verizon/Sprint/AT&T mobile broadband sticks.   You have to use with a cable.  But i think this is just a little cosmetic issue
+The non-issue issues:
+--lack of DVD drive.  Other than installing software or viewing DVDs that someone wants to you watch then and there, how many times do you really need to do this?  If the answer is frequently, then this machine is definitely not for you (go with a Macbook Pro).  If occasionally or infrequently then the networked DVD drive (using Bonjour) works really well.  If you feel a need to get a portable drive, then don't get this machine.  It wasn't meant for this, really.
+So, who is this for?
+--writers!  Screenwriters, students, business writers, writers, period.  This is the funnest machine to use if you are a writer, period.  you will love the ability to take this everywhere, put in a small, light bag, just open it up and start writing, either in Word, Pages, Final Draft, etc.  (I HIGHLY recommend using a service like Dropbox -- [...] -- so that whatever you write is automatically synced over the air to your home desktop, automatically! -- no need to worry about losing your work ever!).   
+--traveling business people who need to show off pictures, electronic brochures, etc.  Even to walk around shop floors and plop that Macbook Air out of a bag, hold in hand as you are walking
+--road warriors, photographers on the road, journalists, etc.

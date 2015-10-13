@@ -1,0 +1,58 @@
+ID: B001XURPQS-R11VM8GH42SIY5-A1TXB9ZRGF3MMY
+Category: DigitalSLRs
+Product: Canon-T1i-Digital-18-55mm-3-5-5-6
+ReviewerID: A1TXB9ZRGF3MMY
+ReviewerName: smithnwesson "Tom"
+Date: May 4, 2009
+Helpful: 306 of 335
+Rating: 3.0
+Title: Video Problems with some sdhc cards (especially Kingston), You may miss some good shots unless you use sandisk extreme lll.
+Content:
+**see update below, now give this camera a 4 star
+**** Video Test memory consumption rates and max minutes per clip  contained below.
+I couldn't wait to my hands on the new Canon T1i. It was a stretch for my budget but had most of the 5d mkll features. I was excited. I pre-ordered a body (I already have 2 xti's and lenses) but the only the kits are/were available so I upgrade to get it before a SciFi convention I attended.
+Higher iso and video, for the less than optimal lighting in the hall where the Celebs were speaking, attracted me. 
+I tested the video for memory consumption rate the day I got it, no problem for a 20 minute test run. I saw a little white bar on the right side of the screen appear get a little bigger, then disappear. I figured it was a buffer level. Next day at the convention during Jeri Ryan's appearance I took a few stills and flipped into the video mode, nice.... until it stopped after a few minutes. Set it back up, pushed record again a few minutes later stopped, no warning, no beep, just stopped. Try again, now I notice the buffer bar reaches the top, it stops. I am using a kingston 8 gig class 6 sdhc, freshly formatted by the camera. That sucks! I missed a lot of good video because this new marvelous camera can't write fast enough. This occured on 2 different but identical cards so I thought the camera was having problems. It was on the 720p mode, 1080 mode could only go 8 seconds.
+****Update---I talked to Canon, to make a long story short, this camera is a bit finicky about which cards you put in it. Both kingston class 6 (fastest class) had problems, tried a kingston micro class 4 (slower) 4 gig and it worked fine, tried 2 Polaroid/pny 8 gig class 4's and they worked fine with only 1 buffer bar appearing occasionally, even on 1080. Canon guy seemed to like the sandisk brand. This begs the question of how can a class 4 work better than the class 6? I have a sandisk extreme III on order and will update this info if I have more problems with that.
+My wrath now turns to Kingston, who service has been xlnt.
+***update kingston- I returned a card to kingston, they sent a new one just as bad as the slow originals, which indicates ALL this type kingston are mot going to work in this camera for video.
+******Another update, with a Sandisk 8 Gb Extreme lll card the video worked fine, no buffer bar at all. Perhaps there should be a recommended list of sdhc cards so others don't have the trouble I did.
+That said, I was able to test the video as follows:
+I have tested my T1i for memory usage in video mode, here are the results using a Sandisk 8 Gig Extreme III:
+T1i Video Memory Usage Rates for a 1 minute file.
+1080 mode 282 MB
+720 mode 194 MB
+480 mode 131MB 
+Following is for 5 minute file
+1080 = 1,383 MB
+720   = 988 MB
+480   = 638
+Any 1 clip can be 4GB max, so the following is an approximate max clip length
+1080 about 14 minutes
+720 about 20 minutes
+480 about 30 minutes
+These figures are approximate as the content of the video will affect the compression and amount of memory actually used but these are pretty close to an average time you should expect. I did a little rounding so these are probably the on the low side you may get a little more time, but not much, maybe a minute.
+You can shoot as much video as the card will hold, just any 1 uninterrupted clip cannot be longer than 4 gig.
+Shooting Video also eats the battery, buy extras, one Battery per every 8 gig card should be about right.
+Bottom line-MAKE SURE you thoroughly test and 'season' the memory card BEFORE counting on getting complete videos. The first cards I tried did work on day 1 for 20 minutes but the buffer bar got to 3 or 4. Day 2 (the convention) was a different story, you read it above. DO NOT use KINGSTON CARDS.
+Stills are pretty good but I noticed on blowing them up the noise almost looks like dusty distorted scratchy marks on the sensor, not just the colored freckles. My XTi is better, My Nikon d200 is better, my Nikon d40 is better in the noise department. I cranked up the iso to speed up my shutter and some of the shots looked like very dirty/dusty slides I have from the 70's. I guess you can choose between the noise or slow shutter speed with the movement blur, or both. See the customer images for a sample of the noise at 6400 iso.
+****update on stills 
+Still shot Capacity on 8 gig card
+Large + RAW =286
+Just RAW = 359
+Large = 1375
+Medium = 2334
+Small = 4175
+* if you shoot any video mixed with the stills these numbers drop very fast.
+Other review sites had a pre-release version of this camera and they had the same video problem, (they did not name the sdhc card they were using, but I'd bet it was a kingston). Unfortunately there were not any reviews of actual cameras when I ordered it, just press releases. Now you have been warned and now you have this review. When you lose the video as the couple says 'I do' or other critical moment, you'll curse too.
+***I currently put a SanDisk 8 gb sdhc extreme III rated at 20 MB/Second, far and above the minimum class 6 rating of 6MB/sec, it seems to work flawlessly today, we'll see about tomorrow, but this showed no signs of the buffer bar on the side, looks promising!
+***update SanDisk still working xlnt.
+If you are going to do Video, and it important at all, I can only recommend the SanDisk 8 gb sdhc extreme III at this point. Just be warned that the video mode is very demanding and picky about the performance of the card, just the class rating is not to be counted on, as I found out the hard way. Some class 4's may work, even class 2's but that buffer bar will start showing up. 
+>>>>>>>> Be Safe Buy the Sandisk Extreme III.
+>>>>>>>> Another user says Transcend 16GB Class 6 SDHC is performing well in video
+>>>>>>used A-Data class 10 sdhc 8GB card with no problems
+>>>>>>WARNING ---Centon Class 6 16GB SDHC crashed and as slow as Kingston DO NOT use CENTON cards, they do NOT comply with the speed rating.
+>>>>>>Polaroid/pny 16GB Class 4 cards work OK as long as you do NOT take a still pic while videoing.
+***Notes on Video File format generated by the t1i-
+This camera saves the video in .MOV files, which is fine if you have an apple/mac, BUT if you run xp, you must convert this format file to something else (avi, mpeg,...etc)in order to make a dvd with the commonly found software. Canon DOES NOT provide any software to deal with .mov conversion or transferring to a dvd to be played by a dvd player. This makes life a lot more complicated. Sure you can search around, get a file converter, then import to a dvd maker, then burn a dvd. Why should I have to search for these utilities and go through all that? Why couldn't canon have just put a simple dvd transfer or mov converter program in the bundle? Or have I just not found it yet? 
+Canon, please remember, K.I.S.S. is a good principle.

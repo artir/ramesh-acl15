@@ -1,0 +1,28 @@
+ID: B002LEXA64-R35NYV4DN40FCM-A3N3VSX78JXDWU
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A3N3VSX78JXDWU
+ReviewerName: Greg Molecke "Greg in ABQ"
+Date: September 2, 2009
+Helpful: 17 of 18
+Rating: 5.0
+Title: Great Step Up From A Netbook Without Getting Too Big
+Content:
+I've had this computer for a few days now, and so far I am really pleased. We needed something super small and light, but just couldn't pull the trigger on a netbook because of their drawbacks, but this computer is the first of t next generation of reasonably priced half-netbook/half-ultaportable laptop, and it has satisfied all of my concerns:
+First, most netbooks have an Atom-based processor, which can choke on anything flashed-based, and they get bogged down when you have multiple applications/tabs. This computer has the Intel Core 2 Solo processor, which is a rare step up usually only found on more expensive computers (it is the same CPU as the $700 MSI 340 http://www.amazon.com/MSI-X340-021US-Slim-13-4-Inch-Laptop/dp/B0028ACYKE/ref=sr_1_1?ie=UTF8&s=electronics&qid=1251918611&sr=8-1). This makes it hugely faster than almost every other netbook. Combined with it's extra 1 GB of RAM (2 total) it is capable of running Windows Vista and is eligilbe to upgrade to Windows 7 when it comes out. I watched streaming HD video on one half of the screen last night,and surfed in multiple tabs on the other half of the screen and didn't find it slow at all.
+Next, I have also seen how the 10.1 inch screen can make you feel like you are constantly scrolling up and down to veiw websites. On this size screen, especially with the HD resolution, it just feels like you are seeing a slightly miniaturized version of the full site. It also has mouse gestures so it is super-easy to adjust your text size, if it seems to be to small on a specific site.
+Next, most netbooks only have wireless b/g capabilities, but this one also includes draftN, so it is faster if you have a draftn wirless adapter. The inclusion of an hdmi port also is a relatively rare feature on a netbook, but something I was looking for.
+The keyboard is just fine, it takes a little while to adjust, but all keyboards do. The touchpad is just fine, although it is the same color as the rest of the computer, so you have to find the edges of the touchpad by feel rather than sight (I actually like the way it makes it look though. Plus, it supports multi-touch gestures, which is really nice.
+The webcam is also a little higher quality than in a traditional netbook - basically it can ahndle lower ambient light levels.
+The speakers are actually pretty good - my wife was streaming pandora, and it was surprisingly loud and un-tinny.
+Battery - this is the one area where it is not as good as the better netbooks. Running it hard, we've been getting about 4.5-5 hours on the battery. It comes with three power plans: "Balanced," "Power Saver," and "High Performance." We've been on "Balanced." The power adapter is super small and light, however.
+My wife had a big issue making sure that this wouldn't be hot on her hands or on her lap, and this one is just fine.
+We bought the red version, and the color of the picture in amazon is way off. The case is a pearlescent red, but definately not a jeweltone. I would say it is much more of an earthy red, with a bit of brown and maroon in it. If I could go back and do it all over again, I might switch to the blue.
+So why did we choose this computer over all the other choices? Here's the other computers we considered, and why we chose this instead:
+Vs. Asus Eee PC 1005HA  - This is the next best other netbook (followed by the Asus Aspire Ones), but the 1410 is better in every way performance wise except batametery. Really it was the Atom processor and 1 GB of ram in these two that became the dealbreaker, and pushed us to spend the extra $60 for the 1410. 
+Vs. almost all other netbooks - all other netbooks beat out by the Asus 1005, and this beats that.
+Dell 11x 11.6 laptop - this one isn't on amazon, but it's Dell's next step up laptop - but the processor in the Dell is noticeably less fast than the battery life is noticeably shorter. Dell also has a 4.2 pound 14.1 Inspiron that we looked at, but decided it was a bit too big, and too expensive.
+We also considered going one more size up to the:
+Vs. MSI 340 13.4 inch screen - The MSI is thinner, has roughly equivalent features, and bigger screen in a super sexy package, but +$250 and battery lasts much less.
+Vs. Aceer Aspire Timeline. again, roughly equivalent performance, bigger screen, but +$150, and isn't as thin as the 1410, and really isn't as thin as the MSI.
+Everything else that was more powerful was much more money.

@@ -1,0 +1,12 @@
+ID: B0000X7CMQ-R134CGVVRLZF5C-AQXU9NSDEUR30
+Category: CoffeeMachines
+Product: Zojirushi-EC-BD15-Thermal-Carafe-Coffee
+ReviewerID: AQXU9NSDEUR30
+ReviewerName: Charles T. Grayson
+Date: September 11, 2009
+Helpful: 
+Rating: 3.0
+Title: Improper Brew Temperature
+Content:
+Starting with 10 cups of room temperature water, the machine initially dispensed hot water at 185 degrees, with the temperature climbing slowly throughout the cycle.  However, it didn't hit the optimal range (195-200 degrees) until the very last cup.  Another commenter remarked about how routing the hot water feed through the cold water reservoir was a poor design because it tended to chill the just heated water; I guess this explains the better performance as the water level dropped.  I tried heating the water to 100 degrees before pouring it into the reservoir, but this had negligible effect.
+I plan on returning this unit.  (Honestly, how hard can it be to heat water to the proper temperature?)

@@ -1,0 +1,11 @@
+ID: B001RCUGLI-R3M2IJFWZD1HPC-AEDOM2D2WUIKA
+Category: MP3Players
+Product: Philips-SA2446BT-37-Player-Bluetooth
+ReviewerID: AEDOM2D2WUIKA
+ReviewerName: JM
+Date: September 29, 2009
+Helpful: 7 of 9
+Rating: 2.0
+Title: No Bluetooth headset support.
+Content:
+Only when you goto the Philips web-site, will you discover the number one question NOT posted in the specs: No Bluetooth headset support.  i.e. No A2DP profile support. You cannot connect this device to any bluetooth headset. Buyer's remorse.

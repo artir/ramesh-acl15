@@ -1,0 +1,13 @@
+ID: B0013FLTNS-R1DUONHOD5QQR2-A10RGGBA9MIQ26
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A10RGGBA9MIQ26
+ReviewerName: Nick "CellGeek"
+Date: March 7, 2008
+Helpful: 36 of 47
+Rating: 5.0
+Title: This is not a review, just a warning about 17" Macbook Pro screens
+Content:
+Hi everyone.  I am the happy owner of a 15" 2.2 GHz Macbook Pro from the last generation.  I am upgrading to the 17" in the near future.  This is NOT a review but simply a warning.  The Amazon listing is INCORRECT.  The 1680x1050 display is NOT lit by LED's.  It is lit by CCFL's, ONLY the 1920x1200 upgrade screen is lit by LED's.  This upgraded screen is NOT available on Amazon.com  (Please note that ALL 15" Macbook Pro's are LED screens)
+There is a large difference in the quality between these two with LED's being superior.  The whites are much whiter, the contrast is better.  Though they claim both are 300nits brightness, I find the LED's to look much brighter (possibly the combination of  whites and the better contrast)  Also know that Apple claims the LED screen's (that being the 1920x1200 screen) efficiency gives it 30 extra minutes of battery life over the CCFL versions (1680x1050 screens)  I hope this helps.  These are really excellent notebooks.
+Please remember this ONLY applies to 17" Macbook Pro's, ALL 15" Pro's are LED.

@@ -1,0 +1,24 @@
+ID: B000CS7UTY-R2CG7XUXF6YHDU-A301FDYSYCV6RL
+Category: MP3Players
+Product: Creative-Zen-Vision-Video-Player
+ReviewerID: A301FDYSYCV6RL
+ReviewerName: O. Mendoza "Squi23"
+Date: February 25, 2006
+Helpful: 13 of 13
+Rating: 5.0
+Title: Same as iPod, but more versatile
+Content:
+I got a 60GB Ipod video for x-mas, and almost opened it, until I read that this was coming down the pike.
+After a bit of inverstigating, I realized, that I would be spending a lot of time converting video to have it run on the Ipod, but that wouldn't be the case with the Vision:M.
+To get video from my Tivo to my Vision:M is a breeze.
+Only 1 very quick conversion is needed using DirectShow Dump (about 2-3 minutes per 1/2 hour of video) to strip the Tivo code and leave a plain MPEG-2 file that can be viewed on the device.
+The screen is phenomenal. It's why I got this instead of the original Zen Vision (I wanted the bigger screen, but heard lots of bad things about the Zen Vision's screen).
+Album art works pretty well, but not great.
+The headphones, I thought, were pretty darn good, but I upgraded anyway b/c I had the $$$ available.
+It's does everything I wanted/needed a device like this to do.
+I have a few complaints though:
+- THERE ARE NO ACCESSORIES AVAILABLE FOR THIS THING!!!!
+- 30GB goes quickly with 192kbps MP3 files, and video and pictures.
+- some videos build audio sync problem as time progresses, but this is easily corrected with a quick Pause/Play.
+- it scratches just as easily as the Ipod, so do yourself a favor and order an Invisible Shield at the same time.
+- the little adapter is a bit of a pain as I'm probably going to have to order at least one more to be my "travel adapter".

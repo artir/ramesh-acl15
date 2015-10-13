@@ -1,0 +1,13 @@
+ID: B000A36J7A-R3GBNEZJXDH3EY-A3KIG88NN8I6GP
+Category: Laptops
+Product: Gateway-M305crv-Pentium-Celeron-Laptop
+ReviewerID: A3KIG88NN8I6GP
+ReviewerName: J. Leary "jleary"
+Date: March 18, 2008
+Helpful: 1 of 1
+Rating: 4.0
+Title: Dependable system, nightmare company
+Content:
+I have owned a Gateway M305CRV for nearly 4 years.  The processor is a 2.4GHz mobile celeron and I installed 1GB of Ram (system max).  I also upgraded the hard drive to 100GB, which the system handles with no issues.
+Despite the fact that the processor is the older single core vs. the newer dual core intel and AMD models, the performance is still comparable.  I use the sytem for surfing the web, e-mail, photo editing, some video editing, and standard word and spreadsheet processing.  I have also used it periodically for database development in Access.  
+While you cannot use the more demanding programs (such as Access or photoshop elements) simultaneously without bogging the system down somewhat, the performance is still on par with newer processors for working in a single application.  I have owned several different models of the Gateway laptops and Dell laptops, and I find in general that the Gateway models seem more efficient that the Dells. The downside of the Gateway's is the customer service.  If you don't need tech support and can do your own upgrades for most items you would want to change (such as RAM, hard drive, optical drive, etc.) don't be afraid of a Gateway.

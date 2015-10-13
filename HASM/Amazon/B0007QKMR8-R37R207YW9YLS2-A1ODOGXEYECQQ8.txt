@@ -1,0 +1,23 @@
+ID: B0007QKMR8-R37R207YW9YLS2-A1ODOGXEYECQQ8
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-XT-Camera
+ReviewerID: A1ODOGXEYECQQ8
+ReviewerName: Nuknuk
+Date: November 21, 2008
+Helpful: 0 of 1
+Rating: 5.0
+Title: One of the Best Entry Level Digital SLR
+Content:
+Been using this as my primary still camera for the last 2 years.  At that time, it was the best selling entry level digital SLR camera.  A sub-500$ with an 8 megapixel resolution.  Uses CF card.  It is an entry level camera but is considered quite an excellent performer in many levels.
+It comes with a battery and a sleek compact charger.  It uses the well known Digic II image processor.  7-point AF.  
+Pros:
+- Very fast start-up time and shutter lag is almost negligeable 
+- Image quality is close to the more expensive EOS 20D.  Color rendition and low-noise
+- Lighter and smaller than its predecessor
+- Can shoot RAW format
+- Burst.  14 frames at 3 frames a second
+- Impressive long battery life.
+Cons:
+- Cannot shoot using the LCD panel.  You always have to use the viewfinder.  LCD is for menu and playback only.
+- Supplied lens is very basic.  No image stabilizer.  Slow.
+- No movie capability

@@ -1,0 +1,18 @@
+ID: B002SXMQT0-R13OBF6CFXJT7Z-A3EXWV8FNSSFL6
+Category: Laptops
+Product: HP-G60-501NR-15-6-Inch-Black-Laptop
+ReviewerID: A3EXWV8FNSSFL6
+ReviewerName: Daniel G. Lebryk
+Date: December 28, 2009
+Helpful: 6 of 6
+Rating: 4.0
+Title: Good Basic Transportation
+Content:
+This is an inexpensive laptop, and not a bad value. It is all about expectations for what this computer can and cannot do. 
+As an alternative to a netbook, this computer is not bad. The positives versus a netbook. Full size keyboard and a number pad. Really nice big screen, actually a gorgeous screen. A built in optical drive. HDMI output for connection to a television. And a really nice track pad. A much faster processor. Easy hard drive and memory upgrades. The negatives compared to a netbook. Battery life, netbooks will run on battery power a lot longer than 3 hours. Weight and size, this is way heavier than a netbook. Portability.
+On the overall positive side, this laptop will do most standard things a person wants to do with a computer, do email, connect to the internet, run Microsoft Office (Word, Excel, and Powerpoint run perfectly well), edit still pictures, and watch movies. It's a general purpose machine. It will not edit movies or play games. In the end, nobody should expect either of these two functions - the video is on board shared memory and the processor is a 2.2GHz Celeron single core. These specs are way below anything games. 
+Windows 7 boots up quickly and the OS runs perfectly fine and fast. All the graphics effects work just fine, the changing wallpaper, dock like bottom views, Aero, etc. The machine does not struggle at all with this OS. Word, Powerpoint, and Excel started up very quickly and ran very well. The built in wireless adapter connected to my network with no problems. The wireless wizard worked perfectly with my WPA encrypted router. 
+There wasn't too much crapware installed. It was very easy to remove all the Norton programs. Microsoft Security Essentials installed very quickly and Windows firewall worked just fine. There are a number of free offerings and a silly HP program launcher that is very easy to disable. No need to pay anyone to clean up your system from these things. 
+I rate this computer fairly high because it is a very good deal at any price below that list price. As it approaches the price of a netbook, this becomes a very nice deal.
+I did run into a problem that you might want to consider when you get this computer. The screen cracked the second day of use. I don't think we did anything particularly wrong with the computer physically, so I'd conclude the screen is very fragile. So be very careful and always use a good computer case. The other thing to consider, HP considers this a non-warranty defect. You cannot get HP to fix this under warranty. Instead you have to purchase an accidental damage policy from HP. They will then fix the display. Amazon is an incredible company and does stand behind their products. Thank you to Amazon for making this very right. 
+Just remember the specs, this is not a barn burner, screamer computer. It is very basic transportation; 2.2GHz processor, 2Gb of memory (very cheap and easy to upgrade to 4Gb), a 160Gb hard drive, HDMI output, DVD/CD burner built in, four USB ports, a multi-card reader (no Compact Flash), surprisingly good speakers, a solid keyboard with number pad, a nice track pad, and Windows 7. No it doesn't have a webcam - but darn it those cost like twenty dollars. Yes the hard drive is not huge, but you can easily add a portable 1Tb drive for around a hundred dollars. Just be careful with that display.

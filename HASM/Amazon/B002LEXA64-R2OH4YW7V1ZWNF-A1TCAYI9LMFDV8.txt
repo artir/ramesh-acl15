@@ -1,0 +1,12 @@
+ID: B002LEXA64-R2OH4YW7V1ZWNF-A1TCAYI9LMFDV8
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A1TCAYI9LMFDV8
+ReviewerName: P. Patel
+Date: December 28, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: More than a Netbook
+Content:
+Got this for $299 on Nov 26 2009. It is a great little laptop with a decent screen resolution. It came loaded with 32-bit Win Vista and the Win 7 free upgrade arrived from Acer 3 weeks later. Its much better with Win 7 and the CPU is 64-bit so you can get your own 64-bit OS and load it, what it does is it gives you a 4Gb memory capability (32-bit can use around 3Gig mem). It comes with a single 2Gb memory installed which can be ugraded to a max of 4Gb by adding another memory module. I'm happy that they did not leave 2 1Gb memory on there. The trackpad is the same level as the hand rest so it is a bit difficult to use. It does not come with a bluetooth and is the only thing that is left out (don't know why). However you get an internal module and install it but kills the warranty. It does come with an HDMI port but I have not used that yet. It has a decent on board camera and mic. A multi card reader on the right side with 2 USB ports and sound inputs/outputs. Also a Gig ethernet port. Since it has optical drive you will need an external one or learn how to install from usb. You can boot from a USB drive and install another OS.
+All in all this is a nice little laptop (much better than a Atom netbook) at a great price.

@@ -1,0 +1,37 @@
+ID: B002J49P6U-R219YS2S2019RF-AELHUUZAPBZQS
+Category: Laptops
+Product: Compaq-Presario-CQ60-419WM-Notebook-Processor
+ReviewerID: AELHUUZAPBZQS
+ReviewerName: B. Adams
+Date: July 28, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: Great Price, Great Computer!
+Content:
+I had doubts when I bought this that it would be a good computer. Well, I was wrong. This computer RULES! Why? Let me tell you:
+Pros:
+- An amazing price ($298 at your local walmart)
+- 3GB of ram, which supplies enough power for me to run Photoshop CS4 and Flash CS4 with hardly any trouble
+- A 160GB hard drive, which is pretty darn big for a laptop this cheap
+- CD/DVD Writer which can write DVDs pretty quickly
+- A 2.10 GHz AMD Sempron processor which is very speedy
+- A numpad! 
+- Wonderful keyboard with BIG keys, which I like a whole bunch
+- Doesn't have 32 gazillion special buttons above the keyboard that adjust the volume and stuff(uses the keyboard with the Fn key instead) 
+- Really cool first-boot-up program that runs and helps you set up your computer fast and easy
+- Great speakers, sounds like my stereo they're so good
+- Fantastic touchpad, which I am really impressed with (you can turn it off with the touch of a button)
+- Awesome screen! It's a bit reflective, but not like a mirror or anything
+- Looooooong power cord with a special velcro doohicky that helps you wrap it up
+- There aren't many cons
+Cons:
+- CD drive seems kinda frail, maybe it's just me 
+- Only 3 USB ports
+- Arrow keys are kind of scrunchy
+- Touchpad buttons are loud(you get used to it :))
+So what are you waiting for?? Go buy this awesome computer at your local walmart! :D
+*** EDIT ***
+Recently this computer's LCD display started flashing when I pulled it out of sleep mode several times in a row. However, after a 30min call to HP tech support they got it fixed! :)
+Also, this computer runs Windows 7 Professional like a dream. All my Vista applications work except my program that sets the buttons for my trackball, but I'm to lazy to check if Logitech has a fix yet; they probably do. Just one issue: the processor on this computer (AMD Sempron) does not have virtualization technology, so it can't run XP mode. It's the only processor by AMD that doesn't have virtualization. GRAAAH! D:
+One last note: don't buy this computer here - the sellers are FLEECERS! It's only worth $300, not twice that much!
+Still a nice computer! :)

@@ -1,0 +1,15 @@
+ID: B001EQ4BY0-RUXADI75L3J7B-A3GD6FMPHD40L2
+Category: DigitalSLRs
+Product: Canon-50D-Digital-28-135mm-Standard
+ReviewerID: A3GD6FMPHD40L2
+ReviewerName: J. Wong
+Date: December 27, 2008
+Helpful: 38 of 42
+Rating: 4.0
+Title: 50D versus 40D:  Six of One, a Half-Dozen of the Other
+Content:
+I'll echo the comments of many others regarding the 50D when compared to the 40D:  in my view, the 50D's not better, it's different.
+I sold my 40D to a friend before purchasing my 50D.  Half of me says it was the right thing to do, and half of me says it was a mistake.  Under the right conditions, the 50D's resolution is very impressive.  It has produced some very nice shots.  The extra pixels not only mean finer detail, but also, greater smoothness.  
+The 50D also, however, generates more noise and captures less color and tone contrast than the 40D.  The dpreview dynamic range tests show the 50D lagging behind the 40D by over 2/3's of a stop in the shadow end.  Many of the images I've shot with the 50D clearly reflect this weakness; hair, for example, can take on that matted, muddy look.  
+The 50D's greater resolution gives me more freedom with cropping.  I can shoot a scene "big" and know I can trim it later and still produce a high quality image.  Color and tone accuracy and balance are typically Canon-like.  But my 40D did a much better job in mid and low light, and the tone curve it produced was easier for me to work with in Photoshop.  
+I understand now why Canon announced the 50D as a companion to the 40D, rather than a replacement.  I do like the 50D's increased resolution, but the 40D is arguably the better or more versatile photographic tool.  The 50D will excel in good light situations, but the 40D will produce a better image in high contrast situations and low and mid light.

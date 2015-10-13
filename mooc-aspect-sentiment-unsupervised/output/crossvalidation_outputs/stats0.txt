@@ -1,0 +1,859 @@
+confusion matrix15 x 15 matrix
+389 100 0  2  5  6 2 0 0 0  1 4  2  2 0
+ 15 106 0  1  0  6 0 0 0 0  0 0  4  1 0
+  3   3 0  1  5  3 0 0 3 0 12 3  2  7 0
+  0   2 0 13  0  2 0 0 1 1  3 6  8 16 1
+  3   6 0  1 12  1 0 0 3 0  0 0  0  4 0
+  5  17 0  2  1 34 0 0 4 1  1 4  1  4 0
+  1   2 0  0  1  0 4 0 1 0  1 1  0  0 0
+  0   1 0  1  1  0 0 0 0 0  0 1  0  1 0
+  0  10 0  0  0  1 1 0 0 0  1 0  5  1 0
+  0   6 0  0  0  1 0 0 0 0  0 0  2  1 0
+  0   5 0  0  0  0 0 0 0 0  4 0  6  1 0
+  1   3 0  0  0  1 0 0 0 0  0 7  1  0 0
+  3  48 0  0  2  1 0 0 0 0  0 0 28  0 0
+  0   3 0  0  0  0 0 0 0 0  0 0  4  0 0
+  0   0 0  0  0  0 0 0 0 0  0 0  1  0 0
+f1 for fientopic 0 0.8338692390139336
+precision for fientopic 0 0.9261904761904762
+recall for fientopic 0 0.7582846003898636
+f1 for fientopic 1 0.4764044943820224
+precision for fientopic 1 0.33974358974358976
+recall for fientopic 1 0.7969924812030075
+f1 for fientopic (2) 0.0
+precision for fientopic (2) 1.0
+recall for fientopic (2) 0.0
+f1 for fientopic (3) 0.35135135135135137
+precision for fientopic (3) 0.6190476190476191
+recall for fientopic (3) 0.24528301886792453
+f1 for finetopic (4) 0.4210526315789474
+precision for finetopic (4) 0.4444444444444444
+recall for finetopic (4) 0.4
+f1 for finetopic (5) 0.5230769230769231
+precision for finetopic (5) 0.6071428571428571
+recall for finetopic (5) 0.4594594594594595
+f1 for finetopic (6) 0.4444444444444444
+precision for finetopic (6) 0.5714285714285714
+recall for finetopic (6) 0.36363636363636365
+f1 for finetopic (7) 0.0
+precision for finetopic (7) 1.0
+recall for finetopic (7) 0.0
+f1 for finetopic (8) 0.0
+precision for finetopic (8) 0.0
+recall for finetopic (8) 0.0
+f1 for finetopic (9) 0.0
+precision for finetopic (9) 0.0
+recall for finetopic (9) 0.0
+f1 for finetopic (10) 0.20512820512820512
+precision for finetopic (10) 0.17391304347826086
+recall for finetopic (10) 0.25
+f1 for finetopic (11) 0.3589743589743589
+precision for finetopic (11) 0.2692307692307692
+recall for finetopic (11) 0.5384615384615384
+f1 for finetopic (12) 0.3835616438356165
+precision for finetopic (12) 0.4375
+recall for finetopic (12) 0.34146341463414637
+f1 for finetopic (13) 0.0
+precision for finetopic (13) 0.0
+recall for finetopic (13) 0.0
+f1 for finetopic (14) 0.0
+precision for finetopic (14) 0.0
+recall for finetopic (14) 0.0
+confusion matrix22 x 22 matrix
+0  0  0 0  0  0  0 0  0  0  0  0  0  0 0  0 0 0  0 0 0   0
+0  8 41 0  1  5  5 0  6  0  1  0  1  0 0  1 0 0  0 0 0   1
+0 39  7 0  5  5 12 0 12  0  0  6  1  0 0  2 0 0  4 0 0   0
+0 10  0 0  1  3  2 0 19  4  0  3  1  2 0  2 0 0  2 0 0   0
+0  6  1 0 57 17 20 0 26 14  0 19 16  0 0  1 0 0  4 1 0   7
+0  1  1 0  9  9  7 0  6  0  0  0  0  0 0  1 0 0  0 0 0   2
+0  7  2 0  8  3 39 0  4  0  0  6  0  0 0  2 0 0  0 0 0   2
+0  1  0 0  0  1  3 0  2  0  0  0  0  0 0  0 0 0  0 0 0   0
+0  6  0 0  1  1  6 0 11  4  2  4  6  3 0  5 0 0  1 0 0   0
+0  3  0 0  0  0  0 0  2  0  0  0  0  1 0  1 0 0  0 0 0   0
+0  4  0 0  2  0  1 0  6  0 43  0  4  6 0 10 0 0  0 0 0   0
+0 20  0 0  6  5  5 0 18  2  2 63 25 18 0  3 0 0  1 0 0   1
+0 12  0 0 12  3  2 0  8  1  4 11 91 23 0 21 0 0  0 0 0   0
+0 19  0 0  4  0  3 0 20  6  8  5  5 52 0 23 0 0  5 1 0   1
+0  2  0 0  0  1  3 0  9  1  1  1  4 13 0  2 0 0  0 0 0   0
+0  1  0 0  3  1  0 0  1  0  0  2  1  2 0 64 0 0  0 0 0   2
+0  0  0 0  2  0  2 0  2  0  1  0  1  0 0  1 0 0  0 0 0   0
+0  0  0 0  0  0  0 0  3  0  0  0  0  0 0  1 0 0  0 0 0   0
+0 11  0 0  7  1  4 0  9  2  1  7  0  5 0  9 0 0 15 0 0   3
+0 13  0 0 18  3  1 0 16  4  2  1  1  5 0  6 0 0  4 0 0   6
+0 36  3 0 10  5  3 0 37 21  0  1  8  9 0 11 0 0  5 4 0   2
+0 39  2 0 97  7 10 0 26 50  2  0 11  1 0 13 0 0  8 8 0 205
+f1 for fientopic 0 1.0
+precision for fientopic 0 1.0
+recall for fientopic 0 1.0
+f1 for fientopic 1 0.051948051948051945
+precision for fientopic 1 0.03361344537815126
+recall for fientopic 1 0.11428571428571428
+f1 for fientopic (2) 0.09333333333333335
+precision for fientopic (2) 0.12280701754385964
+recall for fientopic (2) 0.07526881720430108
+f1 for fientopic (3) 0.0
+precision for fientopic (3) 1.0
+recall for fientopic (3) 0.0
+f1 for finetopic_1 (4) 0.26388888888888884
+precision for finetopic_1 (4) 0.2345679012345679
+recall for finetopic_1 (4) 0.30158730158730157
+f1 for finetopic_1 (5) 0.16981132075471697
+precision for finetopic_1 (5) 0.12857142857142856
+recall for finetopic_1 (5) 0.25
+f1 for finetopic_1 (6) 0.3880597014925373
+precision for finetopic_1 (6) 0.3046875
+recall for finetopic_1 (6) 0.5342465753424658
+f1 for finetopic_1 (7) 0.0
+precision for finetopic_1 (7) 1.0
+recall for finetopic_1 (7) 0.0
+f1 for finetopic_1 (8) 0.07508532423208192
+precision for finetopic_1 (8) 0.04526748971193416
+recall for finetopic_1 (8) 0.22
+f1 for finetopic_1 (9) 0.0
+precision for finetopic_1 (9) 0.0
+recall for finetopic_1 (9) 0.0
+f1 for finetopic_1 (10) 0.6013986013986014
+precision for finetopic_1 (10) 0.6417910447761194
+recall for finetopic_1 (10) 0.5657894736842105
+f1 for finetopic_1 (11) 0.4228187919463087
+precision for finetopic_1 (11) 0.4883720930232558
+recall for finetopic_1 (11) 0.3727810650887574
+f1 for finetopic_1 (12) 0.5
+precision for finetopic_1 (12) 0.5170454545454546
+recall for finetopic_1 (12) 0.48404255319148937
+f1 for finetopic_1 (13) 0.35616438356164387
+precision for finetopic_1 (13) 0.37142857142857144
+recall for finetopic_1 (13) 0.34210526315789475
+f1 for finetopic_1 (14) 0.0
+precision for finetopic_1 (14) 1.0
+recall for finetopic_1 (14) 0.0
+confusion matrix21 x 21 matrix
+ 8 41 0  1  5  5 0  6  0  1  0  1  0 0  1 0 0  0 0 0   1
+39  7 0  5  5 12 0 12  0  0  6  1  0 0  2 0 0  4 0 0   0
+10  0 0  1  3  2 0 19  4  0  3  1  2 0  2 0 0  2 0 0   0
+ 6  1 0 57 17 20 0 26 14  0 19 16  0 0  1 0 0  4 1 0   7
+ 1  1 0  9  9  7 0  6  0  0  0  0  0 0  1 0 0  0 0 0   2
+ 7  2 0  8  3 39 0  4  0  0  6  0  0 0  2 0 0  0 0 0   2
+ 1  0 0  0  1  3 0  2  0  0  0  0  0 0  0 0 0  0 0 0   0
+ 6  0 0  1  1  6 0 11  4  2  4  6  3 0  5 0 0  1 0 0   0
+ 3  0 0  0  0  0 0  2  0  0  0  0  1 0  1 0 0  0 0 0   0
+ 4  0 0  2  0  1 0  6  0 43  0  4  6 0 10 0 0  0 0 0   0
+20  0 0  6  5  5 0 18  2  2 63 25 18 0  3 0 0  1 0 0   1
+12  0 0 12  3  2 0  8  1  4 11 91 23 0 21 0 0  0 0 0   0
+19  0 0  4  0  3 0 20  6  8  5  5 52 0 23 0 0  5 1 0   1
+ 2  0 0  0  1  3 0  9  1  1  1  4 13 0  2 0 0  0 0 0   0
+ 1  0 0  3  1  0 0  1  0  0  2  1  2 0 64 0 0  0 0 0   2
+ 0  0 0  2  0  2 0  2  0  1  0  1  0 0  1 0 0  0 0 0   0
+ 0  0 0  0  0  0 0  3  0  0  0  0  0 0  1 0 0  0 0 0   0
+11  0 0  7  1  4 0  9  2  1  7  0  5 0  9 0 0 15 0 0   3
+13  0 0 18  3  1 0 16  4  2  1  1  5 0  6 0 0  4 0 0   6
+36  3 0 10  5  3 0 37 21  0  1  8  9 0 11 0 0  5 4 0   2
+39  2 0 97  7 10 0 26 50  2  0 11  1 0 13 0 0  8 8 0 205
+f1 for fientopic 0 0.051948051948051945
+precision for fientopic 0 0.03361344537815126
+recall for fientopic 0 0.11428571428571428
+f1 for fientopic 1 0.09333333333333335
+precision for fientopic 1 0.12280701754385964
+recall for fientopic 1 0.07526881720430108
+f1 for fientopic (2) 0.0
+precision for fientopic (2) 1.0
+recall for fientopic (2) 0.0
+f1 for fientopic (3) 0.26388888888888884
+precision for fientopic (3) 0.2345679012345679
+recall for fientopic (3) 0.30158730158730157
+f1 for finetopic_1 (4) 0.16981132075471697
+precision for finetopic_1 (4) 0.12857142857142856
+recall for finetopic_1 (4) 0.25
+f1 for finetopic_1 (5) 0.3880597014925373
+precision for finetopic_1 (5) 0.3046875
+recall for finetopic_1 (5) 0.5342465753424658
+f1 for finetopic_1 (6) 0.0
+precision for finetopic_1 (6) 1.0
+recall for finetopic_1 (6) 0.0
+f1 for finetopic_1 (7) 0.07508532423208192
+precision for finetopic_1 (7) 0.04526748971193416
+recall for finetopic_1 (7) 0.22
+f1 for finetopic_1 (8) 0.0
+precision for finetopic_1 (8) 0.0
+recall for finetopic_1 (8) 0.0
+f1 for finetopic_1 (9) 0.6013986013986014
+precision for finetopic_1 (9) 0.6417910447761194
+recall for finetopic_1 (9) 0.5657894736842105
+f1 for finetopic_1 (10) 0.4228187919463087
+precision for finetopic_1 (10) 0.4883720930232558
+recall for finetopic_1 (10) 0.3727810650887574
+f1 for finetopic_1 (11) 0.5
+precision for finetopic_1 (11) 0.5170454545454546
+recall for finetopic_1 (11) 0.48404255319148937
+f1 for finetopic_1 (12) 0.35616438356164387
+precision for finetopic_1 (12) 0.37142857142857144
+recall for finetopic_1 (12) 0.34210526315789475
+f1 for finetopic_1 (13) 0.0
+precision for finetopic_1 (13) 1.0
+recall for finetopic_1 (13) 0.0
+f1 for finetopic_1 (14) 0.5
+precision for finetopic_1 (14) 0.3575418994413408
+recall for finetopic_1 (14) 0.8311688311688312
+confusion matrix3 x 3 matrix
+ 15 107  12
+417 202 277
+199 488 357
+f1 for sentiment_0 0.0392156862745098
+precision for sentiment_0 0.02377179080824089
+recall for sentiment_0 0.11194029850746269
+f1 for sentiment_1 0.23862965150620202
+precision for sentiment_1 0.2534504391468005
+recall for sentiment_1 0.22544642857142858
+f1 for sentiment_2 0.42248520710059173
+precision for sentiment_2 0.5526315789473685
+recall for sentiment_2 0.34195402298850575
+confusion matrix3 x 3 matrix
+ 64  65   5
+101 658 137
+186 645 213
+f1 for sentiment_0 0.2639175257731959
+precision for sentiment_0 0.18233618233618235
+recall for sentiment_0 0.47761194029850745
+f1 for sentiment_1 0.5812720848056537
+precision for sentiment_1 0.48099415204678364
+recall for sentiment_1 0.734375
+f1 for sentiment_2 0.3045032165832738
+precision for sentiment_2 0.6
+recall for sentiment_2 0.20402298850574713
+confusion matrix3 x 3 matrix
+ 80  42  12
+149 522 225
+299 470 275
+f1 for sentiment_0 0.24169184290030213
+precision for sentiment_0 0.15151515151515152
+recall for sentiment_0 0.5970149253731343
+f1 for sentiment_1 0.5409326424870466
+precision for sentiment_1 0.504835589941973
+recall for sentiment_1 0.5825892857142857
+f1 for sentiment_2 0.35347043701799485
+precision for sentiment_2 0.537109375
+recall for sentiment_2 0.26340996168582376
+confusion matrix3 x 3 matrix
+ 51  78   5
+179 574 143
+228 628 188
+f1 for sentiment_0 0.17229729729729729
+precision for sentiment_0 0.11135371179039301
+recall for sentiment_0 0.3805970149253731
+f1 for sentiment_1 0.5275735294117647
+precision for sentiment_1 0.4484375
+recall for sentiment_1 0.640625
+f1 for sentiment_2 0.27246376811594203
+precision for sentiment_2 0.5595238095238095
+recall for sentiment_2 0.18007662835249041
+confusion matrix3 x 3 matrix
+ 86  36  12
+122 537 237
+413 365 266
+f1 for sentiment_0 0.22781456953642382
+precision for sentiment_0 0.13848631239935588
+recall for sentiment_0 0.6417910447761194
+f1 for sentiment_1 0.5856052344601963
+precision for sentiment_1 0.5724946695095949
+recall for sentiment_1 0.5993303571428571
+f1 for sentiment_2 0.3412443874278383
+precision for sentiment_2 0.516504854368932
+recall for sentiment_2 0.2547892720306513
+confusion matrix3 x 3 matrix
+ 83  42   9
+111 569 216
+390 444 210
+f1 for sentiment_0 0.23119777158774374
+precision for sentiment_0 0.1421232876712329
+recall for sentiment_0 0.6194029850746269
+f1 for sentiment_1 0.583290620194772
+precision for sentiment_1 0.5393364928909953
+recall for sentiment_1 0.6350446428571429
+f1 for sentiment_2 0.283975659229209
+precision for sentiment_2 0.4827586206896552
+recall for sentiment_2 0.20114942528735633
+confusion matrix3 x 3 matrix
+ 85  39  10
+116 537 243
+415 352 277
+f1 for sentiment_0 0.22666666666666666
+precision for sentiment_0 0.137987012987013
+recall for sentiment_0 0.6343283582089553
+f1 for sentiment_1 0.5888157894736842
+precision for sentiment_1 0.5786637931034483
+recall for sentiment_1 0.5993303571428571
+f1 for sentiment_2 0.35196950444726816
+precision for sentiment_2 0.5226415094339623
+recall for sentiment_2 0.2653256704980843
+confusion matrix3 x 3 matrix
+37  65  32
+50 636 210
+99 546 399
+f1 for sentiment_0 0.23125
+precision for sentiment_0 0.1989247311827957
+recall for sentiment_0 0.27611940298507465
+f1 for sentiment_1 0.5935604293047131
+precision for sentiment_1 0.5100240577385726
+recall for sentiment_1 0.7098214285714286
+f1 for sentiment_2 0.47359050445103856
+precision for sentiment_2 0.6224648985959438
+recall for sentiment_2 0.382183908045977
+confusion matrix3 x 3 matrix
+33  76  25
+33 677 186
+67 594 383
+f1 for sentiment_0 0.24719101123595502
+precision for sentiment_0 0.24812030075187969
+recall for sentiment_0 0.2462686567164179
+f1 for sentiment_1 0.603655818100758
+precision for sentiment_1 0.5025983667409057
+recall for sentiment_1 0.7555803571428571
+f1 for sentiment_2 0.4676434676434676
+precision for sentiment_2 0.6447811447811448
+recall for sentiment_2 0.3668582375478927
+confusion matrix3 x 3 matrix
+33  76  25
+29 705 162
+68 595 381
+f1 for sentiment_0 0.25
+precision for sentiment_0 0.25384615384615383
+recall for sentiment_0 0.2462686567164179
+f1 for sentiment_1 0.6205985915492958
+precision for sentiment_1 0.5123546511627907
+recall for sentiment_1 0.7868303571428571
+f1 for sentiment_2 0.4727047146401985
+precision for sentiment_2 0.670774647887324
+recall for sentiment_2 0.3649425287356322
+confusion matrix3 x 3 matrix
+ 55  62  17
+ 62 669 165
+219 557 268
+f1 for sentiment_0 0.23404255319148937
+precision for sentiment_0 0.1636904761904762
+recall for sentiment_0 0.41044776119402987
+f1 for sentiment_1 0.6126373626373626
+precision for sentiment_1 0.5194099378881988
+recall for sentiment_1 0.7466517857142857
+f1 for sentiment_2 0.358768406961178
+precision for sentiment_2 0.5955555555555555
+recall for sentiment_2 0.2567049808429119
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+ 58  55  21
+ 80 650 166
+206 506 332
+f1 for sentiment_0 0.24267782426778242
+precision for sentiment_0 0.1686046511627907
+recall for sentiment_0 0.43283582089552236
+f1 for sentiment_1 0.6169909824394874
+precision for sentiment_1 0.5367464905037159
+recall for sentiment_1 0.7254464285714286
+f1 for sentiment_2 0.4248240563019834
+precision for sentiment_2 0.6396917148362236
+recall for sentiment_2 0.31800766283524906
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+ 61  53  20
+ 96 636 164
+232 501 311
+f1 for sentiment_0 0.23326959847036327
+precision for sentiment_0 0.15681233933161953
+recall for sentiment_0 0.4552238805970149
+f1 for sentiment_1 0.6097794822627037
+precision for sentiment_1 0.534453781512605
+recall for sentiment_1 0.7098214285714286
+f1 for sentiment_2 0.40415854450942174
+precision for sentiment_2 0.6282828282828283
+recall for sentiment_2 0.2978927203065134
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+ 60  56  18
+ 85 618 193
+213 485 346
+f1 for sentiment_0 0.24390243902439024
+precision for sentiment_0 0.16759776536312848
+recall for sentiment_0 0.44776119402985076
+f1 for sentiment_1 0.6014598540145986
+precision for sentiment_1 0.5332182916307161
+recall for sentiment_1 0.6897321428571429
+f1 for sentiment_2 0.4322298563397876
+precision for sentiment_2 0.6211849192100538
+recall for sentiment_2 0.3314176245210728
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+ 70  35  29
+125 580 191
+314 409 321
+f1 for sentiment_0 0.21772939346811823
+precision for sentiment_0 0.137524557956778
+recall for sentiment_0 0.5223880597014925
+f1 for sentiment_1 0.6041666666666667
+precision for sentiment_1 0.56640625
+recall for sentiment_1 0.6473214285714286
+f1 for sentiment_2 0.40504731861198734
+precision for sentiment_2 0.5933456561922366
+recall for sentiment_2 0.3074712643678161
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+0  46  88
+1 540 355
+4 356 684
+f1 for sentiment_0 0.0
+precision for sentiment_0 0.0
+recall for sentiment_0 0.0
+f1 for sentiment_1 0.5875952121871598
+precision for sentiment_1 0.5732484076433121
+recall for sentiment_1 0.6026785714285714
+f1 for sentiment_2 0.6301243666513127
+precision for sentiment_2 0.6069210292812778
+recall for sentiment_2 0.6551724137931034
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+0  46  88
+1 542 353
+4 353 687
+f1 for sentiment_0 0.0
+precision for sentiment_0 0.0
+recall for sentiment_0 0.0
+f1 for sentiment_1 0.5900925421883506
+precision for sentiment_1 0.5759829968119022
+recall for sentiment_1 0.6049107142857143
+f1 for sentiment_2 0.6325966850828729
+precision for sentiment_2 0.6090425531914894
+recall for sentiment_2 0.6580459770114943
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+11  64  59
+18 595 283
+19 428 597
+f1 for sentiment_0 0.1208791208791209
+precision for sentiment_0 0.22916666666666666
+recall for sentiment_0 0.08208955223880597
+f1 for sentiment_1 0.6001008572869388
+precision for sentiment_1 0.547378104875805
+recall for sentiment_1 0.6640625
+f1 for sentiment_2 0.6021180030257187
+precision for sentiment_2 0.6357827476038339
+recall for sentiment_2 0.5718390804597702
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+17  60  57
+25 587 284
+31 415 598
+f1 for sentiment_0 0.1642512077294686
+precision for sentiment_0 0.2328767123287671
+recall for sentiment_0 0.12686567164179105
+f1 for sentiment_1 0.599591419816139
+precision for sentiment_1 0.5527306967984934
+recall for sentiment_1 0.6551339285714286
+f1 for sentiment_2 0.6031265758951083
+precision for sentiment_2 0.6368477103301384
+recall for sentiment_2 0.5727969348659003
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+29  118  104
+52 1178  548
+70  817 1228
+f1 for sentiment_0 0.14427860696517414
+precision for sentiment_0 0.19205298013245034
+recall for sentiment_0 0.11553784860557768
+f1 for sentiment_1 0.6054998714983294
+precision for sentiment_1 0.5575011831519167
+recall for sentiment_1 0.6625421822272216
+f1 for sentiment_2 0.6147684605757195
+precision for sentiment_2 0.6531914893617021
+recall for sentiment_2 0.5806146572104018
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+31  118  102
+54 1193  531
+76  816 1223
+f1 for sentiment_0 0.15048543689320387
+precision for sentiment_0 0.19254658385093168
+recall for sentiment_0 0.12350597609561753
+f1 for sentiment_1 0.61101152368758
+precision for sentiment_1 0.5608838740009403
+recall for sentiment_1 0.670978627671541
+f1 for sentiment_2 0.6159657516998236
+precision for sentiment_2 0.6589439655172413
+recall for sentiment_2 0.5782505910165484
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+31  119  101
+54 1197  527
+76  813 1226
+f1 for sentiment_0 0.15048543689320387
+precision for sentiment_0 0.19254658385093168
+recall for sentiment_0 0.12350597609561753
+f1 for sentiment_1 0.6127463527002814
+precision for sentiment_1 0.5622357914513856
+recall for sentiment_1 0.6732283464566929
+f1 for sentiment_2 0.6177878558830939
+precision for sentiment_2 0.6612729234088457
+recall for sentiment_2 0.5796690307328605
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+31  119  101
+54 1190  534
+76  812 1227
+f1 for sentiment_0 0.15048543689320387
+precision for sentiment_0 0.19254658385093168
+recall for sentiment_0 0.12350597609561753
+f1 for sentiment_1 0.6104129263913823
+precision for sentiment_1 0.5610561056105611
+recall for sentiment_1 0.6692913385826772
+f1 for sentiment_2 0.6170480261503646
+precision for sentiment_2 0.658968850698174
+recall for sentiment_2 0.5801418439716312
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+29  118  104
+52 1172  554
+70  808 1237
+f1 for sentiment_0 0.14427860696517414
+precision for sentiment_0 0.19205298013245034
+recall for sentiment_0 0.11553784860557768
+f1 for sentiment_1 0.6047471620227038
+precision for sentiment_1 0.5586272640610105
+recall for sentiment_1 0.6591676040494938
+f1 for sentiment_2 0.6169576059850373
+precision for sentiment_2 0.6527704485488126
+recall for sentiment_2 0.584869976359338
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+11  65  58
+18 602 276
+19 427 598
+f1 for sentiment_0 0.1208791208791209
+precision for sentiment_0 0.22916666666666666
+recall for sentiment_0 0.08208955223880597
+f1 for sentiment_1 0.6050251256281407
+precision for sentiment_1 0.5502742230347349
+recall for sentiment_1 0.671875
+f1 for sentiment_2 0.6052631578947368
+precision for sentiment_2 0.6416309012875536
+recall for sentiment_2 0.5727969348659003
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+11  65  58
+18 597 281
+19 431 594
+f1 for sentiment_0 0.1208791208791209
+precision for sentiment_0 0.22916666666666666
+recall for sentiment_0 0.08208955223880597
+f1 for sentiment_1 0.6003016591251885
+precision for sentiment_1 0.546203110704483
+recall for sentiment_1 0.6662946428571429
+f1 for sentiment_2 0.6009104704097117
+precision for sentiment_2 0.6366559485530546
+recall for sentiment_2 0.5689655172413793
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+29  118  104
+52 1173  553
+70  815 1230
+f1 for sentiment_0 0.14427860696517414
+precision for sentiment_0 0.19205298013245034
+recall for sentiment_0 0.11553784860557768
+f1 for sentiment_1 0.6040164778578784
+precision for sentiment_1 0.5569800569800569
+recall for sentiment_1 0.6597300337457818
+f1 for sentiment_2 0.6146926536731634
+precision for sentiment_2 0.6518282988871225
+recall for sentiment_2 0.5815602836879432
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+29  117  105
+52 1176  550
+70  814 1231
+f1 for sentiment_0 0.14427860696517414
+precision for sentiment_0 0.19205298013245034
+recall for sentiment_0 0.11553784860557768
+f1 for sentiment_1 0.6054054054054053
+precision for sentiment_1 0.5581395348837209
+recall for sentiment_1 0.6614173228346457
+f1 for sentiment_2 0.6153461634591353
+precision for sentiment_2 0.6527041357370096
+recall for sentiment_2 0.5820330969267139
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+30  118  103
+52 1179  547
+70  816 1229
+f1 for sentiment_0 0.1488833746898263
+precision for sentiment_0 0.19736842105263158
+recall for sentiment_0 0.11952191235059761
+f1 for sentiment_1 0.6060138781804163
+precision for sentiment_1 0.5579744439185992
+recall for sentiment_1 0.6631046119235096
+f1 for sentiment_2 0.615423134702053
+precision for sentiment_2 0.6540713145290048
+recall for sentiment_2 0.5810874704491725
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+30  117  104
+52 1170  556
+70  811 1234
+f1 for sentiment_0 0.1488833746898263
+precision for sentiment_0 0.19736842105263158
+recall for sentiment_0 0.11952191235059761
+f1 for sentiment_1 0.6037151702786379
+precision for sentiment_1 0.55767397521449
+recall for sentiment_1 0.6580427446569179
+f1 for sentiment_2 0.6156148665502619
+precision for sentiment_2 0.6515311510031679
+recall for sentiment_2 0.583451536643026
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+131   80  40
+374 1073 331
+660  809 646
+f1 for sentiment_0 0.1850282485875706
+precision for sentiment_0 0.11244635193133047
+recall for sentiment_0 0.5219123505976095
+f1 for sentiment_1 0.5737967914438503
+precision for sentiment_1 0.5468909276248726
+recall for sentiment_1 0.6034870641169854
+f1 for sentiment_2 0.4125159642401022
+precision for sentiment_2 0.6352015732546706
+recall for sentiment_2 0.3054373522458629
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+112   96  43
+354 1090 334
+675  786 654
+f1 for sentiment_0 0.16091954022988506
+precision for sentiment_0 0.09815950920245399
+recall for sentiment_0 0.44621513944223107
+f1 for sentiment_1 0.5813333333333334
+precision for sentiment_1 0.552738336713996
+recall for sentiment_1 0.6130483689538808
+f1 for sentiment_2 0.4157660521296885
+precision for sentiment_2 0.6343355965082444
+recall for sentiment_2 0.30921985815602837
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+122   84  45
+354 1101 323
+673  773 669
+f1 for sentiment_0 0.17428571428571427
+precision for sentiment_0 0.1061792863359443
+recall for sentiment_0 0.4860557768924303
+f1 for sentiment_1 0.5894004282655247
+precision for sentiment_1 0.5623084780388151
+recall for sentiment_1 0.6192350956130483
+f1 for sentiment_2 0.42449238578680204
+precision for sentiment_2 0.6451301832208293
+recall for sentiment_2 0.31631205673758866
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+116   96  39
+361 1114 303
+648  796 671
+f1 for sentiment_0 0.1686046511627907
+precision for sentiment_0 0.10311111111111111
+recall for sentiment_0 0.46215139442231074
+f1 for sentiment_1 0.5887949260042283
+precision for sentiment_1 0.555333998005982
+recall for sentiment_1 0.6265466816647919
+f1 for sentiment_2 0.42902813299232734
+precision for sentiment_2 0.6623889437314906
+recall for sentiment_2 0.31725768321513004
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+137   75  39
+411 1017 350
+788  660 667
+f1 for sentiment_0 0.17265280403276623
+precision for sentiment_0 0.10254491017964072
+recall for sentiment_0 0.545816733067729
+f1 for sentiment_1 0.5762039660056657
+precision for sentiment_1 0.5804794520547946
+recall for sentiment_1 0.5719910011248593
+f1 for sentiment_2 0.42068748029012926
+precision for sentiment_2 0.6316287878787878
+recall for sentiment_2 0.3153664302600473
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+151  59  41
+345 931 502
+856 551 708
+f1 for sentiment_0 0.1883967560823456
+precision for sentiment_0 0.11168639053254438
+recall for sentiment_0 0.601593625498008
+f1 for sentiment_1 0.5610123531184091
+precision for sentiment_1 0.6041531473069436
+recall for sentiment_1 0.5236220472440944
+f1 for sentiment_2 0.4206773618538324
+precision for sentiment_2 0.565947242206235
+recall for sentiment_2 0.3347517730496454
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+156  58  37
+352 932 494
+829 571 715
+f1 for sentiment_0 0.19647355163727964
+precision for sentiment_0 0.11667913238593867
+recall for sentiment_0 0.6215139442231076
+f1 for sentiment_1 0.5582509733453129
+precision for sentiment_1 0.5970531710442024
+recall for sentiment_1 0.5241844769403825
+f1 for sentiment_2 0.4254686105325795
+precision for sentiment_2 0.5738362760834671
+recall for sentiment_2 0.3380614657210402
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+129   78  44
+410 1128 240
+728  786 601
+f1 for sentiment_0 0.1699604743083004
+precision for sentiment_0 0.10181531176006314
+recall for sentiment_0 0.5139442231075697
+f1 for sentiment_1 0.5984084880636605
+precision for sentiment_1 0.5662650602409639
+recall for sentiment_1 0.6344206974128234
+f1 for sentiment_2 0.40066666666666667
+precision for sentiment_2 0.6790960451977401
+recall for sentiment_2 0.28416075650118205
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+140   68  43
+422 1016 340
+767  695 653
+f1 for sentiment_0 0.17721518987341772
+precision for sentiment_0 0.1053423626787058
+recall for sentiment_0 0.5577689243027888
+f1 for sentiment_1 0.5712679224065224
+precision for sentiment_1 0.5711073636874648
+recall for sentiment_1 0.5714285714285714
+f1 for sentiment_2 0.414471596318629
+precision for sentiment_2 0.6303088803088803
+recall for sentiment_2 0.3087470449172577
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+120   84  47
+345 1099 334
+739  720 656
+f1 for sentiment_0 0.16494845360824742
+precision for sentiment_0 0.09966777408637874
+recall for sentiment_0 0.47808764940239046
+f1 for sentiment_1 0.5971203477315947
+precision for sentiment_1 0.5775091960063058
+recall for sentiment_1 0.6181102362204725
+f1 for sentiment_2 0.416243654822335
+precision for sentiment_2 0.6325940212150434
+recall for sentiment_2 0.31016548463356974
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+136   76  39
+368 1091 319
+786  733 596
+f1 for sentiment_0 0.17650876054510056
+precision for sentiment_0 0.10542635658914729
+recall for sentiment_0 0.5418326693227091
+f1 for sentiment_1 0.593257205002719
+precision for sentiment_1 0.5742105263157895
+recall for sentiment_1 0.6136107986501688
+f1 for sentiment_2 0.3884001303356142
+precision for sentiment_2 0.6247379454926625
+recall for sentiment_2 0.2817966903073286
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+126   92  33
+350 1125 303
+782  727 606
+f1 for sentiment_0 0.16699801192842942
+precision for sentiment_0 0.10015898251192369
+recall for sentiment_0 0.50199203187251
+f1 for sentiment_1 0.6045137023105857
+precision for sentiment_1 0.5787037037037037
+recall for sentiment_1 0.6327334083239595
+f1 for sentiment_2 0.3964671246319922
+precision for sentiment_2 0.643312101910828
+recall for sentiment_2 0.2865248226950355
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+136   77  38
+354 1112 312
+784  724 607
+f1 for sentiment_0 0.1783606557377049
+precision for sentiment_0 0.10675039246467818
+recall for sentiment_0 0.5418326693227091
+f1 for sentiment_1 0.6025467353020861
+precision for sentiment_1 0.5812859383167799
+recall for sentiment_1 0.625421822272216
+f1 for sentiment_2 0.39518229166666674
+precision for sentiment_2 0.6342737722048067
+recall for sentiment_2 0.28699763593380617
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+128   83  40
+342 1097 339
+755  753 607
+f1 for sentiment_0 0.17344173441734417
+precision for sentiment_0 0.10448979591836735
+recall for sentiment_0 0.5099601593625498
+f1 for sentiment_1 0.5912153058474804
+precision for sentiment_1 0.5675116399379203
+recall for sentiment_1 0.6169853768278966
+f1 for sentiment_2 0.3914866172202515
+precision for sentiment_2 0.6156186612576064
+recall for sentiment_2 0.28699763593380617
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+126   93  32
+358 1143 277
+773  713 629
+f1 for sentiment_0 0.16710875331564987
+precision for sentiment_0 0.10023866348448687
+recall for sentiment_0 0.50199203187251
+f1 for sentiment_1 0.6133619533136571
+precision for sentiment_1 0.586454592098512
+recall for sentiment_1 0.6428571428571429
+f1 for sentiment_2 0.4120537176547658
+precision for sentiment_2 0.6705756929637526
+recall for sentiment_2 0.2973995271867612
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+128   80  43
+363 1137 278
+754  712 649
+f1 for sentiment_0 0.1711229946524064
+precision for sentiment_0 0.10281124497991968
+recall for sentiment_0 0.5099601593625498
+f1 for sentiment_1 0.613434043701106
+precision for sentiment_1 0.5894245723172629
+recall for sentiment_1 0.6394825646794151
+f1 for sentiment_2 0.4207455429497569
+precision for sentiment_2 0.6690721649484536
+recall for sentiment_2 0.30685579196217494
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+124   92  35
+334 1145 299
+759  752 604
+f1 for sentiment_0 0.16893732970027248
+precision for sentiment_0 0.1018898931799507
+recall for sentiment_0 0.4940239043824701
+f1 for sentiment_1 0.6079108043535971
+precision for sentiment_1 0.575666163901458
+recall for sentiment_1 0.6439820022497188
+f1 for sentiment_2 0.3956763838847036
+precision for sentiment_2 0.6439232409381663
+recall for sentiment_2 0.2855791962174941
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+114   90  47
+339 1168 271
+748  751 616
+f1 for sentiment_0 0.15702479338842976
+precision for sentiment_0 0.09492089925062448
+recall for sentiment_0 0.4541832669322709
+f1 for sentiment_1 0.6168471085291787
+precision for sentiment_1 0.5813837730214036
+recall for sentiment_1 0.6569178852643419
+f1 for sentiment_2 0.40406690718268284
+precision for sentiment_2 0.6595289079229122
+recall for sentiment_2 0.2912529550827423
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+136   82  33
+342 1156 280
+846  729 540
+f1 for sentiment_0 0.17269841269841268
+precision for sentiment_0 0.1027190332326284
+recall for sentiment_0 0.5418326693227091
+f1 for sentiment_1 0.6173564753004005
+precision for sentiment_1 0.5876970005083884
+recall for sentiment_1 0.6501687289088864
+f1 for sentiment_2 0.36388140161725063
+precision for sentiment_2 0.6330597889800703
+recall for sentiment_2 0.2553191489361702
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+116   87  48
+342 1166 270
+742  748 625
+f1 for sentiment_0 0.1598897312198484
+precision for sentiment_0 0.09666666666666666
+recall for sentiment_0 0.46215139442231074
+f1 for sentiment_1 0.6170944694363588
+precision for sentiment_1 0.5827086456771614
+recall for sentiment_1 0.655793025871766
+f1 for sentiment_2 0.40876389797253104
+precision for sentiment_2 0.662778366914104
+recall for sentiment_2 0.29550827423167847
+adding sentimentseeded3 max, alongwith sentiment seeded with slack rulesconfusion matrix3 x 3 matrix
+118   92  41
+351 1164 263
+739  744 632
+f1 for sentiment_0 0.16175462645647706
+precision for sentiment_0 0.09768211920529801
+recall for sentiment_0 0.4701195219123506
+f1 for sentiment_1 0.6161990471148756
+precision for sentiment_1 0.582
+recall for sentiment_1 0.6546681664791901
+f1 for sentiment_2 0.41429039659128153
+precision for sentiment_2 0.6752136752136753
+recall for sentiment_2 0.2988179669030733

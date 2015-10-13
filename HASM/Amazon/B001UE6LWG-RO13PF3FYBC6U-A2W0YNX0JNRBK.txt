@@ -1,0 +1,11 @@
+ID: B001UE6LWG-RO13PF3FYBC6U-A2W0YNX0JNRBK
+Category: MP3Players
+Product: Archos-Video-MP3-Player-Black
+ReviewerID: A2W0YNX0JNRBK
+ReviewerName: Mr. Wise Old Owl
+Date: September 13, 2009
+Helpful: 
+Rating: 3.0
+Title: Play music - button - Battery
+Content:
+I mainly use this as an MP3 player. When it turns on it automatically brings up MUSIC on the LCD. To play the muaic I have to press the play button (in the middle)continuoulsy for from 10 to 20 times before my music loads and plays. About half the time when my music shows, it starts playing, the other half the time it comes on with PAUSE and I have to press the button again to play.  After the frustration of getting the music to play, it plays fine. Synchronation with Media Player works well. I use a different ear phone set that gives me high quality audio from the Archos 2. I do not seem to get anywhere near the 9 hours of battery time - much shorter.

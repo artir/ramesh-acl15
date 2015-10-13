@@ -1,0 +1,13 @@
+ID: B0012YPMOC-ROTUWEHLNBLRH-A200AOIRNHW6RK
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A200AOIRNHW6RK
+ReviewerName: Big E
+Date: January 28, 2008
+Helpful: 3 of 3
+Rating: 5.0
+Title: Zen is great.  Can't install software.
+Content:
+I bought the 16 GB Creative Zen in late December using the Amazon Prime service.  Even though it was supposed to arrive in 2 days, it took 6 days to get to me.  I have been enjoying the Zen.  I've loaded some of my Tivo'd shows on the Zen and watch them while travelling.  It's great being able to watch CSI, The Celebrity Apprentice, or Criminal Minds while everyone else on the plane is watching The Jane Austin Book Club.  The picture is good and the battery has not run out on me yet.  The only thing I haven't figured out yet is how to move forward or backward in a video.  I can do it while listening to music, so I'm hoping this is possible with video.  
+I tried loading the software that came with the Creative Zen on my Windows XP Professional PC, but cannot get it to load.  There is a CTX Installer error having something to do with my PC registry.  Unfortunately, customer support cannot help me with this and have told me I'm on my own.  I'm using Windows Media Player to sync my Zen with my music and videos.
+Overall it's a great player and a good alternative to an iPod.  I like the cheaper price, the included FM radio, and the ability to load my Tivo videos.

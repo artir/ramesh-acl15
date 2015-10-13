@@ -1,0 +1,11 @@
+ID: B0029ZA51I-RFDGM8UH3H8SN-A1KVVQVT796XFR
+Category: Laptops
+Product: Pavilion-DV4-1430US-14-1-Inch-Entertainment-Laptop
+ReviewerID: A1KVVQVT796XFR
+ReviewerName: ckupsr
+Date: July 26, 2009
+Helpful: 4 of 11
+Rating: 1.0
+Title: Hard Disk Failure on brand new laptop
+Content:
+I noticed that the laptop was taking a while to boot the first time I used it. I assumed this was due to some initial software updates or some such thing. But when it was consistently taking a while to boot, I ran the diagnostics on the hard drive, it continued till it was 14% complete and then stopped and gave the error, hard disk failure, replace hard disk ! This after I got delivery of the laptop and was trying to use it as is on the second day, with no new software or hardware added. I was thoroughly disappointed and have lost all faith in HP and their products. If this is the kind of reliability they offer on their products, how can one trust their offerings? Though HP offered to replace the hard disk, (which I would have had to install myself), I chose to return the laptop to Amazon, who graciously took it back.

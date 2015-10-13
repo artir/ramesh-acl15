@@ -1,0 +1,37 @@
+ID: B0012Q94AI-R2NQ2WIOKHBSLD-AKJLH6VDM5CVD
+Category: DigitalSLRs
+Product: Pentax-14-6MP-Digital-Camera-Reduction
+ReviewerID: AKJLH6VDM5CVD
+ReviewerName: J. Smith
+Date: July 5, 2008
+Helpful: 13 of 14
+Rating: 5.0
+Title: A great camera, but not perfect.
+Content:
+In March of 2008 I bought a K200D, my first DSLR.  Loved the camera, but wanted more control and more options.  So, I then bought a K20D.  
+-----------------------------------
+****CONTROLS ::  The controls on the K20D are incredibly awesome.  Everything is just *right*.  Changes from the basic K200D layout:
+A) External Metering dial
+B) External bracketing button
+C) External focal point mode dial
+D) A second e-dial, which is great.
+I absolutely love, love, love K20D ergonomics and menu system..  I can operate the camera and all its functions without looking at it.  I never press a button I don't intent to press, and I never confuse buttons.  Things just "make sense".  It's so hard to describe.  This is worlds different coming from Canon and Nikon comparisons -- Perhaps it was my unfamiliarity with those cameras, but their menu systems, while flashy, were downright confusing.
+You also have a "Green Button" mode and a "User Mode" on the K20D which is very interesting -- You can set up a custom "profile" on the K20D in User mode which sounds cool, but truthfully I haven't used it yet.
+****PERFORMANCE:
+The K20D performs admirably, just like the K200D.  There are a few differences, though:
+1) The K20D has a MUCH improved buffer - I can shoot 15 RAW files at 3.0FPS (still low), compared to 4 RAW at 2.8 FPS on the K200D.  Unfotunately the FPS on the K20D remains incredibly slow at full resolution.
+2) The K20D has a "burst" mode of 21 FPS at around 1.4MP.  Neat to play around with but nothing special.
+3) ISO goes up to 3200 standard (K200D is maxed at 1600) with 6400 available.  However, IQ drops severely after ISO 1600.  ISO 3200 is OKAY if you have a picture with non-dark areas, but there is visible banding at ISO3200 and for the most part I avoid it.  I use NoiseNinja on my ISO3200 images and they're acceptable if you're not going to crop.
+4) A noticeably improved viewfinder -- I can tell the difference immediately over the K200D.   Brighter, nicer.  Lovely.
+**** IMAGE QUALITY
+Great, just like the K200D.  As a matter of fact, I really couldn't tell you the difference in IQ between two 100% crops of the cameras, except that the K20D's crop is going to be slightly larger from the added MP.
+I've tested this extensively with three lenses (DA 16-45, DA 55-300, DA* 50-135) and there is really no IQ difference between the cameras.  I may need to get a high quality prime to tell the difference, and even then, you'll be pixel peeping.
+However, the K20D *DOES* allow you to get slightly larger prints before you start interpolating pixels, which is something to consider.
+****OTHER:
+Live view - Almost worthless.  I get hot pixels on the image when I use live view for any extended period of time.  I've refused to upgrade to the 1.01 firmware for fear of it breaking some software compatibility.  Nothing really important to me, though, because the Pentax implimentation of Liveview isn't that great.
+Sealing - Better than the K200D, but by how much I don't know.  The battery and SD card doors are latch opened instead of slide opened like the K200D.
+Battery Performance -- Pretty good.  Pentax has retained their rather uninformative battery meter, unfortunately.  I really wish they'd get with the times and introduce a %-estimate for their battery meter.
+Autofocus Speed-- Absolutely zero difference between the K200D and the K20D -- I have tested this extensively with two lenses using a video camera for frame-accurate timing.
+Autofocus Performance -- Decent.  Low light it suffers (EV5/6 or lower), but tries for accuracy, so I'm not sure what to say.  I wish it were faster.
+OVERALL --- A highly recommended camera.  Pentax makes some great glass.  Match them up with a K20D and ENJOY shooting photos.  The camera is an absolute ergonomic and control-layout pleasure to use.  Menus make sense.  Performance is good with just a few small things to gripe about.
+I really like the camera and it's recommended for those people not needing very fast FPS or first-party lenses past 300mm.

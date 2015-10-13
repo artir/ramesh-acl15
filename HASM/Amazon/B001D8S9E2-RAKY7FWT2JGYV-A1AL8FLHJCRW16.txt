@@ -1,0 +1,14 @@
+ID: B001D8S9E2-RAKY7FWT2JGYV-A1AL8FLHJCRW16
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A1AL8FLHJCRW16
+ReviewerName: E. Beyrouty
+Date: December 14, 2008
+Helpful: 2 of 4
+Rating: 3.0
+Title: Strong, but...
+Content:
+I'm the lifelong PC user that decided to give Macs a try after great iPod, iPhone experiences. I needed a new computer, the new macbooks just came out and had good reviews, so...great. I decided to give it a shot because I knew if I ran into trouble I could always run Windows. 
+At first, I went all Mac. I bought the Mac version of Office and Quicken (the two client programs I actually use) and quickly saw that they are awful. The online reviews warned me but they truly are bad. Functional but nowhere near the PC counterparts. I couldn't port my Quicken history, which has more of my time invested than many would consider normal. That's why I purchased Vista. At first I installed it in bootcamp. Easy process but once I got the drivers installed I saw that it wasn't a clean port. The glass "buttonless" trackpad functionality wasn't mapped properly. The highlight-drag-n-drop was goofy, the right click functionality was spotty, the scroll speed was jumpy. It was all there but it was driving me nuts. 
+I'm sure Apple will eventually fix the drivers (if they make it possible to install Vista, they should get the kinks out of their drivers), but this is why I decided to wipe it clean and install Vista inside VM Fusion (virtualization software). Very easy, great functionality (trackpad now works like it should) and having everything inside one desktop is great. This setup makes the entire system a little slower (still workable) but it defeats the purpose of the hardware and price points. 
+I was able to install the new versions of Quicken and Office (both great) and finally have the functionality I want. After all was said and done (apple tax, 2 versions of quicken, 2 versions of Office, Vista license, Virtualization software), I'm sure I doubled my cost compared to a decent Windows based laptop. It's a sunk cost for me but hopefully this helps others. If you are hardcore Quicken / Office users, stay with the PC. Vista is fine. If you can stay in the Mac OS entirely, this is a great product. The rating would have been higher if Macs had decent 3rd party software ports or if Apple would have provided decent Bootcamp drivers for their new hardware.

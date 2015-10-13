@@ -1,0 +1,13 @@
+ID: B000QR8UEK-R27LTRYNY2O7SH-A3ETUQ5YHJ2ZOA
+Category: SpaceHeaters
+Product: Lasko-5812-Automatic-Air-Flow-Temperature-Regulation
+ReviewerID: A3ETUQ5YHJ2ZOA
+ReviewerName: Shane Nitzel
+Date: January 20, 2010
+Helpful: 
+Rating: 4.0
+Title: Works well, but constantly heats (doesn't truly regulate temp)
+Content:
+Pros (for our situation): can be set against the wall, heats from the floor up, lit power button, high/low settings, keeps the room consistently/thoroughly warm (78*+) on low, the thermostat is accurate (we have a 'high-safety,' ceramic heater in there now, but the internal components heat-up, thereby telling the unit to shut off early AND keeping the thermostat's temperature reading artifically high while the room has yet to get within 5* of optimal temp), CHEAP(price, not initial quality--we only paid $20 or so), cycles the air through the room well (even heat).  Some people complained about the fan noise level being too high, but it's perfect for us (we want enough noise to know it's on, but it is by no means too loud).
+Cons: heating function NEVER turns off.  I thought the "Temperature Regulation System" would cycle between HIGH (for the initial heat-up), LOW (for when it is closer to the desired temperature) and either OFF or FAN (reading reviews, it seemed it never turned off, so I assumed that meant the FAN never turned off).  Anyway, (I know leaving a fan on while not in the room is neither smart nor recommended, but that's the whole reason why we needed a new heater) at minimum, there is a constant drain of 750 watts while the unit is turned on.
+Just the one con (for us).  Otherwise, it seems to be working well for us.  I just wish that the heater would turn off and the fan would stay on OR that the fan would turn off when the optimal temperature was reached.

@@ -1,0 +1,18 @@
+ID: B002OOWC06-R2KYO2BKNWYFT4-A1ZMZ9DTKNN8R6
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310RD-13-3-Inch-Ultrathin
+ReviewerID: A1ZMZ9DTKNN8R6
+ReviewerName: C. P. Kirk
+Date: November 18, 2009
+Helpful: 11 of 11
+Rating: 5.0
+Title: Wonderful cross between a netbook and a laptop
+Content:
+I just received this Toshiba laptop two days ago and am delighted with it.  I had been looking for the right product since last summer, and I'm glad I waited.  This product has the the smaller form factor and light weight of a netbook, yet it is large enough and powerful enough to be a full-function laptop.
+I have been using it for two days and have had no trouble with anything.  I purchased the Toshiba Dynadock, and downloaded the Windows 7 drivers with no problem.  The touchpad works perfectly, the keyboard is full-size, the screen is sharp and bright.  I had been looking for a matte screen, and while it is not matte, they claim it is "anti-glare."  Seems to be better than others I looked at.  Network performance is excellent -- the first device to take advantage of my N router.  Also comes with bluetooth (nice for a small portable mouse), which is not true of all others in this category.
+A couple additional notes -- the face recognition software sounds like it should work great and should provide instantaneous entree into your system.  It's a time-consuming gimmick, I'm sorry to say.  Maybe for future generations of the software.  The touchpad works well once you realize you need to use a very light touch with it.  Otherwise the motion is jerky.  Finally, the red color is gorgous.
+Enjoy!
+********
+I am adding an update to this review after having used the product for several weeks.  Overall, I am still quite delighted with it; however, I wanted to add a comment about the track pad and performance with a mouse.  I have had none of the sensitivity issues regarding the track pad that reviewers commented on with other brands of similar products.  However, the track pad and mouse are both slightly sluggish with the new graphical interface of Windows 7.  No problem at all with text, and I am hoping this is a Windows 7 issue that will be addressed in maintenance updates, not a hardware issue.  I would be interested in hearing from anyone with experience in this area.
+Additionally, the performance of the system with lots of photos, graphics, etc. is sluggish, even with 4GB RAM and the 64-bit version of the O/S.  I use the system primarily for applications that are not graphic-intensive; however, if you expect to be doing a good deal of photo editing etc., this system probably doesn't offer the graphics processing capability you would need.  
+I took it on a trip recently -- it is about the size of a college notebook and light in weight.  I used it for 4 hours straight and still appeared to have approx 50% battery left.

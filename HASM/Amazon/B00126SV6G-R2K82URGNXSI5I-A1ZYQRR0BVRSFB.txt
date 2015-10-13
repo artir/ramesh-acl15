@@ -1,0 +1,16 @@
+ID: B00126SV6G-R2K82URGNXSI5I-A1ZYQRR0BVRSFB
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A1ZYQRR0BVRSFB
+ReviewerName: Wilton R. Chiles "geezer game player"
+Date: June 23, 2008
+Helpful: 
+Rating: 4.0
+Title: Creative Zen good
+Content:
+I love this little guy once you get past THE PROBLEM.
+THE PROBLEM is that the accompanying software insists that the Zen
+is not connected, even though it is. I found the answer on the web.
+You have to change Windows Media Player 11
+back to version 10. There is a program that does that for you.
+I'm sorry I have lost the URL.

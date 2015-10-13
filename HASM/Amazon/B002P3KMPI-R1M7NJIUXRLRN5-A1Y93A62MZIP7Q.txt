@@ -1,0 +1,19 @@
+ID: B002P3KMPI-R1M7NJIUXRLRN5-A1Y93A62MZIP7Q
+Category: Laptops
+Product: UL50Vt-A1-Light-15-6-Inch-Black-Laptop
+ReviewerID: A1Y93A62MZIP7Q
+ReviewerName: Nick A. Shertzer "NAS Technology Consulting"
+Date: December 13, 2009
+Helpful: 17 of 19
+Rating: 5.0
+Title: New Owner Loves 12 hour battery life
+Content:
+So, maybe you don't get 12 hours?  But at least that's a ballpark figure being thrown around...  Especially when you consider the smart power management Asus has thrown in this peppy, thin, cool to the multi-touch, 4GB DDR3, 16:9 LED, laptop.  The  intel core 2 duo + nvidia G210M is a potent combonation.
+The system claims EXPRESS GATE boots in 8 secs, and it really is 20 secs to a Hulu video.  Windows 7 Premium took my picture instead of a password after an impressive 1:05 and was streaming video in another 12. I easily overclocked the 1.3Ghz duo by 5% using the super customizable Asus bios. I want to tweak the embedded linux, or maybe just run ubuntu on that 500GB hard drive (it came pre-partitioned with two 250GB partitions).  
+There are two POWER buttons. One controls windows power options; stepping down the processor.  It has 4 power modes, that could frankly use some tuning.  Too bad I can do a better job customising, but Windows 7 isn't saving my desktop prefrences right now.   
+Turning off the discrete grapics also turns off Aero.  Then this HUGE 15" becomes a netbook, seemingly gaining unplugged longevity by closing the lid.  Standby resumes in an impressive sub 5 secs.  Maybe I'm the only one who remembers when computers were slow.  I haven't had this computer plugged in all day!  The touch pad seems a bit off at first, but then you realize that it has to be offset to the left to keep your palms out of the way.  This allows for a full keypad to the right and a plethora of FN keys. And did I mention the multi touch trackpad?  It does three fingers. Now I'm considering the 2 yr warranty and 1 year accidental damage that is included?! 
+Best machine for the OPTIONS!
+[EDIT]
+I have loaded Ubuntu 9 (thus triple booting the laptop).  You can enable all CompizFusion desktop effects, including the desktop cube with no jitter (very smooth animations)!  Very fast, very impressive.  Also, unexpectedly, Ubuntu picked up on the multi-touch trackpad.  I haven't played around with it too much to figure out how to change the two finger tap to be right click (it is set to do some desktop effect right now), but knowing it is possible is awesome.  
+Also, I only plug in this laptop at night, while I am sleeping.  I have been using it all day at work (I am an IT systems administrator) and even watched a couple full length movies while working and still never had to plug it in.  WOW!  Asus has it loaded up with the "Power4Gear Hybrid" program that lets you set your power options (High Performance, Entertainment, Quiet Office, & Battery Saving).  The built in defaults are fine for most people, but again the options are what sets this baby apart.  You can define the Maximum and Minimum processor state, toggle Turbo mode, adjust display brightness, change sleep / hibernate options, enable disable devices (camera & ODD), and base it all on the plugged in state (thus giving you eight 8! power modes).
+[...]

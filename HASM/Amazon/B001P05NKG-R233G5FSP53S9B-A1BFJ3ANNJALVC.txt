@@ -1,0 +1,11 @@
+ID: B001P05NKG-R233G5FSP53S9B-A1BFJ3ANNJALVC
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A1BFJ3ANNJALVC
+ReviewerName: N. Majumdar
+Date: September 13, 2009
+Helpful: 19 of 36
+Rating: 3.0
+Title: Latest mac OS incompatible with printers, security software etc.
+Content:
+Snow leopard, which will be installed in any new macbook now is incompatible with the latest Symantec and Norton security software and also with a lot of printers. For example, the Canon Pixma MP620 will work only as a printer. Its scan and photocopy functions are incompatible at this point. For all of these issues, the support people at Apple will say that they are "working on it" which doesn't do us much good at the present moment. Apple should notify new customers of this problem. Don't purchase this until you've checked the Apple website to see what support issues Snow Leopard is having and seeing whether you can live with them. My home printer is now useless to me except as a printer. As for security software, I am without it at the moment because none of the ones I get from work are compatible. Don't think macs aren't susceptible to virus attacks. That's what they will tell you if you ask about what security software to use. If that were the case, there would be no need for mac versions of Symantec and Norton. Finally, one more issue is that Safari tends to crash unexpectedly. There's information on this too at the Apple site. If you can live with these issues (which will no doubt be resolved eventually), then go for it. Otherwise ask for a downgrade to Leopard from Snow Leopard.

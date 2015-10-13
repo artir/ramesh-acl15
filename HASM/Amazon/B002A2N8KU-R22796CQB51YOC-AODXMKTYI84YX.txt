@@ -1,0 +1,16 @@
+ID: B002A2N8KU-R22796CQB51YOC-AODXMKTYI84YX
+Category: Laptops
+Product: Lenovo-IdeaPad-Y650-Recordable-Integrated
+ReviewerID: AODXMKTYI84YX
+ReviewerName: A. J. Lenze
+Date: December 7, 2009
+Helpful: 
+Rating: 4.0
+Title: Not Bad - For the Price I Got
+Content:
+First of all, I got mine for $[...] plus shipping.  Second, mine has 4 GB RAM and a 2.53 GHz processor.  These specs may be different than the unit you're considering.
+PROS:  Slim, responsive, speakers sound great, display looks great for watching movies, love the HUGE hard disk, push button volume and mute
+CONS:  Kind of bulky (but what can you expect from a 16" display?), keyboard quite small - especially for the amount of space available, only two USB ports (at least they're on opposite sides), obnoxious low-battery warning that can only be turned off if ALL sound is turned off, hard drive not as big as advertised, display doesn't have a very wide viewing angle especially for dark colors, would have preferred a larger battery option, even with most exotic feature disabled the mousepad seems to do things I don't expect, hard disk not really as big as advertised (see below)
+THOUGHTS:  I know my con list is bigger than my pro list, but don't let that fool you - I'm just picky.  I had to buy a new laptop because my 2-year-old Toshiba (which I never really liked) was going off to blue-screen-of-death world far too often.  This seems to be a solid, if not spectacular, model, especially if you can get it for as low a price as I did.  It lasts about 2.5 hours on battery, assuming you're not using the DVD drive or watching video.  I've read complaints about the display not being that great for gaming, but that's not what I'm using it for.
+About the hard drive, it's advertised as 320 GB, but it really only has about 250 GB of usable space.  The hard drive is partitioned into a 252 GB C: drive and a 30 GB D: drive.  (Supposedly there's another hidden "service" partition using about 15 GB.)  You have to keep everything partitioned this way if you want one key recovery to work.  That means you lose about 20% of your hard drive for a feature you'll probably never use.
+FINALLY:  Please, please, please, please, please stop pre-installying so much crap ware.  And I almost forgot - WINDOWS VISTA SUCKS!  (It reminds me of a description I read about AOL years ago:  I'm mad as hell and I AM going to take it some more!)  But at least my "free" ($15+ for handling from Lenovo) upgrade to Windows 7 is coming.

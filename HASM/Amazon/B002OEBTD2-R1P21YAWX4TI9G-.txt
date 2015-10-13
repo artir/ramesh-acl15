@@ -1,0 +1,20 @@
+ID: B002OEBTD2-R1P21YAWX4TI9G-
+Category: DigitalSLRs
+Product: Pentax-K-x-2-7-inch-18-55mm-White
+ReviewerID: 
+ReviewerName: 
+Date: April 9, 2010
+Helpful: 2 of 4
+Rating: 1.0
+Title: Mirror slap problem ruins my experience with Pentax
+Content:
+I was totally excited about getting K-x after I tried K2000 for short period of time. However after I learned camera does not produce sharp pictures I started looking deeper and found that there is image shake problem caused by mirror slap. It seems like on exposures around 1/60-1/125 hand-held there is always image shake of 6-10 pixels resulting in very unpleasant blurry images. 
+It was sent to pentax repair facility twice, first time mirror box was replaced, did not help the issue. Second time repair was refused on the grounds that issue does not exist.
+This is sample test I did with the camera after it came from repair first time:
+[...].
+There are number of forum threads all over internet about this issue:
+[...]
+[...]
+[...]
+just to name a few. More can be found by googling for 'K-x mirror slap'.
+Calling pentax was depressing, they claim it is user error, no attempt can be made to repair camera, pentax refuses to replace or take it back.

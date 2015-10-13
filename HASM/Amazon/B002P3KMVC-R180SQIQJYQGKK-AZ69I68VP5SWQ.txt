@@ -1,0 +1,15 @@
+ID: B002P3KMVC-R180SQIQJYQGKK-AZ69I68VP5SWQ
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: AZ69I68VP5SWQ
+ReviewerName: W. Battalora
+Date: January 28, 2010
+Helpful: 1 of 5
+Rating: 3.0
+Title: Battery life not what it claims to be
+Content:
+I purchased this laptop on Thanksgiving week.  It is now end of January.  My laptop (not running anything except Mozilla and Google Desktop, clocking in 5% of CPU usage) is showing 34% battery remaining for an expected 1 hr 54 minutes.  Do your math.  This laptop really has a battery life of 6 hours.
+I have another ASUS computer (Eee 1005).  Same battery situation.  
+So if you are purchasing this laptop because of the "phenomenal battery power", better think again.
+I also would like to see Blue Tooth on this laptop.  It doesn't come with one, and I have to use a mini USB-bluetooth device.  
+Otherwise I have no real issue with this laptop.  Yes, it is light.  Screen is too glossy and reflective.

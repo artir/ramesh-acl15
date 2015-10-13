@@ -1,0 +1,12 @@
+ID: B002BNCUOI-R15BVILLRW8WKH-ANV6NLOS3DK25
+Category: Laptops
+Product: Hewlett-Packard-NW144UA-ABA-G60-440US-16-Inch
+ReviewerID: ANV6NLOS3DK25
+ReviewerName: Joe S.
+Date: August 13, 2009
+Helpful: 23 of 24
+Rating: 5.0
+Title: Can't Beat Price/Performance
+Content:
+I received this notebook a couple days ago, and I'm currently in the process of cleaning all the "bloatware" off of it (though pretty much any computer maker is going to install this on systems they sell, this is really my main problem with HP products).  It should run Vista fine after that (though I may end up "downgrading" to XP -- I plan on doing IT work with this notebook and need specific software tools that I know run on XP -- the 10-key is definitely a plus for entering IP addresses quickly for IT work).  This notebook gets a 3.5 performance rating in Vista (the weakest component is the integrated video, but that is to be expected).  One thing you don't really see in the pictures on Amazon is that the top of the shell is very shiny black, and will easily show fingerprints, and will quite likely be susceptible to scratches, so make sure you get a good case if you want to maintain its appearance.  At the current pricing, this thing is a steal (especially when you factor in the free upgrade to Windows 7, coming out this fall).
+Update 10/17/09:  I just installed Windows 7 Ultimate (I wanted the Bitlocker drive encryption feature, so I will not be using the free upgrade of Windows 7 Home Premium HP will be sending me) last night without a hitch -- I did not need to download any drivers from HP and the notebook successfully connected to the Internet after only having to enter the wireless network key.  The notebook is much snappier with Windows 7 than with Vista.  Still, an excellent value, even though the OS I just loaded onto it cost almost half as much as the notebook originally did.

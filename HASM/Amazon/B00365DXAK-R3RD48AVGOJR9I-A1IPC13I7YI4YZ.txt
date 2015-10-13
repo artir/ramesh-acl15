@@ -1,0 +1,17 @@
+ID: B00365DXAK-R3RD48AVGOJR9I-A1IPC13I7YI4YZ
+Category: Laptops
+Product: Sony-VPC-Z116GX-13-1-Inch-Laptop-Silver
+ReviewerID: A1IPC13I7YI4YZ
+ReviewerName: GadgetFreak42
+Date: April 22, 2010
+Helpful: 3 of 6
+Rating: 1.0
+Title: flimsy,  deceptive specifications, NOT linux friendly at all!,
+Content:
+First, let me start with the build quality and performance.  The machine is very light.  Too light really.  When I try to push the power button on the side of the computer, the whole machine slides across my desk!  The screen looks very nice (much nicer than my Lenovo T410s), but has perhaps too many pixels for the small area.  I guess this is fine if you scale up your fonts.  The CPU (i5 520m) performance is excellent, and the Samsung 128GB SSD is blazing fast.  However, there are several major caveats:
+The screen does look nice but it bends a lot when you pick it up from one corner, a lot more than my Lenovo T410s.  The keyboard feels mushy compared to the Lenovo.  There is not much resistance.  This notebook puts out a crap-load of heat; the bottom gets uncomfortably hot and thus is not really a laptop.  The T410s, in contrast, gets slightly warm (the absence of a high-end graphics card like the 330M is probably a major factor).  
+The solid state drive is not really 128GB.  It is two 64GB SSDs in an Intel fake raid-0.  Reformatting the disk still leaves you with two 64GB devices, not one 128GB device.  YUCK, this is suboptimal.  I don't see how TRIM support (basically wear leveling, please correct me if I am wrong) can possibly work with this setup.  Based on what I've read on the internet, the lack of TRIM will cause disk performance to gradually degrade over time.  I thought that this SSD would be a standard 1.8", however, it is NOT (it is a non-standard 1.5", which you can't find ANYWHERE).  A better 1.8" disk like the Intel X18-M WILL NOT FIT, BEWARE!  So if the SSD croaks, you're screwed and you will have to pay sony big bucks to repair your laptop if it is not under warranty.  Non-standard parts is a big no-no in my book.  If I buy a machine, I expect to have the option to service it myself.  This makes that very difficult.  
+The BIOS is the most locked-down I have ever seen!  You can't modify ANY of the CPU options (e.g., virtualization, hyperthreading).  THe only thing it can do is change boot order.  Pathetic for power users who know what a BIOS is.
+Battery life seemed good in Windows, > 5 hours.  Unfortunately, I could not get a single linux distribution (OpenSuSE 11.2, Ubuntu 9.10, Ubuntu 10.04, Linux Mint 8) to get the touchpad to work.  This is ridiculous!  Also, it is basically impossible to get both the discrete and integrated graphics to play nice in Linux.
+Bottom line: If you only use windows and don't care for Linux, don't mind the heat, lack of upgradeability/serviceability, and misleading specifications, but like the high amount of power packed into a small very light (3lb) package, then this is your laptop.  Otherwise, I would recommend something like the T410s, which has much better build quality/reliability and Linux compatibility, if you don't care about graphics performance and a mediocre screen.  If you do care, i'm sure there are alternative offerings from Lenovo, Dell or HP (like the EliteBook) which would do the trick.
+This laptop was very disappointing for power users like me; I returned mine after a week and kept the Lenovo T410s instead.

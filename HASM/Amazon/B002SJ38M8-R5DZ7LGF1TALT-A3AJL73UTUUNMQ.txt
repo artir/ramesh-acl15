@@ -1,0 +1,11 @@
+ID: B002SJ38M8-R5DZ7LGF1TALT-A3AJL73UTUUNMQ
+Category: Laptops
+Product: Acer-Aspire-AS1410-2497-11-6-Inch-Laptop
+ReviewerID: A3AJL73UTUUNMQ
+ReviewerName: James T. Brown
+Date: November 7, 2009
+Helpful: 17 of 19
+Rating: 4.0
+Title: Aspire 1410
+Content:
+Acer Aspire AS1410-2497 11.6-Inch Blue Laptop - Up to 6 Hours of Battery Life (Windows 7 Home Premium)  All in all great machine.  However, be aware that this model sports a single core processor.  The newer dual-core model with increased performance is model number 1410-2801 (with a smaller 160GB drive).  Consider upgrading the internal hard drive to a larger WD WD6400BEVT 640GB.  Have fun!

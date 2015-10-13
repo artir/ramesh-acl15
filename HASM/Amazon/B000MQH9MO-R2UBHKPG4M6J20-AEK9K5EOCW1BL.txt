@@ -1,0 +1,11 @@
+ID: B000MQH9MO-R2UBHKPG4M6J20-AEK9K5EOCW1BL
+Category: MP3Players
+Product: SanDisk-Sansa-Connect-Player-Black
+ReviewerID: AEK9K5EOCW1BL
+ReviewerName: Robert Lee
+Date: January 2, 2008
+Helpful: 
+Rating: 4.0
+Title: My new player of choice
+Content:
+I have one and am very impressed.  It is now my player of choice.  I signed up previously for the mastercard 2 for 1 two year promo for the yahoo music unlimited promotion (not the to go service)and it works well with the launchcast internet radio. I don't think you can connect to any internet radio, it has to be the Yahoo unfortunately.  You can drag and drop in windows explorer with WMP 11 installed, it was not recognized with WMP 10. Four stars instead of 5 for not connecting to other internet streaming stations other than Yahoo.

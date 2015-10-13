@@ -1,0 +1,53 @@
+ID: B002JCSV5I-R2FM8BJ34NO5QP-ALYU98KL3VUGF
+Category: DigitalSLRs
+Product: Nikon-D3000-Digital-18-55mm-3-5-5-6G
+ReviewerID: ALYU98KL3VUGF
+ReviewerName: Enche Tjin
+Date: September 11, 2009
+Helpful: 138 of 146
+Rating: 5.0
+Title: Super user friendly beginner camera with great AF system and image quality
+Content:
+Nikon D3000 is Nikon beginner / entry level camera. It replaces Nikon D60. There are three major upgrade of D3000 from D60. There are 11 Auto focus system with dynamic tracking and 3D tracking. This AF system is the same as Nikon mid-range/enthusiast camera, D90. Also, the LCD screen has been enlarged to 3 inches from 2.5 inches. However, the screen resolution remains the same at 230,000 dots. Also new is the Guide mode, this new mode is working as your tutor on basic photography. It helps you set up your camera, in the same time, it tells you about basic photography setting and concepts. Other than that, everything looks the same, buttons, placement, viewfinder and image quality/resolution.
+It is an average size for beginner DSLR camera. But if you are coming from compact camera, you might a bit surprise of the size. On the other hand, if you are coming from advanced DSLR cameras, then you will feel this camera is compact and light.
+Nikon D3000 has a thumb dial, which you will use most of the time to change shutter speed and aperture. There are mode dial on the top of the camera. Several basic buttons such as playback, delete, menu, magnifiy/zoom, and exposure compensation. There is also a function (Fn) button on the left side, near the flash that you can customize according to your need.
+Coming from more advance Nikon camera like Nikon D90, what missing are the ISO button, Image Quality button, Release mode button, AF mode button and White Balance button. If you want to change  above settings, you need to go to shooting menu (green camera icon). I recommend you to customize the Fn button so you can change you favorite button faster. I change my D3000 Fn button to ISO setting.
+Build quality and Ergonomic
+Nikon D3000 body is built by rugged plastic. There is texture in the grip area to ensure comfortable grip. The built quality of outer shell is the same or almost the same as Nikon D90. The difference is there are more textured finish in Nikon D90 body. Ergonomically, it is good to hold, but the space between lens mount and the grip is pretty tight. If you mount bigger lens or if you have big hands, then you might not feel it comfortable. Compare to Nikon D60, I noticed that the pistol grip is more curvy instead of pointy. This is a small improvement that you might appreciate.
+LCD Screen
+D3000 has 3 inches LCD screen with 230k resolution. This is considered basic, but the screen is clear, sharp. If you like to check on the details or pixel levels, it is best to check the images on your computer. In the bright light condition, this screen is relatively good. There is minimal glare/reflection.
+Nikon D3000 has 95% coverage and 0.8x magnification viewfinder. It is considered small for DSLR size, but for people who moves from superzooms or advanced compact, this viewfinder are big and a lot clearer. Manual focusing is more challenging than the other Nikon's more advanced DSLRs.
+Like Nikon D5000, Nikon D3000 does not have top LCD screen like D90 or more advanced camera. Unlike many of competitors entry level DSLR cameras, Nikon D3000 does not have any live view feature.
+Lens and Compatibility
+Nikon D3000 comes with Nikon 18-55mm f/3.5-5.6 VR lens. This lens has a plastic mount, but the image quality and the light is recommendable. It never get super sharp like pro grade lens, but pro grade lens might costs more than ten times, so 18-55mm VR is one of the best value lens out in the market.
+The lens has image stabilization feature which is called Vibration Reduction (VR). It works well and quietly up to 3 stops. If you hold the camera tight and still, you can shoot up to a quarter second without motion blur.
+Unfortunately, D3000 does not have built in focus motor in the camera, therefore, it can't auto focus older lenses such as the venerable Nikon 50mm f/1.8 or the legendary Nikon 85mm f/1.4D. Lenses that compatible with this camera are lenses that has built in motor (usually has AF-S code on it) and for third party lenses, look for HSM (Sigma lens). 
+Image Quality and ISO
+Nikon D3000 employs 10 megapixel image sensor. This sensor is a bit inferior than sensors in the D90 and D300. But still this is more adequate for large print.
+Image quality is excellent up to ISO 800. At 1600, a lot of noises start to creep in especially in shadow area. At 3200 (or Hi setting), the image is unacceptable only for very small print of web.
+If you turn on Noise Reduction or NR (unfortunately no low-medium-strong option), the camera with smooth out the noises, but the image become softer and lose some details. If you concern about the lost of details, I suggest you to shoot with NR off, and then take care the images with image editing software to treat the noise.
+Like other Nikon DSLR cameras, D3000 also has Auto ISO limiter. You can effectively limit the ISO and minimum shutter speed. The Auto ISO works very well and accurate most of the time. My favorite way to use this is to set the camera to Auto ISO, and then use Aperture mode and let the camera adjust the rest for me.
+D3000 does not have 1/3 stops ISO increments, so you only can set ISO to the regular base level or 100, 200, 400, 800, 1600 and 3200 (HI). But to be fair, most of the entry level DSLR cameras does not have that too.
+Auto Focus and Continuous burst
+The new 11 AF points are miles better than old 3 points AF system. It helps a lot in composition and fortunately, it also comes with dynamic tracking and 3D tracking which is great for moving objects and sports. The auto focus is very fast and responsive. However, D3000 has only 3 frame per second, so you might miss some shots when shooting sports or fast moving objects.
+Guide Mode
+Nikon's Guide mode is a tutor for absolute beginner. It does a good job on helping you to set up the camera and also help you to get the best setting for particular kind of photography. For example, when you choose  sports mode, it suggest you to set high shutter speed to eliminate motion blur.
+Guide mode is basically a super duper friendly menu that consists of three major options: Shooting, playback and camera setup. Shooting menu (the most important of all), divided into two, easy operation and advanced operation.
+Easy operation consists of Auto, no flash, distant subjects, sleeping faces (children), moving subjects, landscapes, portrait, and night portrait.
+Advanced operation consists of soften background, freeze motion (people) and freeze motion (vehicle). Unlike the usual mode, Guide mode explains to you what kind of setting is important for particular kind of photography, so you can gain insight and knowledge of basic photography concept.
+However, keep in mind that although his guide menu is very helpful, but it does not replace basic photography course or seminar.
+Photo Retouch
+D3000 offers some basic camera processing such as quick retouch (camera automatically enhance or optimize the image). Miniature effect which is fun to play with. Basically you will need to choose a point in the image, and then the rest of the image will be blurred, giving a depth of field illusion.
+Other basic retouches are also available such as crop/trim, filter effects, color balance, BW, sepia, etc. The downside is the processing time of one image could take up to 10 seconds.
+Conclusion
+I applaud Nikon for D3000 because the design is very user friendly through Guide Mode. With the help of this mode, beginners will able to learn basic photography faster. Various photo retouches ignite creativity and fun. I also love the the installment of 11 AF system which is usually reserved for higher end cameras.  D3000's competitors does not have this sophisticated AF system.
+On the other hand, Nikon D3000 have two main weaknesses, first it does not have built-in AF motor for older but great lenses. D3000 also does not have live view mode which actually can help tremendously in focusing those old lenses.
+If you have Nikon D60 you might want to look for more advanced camera such as Nikon D90 or D300. However, if you have Nikon D40 or compact cameras, this camera is a very good upgrade choice.
+In short, Nikon D3000 is a solid camera for beginner that is simple, fun, and has great image quality. It is definitely worth your money.
+Subjective Rating - Relative to entry level DSLR cameras
+Image Quality : 4/5
+Features : 4/5
+Performance : 5/5
+Body and Handling : 4/5
+Value for Money : 4/5
+Please check out my website for more reviews.

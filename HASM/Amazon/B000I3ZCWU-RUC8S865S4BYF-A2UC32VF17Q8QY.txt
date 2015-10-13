@@ -1,0 +1,23 @@
+ID: B000I3ZCWU-RUC8S865S4BYF-A2UC32VF17Q8QY
+Category: DigitalSLRs
+Product: Canon-Digital-10-1MP-Camera-Body
+ReviewerID: A2UC32VF17Q8QY
+ReviewerName: Chris D
+Date: December 2, 2007
+Helpful: 21 of 43
+Rating: 3.0
+Title: You've heard all the good points, here are the problems
+Content:
+If you're rooting through the 300-and-some-odd reviews for this camera, stop and read this short review; it might save you some hassle.  If you're still interested afterwards, THEN read the other reviews.  If I'd read this review, I might not have bought this camera.  
+I chose the XTi because although I'm by no means a professional photographer, I wanted a good solid camera that would take great pictures easily straight out of the box, yet not limit me if I decided later to get fancy and buy upgrades, better lenses, accessories, etc.  The reviews I read here overwhelmingly sang the XTi's praises.  One of the features I was most excited about was the ability to take lots of pictures in very quick sucession.
+Which is true, it does.  This is probably my favorite thing about the camera.  But I ran into a problem almost immediately.  
+I take a lot of indoor shots, one after the other, and this camera's built-in flash JUST CAN'T HANDLE IT.  It will let me take about 20 in a row, practically as fast as I can push the button, but after twenty I'm forced to wait a little over 10 seconds between shots.  And that seems even longer when you're missing great shots while waiting for the 'busy' display to turn off.  If I let the camera rest a few minutes, sometimes it's kind enough to give me four or five more fast shots in a row, but then the ten-second delay comes right back.
+I find this very hard to understand...it's NOT a battery issue.  The lithium battery that comes with it seems great to me, I don't think I've ever seen it drop below 'full' no matter how many pictures I've taken.  Besides that, if it were a question of the flash recharging, the time between shots would GRADUALLY lengthen, rather than going from 20 superfast shots to an immediate ten second delay.  Anyway, I tried switching to a fully charged battery and it didn't make any difference.  
+After further investigation, it says right in the instruction manual that "if you shoot 20 images with flash at short intervals, the flash might stop operating.  This is to protect the flash unit."  So this is apparently an overzealous safety feature.  This is the kind of thing that should be printed in red letters on the box before you buy the camera, not a fun surprise you find buried on page 54 of the camera's manual after you've got it home.
+-----
+There's another problem which I knew about going in, but I didn't realize how much I'd miss it until I didn't have it anymore.  My old camera had the fairly obvious benefit of being able to preview the viewfinder on the LCD screen, so that you didn't always have to have the camera up to your face to take a picture.  This is a fairly standard feature on digital cameras, I'd say...nearly universal.  Makes tripod shots easier.  But the Canon does not allow you to do this...every shot you take will have to be through the viewfinder.  The Canon has a nice 2½" screen, but by not allowing you to set up shots through it, it's kind of wasted.  After taking a few hundred shots I tend to have double vision for hours after peering through the viewfinder for every shot.  
+-----
+So.  To sum up.
+If taking lots of fast indoor shots is important to you, then either go on to the next camera, or include the cost of an external flash in your price comparison.  Likewise, if you've used the LCD preview feature on digital cameras previously, note that it is not an option on this camera, and you will miss it.
+I don't have any experience with other comparable cameras, but you might look into a Nikon D80...I did a quick search for the word "flash" in its reviews and found no complaints about delays.  It may be $1000, but if the Canon's slow flash would require you to buy a flash unit ANYWAY, then they're nearly the same price.  Plus the D80 comes with an 18-135mm lens, compared to the Canon's 18-55, so overall the D80 might be a better deal despite the higher price.
+Anyone want to buy a slightly used Canon XTi?

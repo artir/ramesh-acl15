@@ -1,0 +1,35 @@
+ID: B002SIHDN4-R3LAKUOCEDS60Z-A3V4KN5VHHD9G2
+Category: Laptops
+Product: HP-ProBook-5310m-SP9300-4500MHD
+ReviewerID: A3V4KN5VHHD9G2
+ReviewerName: FNJ
+Date: December 16, 2009
+Helpful: 3 of 4
+Rating: 4.0
+Title: A good choice for a business machine!
+Content:
+I received one of these some time ago for our new shipping department. I have since put it through its steps and tested the win xp pro installation and the win 7 pro installation. It currently has win 7 pro on it. Here are my impressions of this business class/owner/user laptop.
+****
+Good:
+1. Keyboard. What a lovely thing to type on! (However see the spacebar con listed below.) Possibly the nicest thing I have typed on since my IBM T42p.
+2. Pleasing external aesthetic build. HP did a good job on this one imo....
+3. Battery life. Come on - a 4 cell battery giving me 6 1/2 hours of word processing time? Great! Lets see what an 8, or even a 12 cell could do!
+4. Speed and functionality. For the simple to medium level tasks I do this machine is completely adequate.
+5. Trackpad and Mouse buttons. Also very serviceable indeed. For some reason I really like the Mouse Buttons. Not sure why....
+6. Bluetooth and Wireless N. Always nice to have a machine with both.
+7. Win XP Pro and Win 7 Pro. This is the ideal combination of OS offerings on a laptop for my situation.
+8. Bang for the buck. I purchased the machine for about $970 after tax and shipping. I have been quite satisfied with it thus far.
+9. Single screen hinge design. A personal favorite design wise for me.
+****
+Cons:
+1. The main negative for this laptop I have come across is the spacebar. It is fine, but I myself have had problems getting it to register my typing with it. From what I hear this is an early issue, and that later laptops of this model do not have the same issue. There is also an unofficial fix for it (somewhat involved, and which users may not feel comfortable doing). Still - to me this was a discouraging design flaw imo.
+2. Fingerprint magnet. *sigh* (More of an aesthetic complaint on my part, though.)
+****
+Middle of the Road things.
+1. Hard drive noise. As others have noted every once in a while the hard drive sounds exceptionally loud - almost as if in fits and starts - and you can feel the machine vibrating every so slightly.
+2. No optical drive. This should not be too much of an issue for business users who sometimes can simply hook up to a deployment server, but it still is nice to have as an option. It would not be too difficult to ship an external drive with the laptop proper imo, and would be helpful.
+3. Low profile machine/heat issues. Personally I would have liked it if the HP somehow stood higher up for heat and air distribution. I have not had noticeable heat problems thus far - but it is a sort of general principle I prefer.
+4. Single slot for Ram. Hmph ... two would have been preferable. Still - it functions quite nicely in both win xp pro and win 7 pro with 2gb.... This means upgrades in Ram will be expensive for the time being.
+****
+All in all this is an amazing machine. And if indeed the spacebar flaw was quickly fixed it is an absolute steal for the price it sells for. I am very much looking forward to seeing how well it will function battery life wise with a 6, 8 or even 12 cell battery!
+If I could I would have given this machine 4 1/2 stars.

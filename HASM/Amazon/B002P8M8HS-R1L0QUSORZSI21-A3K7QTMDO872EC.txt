@@ -1,0 +1,13 @@
+ID: B002P8M8HS-R1L0QUSORZSI21-A3K7QTMDO872EC
+Category: Laptops
+Product: Toshiba-Satellite-L505-S5993-TruBrite-15-6-Inch
+ReviewerID: A3K7QTMDO872EC
+ReviewerName: Kendrick "Rick"
+Date: February 3, 2010
+Helpful: 0 of 1
+Rating: 5.0
+Title: You should be happy
+Content:
+This was purchased for my wife to use when away from her desktop computer.  First, number one thing to do is make backup disks to return it to the shipped config as Toshiba recommends. I don't know why, but laptops for some reason seem to be less stable than desktops.  I do considerable mods and can get myself in trouble, so my experience may not be the norm.  It does come loaded with a few "trial" and junk programs but not that many in comparison with Dell consumer versions for example. 
+The Win7 64 bit operating system, although it is just an overlay of Vista, may still be an issue to you if all your software is designed for 32 bit.  I ran into this with my anti-virus program.
+My wife loves it to date.  Her only complaint is the lack of a paper manual as she had trouble logging on to foreign wi-fi hot spots when I wasn't around to advise.  She wants a computer to work as well and be as simple as a toaster.

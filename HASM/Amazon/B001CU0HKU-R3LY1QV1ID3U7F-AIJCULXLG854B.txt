@@ -1,0 +1,14 @@
+ID: B001CU0HKU-R3LY1QV1ID3U7F-AIJCULXLG854B
+Category: Laptops
+Product: Dell-Latitude-D630-14-1-Inch-Notebook
+ReviewerID: AIJCULXLG854B
+ReviewerName: Matthew Coffey
+Date: February 19, 2009
+Helpful: 
+Rating: 4.0
+Title: Dell D630 review
+Content:
+The Dell D630 is a remarkable machine. I work for a university that is replacing older model laptops with the D630. This laptop was given to me for testing purposes and I must say I enjoy the features and durability it has provided me. 
+The hardware is more than adequate for the needs of our students. The Core 2 Duo processor isn't top of the line but will run most operating systems flawlessly. I tested this one with Windows XP, Windows Vista and am presently running OpenSuSe 11.1. The machine I am using comes with 2 Gigs of ram but can be upgraded to 4 gig. The only time I notice any ram issues is when I am doing video intensive work while the 3D desktop in SuSe is turned on. The resolution only maxes out at 1440X900, but the clarity of the LCD screen more than compensates for that. The 4 USB ports are also a nice addition to the machine. There are other Dell Latitude's I've experienced that only provide two ports. 
+The durability of this machine is more than one would expect from a Dell product. With previous Dell laptops I easily pop keys off and have even cracked a screen by dropping only 10 inches. The D630 has given me a new found hope of the durability of Dell laptops. I have knocked it off the table without any issue. I have left it in my vehicle overnight (-10 degrees) and it was just fine. My children have used and abused this laptop. All it seems to require is a nice wipe down and it looks as nice as the day the machine was given to me. 
+The only things I would like to see improved on is a SD-card reader built in. Maybe a little better speaker set. I believe there is only one speaker built into this machine. There is no S-video port on this machine. With previous Dell's in my possession, there have always been S-video and I have become acclimated to having one on my machine. The D630 also appears to be a little heavier than what I am use to using. I don't mind lugging my laptop around but I other people I talk with say they would never carry anything that heavy with them for work. (mac)

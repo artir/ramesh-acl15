@@ -1,0 +1,15 @@
+ID: B001Q04HTI-R3AVF70GPHWFUA-A201HDII9SM83F
+Category: Laptops
+Product: Lenovo-IdeaPad-Y530-7343U-15-4-Inch-Processor
+ReviewerID: A201HDII9SM83F
+ReviewerName: Hirudinea
+Date: September 16, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Very satisfactory computer for entertainment purposes
+Content:
+I bought this computer primarily for entertainment purposes and it's handled everything I've thrown at it.  I splurged for the nvidia dedicated graphics card which means I can play games like Vampire the Masquerade: Bloodlines and The Witcher on full res with no lag (even with environmental details like rain).  Besides gaming, streaming Netflix and Hulu is a breeze and the screen is an excellent size for watching movies. As far as speakers go, the Dolby surround (which really works) plus the subwoofer is worth the extra weight, they sound better than many external speakers, and can get pretty loud if that's what you're into.
+I thought that I wouldn't like the reflective screen but it really hasn't been a problem, the colors still come through bright and crisp.  
+For everyday use (work/school) this computer is a bit heavy to lug it around all day (but it's doable).  I am using it for some basic bioinformatics (sequence alignment, etc) for which it is perfectly adequate. 
+What else? The 4GB ram means that the computer is fantastically fast, but as the other reviews have mentioned, Vista is a pain and eats up a full 2GB, you'll want to downgrade to XP(or upgrade when windows 7 comes out). If you decide to splurge for the Nvidia card like I did you should check for driver updates, mine were not up to date and it makes a difference performance-wise. The computer also came with "free trial" software including unregistered versions of Microsoft Office, so I had to spend a good 2 hours cleaning up my hard drive.
+All in all, once I got the computer set up it has been smooth sailing with very few issues, none of which are related to the hardware itself.

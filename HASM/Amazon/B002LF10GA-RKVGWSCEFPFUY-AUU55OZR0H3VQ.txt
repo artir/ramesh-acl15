@@ -1,0 +1,20 @@
+ID: B002LF10GA-RKVGWSCEFPFUY-AUU55OZR0H3VQ
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: AUU55OZR0H3VQ
+ReviewerName: Peter J. Roos "Peter"
+Date: October 18, 2009
+Helpful: 
+Rating: 5.0
+Title: Acer Aspire AS1410 Review
+Content:
+I have been looking for a netbook sized laptop for quite some time but the 10 inch screens and 92% sized keyboards simply didn't work for me.
+I considered the ASUS 1005 to be the best choice in the 10 inch screen category due to its long battery life and good price point.
+Another option I considered was the ACER One 750 with 11.6 inch screen but I stayed away from this one because of the slow processor.
+Then I found a review for the Acer Aspire AS1410 and 1810. The latter was intended for the European market and the 1410 for the US market. (1810 is now in US with core 2 duo!)
+The 1410 has an 11.6 inch LED hi-res screen with 100% keyboard and good battery life of 6 hours, a 250G HDD, 2G RAM and a CULV core to solo processor which outperforms an atom based netbook by a factor 2-3 in terms of daily usage. 
+I have had this system for over a month now and have used it quite a lot for browsing the internet, business presentations using powerpoint, excel spreadsheet editing and editing photos and I'm impressed with its performance and usability. I generally use the 'powersaver' setting for the battery which can extend battery life beyond the quoted 6 hours, up to 8-9 hours. Of course that is with screen fully dimmed, however for my specific use this is just fine. After I received the system, I had to uninstall all the junkware that comes pre-installed in order to speed up the system but once that is done, it can handle vista like a charm. Better yet, it comes with the free windows 7 upgrade. 
+The black lid attracts finger prints and requires regular cleaning but that is just a minor issue. The webcam works like a charm after you tweak some of the lighting settings. I have used it for conference meetings over the internet and it really holds up very good together with the build in microphone. I do not play games so I cannot rate graphical performance but for every day business use it really holds its own and has snappy performance, even with multiple browser tabs open.
+I have upgraded the memory from 2G to 4G which was a no-brainer considering the upgrade price of only $25 but other than that, this is a sweet laptop that is easy to carry around and take on road trips since it also comes with an SD slot and generous 25G HDD. Build in speakers are good enough for conference mode but don't expect high quality stereo sound at a high volume. 
+I have just found out that the Timeline 1810 is available for the US market as well. This is the same laptop as the 1410 but with a core 2 duo processor, upgraded battery for 8+ hours of battery life, 320G HDD and 4G of RAM, shipping with windows 7. It sounds like a great package but of course the price point is no longer netbook territory at $599.
+Conclusion: The AS1410 is a great business netbook with snappy performance great hi-res screen and 100% keyboard and still hits a sweet spot pricing point of $429 (as of today) on amazon which makes it the best choice for me.

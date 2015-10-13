@@ -1,0 +1,11 @@
+ID: B0000DAL8I-R3C4IMF0GXCIL3-A2ZPJZJUBXI7BB
+Category: Laptops
+Product: Toshiba-Satellite-P25-S609-3-00-GHz-Hyper-Threading
+ReviewerID: A2ZPJZJUBXI7BB
+ReviewerName: David L. Carl
+Date: February 26, 2004
+Helpful: 5 of 5
+Rating: 1.0
+Title: Nice Desktop Replacement - Terrible Support
+Content:
+Don't buy the P25 if you want mobile computing. The battery life is short and the screen will be too dim to work comfortably unless you use the High Power setting which REALLY eats up the battery.There is no way to operate the P25 in a car or plane. Power inverters DO NOT WORK with the P25 (I have tried 4) and the 19 volt input requirement rules out cigarette lighteradapters.Tech support is in Turkey.  Very pleasant people but  it takes a long time to get  a problem resolved. They don't seem to know this product very well. You will need them however because the on-board documentation (pdf) is awful. Example - I still haven't found the instructions for burning a CD.I expected much more from Toshiba!

@@ -1,0 +1,13 @@
+ID: B002PAQXAE-R2ODVD22DVTMBM-AER88C6FAY3GH
+Category: Laptops
+Product: UL20A-A1-Light-12-1-Inch-Silver-Laptop
+ReviewerID: AER88C6FAY3GH
+ReviewerName: David T. Phelps
+Date: December 19, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: ASUS UL20A
+Content:
+I bought this for a 44 hour car ride trip we will take over the New Year.
+Basically, I was looking for a small laptop to play content from my DVR.  It plays 1920x1080i uncompressed video fine.  It plays 940x540 mp4 compressed video fine.  It struggles to play mp4 compressed video which is in the native resolution (1366x768), but I don't need play at that resolution.  I transcode everything to 960x540 anyways since it is 1/2 of 1920x1080i interlaced.  I did not test it with blu-ray content.
+The big missing feature is HDMI output, which I don't have much use for, other than possibly connecting it to a TV in a motel.

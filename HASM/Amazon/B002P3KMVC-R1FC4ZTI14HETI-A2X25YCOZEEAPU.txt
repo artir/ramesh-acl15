@@ -1,0 +1,22 @@
+ID: B002P3KMVC-R1FC4ZTI14HETI-A2X25YCOZEEAPU
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A2X25YCOZEEAPU
+ReviewerName: A. Wong
+Date: April 9, 2010
+Helpful: 
+Rating: 4.0
+Title: Good laptop, not great
+Content:
+I have been using this laptop for a couple of months now and am mostly happy with it.  
+The bad:
+-Comes with a smaller capacity battery compared to the UL80 series.  Does not last 11hrs, even on the power save mode.
+-Touchpad is very sensitive and interferes with your typing if you accidentally touch it.
+-Built quality is suspect.  The edge of the case creeks when you grab on to it.  Battery is not secured in the back very well, I brought my daughter a EeePC and I thought the built quality of the EeePC was better.  It was more solid and has a better feeling keyboard.
+-I do miss the optical drive.
+The good:
+-Light weight, good size, fits in a suitcase easily.  
+-Great for traveling. Hard to beat price with comparable specifications, even after a couple of months.
+-Even with less then the advertised 11hrs of operations, the run time is still outstanding.
+-Runs all your basic office programs fine and has a good internet signal compared to other computers I've tried.
+-I am not sure if it is the laptop or Windows 7, but the quick startup is a big plus compared to my old xp machine.

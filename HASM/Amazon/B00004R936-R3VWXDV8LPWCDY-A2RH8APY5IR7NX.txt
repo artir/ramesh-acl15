@@ -1,0 +1,11 @@
+ID: B00004R936-R3VWXDV8LPWCDY-A2RH8APY5IR7NX
+Category: CoffeeMachines
+Product: Melitta-MEMB1B-10-Cup-Coffeemaker-Black
+ReviewerID: A2RH8APY5IR7NX
+ReviewerName: Keith R. Bennett
+Date: December 4, 2001
+Helpful: 13 of 24
+Rating: 2.0
+Title: Inexplicable Design
+Content:
+I had great hopes when I opened the box, but alas, my idealistic optimism was shattered.  The quality of this Melitta Mill and Brew coffee maker's parts and manufacturing is excellent.  However, I will probably return it due to the following design flaws.There is no battery backup for the clock, and as soon as the unit is unplugged, the time display goes to 12:00.Although the heating element goes off in one hour, there is no way to turn it off before that hour has elapsed.  You can always unplug it, but then when you replug it, you have to set the time all over again.The place where the coffee leaves the coffee maker and enters the carafe is mysteriously off-center relative to the center of the carafe.  The coffee winds up in the carafe, but only by avoiding the carafe lid's center hole and falling into the slits further outside.The AM/PM indicator dot is inexplicably reversed from every other clock device I have ever used.  That is, when the dot is lit, it indicates AM, not PM.Similarly, there is a &quot;Mill&quot; switch for when the coffee you're using is already ground.  When you press the &quot;Mill&quot; button, the LED turns on, and this DISABLES the mill.  I would expect the caption to read &quot;Don't Mill&quot; or similar, or reverse the states of the LED.A call to Melitta's customer service confirmed that these characteristics are part of the design, and not a misunderstanding on my part.  I'm very disappointed, and can't believe Melitta tested this design on real people.

@@ -1,0 +1,15 @@
+ID: B002LEVGMO-RK0P9BB37XKJY-A2QE3K30MWERZI
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A2QE3K30MWERZI
+ReviewerName: D. Macli "Review Guy"
+Date: December 17, 2009
+Helpful: 
+Rating: 5.0
+Title: Netbook size without Netbook Drawbacks
+Content:
+People always ask me if this is a "Netbook".  Truth is the Acer is the size of a netbook (maybe an inch bigger) with the power of a full blown laptop.
+My favorite feature of this laptop is its ability to stay cool after heavy use.  It doesnt heat up at all which is great for a laptop that you will mostly use on your lap.
+The only drawback is Acer support.  I had an issue with my HD and the only help they could offer was to wipe out and reinstall.  They didnt even try to offer an actual solution.  It turns out it was simply a driver issue and once I figured that out myself it worked fine.
+I have actually watched HD movies on this laptop and they work pretty well as long as all other programs are closed.  I am using Win 7, which may help.
+Highly recommended.

@@ -1,0 +1,14 @@
+ID: B001F50UI6-R2VIU2AHPE3UVH-A1KS5PGSU1SORE
+Category: MP3Players
+Product: Sony-Walkman-Video-Player-Pink
+ReviewerID: A1KS5PGSU1SORE
+ReviewerName: Daz
+Date: April 29, 2009
+Helpful: 3 of 5
+Rating: 2.0
+Title: Pump up the volume... or at least, I wish I could.
+Content:
+I tried out this Sony E-series player for a few days, and ended up returning mine.  The reason was, simply, that the volume level is way too low.
+I tried checking the volume limiter feature, but it was already off.  Basically the deal is this:  First, if you use headphones (such as my Sony clip-ons) rather than the included ear buds, it takes out a little bit of the volume.  And second, if you use the equalizer, it cuts the volume even further, no matter how you adjust it.  (What kind of equalizer does that, anyway?)  
+So bottom line, if your MP3 file is a bit quiet, or there's background noise where you are, and you'd like to crank it up a bit to compensate, well you're just out of luck.  The Walkman just won't do it.
+It's too bad, because otherwise, the Walkman has a pretty nice design.  It's very easy to use,  and the battery life is among the best.  But what would make Sony limit the volume so much is beyond me.  I've since traded this in for a Sansa Fuze, which has every feature that this does, is super easy to use, and blasts the tunes as loudly and with as much clarity as you could ever want.  Sony would do well to address this issue in future designs, or maybe even in this one if they could fix it through a firmware update.

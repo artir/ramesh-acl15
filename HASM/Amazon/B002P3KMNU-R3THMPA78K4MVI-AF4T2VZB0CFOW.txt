@@ -1,0 +1,21 @@
+ID: B002P3KMNU-R3THMPA78K4MVI-AF4T2VZB0CFOW
+Category: Laptops
+Product: UL30A-A2-Light-13-3-Inch-Silver-Laptop
+ReviewerID: AF4T2VZB0CFOW
+ReviewerName: Laptop Dreamer
+Date: November 3, 2009
+Helpful: 11 of 22
+Rating: 2.0
+Title: Poor customer service, wifi does not work, and terrible touchpad
+Content:
+(UPDATE 11/17/09) WIFI does not work!!!!!!! I called Asus Tech Support two times with zero resolution or even a call back. Finally, I looked into the matter and found a common WIFI (Atheros card) problem with other Asus reviewers too. It's documented on the discussion posts for both the UL30A-A2 and UL30A-X5 on Amazon. One of the ASUS discussion boards talk about buying an external antenna to boost the wifi card's range. I am really disappointed with my experience because I  researched and waited 1 month for Windows 7 only to buy a lemon that has issues with internet connectivity. Which is a deal breaker for a laptop. So I will return my laptop tomorrow. 
+ORIGINAL POST:
+I read each of the reviews on Amazon.com and based my decision to buy the ASUS UL30A-A2 because of the positive feedback I read from users. However, I have no idea what these other users are smoking because there are a few major issues with the laptop. 
+Pros:
+* Decent price for the specs
+* Size and form
+Cons:
+* Touchpad is almost unusable. I have to tap and pull 2-3 times for the mouse to respond. The whole point of having a laptop is so you do not need to connect an external mouse to it so you can use it on your "LAP"!!! 
+* The multi-touch gesture is nice marketing but half of the time, it doesn't recognize when I use two or three fingers. Lame.
+* Wifi had problems keeping a connection (I have another computer connected to the Wifi Hub and no problem with my Lenovo)
+* When I called customer support from Asus, I got a rude and unhelpful response. He basically told me to contact my ISP to see if they can fix the problem. Excuse me? Um, the last time I checked, my other PCs are having no issues with internet.

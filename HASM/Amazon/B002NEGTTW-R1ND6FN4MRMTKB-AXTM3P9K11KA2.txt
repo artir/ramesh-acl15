@@ -1,0 +1,35 @@
+ID: B002NEGTTW-R1ND6FN4MRMTKB-AXTM3P9K11KA2
+Category: DigitalSLRs
+Product: Canon-EOS-7D-Body-Only
+ReviewerID: AXTM3P9K11KA2
+ReviewerName: Garrett Lowenthal
+Date: October 28, 2009
+Helpful: 39 of 41
+Rating: 5.0
+Title: Best Canon APS-C DSLR Yet
+Content:
+By any measure, the new Canon EOS 7D is a worthy successor to the EOS line of APS-C sensor DSLRs.  I believe it finally levels the playing field for many Canon shooters envious of Nikon DXXX shooters.
+I am an advanced amateur photographer who has owned the 20D for the last 5 years and will use it as a backup body now.  With each Canon announcement of a successor to the XXD line of DSLRs, I was tempted to upgrade but resisted each time up until now.  This was partly due to budgetary constraints, but I felt mostly that each new model was only an evolutionary modification rather than a revolutionary one.  If there's one thing to keep in mind in this fast-moving world of DSLR photography, then it is that DSLR bodies come and go (and depreciate quickly in value, like most electronic goods) but excellent glass will nearly always be sound investments (high-quality lenses maintained in good condition may appreciate in value).
+The 7D appears to be a game-changer for many Canon photo enthusiasts like myself who prefer or can only afford to shoot with an APS-C sensor body.  Nikon shooters have had an excellent choice of a crop sensor body in the D100/D200/D300 (now D300s), but for Canon shooters, the top-of-the-line equivalent was trailing in the feature set department.  Now most of the features that were absent in the Canon XXD body as compared with their main rival are present in the 7D.
+Notable features:
+- 18 MP APS-C CMOS sensor
+- Dual DIGIC 4 processors (a first for a prosumer Canon DSLR)
+- Maximum 8 fps frame rate
+- Maximum ISO 12,800
+- VF with 100% coverage and 1.0x magnification (a first for a Canon DSLR)
+- 19-pt AF (all cross-type with f/5.6 or faster lenses)
+- 63-zone metering system (measures focus, color, and luminance)
+- On-demand grid lines in VF (a first for any Canon DSLR)
+- Built-in electronic leveler in 2 planes (a first for any Canon DSLR)
+- Built-in wireless flash trigger (a first for any Canon DSLR)
+- HD video in 1080p (30/25/24 fps) and 720p (60/50 fps)
+I have had the camera for over a week now.  My initial impressions are mostly positive thus far.  Additional thoughts in the form of updates will be forthcoming once I get an opportunity to capture more images under various conditions (indoors/low light, outdoors, action, etc.) and get my act together to type it up.  So far, I believe that the IQ, VF, LCD monitor, and handling are all vast improvements over the 20D.  Taking photos at high ISOs and achieving low noise captures is all the rage these days.  I feel that random photos I've taken at ISO settings up to 1600 are completely usuable.  In the past, I felt comfortable shooting with my 20D mostly south of ISO 400/800.  I shall pixel peep some more and shoot at even higher ISOs to see where the happy medium for me shooting with the 7D lies.  Tolerance for noise, I feel, is very subjective.
+Limitations:
+There is a steep learning curve with this camera.  The 7D is packed with new features that I have yet to maximize to my advantage.  Coming from a 20D rather than a more recent line of XXD body makes things even more challenging.  A careful read of the user's manual is critical.
+If ultimately low noise captures at high ISOs is most important to you, then a FF sensor body is the way to go rather than an APS-C sensor body.  A larger pixel pitch that captures more light (at the expense of lower resolution) will help maintain low noise levels at very high ISOs.  This is a key reason why the small-body FFs, such as the Nikon D700, Canon 5D/5DMkII, and Sony A900/A850, are so revered.  Any of those cameras will likely outperform the 7D at high ISOs in terms of low noise captures.  Moreover, they provide less DoF than APS-Cs at equivalent fields of view.  However, the obvious downsides are their cost and need for big, heavy, and expensive glass.
+The 7D should not be viewed as an HD camcorder replacement.  Although useful to have and with slightly more shooting options as compared with the version currently offered in the 5DMkII, video capture in the 7D still suffers from lack of continuous AF.  Unfortunately, the jello phenomenon (from rolling shutter) and monoaural sound (external stereo mic input is available, though) make for a less than harmonious package.
+*** Please be aware that some information about potential problems with the initial batch of 7D bodies has surfaced on photography forums and elsewhere (including here on Amazon).  They include difficulties with the new AF system (particularly in AI servo mode, though some users have had trouble in any AF mode) resulting in OOF photos, as well as ghosting (residual preceding images captured in subsequent images) under certain shooting conditions.  Canon is aware of the latter and will issue a firmware update in the near future.  Meanwhile, a firmware update (1.0.9) has already been issued that fixes problems with suboptimal AF in Live View, among other bugs.  Of note, my copy has no troubles with AF that I have encountered at this point. ***
+Overall Impression:
+The Canon EOS 7D is probably the best overall Canon APS-C sensor DSLR currently available.  As far as feature set, it fares extremely well with its slightly more expensive main rival, the Nikon D300s.  In its favor, the D300s has a larger, 51-pt AF system and dual CF/SD card slots.  A scientific shoot-out from a reputable photography website or magazine is sorely needed to help resolve the issue of which has better IQ at high ISOs.  I believe the current lack of Adobe software support for 7D RAW images is the rate-limiting step.
+With my limited use of the 7D thus far, I have found the camera to be a sheer pleasure to shoot with.  It is a worthy upgrade for 10D/20D users, and probably for 30D users as well.  Shooters of the 40D/50D will need to determine whether the new features are worth dishing out $1700 USD for, particularly during these challenging economic times.  Mostly anecdotal evidence exists so far that suggests there may be a slight improvement in IQ from the 7D as compared with the 40D/50D.  Nikon and other brand photo enthusiasts should weigh the benefits and risks of switching systems.
+Once Canon publicly addresses any potential problems with the AF system encountered by some users, then I can offer the 7D my highest recommendation.

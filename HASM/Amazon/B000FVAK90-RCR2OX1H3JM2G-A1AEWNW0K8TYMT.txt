@@ -1,0 +1,13 @@
+ID: B000FVAK90-RCR2OX1H3JM2G-A1AEWNW0K8TYMT
+Category: SpaceHeaters
+Product: Honeywell-HZ-3750GP-Electronic-Ceramic-Heater
+ReviewerID: A1AEWNW0K8TYMT
+ReviewerName: teamsc10190
+Date: January 5, 2010
+Helpful: 1 of 1
+Rating: 2.0
+Title: Freezing or sweltering are the only available automatic options
+Content:
+I'm using this heater to help regulate temperature in an office that is grossly over air-conditioned. You would think that having a thermostatic control on a heater would mean presetting a temperature and the heater would switch itself on and off as required. With this Honeywell, comfort requires manual switching  because temperature control with it's thermostat is more miss than hit.  When the heater reaches +1-2 degrees above the preset temperature, the fan and heater shut off and the thermostat monitors room temperature to determine when to restart, (at least that's how it's supposed to work). Reality is; once the airflow stops with the fan shut down, the residual heat in the unit causes the sensed temperature to rise about four degrees, so if the heater shut down at 72 degrees, the temp display quickly rises to 76 degrees.  The heater is not sensing room temperature at this point, it's reading residual heat in the unit itself. As the office A/C kicks in the room temperature drops from 70 to 66 in short order, but the Honeywell heater still thinks its 76 because the temperature sensor is still responding to the heater's residual heat. So at 66 degrees I need to reset the Honeywell's thermostat to more than 76 for the heater to restart. Once the fan starts circulating air past its internal sensor, the temperature display quickly drops from 76 down to 66. Now the heater won't shut down until room temp reaches 80 because I had to reset the thermostat to 78 to get it to go on when the room was actually 66. 
+So your choices are 14 degree temperature swings with thermostat function, or switch the heater on and off manually. This is a clear latent design defect where the temperature sensor is either located too close to the heater element or poorly shielded.  I've already had two of these heaters, so it isn't a defective unit, its a defective design. 
+A remote control would be greatly appreciated since manual operation is necessary for satisfactory temperature control. Ironic that a company that made its reputation for thermostatic controls can't make a thermostat function in a space heater.

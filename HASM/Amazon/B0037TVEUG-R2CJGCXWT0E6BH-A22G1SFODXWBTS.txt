@@ -1,0 +1,15 @@
+ID: B0037TVEUG-R2CJGCXWT0E6BH-A22G1SFODXWBTS
+Category: Laptops
+Product: MSI-A6000225US-A6000-225US-Pentium-Windows
+ReviewerID: A22G1SFODXWBTS
+ReviewerName: Ameesh Oza "malharsire"
+Date: April 9, 2010
+Helpful: 0 of 1
+Rating: 3.0
+Title: Only so-so
+Content:
+I bought this because it is a slightly lighter (under 5lb) 16-inch machine at a good deal. Here are my peeves in order of frustration level.
+1. Wireless reception is VERY weak. I read about this on MSI Wind on other forums too. It cannot catch 802.11 n over a 2 story 2500 sq ft house. Only in the room with wireless router and the next room. All my other devices have no problems AT ALL. I can catch signals upstairs, downstairs, in bathrooms with other devices (laptops and iphones/ipods)...
+2. Touch pad is slightly different for scrolling etc. from the Synaptics style so that's a little relearning curve.
+3. Windows Update gave some failures. Could be a Windows 7 issue but I have not seen these on other Win-7 machine. And I haven't even installed too much SW or apps yet.
+So if you want long-distance wireless or Synaptics style touch pad, this is not for you.

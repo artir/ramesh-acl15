@@ -1,0 +1,15 @@
+ID: B000WWOQQA-R27USH8P1RIEU3-A3A5GVEB428BC
+Category: Laptops
+Product: Pavilion-Notebook-Processor-Lightscribe-SuperMulti
+ReviewerID: A3A5GVEB428BC
+ReviewerName: Yvonne Condon "Yvonne"
+Date: March 26, 2010
+Helpful: 
+Rating: 1.0
+Title: Do Not Buy! Defective Nvidia 8400 and 8600 chipset used = will die in 12-18month time and no support from HP!
+Content:
+I was happy with this laptop until it died 14months after I purchased it, just two months out of warranty.
+Defective Nvidia 8400 and 8600 chipset were used in the manufacture of these laptops, Nvidia have admitted there was an issue with these GPUs and it is only a matter of time before it fails and the laptop stops working, usually just when it is out of warranty.  
+The only repair option offered by HP is to have the entire motherboard replaced, approx $1000 AUD / $400 USD, at your expense.
+For more information check out the HP support forum, there are thousands of posts from unhappy HP customers about these laptops: [...]
+DO NOT BUY unless you have money to throw away!

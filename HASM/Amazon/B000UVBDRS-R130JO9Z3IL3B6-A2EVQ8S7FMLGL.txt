@@ -1,0 +1,17 @@
+ID: B000UVBDRS-R130JO9Z3IL3B6-A2EVQ8S7FMLGL
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A2EVQ8S7FMLGL
+ReviewerName: Jeff Rutsch
+Date: October 10, 2007
+Helpful: 150 of 154
+Rating: 4.0
+Title: SDHC compatible
+Content:
+MP3 players have turned into a commodity.  They're not terribly expensive, they sound fine, they're very small, they're easy to use.  There's really not much to say, and even Apple is tying them in to web browsers and cell phones and video players, to make them stand out.
+The big advantage of this player against the Nano (the obvious competitor) is that SD/SDHC cards allows a measure of expandability.  I got the 4 GB version of the player; it's the smallest version but it still lets me put my favorite 60 albums or so on the player.  If I want to listen to other albums, I put them on a spare SD card and pop the card in the player, it's easy.
+Of course this will be more and more of an advantage - right now, 8GB SD cards cost about half as much as this player, and I'm sure over the next year 16 and 32 GB SD cards will get released, at comparable prices.  I have a very large music collection, I like the idea of being able to stick a very large collection on a very small player.
+The interface for this device is, like the iPod, pretty good but not great - sometimes you feel like you're working against the menu system.  The worst fault is, music on the SD card is put in a separate list than the music on the device's internal memory - it's a little clunky, if not terrible.  Also annoying is that the player takes about 10 seconds to boot up, whereas the iPod turns on instantly.
+The screen quality is very, very good, the included videos look excellent - on the other hand, it's a small screen for watching a movie, and converting a normal .avi file to the required format requires a couple hours.  So except in special circumstances I don't expect to be doing that often.
+The battery lasts a very long time, and charges quickly off USB.  The sound quality is pretty good, and I've heard it's better than the Nano, but I haven't done any direct comparisons so I can't really say.
+Also, be sure to update the firmware off the Creative site, it only takes a few seconds.  The firmware as shipped would constantly crash when I accessed the SD card.  After the update I haven't had a problem once.

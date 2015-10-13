@@ -1,0 +1,22 @@
+ID: B002SJ38M8-R1X48VE4IJ5HSX-A134PBVGCDS4M3
+Category: Laptops
+Product: Acer-Aspire-AS1410-2497-11-6-Inch-Laptop
+ReviewerID: A134PBVGCDS4M3
+ReviewerName: Agnes Mujinga Kemokai "agnia3000"
+Date: December 13, 2009
+Helpful: 5 of 11
+Rating: 3.0
+Title: Keyboard Error
+Content:
+No need to comment on the pros, I concur with comments by other users. Though I need to express the way I enjoy using the touch pad with two fingers. It's really cool
+I have only used this device for four days, and I faced a problem with the keyboard. At first I thought it was keyboard language or regional settings, but after going through the settings, I could not fix the error. 
+Since the Netbook was new, I had no fear loosing data if I do a system restore, that didn't work also.
+Here is the error I am facing:
+When I type r, 54r appears on the screen
+When I type t, 74t appears on the screen
+When I type o, -o0- appears on the screen
+When I type p, -p[ appears on the screen
+I tried both the on screen an external keyboards, they all worked without issues.
+I called Acer Corporation, the customer representative was nice, he tried to help by giving me instructions, but that didn't work either, so he asked me to send the Netbook to Texas for servicing.
+I am currently in Africa, and shipping this device by express courier to and from Texas will now cost me more that the purchased cost.
+I am still contemplating if it's worth it.  Be very careful folks! good to trust one companies like Toshiba, Dell, HP, Compaq, Sony etc.

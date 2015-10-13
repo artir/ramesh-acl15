@@ -1,0 +1,15 @@
+ID: 1590599292-R3MKHJUDEXZVTF-A2F1VLX7BHY96U
+Category: MP3Players
+Product: Getting-StartED-Mac-OS-Leopard
+ReviewerID: A2F1VLX7BHY96U
+ReviewerName: Paulo E. Reichert "preichert"
+Date: December 21, 2007
+Helpful: 2 of 5
+Rating: 1.0
+Title: WORST BOOK I HAVE EVER READ
+Content:
+This is the worst book I have ever read, regardless of subject.
+This book fails to deliver on its promises. The author skims through the new features in Leopard telling the basics and that's pretty much it. He doesn't go into any detail of the inner workings or how to make the best out of new features like Time Machine. I have read this book two days after I got my new MacBook Pro (my first ever Mac) and only using the OS taught me more in these two days than the actual book.
+The also is very patronizing, assuming the reader has no knowledge of computers, which for someone like me who has spent half of my life working with computers as software engineer was pretty frustrating. He makes remarks about Windows that I have no idea where he took from.
+I was hoping the introduction to Mac chapter (Chapter 2: Mac Basics) would give me a good basis on how to use the single-button trackpad or mouse, how to use the command, option and control keys, some shortcuts and ways to better navigate the operating system, but he doesn't do any of that. He limits himself to listing what are the base applications that come with the OS and giving a brief introduction to each one.
+If the shipping costs from the UK weren't actually more expensive than the book I would have returned it, but I think it will be a pretty good addition to my next bonfire. If you're looking for a book to learn how to use a Mac or learn how to use the new features of Leopard I would say steer away from this. There must be better texts on the subject out there.

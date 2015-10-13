@@ -1,0 +1,48 @@
+ID: B002PK156G-RV1HZRDOWAE51-A3FEGTOLCWXSV4
+Category: Laptops
+Product: Lenovo-Ideapad-U-450p-14-Inch-Laptop
+ReviewerID: A3FEGTOLCWXSV4
+ReviewerName: Damodar Chetty
+Date: March 21, 2010
+Helpful: 8 of 8
+Rating: 5.0
+Title: Best in class CULV notebook
+Content:
+Very rarely do I buy a product that just exceeds my expectations in so many ways that I can't wait to come online and share my joy with others. The Lenovo U450P is one such product.
+I honestly don't know where to begin with the things that I love about this device.
+If you've seen my review of the T135-S1310RD, you'll have noticed that it pained me to give it a 1-star review for what was terrible customer service on the part of Toshiba. They continued to sell a product that had a known deal-breaker problem.
+So ... here's what I was looking for (in order of importance to me):
+1) ultraportability ... I tend to spend a lot of time waiting (at recitals, school meets, music lessons) and I needed something that I could throw into a bag and run out the door.
+2) computing muscle ... I just got done writing a book, and I'm working on some additional ideas, and so I needed this ultra portable to keep up with me.
+3) large screen ... I tried hard to get used to the netbook screen and resolutions, and I just couldn't get comfortable with a 10.2 inch screen @ 1024x600 even for web browsing. My sweet spot was 13.3 inches @ 1366x768.
+4) touchpad/mouse ... I rely almost exclusively on the built-in mouse/touchpad, and wanted an implementation that I could use comfortably.
+5) battery power ... I wanted at least 4 hours of juice.
+After significant research, I settled on either the Toshiba T135, the Asus UL30/UL20 family, or the HP DM3. 
+I even went so far as to purchase the Toshiba. Until, I ran into issues with point #4 on my list of priorities, and so the Toshiba went back.
+The Asus disappeared off my list soon after. I had imagined that I could "get used to" the rocker based design for its mouse buttons, but after my brief experience with the Toshiba, I began to question that assumption. Maybe I'm old fashioned, but to me a computer is a productivity tool, that should adapt to me, rather than the other way around.  In addition, the Asus machines seem to have issues with their  wireless networking as well - and while I hear this may have been resolved, I didn't want to take a chance with such quality issues. 
+I have had very poor experiences with HPs with two notebooks biting the dust in very quick succession - so the DM3 was out for now.
+Luckily, I soon ran across two alternatives from the Lenovo family - the Thinkpad Edge and the Lenovo U450P. A discounted price on the U450P made my decision for me. 
+Fortunately, my experience so far has been nothing but stellar. 
+Pros:
+#####
+1)  The form factor of this machine is just perfect. I was worried that a 14" screen might be too much for an ultraportable, but its just amazing!
+2) The SU7300 CULV (Consumer Ultra Low Voltage) processor is meaty enough for most of my needs - and is a beefed up SU4100). Add in the 4GB RAM @ 1066MHz and a 320 GB drive and all's good!
+3) The screen size and resolution are just stellar. Even at 20% brightness, the screen is very clear and readable. 
+4) The keyboard is just awesome - I can hardly tell the difference between my regular 17" laptop and this one. Seriously. 
+5) The touchpad is wonderful! The mouse buttons are placed right where you need them, and the multitouch touchpad gives you some nice options.
+6) Lenovo has had serious consumer issues with the U330's battery and I am hoping that the U450P hasn't inherited those issues. Its too early to tell, but I've been browsing the web and typing this review for about 1 hour now, and have used up only 17% of the battery. Furthermore, unlike the U330, spare batteries can be ordered for the U450P (check out the 57Y6309). 
+7) The texture on the lid is unique ... it's a type of cross hatch pattern that is way better than the glossy smooth lids of the usual crowd. You won't be troubled with finger prints on the lid, and you won't have issues with the machine slipping out of your sweaty grip. I actually prefer this texture to the less refined texture on the Toshiba NB305 netbook.
+8) The optical drive can be a battery drain, but hey ... its there if you need it. You no longer need to buy and lug around an extra portable DVD drive.
+9) The wireless card is an Intel 5100, and supports Wireless-N networking. So far, it has worked with excellent range.
+10) It comes with Win 7 64 bit Home Premium, so you can use all that precious 4GB of RAM.
+Cons:
+#####
+1) While the screen works well indoors, it isn't quite so readable outside, when the glossy screen acts as a mirror. While outdoors, I have to turn up the brightness to about 80% or so.
+2) The placement of the FN key is where I expect to find the CONTROL key. Since I mostly use keyboard accelerators (e.g., Ctrl-C and Ctrl-V), I often hit the FN key instead, causing me a great deal of pain.
+3) The hard drive spins at 5400 RPM which is a bit of a downer. Even worse, the hard drive cannot be replaced easily by the user. You can do it, but it requires some technical skills.
+4) The underside gets a bit hot, enough to notice, but not enough to cause extended discomfort. 
+ 
+That's it!
+If you are in the market for a CULV-based computer, you really should check out either the Thinkpad Edge or this Lenovo U450P. I'm extremely satisfied with mine and I can unreservedly recommend this product.
+Happy Computing!
+~Damodar

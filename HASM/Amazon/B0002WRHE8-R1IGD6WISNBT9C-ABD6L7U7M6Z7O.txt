@@ -1,0 +1,14 @@
+ID: B0002WRHE8-R1IGD6WISNBT9C-ABD6L7U7M6Z7O
+Category: SpaceHeaters
+Product: Heater-MH18B-Portable-Big-Buddy
+ReviewerID: ABD6L7U7M6Z7O
+ReviewerName: C. Parsons
+Date: February 7, 2010
+Helpful: 
+Rating: 3.0
+Title: Not bad, but need to work on assembly quality
+Content:
+I bought this unit to heat my 480 sq/ft insulated garage with 10ft ceilings so that I could work on my car during the winter.  Technically the unit might be a little undersized for such a space, but then again I'm not looking for 70 degrees, just to get it bearable.  I bought the unit with the quick connect low pressure hose to connect to a 20lb LP tank.
+Setting up the unit is very easy, especially with the quick connect.  It takes a minute or two to purge the air out of the lines, after that the ignition should be able to light the pilot, which it did.  Unfortunately, despite holding the pilot down for over a minute to make sure the thermocouple was up to temperature, the pilot would immediately go out.  I figured the thermocouple was working, so by process of elimination I determined that the tilt switch was either bad or disconnected.  
+To get to the tilt switch you have to completely disassemble the unit.  Start by removing the 4 screws from the back cover, push the cover straight up to disconnect the hooks at the top and then pop it off.  Remove the 3 screws securing the back of the handle.  Remove the screw holding the handle to the left side piece (looking from the back), remove the left screw holding the metal face, remove the left screw holding the 2 plastic pieces together, remove the left screw holding the bottom of the metal face to the plastic side.  The side piece will them rotate off from back to front.  From there you should have clear access to the tilt switch, which I could immediately see was disconnected.  An attempt had been made to hold it with silicon from the factory, but the silicon was not correctly applied or not given time to set.  Reconnected the switch and did a test lighting in the partially disassembled state and all was good.  Shut the unit off before it gets warm and reassemble.
+Now that my unit was actually working I could fire it up and put it to the test.  It throws off a good amount of radiant heat on high, you don't want to stand too close for too long.  It got my garage that was around 40 degrees up to around 60 degrees in about an hour on a 25 degree day.  I'm happy with that performance.  I'm running the fan with batteries for now, but will probably get an AC adapter.

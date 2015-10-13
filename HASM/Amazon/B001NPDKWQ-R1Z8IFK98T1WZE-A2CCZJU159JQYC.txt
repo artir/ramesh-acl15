@@ -1,0 +1,11 @@
+ID: B001NPDKWQ-R1Z8IFK98T1WZE-A2CCZJU159JQYC
+Category: Laptops
+Product: Pavilion-DV6-1050US-16-0-Inch-Processor-Premium
+ReviewerID: A2CCZJU159JQYC
+ReviewerName: A. Ortega
+Date: April 3, 2009
+Helpful: 32 of 37
+Rating: 2.0
+Title: Pretty but....
+Content:
+I fell in love with this machine the instant I saw its specs and looks in Amazon... I got it delivered and the first problem I had was that the computer was described as having an internal bluetooth antenna, which after searching how to start it for half and hour and chatting with HP I realized it was not there!  I got a discount from Amazon for this "mistake" which seems to happen quite frequently (I had the same problem with a Toshiba Satellite I purchased a while ago).  The 64bit Vista is rather problematic than helpful.  I am considering either upgrading to Ultimate or downgrade to 32bit.  Although its processor is ranked as "genious" and it brings 4gb of ram I have runned tests with my old Toshiba running 32 bit Vista with a slower processor and with half the ram and time after time my new HP gets beaten!!!!!!!!!!!!  I experience so many software related problems I cannot feel satisfied a single day about my purchase!  The speakers and volume control give so many problems as well: I place the laptop in "mute" and still I get a fraction of a second of the  beep of the instant messenger I use; the speakers are always making this noise like the power was just turned on; the volume control is non-responsive and then when it finally answers my command, it gets stuck both visually and audible.  I still doubt that this machine can be expanded up to 8gb of ram as the specs in Amazon advertise, but I have not checked this yet.  I guess I will get further disappointed... It's a shame that I feel this way for a laptop I found so captivating and (thought) powerful...  Now I bought an xb3000 expansion base (which is advertised as the compatible one for the dv6) and I found myself with the obligation to purchase a new A/C adapter since the laptop AC should work with the base but guess what? the dv6 AC is too big for the base!!! So there you can add $50 extra if you decide to get the whole bunch.  Bottom line: You can get the same performance with a cheaper, more convenient model and save yourself a lot of hassle... Sad but true!

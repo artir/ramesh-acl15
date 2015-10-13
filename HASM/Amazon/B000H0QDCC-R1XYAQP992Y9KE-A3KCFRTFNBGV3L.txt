@@ -1,0 +1,16 @@
+ID: B000H0QDCC-R1XYAQP992Y9KE-A3KCFRTFNBGV3L
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Brown
+ReviewerID: A3KCFRTFNBGV3L
+ReviewerName: Pilgrim
+Date: October 16, 2007
+Helpful: 4 of 6
+Rating: 2.0
+Title: OK device, terrible software
+Content:
+I too wanted to like this.  My expectations were pretty low - play music, have a few pictures of the baby.
+The hardware itself is OK, though other than the screen size nothing makes you say "wow, that's nice."
+The software is somewhere between tedious and a nightmare.
+- What genius at Microsoft thought that when you install, the Zune software should automatically pull in every picture on your all your hard drives, without asking you?  I have tens of GB of photos, I don't want them on my Zune.  I had to figure out how to stop it, manually specify folders, erase the Zune.   It imported some playlists I didn't want it to, so it took me a while to figure out that I had to delete those so it would let me delete some music I didn't want on.  Uggh.  If it had just asked what folders I wanted imported at the beginning, it would have avoided all that.
+- Irony of ironies, it will automatically import all kinds of stuff I don't want, but it won't automatically import the music I want it to - I have to do it manually.  There are folders that it imported one song, but not the others.  It turns out it's missed about 20% of my songs.  I can sort of fix that by dragging the folders (in the Windows file view) and dropping them onto the Zune library view.  It seems like it probably got all the songs, but I didn't need to waste time on that.
+More of the same tired Microsoft approach.  We know what's best for you - have it *our* way!

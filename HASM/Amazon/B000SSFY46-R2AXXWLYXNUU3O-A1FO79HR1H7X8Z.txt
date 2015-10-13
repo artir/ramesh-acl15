@@ -1,0 +1,13 @@
+ID: B000SSFY46-R2AXXWLYXNUU3O-A1FO79HR1H7X8Z
+Category: AirConditioners
+Product: Haier-9-2c000-2dBTU-Portable-Conditioner-White
+ReviewerID: A1FO79HR1H7X8Z
+ReviewerName: D. Ward
+Date: June 7, 2008
+Helpful: 2 of 2
+Rating: 1.0
+Title: Doesn't even power on!
+Content:
+Aaargh!!
+The AFCI on the plug immediately trips when plugging the unit into the wall.  As a result it doesn't power on.  Haier support says that my outlets don't have enough amperage, but I tried it from both 15 and 20 amp outlets (with nothing else turned on or plugged in) and still no result.  It's a lot of fun dealing with a unit that's DOA.
+I read that other brands of portable air conditioners have similar problems...the AFCI in the plug is way too sensitive.  Caveat emptor!

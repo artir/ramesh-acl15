@@ -1,0 +1,11 @@
+ID: B000HZ9CCA-R20WT9OT2D2PIS-A353KHFN0SXQWC
+Category: MP3Players
+Product: SanDisk-Sansa-e280-Player-Black
+ReviewerID: A353KHFN0SXQWC
+ReviewerName: M. Gates "michael"
+Date: June 9, 2008
+Helpful: 0 of 2
+Rating: 1.0
+Title: UMS mode not so UMS
+Content:
+Note there are 2 versions of this player. You can find out by looking at the back of you player. I originally purchased this player because i like organizing my music with the my own directory structure and not use ID tags. This player does not support folder structure. you will need to use their software. with version 2, there is a special process just to transfer files using ums mode.  also this product looks cool, it does not perform the way i had thought it would. If you like not having to use any propietery software and would like to use your own file organizational structure, the similarly priced Cowon D2 is the way to go.

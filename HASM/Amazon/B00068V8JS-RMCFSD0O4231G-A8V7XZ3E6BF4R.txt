@@ -1,0 +1,11 @@
+ID: B00068V8JS-RMCFSD0O4231G-A8V7XZ3E6BF4R
+Category: SpaceHeaters
+Product: Soleus-Air-HGW-308-Micathermic-Flat-Panel
+ReviewerID: A8V7XZ3E6BF4R
+ReviewerName: David M. Burke
+Date: November 27, 2007
+Helpful: 1 of 1
+Rating: 1.0
+Title: Works almost - Over heating is a problem
+Content:
+As others have noted, this unit's temperature sensor is not functional.  I have several of these units installed and they heat well but just can't control how much!  It keeps warm over night but during the day the room has reached over 85 and the heaters are still going.  I finally had to use an external room temperature sensor to turn the Flat-Panels on and off.  And the power switch.  They put a silicone cover to keep out moisture.  But it interferes with the switch.  It takes some skill to finally make sure it power is on or off.

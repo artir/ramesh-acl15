@@ -1,0 +1,18 @@
+ID: B001P05NKG-R2JP6Y4ZRSCRDA-AHDPFVZFVBPZO
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: AHDPFVZFVBPZO
+ReviewerName: K. Kovatch "motokovatch"
+Date: June 27, 2009
+Helpful: 10 of 48
+Rating: 3.0
+Title: Not too bad, but not too good
+Content:
+Pros - 
+- It is beautiful
+Cons -
+- The cursor control is hard to use (I keep increasing or decreasing font size accidently or invoking the right menu accidently.  It is also harder than it should be to control the movement of the cursor)
+- Not as high performing as I had hoped 
+- The preloaded software (iLife 09) is becoming more PC-like in the number of annoying dialog boxes, and lack of seamless integration between itunes, iweb, iphoto etc
+- Found the packaging materials cheap
+Overall, I am not dissatisfied, rather just a little disappointed.  I had high expectations for this model and the actual product didn't meet them.  Also, the firewire port is 800, not 400.  This is great from the standpoint of speed, but also means you'll have to buy another cable to connect with your existing firewire devices.

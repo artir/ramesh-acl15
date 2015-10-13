@@ -1,0 +1,19 @@
+ID: B001PII4IG-RZQUPB9U9HTJ9-A1LYMYNURB9EWW
+Category: Laptops
+Product: Sony-VGN-P530H-Lifestyle-Processor-G-Sensor
+ReviewerID: A1LYMYNURB9EWW
+ReviewerName: digitalman "digitalman"
+Date: April 4, 2009
+Helpful: 8 of 8
+Rating: 3.0
+Title: The return of the Picturebook
+Content:
+About 10 years ago, Sony created the picturebook, which was basically the same concept and form factor as the lifestyle PC. With this "new" entry into the ultra portable market, Sony is trying to rejuvenate a very mobile product. 
+I wanted to love this laptop (Sony doesn't want you to call it a netbook - probably so you don't feel bad about the cost - a $900 netbook is steep). I always wanted a picturebook. Something that you could easily carry around for basic stuff. Bring on a plane and watch a few HD videos. Surf the internet, email, etc. It really seemed to be the perfect device. Plus the built in GPS was something that I was very excited about. So much so that I was willing to overlook the $900 price tag. On paper, this seemed to be a very nice and capable computer in a very small - and beautifully designed package.
+But when I got it, I saw some of the flaws... serious flaws. There are basically three major flaws. The first is Vista. It just wants to much power for this little computer to really shine. A device like this needs a very lean operating system. The only thing that is lean about Vista on the Sony P, is that you have to shut off all of the eye candy so it will be usable. This was strike one. 
+I tried running XP and Windows 7, and while they both ran significantly better, there was still another flaw - the Video card. Unfortunitly, it seems to either be a driver issue or a less then adequate video chipset. What ever it is, know this - this laptop does not play video very well at all. In fact you have to jump through a few hoops just to get it to play videos without them stuttering. It is really sad. In my opinion, someone, or some department should have gotten fired for this.It never should have been realased unitl playing video worked flawlessly (both regular and HD). This should have been a no brainer for Sony - the media giant.  I mean the display on this laptop is begging to be a portable video player. Strike two.
+The finally, the bloated applications that come preinstalled. A HUGE flaw. There is an application (smartwi) that manages the wireless network card, bluetooth, GPS and the mobile broadband connection. This is the one of the biggest drains on the laptop's resources. There are so many required apps, that even if you do a clean install of XP or Win7 - you have to install a whole bunch of Sony bloat, many of which only run in Vista. Really, between Vista and the Sony bloatware, this should be nimble little computer is brought to its knees in tears. Strike three
+Personally I never had a really great experience running XP, Vista or 7 on this... and I tried. Boy did I try. I spent many hours trying and reading forums and trying again. 
+ As I said earlier, I WANTED to love this laptop - I WANTED to get it to work. But in the end there were so many big and little things that just didn't work that I sent it back. 
+It really is a shame. If Sony can get their act together, this would be a great portable device. Unfortunately, based on how I have perceived Sony to do business, they won't. What they will do is release a new model of this device every 3-4 month and each one will be very minor changes for the same amount (if not more)  money. Meanwhile, someone else (like Fujitsu or Apple) will come in behind Sony and do it right. 
+For now, I am going to save my $900 until I can find one that has all the kinks worked out.

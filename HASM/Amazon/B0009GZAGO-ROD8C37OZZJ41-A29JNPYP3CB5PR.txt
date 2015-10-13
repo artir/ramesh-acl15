@@ -1,0 +1,14 @@
+ID: B0009GZAGO-ROD8C37OZZJ41-A29JNPYP3CB5PR
+Category: DigitalSLRs
+Product: Nikon-6-1MP-Digital-Camera-Body
+ReviewerID: A29JNPYP3CB5PR
+ReviewerName: Jamie
+Date: November 27, 2005
+Helpful: 44 of 44
+Rating: 5.0
+Title: Great entry level DSLR
+Content:
+I extensively researched many entry level DSLRs.  I was focusing on the Nikons, Canons and Olympus models (the new Olympus ones - E300 and 500).  Olympus has a pretty strong story now.  Both the 300 and 500 have great features and are fairly inexpensive.  However, the somewhat limited lens selection (not only an issue for buying, but also for selling if you ever want to get rid of a lens) and lack of history in this arena led me to look at other manufacturers.  For Canon, the E series cameras are great, but expensive.  The Rebel series felt a bit "cheap" and low end to me.  That led me to Nikon.  The D50 is priced very well and offers many great features.  The only feature I may miss over the D70/70s is a depth of field preview, but this is less important with digital since you can play around with many different focus points and aperture settings.  The D50 also lets you zoom in pretty close with the LCD screen so you can see what you shot.  I was thinking about getting only the 18-55 lens, but seeing as the price difference wasn't huge for the extra lens, I went for it.  I have the camera for about a week now and love it!  
+I don't love the software that came with the camera, but that's just my opinioin.  In searching for options on how to deal with Nikon's NEF RAW files, I discovered the open source imaging program called GIMP.  So far, this is as close to a free Adobe Photoshop I could find, and deals with the Nikon proprietary NEF file format, so I am very happy.  
+I put a sample pic on this website that I shot in NEF and used GIMP to convert to .jpg.  It is a somewhat gloomy shot, but it is just about winter here in New England so there's a lot of that around now!  It is entitled Tobacco Farm in the Winter.
+To summarize, I love the camera and think it is the best choice for a DSLR in the $1000 range.  I bought mine in Manhattan at B&H (they even have free parking if you spend over $100!).  If you don't live near New York, they also have a great online store.

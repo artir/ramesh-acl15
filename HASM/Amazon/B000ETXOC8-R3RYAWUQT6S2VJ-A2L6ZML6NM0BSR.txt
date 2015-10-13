@@ -1,0 +1,15 @@
+ID: B000ETXOC8-R3RYAWUQT6S2VJ-A2L6ZML6NM0BSR
+Category: MP3Players
+Product: SanDisk-Sansa-Player-microSD-Expansion
+ReviewerID: A2L6ZML6NM0BSR
+ReviewerName: Wrolf Courtney
+Date: April 10, 2007
+Helpful: 3 of 3
+Rating: 4.0
+Title: Good MP3 Player, works well with Linux
+Content:
+Music works well with Linux - Grip or similar to rip .wav files off your CDs and convert them to .mp3; and just use regular file copies (bash or Nautilus) to move or remove files on MP3 player.
+Voice recording is also good.  Creates .wav files with date in name, easy to transfer off MP3 player to Linux.
+FM player is fine.
+No documented method to put pictures or video on to player except included Windows "Media Converter" application. The JPEG pictures apparently need some specific format - a regular JPEG file does not work. I do not intend to use this for pictures or video, but I would add one more star if these were documented for use in Linux.
+The CD also includes a Windows only application for access to the Rhapsody online music store. According to the Rhapsody web site, Mac and Linux users can use the Rhapsody service via browser.

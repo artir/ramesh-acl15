@@ -1,0 +1,13 @@
+ID: B001PII4IG-R22DJICT98SVEY-A1741AUYN0LT44
+Category: Laptops
+Product: Sony-VGN-P530H-Lifestyle-Processor-G-Sensor
+ReviewerID: A1741AUYN0LT44
+ReviewerName: Reno Ross "Techno Rover"
+Date: February 17, 2009
+Helpful: 23 of 29
+Rating: 1.0
+Title: VERY SLOW
+Content:
+PRO: The design is world class
+CON: Very SLOW. I am surprised that Sony would use Vista operating system for this. Don't they have quality control? The product is almost unusable under Vista.
+SOLUTION: Downgrade to XP then you will have function and style.

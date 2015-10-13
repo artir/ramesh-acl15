@@ -1,0 +1,14 @@
+ID: B001D8S9E2-R2H3D4IOC57VM7-A5VJ7EC1SA0I2
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A5VJ7EC1SA0I2
+ReviewerName: Anthony Warburton "Customize it, as stock is ...
+Date: December 16, 2008
+Helpful: 4 of 6
+Rating: 4.0
+Title: Windows to MAC and back again, a hobbits tale.
+Content:
+So you have decided to buy a MAC to replace your windows laptop? Well I can tell you its easy to goto a MAC and still have windows apps running. Go buy VMWARE Fusion. This will allow you to use UNITY which can run any app in your windows vmware image inside your mac. =) thus bridging the gap between windows and mac.
+Hardware wise this machine was lacking. GO SPEND THE MONEY on the 2.4ghz as you will get BACKLIT keyboard. instead of this one which you do not. Of cheap out like I did, and then go buy 4gb of memory from newegg . com for 120$ and a 320gb hdd for 90$. and have one hell of a macbook on the cheap.
+(UPDATE) A little over one year later the Macbook is doing GREAT!, I ended up getting the time machine wireless n airport thing with 500gb. Way more than this little Macbook needs to backup. Time machine is great, but I learned somethings along the way. EVERY HOUR is a bit much, so go get this app [...] which will give you every 12 hours! much better deal. Also VMWARE Fusion was awesome and I still use it. But there are other tools that can also give you the same benefit. Also everyone says you dont need anti-virus on your mac. Well to those people I say whatever [...] ClamAV is free for mac. Other than that I say head on over to [...] and get your mac software collection to a good start.
+But on the whole my macbook has been performing exceptional. Well worth the money, and just plain great. I havent rebooted in over a month.

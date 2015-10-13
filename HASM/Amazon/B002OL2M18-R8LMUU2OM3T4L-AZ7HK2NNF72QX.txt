@@ -1,0 +1,13 @@
+ID: B002OL2M18-R8LMUU2OM3T4L-AZ7HK2NNF72QX
+Category: Laptops
+Product: Toshiba-Qosmio-X505-Q830-TruBrite-18-4-Inch
+ReviewerID: AZ7HK2NNF72QX
+ReviewerName: Leonardo Huerta Alvarez
+Date: November 24, 2009
+Helpful: 8 of 11
+Rating: 4.0
+Title: Good computer but...
+Content:
+I bought this computer from amazon. I've been using it for about a week when suddenly it just die. I called the tech support and told me to set my computer on an out-of-box state, I did it twice and didn't solve the problem, so I sent it to the toshiba depot and the diagnostic was the video card has problems.
+I think is because an overheating problem with the gpu, I think it needs a better cooling system. I used it as the manual says, on a flat surface, no dust, etc... and even with that I got the problem.
+So it is a good computer but toshiba has to improve its cooling system in their laptops.

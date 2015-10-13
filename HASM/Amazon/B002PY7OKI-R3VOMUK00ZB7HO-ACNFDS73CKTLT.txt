@@ -1,0 +1,11 @@
+ID: B002PY7OKI-R3VOMUK00ZB7HO-ACNFDS73CKTLT
+Category: Laptops
+Product: Dell-Inspiron-15-6-Inch-Black-Laptop
+ReviewerID: ACNFDS73CKTLT
+ReviewerName: ML "ml"
+Date: November 8, 2009
+Helpful: 15 of 16
+Rating: 4.0
+Title: Keyboard problem and other info
+Content:
+I've owned this computer for about a month and paid $540.  The people who were able to get it for $300 did very well as it's not a bad machine.  The keyboard problem is a software / driver issue.  Notice that it only occures in Internet Explorer.  Call Dell tech support.  They can fix it.

@@ -1,0 +1,27 @@
+ID: B001P05NKG-R197B3W7FTPKF3-A3TVZMFFTC1Z8P
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A3TVZMFFTC1Z8P
+ReviewerName: Christian Montesinos "Chris New York"
+Date: November 11, 2009
+Helpful: 63 of 87
+Rating: 3.0
+Title: Okay, not impressed. Design flaws overlooked by fanboism
+Content:
+Okay, Apple redesigned its macbook pro line.
+Pros: 
+-The aluminum body feels solid
+-The keyboard feels right and is backlit
+-The LED Screen is just superb. Some people complain about this but to me, it is just bright, clear and colors are outstanding.
+-Battery life averaging at most 5 hours. Not bad but nowhere near the 7 hours advertised. Not a con bc the battery life is still excellent
+-Bootup speed is superb. 20 seconds to boot up and less than 5 seconds to shut it down.
+-Snow Leopard is fast and expose makes life easier.
+cons:
+-First of all, this is the bottom of the line macbook pro. If you wanna do any serious "professional" work here, you won't be happy. 9400M graphics card is mediocre.
+-Snow Leopard is far from being stable. Plenty of compatibility issues, especially with Adobe products.
+-Safari is a memory hog
+-Heating issues. Aliminum dissipates heat better, so I wonder how those white macbooks handle the heat issue.
+-Why on earth would the team design for the macbook pro line-up design a vent dissipating heat towards the screen. That WILL cause the premature failure.
+-USB ports are TOo CLOSE TOGETHER. If you use a non-bluetooth mouse(which is recommended for a longer battery life) and want to use a flashdrive, you have to choose for one or the other. 
+-Minidisplay port. Really Apple? It doesn't even support audio at the moment so why replace the mini-dvi display? Or why not go the HDMI option?
+-Glossy screen. Not a fan but if you adjust the brightness properly, it should be just fine.

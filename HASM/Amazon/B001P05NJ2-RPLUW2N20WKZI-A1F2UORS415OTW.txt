@@ -1,0 +1,21 @@
+ID: B001P05NJ2-RPLUW2N20WKZI-A1F2UORS415OTW
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: A1F2UORS415OTW
+ReviewerName: Cary Champlin
+Date: March 7, 2010
+Helpful: 
+Rating: 5.0
+Title: Awesome upgrade over PC-based laptops
+Content:
+I have been in various hi-tech industries for most of my career and I am very fluent with using and developing software on PC/Windows, Linux, and Unix systems. I hadn't even considered owning a MacBook Pro. I was still holding on to the out-dated perception that Apple couldn't make it in the computer industry. Since, at one time, their computers used the under-powered PPC processor from Motorola, I knew they couldn't compete with the seemingly exponential processing power growth curve associated with computers based on Intel processors.
+Then about six months ago, I walked into an Apple store. The staff had so much fun showing off and converting me to the MacBook Pro. They were smart; off-the-chart smart.
+Apple now builds the coolest hardware and software on the planet: Macbook Pro, i-touch/phone, i-pod, i-pad, i-tunes, OS X, Xcode IDE. Apple recently celebrated their 10 billion i-tunes download milestone and reported their most profitable quarter ever. Their stock growth over the last five years is impressive. The trend is clear; Apple definitely rules this industry now.
+So, what makes the MacBook Pro 17 the laptop to own?
+Screen: 1920x1200 pixel resolution for a 17 inch display. Evenly backlit with LED technology produces a crisp display. For the 17 inch, there is a choice of flat or glossy screen finishes. I chose the flat finish to eliminate the reflections.
+Case: Lightweight, aluminum case. Features (such as microphone, camera, ports, on/off button, DVD slot) that should be small are small. No plastic cases that crack; no creaking lid hinges; no flimsy plastic DVD trays. The manufacturing is first class. It is analogous to being in a luxury car where everything just fits well. The MacBook Pro exudes engineering excellence in its design.
+Battery: With a PC laptop, I needed to minimize usage to maintain on time. On a recent 3-hour airline trip, I tried to max out usage on the MacBook Pro. Still had plenty of battery charge at the end of the flight. 
+Trackpad: Based on multi-touch technology. Two fingers on trackpad and depress is similar to a right-click. Two-finger swipe is a scroll. Very nice human factors technology throughout.
+Operation: Very quiet, no fan noise (does it even have a fan?). Fast start-up and login.
+OS X (Snow Leopard): Stable, no blue screen of death. It is obvious that OS X has its roots from Unix. One of the features, Spaces, allows multiple concurrent workspaces to be used (Ctrl-arrows navigates through the workspaces). OS X also includes software for folder/file encryption (file vault), version control software (CVS), and development (python, perl, php, gcc, bash shell).
+Fun stuff: Open the terminal window and type 'say this is a great day to buy a mac' without the quotes.

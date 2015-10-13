@@ -1,0 +1,22 @@
+ID: B002AURXTY-RGSRLN1LM5M9V-A2R2KLWPQTO1EH
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS5810TZ-4274-15-6-Inch
+ReviewerID: A2R2KLWPQTO1EH
+ReviewerName: Fixup
+Date: September 19, 2009
+Helpful: 21 of 21
+Rating: 5.0
+Title: This is the laptop all others should be - light, thin, cool...
+Content:
+Unless you play very demanding 3D games, the Acer AS5810(15.6"), AS4810(14.4") or AS3810 (13.7") is the one for everyone.
+- Thin and light, 5.4 to 3.5 lb, &lt; 1", nothing else I know of is like this.
+- Cool, very thoughtfully designed to avoid heat buildup. Metal top, lots of spaces between keys. Bottom is never warm, palm rest area is absolutely cold, incredible.
+- Quiet, as it is so cool, the fan never speeds up to make noticeable noise.
+- LED backlight, should last forever and save battery.
+- 8-hour battery life, never need to carry the AC adapter for the day. Never worry about empty battery, just concentrate on your work.
+- Metal lid, looks VERY VERY good. This thing looks better and slimmer than MacAir, no kidding.
+- Number keys included.
+- Only $[...], even cheaper than other thick, heavy, hot and noisy craps.
+My son, senior high, carries it in his backpack together with many thick books. This is not a demanding 3D gaming machine, exactly a good thing for a student. If you want to save $[...], then get the Dell i1545, just heavier, thicker and shorter battery life, but a real dual core CPU, unbelievable deal.
+The only stupid thing: I've seen crap ware installed in new PCs before, but Acer did it to the extreme on this laptop, like 100 trial games etc.
+It took me a whole day to uninstall them. Because no Vista CD included, so I could not just do a clean installation. Then I used Ghost to make a full back up for the partition 2, about 5 GB. No need to back up the partition 1, about 10 GB, it is the factory restore area and you can use Acer's utility to burn them to DVD disks. Next time when a restoration is need, I can just restore the ghost and no need to uninstall the numerous crap ware again.

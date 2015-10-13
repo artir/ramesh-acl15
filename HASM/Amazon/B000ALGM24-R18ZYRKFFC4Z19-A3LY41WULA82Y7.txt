@@ -1,0 +1,11 @@
+ID: B000ALGM24-R18ZYRKFFC4Z19-A3LY41WULA82Y7
+Category: SpaceHeaters
+Product: Hunter-44550-7-Day-Programmable-Thermostat
+ReviewerID: A3LY41WULA82Y7
+ReviewerName: Charlie
+Date: January 13, 2008
+Helpful: 10 of 15
+Rating: 1.0
+Title: Heating control is not accurate. Weekend schedule is not really adjustable.
+Content:
+Heating control is not accurate. It turns heating off at about +3 degree even though I set accuracy to +/-1.  I guess the problem is the temporature sensor is not very sensitive.  Weekend schedule is not really adjustable. It just drops off two middle schedules of your weekday schedule.  I replaced it with Honeywell RTH230B. RTH230B is in the same price range as Robertsaw 9600 and overcomes the two problems above.

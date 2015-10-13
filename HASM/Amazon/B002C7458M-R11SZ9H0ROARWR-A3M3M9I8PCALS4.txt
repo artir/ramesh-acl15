@@ -1,0 +1,16 @@
+ID: B002C7458M-R11SZ9H0ROARWR-A3M3M9I8PCALS4
+Category: Laptops
+Product: Apple-MacBook-MB985LL-15-4-Inch-Laptop
+ReviewerID: A3M3M9I8PCALS4
+ReviewerName: T. J. Oh
+Date: August 18, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: unibody Macbook pro - solid performer
+Content:
+I switched to Mac about 5 years ago and I have used several macs (Powerbook G4 1.66 GHz, Mac Mini 2.0 GHz, Macbook pro 2.5 GHz (pre-unibody), unibody Macbook pro 2.66 GHz). I manually upgraded the MBP with Seagate Momentus 7200 rpm (non AntiShock version) 500GB and it has been great so far. The unibody model seems to have significantly better build quality compared to previous versions and the larger trackpad is a joy to use. 
+I compared the system response speed with the default 5200 rpm and 7200 rpm hard disk and found that 7200 rpm HDD significantly improves the performance of this machine. I hear that solid state drives provide even better results so if you can afford it, you may want to consider the SSD option. For 7200 rpm HDDs, make sure that you don't purchase a anti shock enabled HDDs (in Seagate's case, this would be the G models) for there are ample of stories how the HDD anti shock technology is conflicting with Apple's sudden motion sensor. 
+The look of the laptop is gorgeous and everything is beautifully built (inside, outside). On top of that, it runs Mac OS X ;-)
+This is the best laptop I ever owned.
+pros: Uses Mac OS X, solid build quality, very good battery life, 4GB memory by default
+cons: need to purchase mini display port - DVI, VGA adapters separately, smudge on the display from the keyboard, trackpad not aligned in the middle with respect to the spacebar

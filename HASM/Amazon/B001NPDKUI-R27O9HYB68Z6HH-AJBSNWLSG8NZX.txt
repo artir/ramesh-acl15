@@ -1,0 +1,11 @@
+ID: B001NPDKUI-R27O9HYB68Z6HH-AJBSNWLSG8NZX
+Category: Laptops
+Product: HP-Pavilion-G60-230US-16-0-Inch-Laptop
+ReviewerID: AJBSNWLSG8NZX
+ReviewerName: WM
+Date: March 16, 2009
+Helpful: 43 of 54
+Rating: 1.0
+Title: Dead within first week
+Content:
+The first few times I used this notebook, the startup took a looooong time and hung a few times.  Then, maybe the sixth or seventh time I turned it on, there was no response from the monitor ... dead screen.  I called the support line, and per their instructions removed the battery/wireless card/RAM/hard drive and reassembled everything ... still nothing.  Seemed like a nice laptop for the hour or so that it worked.  The support staff were friendly and helpful and I am now shipping the laptop to the service center for repairs.  Will definitely not purchase an HP computer again.

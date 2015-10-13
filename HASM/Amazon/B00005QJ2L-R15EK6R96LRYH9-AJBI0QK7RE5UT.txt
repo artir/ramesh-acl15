@@ -1,0 +1,11 @@
+ID: B00005QJ2L-R15EK6R96LRYH9-AJBI0QK7RE5UT
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: AJBI0QK7RE5UT
+ReviewerName: Dr. Evil MD
+Date: January 4, 2004
+Helpful: 
+Rating: 4.0
+Title: Problems solved
+Content:
+1. Shutting off automatically= Problem fixed by updating bios from www.toshiba.com2. Trouble reading CD contents and reading DVDS = unchecked the box for enabling digital cd in My computer's cd drive propertiesUnfixed things, Fan is a bit loud, and notebook on heavy side.  Besides these, it is a solid, reasonably priced notebook great for students or researchers.

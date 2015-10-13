@@ -1,0 +1,16 @@
+ID: B002P3KVBI-R18MBDFTZBY9RH-A2I2C64Y5KUVLT
+Category: Laptops
+Product: Acer-AS1410-2285-11-6-Inch-Windows-Premium
+ReviewerID: A2I2C64Y5KUVLT
+ReviewerName: User
+Date: October 30, 2009
+Helpful: 16 of 17
+Rating: 5.0
+Title: Excellent ultraportable laptop
+Content:
+This is an excellent ultraportable laptop.  I feel the screen size is perfect for viewing without being overly small or requiring a large frame.
+Windows 7 Home Premium runs very smoothly and is relatively quick.  Make sure you tell windows update to ask you before you download and install updates, before it starts bogging down your internet connection and cpu whenever it wants to.  Even when it does run the update, you can still run other programs at a relative pace.  Picks up new devices and installs the drivers rather quickly.
+I find the keyboard to be good enough that you can type rather quickly without making major mistakes.  The bottom of the laptop gets somewhat warm but not boiling hot that you can't bear it.  The fan is also a little loud, but not overly and not silent either.
+I chose this specific model due to the faster processor.  The price increase over a 10.1" Acer netbook is definitely worth it - you get Home Premium, 2gb ram, larger screen, and a dual core processor.  HDMI is a plus as well (as I will soon connect this to my HDTV).
+Only drawback in my opinion is that it should've come with the 250gb hard drive, but it was either that and the slower processor, or the better processor and a 160gb.  External USB drives are cheap nowadays anyway, so faster processor it was.  3gb of ram would've been nice, but the 2gb definitely does the job well for basic computing.
+Overall, a great buy and I'm very happy.

@@ -1,0 +1,13 @@
+ID: B00318CGA0-RKBY385V4JDWM-AYYRIVCQ3XMS6
+Category: Laptops
+Product: Pavilion-DV6-2170US-15-6-Inch-Laptop-Black
+ReviewerID: AYYRIVCQ3XMS6
+ReviewerName: D. Burrows
+Date: March 8, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: DV6-2170US Startup
+Content:
+So far I am quite happy with my new DV6-2170US.  It is not destined to run software that will tax it, but after my first week it has performed well with the applications I have.  Technical support from HP was awful, but I expected that.  (During the process of making Office 2003 operational I was informed that, among other things, Office 2003 was not oompatible, even with Windows 7 Professional, and that my wireless router was not compatible with Windows 7!  Both issues were overcome with a few minutes of help from my ISP's technical people.)
+I did enable Windows 7 Professional immediately, and I did download the XP emulator (all 400+MB!)  I have not needed the emulator to-date, however.  I can not speak for Windows 7 Premium, but Professional supports Office 2003 Professional, and all of my other XP applications.  (Sony Sound Stage, Starry Night Pro, Photoshop, a British-based laboratory data acquisition system, an many others.)  If you plan to use the XP emulator, note that not all processors are supported.  (And it requires enabling the processor's XP emulation mode in the BIOS.)
+You can read the performance results in other reviews.  I am still busy uninstalling unwanted software provided by HP.  Again, with the exception of HP's tech support, I am very happy.

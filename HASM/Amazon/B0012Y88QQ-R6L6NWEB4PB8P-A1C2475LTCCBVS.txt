@@ -1,0 +1,30 @@
+ID: B0012Y88QQ-R6L6NWEB4PB8P-A1C2475LTCCBVS
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-Camera-Body
+ReviewerID: A1C2475LTCCBVS
+ReviewerName: Stewart Stryker "stewstryker"
+Date: July 8, 2008
+Helpful: 2 of 2
+Rating: 5.0
+Title: Nice step up from the Xti
+Content:
+A very popular review here suggested that the 40D was a better deal.  I'm here to say I ignored his suggestion and am glad I did.  I've only had the XSi for a week, so haven't taken more than 100 real shots yet, but I'm really pleased.
+First off, the XSi is $200 cheaper than the 40D (at the moment, it varies greatly) and 2/3rds the weight, both of which I appreciate.  I've never used the 40D so my comments below are about the XSi and the improvements over the Xti.
+Pros:
+* Bigger screen is great for viewing your results and checking the settings.
+* Seeing the ISO in the viewfinder is wonderful!  In the past I'd messed up shots because I'd left it set wrong, but no longer.
+* The viewfinder seems brighter and easier to view (haven't used in low light yet).
+* New Auto ISO makes getting quick shots in changing light easier, though I'll manually set it for shots when I had time to check all my settings.
+* Digital noise seems to be slightly reduced than the Xti.
+* Battery life is *excellent*.  I've only charged it once so far.
+* Even though the Live View focusing is a little funky, it works pretty well.  I can definitely see using it for night shots when the viewfinder is too dark (or maybe it won't be anymore?).  Nice touch that you can display a 3x3 grid on the screen for composition.  For auto-focusing, I prefer the Quick Focus mode, which blanks out the Live View while you're holding down the * button and the focusing is happening, but it's definitely usable.  The other auto-focus mode (Live Mode) takes so long that I won't use it.  Manual focusing is made much easier since they've added the ability to zoom in 10x in Live View, which is *wonderful*.  I'd missed that feature when I moved up from my Panasonic FZ30, which had it.
+* I like having the new spot metering for night shots.
+* I *really* like the new "My Menu" where you can select your favorite 6 menu options and they show up first, which means less digging through menus.
+Cons:
+* Highlight Tone Priority feature eliminates the ISO 100 option, which means you can get a little more digital noise.  And you can still get blown out highlights.  Maybe I'm not using it right or expecting too much?
+* Buttons on the back of the camera are more recessed than the Xti, making it less-obvious when you're trying to hit the right one w/o looking.  It's also *really* crowded back there!  Tough having fat fingers!
+Neither pro nor con:
+* RAW files are much bigger than in the Xti, many around 14MB, which means you get fewer shots per memory card (135 RAWs on a 2GB card, vs 197 on the same sized card in my Xti).  I expected a little increase from the increased resolution, but didn't count on the increase in the A/D bits from 12 to 14 to increase things too.  This also makes file transfers and loading into image editing software slower, and I think I'll need a bigger hard drive soon!
+* When reviewing photos, you can hit the Disp button to see more shot details.  Hit it once to just add that the storage format and picture count, which I *don't* think is worth its own step.  Hit the Disp button again to see the brightness histogram.  Hit it once more to see the luminescence histogram plus 3 small histograms for Red, Green and Blue.  Personally I don't have use for this last mode (or the second), so wish there was a Custom Function to disable them.
+* High ISO noise reduction - another feature I've turned off in Custom Functions.  Better to do advanced noise reduction on the computer.  Plus is slows down the continuous shooting mode to about 1.5 shots per second!  Ugh.
+All in all the XSi is a really nice pro-sumer camera that lets you get down and dirty with details when you want but can also rip off quick shots w/o thinking about every little setting.

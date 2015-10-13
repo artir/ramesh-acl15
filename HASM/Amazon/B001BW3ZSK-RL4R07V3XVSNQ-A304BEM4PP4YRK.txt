@@ -1,0 +1,16 @@
+ID: B001BW3ZSK-RL4R07V3XVSNQ-A304BEM4PP4YRK
+Category: MP3Players
+Product: iriver-Lplayer-Video-Player-Pink
+ReviewerID: A304BEM4PP4YRK
+ReviewerName: Richard Black "therblack"
+Date: August 26, 2008
+Helpful: 14 of 16
+Rating: 3.0
+Title: Nice..but not perfect
+Content:
+Hi,
+I got this a couple of weeks ago.  It is not bad--looks good, sounds good (on Shure 210s, anyway).
+Unlike some reviews the d-click seems fine to me.
+My issues are:
+a) it doesn't order songs well.  There is no (easy) way to order things by Artist and then Album for example.  Ever worse, Albums are not in alphabetical order.  This is a real pain!
+b) it doesn't play nicely with linux...you can get it to work, but out of the box it needs a little tweaking

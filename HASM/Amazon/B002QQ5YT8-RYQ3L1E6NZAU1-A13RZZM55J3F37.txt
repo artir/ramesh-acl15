@@ -1,0 +1,11 @@
+ID: B002QQ5YT8-RYQ3L1E6NZAU1-A13RZZM55J3F37
+Category: Laptops
+Product: Acer-AS5534-1121-15-6-Inch-Black-Laptop
+ReviewerID: A13RZZM55J3F37
+ReviewerName: Donald Fritz
+Date: April 26, 2010
+Helpful: 
+Rating: 4.0
+Title: Acer AS5534-1121
+Content:
+Great laptop.  It performs everything I want it to do, very quickly.  It is a Windows 7, 64 bit system, so I had to down load a lot of 64 bit drivers to use some of my old software.  The networking function works great.  I can connect and print from anywhere in my home.  Price was great too.

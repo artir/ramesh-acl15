@@ -1,0 +1,28 @@
+ID: B001NPDKVC-R1FSHKC1VJ8L1C-A1ZPXC87RR6EU1
+Category: Laptops
+Product: Pavilion-X16-1160US-16-Inch-Processor-Premium
+ReviewerID: A1ZPXC87RR6EU1
+ReviewerName: John Kenney
+Date: January 19, 2009
+Helpful: 58 of 65
+Rating: 5.0
+Title: Tremendous laptop!! Very pleased with it
+Content:
+As compared to other laptops at roughly the same price point, this computer is a much, much better deal. I couldn't believe it when I saw it. 
+I bought this the 1st day it went on sale at Amazon - was literally about to pull the trigger on another laptop, but this popped up new on a final scan, so I bought it instead.
+Main features that make it a great buy for the price are:
+- A better, faster processor that is also Intel's latest offering (Quad Core Q9000)
+- Lots of memory (4G)
+- A bigger hard drive (500G)
+- A larger screen (18.4")
+- A Blu-Ray drive (for HD movies)
+I wanted a very high performance laptop for under $2,000 - and was especially keen to find something with killer processor speed, a graphics card to drive 2 external HD monitors, and a big laptop screen. 
+I use the machine for general business purposes, but also most importantly for web development work running Drupal and an Apache development server on the machine, along with big programs like Dreamweaver and Photoshop - all running pretty much at once. I do not use for gaming, but believe it would be great for that, too. I also don't use so much for video / movies, even though it is heavily designed with that in mind.
+I extensively researched machines from Dell, Alienware, Sony, Asus, and other leading vendors (I didn't want a Mac, so didn't compare against that). I'm not a hard core techie, but I wanted the best I could buy, so I also looked at the Intel site and their processor specs, visited the geek blogs to get the latest gossip on processor performance, etc.
+So far I couldn't be happier with the machine! It is great. Very, very fast. Laptop screen is large and super high quality. The keyboard is really lovely - very smooth, like silk.
+A few notes on things I've learned about the machine so far:
+- It is a big laptop. That's probably obvious from the 18.4" screen, but it is also pretty heavy and the power cord/transformer is bigger and heavier than normal (takes a lot of power to fuel the processor and screen). So while the computer is certainly portable, it sure doesn't fit in your back pocket. If you are a highly mobile worker, this might be a factor.
+- Baseline graphics card will support dual external monitors and/or an HD TV connection. I am currently running 1 external 1680x1050 plus laptop screen, but will be adding 2nd external soon (the cabling for doing this is a bit confusing, but I think I now have it figured out).
+- The entire HDX line of laptops is new (introduced Fall '08 from what I understand) and there is not yet a complete line-up of accessories available. For instance, I was thinking to get a docking station to configure my monitors, but only docking station that currently works with the machine is the HP QuickDock  or xB4 and these do not have digital video/monitor ports (VGA only) which renders them pretty useless if you have high performance monitors. As well, they do not yet sell 'official' HP memory upgrades for this machine yet (tech support indicates they probably will later this year, so worth checking if that's important to you). In the meantime, you can use off-the-shelf memory from Amazon or wherever. Memory is DDR2 800Mhz 200 pin (which isn't stated anywhere obvious that I saw), but can be switched over to DDR3 if you upgrage to the enhanced graphics card.
+- After many painful hours on hold and being routed from one tech support rep to another, I learned that there is a dedicated tech support group for the HDX laptops. For some reason, they provide only the main number in the collateral that comes with the machine - and no one at that number seems to know about this special group. But eventually somebody figured to route me there and I recommend you go there directly. 866-408-5408.
+Overall, I love this machine and highly recommend it to others.

@@ -1,0 +1,13 @@
+ID: B001FA1NHS-R1R9BG6XBCZQF-A3VLURHHMEE010
+Category: MP3Players
+Product: Apple-Silver-Generation-Previous-Model
+ReviewerID: A3VLURHHMEE010
+ReviewerName: David Partrick
+Date: January 5, 2009
+Helpful: 
+Rating: 4.0
+Title: Good Accessibility
+Content:
+I bought the 4G nano after reading about Apple's inclusion of accessibility features for blind users.  While the implementation is not complete, it is good enough to allow me to operate the basic functions of the device.
+When connecting through iTunes 8, you can turn on voiced menus. On a Windows machine, iTunes will use the system's default text-to-speech engine and settings to voice most of the menus and media on the iPod.  Some menus not voiced, but the important ones are.  After sync'ing, I have occasionally had an unvoiced podcast folder.  The contents are voiced, just not the menu name.  The next time I sync, this generally is corrected, and the problem is sporadic and not a huge deal.  
+I switched to the iPod after growing frustrated with Rockbox on a Sansa.  While Rockbox had a much more comprehensive implementation of voice technology, the device crashed one too many times.  The iPod hasn't got all teh bells and whistles of Rockbox, but it has been much more stable,... so far.

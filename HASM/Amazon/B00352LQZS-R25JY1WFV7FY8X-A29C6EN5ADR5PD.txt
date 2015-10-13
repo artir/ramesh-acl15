@@ -1,0 +1,20 @@
+ID: B00352LQZS-R25JY1WFV7FY8X-A29C6EN5ADR5PD
+Category: Laptops
+Product: N61JQ-X1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A29C6EN5ADR5PD
+ReviewerName: TonyTech "Tony"
+Date: March 11, 2010
+Helpful: 6 of 6
+Rating: 4.0
+Title: AWESOME LAPTOP!
+Content:
+My two concerns when purchasing this laptop were:
+A.) The Brown Color (it looks pretty brown and ugly in Amazon's photos)
+B.) The Screen resolution of 1366 x 768 
+And upon receiving the product, this is what I've found
+A.) While it is brown, its a VERY dark brown that appears black in most lighting conditions. Only under direct light or white light does this even resemble a brown color. It does not look like that milky chocolate brown in the Amazon photos.
+B.) The screen resolution (1366 x 768) is a tough pill to swallow. The 768 vertical resolution is really hard to handle if you are used to laptops with higher screen resolutions. The amount of vertical scrolling and real estate for multiple windows opened at the same time is difficult with this resolution. This is not really a deal breaker for me because I have this connected to multiple external monitors, but if you intend to use the laptop screen as your primary display device, this screen resoultion is pretty poor. Its probably fine for watching DVDs or playing games at high settings so the native resolution can handle it, but I would have really preferred 1600 x 900.
+With that said, this ASUS N61 laptop is absolutely fantastic. The build quality is excellent. Its a very solid, sturdy built machine with no flex in the display or the keyboard. It looks great with a clean polished look without all the ridiculous gaming machine graphics all over it. It has better than average sound quality and the display (aside from the screen resolution) looks great. I found the battery life to be more than acceptable because this has a quad-core processor and a 7,200 RPM drive with a fairly small battery (I dont want a big heavy battery). I'm getting a little over 2 hours, which I consider very good all things considered. 
+I previously owned a Sony F Series laptop with the Intel i7 processor and the Sony had EXTREMELY loud fan noise trying to keep it cool. I was scared at purchasing another i7 because I thought they were all like that, but that is not the case with this ASUS. The fan is very quiet. At idle its whisper quiet and under load it revs up but its a lot quieter than the Sony was. It also has a special power setting that keeps it quiet (perfect if you are in dead silent room and dont want to hear the fan). 
+The i7 is an absolute beast of a processor. I am batch processing thousands of images, analyzing about 3.2GB of data in SQL server, watching WinTV, downloading huge files via FTP, and compiling C code AT THE SAME TIME and this thing never skips a beat.
+Aside from the lousy screen resolution (why its only 4 stars) I am very happy with this purchase. I am so glad I returned the Sony F Series and bought this. Great purchase.

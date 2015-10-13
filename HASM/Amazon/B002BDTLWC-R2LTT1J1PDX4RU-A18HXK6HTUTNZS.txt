@@ -1,0 +1,12 @@
+ID: B002BDTLWC-R2LTT1J1PDX4RU-A18HXK6HTUTNZS
+Category: MP3Players
+Product: Creative-Zen-Video-Player-Black
+ReviewerID: A18HXK6HTUTNZS
+ReviewerName: Decolliber
+Date: July 30, 2009
+Helpful: 79 of 84
+Rating: 3.0
+Title: cheaper version of the old Zen: mixed results
+Content:
+I have both the older 8gb Zen (2007) and a new 16gb Zen MX. They are basically the same except that the MX has integrated access to the removable SD card directly from the Creative Centrale software that comes with the it. With the old Zen you had to go into a removable card menu on the Zen and then access the card via the computer operating system to add or delete files. Zen MX also does not have the code for some video formats and the software has to convert them before transfer to the Zen MX; on the old Zen you could just transfer the video files directly to the Zen. Finally, the Creative Centrale software that comes with the new Zen MX does not seem as intuitive and user friendly as the older software that came with the Zen. If I had to do it again I would have bought the older Zen rather than the new Zen MX, but the older ones are becoming hard to find and are a lot more expensive. Strangely enough the 16gb version of the old Zen is more expensive than the 32gb version!
+To answer those who said the Zen MX will not play DRM protected files. Not true. It will play DRM9 protected files, but they have to be put on the Zen via the transfer function in the software, not through drag & drop, because the former also carries over the license info and the latter technique does not. Creative notes this on their web site.

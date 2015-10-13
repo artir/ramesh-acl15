@@ -1,0 +1,11 @@
+ID: B00303G9QS-R1LTQRZNJDPUGA-AYYOBYWY7MTGI
+Category: Laptops
+Product: Acer-Timeline-AS1810TZ-4008-11-6-Inch-Olympic
+ReviewerID: AYYOBYWY7MTGI
+ReviewerName: M. Danter
+Date: December 30, 2009
+Helpful: 15 of 24
+Rating: 4.0
+Title: Good product, incorrect product listing
+Content:
+Amazon lists this item having an optical drive (DVD), but this is incorrect.  The true hardware specs are identical to the ones listed by amazon in all other aspects.  The product's performance is as good as expected, and is well built. To sum it up, this product is a good buy in spite of it differing from what is specified in the product listing by the lack of a DVD drive. Hopefully Amazon will correct the listing soon.

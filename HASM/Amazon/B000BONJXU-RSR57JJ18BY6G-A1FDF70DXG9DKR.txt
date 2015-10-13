@@ -1,0 +1,18 @@
+ID: B000BONJXU-RSR57JJ18BY6G-A1FDF70DXG9DKR
+Category: MP3Players
+Product: SanDisk-Sansa-m230-Player-Blue
+ReviewerID: A1FDF70DXG9DKR
+ReviewerName: Naushik Desai
+Date: June 25, 2007
+Helpful: 3 of 5
+Rating: 1.0
+Title: Not worth the hassle
+Content:
+I bought 2 of these players as gifts. At the same time I also bought 2 Creative Zen Stones as gifts (for our extended families overseas). 
+I loaded both a Sansa and a Zen in the last few days with MP3 files using Windows Media Player.
+It took less than 5 minutes (not including the transfer time) to do it on the Zen (which worked right out of the box). 
+The Sansa took 3-4 hours last night. It started well as the player recognized it and started a playlist sync. Stopped after first file. From then on it became a challenge. I tried drop and drag (did not work). Finally downloaded the firmware update from Sandisk (this was also not easy and had to do it several times). Then it synced.
+Why did I buy this? Low price and FM capability. I WISH I HAD PAID $9 MORE TO GET TWICE THE STORAGE AND NO HASSLES WITH THE CREATIVE ZEN STONE (MUCH SMALLER AND RECHARGEABLE). Well hindsight is 2020 but I hope this review helps you in making a right choice.
+Sandisk you are no Apple (I also own a new shuffle) and unfortunately not even a Creative.
+UPDATE: Since the review I also loaded the other Sansa and Zen. I lucked out with the Sansa this time because the update software made me chenge the USB setting to MSC mode (in the settings menu). With the Sansa sync-ed to Windows Media Player without any trouble.
+I would add 2 more stars to the rating based on this update. My view still remains that unless you are looking for FM go for the Zen Stone (for $9 you get 512MB more; it is SMALL (slightly bigger than iPOD shuffle) and rechargeable (save on some batteries and associated costs).

@@ -1,0 +1,11 @@
+ID: B002G26RDO-RFB3S9CIAZFBR-A15V13ATWC0NDK
+Category: Laptops
+Product: Toshiba-Satellite-P505D-S8935-18-4-Inch-Laptop
+ReviewerID: A15V13ATWC0NDK
+ReviewerName: G. Austin
+Date: September 11, 2009
+Helpful: 7 of 7
+Rating: 2.0
+Title: Constantly crashes or BSOD during boot
+Content:
+I replaced a 3+ year old Toshiba 15.4" Centrino laptop that has performed perfectly with this upgrade. Because of the excellent performance of the 1st Toshiba product I only considered Toshiba. I am running the same programs and USB devices that ran without problems on my older Toshiba laptop. However, this laptop has crashed or gone BSOD every day since I transferred programs and settings. The problem seems to be related to the USB ports. Toshiba support offers only to "power cycle". It will run without problems usually after two boot attempts. On a positive note the screen and sound are commendable for a laptop in this price range. I will continue to reinstall the Toshiba drivers and eliminate start-up services to attempt to correct before I return to Amazon and purchase another brand. I would not recommend this laptop based on my experience. UPDATE: 9/19/2009. : I have corrected the freeze-ups and BSOD on boot by not attaching an USB Sprint modem until the entire boot process is finished and the Sprint smart-view application has loaded. I did not have this issue on old laptop or a desktop running Vista Home.  I am more satisfied with the laptop despite the small inconvenience during start-up.

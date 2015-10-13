@@ -1,0 +1,22 @@
+ID: B001THVNUO-R3SQSA7D2AJA2L-
+Category: AirConditioners
+Product: 000-BTU-Portable-Air-Conditioner
+ReviewerID: 
+ReviewerName: 
+Date: September 16, 2009
+Helpful: 61 of 63
+Rating: 2.0
+Title: What you need to know about Portable Air Conditioners before you buy
+Content:
+Hello everyone!
+Portable air conditioners work by taking the air from your room, cooling it, and blowing the hot air out through an exhaust hose attached to your window. 
+But blowing hot air to the outside creates negative pressure inside your room which, in turn, pulls in more hot air from the outside (the amount of air blown out is equal to the amount of air pulled in). It is kind of self defeating.
+The portable air conditioner is able to cool your room as long as the air it exhausts is hotter than the hot air pulled in, then there is an overall cooling effect.  But as the temperature outside increas, a small A/C unit may not have enough BTU to to cool the air enough to compensate the hot air being sucked in. 
+I made the mistake of using a traditional web based cooling calculator to estimate the amount of BTU's needed for a portable A/C. If I had read the web page more carefully I would have noticed that these BTU calculators are for window/wall mounted air conditioners. The major difference between a window A/C and a portable A/C is that the window unit has its heat exchange coils outside and does not create negative pressure in your room (in other words, the cold air in the room is not directly diluted by warm air being sucked in from the outside). Without the negative pressure, there is no hot air being pulled in, so the amount of BTUs needed to cool the room is much less. Of course, even with a window A/C, warm air still seeps into the room but at a lower rate. 
+I estimate that I would need at least 50% more BTU in a portable air conditioner than that shown in web based BTU calculator for my needs. So instead of the 8,000 BTU Koldfront unit, I should have gotten a 12,000 BTU portable air conditioner. 
+Note: some portables A/C have two hoses, one for the exhaust and one for the intake so they do not create negative pressure. These units are more effecient and the web based BTU calculator should apply. 
+Here are the key takeaways:
+1. Unless you have a two hose model (which maintains neutral pressure in your room), these portable A/C units are inefficient and are more costly to operate than a conventional through the wall/window air conditioner. 
+2. If you can, try to get a two hose portable A/C unit. But if not, then you will probably need to increase the portable's BTUs by 50% (or 1.5x) when using a conventional web based BTU calculator. CompactAppliance tried to warn me but I didn't listen. What did you expect from a 13yr old? :-).
+3. Do buy from a reputable dealer, such as CompactAppliance. They graciously accepted my return without any hassles. Be sure you always read the vendor's return policy (some have reasonable restocking fees but some won't take it back at all!) 
+I hope this was helpful.

@@ -1,0 +1,15 @@
+ID: B001GQAJZS-R23QM2AWSQO1B-A1VRANSQ0WF1YS
+Category: Laptops
+Product: Dell-Inspiron-Processor-Genuine-Windows%C2%AE
+ReviewerID: A1VRANSQ0WF1YS
+ReviewerName: Robin M "robin_M"
+Date: August 29, 2009
+Helpful: 
+Rating: 4.0
+Title: good quality netbook
+Content:
+Got this unit from Dell about 3 or 4 months ago, surprised about the good quality of the unit overall in cosmetic appearance, it was the glossy black version. I actually sent the first unit back since there were dead pixels on the screen. The second unit was sent out and was fine in that regard.
+I got mine with Ubuntu, 4 gb ssd and 1 gb ram, no web cam. I was $205 delivered from Dell. 
+I didn't care much for Ubuntu, when it worked it was fine but if you had a problem you have to set up a forum service request and send data and log files which I have no time for. Eventually put XP on the unit worked well - I did not nLite the XP (again no time) so it takes up 3.5gb of my drive. 
+Since I use the unit for mainly surfing the web and email so works fine for those purposes. XP is stable. At times it hangs for a while when surfing but then comes back to life. I have never needed to reboot/hard stop the system.
+SO for ~$200 works great for my needs of surfing the net.

@@ -1,0 +1,12 @@
+ID: B001FA1NGO-R323XCDJSLZINR-A16D004EXFA7UV
+Category: MP3Players
+Product: Apple-Orange-Generation-Previous-Model
+ReviewerID: A16D004EXFA7UV
+ReviewerName: SesameStick
+Date: October 26, 2008
+Helpful: 6 of 7
+Rating: 3.0
+Title: did not live up to expectations
+Content:
+I really wanted to like it but it has to many draw backs.  Biggest is a software bug, the nano can not play a playlist in a random order, you can 'shuffle' but it will always shuffle the songs in the same order, the web lists some work-arounds for this but the fourth generation of a product absoultly should not have this sort of problem (does Apple not employ 'testers'?).  All user interface is disabled when it is not held upright.  The iTunes interface on your computer is poorly designed, hardly documented and defaults to assume you have less than 8gig of music.  The volume control has significant delay built in.
+I think three stars is generous, and I fail to see how anyone could give it five.  I have had no hardware problems and it does look cool.  All in all it is not worth the effort to return it.

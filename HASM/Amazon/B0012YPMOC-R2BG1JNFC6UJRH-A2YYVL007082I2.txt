@@ -1,0 +1,11 @@
+ID: B0012YPMOC-R2BG1JNFC6UJRH-A2YYVL007082I2
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A2YYVL007082I2
+ReviewerName: Matthew Boulanger
+Date: November 26, 2008
+Helpful: 3 of 4
+Rating: 1.0
+Title: White Screen of Death- No firmware fix forthcoming
+Content:
+I wanted to like the Zen.  In fact, I did like the bright screen, ability to use an sd card, etc.  However, in the last year, it has slowly developed the dreaded "White Screen of Death".  At first, I was able to get my screen back by getting a song to play and then putting the unit into hold.  Taking it out of hold would restore the screen.   Lately, nothing works,  I have tried everything- downgrading the firmware, upgrading the firmware, rebooting, resetting- nothing works.  It's basically a brick, it's out of warranty, and I can't afford to replace it. Conventional Internet wisdom is that it is caused by a hardware conflict. I don't care what it is- I see no effort on the part of Creative to comprehensively take care of those of us they know they sold a bad player to.  All they do on their website is refer you to their customer service system, which if you are like me, will determine that the product is out of warranty and supply you with a link to a page where you can buy a new one.  NO WAY!  I'll buy something that is better supported by its manufacturer next time, shove this thing in a drawer and pray for Rockbox,  Don't take a chance that yours will develop this problem- take my advice and return it now while you still can.

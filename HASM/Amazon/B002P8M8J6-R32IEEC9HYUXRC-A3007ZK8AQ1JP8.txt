@@ -1,0 +1,13 @@
+ID: B002P8M8J6-R32IEEC9HYUXRC-A3007ZK8AQ1JP8
+Category: Laptops
+Product: Toshiba-Satellite-L505D-S5992-TruBrite-15-6-Inch
+ReviewerID: A3007ZK8AQ1JP8
+ReviewerName: Gesualdo Donnarumma
+Date: January 31, 2010
+Helpful: 
+Rating: 5.0
+Title: Toshiba Satellite L505D-S5992
+Content:
+Well, I was impressed by the fact that I got it before the delivery date, second and honestly it is a good deal, good price good window7, for the first time I have experienced window 7, and I can say that there is a good improvement since the old windows, easy to use and to restore in case something goes wrong. Apart the benefit you may get from Window, this Toshiba is fast and has got all the interface you basically need!
+Well about the battery I have noticed that it may last about 3hours (while typing some php script and so on)
+If you are thinking to install another OS on it i.e.Linux, you may experience some trouble.

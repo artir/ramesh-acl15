@@ -1,0 +1,14 @@
+ID: B001FOREK4-R24XZ6LV386ZIE-A20HEB6UUEEBMR
+Category: DigitalSLRs
+Product: Sony-Alpha-24-6MP-Digital-Camera
+ReviewerID: A20HEB6UUEEBMR
+ReviewerName: wes "wes"
+Date: November 29, 2008
+Helpful: 46 of 46
+Rating: 5.0
+Title: Biased Opinion
+Content:
+Let me start by saying that I teach a digital photography class at the local community college, and I've seen/used/taught about every major brand and many minor brands of digital cameras, and I think every manufacturer makes a camera that is right for different people with different requirements.  That being the case, the alpha900 is amazing.  The resolution is not only record breaking, but the clarity of each of those pixels is quite good (with the right lens).  The image stabilization on a full-frame sensor is a first (and so far, only).  5 Frames per second?  At 24.6 megapixels?  It is a testament to Sony's knowledge of electronics.  The view finder really does exemplify why "live view" is more of a marketing checklist item, and not really necessary; looking through the view finder is a joy.
+But, the world of the a900 isn't all roses.  If you have a collection of Sony/Minolta lenses, hopefully they're all full-frame.  Yes, the a900 supports APS-C lenses, but there is no real advantage to them with this body over other Sony DSLRs.  The a900 does "find focus" better than previous Sony DSLRs, but the location of the focus points aren't as well laid out as other Sony models.  While I usually carry an external flash, so the lack of a pop-up flash isn't a problem for me, many users will find the lack of one to be, at least, an annoyance.
+And last, but certainly not least, is post production once the images are off of the camera.  If you primarily shoot in RAW (as I do), and do much post-production, be prepared to bring your computer to it's knees.  These files are huge, and all that wonderful resolution comes at cost; that being the amount of pure computing horsepower required.
+Given those few caveats, the alpha900 really is a big step forward in digital SLRs, in many ways.  If you can justify the cost of this body, it really is worth having, and you'll be surprised at just how much detail a single image can have when its almost 25 megapixels.

@@ -1,0 +1,33 @@
+ID: B0034GXNYM-R2OJT0HFQWI06I-A3LZ7JLHHK0QGD
+Category: Laptops
+Product: N61JQ-A1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A3LZ7JLHHK0QGD
+ReviewerName: Dan Greenberg
+Date: March 5, 2010
+Helpful: 16 of 19
+Rating: 4.0
+Title: In-Depth Review
+Content:
+Just got this. Looked at it for a few days on [...] to get detailed specs and customer reviews before purchasing. I only bought it on amazon because the next day shipping was cheaper (about $[...]) and the computer itself was $[...] less on amazon. 
+Haven't pushed the pedal to the metal as far as ram, HDD, and CPU go. There is an overclocking speed (called Turbo Boost) that is automatic. With windows 7 (instaleld) the Turbo Boost app lets you see the CPU ramping up. It shows that the CPU rutinely goes up to 2.6 Ghz when opening an application (not very intensive work) so I am not sure how accurate the gadget is, but we'll see. When compared to what else is out there, this coputer has much more for your money and is actually cheaper than many laptops with less power/graphics capability/coolness. Look at the prices at Best Buy for an Core i3 laptop. They are nearly $1000 and don't have as much ram, video memory, or upgrade potential. This is a Core i7, much more powerful and is less than alot of the laptops out there. Plus, Asus has a 1 year accidental warranty. Tops!
+Pros:
+-Amazon said it would be Brown, mine was black when I got it. Brown is ugly anyway!
+- You can create a recovery DVD to fix everything in the event you scrw something up. Also, has a bootup recovery option built in, so even if you don;t have the disks, it can be recovered.
+- 1 year replacement/repair "i dropped it in a pool" warranty.
+-Shipping. For the price of the computer, get the 30.00 next day. I order by 3:00PM on thursday and had the computer booted up at 3:15PM friday. 
+-Nice looking computer. Great sound. Great price. (You can get a lesser model without the i7 CPU from Best Buy for 999.00)
+-USB 3.0 is nice touch. Cool touchpad with "gesture" recognition.
+-I like the screen. The resolution is said to be a little low/poor for the machine, but I do not yet find it to be a problem. You can zoom in and out using the touchpad and gestureing, so if the icons look to big/small, you can change it up without messing with screen resolution. Basically, you can keep it in 1377x768 mode. HD screen looks good to me. Bright too.
+-HDMI output! You can hook this thing up to your big ass HD flat screen.
+- With Windows 7, some "gadgets" aka iphone style "apps" that can be installed to the desktop require 32bit. This computer has the 64bit Windows 7 so you have to do some playin around to get those gadgets to work. Pandora is one of those. However, you can have a applet for Pandor Radio on the desktop without needing an open internet explorer window. Cool!
+- POwer saving one-touch button. NOt sure how effcient it is yet.
+- So far, Windows 7 is not that bad. Yet. :)
+CONS:
+- A lot of "bloatware" on this baby. You have to sort throught it all and see what you like/don;t like and uninstall whatever you can live without.
+- At initial boot up, 80 processes running! Ouch. 33% of RAM in use. That's over a Gig. Trim down the fat and you should be good.
+-The first time I launched the "See how cool this Asus computer is" demo, I needed to lower the volume. Whn I did so, the computer locked up, blaring a annoying sound. I had to hold th epower button for 4 sec to turn off manually. Not cool. After that though, all seems cool.
+- The keyboard is a little cheap, has some play to it. Go to Best BUy and type on one of their floor models to see if it is bad for you or not. Not a deal breaker for me, but kinda lame. The "full size keyboard is not true, it is laptop sized with a number padd on the right. The arrow keys (if you play games or use spreadsheets) are small and you can easily miss them and hit the 0 or control key.
+- With Windows 7, some "gadgets" aka iphone style "apps" that can be installed to the desktop require 32bit. This computer has the 64bit Windows 7 so you have to do some playin around to get those gadgets to work. Pandora is one of those. However, you can have a applet for Pandor Radio on the desktop without needing an open internet explorer window. Cool!
+- A lot of Asus "this and that" programs to deal with. I uninstalled half of them.
+BOTTOM LINE:
+Buy it. Remove what you don't like. Great deal. If you were going to spend 800, drop an extra 2 bills and get this one. If you were going to spend 1200, save you money and get yourself a case for this one once you buy it.

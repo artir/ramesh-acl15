@@ -1,0 +1,11 @@
+ID: B002LZORO2-R3Q5LAZZ4AWUTW-AMJR7YAD3CSMA
+Category: Laptops
+Product: Toshiba-Satellite-L305-S5970-15-4-Notebook
+ReviewerID: AMJR7YAD3CSMA
+ReviewerName: W. Johnston
+Date: April 22, 2010
+Helpful: 
+Rating: 3.0
+Title: Good except Wi-Fi Reliability
+Content:
+I have enjoyed the L305-S5970.  It does everything as advertised, but the wifi has given me problems.  Twice within the first year the internal wifi mysteriously stopped working.  Luckily the laptop was under mail in warranty, but it was a hassle to have to mail it in and have the hard drive erased.  I bought a USB Wifi so that I don't have to mail it in again.

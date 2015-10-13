@@ -1,0 +1,12 @@
+ID: B0034W2Q1C-R3J7TLUP89CP7Z-AYFK8FCN35D17
+Category: Laptops
+Product: Acer-AS5517-5689-Widescreen-Notebook-Processor
+ReviewerID: AYFK8FCN35D17
+ReviewerName: A. Lernerman
+Date: January 29, 2010
+Helpful: 6 of 6
+Rating: 3.0
+Title: Just ok
+Content:
+When I initially saw that Office Depot is carrying this laptop for a dirt cheap price of 369.99, against my better judgment and further research I went ahead and bought it. So the good aspects first, nice high contrast wide screen, comes with windows 7, huge hard drive 350 gigs and 3 gigs of ram is also a big plus. Now the bad, you would think that with 3 gigs of ram it would fly like a rocket right ? Wrong, first of all it is an AMD SINGLE CORE processor, so if you are looking for a super fast laptop this would NOT be it. Also because of the wide screen display the laptop is very bulky and a bit on a heavy side. In case you are wondering if the 64 bit is a plus, in my personal opinion it is not, a lot of application don't yet support 64 bit, or to better phrase it, if you have some older versions of your apps of choice they may not be compatible with 64 bit. It comes with only a 30 day trial of MS Office, so you will need to purchase a license at the end of the 30 day trial.
+So bottom line, it is an OK machine but don't expect to be blown away by a screamingly fast performance and keep in mind the 64 compatibility issues that may come up with old apps.

@@ -1,0 +1,11 @@
+ID: B00009MGUQ-R1PSJ9619TI63J-AZ7EX3JPWR34Y
+Category: Laptops
+Product: Sony-PCG-V505BX-Laptop-2-0-GHz-Pentium
+ReviewerID: AZ7EX3JPWR34Y
+ReviewerName: Rat Tamer
+Date: November 12, 2003
+Helpful: 
+Rating: 4.0
+Title: wow, its not THAT bad. in fact i kind of like it.
+Content:
+Lovely screen, works for me.  Yes, it has 16 megs of ram.  You can't discount it for that, considering you should know it has 16 megs of video ram when you're buying it.XP Runs fine for me, though i plan on putting debian on it for fun.Don't quite understand why everyones so angry about the touchpad, mine works lovely.  So no problems therePlenty of Disc Space, light and tiny.. starts up quick..But, Alas, there is something wrong with mine.  The wireless is fidgety.  It is really unhappy with some networks, for whatever reason I cannot figure out. However, it works great on my home network so I can't complain too badly.Seriously, its not that bad of a laptop.  Small, quick, functions.. maybe I recieved the only one that wasn't a lemon, I don't know.. but I'm very happy with it.

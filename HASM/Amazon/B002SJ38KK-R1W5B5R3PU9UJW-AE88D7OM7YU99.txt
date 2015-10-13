@@ -1,0 +1,37 @@
+ID: B002SJ38KK-R1W5B5R3PU9UJW-AE88D7OM7YU99
+Category: Laptops
+Product: Acer-Aspire-AS1410-2954-11-6-Inch-Notebook
+ReviewerID: AE88D7OM7YU99
+ReviewerName: T. Anderson
+Date: December 23, 2009
+Helpful: 7 of 9
+Rating: 5.0
+Title: Laptop Power with Netbook Size
+Content:
+My wife and I recently took a trip to Costa Rica.  
+Before I continue I would like to sidebar... 
+If you are planning a trip to Costa Rica, check out the blog she wrote on it, Tips when Traveling to Arenal Costa Rica (find it by Googling "ACER Aspire 1410 Review- Laptop Power with Netbook Size", go to this review shown in the results, and then clicking on the link provided in this same paragraph). I think it should have been titled "Every single thing you need to know when Traveling to Arenal Costa Rica"
+End of sidebar...
+We flew on an airline that only allowed a single carry on bag, which had to be less than 22 lbs.  That meant my laptop went, or our camera equipment went. 
+With no TV in the first hotel for 4 days, we decided to look for a Netbook. 
+After doing an average amount of research, I decide to go with the ACER Aspire 1410.
+PROS:
+* Very light weight.
+* Battery power has not let me down yet.
+* I have loaded all the Microsoft Express version of Visual Studio 2008 and SQL Server 2008 Express. That is enough for demos, for travel programming fun, 
+and looking at book examples. No issues with performance and I still have not upgrade to 4 GB of RAM.
+* Loaded all of Office 2007 and have no performance complaints.
+* Screen has a great resolution
+* Keyboard has bigger keys than my normal size laptop.
+* Has the full version of Windows 7 64 bit installed unlike other Netbooks I was looking at, which have the starter version. It is performing great!!!
+* Screen is slightly bigger than a normal netbook, which is just enough to get away from the feeling that I am watch a movie on my phone, like other 
+netbooks gave me.
+* Price, you just can't beat it.
+* Perfect for games. Easy to pass around. 
+CONS:
+* Volumn is a little low. Overcame that with a set of external speakers (Logitech V20 Notebook Speakers (Black) )
+* Windows Media Player plays slow. I don't think I can blame the laptop for than though, since VLC plays everything just fine. 
+All in all I highly recommend this little thing!!!
+Some shots of it are included in the images on this product page. I have included a side by side with my 17 inch laptop, and some shots of code and 
+windows media player to give you an idea of screen real estate. The shots are not that great with respect to showing off the clarity of the screen, but 
+they give you an idea of what fits on it.

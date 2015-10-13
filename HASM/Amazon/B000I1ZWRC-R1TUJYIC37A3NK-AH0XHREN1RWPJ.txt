@@ -1,0 +1,14 @@
+ID: B000I1ZWRC-R1TUJYIC37A3NK-AH0XHREN1RWPJ
+Category: DigitalSLRs
+Product: Canon-Digital-10-1MP-18-55mm-3-5-5-6
+ReviewerID: AH0XHREN1RWPJ
+ReviewerName: Soumya Chatterjee
+Date: January 5, 2008
+Helpful: 17 of 27
+Rating: 1.0
+Title: Check the Camera - There are many Cameras which are defective
+Content:
+This camera has a lot of good features, but consistently underexposes in indoor photography. Indoor photos with the built in flash are also very poor.
+The exposure problem renders the auto modes. In the total manual mode also if you set the right speed and aperture then light meter shows that it is over exposing. Probably the problem is the light metering issue in the camera. The indoor photos are incredibly dark and underexposed. 
+I also saw many people gave this complain, I hope this is not the problem of the camera model but couple of cameras which are having this issue. 
+When you buy this camera, please check whether the camera is working properly in Auto mode in low light conditions. I had to return my camera due to this underexposure problem .

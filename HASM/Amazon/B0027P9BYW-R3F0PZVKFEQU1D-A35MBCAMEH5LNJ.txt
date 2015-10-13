@@ -1,0 +1,42 @@
+ID: B0027P9BYW-R3F0PZVKFEQU1D-A35MBCAMEH5LNJ
+Category: Laptops
+Product: Sony-VAIO-VGN-FW465J-16-4-Inch-Laptop
+ReviewerID: A35MBCAMEH5LNJ
+ReviewerName: Nokia 6230 "6230"
+Date: August 12, 2009
+Helpful: 20 of 20
+Rating: 4.0
+Title: Windows 7 user here
+Content:
+Some perspective here;
+I've been using an exceptionally-well equipped Dell Latitude D620 for the past 3 years. This computer was just an all around workhorse. Very reliable, consistent performer and pretty decent speed for it's generation.
+But you know, that love fest could not last forever. The screen is now politely giving me hints that it's about to kick the bucket. So, anyways, that's where I'm coming from. Need a new laptop, up to the task.
+And this is when the Sony VAIO FW came into my life. Love it ! I'm a sucker for the hinge-mounted power button and charger plug. Absolute convenience. The flashing light is pretty cool too.
+But at this price tag, that is obviously not near enough to cut the cheese. I need a powerhouse multimedia Dell-D620-killer to make the switch. Also I needed something well rounded enough to justify spending an additional $100-200 more than a comparably well equipped dell/HP and at the same time be good enough to talk me out of buying a mac. Enter the Vaio FW-465J.
+I bought the Vaio FW-351J [...] first from the Sonystyle website, but was not impressed at all. But between the 351j/h and the 465j, there is a big leap in configuration specs. I already knew I liked the 351j/h looks and styling, but was really just disappointed with it's performance. Having windows Vista didn;t help much either. I'm running Windows 7 on my Dell, and have never had to deal with Windows Vista before. What a terrible OS. I can't wait until I get the official Windows 7 release version. Needless to say, the first thing I did when I got my new VAIO, was install Windows 7 right away. Total bliss ...
+Alright, so now down to what you need to know ...
+Sony VAIO VGN-FW465J/H
+Pros:
+-Blazing processor. Yes, the Pentium P processor (versus T processor) and the upped 3MB L2 cache do make for significant differences. Quieter, faster and less heating up = smiley face.
+-7200 RPM hard drive. When I upgraded my dell hard drive to 7,200 RPM (Toshiba), from 5,400 RPM (Seagate), there was a noticeable increase in cooling needs and heating up without noticing much difference in the speed and performance. It may have been that the old processor was not up to par, but I felt like it was a bad upgrade. I have not found this to be the case with the Sony-installed hard drive (whoever makes it). It does the job of a 7,200 RPM but acts like a 5,400 RPM (less heating, less power consumption = longer battery life).
+-The 16.4 widescreen is p-e-r-f-e-c-t. Sony found it's niche. It's not good, it's not better, it's just perfect. The 16:9 ratio (reflected in the 1600x900 resolution) is just what widescreen movies beg to be played on. Add bluray playback capabilities, and you've got a home run. Seamless Sony bluray playback makes for an even better experience. I'm loving the dedicated A/V controls too.
+-1GB dedicated video RAM coupled with ATI Mobility Radeon HD 4650. Says it all.
+-HDMI outlet for hooking up movies to HD tv's for a full 1080p experience (I don't know who uses firewire -not me- but it's there also if you need it).
+-4 GB ram is nothing to brag about anymore. It's actually become quite mainstream, but they're all at your disposal with the 64-bit processor.
+-Bluetooth connectivity big plus !
+-Although resolution could be improved, webcam and mic do a pretty decent job for great skyping.
+Cons:
+-I miss the white keys on the FW351J. The black keys are alright, but the white ones were more easy on the eyes for me. They look more Sony than the black ones.
+-Most (if not all) shortcut keys do not work with the Windows 7, but I am confident that will be resolved with the updated Sony 7 drivers included in the upgrade kit. No biggie.
+-Spaced out pebbled keys on keyboard take some time to get use to, but are oddly comfortable.
+-I would like bigger mouse clickers. I think these are a tad too narrow for my taste. It's probably just a matter of getting used to them.
+-Not exactly a nimble, light and portable laptop. That's the price you pay for a 16.4 screen. If you're always on the go, or have to move your PC around a lot for work or school, this may not be for you. If you move around only occasionally, and would like a portable multimedia powerhouse of a desktop replacement, then look no further.
+-Even with the "better" LCD on this configuration, it is still not a true 1080p resolution you would get on a flat screen TV. I can't tell much of difference between 720p and 1080p on a 16.4 screen, but if I am burning to see a movie in 1080p, I'll just output it to my TV via HDMI cable. If you're on a train, and you just ABSOLUTELY NEED to watch Narnia bluray in 1080p HD resolution, then you may be disappointed (brat!).
+-No fingerprint recognition
+-Keyboard not backlit
+-Speakers are just OK. Nothing sensational. Would expect a bit more for this price range, and a "multimedia minded" laptop. Laptop mounted BOSE speakers ... that's what I'm talking about !
+-1.3MP webcam, opposed to 2.0MP.
+Overall:
+Would I buy this Vaio all over again ? 8/10
+Would I recommend it ? 9/10
+Am I satisfied with my purchase ? 8/10 (I feel I'm paying $100 more just because it's a Sony, which I'm fine with, but not 10/10).

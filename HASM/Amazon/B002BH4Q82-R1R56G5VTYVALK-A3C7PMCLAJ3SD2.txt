@@ -1,0 +1,28 @@
+ID: B002BH4Q82-R1R56G5VTYVALK-A3C7PMCLAJ3SD2
+Category: Laptops
+Product: Pavilion-DV7-2180US-17-3-Inch-Entertainment-Laptop
+ReviewerID: A3C7PMCLAJ3SD2
+ReviewerName: Kjh
+Date: July 17, 2009
+Helpful: 28 of 28
+Rating: 5.0
+Title: love it
+Content:
+I did some price compares and for the price, you won't find another laptop in this class. 
+I work in the industry and am a power user by any definition. This is noticeably faster than any PC I've ever used and is comparable to some of the low-end servers I work with. 
+I was a little nervous about the graphics card -- nVidia being my preference  -- but the graphics are fast and stunning. Vista sits quietly on this machine, rarely taking up more than 1 or 2% of the cpu at idle. 
+I've had mine for about a week. I'm upgrading from a Toshiba with a heat sync issue that is constantly running too hot. Because of the heavy graphics card and cpu, I was really nervous about heat dissipation on this  laptop, but so far, it runs very cool most of the time. Heavy graphics will cause the thing to heat up a little to the touch, but even without a laptop cooler, it's still manageable. With one, it cools down to nothing. 
+Pros:
+-- it's fast. Even something as simple as loading a web page over wifi is visibly faster than my old Toshiba dual core. Everything from the wifi "N" card to the 6 gb ram, really kicks in. 
+-- price. Comparable laptops will cost you over $2000 and probably closer to $3000. As someone pointed out, the Alienware version is something like $5K. For the price, there isn't much this one doesn't have. 
+-- design: the ebony-black look is smooth. The keyboard is firm and decent. 
+-- video: rocks. I run 1600x900 in 32-bit color and the graphics are fast and clean.
+--weight: hey.. it's a 17 inch monster laptop. But for it's size, it's still under 8 lbs. It's very "carry-able". 
+-- drive bays: this model comes with a built in 500GB drive and an open drive bay. I can't wait to fill that :D
+ 
+-- nice features: Not sure I'll ever use the remote control (what's the point of a remote on a laptop?) but the touch sensitive volume control, the built in web cam, the "disable" button on the glide pad -- all really nice additions. 
+Cons: (there aren't many, but)
+-- USB ports: it has every port you can dream of from HDMI to a modem. But it only has 2 USB. I'd gladly sacrifice the modem for 2 more USB. The laptop does have blue tooth, though, which offsets this a bit. 
+-- 5400rpm drive: if it had a 7200rpm, it'd be a near-perfect PC. I will say that I haven't noticed a slowness yet, though. 
+-- full keyboard: the keyboard has a keypad, which is great! only the keypad puts the rest of the keyboard a bit off-center. I've had it for a week, and I'm just now getting used to it. Not a huge deal, but annoying at first to get used to off-center typing. 
+In short, I don't know that i've been this taken with a PC for years.And I don't think you'll find anything better without paying at least twice the price.

@@ -1,0 +1,16 @@
+ID: B000V5P90K-R1AFPYD8TRBDJN-A16ZFBX7GLT9DL
+Category: DigitalSLRs
+Product: Canon-40D-10-1MP-Digital-Body
+ReviewerID: A16ZFBX7GLT9DL
+ReviewerName: Timothee H. Howland
+Date: January 2, 2008
+Helpful: 0 of 1
+Rating: 5.0
+Title: Minor upgrade to 20D = Perfect
+Content:
+I upgraded from a 20D that got stolen.  Small improvements on a product I found to be perfect.  Most noticeable after 1,200 frames:  (had 30,000 on the 20D) 
+- Body and grip larger (not bad at all).
+- Larger LCD so much easier to see for review.
+- LCD viewing angle so much better for showing pics.
+- Live View handy for arms-over-head shots.  
+Anyone else have problems with bright blue spots (noise) all over black/dark areas of low-light shots, in Lightroom?  I'm sure it's a post-processing issue, but I never had it with the 20D.

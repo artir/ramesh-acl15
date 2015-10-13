@@ -1,0 +1,14 @@
+ID: B000EPNB52-R2LMR5ZB95B4D6-A268WAQS5WNMGJ
+Category: MP3Players
+Product: Apple-iPod-nano-Generation-MODEL
+ReviewerID: A268WAQS5WNMGJ
+ReviewerName: Thomas B. Gross
+Date: September 21, 2006
+Helpful: 216 of 232
+Rating: 4.0
+Title: A word of caution to PC users
+Content:
+I bought a 2nd Generation 8 GB Nano to supplement (and probably eventually replace) my 20GB Color iPod, which has been developing signs of old age, getting stuck at innopportune moments. I decided that 8 gig is really big enough to listen to the music I actually listen to every day at the gym, and I wanted to replace my disk-based iPod with a solid state device.
+My first reaction upon opening the box was astonishment at how small the Nano is!  I had never seen one before.  It is very slick.
+Itunes is pretty smart about letting me update the 8 GB Nano from the music library I had accumulated for my 20 GB iPod.  It creates a special playlist for the Nano to define what songs are specifically downloaded to the smaller device.  I had actually thought I would have to set up a completely new music library, and go through the tedium of reloading all those CDs.
+One extremely important note of caution for PC users: this is the first USB device I have owned (and I own a lot of different USB devices) that really requires a USB 2.0 port.  I didn't even realize that my 3-year-old home-brew Windows machine didn't have USB 2.0; it was never really an issue before.  Apple says that USB 2.0 is highly recommended for the 2nd generation Nano, but it really should be a hard requirement.  The behavior of my PC while trying to talk to the Nano over a USB 1.1 port was truly bizarre.  The Nano basically brought the PC to its knees.  I was able eventually to start updating the Nano but after 24 hours had only loaded about 400 songs.  The response time of my PC during this ordeal was utterly ridiculous.  During the day I bought a USB 2.0 PCI card, shut down the PC, installed the card, and was able to finish updating the Nano in a matter of minutes.

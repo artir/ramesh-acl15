@@ -1,0 +1,19 @@
+ID: B00322PYX6-R22JDDN1E3DFK3-A36MMIZ5CSC4FZ
+Category: Laptops
+Product: Sony-VPC-F114FX-16-41-Inch-Laptop-Black
+ReviewerID: A36MMIZ5CSC4FZ
+ReviewerName: I-Like-Movies
+Date: February 17, 2010
+Helpful: 9 of 10
+Rating: 4.0
+Title: Happy Customer
+Content:
+My old 13-inch Macbook with 120-GB hard drive + 1-GB RAM + Core 2 Duo, had cost me ~$1500 in 2007 but then had a hard drive failure after just two and a half years. I decided not to flush my good money down Job's pocket any more.
+Got this machine for Core i7 + 6 GB RAM + NVidia graphics card w/ 1 GB memory a couple of weeks ago. I have been pretty happy with its overall performance and even Windows 7.
+I did notice from the very beginning the incessant hissing noise everybody is talking about. It was not loud but maddening (to me).
+But I found a fix at a Yahoo forum: Control Panel -> Hardware and Sound -> Sound -> "Recording" tab -> Select "Microphone" in the list and click on the "Properties" button -> "Listen" tab -> Check "Listen to this device" and select "Digital Output(Optical)..." from "Playback through this device:" drop-down.
+It hisses no more.
+The fan sound isn't bad at all. My old Macbook made far louder noise every time it got hot, which was about every hour or so.
+It doesn't get hot like my old Macbook, either (boy, did that thing get toasty).
+The DVD-RW/Blue-Ray-R drive runs pretty smoothly. My old Macbook used to vibrate violently when I tried to burn a CD at 4x or faster.
+In short, it is pretty good, and I would recommend it to my friends and family. A little pricey, generally speaking, but a bargain compared to the overpriced Apple things.

@@ -1,0 +1,16 @@
+ID: B001FA1O0E-R17CGHTD3P8I9B-A11O6TNM9U67BG
+Category: MP3Players
+Product: Apple-touch-Generation-Previous-Model
+ReviewerID: A11O6TNM9U67BG
+ReviewerName: I miss W "1-20-2013"
+Date: November 8, 2008
+Helpful: 2 of 2
+Rating: 5.0
+Title: Flawless
+Content:
+After a month spent using the iPod touch, it's far and away superior to any iPod I've owned (two 30 GB 2nd gen iPods and a 4 GB mini).
+In every way this iPod excels, the screen is bright, colors are crisp, and the resolution is such that small type on web pages displayed in portrait view is clearly legible. The touchscreen is accurate and sensitive (I've got big fingers, yet the touch rarely makes the wrong selection). The touch charges quickly and a charge lasts as long as the specs say it should (36 hours audio, 6 hours video). My only complaint is that the touch only supports USB cables so my old FireWire accessories no longer worked, but that's to be expected when you buy the bleeding edge in technology.
+As a gaming platform, the iPod isn't bad, the accelerometers pick up the slightest change in position so games like Labyrinth, where you have to maneuver a ball bearing through a wooden maze, play well. Buying apps from the iTunes store has been easy and, if you read the reviews on iLounge before buying, you're unlikely to buy a dud.
+Syncing is surprisingly quick (a relief after finding out it didn't support FireWire!). The WiFi has worked as expected. I use it at work and it hasn't dropped a connection yet.
+Videos play well, I recommend MacTheRipper for ripping DVDs you own so they can be played on the iPod. After ripping, you'll need HandBrake or VisualHub to conver the ripped DVDs to a format the iPod will run. Depending on your Mac, it takes about a minute to convert each minute of program to MPEG 4 format.
+For protecting the iPod's beautiful-but-fragile chrome finish, I highly recommend the DLO Jam Jacket (http://www.dlo.com/Products/JJcord_touch2g_Prod.tpl?command=showpage&cart=), it's relatively inexpensive, provides excellent protection, and the earbud cord caddy on the back keeps the buds from getting tangled. It's not currently available on Amazon, but I found one at Best Buy. Note that you should clean the iPod touch's screen thoroughly (I used a little Windex sprayed on a cloth), then use a spray can of air FELLOWES 99790 Air Duster to get the dust off before putting the surface shield screen protector in place. Trust me on this, any speck of dust will cause the shield to bubble, and once it's dusty, you can't clean it.

@@ -1,0 +1,28 @@
+ID: B002PHM0KE-R2ETQ0KZTTKZSE-A21CQXFABLEU8D
+Category: Laptops
+Product: Sony-VGN-NW240F-15-5-Inch-Windows-Premium
+ReviewerID: A21CQXFABLEU8D
+ReviewerName: Richard A. Stone "Sony First Timer"
+Date: January 23, 2010
+Helpful: 0 of 1
+Rating: 3.0
+Title: IE 8 Issues and Initial Back Up crashed DVD drivers
+Content:
+Purchased this Sony VGN-NW240F and have some issues with it.
+IE 8 came installed with windows 7 and it still sometimes
+disables the back button AND internet options under Tools still fails.
+I have to close ALL IE8 windows and clear temp. int. files
+and then both back button and internet options under tools
+gets RE-Enabled (Greyed Out) when it fails.
+Also the first time I did a back up to Media CD (using DVD Drive)
+the Sony crashed and killed my DVD drivers and I had to uninstall
+all dvd drivers and reinstall them.
+I have contacted Sony Chat support 4x now with no luck
+and issues still persist.
+I also dont like that in idle mode using IE8 and Windows 7
+sometimes the webpage contents disappear leaving only
+Sony or VAIO in the background, until you clik in the
+same window then the contents do come back, very annoying
+when your working with two windows at once.
+The features are nice and LCD screen very nice.
+No problems with wireless features to routers or printers either.

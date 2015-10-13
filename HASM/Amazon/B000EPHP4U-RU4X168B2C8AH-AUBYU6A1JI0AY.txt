@@ -1,0 +1,22 @@
+ID: B000EPHP4U-RU4X168B2C8AH-AUBYU6A1JI0AY
+Category: MP3Players
+Product: Apple-iPod-Black-Generation-MODEL
+ReviewerID: AUBYU6A1JI0AY
+ReviewerName: Dr. Gershom Martin
+Date: January 26, 2007
+Helpful: 6 of 6
+Rating: 5.0
+Title: The iPod I had been waiting for --- and worth the wait
+Content:
+I had just a Shuffle for a long time, which I would load with rotating favorites out of my 45 GB music library. Never got a hard disk-based iPod due to concerns about ruggedness; figured I'd wait until flash memory-based iPods came along.
+Wanted to get the 1st gen Nano when it came out, but was scared off by horror stories about "getting scratched when you as much as look at them". When the 2nd gen came along, couldn't resist anymore, and got the 8GB model.
+Battery autonomy is great, as advertised --- on the order of 20 hours at least. The new earbuds are a step up from the old ones but still can't hold a candle to my Sennheiser HD-100 headphones (best $40 I ever spent) --- and the color of the cable and plug actually matches that of the iPod! 
+Also nice: the headphone jack is snug enough, and the iPod light enough, that the headphone cord alone was enough to keep it from falling when it slipped out of my pockets a couple of times. (Don't try this at home.) Ended up getting a translucent iSkin with a belt clip just to be on the safe side.
+Sound quality is mostly determined by whatever headphones you are using (rather than the iPod itself), but I found no obvious coloring of the sound even at high volumes. 
+Generally speaking, I really like the interface.
+A couple of features I would have liked:
+* custom EQ settings. (However, in practice I run mine "flat" anyhow as my Sennheiser "cans" are good enough.)
+* an audio compression setting (that can be turned on in noisy environments so quiet passages aren't completely drowned out)
+* sound recording (available with 3rd-party add-ons)
+* auto-shutoff when headphones unplugged (like the 1st gen Shuffle.) If this model has it at all, it does not work reliably. On at least two occasions I saw it kept playing (and emptying the battery) for 45 minutes or so after I unplugged headphones.
+But overall it was worth the wait. Apple's DRM doesn't affect me as I can't access the iTunes Music Store here anyhow. Neither does inability to play .wmv files --- all I ever load onto it are high-bitrate MP3s, generally ripped from my own CD collection using recent versions of LAME.

@@ -1,0 +1,14 @@
+ID: B003GSLU3E-RWVDDYC9ERN7J-AMWQ0GGZGG4RD
+Category: Laptops
+Product: Apple-MacBook-MC374LL-13-3-Inch-Laptop
+ReviewerID: AMWQ0GGZGG4RD
+ReviewerName: P. Song
+Date: April 21, 2010
+Helpful: 13 of 13
+Rating: 5.0
+Title: Something the engineer and the architect can both love
+Content:
+This is a solidly built, well designed laptop. It comes in a very small box, elegantly packaged as most Apple products are. The keyboard has a good tactile feel to it. In terms of ergonomics, I particularly like the trackpad with its multigestures. I'm a big fan of touchpads in general (I even attach third party touchpads to use for my desktops). I've gone through many trackpads and the one on the Macbook is by far the best one I've found. It's very large and made of smooth glass with a nice feel. I absolutely love it.
+I sit working near a window and I notice that when the sun comes out, the display will brighten. When it gets cloudy, the screen dims. That sort of weirded me out at first but I suppose it makes sense. If you pass your hand over the top of the display, it will dim so there must be some sensor there. They seem to have thought of everything. 
+This laptop is really a pinnacle of design and engineering. On the design side, it just feels nice, works with you and lets you do your thing. On the engineering side, it's reliable, stable and built on unix. I've had other laptops but never took them anywhere unless I had to. I'd worry about them breaking due to flimsy construction or having to carry power cables and adapters because the battery only lasts an hour or so. The macbook pro, I just want to take everywhere with me. 
+My only issue so far is that the battery does not last nearly what is advertised. I understand that the 10 hours is supposed to be for ideal situations. But when just web surfing without doing much else, I got barely 6 hours. I made sure to monitor the cpu usage so nothing much else was running. I will try testing this again though in the future.

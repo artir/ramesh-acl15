@@ -1,0 +1,35 @@
+ID: B002LF10GA-RE1D4ONA6Z642-A4735JVO83T2F
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A4735JVO83T2F
+ReviewerName: M. J. Figurski
+Date: February 8, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: A nice little machine that can
+Content:
+Before I decided on this little laptop, I was considering many options to meet the following goals:
+ - Storage space for my family photos and videos - 320-500GB was my target.
+ - Something with HDMI output, to be able to play the above on my plasma TV.
+ - An additional feature would be WiFi, so that I could play YouTube videos as well.
+ - Plus, something for my wife to play Pandora in another room, when necessary.
+One of the options was to go with a LaCie LeCinema drive (goal 1&2), or with WD TV Live + a portable HD. For goal #4 I was thinking about a Squeezebox, or similar. Either way, it would cost us slightly below $400. 
+Instead, we decided to buy this little machine for slightly above $400, and have a functional computer in addition to the above goals. It has only 250GB storage, but you can't have everything. Also, I was a bit hesitant to go with a laptop this small, but it has immediately captivated us with its portability.
+Right now it sits in my living room connected to the stereo, and plays Pandora the whole day. Sometimes in the evenings we take it to our TV room to play our old family videos or watch our pictures on the big screen (on battery power).
+Pros:
+ - Excellent picture over HDMI, enough power to play full-screen mpegs (720x480). I didn't try HD movies yet. 
+ - Excellent portability with size big enough to be useful for internet and emails on its own, but small enough to be carried around without a problem.
+ - Good battery life of over 4h (yeah, the advertised 6h is a bit exaggerated, but 4.5 is still plenty).
+ - Enough processor power to handle Vista/Win 7 and basic apps without stuttering.
+ - Excellent webcam - truly optimized for low light.
+ - Almost full size keyboard, except 2 keys (see below).
+Not-so-pros:
+ - You need USB DVD-drive to be able to upgrade to Win7, or play DVDs. I already had one.
+ - Keys 'Home' and 'End' available only with 'Fn' key.
+ - Built-in bluetooth would be nice, but it's not a big deal.
+ - Only 250GB of storage, although it's still much better than any netbook.
+Cons:
+ - TONS of factory-installed bloatware. If you create system restore DVD and use it, all the bloatware will be restored as well.
+ - 15GB of storage used by some hidden partition - not available to user. Fortunately when upgrading to Win7 I was able to get rid of that.
+ - Sometimes it's tricky to boot this laptop from DVD. I was unable to boot Knoppix, only partly successful in booting Ubuntu. I also had trouble booting Win7 during installation. My DVD drive is OK (tested). Perhaps it's something with BIOS settings, but I didn't figure it out yet.
+Overall: We've made a good purchase.

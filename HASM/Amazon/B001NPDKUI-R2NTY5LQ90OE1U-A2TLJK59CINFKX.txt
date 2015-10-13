@@ -1,0 +1,16 @@
+ID: B001NPDKUI-R2NTY5LQ90OE1U-A2TLJK59CINFKX
+Category: Laptops
+Product: HP-Pavilion-G60-230US-16-0-Inch-Laptop
+ReviewerID: A2TLJK59CINFKX
+ReviewerName: W. Newsom
+Date: October 3, 2009
+Helpful: 
+Rating: 5.0
+Title: Nice laptop, bright screen, fast
+Content:
+I bought this for a client. I set it up and she bought from me. It is bright LCD. I like the keyboard with the 10-key. IT has no PCMCIA/PC Card or Expresscard slots. THE STUPID THING HAS NO GIGABIT Network. That's ridiculous. Besides that, the video cam is nice to have. As with all laptops, it needs a backlit keyboard, but Macbook Pros are one of the few that have it. This does have a modem, which she needed. The Pentium Processor is like a Core 2 Duo with a little less cache... almost the same. Comes with Vista 32-bit SP1 and 3GB. There is no latch for the case lid. They could have at least put a magnetic catch on it. I don't like the fat power connector, but it works.
+The video cam software has a bug. Needed to update it and other miscellaneous software with HP updates. Not a lot of junk programs to uninstall (bloatware) -- I only removed 2 programs that sit on the Start Menu. I spent 3 hours or so updating this to SP2, latest Windows update, and getting a lot of updated HP software installed for customer. Almost all went smooth. The HP stupid BIOS updating software is stupid... it updates the BIOS but locks up. You have to manually power cycle while in Vista. I called HP on a screen that said "DO NOT TURN OFF COMPUTER" but I had a thumb's up. Eventually, they closed the case and said good luck. Call us back if it won't boot back up. It did of course. I did 2 BIOS updates with same issue. It is called InsydeFlash or Insyde BIOS Flash, and it is terrible.
+Anything missing? Yeah, well, a lot of the direct access buttons. I like a button or better a dial for volume. This laptop doesn't have dedicated keys for stuff like that. You have to get up really close and read the function keys.
+Overall, this is a decent machine and rates 5 stars even with my nitpicking. Its Vista rating was about 3.6 or 3.7 I think with a low for the gaming performance. It came with Norton antivirus trial and Office 2007 trial. Another downer is that you have to make your own backup DVDs, but the D drive is only about 10 GB, which is fine for a 300 GB drive.
+Should be getting the upgrade to Windows 7 with this machine.
+There was a rebate offered for this, I think. "Purchase an HP Pavilion notebook PC with a model number ending in "us" or "se" and receive $50 (U.S.) cash back." which is at [...] and I hope it works. Amazon doesn't list it on this page.

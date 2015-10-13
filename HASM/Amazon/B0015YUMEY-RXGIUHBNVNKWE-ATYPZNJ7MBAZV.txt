@@ -1,0 +1,14 @@
+ID: B0015YUMEY-RXGIUHBNVNKWE-ATYPZNJ7MBAZV
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: ATYPZNJ7MBAZV
+ReviewerName: GM
+Date: March 1, 2010
+Helpful: 
+Rating: 4.0
+Title: Review of a long-time Windows user
+Content:
+Pros: Build quality is impeccable. Excellent screen. OS never crashes! Fully integrated bash terminal is great---it provides seamless connectivity to other linux-based systems. Magnetic power cable connection works fantastic. Fewer viruses are written for Macs. 
+Cons: Mostly about OS X and user interface. Hard to get used for long-time Windows users. Even after getting used to it, it lacks some important features Windows provides by default.  File manager (Finder) is poorly designed--moving files around is a big pain. Lack of home/end/insert/delete buttons on the keyboard is a big minus. Clicking the touchpad requires quite a bit of force. Choosing large areas of text via touchpad is not easy (you need to push the hard touchpad and move your finger for pages!).  IMO, "minimize all" in Windows works much better than expose. 
+In principle, one can install Windows on a Mac. However, Mac laptops are designed to work with OS X (e.g. there's no 2nd, 3rd buttons on the touchpad, and no trackball for scrolling, no home/end/insert/delete buttons etc). Running windows on a Mac has its own inconveniences and it's not preferable by design. 
+Verdict: For me, the laptop would be exceptional if it were designed to run Windows. If you're happy with OS X, this is still the best laptop around.

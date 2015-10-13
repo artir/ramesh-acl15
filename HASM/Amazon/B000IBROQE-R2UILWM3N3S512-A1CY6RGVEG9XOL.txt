@@ -1,0 +1,28 @@
+ID: B000IBROQE-R2UILWM3N3S512-A1CY6RGVEG9XOL
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A1CY6RGVEG9XOL
+ReviewerName: J.S. "Jim111"
+Date: November 12, 2006
+Helpful: 82 of 91
+Rating: 4.0
+Title: Not Ready for Prime Time?
+Content:
+I bought the 2 GB model because at the time it had the largest flash memory of any unit that works with my Napster-To-Go subscription, so it can store the largest number of songs and color photographs. There are now 4 GB models available with twice the storage capacity of this model. 
+This is the V Plus version, so it sports an FM tuner and the ability to display videos as a bonus. 
+Why did I choose a flash memory based MP3 player? Napster-To-Go compatible hard drive models with much larger storage capacity abound, but I figure they'll break prematurely because they use a hard drive that can't withstand much jogging, accidental bumping or dropping. 
+I bought two of these players plus the separately sold AC wall charger, and attached one of them to the wall charger for 6 hours, while I attached the other one to a USB port on my PC to charge it for 6 hours. 
+At the end of 6 hours, the unit attached to the PC was fine until I unplugged it, then it went comatose and would not even revive when the reset button was pushed several times. I had to exchange it for a replacement unit just two days after buying it. 
+The unit attached to the wall charger was fine, and I went on to load it up with music using my Napster-To-Go subscription. That was fine until 2 weeks later, when my wife charged it on a PC using the USB cable. After charging and disconnecting from the PC, it too went comatose. 
+This time I was able to revive it by pushing the reset button. 
+Then I took a look at the other unit, which had been charging on the AC wall charger. It had also gone comatose, and I was able to revive it by pushing its reset button. 
+The reset button is inside a tiny hole on the left edge of this unit. You can find it by following the thin groove that's below the screen all the way to the left edge of the unit, where you'll find it on the side. The picture in the manual does NOT accurately depict its location. 
+The hole leading to the reset button is very, very small. The instructions say to penetrate that hole with a pin. 
+I used the sharp end of a safety pin to do this. When the pin is inserted, it's quite easy to miss the reset button unless the pin is inserted at exactly the right angle. You'll know it's not at the right angle if you don't feel that you're pushing on a pad with a spring behind it when you reset the unit. That pad travels a short distance until it's stopped by a control surface inside the unit; that's when you know it has been reset. 
+The reset system should be redesigned so that it doesn't depend on the angle you insert the pin to work. I suspect that the first unit I returned could have been reset if I had known that you have to insert the pin at just the right angle to do it. Since I didn't know, my several attempts to reset it were not successful. 
+Resetting the unit is akin to rebooting a PC: it revives it when the internal software (called "firmware") has frozen by restarting the software. It does not erase your songs or photos. 
+Make no mistake: this MP3 player looks, feels and works beautifully. However, since the firmware is newly designed, it appears to have bugs relating to disconnecting it from USB or charger power that cause it to freeze, and the reset button is a little hard to use if you don't know about the things I described above that could cause you to be unable to reset it. You may just end up with a unit that's frozen and not be able to reset it. 
+It needs to be a little more user friendly than that. Hopefully a future firmware update will be available that will lower the occurrence of the unit locking up (freezing), especially when disconnecting from a USB port or AC charger after recharging it. As another user noted, the "safe disconnect" icon is often times not even in the system tray. 
+If you don't subscribe to Napster-To-Go, your options to get content for your MP3 player are to transfer your favorite songs from CDs you own to your hard disk ("ripping the songs"), or purchase songs one track or album at a time, at a price ranging from 88 to 99 cents per song from Napster, Rhapsody or WalMart. 
+You can also download books you want to listen to (such as best sellers and classics) or "podcasts" (your favorite newspapers read aloud, or your favorite radio programs like NPR) from a plethora of sites (like NPR's website, or NetLibrary or Audible) that make these available, onto your computer's hard drive. Now you can listen to your music, audible books and podcasts over your PC loudspeakers while sitting at your PC. 
+Then you can transfer your songs, audible books and podcasts from the hard drive of your PC to your MP3 player(s). This enables you to take your MP3 player with you to enjoy listening in your car, in your office, while jogging or working out at the gym, while shopping, or at the pool or the beach to hear your music, audible books and podcasts anywhere.

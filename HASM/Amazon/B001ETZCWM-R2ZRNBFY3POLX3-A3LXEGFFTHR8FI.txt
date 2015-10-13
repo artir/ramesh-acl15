@@ -1,0 +1,11 @@
+ID: B001ETZCWM-R2ZRNBFY3POLX3-A3LXEGFFTHR8FI
+Category: SpaceHeaters
+Product: HEATER-PURIFIER-Filter-CONTROL-3Q-AP081H
+ReviewerID: A3LXEGFFTHR8FI
+ReviewerName: R. Mills
+Date: November 4, 2008
+Helpful: 3 of 3
+Rating: 1.0
+Title: Great Idea, Terrible Product
+Content:
+If this thing worked as intended, it would be great.  However, the heating functionality was designed terribly.  When in heating mode, the fan/air filter shuts off along with the heating element when the temperature hits the set temperature.  Therefore, the air stops circulating and the temperature sensor thinks the temperature is much warmer than it actually is in the room.  It takes FOREVER for the temperature of the sensor to come back down to reflect the room temperature.  If the air filter motor continued to run in heating mode after the set temperature had been reached, this product would be much better.  As it is, it is totally useless as a heater.  I don't see how anyone designing/testing this product would not notice this.

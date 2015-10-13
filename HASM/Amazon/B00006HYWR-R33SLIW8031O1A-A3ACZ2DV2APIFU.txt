@@ -1,0 +1,11 @@
+ID: B00006HYWR-R33SLIW8031O1A-A3ACZ2DV2APIFU
+Category: MP3Players
+Product: Creative-Labs-NOMAD-MuVo-Player
+ReviewerID: A3ACZ2DV2APIFU
+ReviewerName: mb99 "mb99"
+Date: June 17, 2004
+Helpful: 2 of 3
+Rating: 1.0
+Title: Not worth the trouble
+Content:
+In theory, it's a great unit, and should get 5 stars, but it has so many problems, it gets 1. - the sound quality is terrible - the software is painful to use - it constantly stops working, and you need to spend ages fiddling with the software to jump start it again - there is no &quot;resume&quot; mode (eg. half way through listening to 20 tracks, or worse, an audio book, no way to resume where you left off without finding it manually)The form factor is sweet but the implementation couldn't be worse. Avoid it.

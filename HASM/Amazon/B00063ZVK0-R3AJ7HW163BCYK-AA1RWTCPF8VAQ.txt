@@ -1,0 +1,11 @@
+ID: B00063ZVK0-R3AJ7HW163BCYK-AA1RWTCPF8VAQ
+Category: SpaceHeaters
+Product: Vornado-EH1-0028-06-Digital-Vortex-Heater
+ReviewerID: AA1RWTCPF8VAQ
+ReviewerName: pdeldc
+Date: October 8, 2003
+Helpful: 1 of 2
+Rating: 1.0
+Title: Digital Thermostat Trips Itself Up!
+Content:
+This unit is a victim of its own design.  I tried this heater out for a few days, but had to return it.  As the heating element warmed up to meet the temperature I set on the thermastat, the unit's own heat tripped the thermostat into believing the room was much warmer than it was -- and thus never turned the fan on!  Even setting the thermostat to the highest temperature (over 90 degrees) failed to get the unit to turn on, since the hotter the unit became, the higher the temp incorrectly read on the thermostat.  What a huge design flaw that should have been noticed during Vornado's testing phase.  The other Vornado unit (similar to this one, but without a digital thermostat) works fine.  Sometimes too much technology on a device defeats itself.

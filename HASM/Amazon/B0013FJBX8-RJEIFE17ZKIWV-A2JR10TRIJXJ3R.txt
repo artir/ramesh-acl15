@@ -1,0 +1,18 @@
+ID: B0013FJBX8-RJEIFE17ZKIWV-A2JR10TRIJXJ3R
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A2JR10TRIJXJ3R
+ReviewerName: Charles
+Date: October 19, 2008
+Helpful: 146 of 165
+Rating: 4.0
+Title: Worth the Extra Money Compared to MacBook
+Content:
+Apple's site and other reviews provide the essential information on what was upgraded in this new MacBook Pro (two graphics systems; machined from solid aluminum; new industry-standard DisplayPort video out; new trackpad; other minor changes/upgrades).
+But why get this computer rather than the much less expensive MacBook that appears almost identical?
+1. The MacBook LCD display is poor. It is not just a smaller version of the MacBook Pro LCD display. It has washed-out blacks, poor contrast, limited viewing angles, and less vibrant colors. This is a huge difference. I confirmed this with a side by side comparison in the Apple Store (and the store staff member agreed), and you can find further discussion at gizmodo dot com (gizmodo.com/5063492/macbook-and-macbook-pro-dual-review).
+2. The MacBook Pro's excellent new graphics chip (NVIDIA GeForce 9600M GT) can be used to speed up all operations (not just graphics) when the new Apple operating system (Snow Leopard) is released in January. This is not confirmed, but there is substantial discussion online suggesting this is the case. The 9600M is essentially a 32 processor computer (running at 120 gigaflops). So, a MacBook Pro will actually gain in speed over time. The MacBook does not have a separate graphics card that can work this way.
+3. MacBook Pro graphics are twice as fast as MacBook graphics, so if you do anything visual with your computer (digital photography, video, games, etc.) then everything will run much more quickly and smoothly. Some games that are just barely playable on the MacBook become fun and seemless on the MacBook Pro.
+4. The MacBook Pro has a firewire port (omitted from the new MacBook).
+5. The MacBook Pro has an expansion card slot (really handy for adding a memory card reader or 3G roaming internet).
+So, for the extra $400 (MacBook 2.4 GHz vs. MacBook Pro 2.4 GHz) you get a lot of extras that you will notice and use. And you will avoid the poor LCD on the MacBook. You are still stuck with the highly-reflective glass screen (if my eyeglasses can get anti-reflective coating, then why not this computer screen?), however, so it's only four stars until they solve that problem.

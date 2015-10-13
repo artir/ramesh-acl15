@@ -1,0 +1,11 @@
+ID: B0031ESWP2-R2CLXPIRWPIDRG-A28SJS7PIEEYF
+Category: Laptops
+Product: Pavilion-DV6-2162NR-15-6-Inch-Laptop-Up-Battery
+ReviewerID: A28SJS7PIEEYF
+ReviewerName: Stephen M. Nicklas
+Date: April 6, 2010
+Helpful: 11 of 11
+Rating: 3.0
+Title: Poor Wireless
+Content:
+Overall I love this computer, but I am having constant issues with the installed wireless device.  It refuses to connect to any routers except the occasional 20 minute span here and there.  I have researched online and found this is due to a defect issue with the hardware used and Windows 7 compatibility with various routers.  I have tried it with a NetGear router as well as a Linksys Router.  I have upgraded all firmware and even upgraded the Laptop's drivers for the wireless device.  Still having issues.  I will continue to find a better solution to it, but I fear I may have to break down and buy a USB adapter to get my wireless connection for this laptop.

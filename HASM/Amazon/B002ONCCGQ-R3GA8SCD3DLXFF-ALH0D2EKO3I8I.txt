@@ -1,0 +1,21 @@
+ID: B002ONCCGQ-R3GA8SCD3DLXFF-ALH0D2EKO3I8I
+Category: Laptops
+Product: Pavilion-DM3-1030US-13-3-Inch-Silver-Laptop
+ReviewerID: ALH0D2EKO3I8I
+ReviewerName: Joe L.
+Date: December 3, 2009
+Helpful: 9 of 13
+Rating: 2.0
+Title: Nice aesthetics, poor functionality
+Content:
+OVERALL RECOMMENDATION:
+I would not recommend the HP DM3-1030US unless you're willing to live with poor trackpad functionality, an impractical keyboard layout, and a noisy fan.  I owned this notebook for a few days but ended up returning it.  I decided to get the ASUS UL30A instead, and I couldn't be happier with my decision because it addresses all the "cons" of the HP DM3-1030 while still excelling on all the "pros" I've listed below in more details . . .
+PROS:
+-Solid Keyboard Construction:  keys quite responsive with no flex.
+ 
+-Pleasing Design Aesthetics: beautiful brushed metal encasing, thin profile, modern LED indicator lights.
+-Battery: solid long, life.
+CONS:
+-Poor Trackpad Functionality (chief complaint): often requires several trackpad tap attempts before the system registers it as a mouse click; mirror-like finish is somewhat sticky and has a great deal of friction making movement a chore; trackpad buttons are extremely stiff and skinny making clicking extremely taxing.  For these reasons, dragging and dropping using the trackpad and buttons is quite cumbersome.
+-Impractical Keyboard Layout: I just couldn't get past HP's decision to require pressing the "Fn" key to activate commonly used keyboard buttons like Pg Up, Pg Down, Home, and End.  Another example is having to press  the "Fn" key to activate the F4 button.  So instead of just using the Ctrl-F4 keyboard shortcut to exit a program, you have to press Ctrl-Fn-F4.  And if you forget, you might accidentally put your computer to sleep because that's what the F4 button is used for on this keyboard.  
+-Noisy Fan: when I first turned it on, I immediately noticed how loud the fan was . It never quiets down even if the computer is idle.  When you use memory intensive programs, it gets even louder, and the wrist rest gets really hot.

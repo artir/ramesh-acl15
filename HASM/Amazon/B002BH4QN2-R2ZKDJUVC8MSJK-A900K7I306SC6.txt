@@ -1,0 +1,27 @@
+ID: B002BH4QN2-R2ZKDJUVC8MSJK-A900K7I306SC6
+Category: Laptops
+Product: Pavilion-DV6-1230US-15-6-Inch-Entertainment-Laptop
+ReviewerID: A900K7I306SC6
+ReviewerName: J. Glasser "DJ Josh Blade"
+Date: September 11, 2009
+Helpful: 6 of 6
+Rating: 3.0
+Title: Decent laptop but mislead on specs
+Content:
+Bad:  
+--------
+- The DV6-1230US does NOT, I repeat, DOES NOT have Firewire!  I was mislead by all the photos and even the photos provided by HP that this sku has FireWire.   Amazon Customer Service sent me a replacement and didnt really understand the issue so I received the exact same model with the exact same problem.   Does it mention Firewire in their product specs?   No but I can't trust their specs either since it says "2.1 hertz" instead of 2.1 Gigahertz.    
+- Fingerprints galore.   I ignored this complaint and now I can see what people are saying.  
+- HP Bloatware.   I was able to remedy this by uninstalling most of the unneeded software.  Some of HPs Total Care and advisor software can be handy at times so I just disabled it from Windows Startup.  Their HP Update software has issues with software update version conflicts.   The More Info links dont work.   A problem on HPs site and not related to the laptop.
+- Why did HP stick with DDR2 instead of DDR3?   
+- the keys feel cheap and like they can fall off.
+The Good:  
+---------
+- Very slick looking design.  After removing various bloatware, performance is decent considering its running Vista.   
+- HDMI on a 50" plasma looks incredible!
+- Battery life is actually pretty good when there isnt much hard drive activity.
+- Webcam quality is good.   I have fun with their webcam software with avatar and effects.
+- Enjoy having the Media remote.
+- fairly portable for the screensize and 12 cell battery.  
+- dual headphone jacks make for easier movie watching for two people while traveling
+- stays pretty cool except for the battery charger

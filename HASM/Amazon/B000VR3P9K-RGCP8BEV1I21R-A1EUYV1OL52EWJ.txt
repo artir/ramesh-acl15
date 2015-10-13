@@ -1,0 +1,25 @@
+ID: B000VR3P9K-RGCP8BEV1I21R-A1EUYV1OL52EWJ
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A1EUYV1OL52EWJ
+ReviewerName: Guapo Gringo
+Date: February 16, 2009
+Helpful: 
+Rating: 5.0
+Title: Speed! Speed! Speed!
+Content:
+** UPDATE - 5/20/09 **
+Having owned this Mac notebook for a little over two weeks now, I can safely say it maintains the 5/5 stars I have given it.  I recently installed Windows XP Professional under Bootcamp and it went really smoothly; I still need Windows for some proprietary software I use, and for some mild gaming.  For instance, I picked up Oblivion - GOTY Edition for $20 and thought I'd give it a good run on the Macbook Pro.
+I haven't had a chance to run any heavy-hitter games yet, but Oblivion runs beautifully at the full 1440x900 w/ 4x AA and Very High Quality settings.  I'm averaging anywhere from 25fps-60fps, depending on the number of sprites; forests (35-40fps), oblivion (40-42fps), town squares (50fps), water and swimming (30-40fps).  The lowest I've seen is 25fps but haven't been able to replicate it; I'm thinking it was Windows running a background process I missed or forget to turn off.  In any case, it runs beautifully.
+I've really come to appreciate the extra screen real estate, and the display quality of the MBP.  We own a mid-2008 20" iMac 2.66Ghz and the screen is every bit as good of quality; I really feel like the Macbook Pro is like a "portable iMac" in terms of speed and display quality.  It's that good!
+Lastly, I had a chance to pick up Apple's DisplayPort -> VGA adapter since I will need to hook this notebook up to a LCD projector more than a few times next semester.  The dongle is not cheap but does what it says it will without any fuss.  To test it, I hooked it up to my 42" 1080i HDTV and it looked beautiful, no interference or pixelation.
+Two weeks later, this little guy is still working every bit as good as the day I bought it.  :-)
+--
+For the past few weeks, I've been shopping for a new notebook computer.  I've owned/used Mac in the past, but am comfortable in both worlds; I prefer Mac, but can get along fine in Windows too.
+I inevitably ended up with the 15" Macbook Pro 2.66Ghz because of the sheer size, weight, and performance.  After I spent some time actually touching/using all the competing brands, I came to the following conclusion--you truly do get what you pay for.
+Some would argue that Macs are too expensive and not worth the hefty cost over their Windows/PC counterparts. Moreover, they would also say that you're paying extra for the fancy-shmancy design and chimp-simple ease of use, not to mention feeding into the smugness of the Mac community.
+However, my wife and I have owned Macs for the last few years, and I've had a really good experience owning Apple computers. 
+One thing I noticed immediately is the build quality; it's amazing, and very well made.  When you pick up the computer, it feels very rigid and sturdy; it really does feel like a solid piece of equipment compared to other notebooks.
+The fans are very quiet and the unit seems to regulate heat/temperature very well.  When I turn it on, the Macbook 'bonggggg' sound is the only thing I hear, and cannot hear the hard drive at all.  It's probably the quietest computer I've ever owned.
+I've not owned this unit long enough (less than 36hrs) to give a more detailed example, but I'm very delighted with the performance in iMovie and iPhoto '09.  It's VERY fast.
+All in all, whether you choose the 2.4Ghz or 2.6Ghz, it's a great investment in a notebook computer.  Again, you really do get what you pay for.

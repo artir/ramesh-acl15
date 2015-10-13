@@ -1,0 +1,14 @@
+ID: B001MS6NLY-R2FNORBHL8H11K-A1DYI76YHLXUZ0
+Category: Laptops
+Product: Sony-VGN-AW220J-18-4-Inch-Processor-Blu-ray
+ReviewerID: A1DYI76YHLXUZ0
+ReviewerName: Hanh Nguyen
+Date: June 22, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Very Nice!
+Content:
+I would not rate a 5-Star because the Eject button on the keyboard failed to eject the CD/DVD drive but this is relatively minor.  Otherwise great laptop.  I suggest the following accessories:
+- Sumdex carrying case CKN-003.  Although it's rated to fit up to 17", it's the slimmest, lightest an best designed case I found for the Sony AW 18.4" after a month's worth of research.  The power adapter can be stored in the front compartment along with extra hardware such as an extra CD/DVD writer, and still maintains an extremely slim fit.
+- Get a TV tuner.  Mine was a Hauppauge 950Q but any comparable tuner would do.  It is worth noting that the 950Q software interface failed to load the digital channels to Win Vista 64-bit, the tuner itself works great with Windows Vista Media center 64-bit.
+I hope this balances out the review on May 19, 2009 which brought up two items which are very insignificant and misleading.

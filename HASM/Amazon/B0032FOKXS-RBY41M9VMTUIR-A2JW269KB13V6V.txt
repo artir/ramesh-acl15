@@ -1,0 +1,38 @@
+ID: B0032FOKXS-RBY41M9VMTUIR-A2JW269KB13V6V
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A2JW269KB13V6V
+ReviewerName: P. Purcell "Love my Kindle"
+Date: February 6, 2010
+Helpful: 9 of 10
+Rating: 5.0
+Title: Light, Powerful, Cost Effective 13.3", a "Must Have"
+Content:
+I have been following the 13.3" laptop market for the past year waiting for someone to offer one with a powerful video card at a fairly low price. ASUS has done it with the UL30Vt! This is the second ASUS we have in our household and it definitely does not disappoint -- the build quality is as good or better than the other name brand laptops we have in our stable and I traded a 14.1" HP for this. I do not regret it.
+Pros:
+ - Light -- I can carry it one handed anywhere I go and I'm not worried about dropping it. 
+   It is like carrying a spiral notebook!
+ - Great video card -- The laptop automatically switches between an intel video chipset 
+   (low power demand) and a powerful NVIDIA card when as you plug and unplug the laptop 
+   into the powercord.
+ - Great screen -- the HD screen is awesome and looks better than others provided by other 
+   well known brands. 
+ - DDR3 Ram -- blazing fast and low power usage.
+ - Intel Power efficient processor -- while the intel chip is rated below 2.0 Mz, it runs 
+   faster than my 2.6Mz chip on my work laptop that also has DDR3 memory. Don't know how, 
+   but it gets better "Experience Ratings". Also, you can overclock the chip using ASUS 
+   software, but I haven't needed to.
+ - Cool -- the machine runs cool. I have never had it become uncomfortably warm.
+ - Battery life -- battery lasts a long time. Have put in a 7200 RPM HDD to replace the one 
+   provided by ASUS... and the battery lasts 10 hours or more.
+ - Looks -- holy smokes, looks cooler than my daughter's school MacBook Pro. I cannot 
+   keep her off my machine.
+ - Keyboard -- I was a bit leery of the 'chicklet' keyboard as I learned to type on a a 
+   "Selectric". However, the keyboard supports my heavy typing style and hasn't slowed me down.
+Cons:
+ - A bit more 'bloatware' than I expected, but most was ASUS software to try to make the 
+   machine more 'user friendly' Had fun figuring out what to turn off...
+Overall?
+  - A great buy and I'm glad I waited. There are at least two other named brand laptops that offer a similar laptop 
+   (switching video cards to save power) but they run at least twice this price or more. ASUS created a winner here...
+   ... and I'm the ultimate skeptic of computer hardware.

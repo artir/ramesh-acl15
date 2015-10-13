@@ -1,0 +1,35 @@
+ID: B003GSLU3E-R36VHBXD847XBY-A20U1W8KREMO3P
+Category: Laptops
+Product: Apple-MacBook-MC374LL-13-3-Inch-Laptop
+ReviewerID: A20U1W8KREMO3P
+ReviewerName: KSBAY
+Date: April 20, 2010
+Helpful: 39 of 41
+Rating: 4.0
+Title: MBP Good!
+Content:
+The Macbook Pro has just been updated on April 13th 2010. There are some improvements and a few changes between this year and last years model, detailed below.
+IMPROVEMENTS
+1) The MBP 13 now has 4 gb of ram standard. This allows you to multi-task easily without any issues ( last years model had only 2gb of ram which was inadequate) Now there's no need to spend more money upgrading your ram UNLESS you're really into heavy duty multimedia work
+2) It also features the Nvidia GeForce 320M integrated graphics processor with 48 processing cores. This is an improvement compared to the Geforce 9400M graphics chip in last years model and will help in graphics and content creation.
+3) The battery lasts longer - now  for 9 to 10 hours of use as advertised by Apple (compared to 7 to 8 hours on last years model) Your mileage may vary but it allows you to be mobile for 7 hours atleast. It's an inbuilt battery so once it's exhausted, it's back to the Apple store or an Apple Authorized Service Provider for replacement. However, Apple states that the battery will hold 80% of it's charge for up to a 1000 charges which means approximately 3 to 4 years of daily use. So it should be a while before you have to go in for that battery replacement. 
+4) The included hard drive is 250 gb (160gb in last years model).
+5) Mini display port now supports video AND sound with a compatible Mini-DP to HDMI adapter (last years model only supported video)
+STANDARD FEATURES - from last years 13 inch model (minor changes noted in brackets) are 
+An Aluminum unibody,
+Core 2 Duo Processor (2.4 ghz - up from 2.26ghz ), 
+1280 x 800 resolution Glossy LED backlit screen, 
+8x slot-loading SuperDrive dvd burner 
+iSight camera, 
+Large glass multi-touch trackpad ( Intertial scrolling is now enabled ), 
+Backlit keyboard with comfortable chiclet keys 
+1 Firewire 800 port,
+2 USB 2.0 ports ,
+SD Card slot, 
+Wi-Fi - 802.11n specification; 802.11a/b/g compatible, Bluetooth 2.1 and Gigabit Ethernet -10/100/1000. 
+Software included is OS X 10.6 Snow Leopard and the iLife 09 suite of content creation tools. A 1 year warranty on parts and 90 day telephone technical support is standard.
+ 
+The lack of the latest Intel Core i5 or i3 processors processors in this machine may be disappointing to some but I'd still recommended the MBP 13 to people looking to buy the lightest and most portable Macbook Pro as well as a capable machine in it's own right.
+ I would also consider purchasing applecare - AppleCare Protection Plan MC258LL/A - For Portable Apple Computers 13.3 Inches and Below along with the notebook.  What most consumers don't know is that is that if you don't have Applecare and a product malfunction occurs after the first year, Apple's prices for repair/ replacement parts are extremely high.  It's better to pay once for Applecare / Squaretrade (whatever you prefer) and be covered for 2 more years after the first year is up than pay exorbitant repair/replacement fees if a part malfunctions.
+For those who are confused about whether they should purchase the $1199 MBP 13 or the $1499 MBP 13 - the only difference between this model and the higher priced model is processor speed and hard drive space - the $1199 MBP 13 has a 2.4 ghz processor and 250 gb hard drive and the $1499 MBP 13  has a 2.66ghz processor and 320 gb hard drive. Whether a 266 mhz (10% difference) and 70 gb more of hard drive space is worth 300 dollars more is your call. (Although you can purchase a 500 gb notebook hard drive for approximately $80 and install it yourself. Instructions are in the MBP 13 manual and you'll need a Philips #00 screwdriver. Installation videos are also available online)
+Hope this helps!

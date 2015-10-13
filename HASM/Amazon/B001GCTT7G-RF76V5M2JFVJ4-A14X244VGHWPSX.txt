@@ -1,0 +1,29 @@
+ID: B001GCTT7G-RF76V5M2JFVJ4-A14X244VGHWPSX
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A14X244VGHWPSX
+ReviewerName: J. Hansen
+Date: November 12, 2008
+Helpful: 7 of 9
+Rating: 5.0
+Title: Speedy, beautiful, and impressive...
+Content:
+I'd previously owned the first $1099 white Macbook that Apple introduced when the switched to using Intel chips. It was a good machine, but this one blows it out of the water. Not only does it take on some of its older brother's look, but it truly is an impressive machine with the the additional touch pad.
+Pros:
+- Beautiful, seamless design similar to the previous Macbook Pro aluminum design
+- Easy to open compartment on the bottom for accessing the hard drive, battery, and RAM
+- Doesn't get very "Hot." I've yet to think I need to put it on something when its on my lap, even despite watching DVDs or doing other intensive work.
+- Quick little machine. As mentioned, blows my original Macbook out of the water
+- Side Battery Readout
+- Touch Pad (this is a plus and minus)
+- Bright, LED screen (although its glossy, I personally prefer the matte finish)
+- New Nvidia graphics chipset... Much better than the Intel GMA
+Cons:
+- Sometimes, for me, the track pad doesn't "click" (seems to be a known issue now), and, even occasionally not even work. It just stops moving the mouse despite me moving my finger
+- The glossy display, like all other glossy displays, reflects a decent amount
+- $[...] model doesn't include the backlit keyboard (Why??)
+- Wish RAM was a little easier to access, but not too bad. Previous design was easier
+- Wish this was the intro Macbook model
+- No longer includes remote for FrontRow (or maybe mine was missing?)
+- No Firewire 400 port
+Overall, this is a fantastic computer. Worth pretty much every penny I paid for it ([...]). The biggest issue I have with it is the trackpad, but, from what I've read, Apple will be releasing a fix for that soon.

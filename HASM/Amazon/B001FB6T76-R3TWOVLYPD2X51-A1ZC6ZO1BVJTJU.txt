@@ -1,0 +1,13 @@
+ID: B001FB6T76-R3TWOVLYPD2X51-A1ZC6ZO1BVJTJU
+Category: Laptops
+Product: Sony-VGN-AW170Y-18-4-Inch-Processor-Ultimate
+ReviewerID: A1ZC6ZO1BVJTJU
+ReviewerName: Cool dude "california cool"
+Date: August 24, 2009
+Helpful: 4 of 4
+Rating: 3.0
+Title: replacment batteries are $390
+Content:
+Hi,
+my aw120j battery runs out in one and half hour.  When I try to buy a backup battery, I found out that they are out of stock and are proprietary - so it will cost me more - about $390 to buy the larger capacity (with 50% more juice).  I can buy a computer with that exorbitant $390!!
+This computer is too large to lug around and I wish the keys are white.  There are too many Vista software running which churns the hard drive, so I turned of superfetch, windows defender, and other services not needed.  Google for superfetch and you find techgeek - he has the list of recommended services to turn off.

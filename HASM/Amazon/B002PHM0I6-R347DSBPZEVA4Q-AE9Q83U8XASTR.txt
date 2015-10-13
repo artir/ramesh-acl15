@@ -1,0 +1,11 @@
+ID: B002PHM0I6-R347DSBPZEVA4Q-AE9Q83U8XASTR
+Category: Laptops
+Product: Sony-VPC-CW13FX-14-Inch-Windows-Premium
+ReviewerID: AE9Q83U8XASTR
+ReviewerName: George E. Jelly "GeorgeJ"
+Date: December 13, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: Great laptop with beautiful LCD
+Content:
+I have had this laptop (Sony CW13FX/R - Red) for two weeks now - and I am absolutely thrilled with it (with one caveat).  The LCD is borderline stunning - it really is beautiful - bright with excellent contrast and colors.  The case and lid are solid - not aluminum MacBook solid - but strong.  Windows 7 boots quickly and Sony's version of Splashtop (quick-booting Linux) both run very well.  I really like the keyboard and the keys - virtually zero flex and the matte-finished keys feel just right.  It had a mid-range Nvidia graphics chip (210M) which should run most older 3D games with no problems.  It has an Intel T-Series processor (35-watt) so it has plenty of power for home-user tasks, and I've found the battery life to be about 2 and 1/2 hours - like most reviewers.  But, here is the one caveat, this system has the Sony battery-drain problem.  If you leave the system turned off and un-plugged from the charger, it will drain 10 - 15% or more, per day, from the battery.  To me, the battery drain problem is just an annoyance and the system is so nice, and so well-built, that I overlook it.  Sony has done a great job with quality control because this system came out of the box in absolutely flawless condition - with no scratches, smudges, dents, rub marks, crooked panels or any of the other quality issues which plague so many laptops nowadays.  I do not regret buying this Sony and I highly recommend it as a great balance between portability and processing power.

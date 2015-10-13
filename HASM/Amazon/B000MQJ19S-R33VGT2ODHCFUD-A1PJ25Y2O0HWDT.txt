@@ -1,0 +1,15 @@
+ID: B000MQJ19S-R33VGT2ODHCFUD-A1PJ25Y2O0HWDT
+Category: MP3Players
+Product: SanDisk-Sansa-Video-Player-Black
+ReviewerID: A1PJ25Y2O0HWDT
+ReviewerName: Elizabeth  J
+Date: January 12, 2008
+Helpful: 2 of 2
+Rating: 3.0
+Title: Good player, bad software
+Content:
+As an MP3 player, the Sansa View works perfectly well. Unfortunately, I can't say the same for the software installed on the player. It's glitchy, and even small annoyances can become big problems when there's no good solution for them.
+After updating to Windows Media Player 11, I found that my Sansa no longer worked with my computer. None of the songs I added showed up on the computer, and the player refused to let me add any new songs or sync with Windows Media Player. I couldn't upgrade the firmware, either. Formatting the device solved the problem, but it also meant that I had to add all 8 GB of music back onto the player.
+The manual that comes with the View contains almost no information about installation or troubleshooting, though the customer service reps are very patient and helpful if you end up having to call them. Also, the player only works with Windows XP (and possibly Vista), which limits anyone who prefers to use other operating systems. 
+Though this MP3 player will charge through a USB cable, those with laptops or computers with USB 1.0 ports will want to (or possibly even have to) purchase the wall charger. Though my laptop has USB 2.0, it still doesn't charge the battery very well or very quickly.  
+I really enjoy the Sansa View as an MP3 player. The interface is nice, and so is the design. It's easy to use - I use it to listen to music in the car, and it works wonderfully. I only wish that the software installed on the device was anywhere near as good. It's what's keeping me from recommending the View to anyone else.

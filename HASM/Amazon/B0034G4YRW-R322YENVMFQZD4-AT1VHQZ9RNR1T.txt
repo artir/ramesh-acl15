@@ -1,0 +1,13 @@
+ID: B0034G4YRW-R322YENVMFQZD4-AT1VHQZ9RNR1T
+Category: Laptops
+Product: Gateway-NV7920u-17-3-Inch-Laptop-Cherry
+ReviewerID: AT1VHQZ9RNR1T
+ReviewerName: Miha Ahronovitz "myinnervoice"
+Date: February 14, 2010
+Helpful: 10 of 14
+Rating: 1.0
+Title: Gateway laptop owner experience is  not good
+Content:
+This model, on paper, seemed to have everything I wanted; 17.3" screen, Wireless N and the latest from Inte, the I5 processor. I bought a Netgear router to install the Wireless N up to 300 Mbps. When I tried the Gateway N7920, - in flaming red - it could not recognize the G network, only the 2,4 GHz (up to 150 Mbps). I went back for Netgear support - which was fabulous. We tried for one and half hours to see if there is a router problem. It wasn't. Then I called Gateway support via chat. All they did was to register the laptop, have some small talk, and  directed me to call the Gateway pay-per-minute support line. I said my computer was one day old, why  should I pay for support? They were adamant. I must pay, because this is wireless issue not covered by warranty.  I accepted grudgingly to pay for a 30 minute conversation with the technician. He tried some banal operations and decided he has no idea why this is happening. He wasn't even sure whether NV7920 had Wireless N and took 10 minutes from the paid-by-me minutes to find out... "It should be the network", he said. He never heard that Gateway had any problems with Wireless N, he said - implying that it is my immagination. I was left speechless by the attitude, the lack of care teh the supercial know-how displayed. His only interest was to collect the per minute fees. 
+I tried then my daughter laptop, who was visiting - and her HP Turion II identified immediately the wireless N 350 Mbps  it worked smoothly. We were sitting side by side. My flaming red Gateway, was still blind... 
+My sheer luck was that I bought my laptop from Amazon. They responded my email immediately and offered me a few options. One of them was replacement, the other one was to return the computer. I returned the computer. No matter how great a computer looks, buying their brand name means dealing with the manufacturer long term. After the Gateway customer experience, they lost a customer and provided ammunition to the the competition. I am still considering what laptop to buy. I can assure you, it will not be a Gateway.

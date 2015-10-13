@@ -1,0 +1,11 @@
+ID: B000UV4EU6-RP762ZIKVJPUO-A1I23I4ATE8NBR
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A1I23I4ATE8NBR
+ReviewerName: John J. Stein
+Date: January 8, 2008
+Helpful: 4 of 18
+Rating: 1.0
+Title: Beware Creative Zen
+Content:
+Do NOT buy the Create Zen 16 GB MP3 player. Although it gets glowing reviews from journalists, they neglect to tell you about the tendency of this device to become useless when the firmware upgrade dies.My Zen didn't even last 30 minutes out of the package. First you install software, then update that software, then update the firmware. All seemed to go well until the Zen tried to reset itself after the firmare update.No joy. It's dead with no OS. I had to send it back.

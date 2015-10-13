@@ -1,0 +1,12 @@
+ID: B001FA1NFA-R2F3CDGXGVWECL-A10B2FAVSQ5MLY
+Category: MP3Players
+Product: Apple-iPod-Generation-Previous-Model
+ReviewerID: A10B2FAVSQ5MLY
+ReviewerName: M. Iotti
+Date: November 10, 2008
+Helpful: 0 of 2
+Rating: 1.0
+Title: Windows XP 64 bit users beware
+Content:
+I've never owned an Apple Ipod before and decided to treat myself to one.  I had heard some poor reviews, so I attempted to download iTunes 8 to make sure everything ran properly before opening the case (there's a $15 restock fee if you return it opened).  I'm glad I waited.  I found out after an hour of attempts and tech support that iTunes 8 is incompatible with Windows XP 64-bit.  It can work with XP 32-bit or Vista 32 and 64, but not Windows XP 64.  I wish that was disclosed somewhere on the packaging as it would have saved me time I've now lost.  Apparently, there are websites that explain how you can make it compatible, but you would be required to go through the process each time iTunes upgrades and I would prefer to enjoy my music in a simpler way.
+I hope any Windows XP 64-bit users reads this before purchasing!

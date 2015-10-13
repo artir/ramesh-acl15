@@ -1,0 +1,21 @@
+ID: B002PK155M-R9763HWYVC0WG-A17R5NB432YJRA
+Category: Laptops
+Product: Lenovo-Ideapad-U-350-13-3-Inch-Laptop
+ReviewerID: A17R5NB432YJRA
+ReviewerName: Danny
+Date: December 1, 2009
+Helpful: 4 of 12
+Rating: 5.0
+Title: Excelente Portatil
+Content:
+Por fin he recibido mi nueva laptop Lenovo U350 296346U. Anteriormente tenía una mini laptop Acer Aspireone de 9 pulgadas. De la que puedo decir que fue muy aceptable su rendimiento. Compre esta Lenovo U350 296346U, porque me pareció su diseño muy elegante y atractivo. Realmente es una laptop muy delgada, su diseño es muy bien acabado y el dibujo que tiene en la parte exterior de la pantalla es muy bien recibido.
+La primera impresión es de ser una pc muy elegante, delgada y brillante. Es de buen tamaño y muy ligera.
+El touchpad es estándar y muy suave al tacto, también puedo decir que responde rápido al tacto.
+Las pegatinas indican Dolby Sound Room, Intel Centrino 2 y Windows 7, todas estas características son muy muy bien recibidas y son las que hacen que esta pc sea aun más interesante.
+Se puede ver que es muy delgada y los detalles en los extremos son muy suaves, me refiero a las curvas de los extremos. 
+En cuanto al rendimiento puedo decir que la Lenovo U350 296346U es muy aceptable. Yo personalmente estoy muy satisfecho con el rendimiento. Tengo unos 80 GB de información entre documentos, MP3s y videos y no disminuye su potencia. El disco duro viene particionado en tres partes una es oculta y reservada enteramente para la recuperación del sistema, es en esta partición oculta donde está el sistema operativo y los programas que trae por default. Las otras dos particiones son una de 250 GB, en la que están todos los programas y el sistema operativo instalado y otra de 30 GB. En la que solo están los drivers de la pc.
+A mí me hubiera gustado que viniera una sola partición y trajera sus discos de recuperación aparte, pero bueno ¿Qué le puedo hacer? En fin en total el disco es de 320 GB.
+En cuanto al teclado puedo decir que es muy amplio y cómodo, las teclas son suaves y muy completas. Al escribir no se siente mucho el calor despedido por el procesador y es muy silenciosa, después de todo creo que todas las laptops son así.
+La pantalla es bien amplia y muy nítida, tiene excelentes niveles de contraste y brillo, aun no he usado el sensor de luz que permite que la intensidad de luz de la pantalla se ajuste para una mejor visión y ahorro de energía de la batería, la cual tiene un tiempo útil de 5 horas. 
+He instalado el virtualbox para virtualizar Windows XP, ya que tengo unos programas que no corren en Windows 7, y la U350 responde muy bien. Carga rápido la maquina virtual y Windows 7 no pierde rendimiento, los programas se ejecutan muy rapidos y no se nota que pesadez en la pc.
+En términos generales estoy muy contento con mi Lenovo U350 296346U, es una portátil muy ligera, elegante, con una autonomía de la batería muy aceptable y finalmente un rendimiento excelente. Les dejo unas fotos de super pi realizadas por esta muñeca.

@@ -1,0 +1,20 @@
+ID: B002V5GO8E-R1UF0MUELD1BNY-A2WJ62733BQSJ8
+Category: Laptops
+Product: MSI-A4000-068US-Celeron-Dual-Core-LED-Backlit
+ReviewerID: A2WJ62733BQSJ8
+ReviewerName: Matthew M. Dotseth "IT Pro"
+Date: December 18, 2009
+Helpful: 
+Rating: 2.0
+Title: Bad laptop, dont buy it
+Content:
+I purchased two of these. One for myself (I am a network admin) and one for my girlfriend. The price was nice, but heres the deadl with these things:
+MSI does not support their own laptop under the MSI A4000-068US model, they have it under a different model number ofr some reason, so the MSI Update apparently does not work with the laptop.
+They are fast laptops for their dollar, but here are several issues that repeated on BOTH laptops that prompted me to return both:
+1) After about a month, the video drivers display artifacts, screen corruption, and general wackiness. There are not updated drivers from nVidia that work, and MSI has no updated drivers on their site. After this error starts, it only gets worse. This is due to either a bad video chip, firmware, or drivers. None of which can be updated at this time.
+2) The Webcam ceases to function after several uses. Mine went out week 2, hers has not gone out yet but is displaying video corruption.
+3) The BIOS is extremely limited. In fact, the only options you are able to actually change is the boot order, and the time/date. 
+4) Despite the specs saying the laptop has Bluetooth, the device doesnt work. There are no settings in the BIOS, however the hardware appears in the Device Manager. No IRQ's are associated with the Bluetooth, and an annoying message keeps asking you to connect a device. 
+5)The keyboard is extremely annoying, with the CAPS LOCK key being way too close to the 'a' button.
+6)The Synaptics pointing pad is way too sensistive. You'll want an external wireless mouse.
+Other than that... well its still a bad laptop. It will work beautifully out of the box, but after that its a dice roll

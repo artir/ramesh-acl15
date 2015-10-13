@@ -1,0 +1,14 @@
+ID: B00318CG8W-R2Z5Z8IXDRKERI-A2UFWVL197CH7M
+Category: Laptops
+Product: Pavilion-DV4-2160US-14-1-Inch-Laptop-Digital
+ReviewerID: A2UFWVL197CH7M
+ReviewerName: Jure "Jure"
+Date: April 8, 2010
+Helpful: 
+Rating: 3.0
+Title: LAN card busted after few months...
+Content:
+The LAN card went bad after a few months.  Downloads are as slow as 56k modem downloads, uploads are lightning fast. That isn't the problem really, but the problem is how HP Customer Service is handling this issue.  The online reps told me to install the "HP Care Advisor" and said that should help analyze the issue.  He offered no other help or explanation.
+I took my laptop to 2 different HP service centers and at both centers they're telling me that my LAN card is OK but that this is a problem with the operating system.  I re-installed Windows 7 two times, with all updates.  I fresh-installed Vista back onto the computer + updates and STILL the problem remains.  Downloads are super slow, while my uploads are super fast (normal speed).  
+I took my computer to ANOTHER, private service shop, and the tech told me the LAN card was bad.  The HP guy says otherwise, though I don't know why he's lying. 
+Good luck with this laptop, and HP customer service, though I hope you don't have to deal with them.

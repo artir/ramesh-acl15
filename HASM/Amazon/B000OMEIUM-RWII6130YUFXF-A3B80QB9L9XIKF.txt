@@ -1,0 +1,14 @@
+ID: B000OMEIUM-RWII6130YUFXF-A3B80QB9L9XIKF
+Category: Laptops
+Product: Toshiba-Satellite-A205-S4577-Processor-SuperMulti
+ReviewerID: A3B80QB9L9XIKF
+ReviewerName: T. Nagle
+Date: July 1, 2007
+Helpful: 5 of 5
+Rating: 4.0
+Title: A Solid System!!
+Content:
+Before I rant the OS, I want to say this system is solid. It has a Intel Centrio dual-core processor (1.73x2), 1 GB of RAM (667Mhz of speed, 2 512's, more on that later), 8x SuperMulti Drive (burns everything you would think of, but if it is a DVD, wait awhile), a webcam (if video capture if your gig, then disable this first), HD speakers (always a nice touch), and a 15.4" Widescreen display which for me I'll have to get used to seeing that I was brought up with computers that had blocky CRT's. And another cool feature is the Wi-Fi, which when it is turned on, will connect to any internet anywhere. That is cool.
+The starting installation is simple. You put it up to charge, and then you do everything it tells you to do. Of course, you should charge the battery up to 100%. Takes about two hours to complete.
+The Vista version installed on this computer is the Home Premium one. I know there are differences between the whole family (Basic, Premium, Business, Ultimate), but the one thing they have in common is that they eat RAM like Oreos. It has high-def graphics and the graphics are used in more places than before. You also have the Google window that opens up on boot, and IMO, it is annoying. Vista makes everything a little more different, but hey, innovations are innovations, and even though a lot of XP components are not able to be installed on the systems, I would wait until System Pack 1 for stuff to really improve and be a great system.
+In conclusion, this system is solid. Though Vista is a downer for the meantime, the price is great for the equipment offered (and the software, but be aware, DO NOT USE MOVIEFACTORY 5!! It really freezes almost everytime you use it). McAfee 30-day antivirus is standard, but when the subscription expires, get Norton for the antivirus. Also, very important, get 2 GB's of RAM (PC5300 or 5400 laptop memory) as soon as possible, you will thank yourself a lot. All in all, not a bad investment. Just do not attempt to try to switch to XP unless you get support. Have fun!

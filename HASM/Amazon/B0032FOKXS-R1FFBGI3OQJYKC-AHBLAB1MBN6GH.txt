@@ -1,0 +1,16 @@
+ID: B0032FOKXS-R1FFBGI3OQJYKC-AHBLAB1MBN6GH
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: AHBLAB1MBN6GH
+ReviewerName: sunchand "sunchand"
+Date: February 21, 2010
+Helpful: 1 of 2
+Rating: 3.0
+Title: burning smell from my brand new ul30vt-x1
+Content:
+The laptop seems good works good.
+But somehow when i use there is always faint burning smell which is stronger near fan exhaust.
+The smell is there both on power and battery.
+The other thing is that when it is on power, you can touch and feel current in almunium case, which is not there when it is powered on battery.
+Don't know if its some sort of internal short circuit.
+I have stopped using it, lets see what asus can do about it.

@@ -1,0 +1,17 @@
+ID: B000HZ9CCA-R2GJY06GY50WZ5-A1CRG38LMEFRJO
+Category: MP3Players
+Product: SanDisk-Sansa-e280-Player-Black
+ReviewerID: A1CRG38LMEFRJO
+ReviewerName: Srihari Padmanabhan "hari"
+Date: August 19, 2007
+Helpful: 5 of 10
+Rating: 2.0
+Title: Think before buying
+Content:
+Transferring Music is a pain and not intuitive. They have two modes of operation, "plays for sure" and "rhapsody". If you want to copy subscription music you have to do it using one mode and if you are transferring DRM free music you have to use other, its annoying, why cant they simply use drag and drop.
+Even copying pictures has to be done in one of the mode...i dont remember which one, ohterwise it wont show them
+Transferring Video is also a pain.
+Any video to be transferred has to be done through the given sansa software. drag and drop dosent seem to work. first you plug the sansa player to usb, add videos to the sansa software and then press convert which takes a long time converting the video.
+Then while playing the video, switching from one video to another takes a very long time.
+After syncing the music or video from the computer, I removed the usb cable and then the sansa player automatically reboots (which was ok) but after it restarts it does this "updating database" thing which takes about 30 seconds to 1 minute which is annoying a little bit.
+so buyers please be aware of these nit-picks before buying.

@@ -1,0 +1,12 @@
+ID: B000K7FANU-R423RDZFX0L8Q-A1RIVXAINH2V5U
+Category: Laptops
+Product: Pavilion-dv9000t-17-Inch-Laptop-Notebook
+ReviewerID: A1RIVXAINH2V5U
+ReviewerName: Eric Owens
+Date: February 22, 2010
+Helpful: 1 of 1
+Rating: 1.0
+Title: If only a review could have no stars...
+Content:
+After returning the laptop on an extended warranty program for a known bios issue, the laptop was returned with the hard disk wiped and restored to factory image despite the fact the problem was not with the hard disk.  The main board bios prevented the thing from booting so i had no way to backup the disk--they wiped out 7 years worth of photos, email evidence in a court case and weeks worth of recording my cd music.  After the tedious effort of re-installing programs and getting restored what I could, i finally began to leave the machine on for extended periods of time to find out the battery wasn't being detected and would not charge.  The machine was also shutting down as if it were a desktop being unplugged from the wall.  When I called to have them fix the main board they broke with the original fix, they said that since it was past the extended warranty it would cost me to have them fix it--not to mention shipping.  The *only* reason it went past the warranty to find the problem  to begin with was because of the time it took to restore what they wiped out.  Never in my life has a service department refused to fix something they either broke or did not fix properly from the start.
+I will not ever purchase another HP product--printer, drive, computer or any other item.  Absolutely the worst customer service I have ever experienced in 16 years as a professional in the IT field.

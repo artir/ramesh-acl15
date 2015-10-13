@@ -1,0 +1,14 @@
+ID: B000F5NJ1C-RZ0L923HOJRVV-A2BTGQ1UVP2FB9
+Category: MP3Players
+Product: Archos-Digital-Player-Viewer-500852
+ReviewerID: A2BTGQ1UVP2FB9
+ReviewerName: M. Jose
+Date: August 28, 2007
+Helpful: 1 of 1
+Rating: 4.0
+Title: Pretty good for a cheap MP3 player
+Content:
+I've had a chance to use it for a month, and remembered to update the firmware to the latest version from the Archos website. (N.B. you really should do this first, after saving the files, because I found that the internal disk needed to be reformatted after the firmware upgrade).
+The unit behaves as advertised and the UI is reasonably snappy (when it's not waiting for a 2-second disk spin-up). The OLED display is almost usable in bright sunlight, but adequate everywhere else; photos are a bit grainy on it. I bought the unit for its bookmarking capability, which works exactly as it should. The separate charger input is very handy when not around a computer -- the power jack matches the plug-and-voltage of many wall-warts being made today. File write speed to the unit is about 1 MB/s, not unreasonable.
+Biggest complaints: The firmware sometimes falls down on certain files, seeming to "hang" while reading them for a long time. Archos decided to make this unit run on closed-source firmware, so future fixes for this misbehavior are highly unlikely.
+I gave it 4 stars because it does nearly all of what's promised, for a cheap package; and because I have the perspective of using some truly badly-designed personal electronics in the past.

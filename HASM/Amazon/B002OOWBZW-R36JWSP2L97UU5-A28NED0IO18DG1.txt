@@ -1,0 +1,31 @@
+ID: B002OOWBZW-R36JWSP2L97UU5-A28NED0IO18DG1
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310-13-3-Inch-Ultrathin
+ReviewerID: A28NED0IO18DG1
+ReviewerName: V. V. Burns "Ja  Mata"
+Date: December 12, 2009
+Helpful: 19 of 19
+Rating: 4.0
+Title: Great Form Factor for a Netbook +
+Content:
+The T135-S1310 has been great and really fits what I needed. I wanted more than a crappy netbook but also did not want a super bleeding edge $2K notebook. Full size keyboard was really a plus and I am sure glad a spent a little more for something completely useful. 
+The S1310 uses the new ultra low power dual-core Pentium processor and scores 932 on Passmark. The laptop runs faster than my two year old Core Duo. 
+The size of the new screens is great and 13" is a true happy medium. These also make the overall machine size shallow so you have room on an airplane. 
+The finish is really cool looking but fingerprints abound on the lid, inside and even the keyboard - whatever! 
+Keyboard works pretty well if you are a soft touch typist and the keyboard layout is just fine with lots of reused keys to get all the functions. In one review there was no 'hardware' volume control (there is FN+3 / FN+4) 
+Screen is very glossy like many are today. I have not owned a glossy screen laptop before and I find it somewhat irritating when sitting with a window at my back - its tolerable but I choose where I sit. 
+Preloaded software was minimal and getting the laptop stripped of all the extra junk was a small task. Once complete a set of back-up disks were made per the instructions. 
+I rarely if ever use a CD/DVD so this suite me well - not having to suffer the weight penalty. I purchased a 'LG GP08 Lite' which self-installed with Win 7 - I never used the software included and it was up and operating in minutes to burn back-up / restore media. [I did not purchase the Toshiba external device due to bad reviews]
+Making of back-up media was flawless using the Toshiba utilities.
+Bluetooth seems to work great - you will want a portable mouse and my Logitech was connected easily to the T135-S1310. 
+Wireless N is much appreciated for both range and speed.
+The touchpad like expressed in other reviews is not the best effort and way worse than my 5 year old laptop this replaced. My first T135-S1310 I returned for several reasons and the touchpad had serious latency [but not one of the reasons it was returned.] The replacement on which I am drafting this does not appear to suffer the same problem. The two were probably made on the same day in the factory and have the same drivers but even in eco mode it is responsive. The buttons are very hard to press and a tap on the touchpad is better than trying to use the mechanical switch. 
+Audio sucked at first - I did raise the graphic equalizer in "Smart Audio" / Smart EQ but this is just a work around for a bad driver that hopefully will be updated.  [UPDATE 12/13/2009 - New Conexent Audio Driver Released, upgrade to rev. 4.98.16.61 and the sound seems fine to me.  I have been watching a lot of video lately with the speakers and find it fine]
+My first T135-S1310 had a couple of operational issues. The key one was flakey Wi-Fi. It would not stay connected to my D-Link 615 [Wireless N] while every other device in my house would....strange. Anyway this replacement is working fine.
+Toshiba Customer Service - For addressing the above issues, troubleshooting and resolution of obtaining a new machine locally at the vendor was just fine: they did not call me back as promised, but when I called they had all the 2nd or 3rd tier support notes and approval to return the unit for replacement: hassle free.
+Sleep Mode - The machine comes to life very fast and gets re-connected to the network before you can log yourself into Windows. Contrary to other reports posted here mine recovers and connects to the WLAN in seconds.
+Form-factor is really great. The sloped or wedge design and lip from the battery give you something to safely rip and hand on to this glossy carbon fiber looking masterpiece: if you had wet or oily hands it is likely to slip out if you are not careful. Also it makes it very simple to pull out from your briefcase / laptop bag as you have something to really hang on to. I got a great little Sumdex bag for $17 which fits it great and has just enough room for a file folder or two, some paper and the charger + travel mouse. 
+Also on form factor, these laptops are just slightly larger than a sheet of (US) paper. What does this mean? It is essentially the same size as file folder which means you can fit a couple file folders, tablet of paper etc. in your tiny laptop bag and maybe only carry one thing with you. 
+Other Ports - Not yet tested / used except the USB port has worked great as does the MiniSD memory card reader.
+So far I score this machine quite high. I love the form-factor, performance is just fine, Wireless N is great to have, screen is great, battery life is excellent. My only complaints which are minor are that its hard to keep clean (looking) due to fingerprints, the audio is marginal at best [better after new driver release from Toshiba], touchpad and related buttons should be better in 2009. 
+I do recommend this type of machine to those looking to not waste $3-475 for a pure netbook with a Atom processor (Passmark +- 300) and step up to a Netbook+ for a small amount more and get real performance AND great battery life. Spend the extra to get a dual core processor too and avoid the similar computers with the other processors like the SU2700 etc.

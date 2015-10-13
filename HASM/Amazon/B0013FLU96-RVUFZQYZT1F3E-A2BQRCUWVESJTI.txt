@@ -1,0 +1,15 @@
+ID: B0013FLU96-RVUFZQYZT1F3E-A2BQRCUWVESJTI
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A2BQRCUWVESJTI
+ReviewerName: James Bond
+Date: November 26, 2008
+Helpful: 4 of 11
+Rating: 2.0
+Title: macbook review from a linux user
+Content:
+Hardware - 
+Review on hardware alone.  This model is by far the best value out of the entire macbook pro line.  I hate the glossy screen, and the price for the 2.6 chip or the 17" vs the benefits of these upgrades, wasn't worth it to me.  Overall the hardware and design is solid.
+Software - 
+This would be my biggest complaint.  As a Java developer I can't recommend mac os vs using linux especially polished distros like fedora, or ubuntu. Why ? well they only support java 5 32 bit and 64 bit, and only java 6 64 bit. For example most gui applications on the mac need to be paid for, when in linux most can be downloaded for free.  Now weather or not you care for the polish or the fancy graphics is a different concern.  I'm looking just overall quality and choice of software.  To make the os actually usable, you have to use several 3rd party software solutions.  Example Finder is the worse implementation of a file manager I have ever seen... thats why Path Finder is so popular. Expose is a terrible alternative to finding programs.  Just compare the actions taken looking for applications when using task bar vs expose. Skip the graphics and make it useful.  When having 15 - 20 applications open expose becomes unusable.  I think the keyboard layout of mac is terrible.  Just do a comparison on cut and paste.  When pressing command or apple button + c .. your hand is curled and awkward VS .. ctrl + c .. your hand is extended, and can reach other keys easily.  Just something as simple as that.. makes a big difference to me.  Now people say just use linux or windows .. in separate partition... well I payed the apple tax to be able to use mac os.
+Overall comparable hardware can be bought cheaper when deals come along, and can save about 500.  For the power of a *nix os and the polish of windows.. is good , especially if you are not a power user.  But overall for my needs, I would not make this mistake again.

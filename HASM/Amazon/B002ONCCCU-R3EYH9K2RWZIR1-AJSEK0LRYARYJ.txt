@@ -1,0 +1,13 @@
+ID: B002ONCCCU-R3EYH9K2RWZIR1-AJSEK0LRYARYJ
+Category: Laptops
+Product: G60-530US-15-6-Inch-Black-Silver-Laptop
+ReviewerID: AJSEK0LRYARYJ
+ReviewerName: Znapel
+Date: February 2, 2010
+Helpful: 
+Rating: 1.0
+Title: Decent low-power computer, with a bad side
+Content:
+My girlfriend purchased a similar G60 laptop about 3 months or so ago.  It did ordinary tasks just fine, and she was OK with what it could do, considering the price.  However, a few days ago she opened the lid and saw a line running down the screen.  We did a reboot, to see if it was just a video driver glitch or some such.  The line remained for days and it became pretty obvious something major was going on.  Googling around I have found quite a number of people with G60 laptops reporting similar issues.  When people have sent the laptops in to HP they've been told that issue was 'customer inflicted damage' and offered to fix it for $450.  Most people brought up the warranty because this seems to be happening a few weeks or few months after purchase, but HP tells them that screen issues are exempt from the warranty and in any case basically 'you broke it, its not a defect'.
+If you're curious about this, just google around to find these reports.  Had I known about this when we were shopping we would have purchased another model, maybe even one from a different company.
+If you're buying this laptop, you're making a gamble...

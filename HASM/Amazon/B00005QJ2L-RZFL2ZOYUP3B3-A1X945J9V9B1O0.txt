@@ -1,0 +1,11 @@
+ID: B00005QJ2L-RZFL2ZOYUP3B3-A1X945J9V9B1O0
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: A1X945J9V9B1O0
+ReviewerName: Stuart Miller
+Date: March 20, 2004
+Helpful: 3 of 3
+Rating: 1.0
+Title: Manufactured with known defect
+Content:
+It seems that toshiba manufactured these machines with a known defect in which the CPU needs to be throttled back in order to keep the laptop from shutting down due to over heating.  The cause of this issue is that Toshiba used a desktop CPU (Intel Pentium III) instead of a mobile CPU in these laptops.  Toshiba's solution to the problem is a BIOS update which effectively throttles back the clock speed of the CPU and causes some issues with DVD playback.  This defect is also present in the satellite 5505 series laptops.

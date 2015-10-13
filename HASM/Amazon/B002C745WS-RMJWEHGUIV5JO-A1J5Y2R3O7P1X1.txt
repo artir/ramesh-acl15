@@ -1,0 +1,64 @@
+ID: B002C745WS-RMJWEHGUIV5JO-A1J5Y2R3O7P1X1
+Category: Laptops
+Product: Apple-MacBook-MC226LL-17-Inch-Laptop
+ReviewerID: A1J5Y2R3O7P1X1
+ReviewerName: Rohan N "Lifeboy"
+Date: July 9, 2009
+Helpful: 19 of 39
+Rating: 5.0
+Title: Quick Tour for June 2009 Released Mac BookPro
+Content:
+Apple released 3 different sizes models in June 2009 
+13" 15" and 17" --> 3 Different Sizes 
+Next Question comes to mind is : Whats the major difference between these models or what major features are being added to these models ? 
+Answer : The Major difference between these model is the Physical Size , Display , Battery Life and obviously the Price 
+The Major Feature Release is the Integrated Battery Life as compared to older Models. These newer one's have integrated Battery hoked up to the circuit board . 
+13" Model : (Default configuration) 
+----------------
+Models : 13" Model Numbers are MB990LL/A ,  MB991LL/A
+Max CPU Processor is 2.26 or 2.53 GHZ Intel Core 2 Duo with 3 MB cache
+Harddrive : 160 GB or 250 GB 
+Standard RAM: 2GB or 4 GB 
+USB : 2
+Firewire : 1
+Display : 13.3"
+Graphics Card : NVIDIA GeForce 9400M with 256 MB of DDR3 SDRAM ( this is shared with Main Memory)
+Screen Resolution : 1280*800
+Battery Life : 7 Hrs 
+Weight : 4.5 Lbs
+Dimension : 0.95(H) ,12.78(W) , 8.94(D) 
+15" Model : (Default configuration) 
+----------------
+15" Model Numbers are MC118LL/A ,  MB985LL/A and MB986LL/A 
+Max CPU Processor : 2.53 or 2.66 or 2.8 GHZ Intel Core 2 Duo with 3 MB cache . 
+		        2.8 Ghz processor has 6MB L2 Cache
+Harddrive : 250 GB , 320 or 500 GB (depending on the model) 
+Standard RAM: 4 GB 
+USB : 2
+Firewire : 1
+Display : 15.4"
+Graphics Card (depending on Model of 15" ) : 
+		NVIDIA GeForce 9400M with 256 MB of DDR3 SDRAM ( this is shared with Main Memory)
+		OR 
+		
+		Dual Graphics Processor -- > NVIDIA GeForce 9600M GT with dedicated GDDR3 SDRAM
+					       & Integrated FeForce 9400  
+Screen Resolution : 1440 * 900 
+Battery Life : 7 Hrs 
+Weight : 5.5 Lbs
+Dimension : 0.95(H) ,14.35(W) , 9.82(D) 
+17" Model : (Default configuration) 
+----------------
+17" Model Numbers are MC226LL/A
+Max CPU Processor : 2.8 GHz processor has 6MB L2 Cache
+Harddrive :  500 GB
+Standard RAM: 4 GB 
+USB : 3
+Firewire : 1
+Display : 17"
+Dual Graphics Processor -- > NVIDIA GeForce 9600M GT with dedicated GDDR3 SDRAM
+					       & Integrated FeForce 9400
+Screen Resolution : 1920 * 1200 
+Battery Life : 8 Hrs 
+Weight : 6.6Lbs
+Dimension : 0.98(H) ,15.47(W) , 10.51(D)

@@ -1,0 +1,42 @@
+ID: B001NEJO1I-RM5BJVEA071F2-A2R9KHTEIPE7XW
+Category: Laptops
+Product: Toshiba-Satellite-A355-S6925-16-0-Inch-Laptop
+ReviewerID: A2R9KHTEIPE7XW
+ReviewerName: Lynne Blackburn "Jesus Geek"
+Date: July 17, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Pretty decent laptop
+Content:
+Overall: After a bit over a month of steady usage, I am very pleased.
+PROs: Very pretty, works well, speakers decent, keyboard nice, works well (did I say that already?), nice screen
+CONs: Rotten battery life, dust and smudge attractor, runs a little warm, no hot button volume control, no recording audio from the internet
+Overall--very happy:
+Overall I am very pleased with my Toshiba so far. As a teacher, I use my computer A LOT! Everyday, typically at least a couple hours a day, and during summer study and research time, even a whole lot more. I need a highly reliable computer. As a missionary teacher, I cannot be replacing computers all the time--because of living in a country that places high import taxes on electronics, I cannot just buy another one, or even make good on any warranties. I need something that works! So far the Toshiba is pleasing me.
+My laptop history:
+I have had mostly Dells (a Mac once, and a MicroExpress for my very first laptop). My last Dell laptop just physically fell apart. I wanted to try something completely different. After extensive research of customer reviews, I decided to go with a Toshiba (boy, that sounds a lot easier than it really was). 
+Amazon:
+I decided to order via Amazon because Amazon is so nice to accept an order from another country, where I am residing and working now. I had it delivered to the place I am visiting in the U.S. this summer--ready for me to pull out and beat on as I normally do (and take advantage of a decent internet connection to download and order everything I needed for it). Thanks, Amazon!
+Performance:
+The Pros and Cons above summarize my comments, but let me get specific on a few things and talk about a couple others. Running Vista64, even with the RAM and MHz power, performance isn't the greatest. This may be a Vista issue. 
+If they're going to give you the advertising, why can't you take advantage of it???!!!:
+Which reminds me, I just checked the Toshiba Direct thing today, which showed two things that I would have LOVED to have taken advantage of from them, but alas I got my computer a couple weeks too early: a free upgrade to Windows 7, and a free carry bag. As a missionary teacher I can tell you that the price of "FREE" really fits the budget well. Ah, well...they must have known I would have jumped on that. That disappointed me a lot, I have to say. 
+Screen size:
+The screen is great. It's nice to have even a bit more real estate for working with several applications (had a 15.4" before).
+No internet audio recording:
+Realtek sound card does not support recording audio from the internet--even with the right software for doing that. As far as my research has shown, it's not possible. I tried all the suggestions people made that I could find. No can do. I guess that makes a little sense from a proprietary standpoint, but it's still disappointing.
+Cursor freeze:
+Upon occasion the mouse cursor freezes--not sure if this is Vista or the mouse software causing this. Sometimes it recovers itself, sometimes just using Ctrl-Alt-Del to get to the Task Manager is enough to unfreeze it.
+Smudgi- and dustiness:
+I know that just about everyone has commented on the smudginess and dustiness of the Satellite. This is oh, so true. I am currently in a fairly dustless environment in the U.S.--I can only anticipate what a hassle it's going to be when I'm back next week in my super-dusty, pollution-ridden environment--cracks in the wall, windows, and doors environment, no insulation (oh, the trials and tribulations of living in the tropics...it is mostly quite pleasant--if you close your eyes so you don't see the garbage all around and put clothes pins on your nose to close out the exhaust and burning garbage fumes, the ever-blooming flowers, giant green trees, and lovely palm trees are a true pleasure).
+Recovery Disks:
+Oh, another little issue I had was that I could not get the recovery disks to burn properly...I don't think it's a DVD drive thing...it's a utility issue, I believe. Not sure why... If I did, I would have fixed it and tried again. I have not used the burn facility on the DVD drive much--yikes! I hope it works. I have used the DVD drive for quite a few other things though--works fine.
+CAPS LOCK light:
+Oh, another little thought I had was that the little light they have for CAPS LOCK is impossible to see unless you are pretty much directly above it. The idea of having the light right on on the CAPS LOCK key is brilliant. They just need to adjust the angle of it a bit.
+Vista and Office 2007 (NOTE: the Satellite comes with MS Works): 
+I really like Vista way better than XP. I haven't had a program yet that hasn't worked in Vista64--even one old utility that came with my cell phone that advertised itself as supporting only up to XP. 
+Performance:
+Not what I would like to see, I have to say: With a new computer, the performance isn't as bad as my old XP computer yet, but it already occasionally has its long pauses, and I haven't even used the thing for much more than a month. 
+Usability: 
+Maybe I like Vista so much because I am coming in at the tail end of its life, right when Windows 7 is gearing up. I ordered Office 2007 and have used OneNote and Word 2007 a lot. My first project on this Toshiba was a table-intensive one in Word 2007. I loved it! Yes, it takes a little getting used to the new interface, but it has a lot of little changes that make it so nice, such as instant preview. Sweet stuff! I feel like I'm the only one I know who really likes Vista and Office 2007...but, I really, really do! 
+Can't wait to see what Windows 7 comes up with--but alas, that won't be for a few years, because I'm sure my Toshiba will last me for several years to come (it better!!).

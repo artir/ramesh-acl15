@@ -1,0 +1,11 @@
+ID: B00267S7TQ-RW4UG0CD9AWR9-A2YXKDIUFOKZ0E
+Category: DigitalSLRs
+Product: Nikon-D5000-18-55mm-3-5-5-6G-Vari-angle
+ReviewerID: A2YXKDIUFOKZ0E
+ReviewerName: Gaurav Srivastva
+Date: December 19, 2009
+Helpful: 1 of 3
+Rating: 3.0
+Title: low flash sync speed
+Content:
+Just wanted to add that D5000 has max flash sync speed of 1/200 only and can't be used with external flash like the D90 in FP high speed sync mode. This can cause problems with fill flash on beach etc (google on dpreview for this issue).

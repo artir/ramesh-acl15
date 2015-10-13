@@ -1,0 +1,11 @@
+ID: B00005UJYF-R3KTU37A6PLDAB-A2ZGTW02CGZC3J
+Category: Laptops
+Product: Dell-Latitude-Notebook-650-MHz-Pentium
+ReviewerID: A2ZGTW02CGZC3J
+ReviewerName: Systems thinker
+Date: November 18, 2002
+Helpful: 16 of 19
+Rating: 3.0
+Title: Serviceable, but missing a few 21-st century essentials
+Content:
+My employer provided this machine.  I find it marginally acceptable, but I would not spend my own money on such a system.Major misses:1) It comes with the synaptics touchpad, which defaults to accepting taps as mouse clicks (it should default to the 'suppress taps')2) Shutdown service takes too long, even for Windows 2000.3) No option to order with Linux or without Windows, even though Dell previously touted this feature.For everyday use, I still gravitate toward my iBook.  The Latitude has inadequate USB connectivity (only 1 port), and wastes precious back panel space on a PS/2 stylekeyboard/mouse port and a 25-pin parallel port.Once you plug in a mouse, you have NO USB connectors left for a digital camera or other peripherals.  This makes the latitude a niche machine for corporate environments with very specific requirements.

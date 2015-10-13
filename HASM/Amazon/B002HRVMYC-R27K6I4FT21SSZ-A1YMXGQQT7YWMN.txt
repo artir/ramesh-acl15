@@ -1,0 +1,12 @@
+ID: B002HRVMYC-R27K6I4FT21SSZ-A1YMXGQQT7YWMN
+Category: Laptops
+Product: Thinkpad-SL500-T5870-160GB-2GB
+ReviewerID: A1YMXGQQT7YWMN
+ReviewerName: skepticalis
+Date: November 7, 2009
+Helpful: 4 of 4
+Rating: 4.0
+Title: Nice size, keypad, XP vs Vista loaded on it
+Content:
+I got this for basic browsing and personal use - not for business or gaming. The power, speed and memory were adequate for my needs. 
+I like the quality of this product, the user friendly keyboard, and the fact that it has XP operating system vs Vista - which I hate. I also don't care for the system hogging McAfee which is pre loaded (and expires in 30 days), but you can put in another one like AVG that uses less memory.

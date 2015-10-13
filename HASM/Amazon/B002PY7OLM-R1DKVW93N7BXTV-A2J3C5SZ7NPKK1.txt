@@ -1,0 +1,11 @@
+ID: B002PY7OLM-R1DKVW93N7BXTV-A2J3C5SZ7NPKK1
+Category: Laptops
+Product: Dell-Inspiron-15-6-Inch-Black-Laptop
+ReviewerID: A2J3C5SZ7NPKK1
+ReviewerName: R. Searl
+Date: January 20, 2010
+Helpful: 18 of 26
+Rating: 1.0
+Title: I agree, Dell is Unethical
+Content:
+I also have had issues with Dell and the Inspiron 1545.  Firstly, there is a known issue with the cursor randomly jumping to a different spot while typing.  At first I thought it was an issue with MS Word, but then it began happening anywhere I was typing outside of Word such as Gmail or even writting a review for Amazon.  Researching the issue online, I found I was not alone with this problem.  Trying to get support from Dell was a joke.  They give you the run around until you give up.  Then, about 3 months after I bought it, the touchpad stopped working.  I only paid $649.00 for the machine, so I expected mid-level performance, but needless to say I was disappointed with my first Dell laptop.  I own 2 Dell desktops that I have had no issues with.  However, I will not be buying another Dell laptop.

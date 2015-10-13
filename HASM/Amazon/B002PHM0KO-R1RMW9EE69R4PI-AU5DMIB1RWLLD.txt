@@ -1,0 +1,13 @@
+ID: B002PHM0KO-R1RMW9EE69R4PI-AU5DMIB1RWLLD
+Category: Laptops
+Product: Sony-VGN-NW240F-15-5-Inch-Windows-Premium
+ReviewerID: AU5DMIB1RWLLD
+ReviewerName: Jian Fang
+Date: February 10, 2010
+Helpful: 4 of 5
+Rating: 1.0
+Title: Battery Battery battery!!!
+Content:
+The rest of this Sony is fine, but the battery is definitely a problem.
+Not only it does not last long, it drains fast even if you put it into hibernate.  This means you have to turn it off to keep the battery, but then it will be slower to start up.
+A "stay home" laptop, not for travelers.

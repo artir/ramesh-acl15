@@ -1,0 +1,27 @@
+ID: B0034GXNYM-R10YWGCOGL9H0Z-A3SE05MTK4UKS3
+Category: Laptops
+Product: N61JQ-A1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A3SE05MTK4UKS3
+ReviewerName: arnoldpalmerlite
+Date: April 13, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Best laptop you can buy right now
+Content:
+Had to push one of the back panels in so it was seated properly.
+There is a tiny gap in the casing by the media reader slot - it is barely noticeable, and I assume it's another part that is just not pushed in all the way like the back piece was.
+There is a tiny amount of keyboard flex, but when you're typing you don't notice it - only if you're looking for it/pressing down deliberately hard.
+Coming from a mac laptop, the multi-finger gestures aren't as bad as I've read - they seem to work just fine so far (after you know what the gestures are - they aren't all extremely intuitive) After a few days of use I notice it works only sometimes - anyone know whats up with that? If you're getting this laptop I wouldn't count on this feature.
+It feels surprisingly light.
+The hinge is sturdy - i expect it to last.
+The sound: I can see both opinions - it can sound tinny - but it's also... guess what? A laptop. And no, there isn't cell phones with better speakers - although i've seen some that are pretty close to this. There just isn't any lows, and barely any mids - if you really want good sound, ignore the hype Asus created in their advertisement of these speakers (all that's really exciting about it is that the normal laptop speakers are arranged in some special way-and it comes with some tuning software) and get a pair of some decent desktop speakers. Don't expect any miracles with the sound. That being said, the built-ins are decent laptop speakers (the stereo effect will certainly surprise you). & They are plenty louder than my Macbook's built-ins - so i'm not disappointed with it. The sound required some minor tweaking in the SRS software to get it to my liking.
+The hand rest is a fingerprint magnet, I can tell it's going to be difficult to keep clean - the fingerprints go on, but they don't wipe off as easy as if it were a gloss plastic.
+The back, indeed looks black. It's pretty & understated.
+There isn't a terrible amount of bloat-ware.. I uninstalled all of the game trials and a few other programs and that was all i had to do. 
+It's pretty thin for a laptop this size - not fat looking like those terrible HPs
+Mine came with 1333 ram.
+I created a backup DVD set when i got the laptop - and that took about 2 hours (compressing the files, creating an iso, and burning 4 discs) with the supplied backup software.
+I haven't run down the battery yet - but it says about 1.5 hours.
+The video card is...awesome. I ran Battlefield Bad Company 2 (a DX11 game) on all of the highest settings (8x anti-aliasing, highest resolution etc.) And it ran perfectly except for a bit of slow down during massive explosions etc. - but, when the anti-aliasing is turned down to 4x it runs just fine.
+I was planning on getting an X25M SSD for this laptop - but...It doesn't really need it! Boots up in seconds... Photoshop opens in about 4-5 seconds... 
+I saw today that apple revamped their macbook & MBPs - and after looking at them - I would still buy this laptop. It's $1,800 cheaper... And the hardware is still better. Besides that, I am really impressed with windows 7 - After a few days I don't miss anything from OSX.

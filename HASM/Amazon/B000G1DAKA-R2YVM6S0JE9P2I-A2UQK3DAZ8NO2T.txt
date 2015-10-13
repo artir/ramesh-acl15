@@ -1,0 +1,19 @@
+ID: B000G1DAKA-R2YVM6S0JE9P2I-A2UQK3DAZ8NO2T
+Category: DigitalSLRs
+Product: Pentax-K100D-Digital-Camera-Reduction
+ReviewerID: A2UQK3DAZ8NO2T
+ReviewerName: Hiram Grant "just call me Sam"
+Date: July 26, 2006
+Helpful: 43 of 48
+Rating: 4.0
+Title: Good value, entry level Digital SLR
+Content:
+The Pentax K100D is a nice upgrade, replacing the well thought of *ist DL camera.  The K100D builds on that camera, and boast improvements in focusing and stabalization.
+The improvement to multi-point, cross sensors is very welcome.  This should dramatically improve the general focus operation of the camera, while at the same time, the new sytem allows the user more control than the older *ist DL.  [Cross type autofocus means that at that particular point, the camera can focus on both horizontal and vertical lines.  Many cameras, like the Canon Rebel XT, only have one cross sensors.  This K100D has 9.]
+The stabalizer is the real gem here.  The stabalizer will be a big benefit to anyone who does a high percentage of the shots indoors, WITH or without flash.  For candid, non-flash photos, the stabalizer allows you to shoot at slower shutter speeds.  That's also great for things like museums, that don't allow flash photos.
+What people sometimes miss is how the stabalizer helps with flash.  The flash fires fast, up to 1/10,000th of a second.  But it only lights up our subject.  If no other light get through, then we have cardboard cut-out subjects standing in front of a black background.  At normal flash shutter speeds, we often have a background, but much is too dark.  The stabalizer allows you to shoot at a slower speed without shaking the camera.  This brings out more background.  Additionally, more available light strikes the subject, requiring a bit less light from the flash.  This makes the subject appear more "real", our goal with flash photos.
+The 18-55 zoom is not of professional grade construction, but it is well made, and has a metal mount.  It has a very nice "instant" manual focus override feature, and is packaged with the better petal style lens hood.  Mechanically, it is the nicest standard kit lens from any manufacturer that adds under $200.
+The camera construction is solid, and a bit heavier than you might think because of its metal interior.  For good or bad, the camera uses 4 AA batteries.  Their easy to get, NiMH rechargables are cheap, but they weigh a bit more and don't last as long as the Lithium Ion type batteries.
+Pentax has a good selection of lenses, but not up there with the likes of Canon and Nikon.
+The K100D stacks up very nicely due to the built-in stabalizer, multi-zone AF, construction, and large LCD.  If you have a bit more money to spend, consider the Sony A100, which upgrades to 10 megapixel and Lithium Ion battery.
+[Update early August:  Pentax has released firmware update 1.01, which now allows the camera to use the new SDHC cards which should be available soon.  These cards allow you to exceed the 2GB limit of SD, with 4GB cards to be the first available.]

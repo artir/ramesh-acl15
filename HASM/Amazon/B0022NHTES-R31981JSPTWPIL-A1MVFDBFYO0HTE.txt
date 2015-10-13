@@ -1,0 +1,18 @@
+ID: B0022NHTES-R31981JSPTWPIL-A1MVFDBFYO0HTE
+Category: MP3Players
+Product: GPX-GB-Digital-Media-Player
+ReviewerID: A1MVFDBFYO0HTE
+ReviewerName: Roy Massie
+Date: February 6, 2010
+Helpful: 
+Rating: 1.0
+Title: Terrible usability - do not buy
+Content:
+I have been a technical computing professional for 25 years and I continue to have problems using this product after about 90 minutes of trying.  Like one other reviewer, my son also won this in his cub-scout fundraiser for selling loads of popcorn.  We will do something to make it up to him but it is a shame he will probably not be able to use what he actually won. 
+The Internet is loaded with pages of people struggling with this brand but I found nothing to help me and the GPX web site is no help either. Here is the little bit I have to share if you already own one of these:
+  
+1.	First, the unit was hard to sync with music on the laptop. You will probably need specific versions of Windows Media player.  There are instructions about this.
+2.	Start Windows Media player BEFORE you ever connect the device and Windows Media can recognize it for sync.  In fairness, the instructions say this if you read them carefully, but this vital requirement should be better highlighted since most USB/music units do not have to be treated so specially. The troubleshooting help misses this point. 
+3.	Once connected I got some music downloaded and playing, but now have some trouble navigating away from the music player to settings or other functions like movies.  The user menus on the device are awkward.
+I am amazed products this awkward still have any place left in the market.  The savings to keep the price low were not in less memory or unit construction but in skipping user testing and overall product fitness to purpose.  
+We may eventually get this thing useful for my 6 year old son, but you should buy something else with your hard earned money. And scouting leaders - stop buying this brand for the kids.

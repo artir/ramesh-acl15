@@ -1,0 +1,15 @@
+ID: B000079Q52-R1ZS28VTQLJR6A-AVR7C7HLP10FM
+Category: SpaceHeaters
+Product: Soleus-Air-MS-10R-Reflective-Heater
+ReviewerID: AVR7C7HLP10FM
+ReviewerName: Kyoung Hwan Ju "jubarley"
+Date: January 16, 2007
+Helpful: 
+Rating: 4.0
+Title: It's good. but...
+Content:
+It's a good product actually.
+But high temperature of the top part frequently turns off itself.
+It won't turn on again unless the temperature below certain point.
+So the device should normally set to look at higher point than horizon.
+I think it is suitable for office not a house.

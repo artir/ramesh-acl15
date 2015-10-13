@@ -1,0 +1,12 @@
+ID: B000W0XTJ2-R1S8O80SUH41WJ-A2W1MMTI4BNJKD
+Category: Laptops
+Product: Pavilion-TX1320US-Entertainment-Notebook-Processor
+ReviewerID: A2W1MMTI4BNJKD
+ReviewerName: Eric D "gps geek"
+Date: February 26, 2009
+Helpful: 2 of 2
+Rating: 1.0
+Title: Don't waste you money
+Content:
+I purchased this computer 1 year and 5 months ago.  WIFI failed a week ago.  Checking the web, this is a known issue that is the fault of the motherboard.  HP wants over $400 to repair even though it is a known issue.
+This issue includes any of the tx1000 models.

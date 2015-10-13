@@ -1,0 +1,20 @@
+ID: B002PAQXCM-R17CSXD76DJ6M4-A3KNVFAMA6ARBG
+Category: Laptops
+Product: N81Vp-D2-14-Inch-Versatile-Entertainment-Windows
+ReviewerID: A3KNVFAMA6ARBG
+ReviewerName: A. Mathurin
+Date: December 30, 2009
+Helpful: 6 of 6
+Rating: 4.0
+Title: A great product with a trade-off
+Content:
+While searching for the ideal laptop for myself, I found that all laptops seem to have huge trade-offs. This one is no exception. I chose it because it packed a relatively fast CPU and a decent graphics card into a very portable PC. Every other laptop I found with discrete graphics was a lot heavier, and most were pricier. The trade-off here (as with all laptops that have fast CPU's and discrete graphics) is that battery life is far from impressive. Unfortunately, there is no 9-cell (more powerful) battery available. Based on the location of the battery on the bottom of the laptop, I don't think there ever will a more powerful (and larger) option.
+Performance on this is great. Windows 7 is extremely responsive, audio production software runs smoothly, and game performance is even better than I expected - Dragon Age Origins looks beautiful at the screen's max resolution with most graphics settings somewhere between medium and high. I haven't tried editing video yet, but based on what I've seen so far, I don't expect any performance issues. If you're just planning to browse the web and work on spreadsheets, documents, etc. this may be overkill for you. You would probably have no problems on a cheaper machine with a slower CPU, without discrete graphics, and with longer battery life.
+Speaking of battery life, it is pretty short, but I find it to be usable. Asus added a dedicated button for switching power profiles. Switching to battery-saving mode gives a significant boost over high-performance and entertainment modes. I haven't done extensive testing, but it seems that battery-saving mode will get you 4-5 hours of web browsing and other light work, while entertainment mode might let you watch one movie before you need to search for an outlet. Depending on how and where you expect to use your laptop, this may or may not be a problem. In high-performance mode, hot air blows out of the right side, but the bottom doesn't get hot enough to burn laps.
+In response to other feedback I've seen:
+- It's been said that the touch-pad buttons are stiff. I don't find this to be the case at all. They seem quite comfortable to me, my girlfriend, and my mother.
+- Another reviewer mentioned having issues using the touch-pad scroll. The part about scrolling not stopping without an extra touch is a non-issue. This an intentional behavior that can be changed or turned off in settings. However, the part about having to hit the line is a very real issue. The problem is that the outer edges (maybe 1/4") of the pad do not respond to touch. You don't need to hit the line exactly, but you do need to make sure you're not right at the edge, which frequently requires a look. This is the most annoying problem I have with the n81vp.
+- Keyboard quality and noise is fine. It's comfortable to type on. It's not silent, but not noticeably loud either.
+- The function key is where most people would expect 'control' to be, but after a few weeks with the laptop, I find myself getting used to this.
+In summary, the Asus N81VP-D2 is great for audio production, multimedia work, gaming, and most other demanding tasks.
+It's a waste of money for more casual users and no good if you need long battery life.

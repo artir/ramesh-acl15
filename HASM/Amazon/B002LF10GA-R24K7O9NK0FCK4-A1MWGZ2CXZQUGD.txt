@@ -1,0 +1,17 @@
+ID: B002LF10GA-R24K7O9NK0FCK4-A1MWGZ2CXZQUGD
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A1MWGZ2CXZQUGD
+ReviewerName: Robert Wassermann
+Date: December 30, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: Very good Notebook, not so good support
+Content:
+Well designed laptop, with very good speed. One of the best feature is that its not a NetBook with slow hardware and resolution restricted to 1200 x 600. This Laptop has 1366 x 768 resolution.
+Since most Windows application requires a minimum of 1024 x 768 resolution, purchasing a NetBook is a waste of money. I'd like to know who was the moron that came-up with the hardware specs for the NetBooks. Why would anyone think that users would spend hundreds of dollars on a computer that cannot run standard Windows applications?
+As I said before, I'm very pleased with this Notebook. My only complaint is about the Acer tech-support. The computer came with Vista Home Premium installed which I replaced with XP Pro. The Acer website provides drivers for XP. Unfortunately some of the drivers are out of date and did not work. Also there are multiple drivers for the same hardware and is difficult to figure out which drive to use.
+I called the Acer tech-support and asked them why some of the drivers did not work and also which of the multiple driver-set to use for XP. They would not answer my questions unless I paid for support.
+I'm an IT professional, working in this industry for over 30 years. I have built hundreds of computers over the years. I do not need help with setting-up a computer unless the drivers provided with the computer does not work or selecting which driver to use is ambiguous.
+I ended-up solving the drive problems by going to the website of the specific hardware manufacturer and downloading the up-to-date drivers. I downloaded the Wireless, and Sata-AHCI drivers from Intel, and the Bluetooth driver from Broadcom.
+My suggestion to the Acer is keep your drivers up-to-date and answer user's questions about the drivers on your website.

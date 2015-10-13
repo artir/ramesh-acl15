@@ -1,0 +1,16 @@
+ID: B00198BBQ4-R2PAV5EEZBBVY3-A2Y6X38QO8ZAF9
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: A2Y6X38QO8ZAF9
+ReviewerName: S. Shelton
+Date: April 20, 2010
+Helpful: 
+Rating: 2.0
+Title: Typical PC experience, terrible support from Dell
+Content:
+The hardware on this laptop is cheap.  The keyboard was replaced once because the buttons wouldn't work, and then 2 weeks after that repair they sent me another keyboard because the problem returned.  The AC adapter broke, yes, the friggin AC adapter broke!  I have AC adapters from the 80s that still work, but Dell can't even make a laptop AC adapter that can last a year and a half?  Shoddy, shoddy, shoddy.
+Support is the usual awful Dell support.  Dell support is so terrible that you might as well not even bother.  For example, my broken keyboard was replaced under warrenty, but in order for me to avoid shipping to laptop to Dell, having it repaired, and then returned I had to pay $40 for in-house service.  They did not have a option for me to physically take it anywhere which would have been cheaper for all involved.  The tech repaired my keyboard, and then it promptly began showing the same error a few weeks later.  I called, told them that this was their fault, but they said I was now out of warranty even though their replacement part failed to work!  I complained to the point that they sent the part to me for me to install myself.  I haven't even bothered and have learned to live with a space key that only works half the time.
+Phone support?  Here's how that works.  You spend 5 minutes talking with a computer only to be told that you called after hours and I should go pound sand. 
+Horrible support. 
+I think Microsoft even has better support if you can believe that.
+As for the laptop's software, what can I say other than you'll encounter the usual Windows experience of sluggish performance, bugs that are never fixed, and the other things Microsoft users are accustomed with.  Good luck getting sleep mode and hibernate to work on this with Vista.

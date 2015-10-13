@@ -1,0 +1,28 @@
+ID: B002MPPRNG-R2SOITBJZ9GYX7-AKJLH6VDM5CVD
+Category: DigitalSLRs
+Product: Sony-DSLRA850-24-6MP-Digital-Camera
+ReviewerID: AKJLH6VDM5CVD
+ReviewerName: J. Smith
+Date: January 18, 2010
+Helpful: 19 of 20
+Rating: 4.0
+Title: Great full-frame camera
+Content:
+The Sony A850 is an awesome camera, as long as you know what to look for in a camera system.  You just aren't buying the body, you have to buy the glass :)  
+That said, when I was deciding to move up to full frame, I had to make a decision: Did I stick with Nikon, or try Sony?  Well, I went with the A850 and I'm glad I did.  It's a great camera.
+I got myself the A850, the Carl Zeiss 24-70 f/2.8, and the Sony 70-400G and 58AM flash.  Although the review covers the camera, realize I'm using these items with the body.
+BUILD:
+Solid feel throughout, with a very positive grip on the right.  Command wheels "click" firmly, unlike cheaper builds that will be accidentally turned.  Viewfinder is awesome, big, bright.  Most buttons are within easy reach, except the ISO and WB buttons on the upper-right.  I also don't like the optical preview button orientation (I prefer to press the button towards my body instead of inward towards the lens), but a small niggle.  Once you pick up the A850, you know you're holding a solid piece of machinery.  CF & battery doors seem to lack any sealing, so I'd be hesitant to take this out in any more than a very light drizzle.  Rubber covers on the ports of the camera are very well-designed and actually hinge out, as opposed to flopping around like almost every other camera on the planet.  CF door opens and stops at 90 degrees to the camera body - more is needed, as it makes getting out a CF card too hard for larger fingers.
+OPERATION:
+Overall, it's a camera that just gets out of your way, which is a compliment.  First, some quibbles: There's no ISO listed in the VF display unless you're in the process of changing it.  The AF points don't cover as much as the frame as I'd like (common complaint among FF DSLRs).  Mirror slap is a noticeable "THUNK-THUNK", so don't think you'll be taking spy pictures with this any time soon.  
+Onto a couple of more important gripes:
+No onboard flash, which really hurts for not having wireless flash triggering built-in.  There is no "AF-ON" button like you find on Canon or Nikon bodies - Instead, Sony uses a button that can be used to toggle AF/MF, or switch to a central focus point, etc. but nothing exactly like the AF-ON operation from other cameras.  Finally, using the "Quick-Navi" to change settings is a bit annoying, in that you can't change multiple settings at once - you have to reenter Quick-Navi each time.  Not really time-consuming, as the button is right near your right thumb, but annoying. EDIT - Silly me! You can change multiple settings at once, after entering Quick-Navi mode, by using the front/rear wheels to adjust your settings, instead of the joystick.  No longer a complaint!
+Now the good stuff: The camera just works :)  I love the SteadyShot meter in the VF, which shows you relative camera shake and lets you take a shot with minimal shake.  Although I miss AF-ON, I do like AF-MF quick button, which lets me quickly take over focus when I need to.  I also like the way the camera will illuminate AF points when you're in AF-C mode and using "Wide" AF points (the camera chooses the AF points).  AF speed is adequately fast, though it can have trouble in very dim lights.  
+IMAGE QUALITY
+Ultimately, the reason I bought into Sony.  The image quality is amazing.  Colors are outstanding.  Detail is definitely there.  I can crop for days and still end up with a large, high-detail file.  I can (and do) print large, which was a deciding factor over the D700 (I did not consider the 5DII, as I dislike Canon controls).  
+I was initially really worried about the noise of the camera, that is until I read a blog from a wedding photographer that had recently switched to Sony.  He gave good advice - Look at your images and really see if you *need* high ISO.  I think high ISO has become the want-all, end-all criteria for buying a camera body, which is a shame.  How about image quality?  Ergonomics?  Value?  Lots of things to consider, although high ISO is nice to have.
+For me, up to ISO 1600 is fine, and a well-exposed ISO 3200 looks pretty good.  Interestingly enough, I've actually found myself almost completely ignoring luminance NR and only applying small amounts (15% slider in Lightroom 3) of chroma NR and images look very good!  Maybe it's because of the "film-like" quality, but I actually enjoy having some grain in my images.  
+Also, the camera seems to underexpose anywhere from 0.3 to 0.7 EV - knowing to do a little ETTR really helps with noise and IQ in general.
+EDIT - Camera no longer seems to underexpose after I switched my 'style' "Zone" setting to -1, which tells the camera don't worry so much about blown highlights when you're metering (even with RAW) - Camera now exposes how I would expect, and I don't to use a permanent exposure compensation!
+SUMMARY:
+Overall, a great camera (system).  I like how the body performs, and I like the glass I can attach to it.  It's not perfect, of course (what camera is?), but for $2000 you get a high-quality full-frame camera with loads of megapixels.  If this suits what you shoot (which it does for me), then take a strong look at the A850.

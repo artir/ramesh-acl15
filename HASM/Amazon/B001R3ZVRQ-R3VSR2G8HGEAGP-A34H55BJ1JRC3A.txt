@@ -1,0 +1,12 @@
+ID: B001R3ZVRQ-R3VSR2G8HGEAGP-A34H55BJ1JRC3A
+Category: Laptops
+Product: Dell-Latitude-Computer-Centrino-Processor
+ReviewerID: A34H55BJ1JRC3A
+ReviewerName: R
+Date: October 24, 2009
+Helpful: 
+Rating: 1.0
+Title: Non-transerrable XP License
+Content:
+I bought one of these laptops two months ago. It has been working just fine. Today Microsoft told me that the license is not valid. It has a valid certificate of authenticity on the back but does not have a second "refurbished" CoA. When I look at the internal System Properties/General tab it says "XP Corporate" which means it was covered under a volume/site license which can not be transferred or sold. I will probably have to buy a fresh copy of XP ($150) and re-install. 
+Before I made the order I checked to see that the advertisement specified "Genuine Windows XP". I also checked the CoA when it arrived. When the Microsoft updater offered to run "Genuine Advantage" to check the authenticity I confidently thought "sure, go right ahead." Now every time I restart I get a big message that says I am a victim of software piracy.  I expect the operating system will eventually simply stop running.

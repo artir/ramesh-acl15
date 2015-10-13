@@ -1,0 +1,12 @@
+ID: B001NPDKV2-R2DD9V5YMG6IOK-AVKN56YCOTI2W
+Category: Laptops
+Product: Compaq-Presario-CQ60-220US-15-6-Inch-Laptop
+ReviewerID: AVKN56YCOTI2W
+ReviewerName: C. Liao
+Date: December 28, 2009
+Helpful: 
+Rating: 1.0
+Title: This Laptop is Garbage
+Content:
+I've had this laptop for almost a year now. Compaq has locked the BIOS to prevent you from installing any other kind of network card. The network card that comes with the laptop fails to pick up any kind of signal whatsoever. 
+I'll never buy Compaq again.

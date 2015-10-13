@@ -1,0 +1,12 @@
+ID: B0009HMFPM-R1EACTPYQJ0BB1-A1B9PZ6EO59ZP0
+Category: SpaceHeaters
+Product: Indus-Tool-CL-Flat-Panel-150-Watt-Radiant
+ReviewerID: A1B9PZ6EO59ZP0
+ReviewerName: J. Tunnell
+Date: January 10, 2007
+Helpful: 18 of 18
+Rating: 2.0
+Title: Barely puts out heat
+Content:
+It delivers what is advertised, but few people (including myself) actually realize how much heat 100W is.  
+It basically takes a 100W light bulb and spreads the energy across a 3x2 ft panel.  It will raise the temp under your desk a degree or two, but if you are expecting "radiant" heat, you need to look elsewhere.

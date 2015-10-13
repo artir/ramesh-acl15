@@ -1,0 +1,11 @@
+ID: B001R4LK1Q-R22KFW4XIE8HYI-A10HQJX771G1AC
+Category: CoffeeMachines
+Product: Hamilton-Beach-48465-Brewstation-Programmable
+ReviewerID: A10HQJX771G1AC
+ReviewerName: B. Powers
+Date: March 7, 2010
+Helpful: 
+Rating: 1.0
+Title: Not very reliable, cheap parts.
+Content:
+This machine seemed to be really nice and it made good coffee but it just died without any reason. I took it apart because I do electronic repair and the power input to this device is inferior to other systems that use better power control. The features were nice and the timer worked well but it is too fragile for me. Cheap, cheap, cheap.

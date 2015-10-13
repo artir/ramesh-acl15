@@ -1,0 +1,44 @@
+ID: B000EBA03M-RQDP00Q9T6Q5Q-A3E68EBGXTWDNP
+Category: DigitalSLRs
+Product: Olympus-Digital-Camera-18-180mm-f3-5-f6-3
+ReviewerID: A3E68EBGXTWDNP
+ReviewerName: E. K. Arnold "amazon hunter"
+Date: March 12, 2007
+Helpful: 21 of 21
+Rating: 4.0
+Title: step up from P&S
+Content:
+First of all, i don't own this camera--i have the nikon d80--but a friend of mine does and i've been able to compare both side to side. no, the E500 isn't a better camera than the d80 (wishful thinking), but it's one of the best values in the entry-level dslr market. if you're thinking about it, consider the following:
+--do you want something more advanced than a point and shoot, but less than a professional DSLR?
+--are you a "prosumer" who will be happy with kit lenses, and is not likely to outlay thousands of dollars on pro glass, at least initially?
+--is your budget between $500 and $1000?
+if the answer is yes, definitely consider this olympus. Compared directly to the d80, the e500 didn't embarrass itself (which is saying something), and outfitted with the 50mm zuiko prime, takes just as sharp flicks as the Nikon. interestingly, oly's color system favors yellows and greens, while nikon is big on reds and blues. thus, the same shot taken with the e500 and the d80 looked different. this comes down to personal preference, although i believe you can tweak these settings a bit in menu if it's a major concern.
+the plusses to this camera are: 
+-good-to-excellent picture quality.
+-full manual controls, plus Aperture, Shutter, and Program modes, and various scene options (landscape, night shot, sports)
+-bulb setting for long exposures. 
+-SLR-like feel and ergonomics; the E500 looks like a "real" SLR, not a toy, and has a nice, solid heft without being too heavy.
+-a wealth of advanced menu options (which might be overwhelming for newbies).
+-comes with a 2 lens kit covering 28-300mm film equivalent (due to 2x conversion factor). 
+-more megapixels than nikon d40/d50 (8mp is plenty of pixels for large prints); same MPs as rebel XT (although MPs don't necessarily equal image quality, despite the fact that that's what consumers are led to believe)
+-takes CF and x-D cards.
+-has a hot shoe for external flash.
+-dust reduction system (which nikon lacks).
+-extremely low noise at ISOs up to 400; has auto ISO feature; can shoot at 1600 ISO if necessary, although you can expect more grain than fine detail at that setting.
+- 2x conversion factor a boon to telephoto enthusiasts and wildlife shooters, since it effectively doubles your range. pair this with a long telezoom and you'll be seeing the whites of bird's eyes.
+-if you have manual-focus oly film lenses, a digital adapter is available.
+-the price. it's already $150 less than what my friend paid six months ago, and the price can only drop further. definitely a deal, considering what you'd spend for a similar body/2-lens kit from other manufacturers.
+the minuses are:
+-not as user friendly as nikon d-series; complicated menu means steep learning curve for first-time DSLR users and P&S converts. reading the manual is a must!!!
+-average burst rate for a DSLR (Oly claims 2.5 fps, faster than most P&S's but not as speedy as the nikon D80 or the canon xt's).
+-at high ISOs--800 and up--superiority of nikon is evident.
+-only one jog wheel dial (a sure sign of an entry-level dslr). 
+-many functions require fiddling with menu settings (rather than external controls), which can be frustrating when you're trying to get "the shot."
+-no image stabilization feature (which pentax and sony have, as well as many high-end P&S digitals).
+-built-in flash isn't great (strongly recommend external flash, like Oly FL-36).
+-kit lenses deliver mediocre low-light performance; the 14-45's aperture is a sloth-like 6.3 on the long end, far worse than the 40-150 which is 5.6 maximum fully zoomed out even though it covers a longer range.
+-2x mag. factor adversely affects wide-angle capabilities. if you want to go wider than 14mm (28mm film equivalent), you're looking at outlaying  the price of the camera or more for a wide prime or zoom.
+here's the catch: if you want comparable DSLR performance from the oly, you'll have to pay a pretty penny for higher-quality lenses, which really depends on your faith in oly's 4/3rds system, which it shares with panasonic and leica. at first, the 4/3rds selection was sparse, but as of 3/10/2007, olympus has just announced several new zuiko zoom lenses to go with their aftermarket offerings: a 12-60 (24-120 equiv.), 50-200 (100-400 equiv)and 14-35 (28-70 equiv.), all with an ultra-quiet motor oly calls "SWD" (basically serves the same function as sigma's USM or nikon's SWM) and a 70-300 (140-600 (!) equiv.). this shows they are serious about playing in the dslr arena and should inspire confidence among entry-level users that oly's commited to its product line. these new lenses aren't cheap, but with wider apertures (as wide as f/2.0) and quick internal motors, they could rival canon and nikon's offerings. there's still no IS/VR equivalent offered, but the pot just got sweeter, especialy for those who don't want to jump on the canikon bandwagon.
+lens options aside, the E500 is aimed more at the casual user who wants to look like a pro without spending pro dough. More to the point, to really unlock the full potential of this camera, you're going to have to take some time really learning the functions (and maybe researching terms like aperture, shutter speed, and iso). and of course, by the time you figure out the manual, there will probably be a lot more lenses available. for a P&S user who wants to take exhibition-quality shots right out of the box without having to adjust every setting, this isn't the camera for you (that camera may not exist). For a film shooter converting to DSLR, the E500 will deliver adequate-to-very good performance without breaking the bank.
+for the majority of users who want a high-quality, if not super high-end, camera, with some flexibility as far as options, at a value price, the E500 deserves a long look. However, if budget is your primary concern, i'd also check out some fixed-lens superzooms, like the Canon S3 IS Pro (6mp/12x zoom), and the Panasonic DMC FZ50 (10mp/12x zoom), which both have image stabilization, deliver near-DSLR performance, and have most (but not all) of the same functionality as the E500 at a lower price -- hundreds less, in fact. But if faster frames per second rates and having options like super wide-angle, long telephoto, and lower aperture numbers appeals to you, then you'll want to go DSLR. 
+if you do get this camera, make sure you get at least a 2GB card with a fast writing speed, which will improve performance and decrease lag time between shots. also, if you have the loot, definitely consider buying the body only, and starting off with one or two of the premium lenses. with the 12-60 and the 70-300, for instance, it's possible to cover a focal range from 24-600 with only two lenses.

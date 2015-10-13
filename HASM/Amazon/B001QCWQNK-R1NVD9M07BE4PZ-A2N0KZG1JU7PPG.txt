@@ -1,0 +1,17 @@
+ID: B001QCWQNK-R1NVD9M07BE4PZ-A2N0KZG1JU7PPG
+Category: Laptops
+Product: Apple-MacBook-MB881LL-13-3-Inch-Laptop
+ReviewerID: A2N0KZG1JU7PPG
+ReviewerName: White Dove
+Date: June 30, 2009
+Helpful: 0 of 8
+Rating: 3.0
+Title: not great
+Content:
+Disadvantages:
+    * The lowest back light is too bright to be used with the light off at night
+    * Can't download PC only software
+    * Doesn't have the voice transcribing software that Vista does.
+    * The Mac version of Word doesn't preserve the formatting when copy paste with Web texts.
+    * MacBook keyboard is not very easy to type compared to Windows computers. 
+and it's expensive compared to NetBooks that has Vista installed on them.

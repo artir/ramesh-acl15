@@ -1,0 +1,11 @@
+ID: B002PY7OTE-R3K1909ES69I5O-A100UZGZNZ9ZYN
+Category: Laptops
+Product: Dell-Studio-15-6-Inch-Obsidian-Laptop
+ReviewerID: A100UZGZNZ9ZYN
+ReviewerName: M. Cho "Just a PC User"
+Date: December 27, 2009
+Helpful: 5 of 16
+Rating: 1.0
+Title: USB on left side. Terrible processing power
+Content:
+USB ports are on the left side. Unless you have a wireless mouse, I don't see how I can use a wired mouse for poor right handed people. There is no num pad. I have used it for some graphic intensive applications and experienced problems with adjusting between full screen mode and windows mode. I have run a small test to converto 700+ pdf into windows journal file. Disk IO ran so high to the point of locking up the whole OS. I do not value Laptops that can not multi-process Disk IO intensive app with other application. Maybe too much expectation out of laptop? Well if it is more than 1000 dollars, then yes.

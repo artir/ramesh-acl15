@@ -1,0 +1,11 @@
+ID: B0028ACYKE-R2MSHHUYG3ETAH-A2E2N1826662PC
+Category: Laptops
+Product: MSI-X340-021US-Slim-13-4-Inch-Laptop
+ReviewerID: A2E2N1826662PC
+ReviewerName: Thomas C. Nowak
+Date: July 13, 2009
+Helpful: 2 of 3
+Rating: 4.0
+Title: Good video graphics-Good value
+Content:
+The MSI X340 is a good product.  It can run blu-ray video without any problems, handles web browsing and Office applications with aplomb, and sustains a strong and fast wi-fi connection.  The keyboard is indeed a bit mushy, but decent enough.  I did have to manually adjust Slingbox settings to be below the default screen settings.  On the setting "automatic" the HD Slingbox video would (after about 20 minutes) go out of sync with the audio. Now the video stays in sync.  Slingbox does give the single core ULV CPU a good workout since Slingbox tells the user that the CPU is working hard.  The screen of the MSI 340 is very good--clear and crisp.

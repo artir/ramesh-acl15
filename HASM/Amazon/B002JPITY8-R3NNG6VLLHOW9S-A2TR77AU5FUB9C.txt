@@ -1,0 +1,59 @@
+ID: B002JPITY8-R3NNG6VLLHOW9S-A2TR77AU5FUB9C
+Category: MP3Players
+Product: Zune-Video-MP3-Player-Platinum
+ReviewerID: A2TR77AU5FUB9C
+ReviewerName: CJ
+Date: September 17, 2009
+Helpful: 49 of 51
+Rating: 5.0
+Title: Complete Overview
+Content:
+The following is a breakdown of all specs and features available on the ZuneHD.
+ 
+AUDIO:
+ 
+*The ZuneHD supports up to 384Kpbs bitrate WMA, as well as MP3, MP4, M4a, and M4b.
+ 
+I transfer my music to the ZuneHD using WMA Variable Bitrate which gives the absolute best audio quality (save for the impractical lossless audio which can exceed 30MB for a single song). This bitrate gives me the ability to connect the Zune to home theater speakers and have excellent audio reproduction. If using the ZuneHD dock you can even connect the Zune via the optical digital audio for the very best signal transfer. 
+ 
+VIDEO:
+ 
+*The screen's resolution is 480x272 pixels, video ouput maximum resolution is 1280x720 at 15Mbps.
+ 
+This is one area where the ZuneHD truly shines over the ipod. The ipod has a maximum output of 2.5Mbps for video, only 1/6th what the ZuneHD is capable of. This is thanks to the Nvidia Tegra processor. Onboard video is exceptionally clear on the OLED screen, in a direct comparison between the Zune80 LCD screen and the ZuneHD OLED the ZuneHD is the clear winner. The colors are incredible vibrant and far exceed what I was expecting.
+SOFTWARE: 
+*Zune 4.0 software 
+-The Zune software makes it easy to organize and manage your media the way you want. It also features interesting graphic transitions when performing various functions. 
+-The "now playing" tab gives you an ever changing album cover background, or a intuitive slideshow of artist photos and album info based on the song being played. 
+-The Zune Marketplace gives you the option to purchase individual songs for 99¢ each, or whole albums for an average of $9. By far the best option though is going with a Zune Pass, for $15 a month you receive unlimited song downloads plus you get to add 10 songs per month permanently to your collection (you may keep these even if you cancel your membership in the program). The Zune Pass allows you to put all the music you want on up to 3 computers and 3 Zune devices associated with your account. There is truly no other music deal out there as good as this.
+APPS:
+*(or lack thereof)
+The ZuneHD has a limited number of games and apps available, however they are are all free. You get to choose which ones you want to download and install from the marketplace. Currently there are 12 games (my favorite being Audiosurf Tilt) and only 4 available apps (Calculator, Piano, MSN Weather, and Twitter) After an update in November 3D games were added which take full advantage of the Tegra chip.
+RADIO:
+*Built-in FM HD Radio tuner
+One of my favorite features of the Zune has been the radio function, with the new ZuneHD you also have access to HD radio (which is simply digital radio as opposed to analog). HD radio is broadcasted at CD quality sound and is static-free, each FM station that broadcasts HD radio offers up to 3 music channels on their station. If you move out of range of the Digital signal you are automatically switched to the analog broadcast.
+WIRELESS:
+*802.11b/g connectivity (WI-FI)
+-The ZuneHD can wirelessly sync media from your computer saving you the trouble of lugging your cord around, unfortunately it doesn't charge wirelessly :P
+-The internet browser features a touch-keyboard for site navigation however it doesn't currently have flash player support. I wouldn't be surprised to see it added in the near future though (Zune has been notorious for updating firmware and adding features shortly after the release of previous players) Personally the internet browser isn't a big deal to me as I'd rather browse the internet and watch youtube videos and such on a bigger screen. 
+-One of the best wireless features is the ability to stream music through player itself. If you have the Zune Pass you can play all the music you want from anywhere there is wireless internet access, making the ZuneHD in effect a complete portable music library.
+BATTERY:
+*2-3 hours to fully charge
+Battery life is entirely dependent on how you use the device. Video and audio bitrate having wireless on/off etc. all affect how long you can go on a single charge. With low-bitrate media, wireless off, and minimal navigation you can get up to 33 hours of music playback and up to 8.5 hours of video. You can expect to get between 8-16 hours using it under normal operation.
+SCREEN:
+*OLED 3.3 inch (480x272 pixels) 16:9 aspect ratio
+-As I mention in the video section the OLED screen is much better than an LCD screen, the color contrast is literally breathtaking and rivals the color reproduction of my HDTV but on a much smaller scale. The ZuneHD video demo features a plethora of different colors and shows off all the OLED screen is capable of. When watching videos or browsing through music I still havn't gotten over how insanely pure the colors look. Some have claimed the OLED screen appears washed out in sunlight, I viewed it in direct sunlight on Medium brightness and find only a minimal difference between it and my LCD based Zune.
+-The touchscreen features multi-touch and an accelerometer. It is easy to navigate, responds wonderfully to the speed of your finger when scrolling, and precisely selects even on the smallest objects (such as the qwerty keyboard used for web-browsing).
+WEIGHT:
+*2.6 oz.
+The very first thing that you will notice upon handling the ZuneHD for the first time is how insanely light it is. The older Zune 80/120 weighed 4.5 oz. Even the ipod touch weights 4.1 oz. You can stick the HD in your pocket and practically forget it's there.
+OTHER FEATURES:
+*Other standout features of the the ZuneHD 
+-There is almost no bootup time thanks to the flash memory.
+-You can store and view any .jpg picture on the device.
+-The Tegra processor powers premium graphics and transitions beyond what you'd expect from a typical media player.
+-When browsing music you can choose to view by album, artist, song, or genre. The layout under the album category has been improved to near perfection over the simple "scroll down the list" method used in previous Zunes. The new layout starts with a grid of small album covers (12 viewable on-screen at a time) from which you can easily get to the album you want even if you have several hundred. When you click on a small album icon it moves to a more in depth listing which gives you multiple options. 
+-There is a "quickplay" list to the left of the main menu that lets you easily find your most recently added media and most recently played media. There is also a spot to pin your favorites for easy access in the quickplay list. These are all represented by pictorial icons. 
+-Another awesome feature of the HD is how it displays the artist's picture as a background for their music when you view an album or listen to a song, it's just one more ingenious feature that adds to the overall ZuneHD experience. When you are listening to music it will also go into the screensaver mode similar to what is found in the "now playing" area of the PC software, looks pretty sweet.
+CONCLUSION:
+The Zune has come a long way since the original "brick Zune". The new Zune is now thinner, lighter, and more feature-laden than any other PMP on the market today. To fully appreciate it you really need to get your hands on one and try it out. You'll like what you see.

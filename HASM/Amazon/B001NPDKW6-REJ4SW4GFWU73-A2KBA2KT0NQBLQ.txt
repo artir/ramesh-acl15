@@ -1,0 +1,19 @@
+ID: B001NPDKW6-REJ4SW4GFWU73-A2KBA2KT0NQBLQ
+Category: Laptops
+Product: HP-Pavilion-DV6-1030US-16-0-Inch-Laptop
+ReviewerID: A2KBA2KT0NQBLQ
+ReviewerName: Geist
+Date: March 18, 2009
+Helpful: 118 of 123
+Rating: 4.0
+Title: Important things to know about this laptop
+Content:
+1. Bus Speed is 800Mhz. In the laptop world, this would be right between slow and fast. If you a casual user (watch youtube while checking your e-mail and writing a report), this will be sufficient. 
+If you like to do multiple things at once (extended desktop to create dual screen enviroment, move large files to and from external HDs, burn a cd, with video(s) playing and a music production progam running) my recommendation is that you become familar with tweeking your Vista settings or buy a more powerful computer. It's not that it can't handle such lofty requests, it can. It will just be slow/will lock up.
+2. Comes with 4Gb DDR2 (2x2GB). Now, this will be MORE than enough RAM for almost anyone. But what if you dream big and want to be a desktop in laptop's clothing? It's upgradable to 8GB, which is rare for a laptop. For the most part, 8 Gb laptop RAM (2 x 4GB) doesn't exsist. If you can find it, it will be at least $250+. HP Build a laptop states that a 8GB upgrade would be $400. Why would you need this much ram? I cannot say. This may be useful in the future, I do not know. 
+3. Harddrive speed is 5400RPM. This goes back to how much multi-accessing you do. 7200RPM would be nice, but not necessary.
+4. Bloatware. I'm not really sure why this is much of a complaint in regards of any computer. Windows/Control Panel has a build in remove software feature that can remove most software completely in a short period of time. I'm sure that some computers come with INSANE programs that are so integrated into Windows, you must have a court order and holy water to remove it from your life. If you don't like the in house program, there is 3rd party softwere (free & pay) out there that claims to do a more through job cleaning out the gunk.
+5. The Vista experience is rated at 3.8. Just a FYI.
+6. This really isn't a "gaming" PC. It's just not. Spades, No problem. Minesweep until you can't see straight. It's your world baby. Crysis (and if you know what this game is, you know what I'm gonna say next) ain't happpening. BUT, if someone wants to try it on this notebook, please leave a comment on this review and let me know how that goes. 
+7. There is a slot in the PC that holds the mini remote control. On the left side of the laptop. COOOOOOOOOLLLLL! At least I think so.
+8. Do I like this laptop. I do. It's not the fanciest thing on the market, but for the price, it's good.

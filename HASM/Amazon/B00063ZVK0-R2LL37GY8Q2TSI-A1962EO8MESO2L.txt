@@ -1,0 +1,12 @@
+ID: B00063ZVK0-R2LL37GY8Q2TSI-A1962EO8MESO2L
+Category: SpaceHeaters
+Product: Vornado-EH1-0028-06-Digital-Vortex-Heater
+ReviewerID: A1962EO8MESO2L
+ReviewerName: Y. Guo
+Date: November 19, 2007
+Helpful: 10 of 10
+Rating: 2.0
+Title: Temperature sensor not reliable
+Content:
+I bought and used two units for the past two winters to heat up my daughter's bedroom and the master bedroom.  It is very quiet.  However the digital temperature control does not work very well.  When left for the night, it would not control the room temperature effectively (as one reviewer said it stops heating after a while).  If I set the desired temp higher then I'd eventually wake up to a hotter room than I want.
+I opened up the front grill and saw that the temperature sensor wire inside, extending from the top controller board, is only 2.5" long.  Being on top of the heating element (and hot air travels upward), this means the sensor would eventually pick up the heating element's heat and get the reading wrong.  I had to drill a hole on the case near the sensor wire and pull the wire (and sensor tip) out of the case for about 1".  So far it's doing much better than before ... I'll see if it could give me a winter of carefree sleeps or not.  I'm a bit upset that for an expensive temperature control heater, the design is this flawed.

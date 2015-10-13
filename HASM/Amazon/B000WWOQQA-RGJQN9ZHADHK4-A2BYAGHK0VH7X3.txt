@@ -1,0 +1,12 @@
+ID: B000WWOQQA-RGJQN9ZHADHK4-A2BYAGHK0VH7X3
+Category: Laptops
+Product: Pavilion-Notebook-Processor-Lightscribe-SuperMulti
+ReviewerID: A2BYAGHK0VH7X3
+ReviewerName: Book addict "Love to glom"
+Date: September 27, 2009
+Helpful: 1 of 2
+Rating: 1.0
+Title: DO NOT BUY THIS NOTEBOOK!
+Content:
+You purchase this laptop at risk, there is a lawsuit against NVidia for faulty graphics card - Try to purchase a replacement GeForce 8600M graphics, unavailable! In addition - HP used cheap solder on the motherboard which causes components to crash between 1 month to over just 2 years! See the attached link, there are over 77 pages of problems with the pavilion DV9500 laptop and HP'S customer service! Best yet, even if HP's fixed the laptop while in warranty - the problems will happen again within months! And if you're out of warranty, you're out of luck! 
+[...]

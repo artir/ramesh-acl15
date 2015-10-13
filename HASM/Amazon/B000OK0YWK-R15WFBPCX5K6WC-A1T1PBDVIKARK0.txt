@@ -1,0 +1,28 @@
+ID: B000OK0YWK-R15WFBPCX5K6WC-A1T1PBDVIKARK0
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Red
+ReviewerID: A1T1PBDVIKARK0
+ReviewerName: IanMc
+Date: December 21, 2007
+Helpful: 
+Rating: 5.0
+Title: A Worthy MP3 Player
+Content:
+I hate to make the obvious comparison...again.  But since the iPod dominates the personal media player market, every new product is designed as an iPod competitor (for better or worse.)  This is not to say that the iPod is the "best" player on the market, but it does mean that when another manufacturer markets their player, they are trying to make a customer out of someone who would most likely otherwise be buying an iPod.
+So to compare advantages:
+Zune
+-Larger screen (note: players have same resolution, 320x240)
+-Price (current Zune 30 price vs ~$250 for iPod classic)
+-Wireless Connectivity (kind of gimmicky, given 3 play restriction.  New firmware does add ability to sync Zune wirelessly, which too, adds arguable functionality)
+-FM radio
+iPod (Classic, 80GB)
+-Battery Life
+-Size
+-Storage Capacity      
+-Availability of 3rd party accessories
+-Widespread consumer comfort with iTunes.
+In short Zune and iPod have similar feature sets, each with a few small advantages over the other, but at the end of the day both will give the user a similar experience, providing access to a respectable library of music and or video.  The Zunes's primary advantage is one of price, the iPod's advantages being storage capacity and battery life.  The Zune 80 addresses both of these iPod advantages, offering 80GB of storage and 20+ hours of battery life, but approaching the iPod classic's price point (~$250) in doing so.
+Sooo, buy the Zune 30 if you are cool with the relatively small disk size (that is you have a media collection smaller than 30GB, or you only want to take a subset of your library on the road with you.
+On a more personal note...I've had my Zune 30 for 2 months now (but only now, sitting at home over Christmas break, an I bored enough to write about it.)  The Zune has performed well, offering excellent functionality.  The player itself feels solid, and the software seems robust.  It should be noted that the new software (zune 2.0 software (the "new" post-firmware-update software) can be a tad overambitious in managing how music is added to the player, but once you figure out how to work with it, all is well.)
+So yeah, thats the long and short.  The reason I wrote this, however, was to disagree with another reviewer who said that the Zune 2.0 software does not work with Vista.  In my experience, Zune 2.0 works well with Vista.  I have noticed that the software is rather resource intensive, for whatever reason, so this may have something to do with the other reviewer's problem.
+If you think the Zune 30 meets your requirements, give it a shot, I think you'll like it.

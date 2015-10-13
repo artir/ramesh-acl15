@@ -1,0 +1,18 @@
+ID: B0028R6JW6-R2VHFKOP347W6H-A3PD8JD9L4WEII
+Category: Laptops
+Product: MSI-X340-023US-13-4-Inch-Laptop-Silver
+ReviewerID: A3PD8JD9L4WEII
+ReviewerName: Bron "Bron"
+Date: November 30, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Highly portable and great for the price.
+Content:
+When I saw this on sale, I jumped on it. I was looking for something light and handy for everyday use (email, web, etc.). I already have a gaming laptop so I was OK with no gfx card for this unit. I have a netbook which is nice, but the small screen was becoming an issue for me. I felt this 13.4 inch screen, still fairly compact design would hit the sweet spot for me for web surfing and such. And it does.
+The build quality seems fine for the price. Plastic surfaces yes, but nice appearance even so. Everything seems sturdy enough -- not "rugged" by any means, but fine for its intended use.  There is very noticeable keyboard flex, but it's not bad enough to kill the deal for me. The unit looks very nice and is well designed. I like having the vents on the angular wall of the case, as this means they won't easily get blocked when you set it down. It seems to run cool. It gets warm, but not hot anywhere.
+It runs Vista Home Premium fine, definitely good enough for something in the near-netbook/ultra-portable category. I open lots of tabs in Firefox, often multiple windows with lots of tabs, and it does fine.  I would not do video editing on it, but for general use, seems OK.  
+It has a good complement of ports and they are well located.  I get about 3 hrs 20 mins on the 4-cell battery (more in power saver mode).  There's an 8-cell battery option also available.  The display is bright, sharp, colors fine.  Viewing angles typical for this class.  There was very little bloatware on mine (thankfully).
+All in all, it seems very well suited for my intended purpose which is basically a "better netbook" -- I wouldn't be so happy at the original price (not enough processor) but at current prices, I think this is a very good deal.  The mushy keyboard is the low point, the nice 1366x768 13.4" display the high point.  As many have mentioned, its ultra-thin, sleek, sexy design is also a plus.
+I'd give it 3.5 stars if I could due to the keyboard flex and mushy feel, but if you can live with that (and I can) you'll be happy.
+12-30-09  I'm getting used to the keyboard, loving the nice 13.4 inch display and still very happy with this ultra-thin super netbook.
+2010-01-03 Since Amazon is mixing reviews for both the X320 and X340 be aware that they both have exactly the same case and size but the X340 has a faster processor and better integrated graphics.  The X340 plays full screen video better, has an HDMI port and 2 USB ports vs. 3 USB on the X320.  The case, keyboard, display, etc. are identical.  My review above is for the X320.  The X340's better processor and gfx are a plus, but the X320 is fine for web surfing, email, etc.  The X340 is better if full screen video is important to you.

@@ -1,0 +1,11 @@
+ID: B00134VVKU-REZJSM9743JN9-A23NCUIGCL9AZC
+Category: MP3Players
+Product: Coby-MP305-4G-Player-Flash-Memory
+ReviewerID: A23NCUIGCL9AZC
+ReviewerName: Mike from Vernon
+Date: July 11, 2009
+Helpful: 
+Rating: 4.0
+Title: Coby MP305-4G MP3 player
+Content:
+I like the product but it did not include a microphone, as advertised.  It does exactly what I need it to, and it has more space for a lower price than my last MP3 player.  One other thing that I did not like about the MP3 player is that it only mentions instructions for Mac and Windows computers.  However, it was relatively simple to figure out where to copy the MP3's to once I had mounted the player on my Linux computer.

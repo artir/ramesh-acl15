@@ -1,0 +1,19 @@
+ID: B002NEGTU6-RNSFPN70QOLO-A2T1M3D2GDOCOY
+Category: DigitalSLRs
+Product: Canon-EOS-7D-28-135mm-Standard
+ReviewerID: A2T1M3D2GDOCOY
+ReviewerName: Walter Windish
+Date: October 18, 2009
+Helpful: 23 of 25
+Rating: 5.0
+Title: 7D First Impression: WOW.
+Content:
+I've shot film and digital EOS series cameras for quite a while.  The 7D is a huge step up from my 30D.  Here's what I like after a long weekend:
+The 100% 1x viewfinder is a nice change, once I stopped compensating as I did with my 30D.  Also, the overlay screens, like the grid, is helpful in keeping the horizons and verticals aligned without being obtrusive. 
+Although there's been a few rumbles about the on/off switch being moved to the top left, once you get used to it, it is easier to use - I like it.  The lock for the quick control wheel is in approximately the same place.
+The 3" LCD screen is big, bright and beautiful.  There's a big difference, even in brightness.  Less glare, too - noticeably less.  The 7D has a level function which lets you judge if your camera is leaning to one side or tilting forward or back.  Anyone who's peered over a bubble mounted on a hot shoe will appreciate this luxury.  And the LCD is bright enough to make this feature useful in daylight.
+Another nice feature is that the menu structure is changed.  There are more tabs, but all the menu items available on that tab are visible at once.  No more scrolling off the screen to get to "format" or other functions.
+The 7D lets you shoot 3 different sized RAWs in addition to the usual slew of JPEG sizes.  I like shooting the highest quality RAW + highest quality JPEG (so you get two files for each picture).  These files sizes are HUGE!  I found JPEGs to range from 4.73M to 11.1M and CR2 files range from 20.7M to 30.4M.  My 8G Sandisk Extreme IV held 237 shots (474 files).
+Rather than give you my subjective opinion on picture quality (I am totally satisfied with the quality of the photos), I point you to the best technical reviews of cameras that I know of - dpreview.  (Google it and you'll easily find it, I can't post the entire URL).  As of now they just have a preview of the 7D.  I'll post a few shots from Vermont w/ exposure info.
+Oct 31, 2009 Update:  Canon has recently posted a service announcement which reads:  "In images captured by continuous shooting, and under certain conditions, barely noticeable traces of the immediately preceding frame may be visible. This phenomenon is not noticeable in an image with optimal exposure. The phenomenon may become more noticeable if a retouching process such as level compensation is applied to emphasize the image."  Keep your eyes open for a firmware update!
+Nov. Update: The firmware update is now available on Canon's website.

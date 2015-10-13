@@ -1,0 +1,11 @@
+ID: B000VR3P9K-R3CTPL1N46FOH6-A2RF3Z9RK52R2F
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A2RF3Z9RK52R2F
+ReviewerName: Richard "Richard"
+Date: March 15, 2009
+Helpful: 2 of 5
+Rating: 3.0
+Title: Mirror screen really is bad
+Content:
+I'm not very picky.  My last laptop was a G4 "macbook pro" (I don't remember what they used to be called.)  I used it until I finally caved and got this 17 inch macbook pro.  I just picked up the standard configuration my University bookstore carries.  It is fine.  After using migration tool it kept resetting the timezone to GMT and I had to do a google search and run a few terminal commands to fix.  The reason for this review is the screen.  Don't buy it with the glossy mirror screen.  Please special order the matte finish.  I'm not sensitive to reflections but this is crazy.  Any light in the room and you pretty much just stare at yourself in the screen.  I won't return it for this, but I do regret not ordering the matte screen.  I'm certain that Apple will change this screen, it's crazy.  It really is a mirror (did I mention it is a mirror?)

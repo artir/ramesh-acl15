@@ -1,0 +1,14 @@
+ID: B0009U7MV6-R3LYTNSO2SF1X7-ADFCEYA91Q2PQ
+Category: DigitalSLRs
+Product: Pentax-Digital-Camera-18-55mm-f3-5-5-6
+ReviewerID: ADFCEYA91Q2PQ
+ReviewerName: M. K. Buike
+Date: December 27, 2005
+Helpful: 119 of 125
+Rating: 4.0
+Title: Old Pentax lenses can be used with this camera
+Content:
+I made the decision a few months ago that the time was right to buy a digital SLR.  I considered a number of models.  What sold me on this one was that I am able to use my very old, but very good, lenses. [...]  
+I had 4 Pentax ME Super bodies from the 1980's.  My lenses also date from that time.
+The manual was not very helpful in figuring this out.  It does require a setting change and one can shoot in only manual focus mode with aperture priority.  It's very much like shooting with the old ME's but with a 6.3 megapixel digital image as the result.  
+From the menu, go to "Custom Setting," scroll down to "Using aperture ring," set to "Permitted."

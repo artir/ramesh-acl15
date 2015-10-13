@@ -1,0 +1,26 @@
+ID: B000EBA03M-R18VX6FQZMP274-A325NFE19Q9W83
+Category: DigitalSLRs
+Product: Olympus-Digital-Camera-18-180mm-f3-5-f6-3
+ReviewerID: A325NFE19Q9W83
+ReviewerName: David Watson "Generalist, Minimalist, Pragmatist"
+Date: October 30, 2007
+Helpful: 3 of 3
+Rating: 5.0
+Title: Cost effective transition to DSLR
+Content:
+Still not convinced that you need a DSLR? I spent a few years with various point and shoot digital cameras after giving up my old 35mm film cameras in the late 90s. I was using a Panasonic Lumix DMC-FZ5K 5MP Digital Camera with 12x Image Stabilized Optical Zoom (Black) prior to this and while the Lumix's Leica glass is hard to beat, I found the electronics to be a limiting factor in my picture taking.
+I liked what I had heard about Olympus four thirds system:
+http://photo.net/equipment/building-a-digital-slr-system/
+and I picked up the E-500 in a store and really liked the feel - big and solid, which made my hands feel a tad smaller and the camera easier to use.
+Anyhow, if you're not compelled yet, have a look here:
+http://flickr.com/cameras/olympus/e500/
+and browse some of the photos.
+I found a number of things about this camera with the two lens kit to be to my liking:
+1) Excellent low light performance
+2) Usable flash on the camera - more powerful than it appears
+3) Great ISO controls - the ability to limit ISO range and still use auto ISO mode
+4) Excellent LCD
+5) Superlative usability and feel
+6) Works well with Linux - I use Ubuntu 7.10
+My shots are here:
+http://www.flickr.com/photos/davidwatson/sets/72157602802106412/

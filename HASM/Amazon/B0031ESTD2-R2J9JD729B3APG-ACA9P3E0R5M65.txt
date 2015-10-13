@@ -1,0 +1,13 @@
+ID: B0031ESTD2-R2J9JD729B3APG-ACA9P3E0R5M65
+Category: Laptops
+Product: Toshiba-Satellite-T115D-S1120-TruBrite-11-6-Inch
+ReviewerID: ACA9P3E0R5M65
+ReviewerName: Steven A. Turner
+Date: March 12, 2010
+Helpful: 7 of 7
+Rating: 5.0
+Title: Performs well except for HDMI out function
+Content:
+The 11.6 inch laptop performs as well as my desktop, except for two annoying shortcomings. The first shortcoming is the HDMI out (to an external screen or HDMI TV) doesn't function properly unless you run windows 7 in safe mode- and even then, there is no sound. If you uninstall the video driver, the HDMI out functions but its video is jerky to the point of being worthless. This defect has been well documented on the bulletin boards and I have been told by Toshiba technical support they are working on a solution.
+The second shortcoming is that the keyboard-unlike previous versions- is tactile-deficient and since they are on the same plane, difficult to type with.  (Also, some well-deserved complaints center around the touch pad, which seems to be pressure sensitive and difficult to work with.)
+All in all, it is a well thought-out laptop and once the HDMI flaw is worked out, I think it will be a stellar computer.

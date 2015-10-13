@@ -1,0 +1,26 @@
+ID: B0029NYI4A-R1N9IMSVWDLM2C-AOMDJPRN29LGH
+Category: MP3Players
+Product: Sony-Walkman-Video-Player-Display
+ReviewerID: AOMDJPRN29LGH
+ReviewerName: Mercurious
+Date: September 21, 2009
+Helpful: 6 of 13
+Rating: 1.0
+Title: Slacker app is USELESS!!
+Content:
+THE BIGGEST PROBLEM YOU WILL HAVE with the X series Walkman's ability to play Slacker radio will not be the three station limit.  It will be the VERY POORLY EXECUTED refresh capabilities.  It has been a month and a half since someone first posted about this in the Slacker forums and still there has been no help from Slacker or Sony.  Unlike Slacker's own portables, the X will not let you refresh via USB connection.  IT REQUIRES Wi-Fi.  You will drain half of your battery life with every refresh and 9 out of 10 refresh attempts WILL FAIL!  It will take you three hours of effort to refresh all three of your stations (alternating charging and refresh attempts).  I have attempted to start the refresh, put the unit in "hold" mode, and then connect to the USB to keep the unit from discharging.  All four times I tried it, the unit eventually stops the refresh before it is finished and goes into data connect mode. DO NOT BUY THE X for its ability to play slacker radio!  Sony and Slacker are killing a great idea here.  Seriously, search "walkman x" and "slacker refresh" and see for yourself how many people are having problems with this.  Also note the silence on the part of Sony and Slacker in addressing this issue!  Will one of you two companies be responsible and address this issue so I can retract this post?  If I spend $400 on a media player, I would like for the device to work properly with minimal troubleshooting.
+To this point in my comment:
+   1,164 characters
+   3.4% capital letters for required grammar, proper names, abbreviations, and acronyms.
+   6.2% capital letters for strategic emphasis using the shift key only.
+I recently talked to a Sony tech about the issues I have been having with the Slacker refresh.  We could not get it to work.  However, I mentioned that Slacker's own portables allow refresh via the USB cable, and he sounded enthusiastic about it saying that it was a good idea (thank you Slacker).  Here's hoping Sony adds that capability to the X.
+Just to confirm that the Walkman was not set up to do a USB refresh, I also emailed Slacker about it and got the following response...
+Start Response:
+ Subject
+slacker refresh issues on walkman x
+ 
+ Discussion Thread
+ Response (Frank S.)	09/23/2009 10:41 AM
+At this time, there are no plans to offer a USB refresh option for the Sony Walkman, since the connection options available to us are only what Sony provides. For refreshing purposes, we're only able to refresh and load stations over WiFi.
+/End Response
+If someone has figured out how to use the USB refresh application designed for the Slacker portables to refresh the Slacker radio on the Walkman X, please post your findings.

@@ -1,0 +1,19 @@
+ID: B002LF10GA-R2G58DHXIMAHVL-A1TEO38SV1GMMC
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A1TEO38SV1GMMC
+ReviewerName: Guybrush
+Date: September 6, 2009
+Helpful: 17 of 18
+Rating: 4.0
+Title: best netbook out there, but...
+Content:
+I echo all the great things people have been saying about this netbook.  On paper, it has superior specs all the way through compared with Asus eee pc 1005, except battery, but the benefits more than outweigh it!  I've been looking for a netbook for a year now, and this one has a check box on all my features wish list.
+Now for the pain.
+I got the netbook and everything is as I would have hope for, except it was having problems with its wireless connections.  It kept dropping them and the range only works within 1 feet!  I updated the driver, tried all the recommendations on the forums, nothing worked.  I email Acer customer support and they kept telling me the problem is my router, which had been working for the last 3 years with 2 other notebooks in my house.  I connected a USB wifi adapter as a test and it worked flawlessly.  Acer refused to acknowledge that their product is defective so I was left in a bind.  
+I opened up the back panel and took a look at the connection between the wireless card and antenna.  After unplugging them, I notice the metal contacts between them were smashed.  Seems like whoever install this did not snap the connectors on the right angle and then brute force press on it. (they are like tiny coax cable)  Took an hour with a magnifying glass, strong light and needle to re-adjust the metal mess, but was lucky enough to reconstruct it and barely fit it back in.  Now wireless works like a charm.  Also slap in 2GB so now I have 4GB, hopefully give the video a little more space to work with. 
+Other than that ordeal, I'm fairly happy with everything else.  Touchpad is flushed and buttons are not too sensitive, for the most part they work and I plan to get a wireless mouse anyways.  
+Overall, great product, good quality, best bang for your buck.  Similarly spec'ed notebooks at 13.3" runs around $700, this one is a no brainer if you're looking for a netbook.  
+****UPDATE****
+Got my Windows 7 from Acer last week, so I upgraded the OS.  Note that win7 Acer sent is 32-bit, so even after I upgrade the memory to 4GB, it's only taking advantage of 3GB.  There were 2 disc, both DVDs.  I'm sure many users like me do not have a portable DVD drive, so I put it in my other notebook and tried to copy them over to a portable harddrive (there are many other options but i was to lazy to think them through).  The Acer upgrade Kit has problems - the setup does not run for some reason.  I skipped it and run the Win7 disk - asked me to choose between upgrade or clean install.  For whatever reason, I chose clean install, thinking that it will rid all those other junks that Acer put it in the first place.  Well, install went very smooth, and everything old was copied into windows.old.  But I also lost some of the acer apps and drivers, which I had to manually install from the Acer disc.  Not too bad overall - the webcam, touchpad are the essential.  The rest seems to work with Win7 drivers.
+Win7 is FAAAST.  All the videos on Youtube and hulu plays very smoothly compare to running Vista.  Everything just feels snappier.  Now I feel like this netbook is really living up to its full potential!

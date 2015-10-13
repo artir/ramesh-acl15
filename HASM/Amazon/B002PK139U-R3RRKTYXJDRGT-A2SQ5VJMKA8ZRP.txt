@@ -1,0 +1,24 @@
+ID: B002PK139U-R3RRKTYXJDRGT-A2SQ5VJMKA8ZRP
+Category: Laptops
+Product: Lenovo-Ideapad-U-550-15-6-Inch-Laptop
+ReviewerID: A2SQ5VJMKA8ZRP
+ReviewerName: Lardboy
+Date: December 24, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Lenovo Ideapad U-550: Best option for thin and light
+Content:
+Here's the summary of my experience with the Lenovo U-550 
+Pros
+* Combination of 15.6 inch screen and relatively light weight
+* Relatively long battery life
+* Reasonably solid construction
+* More than sufficient for moderate MS Office use and heavy internet/ entertainment use
+Cons
+* Lenovo customer support is a bureaucratic nightmare
+* Numeric keypad occupies right-most section of the keyboard, shifting the remainder of the keyboard to the left
+* Glossy screen and body translates into a grimy appearance due to finger prints
+* Screen will slam shut against the keyboard unless you slow it as it closes
+My previous Dell Inspiron E1505 laptop was near death, so it was time to replace it after ~ 4 years of heavy use.  I was happy with the Dell, but it was a heavy beast that plowed through battery power.  In looking for the replacement, I wanted an impossible combination of desktop replacement like the E1505, but minus the weight, bulk, and limited battery performance of the E1505.  Upon shopping, I was unimpressed with MacBook Pro given the price.  Other Wintel thin and light machines appeared to be cheaply built or with low-quality components/ limited screen size.  The Lenovo Ideapad U-550 stood out to me as a higher quality build with a large screen.  I knew that it came with a glossy screen, but I couldn't find any other comparable machine without this annoyance.  Also the numeric keypad placed on the rightmost section of the keyboard displaces the other keys to the left, which seems unnecessary to me (how many of us really key in data with a numeric keypad?).
+All considered, I am happy with the purchase.  The U-550 is easy to carry around, is good for the intended use (i.e. moderate MS Office use, heavy use for internet, movies, music), and has a reasonable battery life (~4+ hrs under perpetual use, less with a movie/ DVD thrown in).  
+The major shortcoming is Lenovo customer support.  I wanted an additional battery for the U-550 to really cover a 6 hour flight under moderate use with DVDs.  Attempting to get even this simple of a request accommodated through Lenovo customer support was a true nightmare. It took two days of transfers and frustration.  Dell support was much better (but I was not impressed with their thin and light PCs).

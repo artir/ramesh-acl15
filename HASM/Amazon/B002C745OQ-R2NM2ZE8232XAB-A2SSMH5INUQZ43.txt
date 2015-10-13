@@ -1,0 +1,11 @@
+ID: B002C745OQ-R2NM2ZE8232XAB-A2SSMH5INUQZ43
+Category: Laptops
+Product: Apple-MacBook-MB986LL-15-4-Inch-Laptop
+ReviewerID: A2SSMH5INUQZ43
+ReviewerName: The Codifier
+Date: March 3, 2010
+Helpful: 
+Rating: 5.0
+Title: One of the best notebook computers on the market
+Content:
+It does not feel cheap, and it is very FAST. This is a speedy computer in many ways. I run everything from iWork, iLife, Windows with Parallels, Microsoft Office, Oracle Database, FileMaker, Photoshop, Xcode, Visual Studio, etc. If you want a real computer (by the way, Mac OS X is a Unix operating system),  this is the one.

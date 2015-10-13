@@ -1,0 +1,26 @@
+ID: B001G5ZTMM-R7V949HZI1GP1-A1Y85GQ09Y95JL
+Category: DigitalSLRs
+Product: Canon-EOS-5D-Mark-II
+ReviewerID: A1Y85GQ09Y95JL
+ReviewerName: Mitch10 "mitch10"
+Date: March 10, 2009
+Helpful: 10 of 11
+Rating: 5.0
+Title: Happy upgrade from 40d
+Content:
+I do own other p&s cameras besides Canon but admit to only owning Canon DSLRs; I'm kind of tied into the Canon lenses at this point.  I tried an Olympus as that was the brand I use for film, but was not at all happy with their DSLR image quality. As for Canon, I have owned the Rebel 300, 20d and 40d.  The 40d is a great camera and quite usable for the kind of photography I enjoy which is mostly landscape.  I decided to take the plunge and go for a full frame camera despite the price.  I have only used the 5d II about 4 times so far and only twice with the 40d for comparison, but feel pretty confident I can report on the differences.  The 2 cameras are nearly identical in color space and dynamic range not to mention resolution per pixel.  In other words if the image pixel count is the same on both cameras, you would be hard pressed to tell which camera took the picture.  The 5d II just has more pixels.  The 5d II trumps the 40d in several other areas too.  
+* First is the high ISO range; I am very happy with 800-1600 ISO images and I use to only like to settle for ISO 100.  
+* The 24-105L lens becomes a fantastic walk around lens because of the 21mp sensor, images can easily be cropped tight to a distant subject.  
+* My 17-40L is now a true wide angle lens!  
+* Shadows at low ISOs have more depth than the 40d.
+* Lens micro adjustments can make autofocus nearly perfect.  My 70-300 f5.6 back focuses on both bodies, but I was able to easily correct the issue on the 5d II.  I still have to manually adjust on the 40d.
+* The back screen is much more usable; I even started using live view mode for some shots.
+* Because of the resolution and dynamic range RAW images are quite flexible so I don't have to take as many variations.
+* Multiple resolutions to choose from even in RAW.
+* Better weather sealing is comforting as I do take the camera to places where it is misty and damp.
+* I've taken a couple of test movies which look lovely.  I just don't see myself using this feature too often.
+There is always room for improvement so here is my wish list for the mark III.
+* An internal flash for filling in shadows.
+* Frame rate of 5/sec would be nice even though I rarely need it.
+* The ability to select the range for the auto ISO feature; I'd love to be able to limit the range to 200-800 for certain situations.
+* A pivoting back display is something that I miss from my old Nikon point and shoot cameras.  It's really useful when shooting macros or for events where your shooting over people's heads.

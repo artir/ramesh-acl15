@@ -1,0 +1,17 @@
+ID: B0000C6E3B-R143IEQG3CFW5R-A3HCPK54FATFO4
+Category: SpaceHeaters
+Product: Mr-Heater-000-BTU-Propane-Radiant
+ReviewerID: A3HCPK54FATFO4
+ReviewerName: Mike Garrison
+Date: January 16, 2007
+Helpful: 10 of 10
+Rating: 4.0
+Title: works fine except for startup
+Content:
+After using one of the little Mr. Heater "Buddy" heaters, I expected this to be the same only larger. It's not.
+Unlike the "Buddy", this does not have any way to regulate the heat except "on" or "off". Also, it doesn't have a pilot light. Instead, you just hold in a springloaded valve and let gas come out into the heater. There is a piezo sparker that is supposed to light it up, but I have not found it to work very well. However, using a match works OK, and a lighter-on-a-stick (for BBQs and fireplaces, etc.) would work even better.
+But once it is lit, it really works quite well. Radiant heaters don't heat the air directly, so the heat tends to be fairly even by the time the surrounding objects start heating the air. This does take some time, though, depending on the size of the space you are heating.
+Also, unlike the "Buddy", this requires ventilation, both at the ceiling and at the floor.
+Shutoff is done just by shutting off the valve on the propane tank. There is a safety switch, however, which prevents the heater from continuing to pump the place full of propane if the flame goes out.
+This is really more suited to a sheltered environment, like an unfinished garage or a carport, but not an indoor environment (like a house). I have used it in my garage. It's fairly quiet in operation, though it does moan during startup.
+It runs off of a regular BBQ-sized propane tank (or bigger). According to the manual, it will not work properly running from a smaller tank.

@@ -1,0 +1,12 @@
+ID: B00198BBQ4-RNXF4OTGOFRYD-A3SMLOF354KPLQ
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: A3SMLOF354KPLQ
+ReviewerName: Need a DVD/VCR
+Date: February 17, 2009
+Helpful: 3 of 4
+Rating: 2.0
+Title: not bad, but it has the worst touchpad I've ever fought with
+Content:
+In general, the machine has worked pretty well.  I haven't had the problems with reliability some others have reported.  Having to use Vista is a pain, of course -- I truly wish this had come with XP.  I may get a new hard drive and try running with Ubuntu instead.
+But the real deal killer (and why I wouldn't recommend this computer to anyone) is that the touchpad appears to be designed with the express purpose of driving the user insane.  Imagine browsing around, say, at the Amazon site, or at some news page.  You go to drag down the bar at the right to adjust the page on the screen.  The screen starts shifting... then stops.  Suddenly the touchpad cursor is frozen and won't move.  But it isn't broken, it just pauses for an infuriating several seconds, then starts moving again.  This is aggravating in the extreme.  At first I thought it was a hardware problem or maybe dirt on the pad?  But no, the pad is clean, and I checked on another Inspiron 1525 at a retail store and the mousepad on that does the same inane trick.  I really can't imagine how Dell could believe that kind of behavior in a mouse or touchpad could be considered acceptable.  Like I'd be ok with paying extra for a computer with a fast processor but wouldn't mind the touchpad taking coffee breaks on me??

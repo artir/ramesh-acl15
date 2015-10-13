@@ -1,0 +1,16 @@
+ID: B0002T3UOM-R1AA72SSD9TGPI-A3R5951ECAKXMT
+Category: MP3Players
+Product: Sony-NW-E75-Network-Walkman-Digital
+ReviewerID: A3R5951ECAKXMT
+ReviewerName: Mark Spangler "maypospanky"
+Date: January 4, 2005
+Helpful: 8 of 9
+Rating: 5.0
+Title: Great MP3 Player - Sony Now Supports Direct Load MP3
+Content:
+Once and for all this is a great unit.  The only true con has been the Atrac format. Here is your answer.
+Sony is now supporting an MP3 File management utility.  Go to Sony's site and go to support for the NW-E75.  Find the MP3 File Manager Application and run it to automatically load to your player (make sure you unit is connected).  Open 'My Computer' - open the ESYS directory and run the utility.  You will be presented with instructions on how to use the utility to drag and drop MP3 files directly to your player.  You will be able to load and play MP3 files in just a few minutes.
+This is a tremendously simple utility that does direct MP3 transfers. You don't have to load SonicStage.  If you do, the NW-E75 will load and play both file formats.  Just put them in different groups.
+With this new MP3 utility, the Sony NW-E75 is about the smallest, full function, longest battery life unit on the market.  It is well designed and easy to use.  Read the rest of the reviews - they sum it up for you.
+Now for the really good news.  Check out Amazon for the new NW-E99 that is about to release.  It is the same unit as the NW-E75 but will be 1gb memory.  Research at Sony site shows the new model will come packaged with the new MP3 manager.  I can't wait - have one on order already. 
+So for all you folks that say the only con is Atrac3 and the clunky SonicStage software, load the MP3 manager, be pleasantly surprised and try to find something else that might be wrong with a brilliant piece of work from Sony.

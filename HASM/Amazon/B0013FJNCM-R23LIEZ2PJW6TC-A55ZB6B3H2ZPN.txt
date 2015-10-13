@@ -1,0 +1,16 @@
+ID: B0013FJNCM-R23LIEZ2PJW6TC-A55ZB6B3H2ZPN
+Category: Laptops
+Product: Apple-MacBook-MB766LL-Processor-SuperDrive
+ReviewerID: A55ZB6B3H2ZPN
+ReviewerName: E. Stevenson "Heavy Metal Librarian"
+Date: November 21, 2008
+Helpful: 2 of 11
+Rating: 5.0
+Title: Review of the 17" Macbook Pro (Not the NEW 13/15" Macbooks)
+Content:
+This a review of the 17" Macbook Pro listed here, not the NEW 13/15" Macbooks with the total aluminum casings and new touchpads.
+First off, instead of updating the Macbook Pro 17" like the 13/15", Apple decided to make some upgrades, like having upping the processor to 2.5 ghz Core Duo, 2 gigs of RAM to 4 gigs RAM, and the HD to 320 gigs.
+The video card in this machine is the Nvidia Geforce 8600M GT with 512 megs of RAM--whereas the new 13/15" Macbooks have the 9600s.
+The touchpad is NOT the new button-less touch-pad, but it still has the hand gestures.
+The computer has a ambient light sensor that light up your keyboard in the dark and adjust the screen brightness in different lighting conditions. The monitor has a LED back-light, and the finish is glossy (You can the 17" screen with a matte finish, but you'll have to go to Apple for that). The screen is not the same as the new 13/15" ones.
+Why did I get this one? I wanted the highest resolution of 1900x1200 because work with HD video and digital photography.

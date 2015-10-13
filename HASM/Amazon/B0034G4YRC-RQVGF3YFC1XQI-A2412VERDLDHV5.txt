@@ -1,0 +1,11 @@
+ID: B0034G4YRC-RQVGF3YFC1XQI-A2412VERDLDHV5
+Category: Laptops
+Product: Gateway-NV7923u-17-3-Inch-Laptop-NightSky
+ReviewerID: A2412VERDLDHV5
+ReviewerName: Jim R. Cummins
+Date: April 11, 2010
+Helpful: 
+Rating: 4.0
+Title: Gateway NV7923u got it right this time
+Content:
+For a price of $680 this Gateway laptop (by Acer) got it right this time.  This is a very fast computer - with an Intel Core i5-430 processor and fast memory, the overall Passmark rating is 950 with the CPU at 2625, memory at 911 and graphics of 245 and 340 for 2D and 3D respectively.  This laptop could be a credible desktop replacement.  The screen resolution is 1600X900, but watch out for a few models that have a lower resolution in the same screen space.  World of Warcraft runs acceptably but I haven't tried any others yet. So far I don't have any complaints.

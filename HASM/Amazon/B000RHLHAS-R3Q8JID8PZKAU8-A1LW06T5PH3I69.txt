@@ -1,0 +1,12 @@
+ID: B000RHLHAS-R3Q8JID8PZKAU8-A1LW06T5PH3I69
+Category: SpaceHeaters
+Product: Honeywell-HZ341BL-Ceramic-Heater-Remote
+ReviewerID: A1LW06T5PH3I69
+ReviewerName: Lawrence
+Date: January 20, 2009
+Helpful: 1 of 1
+Rating: 2.0
+Title: thermostat does not work, remote control button overly sensitive
+Content:
+As others have mentioned, the thermostat only measures temperature in the immediate surrounding area. So it shuts off constantly when in thermostat mode.
+The remote is a nice feature, but the button is overly sensitive: a little touch may make the heater go through the whole cycle of turning off, turning on.

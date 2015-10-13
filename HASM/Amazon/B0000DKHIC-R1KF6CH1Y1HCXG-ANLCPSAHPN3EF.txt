@@ -1,0 +1,13 @@
+ID: B0000DKHIC-R1KF6CH1Y1HCXG-ANLCPSAHPN3EF
+Category: SpaceHeaters
+Product: Honeywell-HZ-338-Sure-Set-Ceramic-Oscillation
+ReviewerID: ANLCPSAHPN3EF
+ReviewerName: yndyan
+Date: January 8, 2007
+Helpful: 8 of 9
+Rating: 2.0
+Title: Automatic Mode Useless
+Content:
+Got one of these today.  Thot the other guys that had this problem were just unlucky, and decided to trust the Honeywell name.  Boy, was I wrong.  SureSet, my foot.  The thermostat in this device does indeed seem to be measuring the temperature of the unit itself, although not the actual element, maybe the heated plastic body.  I do not recommend that anyone buys this heater if they want to use the automatic mode.  It functions well in the high and low constant heating mode.  I have a lasko 5365 heater as well, that works well in all modes.
+Update:  Lasko 5365 is displaying same odd thermostat behaviour, I am beginning to think this behaviour is a product of the environment where the heater is used, and not just poor manufacturer design.
+Update 2: Confirmed that 5365 thermostat works fine if heater placed in middle of open space to be heated as opposed to against a wall.  HZ-338 thermostat performance doesn't seem to improve when in open area.

@@ -1,0 +1,15 @@
+ID: B001GCTT7G-RWW02FYAIIJLJ-A1F1OB9SDH5QBQ
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A1F1OB9SDH5QBQ
+ReviewerName: D. Nguyen
+Date: October 29, 2008
+Helpful: 7 of 11
+Rating: 4.0
+Title: Very nice, but perfectionists will always complain...
+Content:
+I ordered the standard 2.0ghz aluminum Macbook and received it last night.  Immediately it was powered up and explored and everything works perfectly, although calibration of the display was not as easy as my PowerMac on a Cinemadisplay 20".  
+This morning after using the Macbook at work and turning it off, I noticed several white "specks" on the screen, one near the camera, another 1" away from the left border at the center of the screen, and another 2" diagonal to the right of the "Macbook" logo.  I attempted to first blow the specks off which didn't work, so I attempted to wipe it with the cloth included in the box.  That didn't work either.  It turns out this is dust BEHIND the glass.  I have owned several other laptops prior to this, and this is the first time I am experiencing a problem this small yet this obvious.  For a perfectionist such as myself, it is a pretty big deal (Amazon rectified the situation for me).
+Besides that, this laptop is probably the most solid feeling laptop I have ever felt.  It is heavier than my last laptop (XPS M1330 which was also solidly built) but slightly thinner.  The screen is super glossy, but so far I haven't had a problem with it.  The trackpad takes some getting used to because it is hinged at the top edge, so if your finger has moved to the top edge you have to remember to move your finger away from the top edge to actually click it.  The new multi-touch features for Expose and whatnot are cool, but I'll always take a real multi-button mouse over a touchpad anyday.
+Disappointed that I have to purchase a mini displayport adapter from Apple in order to use it with the Cinemadisplay rather than having the option of purchasing non-proprietary stuff.  
+Overall, if you're looking to switch to a Mac and are willing to spend a little more than a comparably equipped PC, the base Macbook is the way to go.  The reason I didn't go for the higher end Macbook, I don't need the HD space (I have a 1TB PowerMac server at home) or illuminated keys, and don't do anything that requires .4ghz more power. If you really want a deal, look at the white (non-Alum) Macbooks...those are a steal lately!

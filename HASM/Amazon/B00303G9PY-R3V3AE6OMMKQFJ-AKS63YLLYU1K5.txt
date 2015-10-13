@@ -1,0 +1,13 @@
+ID: B00303G9PY-R3V3AE6OMMKQFJ-AKS63YLLYU1K5
+Category: Laptops
+Product: Acer-Timeline-AS4810TZ-4183-14-Inch-Olympic
+ReviewerID: AKS63YLLYU1K5
+ReviewerName: D. C. Eaton
+Date: April 20, 2010
+Helpful: 
+Rating: 5.0
+Title: Very Portable and Good Battery Life
+Content:
+I wanted light weight, long battery life and a 14 inch screen.  This is not the fastest laptop, nor does it have the largest screen.  If you are looking at this laptop you should instead be interested in light weight and long battery life.  According to the specs it should weigh 4.2 lb, but on my digital scale it actually weighs 4.5 lb. Well, it is close to specs, and this is about as light as you can get with a 14 in screen and a DVD drive.  So I did not deduct a star.
+Battery life is a bit more complicated.  If you are doing Microsoft office stuff (like Word, PowerPoint, Excel, etc) and have the screen dimmed to the default level, then it will last greatly in excess of the claimed 8 hours! The Acer battery monitor actually claims about 12 hours!  I am not going to wait that long to test it out so I take 12 hours on faith.  On the other hand, if you are watching a DVD movie, then it will last about 4-6 hours (depending on the screen brightness).  This is still pretty good compared to most laptops in this price range. Another thing that drains the battery is a lot of hard drive activity, such as installing a program, but again 6 hours should be achievable.
+The CPU has reasonable power.  It will run ordinary applications, music, DVDs and surf the web without problems and an apparent speed equal to my quad core desktop.  It, of course, does not actually run as fast, but without a stopwatch to check it appears to.  If you start doing considerable multitasking or especially try to do a graphics intensive game then you will be disappointed.

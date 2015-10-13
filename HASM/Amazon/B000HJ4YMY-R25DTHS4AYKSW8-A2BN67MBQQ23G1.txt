@@ -1,0 +1,15 @@
+ID: B000HJ4YMY-R25DTHS4AYKSW8-A2BN67MBQQ23G1
+Category: DigitalSLRs
+Product: Nikon-10-2MP-Digital-18-55mm-Zoom-Nikkor
+ReviewerID: A2BN67MBQQ23G1
+ReviewerName: FredM
+Date: August 16, 2007
+Helpful: 36 of 36
+Rating: 4.0
+Title: Which Nikon 10.2MP Camera to Buy?
+Content:
+Nikon has muddied the waters about, and now offers no less than three digital SLR cameras that use the same basic imager -- the D200, D80, and D40x. Which should you buy?
+This D80 is smack in the middle, and packaged with a useful lens that's also middle-of-the road in its applications.  Appropriately, the D80 may be the best choice for those who have graduated from the point-and-shoot/snapshooting phase, but aren't ready for a more semi-pro camera.
+D40x -- Uses the same 10.2MP sensor, but is smaller than the D80.  It produces similar image quality, but has the limitation of providing autofocus only with AF-S and AF-I lenses (or other lenses from third-party vendors that have autofocus motors built-in.) If you own an existing complement of lenses that aren't compatible, you'll want to pass on this camera.
+D200 -- Larger than the D80, it has more water-resistent sealing, and uses a four-channel readout from the sensor, so it's capable of 5 fps bursts in continuous shooting mode.  The D200 is much more customizable, has shooting banks to store sets of settings, and will provide metering in both M and Aperture-priority modes with older, non-"cpu"-equipped manual focus lenses. This camera might be your choice if you're shooting a lot of sports, have older lenses, and want to be able to customize your settings.  The D200 uses Compact Flash cards rather than the SD cards used by the D80 and D40x.
+D80 -- This camera has many of the features of the D200 in a smaller package, but with a slower 3 fps burst rate.  It's a camera you won't easily grow out of, is simple to use, and provides excellent image quality.  It makes an excellent "first" D-SLR.

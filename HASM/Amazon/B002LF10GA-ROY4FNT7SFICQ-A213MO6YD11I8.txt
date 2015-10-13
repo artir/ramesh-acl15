@@ -1,0 +1,24 @@
+ID: B002LF10GA-ROY4FNT7SFICQ-A213MO6YD11I8
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A213MO6YD11I8
+ReviewerName: N. Skinner "Ranthil"
+Date: January 12, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Small, lightweight package with none of the netbook limitations
+Content:
+Having used a variety of laptops, from the Apple MacBook Pro MC118LL/A 15.4-Inch Laptop, to a 10" netbook, the Acer AS1410 has quite a few things going for it.
+Pros:
+1) (Mostly) Full-sized keyboard.  Still getting used to it, but it's not a challenge like smaller keyboards.
+2) Processor.  While it's not the 3Ghz processor I'm used to in my desktop, it beats the heck off of netbooks which were sold in early-mid 2009.
+3) Screen-size and resolution.  11.6" vs 10.1" might not be a huge difference in terms of overall size, but the resolution (1366x768 vs 1024x600) is enormous (about 64% more info).
+4) Weight. Hardly even notice when its in my backpack.
+Cons:
+1) Battery life.  While 6 hours is good, it's nothing like what the ASUS UL20A-A1 Thin and Light 12.1-Inch Silver Laptop - 7.5 Hours of Battery Life (Windows 7 Home Premium), or the ASUS Eee PC 1005HA-PU1X-BK 10.1-Inch Black Netbook - 10.5 Hour Battery Life can put out.
+2) Trackpad is small.  I'm still divided on this thought, but it would have been nicer to see a little bit smaller keys and a larger trackpack.  Or a different design on the battery, allowing the keyboard to be placed farther up, allowing more room.
+Neutral:
+1) No CD-ROM/DVD-ROM drive.  Both good and bad, as it saves weight.  However, I had to purchase one to install essentialls, such as MS Office.  This raises the price ($50, which isn't too bad), pushing it closer in cost to fuller-sized machines.
+Overall:
+Battery life, with judicious use, can cover most of a day without being plugged in.  The processing speed has been sufficient so far, with snappy loading of applications and reasonable boot-times.  I'm awaiting my Samsung USB 2.0 8x DVD Writer External Optical Drive for Mac and PC SE-S084C/RSBN (Gloss Black) so that I can put it through its paces with several excel macros.
+It is perfect as a supplemental machine, but would for most users prove an unsatisfactory experience compared to a larger and more powerful laptop.  However, unless longevity without power is critical, I would highly recommend the laptop, especially given its low cost.

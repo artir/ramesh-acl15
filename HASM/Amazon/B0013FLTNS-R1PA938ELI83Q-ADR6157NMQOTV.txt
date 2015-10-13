@@ -1,0 +1,15 @@
+ID: B0013FLTNS-R1PA938ELI83Q-ADR6157NMQOTV
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: ADR6157NMQOTV
+ReviewerName: G. Powers
+Date: September 14, 2008
+Helpful: 1 of 1
+Rating: 5.0
+Title: Everyone should own it...
+Content:
+This is not just an appliance computer, as some Windows fanboys would have you believe.  I work with computers for a living, which means everything from RHEL file servers, to Windows Citrix servers, and everything in between.  The nicest part about the Macbook Pro is the fact that this machine can either be just an email appliance for your wife or mother-in-law, or a serious Unix machine and professional workstation (read: command line tools, development, audio production, multimedia production such as photoshop, etc.).
+Both my wife and I bought identical machines (Macbook Pro, 15" matte screen, 2.4 Ghz Processor, 2 GB RAM, 200GB HD, etc...), and we both absolutely love these machines!  
+Besides the fact that they are just amazing to use on a daily basis, the fit and finish is beyond compare (IMHO) to any other laptop on the market (aluminum case, great lcd, decent video card...although beware to NVIDIA GPU CUDA developers, the 8600 mobile chipset isn't the best...still decent, but there are better for strict GPU computation)
+As with anything, there are cons to this machine....first and foremost, it runs HOTTTTTT!  The case is aluminum, and therefore conducts heat amazingly well.  When running vmware inside the Mac OSx, the computer will become incredibly hot. Second thing that I personally find rather disappointing is the web based multimedia capabilities out of the box...quicktime just isn't up to par with Windows Media Player.  And finally, the lack of support for mainstream games can be a little annoying, but running windows xp under bootcamp usually solves this issuee...although, I don't like that I have to boot into another OS to play games.
+Anyway, overall, I would say that everyone should seriously consider owning this machine.  The price is a bit high for most people, but I can honestly say that I would have happily paid another $500 for this machine, as I believe that you get what you pay for, and Apple has done a great job when engineering the MacBook Pro.

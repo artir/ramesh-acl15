@@ -1,0 +1,12 @@
+ID: B0017J7T7A-R3CNKDU9J0OQ3S-A3DVBNH1PCYJLM
+Category: Laptops
+Product: Apple-MB471LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A3DVBNH1PCYJLM
+ReviewerName: C. Johnson
+Date: January 30, 2009
+Helpful: 6 of 6
+Rating: 5.0
+Title: Awesome
+Content:
+This is the most awesome laptop I've owned yet. Amazon got it to me fast and its been working great for weeks.  Wouldn't want any other laptop, at least for a few more years.  I actually use the 2 GPU option more than I thought I would, I can pull 4 or 5 hours of battery life when I have it set to use the Geforce 9400 (Better Battery Life option), and get much better video performance when I switch it over to use the Geforce 9600 (better graphics performance option).  Can't go wrong with this thing, but remeber by default its set to use the lower end video.  I also love how this laptop is so small and thin, much smaller next to most 15" laptops I've set it next too, including an older Dell I have.  The glass touchpad is also totally awesome (and I normally hate touch pads), I wish they'd make an external USB one that I could use on other computers, beats any other type of mouse I have ever used in the last 20 years, its basically the same tech as used with an iphone and ipod touch.
+I did find a bug, others have complained about on some boards, sometimes after using Sleep mode a lot, the fans will not get faster as the laptop gets hotter, which can lead to overheating and damage.  When using the high end video, which is when it mainly gets too hot, I always reset the SMC first, so the fans will work right.  You do this by turning the machine off, holding down the Shift, Control, and Option keys on the LEFT side of the keyboard, then pushing the power button, you can then let that all up, and then turn on the machine and the fans work fine until sleep is used again.  I expect sometime or another Apple will have a firmware update to make the SMC controlling the fans more reliable.  You can also download a free program called SMCfancontrol, where you can manually control your fans to make them spin faster for heat purposes if needed... but I've never even needed to worry about it when its using the low end 9400M video.

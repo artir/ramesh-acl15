@@ -1,0 +1,11 @@
+ID: B002PAQXCW-R2DYZH4NX5SU4L-A1HS11O0GNTDEW
+Category: Laptops
+Product: ASUS-G51J-A1-15-6-Inch-Gaming-Laptop
+ReviewerID: A1HS11O0GNTDEW
+ReviewerName: Dave
+Date: January 28, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Awesome Gaming Laptop
+Content:
+I've had this laptop for about 4 months now and I love it. It plays all my CnC games on the highest video settings and plays very smooth. I love having two hard drives so  I can keep backups on one. I also use virtual pc's and they work great on Window's 7 64bit. I can have a vpc running with Sql Server working on SSIS/SSAS packages and leave it running while I switch over to war gaming for the night. Best laptop I've owned so far including Alienware which costs almost twice as much if you configure it like this one.

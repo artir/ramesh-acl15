@@ -1,0 +1,18 @@
+ID: B001IAHY6O-R370MUCEX7GIQ-A2NA41EE5VUMY0
+Category: Laptops
+Product: Dell-M1530-Widescreen-Fingerprint-Integrated
+ReviewerID: A2NA41EE5VUMY0
+ReviewerName: Jacob C. Enholm "jenholm"
+Date: March 3, 2010
+Helpful: 1 of 1
+Rating: 1.0
+Title: Big Mistake
+Content:
+I bought a XPS M1530 with Vista OS last April. Big mistake.  Reasons:
+1) 8 months after purchase a file in my user account was corrupted and my user settings were wiped out. My data was still in there, but sorting things out was not easy.
+2) Development was a pain in the butt because if I didn't have a network connection, the system would not connect to my on-board web application server. Surprise!
+3) User account control was kludgy with file access permissions. OK this is Vista...but not my problem Dell.
+4) Vista. Enough said. Had to buy it for a job. Way to go Bill!
+5) Hard drive is constantly checking itself for consistency. Errors in the hard drive bitmap. Probably because its a crappy hard drive.
+6) Left part of case is separating from hinge...probably because of crappy workmanship.
+Even with Windows 7, XP or Linux I wouldn't buy another box like this...it's an all around piece of junk. Not what I'd expect for an XPS system.

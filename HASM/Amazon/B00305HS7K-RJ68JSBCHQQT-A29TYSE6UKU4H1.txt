@@ -1,0 +1,26 @@
+ID: B00305HS7K-RJ68JSBCHQQT-A29TYSE6UKU4H1
+Category: Laptops
+Product: Toshiba-Qosmio-X505-Q880-TruBrite-18-4-Inch
+ReviewerID: A29TYSE6UKU4H1
+ReviewerName: T. Crowell "Independent Thinker"
+Date: April 13, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Possibly the best purchase I've ever made.
+Content:
+Unboxing a new laptop is usually a good indicator of how your overall experience is going to be with it: I couldn't ask for more.  Not only was the laptop packaged securely, it wasn't over-packaged.  The box is just big enough to ensure safe shipment while small enough to save for the length of the warranty should something bad happen to it.
+Once it was setup and turned on, I was blow away by the speed of the Solid-State Drive.  Windows 7 started quickly and the registration process was as painless as I've ever remembered.  There's even a wizard that assists you in migrating the user folders from the SSD (C:\) to the ample 500GB SATA (E:\) hard drive.
+The controls on the left hand side of the massive keyboard (with full 10 key) are easy enough to find, sometimes by accident, but that's more due to my massive hands.  The buttons (or just the way they beep when pressed) are easily turned off, if you like, in a Toshiba provided configuration utility.
+The sound is awesome: The speakers are clear and non-tinny with lots of mixer/effect options.  Headphone support is as good as you could ask for with 1/8" jacks for input and output.
+Video, of course, is as luxurious as you'd expect from 18.4 inches of LCD glory at 1900x1080 full-HD resolution.  I have an HD LCD TV I intended to use with the HDMI port, but honestly I'd rather have the upconverting DVD/Bluray experience all to my self on this screen.
+Speaking of ports, this computer is LOADED with them. 3 regular USB ports give you room for all sorts of devices while a shared eSATA/USB port will charge external devices (iPods, cell phones, etc) even when turned off.  The IEEE-1394 port is great for the firewire devices I still have and the media card reader makes moving digital images from my CD cards a breeze.  The Bluetooth sensor found my external mouse immediately, freeing up a USB slot for that adapter!
+The touchpad has a distinct texture from the palm rest, and it's very finger friendly. If you use an external mouse like I do, the touchpad can be disabled with a button right above it, again perfect for my hands.  The keyboard is backlit and lacks the loud "clicky" sound when used.
+6GB of DDR3 ram makes this thing fly through applications.  Then with 1GB of DDR5 (yes FIVE) ram on the newest nVidia 360M video card, you have system/graphic performance better than most full sized PC's.
+The things this laptop has against it are small, but worth noting to help people make up their minds.
+The palm rest and top of the LCD lid are shiny: If you have greasy hands, you'll smudge the case quickly. Even if your hands are clean, after a few days you'll want to give it a quick wipe down.
+The weight is heavier than other laptops, but lighter than most of the gaming/video editing/graphic design desktops I've used that this computer outpaces.  Still, if you're looking for a computer you can port around like nothing, this machine may be too heavy for you.
+The 64GB SSD gets filled quickly if you don't save files to the SATA hard drive.  The SSD is a standard form-factor, and can be upgraded with relative ease, but provided you use the massive 500GB drive for your files and programs, it's not too small in the least.
+The availability is bad.  Toshiba simply cannot keep up with the demand for this computer.  As a result, prices are $300 to almost $400 higher than Toshiba's factory direct price.  Unfortunately if you want one in stock now as opposed to the now 6 week wait for one to be built, this is your only choice.
+My personal gripe is that while the i7-720QM processor is fast, the i7-820QM processor is available on the market, and the i7-920QM is appearing on the scene.  The plus side is that you can upgrade the processor (and SSD) as the form-factor for the processors does not change with the model.  If a Bluray burner is ever released, I'll be upgrading that too.
+As there are no 4.9 star ratings, I'll just have to give this computer 5.
+I am blow away, and very happy indeed.

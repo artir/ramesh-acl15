@@ -1,0 +1,18 @@
+ID: B002P3KMVC-RVYL0RSHDODV0-A5TOZ705EA6LC
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A5TOZ705EA6LC
+ReviewerName: Oun J. Kwon "kwonbook"
+Date: November 9, 2009
+Helpful: 9 of 16
+Rating: 4.0
+Title: A very good choice so far.
+Content:
+I chose 13" display with no built-in optical drive for better mobility. I needed an external optical drive as well to use for my HP desk top computer which has now a non-working Toshiba internal optical drive. I had to choose a black model (a silver one costs $100 more). It arrived today Monday from Amazon just 4 days after I placed the order, even faster than books I ordered at the same time.
+I don't have to list all the good points this unit has. I used once a Dell notebook many years ago, but it was a different ball game then - simply small size but way too heavy. 
+To replace the desk top which has been giving me much of heartache and headache with Vista and 1GB memory (a pathetic combination), I looked for one which can last till my last day (I'm old). So far, nothing comparable to this one with ultra low power consumption could be found on their product list of HP or Dell. 
+For every day use, the mouse button of this model needs improvement. Too much force it requires. However, it has a saving feature to compensate - 'light tap' in the center of the touch pad area does work same as the left mouse button. Single button design with pressing on the left and right halves of the button is too gimmicky. I am not fond of a touch pad. At home I will be using a mouse and a separate keyboard ([...] to use Dvorak layout, a full size but light and very compact in size). (Cf. HP netbook which I saw has better mouse buttons. Gateway Netbook has it much worse. The button sits too deep in the well, the thumb gets hit by the wall.)
+Curiously, there is a warning sticker on the back, saying the lamp in the display contains mercury. Is it true? I wonder why LED needs mercury, when it boasts that the display is LED-lit to save power and give more brightness.  
+To earn 6 stars on this model, it needs (1) lighted keys (at the least a few), (2)redesigned mouse button, (3) optional availability of solid state drive (I would pay more for 64 or 128Gb SSD instead of such a generous 500gb Hard Drive it has), (4) take off VGA output connector (since it has HDMI connector. A monitor can be connected to USB with a special cable; or with a regular USB cable to a monitor with special feature. One downside of this is that, until USB 3.0 becomes available, it is not optimal for fast video playing in high definition.)
+There is no instruction how to register the product for customer support. Accidental damage warranty offered could not be registered online (why?). I have to send it by mail. Printed User Manual could have been just a little more detail. (Of course, there is a full manual in PDF file loaded in the computer, but it would be nice to show labels on the indicator lights as well as buttons and connectors. What to do with the battery charge - how to tell how much power remaining, how long it would take to charge (actually my unit must have been fully charged), whether I have to drain once completely at the beginning (some one told me to do this), etc.
+As to ASUS, I am aware that it has been a refutable producer of motherboards and the first one coming out creating a whole new class of netbooks as we know of. Congratulations and thanks to ASUS. I hope their service is as good as their product. Of course, if I don't need any service, it would be the better.

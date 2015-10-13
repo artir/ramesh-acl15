@@ -1,0 +1,15 @@
+ID: B002SJ38KK-R240WZNEP32BK6-A93NUQAQIGU6G
+Category: Laptops
+Product: Acer-Aspire-AS1410-2954-11-6-Inch-Notebook
+ReviewerID: A93NUQAQIGU6G
+ReviewerName: Flippers
+Date: October 23, 2009
+Helpful: 25 of 32
+Rating: 5.0
+Title: Netbook or Notebook? Rose by another name!
+Content:
+Technically a Notebook according to Intel and Microsoft, but priced like a Netbook.  Intel and Microsoft won't allow more than 1G DRAM and 160G of HDD in a Netbook and they MUST load Windows 7 Starter and they MUST have an ATOM.  
+If it is a "Notebook", based on a Celeron, there aren't any restrictions and they are ALLOWED to pay extra and load Windows 7 Home.  In this case, it looks like Acer made a great deal on Win 7 Home and the Celeron big  brother to the ATOM.  Plus it has just enough better graphics to run Win 7 home.  Most ATOM 270 or 280 units don't have the graphics strength.
+Maybe it's just marketing on Intel's part, but look up the ATOM and Celeron family trees in Wikipedia to better understand what is going on here.  
+This is a rose by another name and such a deal!
+Another option is the Acer AS1410-2285 which has a dual core Celeron but a 160GB hard drive instead of 250GB. It's a trade off, but either is a good buy vs. the typical netbooks that are available with Win 7 starter.  The Acer units have twice the DRAM, a little bigger screen, a "real" Win 7 O.S. and much better graphics than any of the similarly priced netbooks.

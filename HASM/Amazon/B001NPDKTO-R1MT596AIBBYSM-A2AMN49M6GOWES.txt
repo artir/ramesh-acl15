@@ -1,0 +1,16 @@
+ID: B001NPDKTO-R1MT596AIBBYSM-A2AMN49M6GOWES
+Category: Laptops
+Product: HP-Pavilion-HDX16-1140US-16-0-Inch-Laptop
+ReviewerID: A2AMN49M6GOWES
+ReviewerName: Gilberto Estrada "GIESGO"
+Date: December 21, 2009
+Helpful: 
+Rating: 2.0
+Title: Computer Quick Launch buttons wont work on 32 bit windows systems
+Content:
+I have been using this computer for about 1 year and below are my consideratiosn:
+Pros: 
+The PC has a very nice look, the extended keyboard makes your life easier(when you use the integrated numeric keys), it has 4 USB ports, 1 Ethernet, Wireless AGN and BT, firewire port, SD card Reader 5 in 1, 1 PCI expansion port, and in the internal it has a 500 GB HDD, 4 GB of RAM memory, up to 512 graphics card, integrated microphone and webcam.
+Cons:
+If you plan to work in low light conditions the blue lights are a problem and the ventilation system does not works great, your laptop will sound like a running car, I recommend a base ventilation extra.
+When working with windows 32 bit systems, the quick launch buttons does not work, neither the HP Tone Control Utility for the treble bass, I asked HP Support and they told me that the QLB only works in 64 bit edittions.

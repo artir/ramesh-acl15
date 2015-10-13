@@ -1,0 +1,13 @@
+ID: B0034H2YNM-R1B1A078N286SU-A264BBIB0LCTTS
+Category: Laptops
+Product: UL80Vt-14-Inch-Light-Laptop-Silver
+ReviewerID: A264BBIB0LCTTS
+ReviewerName: HistoryGuy "HistoryGuy"
+Date: January 5, 2010
+Helpful: 
+Rating: 4.0
+Title: Does everything I want it to
+Content:
+Like other reviewers, I do have one small gripe.  Something about the way I type causes me to drag the edge of my palm over the top right corner of the touchpad, which means I will be typing and then get some sort of random click or selection on another part of the screen to mess me up.  The problem isn't that big a deal, because you can disable the touchpad with FN+ one of the F buttons (F8 maybe).  I use a wireless mouse with it and it works fine.
+That's it.  The screen is fine, comparable to other laptops I've owned (Dell Inspiron 1505, Qosmio X305), the key board is better than most (other than the track pad issue), it is definitely light enough for carrying around (fits well in my bag with at least 3 other books, something that was nearly impossible with the 15 inch Dell), Windows 7 is working perfectly, and the turbo mode+discrete graphics works well for both newer and older games.  Plus I have managed over ten hours of internet and typing use with wi-fi on the entire time (screen brightness turned down, turbo off, integrated graphics--still runs with very little lag unless multiple image docs open).  Build quality is much better than the Dells or HPs I looked at, not as good as the heavier materials used in Mac Book Pro or my giant gaming desktop replacement (although it is definitely lighter than both, which is a different kind of plus).
+To get this performance from any other laptop would demand either paying way more or sacrificing battery life or graphics.  The only thing I know of that has a similar combination of battery and graphics would be a Mac--I don't want to pay an extra $400 only to have to buy Windows to be able to dual boot and also their warranty.  Two years of warranty plus a year of accident replacement at $725 is an amazing deal! (Although the $100 gift card promotion is over, so the price has gone up since then)

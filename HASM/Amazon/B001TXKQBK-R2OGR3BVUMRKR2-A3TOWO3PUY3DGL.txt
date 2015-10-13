@@ -1,0 +1,64 @@
+ID: B001TXKQBK-R2OGR3BVUMRKR2-A3TOWO3PUY3DGL
+Category: DigitalSLRs
+Product: Olympus-Digital-Stabilization-14-42mm-40-150mm
+ReviewerID: A3TOWO3PUY3DGL
+ReviewerName: -Ashi-
+Date: October 4, 2009
+Helpful: 17 of 18
+Rating: 4.0
+Title: Nimble Beauty and a Complex Beast
+Content:
+REVISED for 2010!  :-)
+Are you stepping up from an P&S and got baffled?  No, you're not alone.  That's where I was (and I already knew how to use Manual mode!).  Hopefully this guide will make the transition from a P&S to E-620 easier and start shooting better pictures.  
+First of all, here is what I think of e-620.
+Very compact, like a good old 35mm film SLR camera.  The built quality is like a tank.  Everything is well assembled together and doesn't feel like something will turn loose at any moment.  It is NOT weather proof, but it feels that way.
+Olympus's lens collection is top notch.  I read many reviews and saw many sample pictures from users before I made the commitment.  I believe you get the best bang for the money with Olympus.  I purchased a lens (Zuiko 14-54MM 2.8-3.5 II) along with the body-only option, and shot some baby portraits and landscape pictures.  From the baby picture, I can see the glistening of his eye brows where sun shined.  The detail is simply amazing.  Nothing is perfect, so please read my review on that lens for a more complete view of the combination.  It's very impressive overall.
+Tips:
+1.  Try to play with your camera first and see what each button does before move on.  Take a few pictures to get a feel.  Use Pg. 2 and 3 of the manual to locate where each button is.
+2.  Super Control Panel:  Press OK on your four-way direction pad will let you access Super Control Panel (SCP).  Learn how to use it instead of going through the complicated but feature-(super)rich menu; it'll save you a lot of time.  Don't you wish this is a touch screen?  :)
+3.  Customization:  Right after setting up your E-620's time clock, you should turn on the customization menu by going to Menu -> Utilities (wrench icon) -> Menu Display (gears) and turn it On.  Press OK on your four-way button to go back, and voila, now we are ready to rock.  
+You can find all of the following in Chapter 8 of your manual, but they're not in layman's terms.  
+Here are few stuff that you should be aware of in Customization Menu that you cannot access through SCP:
+  Under AF/MF Menu (Menu A, A for AF):
+  * AF Illuminat: flash strobes, or AF assist as called by Canon.  It's quick flashes of light used to make low light focus easier for the camera.  It can be disturbing.  Turn it off when you are in the museum.
+  Under Button/Dial (Menu B, B for Buttons)
+  * Dial Function and Dial Direction:  If want turning clockwise to decrease aperture (or slower shutter speed) instead of the default counter clockwise, or something similar, then you go to this menu to reverse the dial direction, or change the default action of the dial.
+  * AEL/AFL Memo:  AEL/AFL Memory.  Basically when you press and hold AEL/AFL button, you can do a spot metering (Auto Exposure Lock) and even after you move your camera away from that spot, the picture's metering stay with it.  It's not that easy to hold and press AEL and half-press shutter button to focus at the same time, and that's why there is this "sticky-key" option.  Press it once to turn it on, then again will turn it off.
+  * Fn Function:  This is a biggy and can save you time!  Read your manual on pg. 97-98 (of the current English edition) to find out more.  I customize my Fn button to do one-button white balance.  More on this in Tip #5.
+  * My Mode:  If you want your camera to automatically turn on face detection, no flash, spot meter or similar series of options just by pressing a single button, this is where you set that up.  Only work if you also set up Fn button to use My Mode.
+  * Four-way direction button Function (icon: four-way buttons): Don't want the default quick functions associated with direction buttons?  Use this.
+  * Multiple Shot Function (icon: three photo shots):  If you don't use burst mode that much or you don't care about timed exposure, then you can change this button into another Fn button (sort of, they have different options you could use).
+  Under Release Menu (Menu C)
+  *  RLS Priority S/C:  These two options change the behavior of S-AF and C-AF.  Typical shutter behavior is when you pressed the shutter release all the way down (i.e., without half-press it first to AF), it'll auto focus quickly, lock it and take the picture all in one operation.  If you need the picture intentionally out of focus, then you need to turn either one of the options On, so it'll just take the picture without AF first.
+  Under Display Menu (Menu D for Display)
+  *  USB Mode:  When you update the firmware, you should change the option to STORAGE (that's the current instruction from Olympus's website as of October 3, 2009)
+  *  Live View Boost:  Should be Off, if you want to see the effect of changing shutter speed/aperture, etc. under Live View (only).  Otherwise, you can turn it on to dynamically adjust the LCD screen brightness level for reading LCD screen under bright sun light.
+  *  Info Setting:  Don't like cycle through so many screens when you press Info button, here is the way to get rid of a few screens you don't use.
+  Under Exposure/Meter/ISO Menu (Menu E for Exposure)
+  *  ISO-Auto Set:  Here you can set minimum and maximum ISO value when you use Auto ISO.  E-620 is said to have the best dynamic range when you use ISO 200-800.
+  *  ISO-Auto:  If you don't want Auto ISO grayed out when you use Manual mode, then here is the way.
+  *  Anti-shock:  Turn Off for better picture quality.  Turn On when you need anti-shock, i.e., when you mount the camera on the tripod to minimize residual shakes where the slightest movement will count because you turned off your IS.  It's called "mirror lock up" by other camera makers.  This is not the same as IS.
+  Under Pixel/Aspect/Color/WB menu (Menu G)
+  *  Color Space:  Change it to AdobeRGB for wider color range (i.e., more color).  
+  *  Pixel Set (picture of a triangle with some pixels):  Here you can set "how fine the grain" of your output jpg files are.  You can change it from Fine to SF (super fine) for excellent output without RAW post-processing.  This option does NOT affect RAW file's resolution.
+  *  Pixel Count:  Similar to the previous except this changes the resolution (i.e., 3200x2400 or 2560x1920 or 1600x1200 for Medium size jpg).
+  *  Aspect Shooting:  You can change the aspect ratio from native 4x3 to 2x3, 1x1, etc..  Only works when you shoot with LCD (not through Optical View Finder).  Will only crop if you use Olympus's supplied software.  RAW files will not be affected (always 4x3).
+  Under Record/Erase (Menu H)
+  *  DPI Setting:  You can increase your Dot Per Inch setting with E-620!!!  Most photo processing shops use 300 dpi, so you can do that.  If you want to have finer detail or just being future proof, you can increase the pixel count.
+  Under Utility Menu (Menu I)
+  *  Pixel Mapping:  If you have dead pixels, use this to map them.  Please read manual first.
+  *  Cleaning Mode:  READ MANUAL FIRST before you do your own sensor cleaning and follow the instruction carefully.
+  *  Exposure Shift:  It's known this camera will slightly under expose, so go to this menu to bump up the exposure by 1/3 step (or whatever you're comfortable with), that way you don't have to do a lot of post-processing because of it.  I love this feature.  Please read the tip on White Balance as well.
+Update and added on Jan 6, 2010:
+4.  AF Performance of E-620:
+Use S-AF for best performance, period.  I enjoy using both AF and MF, but instead of using AF+MF, there is an alternative way, which you may like it better.
+Press Menu button, customization menu (gear icon), select B (Button/Dial), and then select AEL/AFL menu.  A sub-menu will show up with three settings.  S-AF, C-AF, and MF behaviors.  Choose MF, and change it to Mode 3.  In this mode, you can do MF as usual, but also an "AF on demand" when you press AEL/AFL button on your E-620.  I like it better than AF+MF because you don't get an unwanted AF when you press the shutter button (you mean to shoot, not to AF again after you just did a MF).
+5.  Learn how to use Custom White Balance.  Read the Fn Function customization instruction above and start using Custom White Balance.  Your picture will look better, because the color is correct, exposure is more likely to be correct, and less problem with dynamic range (extreme light condition).  There are tools that can help you achieving excellent white balance (gray cards, white balance caps to name a few), but you can't do it until you set the Fn button to do custom white balance (Custom White Balance deserves a separate button, like E-30 has).
+6.  Under Playback/Display mode.
+  *  Press +/- button will rotate the photo.
+  *  Press Fn button will call up the zoom box.  Use direction arrows to move the box around, Control Dial to change the magnifications (2x, 3x, 5x, 7x, 10x, then 14x), then press Fn button again to zoom in (or you can zoom in first, then use Control Dial to change magnification).
+  *  Press Focus Area button [...] to compare two photos.  Use left and right direction buttons to change candidate photo.
+  *  Undocumented:  Press Sequential Shooting/Timer Button (the one next to Flash button) will switch between viewing photos stored in CF and xD memory card, if both were inserted.
+7.  To shoot back-lit scenes, such as the sun within the frame, try this.  Turn the metering to SH[*] (Shadow Spot Metering) if your subject is in the shadow/darker area of the frame, then OVEREXPOSE.  Usually I find +2.7 works best, but to get a more accurate "estimate", turn on LiveView mode (LCD), then press Info button until you see the multiple-frame screen which maybe either WB or +/- on top of the screen (if you're on WB screen, press Down arrow to switch to +/- screen).  This is where you get your exposure estimation visually.  Choose the look you're trying to achieve with left or right arrow and you're set.  You might have to experiment a little because it's an estimation, and also you're reading the LCD screen under sun light, which may not be 100% accurate.  
+Why under-expose with Shadow Spot then overexpose?  Because this way you retain the detail in the shadow area.  If you just use the regular reading, the dark area will just be silhouette (perfectly fine if that's what you're aiming for).  Even if the photo turned out dark, this way, it's "more" fixable with Lightroom and similar software (remember to shoot RAW+JPG for more versatility).
+Wish List:  The hand grip takes time to get used to.  It hurt my below average size hand initially, but once I got used to it, I actually could mount my Zuiko 14-54MM f2.8-3.5 II lens on it and running around a hiking trail taking pictures.  It is highly mobile.  I do wish Olympus could make the buttons larger.  I also plead they'd switch the placement of Info button with Menu button, as I use prior more often to switch LCD views.  At current position (next to the viewfinder eye cup), the button is hard to press.  Another tip for Olympus's interface department, the control dial should be right under PASM dial, cascading in a Mastercard logo formation, as that's where the user's thumb is.  The current design of the thumb pad forces the user to hold the camera in a very specific position.  Moving the thumb backward to turn the control dial at its present position can be very uncomfortable (and it's the most often used dial).  It takes time to get used to, but I think my design is more ergonomic.  Also, like one online reviewer has mentioned, Olympus should try to make the control dial a button, like Panasonic G1's, so no more two-finger operation to change aperture and shutter speed when one works with Manual mode.

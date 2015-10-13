@@ -1,0 +1,18 @@
+ID: B000W0Q2PU-R3RRLUCIHQ4PVO-A1J302UL3ZFF27
+Category: MP3Players
+Product: Archos-Wi-Fi-Portable-Media-Player
+ReviewerID: A1J302UL3ZFF27
+ReviewerName: Jeanne Brooks "Gadget freak"
+Date: May 5, 2008
+Helpful: 5 of 6
+Rating: 3.0
+Title: So much potential!
+Content:
+I just bought one of these (the latest in a list Archos devices I've owned), and while I really like it, there a few buts:
+First, with previous devices you got pretty much everything you need in the box. You had to buy extra batteries and an auto adapter, but that's pretty standard. With the Archos 704 wi-fi, you need to buy a DVR station if you want to hook it up to your TV for another $99. Almost all of the connection ports are proprietary. It comes with a web browser, but if you want to take advantage of all the features, then you need to download the Opera plug-in for another $29. You can download movies from Cinema Now, but if want access to your past purchases, you need to download another plug-in for $19. 
+You can use it to play simple games, but you have to download those in packs, no ala-cart, for $9.99 each. Very reasonable, but it you only want one of the games, you're stuck with the whole pack. 
+This device would make a perfect ebook reader, but there's no software. I read on one of the blogs that you can transfer PDF of HTML books. I haven't tried this, but it appears there is no way to autoscroll or change size of fonts. 
+As for audio books, you can convert Audible books to MP3 formats with third-party software. It also does allow you to bookmark audio files. Audible tells me it has no plans to develop programming for this device. 
+Archos does make GPS model 605. How hard would it be to write software for use with an external antenna? It's a large device for a portable GPS, but no larger than most in-dash GPS units. 
+Lastly, from what I read on the forums, the Archos OS is so proprietary, that it's nearly impossible for third-party software developers to create new applications. Oh, and would an expansion slot be too much to ask? 
+Overall, I'm pleased with it and will keep it with the hope that Archos will consider some of these options, but I should have done more research into other devices to get what I really wanted.

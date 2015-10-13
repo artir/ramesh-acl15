@@ -1,0 +1,17 @@
+ID: B002QUZKYS-R10T1SZ3MBZ17N-AU6UOVTWOGRKY
+Category: Laptops
+Product: Acer-AS5738Z-4111-15-6-Inch-Windows-Premium
+ReviewerID: AU6UOVTWOGRKY
+ReviewerName: John M. Simmons "Outlaw Programmer"
+Date: January 6, 2010
+Helpful: 
+Rating: 4.0
+Title: Good value for the money
+Content:
+First, you have to know that I'm a developer, so my view of things might be a bit skewed from what most "normal" people would hold.  That being said...
+I have an Aspire 5520 (bought it a couple of years ago), and wanted to get my wife a laptop for her birthday. Since my current Acer is still alive and hasn't given me any problems, I selected this one (the 5738Z) for my wife. The key reasons were that it came with 4gb of RAM and came with Windows 7 64-bit on it.  Neither me nor my wife are sure how we like the keyboard or the mouse pad, or even the on/off switch, but I can compare the "Windows Experience Index" values. 
+The 5520 has an AMD dual-core 2.1ghz CPU, and this one has an Intel 2.10ghz processor. The Intel rates faster.  However, I selected better RAM when I upgraded my 5520 from 2GB to 4GB, and my memory performance is quite a bit higher. If you're interested in getting more from your machine, get better RAM.  I also upgraded the hard drive in my 5520 and the performance rating is identical. The graphics performance provides an interesting comparison, where the 5520 gives a 0.2 better score for gaming, but the 5738Z gives a 0.2 improvement over the 5520 for desktop performance.
+What we both agree on is that the screen will take some getting used to.  While my wife likes the fact that the laptop doesn't require as much desk depth, and that the machine is noticeably lighter than the 5520, neither of us really like the screen size. The worst aspect of the machine is that the resolution is - well, there's no other description - bizarre at 1366x768.  As a developer, I abhor working on laptops for any length of time because of the limited screen real estate, and this one is no different in that regard.  In comparison, the 5520 has a resolution of 1400x800.
+I spent a few hours removing the crapware that Acer put on the machine by default. I realized a good chunk of recovered hard drive space, and the machine boots much faster as well.  My recommendation (no matter WHAT laptop you get) is to remove all McAfee and Norton software first, especially if it's automated backup or virus protection stuff, and install Microsoft Security Essentials. It's free, and it doesn't hurt your machine's performance while actually doing work.  As far as backup goes, I would recommend AGAINST backing up to the web and investing in some decent software and a NAS (network-attached storage) box at home, and backup to that.  You can also safely remove all the demo software they give you, including Microsoft Works, all the demo games, and other crap not necessary to maintain a running Windows system.
+I also recommend buying a wireless USB mouse to go with this machine, and get one that has one of the micro receivers. I'm considering the Logitech V450, but I have to hold one first.
+Finally, the price was definitely right at $499. The week after I ordered it, the lowest price I could find on it was $689. (!)

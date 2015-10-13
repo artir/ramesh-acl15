@@ -1,0 +1,12 @@
+ID: B000VQ3R44-R3TPSE9UBCDFCT-A3S9LV538K8EJ5
+Category: MP3Players
+Product: Samsung-Portable-Media-Player-Bluetooth
+ReviewerID: A3S9LV538K8EJ5
+ReviewerName: BrooklynBoy
+Date: December 17, 2008
+Helpful: 
+Rating: 4.0
+Title: Samsung Software Sucks
+Content:
+Fine hardware!  Performs flawlessly, slim and light, solidly built.  I did upgrade the earphones, though the standard phones are fine.
+BUT Samsung Media Studio REALLY SUCKS!!!  I have never been able to get it to work at all. I have to load music using Windows Media Player and/or Itunes.  Did I get a defective copy of Samsung Media Studio or is it just a worthless program?  Let me know, T10 users.

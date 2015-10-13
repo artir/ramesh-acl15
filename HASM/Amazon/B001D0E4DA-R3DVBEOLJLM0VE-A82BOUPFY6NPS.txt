@@ -1,0 +1,11 @@
+ID: B001D0E4DA-R3DVBEOLJLM0VE-A82BOUPFY6NPS
+Category: MP3Players
+Product: Archos-250-Internet-Media-Tablet
+ReviewerID: A82BOUPFY6NPS
+ReviewerName: Electronics Fan
+Date: October 15, 2008
+Helpful: 1 of 2
+Rating: 4.0
+Title: Ogg and Flac Now Supported.  Full Review Later
+Content:
+I just received the 250gb version two days ago and I'll post a full review tomorrow, but as one of my main disappoints with Archos has been the lack of Ogg Vorbis or Flac support, I was elated to hear that they've added it for free in the latest firmware.  I updated it last night and it plays those formats nicely.

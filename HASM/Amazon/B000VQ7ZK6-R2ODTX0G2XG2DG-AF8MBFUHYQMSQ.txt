@@ -1,0 +1,20 @@
+ID: B000VQ7ZK6-R2ODTX0G2XG2DG-AF8MBFUHYQMSQ
+Category: MP3Players
+Product: Samsung-Touchscreen-Bluetooth-Portable-Player
+ReviewerID: AF8MBFUHYQMSQ
+ReviewerName: A. Heysse
+Date: January 29, 2008
+Helpful: 1 of 1
+Rating: 5.0
+Title: amazing
+Content:
+Amazing player, definitely worth the money.
+While it may not be listed, it does understand OGG/AAC music files (tagging support is not 100% yet, probably in a new firmware update).
+Great to use with winamp, autosync/autofill makes things a breeze if you organize it as such.
+Understands XVID!!
+Beautiful screen, very easy interface.
+No, HD to break.
+Cons: As said before, OGG/ACC tags are not supported yet (at least transcoded in winamp), though this will probably be fixed in the future. Also, OGG is not understood as a file it can play by windows vista, so it will ask if you really want to transfer the file (just say yes to all and it works anyway). 
+Winamp album art transfer is a bit buggy (probably winamp's fault, who knows).
+Its a flash player, so you only get 8gb, more than enough if you properly encode your files though, 1 day 12 hours worth of music is less than 50% of the space (~128kbps VBR mp3's), though this is technically a positive if you run/work out with it.
+Bottum Line: Get this player, not just because its an alternative to the ipod, but because its better than the ipod.

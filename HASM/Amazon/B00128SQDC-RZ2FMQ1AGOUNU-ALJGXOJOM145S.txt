@@ -1,0 +1,12 @@
+ID: B00128SQDC-RZ2FMQ1AGOUNU-ALJGXOJOM145S
+Category: DigitalSLRs
+Product: Nikon-10-2MP-Digital-18-55mm-3-5-5-6G
+ReviewerID: ALJGXOJOM145S
+ReviewerName: hot4hypatia
+Date: July 16, 2009
+Helpful: 0 of 2
+Rating: 4.0
+Title: This camera just feels good...
+Content:
+I bought the camera refurbished from Cameta Camera 2 weeks ago and I really like it. It feels great in your hand, even better than the new D90 to me. I also have a Canon XSi which feels great in the hand too. I like the controls on the D80 better. It is more of a shooters camera than the Canon. I think they are both great cameras. 
+All the pros and cons have been listed in prior reviews. Check out the D80 review at dpreview for all the details. The only feature on the D80 that I probably need to check on is the compressed NEF raw file format. The camera saves RAW files in a compressed format, although the details are sketchy. Nikon claims it is lossless process. I usually shoot large JPEGs with low compression - but I will update this review after I try opening some RAW shots in both Bibble & PSE to compare the results.

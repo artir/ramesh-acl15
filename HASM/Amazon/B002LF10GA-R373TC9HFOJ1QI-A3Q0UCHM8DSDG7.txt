@@ -1,0 +1,15 @@
+ID: B002LF10GA-R373TC9HFOJ1QI-A3Q0UCHM8DSDG7
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A3Q0UCHM8DSDG7
+ReviewerName: Jack "bdcu"
+Date: September 18, 2009
+Helpful: 3 of 5
+Rating: 5.0
+Title: State of the art components, okay design
+Content:
+Great CPU, great chipset, unbeatable package.
+The CPU boasts 3MB of cache for better system response... for this price you'd expect Celeron-like 1MB cache, and suffer from "cache swapping" somewhere along the lines of "memory swapping" in a system with too little RAM.
+The system chipset is a shrunken version of the robust Intel 4500MHD, which delivers above-average system I/O performance and stability. Its performance is well matched to the CPU, using the same architecture designed for high-end Intel systems (with T9600 CPU, etc.). True, the graphics are not the best, but hardware 1080p decoding is there, and since it has been the mainstream for larger notebooks, the drivers are mature and stable, good for running Windows or Linux, or even MacOS (?) (cf GMA 500 driver issues and slow SATA HDD performance, capped at 40MB/s). 
+Kudos to Acer for including both HDMI and VGA connectors, allowing users to quickly expand the tiny display (triple monitor capable!) at home or work. eSATA is absent, could've been easy to include. From what I understand the Wi-Fi is not top of the line Intel model, and disconnections occur. The missing Bluetooth would've been great for a wireless mouse if included. So all Intel components, let's hope Acer didn't screw it up with some bad motherboard layout or prematurely dying capacitors... Their 11.6" netbook looks set to conquer the world, but alas, inadequate power amplifiers mean running on full load (webcam +Wi-Fi) would crash the system... silly engineering mistake.
+Otherwise, a great package and one of the cheapest, smallest, fastest Windows 7 machines out there. You'll be hard pressed to find something of better "performance/cost" ratio from HP and Dell, although they do generally have better industrial designs, electrical/mechanical engineering, and component reliability/compatibility testing.

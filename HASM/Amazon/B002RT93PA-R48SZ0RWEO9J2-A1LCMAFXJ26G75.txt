@@ -1,0 +1,16 @@
+ID: B002RT93PA-R48SZ0RWEO9J2-A1LCMAFXJ26G75
+Category: Laptops
+Product: Lenovo-Y550P-324156U-15-6-Inch-Laptop
+ReviewerID: A1LCMAFXJ26G75
+ReviewerName: J. Borgeson
+Date: April 27, 2010
+Helpful: 
+Rating: 1.0
+Title: I don't know who these other users are, but this is not a good computer
+Content:
+Maybe I received a previously loved model, but this computer sucks for several reasons.  I had it for two weeks and this is what I observed. 
+While fast, I never really had a chance to put it through hoops with any gaming or true test of the processor.  ALso, it bricked itself about once a day from hardware (no blue-screen or Windows 7 equivalent), just the screen turned black and emitted a buzzing noise until I held down the power button for a few seconds.
+1) Screen resolution: 1366x768 is considered acceptable now?  My last computer was 5 years old and not even top of the line at that time, but I was shocked to see these Jitterbug-like icons and general ugliness on a 2010 device.  I don't know how these marketing jerks can think they can get away with calling this HD when it is nowhere close.
+2) Touchpad is terrible.  The scrolling bar on the right seems like it was intentionally designed to be frustrating.  In addition, the multitouch frequently reacts if I have my other palm anywhere resting on the keyboard (like if you use keyboard shortcuts like a normal user).  Finally, I agree with the other review that the bumps on the pad are distracting and lead to errors.
+3) Sound - not great to begin with and one time when I accidentally had two sounds start at once it decided that it would never again play anything at full volume.  I tried for an hour to find out why and looked through the troubleshooting for the sound card and the sound driver.  No dice.
+All in all, it is obviously a cheaply made part that would probably fail in more ways if I kept it any longer.  Two weeks is enough.  I want my $1000 back.

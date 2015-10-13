@@ -1,0 +1,13 @@
+ID: B002OOWC06-R1F7I8Y8HI2I8L-AVQMRGI68WPGE
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310RD-13-3-Inch-Ultrathin
+ReviewerID: AVQMRGI68WPGE
+ReviewerName: M. Yang
+Date: November 23, 2009
+Helpful: 8 of 13
+Rating: 2.0
+Title: Great laptop--except for disappearing wireless card
+Content:
+I bought this laptop after reading the reviews here. Took it on a weekend trip and LOVED the light weight and battery life. (At one point, I was both charging my phone and reading documents on a three-hour bus ride with no problems.) 
+This afternoon, however, the wireless internet suddenly stopped working. The Realtek wireless card does not even appear among the internet devices any more. I have been calling tech support for two hours, restored the system twice, and attempted to reinstall the wireless driver from the Toshiba website to no avail. From the tech support forums, it looks like some Toshiba laptops ship with bad wireless cards. 
+Again, it's a great laptop otherwise, but having no wireless internet is a deal killer for me. I'll be returning this laptop and getting another brand instead.

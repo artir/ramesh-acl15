@@ -1,0 +1,12 @@
+ID: B000BH7RNA-R3SH0UG8A7KY5I-A3USS18U37IR8
+Category: CoffeeMachines
+Product: Mr-Coffee-TFX20-Programmable-Coffeemaker
+ReviewerID: A3USS18U37IR8
+ReviewerName: N.W.
+Date: September 18, 2009
+Helpful: 1 of 1
+Rating: 1.0
+Title: Designed to break
+Content:
+This product is the poster child of a product that is designed to break after being used for a relatively short period of time.  After a year or so of normal use, I found that I could no longer turn the coffee pot on.   After fiddling with it for a short period of time, most people would toss it and go out and buy a replacement.   I took it apart, however (the manufacturer was clever enough to replace two of the six phillips-bit screws with torx-bit screws and hide them under the rubber feet which once again would have prevented their dirty secret from being discovered from someone less prepared) and I found that they offset the power switch a quarter of an inch side of the external button, and glued an activating arm to the external button so it would press the power switch.  Naturally, such a flimsy arrangement would break off in short order.  Looking at the curcuit board shows absolutely no practical reason to set it up that way (it would have actually increased their manufacturing costs by a couple of pennies) other than to design a product that you would be forced to replace after a year or so of normal, daily use.
+I won't be buying another Mr. Coffee product again.

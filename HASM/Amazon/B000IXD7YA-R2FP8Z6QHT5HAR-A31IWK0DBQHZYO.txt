@@ -1,0 +1,21 @@
+ID: B000IXD7YA-R2FP8Z6QHT5HAR-A31IWK0DBQHZYO
+Category: Laptops
+Product: Toshiba-Satellite-P105-S6114-Processor-SuperMulti
+ReviewerID: A31IWK0DBQHZYO
+ReviewerName: Tarek Campara
+Date: December 22, 2006
+Helpful: 16 of 16
+Rating: 5.0
+Title: P105 S6114
+Content:
+The build quality is top notch. It feels as good as it looks. There is no flex at all, anywhere. I believe that this laptop will last a very long time. Everything seems to fit exactly where it's supposed to, no clicks or clacks whatsoever. Excellent ratio price-to-performance.
+Pros:
+Great quality build 
+Excellent 17" screen 
+Quality HDD with plenty of space 
+Core 2 Duo processor 
+Not bad battery life (considering the power and size of the notebook)
+Cons:
+Keyboard takes some getting used to 
+HDD could have been 5400rpm 
+Ram should have been 667 MHz.

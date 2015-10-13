@@ -1,0 +1,24 @@
+ID: B0031RG0VM-R1LPUMWX2DZI7A-A3VIH61B8E340V
+Category: Laptops
+Product: Gateway-EC1457u-11-6-Inch-Display-Laptop
+ReviewerID: A3VIH61B8E340V
+ReviewerName: J. Chen
+Date: February 26, 2010
+Helpful: 19 of 19
+Rating: 5.0
+Title: Excellent ultra portable, for the price especially
+Content:
+I did a lot of research, from price to cpu to features. First off, if you're getting this laptop, at least part of your reason has to be for size/portability.  With that said, your choices are netbooks or laptops up to 13 inches.  
+I ruled out netbooks because the screens where just a little too small and mostly because the CPU and graphics were just not worth it.  When I looked at the netbooks on display at the stores, they were horrible.  From the outside the netbooks look cool and sleek, but the second you actually test drive one, you will realize they are really not for anything but getting your emails...and maybe a little Internet surfing.  
+It was hard for me to rule out the 13" laptops.  They were obviously more powerful and had good graphics.  In the end I had to weigh whether I wanted a more powerful laptop or a more portable one, with much, much better battery life.  I made this decision because I don't play any real graphically intensive games....which is really the only thing you can't do with this laptop.
+Most of the computers in this category are using the low voltage (Intel SU series) cpu, GMA 4500 graphics chip and 2-4 GB memory, so really your deciding based on look and feel.  Here are some things to consider when thinking about upgrading and whether it's worth it.
+cpu - su4100 versus su7100 :  the only difference is really something called virtualization, which allows you to dual boot with Vista and such.  probably something you're not doing. $50 - $100 price difference.
+2GB versus 4GB - this model comes with 4, so no upgrading here.  You need 3 or more to take advantage of Windows 7 64 bit.
+Gateway has a new model with a disk drive - adds about a 1/2 lb and cost ~$60 more.  This would be a major consideration...but to be honest, I haven't touched my disk drive on my old laptop for months.  I think this is less and less needed, especially with streaming video.
+Gateway versus Acer (same company).  No difference except style.  One thing I notice that was a deal breaker for me was that the Acer version doesn't close completely shut...there's a small gap and you can see the keys inside.  Dumb design in my opinion.  
+No bluetooth on this model or the equivalent Acer (UPDATE: Acer came out with a bluetooth model for $90 more)
+Now my first impressions.  I love the look and feel of this laptop.  It looks sleek and the keyboard has a nice feel (full size is nice).  In a perfect world, the hinges and mouse buttons would be brushed chrome/titanium rather than a shinier chrome...and a more matted case rather than the shiny black. one other thing I need to note that made me choose this item...the mouse buttons on this laptop are flush to the edge, which makes it easier for someone with bigger hands to click.  
+As for performance, there's really nothing to say...it does everything I need it to do.  I've surfed the web, played some online poker, watched some HD youtube, synced up by iTunes and just about everything else.  Unless you're playing graphic intense games, this laptop will do just fine (can't say that about netbooks).  P.S. - changed the default test size from 100% to 125% and this made the screen size an absolute non-issue.
+I can't really think of any cons, so pros and cons won't really help.  I'm giving it 5 stars, though not perfect, it's close.
+Bottom line:  I think this is the perfect laptop for anyone that likes to take their laptop with them when they travel.  Whether the travel is back and forth from school or work, vacation, or long weekends away.
+UPDATE:  Still lovin the laptop. Just wanted to add that the multi-gesture trackpad works really well. You'll have to adjust it to your preference, but once you have it locked in to your likes, it's nice.  Especially with the "pinch" in and out to zoom in and out, like the iPhone/iTouch.  It's handy when you need to increase the size of something because of the smaller screen.  Also tried the HDMI on my 42" plasma and played HD youtube, looked great...started surfing the web via the 42" TV, it was quite a treat :)

@@ -1,0 +1,11 @@
+ID: B001FA1NU0-RFQ3GWES592I2-A3C8UIM17GL6QN
+Category: MP3Players
+Product: Apple-shuffle-Generation-Previous-Model
+ReviewerID: A3C8UIM17GL6QN
+ReviewerName: Steve McBride
+Date: April 21, 2010
+Helpful: 
+Rating: 1.0
+Title: Poor for Podcasts and Books on Pod
+Content:
+I used to have the more expensive Nano, but moved to a shuffle, because after replacing 2 Nanos I decided the price tag was too high for something I would need to replace every year or two.  At one point in time iTunes would autosync my Podcasts and Books on Pod.  At this point when I try to sync my free podcasts I get the message: "iTunes cannot add any songs to the iPod ... because no songs in the playlist My Podcasts can be copied to this iPod".  As far as Books on Pod go, I have to manually re-find the place in the book 80% of the time because the shuffle does not remember where things last were left off.  These are things I wouldn't expect from a name brand product.  So far the Shuffle gets a "D" grade for useability.  (I would give it an "E", but at least I have not had to replace it yet...)

@@ -1,0 +1,18 @@
+ID: B001PII4HC-R1XM5JCZWKOE19-A1X10DLE461EX8
+Category: Laptops
+Product: Sony-VGN-P530H-Lifestyle-Processor-G-Sensor
+ReviewerID: A1X10DLE461EX8
+ReviewerName: Steven N. Vaughn
+Date: October 8, 2009
+Helpful: 1 of 1
+Rating: 2.0
+Title: The battery life kills this product
+Content:
+The packaging is beautiful and the size is wonderful. The battery life is simply not good enough to make the product useful to me.
+Booting the machine is painfully slow. It takes something like 5 minutes for a complete boot. If you want to tinker with registry and stuff maybe this could be reduced a bit.
+What I want is a PC that acts like a cell phone: you open the cover and it is ready to go. 5 minute boot is not acceptable in that scenario.
+You can avoid the boot by making the system sleep/hibernate when you close the lid. It takes less that a minute for it to wake up, and I could live with this, except the system consume significant energy when it is asleep. If I close the lid (and put the machine to sleep) on a full battery, it will not make it through the day asleep. If you use it for a half hour, you have reduced the sleep time quite a bit (a couple of hours).
+I am sure Sony has a list of tips for extending battery life, but I don't want to become a laptop energy expert. 
+My guess is that people who give powerpoint presentations would love this, also people who fly a lot. It would be great for them because it is so small and light and the battery life wouldn't matter because in both these situations you could plug it in.
+I'm curious if replacing the hard drive with a flash drive would help. Also, maybe a faster hard drive would make the boot quicker. Windows 7 might help. Maybe running Linux would help the boot time too.
+I've toyed with getting the extended battery, but the thought of spending another $100 after the original $999 is not very attractive. I'm seriously wondering if I can find someone who would trade a Kindel DX for the Sony.

@@ -1,0 +1,11 @@
+ID: B000H9534C-R2B1V9HWVFF53-A406CT94IZJY7
+Category: SpaceHeaters
+Product: DeLonghi-SafeHeat-Ceramic-Heater-Control
+ReviewerID: A406CT94IZJY7
+ReviewerName: Srinivas Dangeti "dsreview"
+Date: December 10, 2008
+Helpful: 3 of 3
+Rating: 2.0
+Title: Heater doesn't remember the setting
+Content:
+The heater is good w.r.t warming the surroundings but it does not remember the settings. Like heat mode, oscillation, etc. And the heater is sensitive to any shakes, etc which is good. But any shake is going to reset the settings and you will have to reprogram the settings.

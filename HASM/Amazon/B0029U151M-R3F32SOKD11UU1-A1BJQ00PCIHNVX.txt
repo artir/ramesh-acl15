@@ -1,0 +1,17 @@
+ID: B0029U151M-R3F32SOKD11UU1-A1BJQ00PCIHNVX
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A1BJQ00PCIHNVX
+ReviewerName: M. Bullard "Tech Guru"
+Date: September 21, 2009
+Helpful: 2 of 3
+Rating: 2.0
+Title: Acer 4810T-8480 Is Nice but Wireless Issue & Tech Support Sub-Par!
+Content:
+I have one of Acer's 10" Netbook Computers and it is very nice.  I have had no problems with it.  I purchased the 4810T-8480 at Office Depot on September 19, 2009 for $650, a $100 premium over Amazon.  However, Office Depot is LOCAL and allows returns within 14 days with no re-stocking fee!  That way you can truly TRY before having to commit!
+The design of this thin and light Ultra-Low-Voltage PC is awesome, taking inspiration from Apple MacBooks with the metalic body build affect.  The fact that it has a CD-DVD Drive built in is great!
+The deal killer for me was that I discovered in my first 24 hours of testing that the Wirless Connection runs about one-six to one-third of the speed as when connected to AC.  I called Tech Support after searching the Internet for the Phone Number.  Why does Acer hide their Tech Support number?  Their Tech Support had me go in to the Device Manager and see if there were some Properties that would LOCK the Wireless Adapter in to FULL SPEED MODE but could not find a way to do this.
+Acer Technical Support is terrible.
+I hate to say it, but Acer is officially ON MY "DO NOT BUY THIS BRAND LIST".  If for no other reason their terrible quality of Technical Support.  
+I see that Lenovo is entered this market with the IdeaPad U350 and there was a temporary deal on that machine today for $450 direct from Lenovo.  Granted it is 13.3" and does not have a CD Drive.  However, it does include BlueTooth which the Acer 14" device that I was testing does not.  
+I purchase Technology Products constantly and buy lots of stuff from Amazon and love their service.  This is the first Amazon Review I have ever submitted and I did so in hopes of saving some others from spending money on Acer when their are other options.  I have never liked HP Notebook PCs but I think their TECH SUPPORT is MILES ahead of a company like Acer.  Also, Lenovo, Toshiba and Dell are probably good and reliable when it comes to support.

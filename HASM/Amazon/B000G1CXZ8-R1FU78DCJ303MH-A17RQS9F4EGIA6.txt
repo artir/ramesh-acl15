@@ -1,0 +1,15 @@
+ID: B000G1CXZ8-R1FU78DCJ303MH-A17RQS9F4EGIA6
+Category: SpaceHeaters
+Product: DeLonghi-TCH6590ER-Ceramic-Tower-Heater
+ReviewerID: A17RQS9F4EGIA6
+ReviewerName: Jake "jake"
+Date: November 11, 2006
+Helpful: 40 of 42
+Rating: 2.0
+Title: Extremely stupid control logic
+Content:
+This heater works reasonably well, it's not too noisy on the LOW setting, but it's electronic control is designed extremely bad. First of all it has three operational modes: LOW, HIGH and AUTO. Low uses half of its heating power and runs the fan on a slower and quieter speed. High - uses full power and is the noisiest. Thermostat setting/operation is not available nether under low nor under high mode. 
+On Auto mode you can set the desired temperature and the heater will do a reasonably good job of maintaining the set temperature, but - when it's on Auto mode the heater runs on it's full power and becomes noisy. 
+There is no way to make use of the thermostat with the low heating power. 
+I think that most people would actually want to use Auto mode with the low power, especially if they use the heater in a bedroom, but some genius at DeLonghi decided to save a few cents by not providing this option. 
+The heater also 'forgets' your last Auto temperature setting after you switch it off and defaults to 75, so every time you switch it on again you have to adjust temperature - pretty annoying IMO. In spite of the fact that I got it pretty cheap (under 40), it's going back.

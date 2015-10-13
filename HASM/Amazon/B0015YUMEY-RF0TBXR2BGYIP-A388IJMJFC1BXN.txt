@@ -1,0 +1,12 @@
+ID: B0015YUMEY-RF0TBXR2BGYIP-A388IJMJFC1BXN
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A388IJMJFC1BXN
+ReviewerName: Peter L. Winkler "Word King"
+Date: September 11, 2007
+Helpful: 13 of 13
+Rating: 4.0
+Title: I Almost Had to Return Mine
+Content:
+This is a lovely machine in most respects. I've owned laptops since 1985 and am not easily impressed, but the MacBook Pro elicited my admiration, at least until I tried to connect to my wireless DSL. The internal AirPort card recognized my 2WIRE DSL modem/router, but when I entered my security code, it wouldn't connect. Never had a problem with my Fujitsu Lifebook P2120. I even got a six year old ThinkPad running Windows 98 and a Linksys PCMCIA card to connect. After extensive research, I discovered from online forums that Apple's last software update to the AirPort card makes it impossible to connect with many wireless routers, not just 2WIRE's. 
+I purchased an Airport Express and connected it to my 2WIRE through their ethernet ports and the MacBook now connects wirelessly to the Airport Express without problems. Apple should aprise people about to buy a Mac about this problem.

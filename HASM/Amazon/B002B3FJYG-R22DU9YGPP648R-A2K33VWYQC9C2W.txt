@@ -1,0 +1,15 @@
+ID: B002B3FJYG-R22DU9YGPP648R-A2K33VWYQC9C2W
+Category: MP3Players
+Product: Sylvania-2GB-SMP2002-Compact-Player
+ReviewerID: A2K33VWYQC9C2W
+ReviewerName: jerry i h
+Date: August 20, 2009
+Helpful: 3 of 3
+Rating: 4.0
+Title: Really Cute, But You Will Need an Owner's Manual
+Content:
+It is about 1 inch square, has a built-in clip for your shirt or gym shorts, comes with a USB cable and ear buds, and is reasonably priced. I have only had it a short time, and do not know about long-term reliability. Still, I like it a lot and do recommend it. 
+First problem: the included earbuds are pretty mediocre. If you are serious about music sound quality, you should use high quality earphones.
+Mainly, though, is the "User Manual". The one in the package has several, rather obvious mistakes. I went to the official Sylvania website, clicked over a few times, and wound up at the Curtis International website. There, I was able to download the correct manual in pdf format. 
+Mainly, I could not figure out when the player was finished charging. The pdf manual has the answer: there are 2 LED's. The LED next to the on/off switch simply tells you that the USB cable is getting juice; the LED next to the earphone hole will turn off when the internal battery is fully charged.
+I have since figured out that this thing, when plugged into a powered external USB hub, only requires a couple of minutes to fully charge.

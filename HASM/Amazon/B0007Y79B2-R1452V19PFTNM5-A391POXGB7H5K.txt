@@ -1,0 +1,13 @@
+ID: B0007Y79B2-R1452V19PFTNM5-A391POXGB7H5K
+Category: MP3Players
+Product: Apple-iPod-Black-Generation-MODEL
+ReviewerID: A391POXGB7H5K
+ReviewerName: Bruno
+Date: April 7, 2007
+Helpful: 
+Rating: 1.0
+Title: Frustrating because of ITunes software and support
+Content:
+You can only load music into the Apple Ipod Nano through your computer on a program called ITunes. Loading the software onto your computer can be a major problem. I downloaded it and it refused to open. Apple's literature and online "support" was useless. Simply stated it is not user friendly, it does not tell you what to do in plain English. As usual a GOOGLE search with a few key words produced a number of boards loaded with people with the same problem. Thank goodness these people are kind enough to post solutions. In this case it has to do with the fact that the ITunes software has to operate with another program, a player called Quicktime. If both of these programs are not properly installed you will have a problem. The solution seems to be to first remove both programs entirely, restart your computer, and then install Quicktime (alone without ITunes) first before installing Itunes (alone without Quicktime). That's how I got it to work after 2 hours of repairing, installing, uninstalling, etc. Another problem is that it will not work (that means WORK after installation) unless it is installed and operates with "administrator privileges" meaning that if a child is using it they must have "administrator privileges" on the computer.
+Second problem- After you finally get ITunes to run you learn that once files are downloaded onto the Ipod Nano the only way that they can be removed is through Itunes with the Ipod connected to the computer. You cannot delete them directly from the Ipod. Again instructions and support are not user friendly. They tell you to look somewhere on the screen (they are not specific) for the Ipod icon to start the delete process. What they don't tell you is that it only appears for a limited time upon the initial connection of the Ipod to the computer. If you don't find it before it disappears, you must disconnect and reconnect for it to reappear again, there is no way of just bringing it up on the screen again. And the deletion process is far from simple once you find the Ipod icon.
+Basically this thing is nothing more that a portable computer jukebox. The process of loading and changing songs in it shouldn't be so difficult.

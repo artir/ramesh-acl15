@@ -1,0 +1,15 @@
+ID: B001FA1NEG-R2Y7DXZ7F1XB4Z-A1ZG9WMHNMGY62
+Category: MP3Players
+Product: Apple-iPod-Generation-Previous-Model
+ReviewerID: A1ZG9WMHNMGY62
+ReviewerName: ffass "ffass"
+Date: October 2, 2008
+Helpful: 58 of 67
+Rating: 2.0
+Title: Update: COVERFLOW CAN NOW BE DISABLED! (New rating: 4 stars)
+Content:
+11/12/2008 UPDATE:
+Apple has released a software update (via iTunes) that will allow the user of a 4th generation iPod nano to disable the Coverflow view (which activates upon tilting the nano horizontally). This was a major gripe for many but a big "thumbs-up" to Apple for resolving this issue.
+Note: I'd update the 4G nano's rating from my earlier 2 stars to 4 but Amazon does not allow me to modify that part (is this a glaring oversight by Amazon, or a glitch with my Firefox brower?).
+-----
+Real world testing was not in Apple's nano 4G design process. Otherwise they would've included an option to disable that idiotic Coverflow so users could make casual adjustments to volume and songs by feel. The nano 4G requires you to orientate it vertically to gain back access to those controls! Not good. Maybe Apple will release a software update to remedy this oversight, but they're notorious for not listening to their customers so I returned my nano 4G to Amazon. Colors are vibrant and beautiful, audio quality is excellent, and it feels great in the hand, but if you want a nano then get the 3G one instead...you'll be much happier.

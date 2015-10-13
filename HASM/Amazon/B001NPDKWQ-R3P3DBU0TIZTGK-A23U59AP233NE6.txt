@@ -1,0 +1,11 @@
+ID: B001NPDKWQ-R3P3DBU0TIZTGK-A23U59AP233NE6
+Category: Laptops
+Product: Pavilion-DV6-1050US-16-0-Inch-Processor-Premium
+ReviewerID: A23U59AP233NE6
+ReviewerName: F. Klein
+Date: July 19, 2009
+Helpful: 0 of 1
+Rating: 5.0
+Title: Works well. Able to double boot Ubuntu.
+Content:
+I bought this for my daughter graduating college (and going on to grad school). It works well. Vista sucks, but we knew that going in. It can double boot Ubuntu from [...], if you are willing to put in some time and get the sound to work (I did). No problems. Arrived on time in great shape.

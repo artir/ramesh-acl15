@@ -1,0 +1,11 @@
+ID: B000JO1380-RJVCUQITA1GTM-A2KIJNRSJJO7RJ
+Category: MP3Players
+Product: Apple-classic-Silver-Generation-MODEL
+ReviewerID: A2KIJNRSJJO7RJ
+ReviewerName: Ricardo Martin Natale
+Date: December 6, 2007
+Helpful: 4 of 6
+Rating: 3.0
+Title: Software Problems
+Content:
+I must say that I had waited so long for this type of Ipod to be in the market. Saying that, I`m quite dissapointed with Apple. As soon as I made the first sync operation, the Ipod started to reboot automatically without having any chance to interfere in the process. There was no way to reset the Ipod manually and it was not recognize through the USB cable neither through Itunes. After rebooting itself for 10 minutes, it just started working properly and it was recognized through Itunes. I had it to restore it 5 times and it took me 2 software updates to solve this problem. Shame on you Steve Jobs! Greetings From Argentina!

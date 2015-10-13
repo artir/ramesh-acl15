@@ -1,0 +1,16 @@
+ID: B00171UYZW-RKKPGHD0TYNXD-A35MELREERP7GM
+Category: MP3Players
+Product: iriver-E100-Multimedia-Player-Pink
+ReviewerID: A35MELREERP7GM
+ReviewerName: John Petrula
+Date: December 19, 2008
+Helpful: 14 of 15
+Rating: 3.0
+Title: iRiver E100 Review
+Content:
+The iRiver iFP-899 has been an indispensable companion for recording college lectures and meetings. I was looking forward to trying the new E100 because of the larger storage size and display screen. Unfortunately, the E100 is a major disappointment. Numerous web sites detail the poor sound quality, slightly undersized enter button, and other problems. Let me focus on a few seldom discussed issues.
+Many people report sporadically having the iRiver Plus 3 software not recognizing the E100. The dust cap on the E100's USB connector can interfere with fully inserting the USB cable connector by catching on the dust cap. Should this occur, the E100 will display Power & Play, and Power Only which makes you think everything is OK when, in fact, the iRiver Plus 3 has not actually recognized the E100. If you fully insert the connector without catching it on the dust cover, the E100 will display Power & Data, Power & Play, and Power Only - the iRiver Plus 3 will now recognize the E100
+For the last five days, the iRiver Tech Support at 562-758-6393 has not returned my calls. They have not replied to my email. By-the-way, the iRiver Technical Support is outsourced to a third party company.
+The iFP-899  has an Automatic Gain Control (AGC) setting for recording which does not appear in the E100 settings. When I recorded a talk with the E100, the sound level was so weak that it was almost useless. I looked at the file with Sound Forge and found the signal was down in the mud. In contrast, the iFP-899 recorded the same talk without difficulty.
+Having External Mic and Line-in recording are a major plus which separate iRiver products from others. However, what good are they if there is no incoming signal level indicator to let you know how much to adjust the line-in gain. Moreover, adjusting the line-in gain should not be buried in the settings but readily available while recording. The E100 needs AGC and Peak Limiting for the internal mic, external mic, and line-in to be effective. With such features, they could address a large market of users who would like to directly record from wireless microphone systems in lecture halls and churches. Let's hope they add such features.
+The feature list of the E100 would have set the E100 above the competition. Unfortunately, the implementation was not up to par. Let's hope the next version puts iRivers back in the driver seat for producing dynamite products which outshine the competition.

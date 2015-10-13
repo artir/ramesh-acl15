@@ -1,0 +1,13 @@
+ID: B002LEXA64-R3IOQMSMK9AUJG-A2SY7L1QM7UULI
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A2SY7L1QM7UULI
+ReviewerName: Ryan Singer
+Date: September 18, 2009
+Helpful: 8 of 8
+Rating: 4.0
+Title: Runs Linux like a Champ!
+Content:
+I ordered this laptop to run Ubuntu Linux. It works very well. Every piece of hardware works automatically without any need for configuration. Video's play smoothly both in VLC and in flash in the browser, and the sound is great. Suspend/resume is a dream to work with, and the 2GB of memory is enough.
+I have very much enjoyed using this laptop, and I would recommend it to anyone seeking something on the border of laptop and netbook.
+Well done, Acer!

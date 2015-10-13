@@ -1,0 +1,17 @@
+ID: B000GDBEB0-R3HKV8AU5U3SAF-A201VY3V258SIX
+Category: AirConditioners
+Product: Amcor-PLM14000E-Portable-Conditioner-Electronic
+ReviewerID: A201VY3V258SIX
+ReviewerName: R. Welty "attention to detail"
+Date: July 7, 2006
+Helpful: 53 of 53
+Rating: 2.0
+Title: Arc Fault Circuit Interrupt (AFCI) is too sensitive
+Content:
+I purchased an Amcor PLM 14000E portable air conditioner based on its selling points, including being able to use it in a standard outlet, its light weight and size, and the BTU rating. The a/c unit arrived in a box that had significant wear and tear, but the unit was intact and all parts were there. It actually weighs 83 pounds (per UPS scales) vs. the 75 pounds as indicated by the manufacturer and the 58 pounds indicated in the description. The installation and setup was very easy - about 10 minutes. The weather strip provided by the manufacturer is basic and cheap. I used a better quality weather strip from Home Depot. After waiting the required 2 hours, I turned the unit on. The unit ran well for approximately 3 hours, and then the built in Arc Fault Circuit Interrupter (AFCI) tripped. I reset the AFCI (built into the unit's power cord) and the unit ran for about 10 minutes and the AFCI tripped again. I cannot get the unit to run for more than 10 or 15 minutes without the AFCI shutting the unit down. 
+I plugged the unit into a standard, 15amp household circuit. I checked the voltage at the outlet and it read OK. I also calculated the total load of all the lights and appliances in the room to see if I was drawing too many amps. If I powered on EVERYTHING that's plugged into my master bedroom circuit, including the new A/C unit, I might be pushing 15 amps. The unit indicated it took 9.5 amps and I typically only have two 75 watt lamps running at the same time the A/C unit was running. Total amps never exceed 10 or 11. 
+I called Amcor and they told me the AFCI tripping issues was a "known problem" (quoted directly from the service representative) and that it was due to the very sensitive nature of the built in AFCI. He went on to say I could call an electrician to inspect my home wiring (house is only 8 years old) and/or have a 20 amp dedicated circuit installed, and/or have the built in AFCI removed from the unit's powercord. He was sure to emphasize that he nor Amcor supported removing the AFCI unit. The other option the Amcor rep suggested was to return the item and request a refund - which I did. 
+So I'm out roughly $140 in shipping charges due to Amcor selling a portable air conditioner with a "known problem." I'm not sure it qualifies as a defect, but it certainly does not work as advertised. 
+Other "issues" include: 
+The fan is a bit noisy and does not shut off after reaching the desired temperature set on the thermostat, but the compressor does shut down. It would be better if both the fan and compressor shut off. 
+The remote control has a display panel that can easily get out of sync with the unit's display panel. If you change the thermostat temperature on the remote control and do not point it directly at the unit, the change will not take affect on the unit, however, the remote's display will indicate the new temperature setting. I'm not sure how useful the remote's display panel is.

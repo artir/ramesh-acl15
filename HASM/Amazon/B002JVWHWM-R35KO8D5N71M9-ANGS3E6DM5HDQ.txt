@@ -1,0 +1,11 @@
+ID: B002JVWHWM-R35KO8D5N71M9-ANGS3E6DM5HDQ
+Category: Laptops
+Product: Acer-Aspire-5517-15-6-Inch-Laptop
+ReviewerID: ANGS3E6DM5HDQ
+ReviewerName: Patricia Black
+Date: December 1, 2009
+Helpful: 2 of 2
+Rating: 4.0
+Title: Good Price
+Content:
+Great Price but word to the wise. Laptops do not come with restore disks these days and I have found that the restore on the physical laptop itself corrupts and typically user cannot restore original factory image. While trying to create a restore disk with Acer's software I got errors and was unable to burn a restore disk. I called Acer and they will be sending me a free restore disk. The error was 0x207. If the computer crashes and you do not have a restore disk you will be down and then have to pay big bucks Acer's technical support, so try burning a restore disk right away and if you can't call Acer right away. After the 90 day software warranty, you will have to pay by credit card for support.

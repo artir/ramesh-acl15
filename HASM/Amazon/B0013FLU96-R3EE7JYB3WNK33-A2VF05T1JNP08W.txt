@@ -1,0 +1,15 @@
+ID: B0013FLU96-R3EE7JYB3WNK33-A2VF05T1JNP08W
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A2VF05T1JNP08W
+ReviewerName: C. D. Zuff
+Date: August 10, 2008
+Helpful: 3 of 17
+Rating: 3.0
+Title: Excellent, but Chinese
+Content:
+I've owned and have been programming on Macs since 1985.  I've run through every laptop during those years and I must say that with the MacBook Pro 17" is amazing.  The display is dazzling - clear and crisp enough to display HD images.  The keyboard is actually a pleasure to use.  The iPhone type tracking has immediately spoiled me.  Even the speakers finally have enough volume.  It's the best in breed.
+Why not 5 stars then?  Apple stuff is made in China with all the usual crap about "Well, we're different, we don't allow exploitation and brutality." and are shocked, shocked to learn that the workers are exploited and brutalized.  It is all so clean until someone (see MacWorld UK or the Mail) reports in from China about the conditions of the factories and the exploitation of the workers.  
+ I abhor the fact that Macs are made in a slave state.  I think Apple should be made to advertise the fact more prominently in their hip adds:  Perhaps have a 12-year-old undernourished Chinese girl to represent Macs just to let you know that this product is helping to perpetuate a brutal, genocidal regime.  Maybe not so hip after all.
+So, great design.  Terrible company.  I still write Mac programs, but not with the same smugness that used to come with the marque.  The Apple programmers are amazing, creative, et. al: the engineering is consistently innovative if not always good.  Too bad all this talent works for Jobs and the rest of the unenlightened thugs running Apple.
+So, recommendation?  Learn to love Linux, but you will still be hard pressed to buy or build a computer that is manufactured by an enlightened company.  Good luck.

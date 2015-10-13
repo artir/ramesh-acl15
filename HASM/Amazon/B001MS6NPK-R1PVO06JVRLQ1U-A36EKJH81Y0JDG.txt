@@ -1,0 +1,12 @@
+ID: B001MS6NPK-R1PVO06JVRLQ1U-A36EKJH81Y0JDG
+Category: Laptops
+Product: Sony-VGN-CS215J-14-1-Inch-Processor-Premium
+ReviewerID: A36EKJH81Y0JDG
+ReviewerName: KK
+Date: April 19, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great build quality
+Content:
+The build quality of this laptop is great, much better than the home-grade HPs and Dells I used to use. The laptop is quite fast in spite of a load of Sony bloatware. Windows System Rating in Vista is 3.8, may be because of the lack of a dedicated graphics card.
+UPDATE: I bought two of these for my friends overseas. The display of one of them died after 6 months. She did not get warranty service as she is outside the United States.

@@ -1,0 +1,11 @@
+ID: B002TM7HR6-RTKBCOFHDFJSX-A22VNF8GION1EB
+Category: Laptops
+Product: Lenovo-28472JU-Thinkpad-SL510-15-6
+ReviewerID: A22VNF8GION1EB
+ReviewerName: tagger9 "tagger9"
+Date: February 28, 2010
+Helpful: 1 of 3
+Rating: 3.0
+Title: OK Computer, but has lots of crapware and poor support
+Content:
+This laptop seems OK after using it for a month or so. But you will spend a fair amount of time uninstalling the Lenovo crapware that comes pre-installed. Plus, their tech support is awful. If you go to Lenovos site you will find a bunch of broken links, and won't even be able to find the user guide if you need it. You will have to download the user guide from a third party site. My experience with Lenovo so far puts it pretty low on my trusted vendors list.

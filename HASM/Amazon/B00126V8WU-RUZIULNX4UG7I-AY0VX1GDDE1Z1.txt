@@ -1,0 +1,11 @@
+ID: B00126V8WU-RUZIULNX4UG7I-AY0VX1GDDE1Z1
+Category: MP3Players
+Product: SanDisk-Sansa-Clip-Player-Silver
+ReviewerID: AY0VX1GDDE1Z1
+ReviewerName: T. Kenny
+Date: February 21, 2009
+Helpful: 1 of 2
+Rating: 1.0
+Title: Don't count on the FM Radio
+Content:
+FM Radio stopped working after 1 month of occasional use.  Also the Sansa Clip appears to have a relatively small playlist limit, i.e. no more than about 2 dozen playlists, whereby adding more than that results in some playlists showing as "Empty".

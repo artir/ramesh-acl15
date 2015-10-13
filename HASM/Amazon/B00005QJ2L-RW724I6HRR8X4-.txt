@@ -1,0 +1,11 @@
+ID: B00005QJ2L-RW724I6HRR8X4-
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: 
+ReviewerName: 
+Date: June 21, 2002
+Helpful: 1 of 1
+Rating: 5.0
+Title: It's easy to fix the CD exploring problem
+Content:
+I got my 1805-S204 for $799 after a rebate and just love it. Great price, great performance, and great touch pad.To fix the ever annoying anti-CD-explore "feature" just right click on the CD drive in "My Computer", click properties, and under hardware, highlight the DVD-rom drive off the list and hit the properties button on this screen. Uncheck the "Enable Digital Cd audio on this drive" feature in the properties tab of this box.Fixed it *Instantly* on my machine. Exploring like a madman now.It may be a touch heavy, but a friend of mine who has a pretty new Compaq laptop says mine is much lighter (and runs *much* cooler) than his.As far as the screen being small, I look at this way. For $1000 you can buy:-A portable DVD player, that will play DVDs and some musicor-A laptop that will do the same, and so VERY much more, with a screen twice as big. Who cares if some laptops have a 14 or 15 inch screen, I don't have an extra grand to throw around and the way these things are measured is kinda deceiving anyway, you don't see much of a real world difference bumping from 13.3 to 14.1, trust me.

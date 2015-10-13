@@ -1,0 +1,18 @@
+ID: B0035R8TMG-R3KLPXPXSPZHRA-A2LYPEPU7VQ5Q3
+Category: Laptops
+Product: Sony-VPC-F115FM-Notebook-i7-720QM-Microsoft
+ReviewerID: A2LYPEPU7VQ5Q3
+ReviewerName: Sidney Antommarchi
+Date: April 23, 2010
+Helpful: 2 of 3
+Rating: 1.0
+Title: Amazingly Unreliable
+Content:
+I bought the Sony VAIO VPCF115FM at the beginning of March 2010.  It had awesome performance while it worked except the sound quality was very poor.  I did get Sony earplugs with a gold plated connector and the sound was much better but still poor in my opinion.  I used the computer mostly to play World of Warcraft and the performance was stunning.  The graphics were perfect in my opinion.
+Then towards the end of March the problem started.  The problem was screen (LCD) refresh, i.e. the screen would display data up to a point then stop refreshing completely.  The computer seemed to be working but the screen would not be refreshed.  The first few calls to their customer support guessed that it was a virus in my computer at fault that corrupted the hard-drive and the BIOS.  They made me buy their system recovery disks (chi ching $90) and I also bought additional security SW (chi ching) to make sure that the problem did not happen again.
+As a side note, I had installed security SW in the computer the day I bought it.  So, I took exception the virus and the security SW not detecting it or cleaning it up.  Needless to say, I ripped the security SW people a new one.  To add insult to injury, the security SW manufacturer wanted to charge me (chi ching) $150/hr to fix the problem.  I'll give y'all a hint...the name of the company starts with S and the name of the product starts with N.  LOL ;-)
+At the end of a week, the computer still did not work.  I completely whipped out the hard drive and put it back to original manufacturer specs with the system recovery disk and lost 1 month worth of data.  However, the screen refresh problem persisted.  So they asked me to ship the computer to their labs in San Diego for repair with an approximate time for them to ship back the computer of 2 to 3 weeks.
+As a side note, I did buy (chi ching) insurance for the notebook in case repair were needed.  I did try to use it but they wanted a minimum of 3 weeks for repairs which I thought was unacceptable so I decided to deal with the original manufacturer warranty instead.
+Now it has been 3 weeks and they have agreed to replace the motherboard as bad.  However, the motherboard is in back order and they cannot give me an approximate ETA for ship-back.  Hmmmm.  Well, it looks like it will be more than 1.5 months before I will get the computer back and in working order.  For a high end notebook, this situation is completely unacceptable. :-S
+Now I am wandering if the computer will ever do this again. I looks like I got a lemon and have no recourse.  $1600+ down the drain.  *POOF*  This is the single worst experience with a computer that I have ever had.
+A note of caution, this computer runs very hot so if you nevertheless buy it after reading my review then I highly recommend that you get a lap mat with cooling fans lest you don't mind frying your legs.  LOL.

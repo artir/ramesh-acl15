@@ -1,0 +1,15 @@
+ID: B002ONCDSI-RBJU80ODWVK8N-A1X4ARIJ6JTYEZ
+Category: Laptops
+Product: Pavilion-DM3-1040US-13-3-Inch-Windows-Premium
+ReviewerID: A1X4ARIJ6JTYEZ
+ReviewerName: Christopher D. Blanchette
+Date: January 7, 2010
+Helpful: 1 of 1
+Rating: 3.0
+Title: One of the best in its category, but has its drawbacks
+Content:
+This notebook is very stylish and has solid manufacturing.  I think everyone knows that by now.  It is much more sturdy than the Acer 13.3" laptop that I tried, although the HP is about 1 lb heavier.  At any rate, everything has its drawbacks, here are mine:
+1) Touchpad simply doesnt work with the multi-touch gestures enabled.  When you open the notebook from hibernating, the mouse freezes and requires a hard shutdown to resolve.  Disabling the multi-touch gestures gets rid of this problem.  Also, the trackpad is jumpy and inaccurate at times.  For the average user, this really is not a big deal.  I consider myself an above average computer geek and I really have been able to manage just fine with it.  I did have to disable the multi-touch gestures(which gets rid of two finger scrolling, zoom pinch, etc) because there is a driver issue that makes it not work right.  (there is no resolution for this yet).
+2) Battery Life.  Other users of the same notebook with the intel processors have been getting 7+ hours of battery life with 50% screen brightness and normal wifi usage.  The best I can get on my machine is 4-5 hours.  To me, this is unacceptable given the standard set by other computers.  I spent 45 minutes on the phone with HP discussing the problem, but they wouldnt send me a new battery, so I'm unsure if it is just my machine.  It very well could be something wrong with mine, but it couldnt be figured out.  Just something people should be aware of as a possibility if you buy this machine.
+3) No dedicated home, end, page up, and page down keys.  It's really not a HUGE deal but I kinda wish they had just shrunk the keyboard size a little to include these keys.
+All things considered, my complaints really arent that bad.  Overall I am satisfied with my purchase.  It's definitely a sexy notebook that is snappy during everyday use.  Screen is great, as is the chiclet-style keyboard(best in class in my opinion).

@@ -1,0 +1,13 @@
+ID: B002P3KMQC-R2JIPI12VBZKMH-A1SHE33FOKOPXE
+Category: Laptops
+Product: N61VG-A2-16-Inch-Versatile-Entertainment-Windows
+ReviewerID: A1SHE33FOKOPXE
+ReviewerName: Ben Miller
+Date: February 9, 2010
+Helpful: 0 of 1
+Rating: 5.0
+Title: Great machine - Fantastic for audio workstation
+Content:
+This is my fist ASUS and I couldn't be happier. No negatives with the i7, 7200rpm Hard Drive, USB 3.0, virtually no bloatware (Trial of MS Office & Trend Micro Antivirus), great support, hard drive setup with 3 partitions (Express Gate, Windows 7 OS, data), runs quiet and is lighter than I expected.
+Got it mainly to process audio (Ableton Live Suite 8) and was a bit concerned how everything would run on Win7 / i7, but I had no problems.
+It's run everything I've thrown at it without hesitation.

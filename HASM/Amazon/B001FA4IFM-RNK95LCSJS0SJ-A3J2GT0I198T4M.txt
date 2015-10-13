@@ -1,0 +1,13 @@
+ID: B001FA4IFM-RNK95LCSJS0SJ-A3J2GT0I198T4M
+Category: SpaceHeaters
+Product: Holmes-HCH4953-U-Ceramic-Electronic-Thermostat
+ReviewerID: A3J2GT0I198T4M
+ReviewerName: C. Fankhauser
+Date: October 29, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great for a small office
+Content:
+This is a great little heater -- I use it at work under my desk to combat the seemingly constant flow of AC from the office vent system.  Even in the 750w "LO" setting, it very-quietly pumps out a steady stream of heat until it reaches the desired temperature.
+Pros: small, great heat output, extremely quiet, pretty affordable
+Cons: the thermostat is fairly limited, only allowing you to choose 60, 65, 70, 75, 80 and no degree-increment in-between.  navigating the "one touch" UI is a little annoying

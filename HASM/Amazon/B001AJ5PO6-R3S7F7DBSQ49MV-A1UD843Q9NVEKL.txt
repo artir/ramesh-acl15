@@ -1,0 +1,15 @@
+ID: B001AJ5PO6-R3S7F7DBSQ49MV-A1UD843Q9NVEKL
+Category: Laptops
+Product: Toshiba-A215-S5837-Satellite-Widescreen-wireless
+ReviewerID: A1UD843Q9NVEKL
+ReviewerName: Jack Daniels
+Date: October 20, 2008
+Helpful: 1 of 1
+Rating: 5.0
+Title: very happy so far.
+Content:
+This has been a great product.  I bought it a little over  4 months ago from Best Buy - $475... unreal.  Anyway, the twincore amd cpu is really nice to use, I can floor the cpu with one process, and it never seems to actually slow it down. Keep a rendering program active, and go checking email... works well.  
+I didn't use Vista at all, rather I immediately upgraded to Linux Mint.  For those of you considering this laptop and linux, know that the wireless driver is not yet available for this machine.  It's so close, but it's been that way about 3 weeks now...  Anyway, all the other drivers work fine.  great machine.
+Somebody mentioned that they had a mouse jumping issue with it; they were using Vista, I'm glad to see that, because mine does it too.  However, since this is linux, I thought it was an incompatibility.  I've recently found that keeping my thumbs further away - not resting on the space bar really helps me -- seems the touchpad is pretty sensitive, so... keeping away from it is a good idea.  It's also very tap-sensitive, I've been inadvertently clicking on stuff.  Of course that's all controllable too.  
+I don't use wireless that much, though I'll admit I'd be very pleased if it worked!  My laptop is a dekstop replacement as it's almost as powerful as my desktop.  The only area of concern is the single 5400 rpm drive.  It's as slow as any 5400 rpm drive. the actual drive is: TOSHIBA MK1637GSX.
+well that's my review.  Good Luck!

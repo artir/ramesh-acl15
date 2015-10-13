@@ -1,0 +1,36 @@
+ID: B002C745OQ-R1MVJLTVRNMDFO-A2UW1KXG86DD7I
+Category: Laptops
+Product: Apple-MacBook-MB986LL-15-4-Inch-Laptop
+ReviewerID: A2UW1KXG86DD7I
+ReviewerName: Richard Johnson
+Date: January 4, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Awesome Machine - Makes owning a laptop fun again
+Content:
+After 10 years of owning at least ten different laptop (Windows based PC) computers, this is easily the best computer I have ever owned (and the first apple PC).
+I bought this model after months of debating whether to stick with a windows based PC or to make the leap. I'm so glad that I finally made the leap. 
+I use my laptop for web surfing, word processing, spreadsheets, basic photo/video editing and occasional gaming. This machine handles everything with ease and makes it fun to boot! The addition of Microsoft Word for MAC allows me to utilize this for work also and is a wonderful change from my company issued Dell which seems to struggle with even the simple tasks. 
+I really love how clean and professional this computer looks - I can't stand how so many laptops these days adorn themselves with ugly plastic, bright and ugly looking colours with massive batteries hanging and often wobbling on the rear end. 
+Pros: 
+Beautiful, clean design and absolutely rock-solid construction quality.
+Fantastic LED screen - vivid colours with great contrast (the best I have ever seen on a laptop).
+Nice keyboard with backlit keys - absolutely essential when working in dim-light conditions.
+Trackpad is very nice to use with lots of options for finger gestures for rotating images etc.
+Fantastic battery life.
+Light and Compact for a 15.4" computer.
+Reasonable good on-board speakers.
+Nice compact power 'brick' with magnetic connection to Macbook.
+Decent built-in web-cam.
+useful SD card slot - means I don't need to bother with those pesky USB cables when offloading photo/videos from cameras.
+Powerful CPU - seems way quicker than a comparable windows PC.
+Dedicated GPU - Good for occasional gamers with the option to switch to an integrated chip to preserve battery life when pixel crunching and high fps are not so important.
+leopard/snow leopard OS are fantastic - so user friendly and easy to use.
+Very fast boot up times - so different from Windows!
+Ability to run windows based programmes and games through Bootcamp.
+Aluminium construction allows for efficient heat transfer to keep core components relatively cool
+Runs very quiet, even under considerable load - no loud fans.
+Cons:
+'Sharp' edge of palm rest can irritate wrists after extended amounts of typing.
+Battery is no longer user-replacable.
+I thoroughly recommend the macbookpro line to anyone wanting a laptop that will last and provide them with a fantastic interface for their computing.

@@ -1,0 +1,12 @@
+ID: B001SAS5NU-R1Y7P4QSI2XG86-A9MVPJEVGMXE6
+Category: CanisterVacuums
+Product: Factory-Reconditioned-Dyson-12446-02-DC21-Canister
+ReviewerID: A9MVPJEVGMXE6
+ReviewerName: A. McLean
+Date: March 21, 2010
+Helpful: 1 of 1
+Rating: 3.0
+Title: Agitator/motorhead cuts out; fix not difficult
+Content:
+I had this vacuum (great price!) for about four months before the agitator/motorhead cut-out problem started happening.  Very disappointed that it was not something reconditioned/checked by Dyson before it was re-sold.  The fix, though, is not difficult; it requires a small star-headed screwdriver (found in most 20-30+ piece driver sets), some plyers (needlenose are the best), and about 30 minutes.  
+The problem is that the sleeves for the power wire connections in the hose on the end connecting to the motorhead are too loose and occasionally one will not connect adequately. Opening up the plastic compartment on the end of the hose, taking the pin mount assembly apart (this is where the needlenose plyers are helpful, and note the order of the coloured wires which is also printed on the white mount), and slightly pinching the sleeves will do the trick.  Re-assemble, and your reconditioned Dyson will be as good as new.

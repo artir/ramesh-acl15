@@ -1,0 +1,15 @@
+ID: B000XA3DMY-R7EVZPN0XUMGS-A1GH3CMSL0PBNP
+Category: MP3Players
+Product: iAUDIO-I7-16RD-Portable-Multimedia-Player
+ReviewerID: A1GH3CMSL0PBNP
+ReviewerName: Daniel Golden
+Date: February 17, 2010
+Helpful: 0 of 1
+Rating: 2.0
+Title: Not particularly compelling
+Content:
+I only use the iAUDIO I7 for listening to music.  The audio quality is good, the USB flash drive feature is nice, and the battery life is stellar.  But there are too many bad things about this player.
+The swing touch interface is gimmicky without being practical.  I prefer buttons and scroll wheels.
+The user interface, for example, to add songs to the current playlist, is awful.  Songs are listed by filename instead of ID3 tag, which is really annoying for me; I title my MP3s using artist - album - track - title, which means that I have to wait for a lot of extraneous information to scroll by before I can tell what song I'm selecting.
+The JetAudio computer software is terrible.  I use Windows Media Player to transfer songs instead.
+I wish I could find a modern MP3 player that was as pleasant and easy to use as my old Rio Karma.

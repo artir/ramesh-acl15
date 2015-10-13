@@ -1,0 +1,22 @@
+ID: B000CD34US-RWAF56ZKBHDUG-A3Q5CHRRKD9RX5
+Category: SpaceHeaters
+Product: American-Harvest-Pellet-Stove-Exhaust
+ReviewerID: A3Q5CHRRKD9RX5
+ReviewerName: Joseph A. Demko
+Date: November 24, 2008
+Helpful: 20 of 20
+Rating: 4.0
+Title: The stove is good; the manual isn't.
+Content:
+The reason many people end up dissatisfied with this stove is poor documentation.  The stove really will efficiently burn wood pellets, cherry stones, corn, and other biomass fuels.  The problem is that the manual explains virtually nothing about how to adjust the stove to get an efficient burn out of any of these fuels.
+The fuel/air mixture is controlled from a digital keypad on the side of the stove.  It is rather cryptically labelled with the digits 1-9 and the letters A, B, and C.  The manual says that A controls the auger speed which means it controls how fast fuel is fed into the burn chamber.  B, it is claimed, controls blower speed.  C stops the auger for 90 seconds.
+Where we run into problems is that all the default settings, in my experience, have a fuel/air mixture that is too rich.  That is to say that there is too much fuel and not enough air.  The result is that the stove burns poorly, produces a lot of soot, and doesn't heat well.
+If you go to the keypad and simultaneously press and hold the A down arrow and the B up arrow for 5 seconds the display will flash; this means you can adjust base auger speed and base blower speed.  This is where the manual really falls down.
+Now press A.  The LED above A will light and you will see numbers in both the A and B displays.  7 and 7, for example.  What the booklet doesn't tell you is that this is basically a decimal display that means 7.7!  You can adjust auger speed by tenths all the way from 1 to 9.
+Press B and you can do the same thing with blower speed.  
+The booklet also confuses the blower issue.  There are actually two blowers at work.  B adjusts the blower that forces air into the burn chamber, not the fan that blows hot air into the area you want heated.
+With a clear idea of what the keypad actually does, you should dial auger speed way down and blower speed up.  With premium wood pellets I usually have the base auger speed set at around 2 and the base blower speed set at around 8.  From there, as you adjust the heat level up and down, you just have to adjust the damper accordingly.
+The manual notes that you should add chicken scratch to corn to avoid clinker formation.  I've found it's a good idea to add it to any fuel that you are using.
+Finally, avoid the temptation to run the stove with the damper too far open.  This gives a blow torch look to the flame.  You want to avoid it because it promotes clinker formation and because it blows a greater amount of fly ash around the inside of the stove than necessary.
+With respect to fuel types: Wood pellets produce the greatest amount of heat and the smallest amount of fly ash.  Corn and cherry pits have to be burned in greater volume to keep the house at the correct temperature and they produce greater amounts of ash.  This means, in practice, that the stove has to be cleaned less frequently with pellets than with other fuels.
+Overall, this stove works very well and would have a better reputation if American Harvest had put any effort whatsoever into producing a manual that explained how the controls function.

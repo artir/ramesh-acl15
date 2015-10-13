@@ -1,0 +1,13 @@
+ID: B001NEJO0Y-R3JICDSD1DCQMP-A2O5UBBBJ07EDA
+Category: Laptops
+Product: Toshiba-Satellite-A305-S6908-15-4-Inch-Laptop
+ReviewerID: A2O5UBBBJ07EDA
+ReviewerName: T. Wientjes
+Date: May 1, 2009
+Helpful: 
+Rating: 4.0
+Title: Very happy with laptop
+Content:
+I have had this laptop for a few weeks now and really enjoy it.  
+The one downside: the first thing I did when I got it was to try to uninstall some of the bloatware (the Norton 360 antivirus protection in particular, since I already had my own antivirus software and having two versions on the same system can cause all sorts of problems). Uninstalling that one program caused several error messages that I couldn't resolve (I'm not very tech-savvy).  It wasn't worth my time to fix it, so I did a system recovery and restored the computer to "out-of-the-box factory version" or similar terminology.  That fixed the error messages, but of course the Norton was back.  Being lazy, I've just decided to pay for the Norton rather than go through the hassle of uninstalling the bloatware.  So just thought I'd pass on my experience.
+Otherwise, I really like this laptop.  It's perfectly functional for what I need (web browsing, word processing, iTunes) and seems sturdy and durable.

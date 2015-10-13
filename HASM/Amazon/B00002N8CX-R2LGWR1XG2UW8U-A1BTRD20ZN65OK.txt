@@ -1,0 +1,13 @@
+ID: B00002N8CX-R2LGWR1XG2UW8U-A1BTRD20ZN65OK
+Category: CanisterVacuums
+Product: Eureka-3670-Mighty-Canister-Vacuum
+ReviewerID: A1BTRD20ZN65OK
+ReviewerName: Strphen E. Kramer
+Date: May 28, 2007
+Helpful: 11 of 12
+Rating: 5.0
+Title: Heads Up!    12 amps
+Content:
+I wanted a 9 amp.  Not successful.  Talked directly with Eureka. 
+Unless you can find an old stock 3670A or 3670F, or a 3672A, the current production model is only the 3670G - a 12 amp.   Ironically when I measure the amps with a meter the "G" shows 10.2, and our antique 9 amp Mighty Mite shows 6.2.
+Great vacuums, especially in the world of the newer coffee-cup size bag models.

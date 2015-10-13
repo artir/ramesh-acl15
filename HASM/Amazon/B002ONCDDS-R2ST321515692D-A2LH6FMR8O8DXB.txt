@@ -1,0 +1,11 @@
+ID: B002ONCDDS-R2ST321515692D-A2LH6FMR8O8DXB
+Category: Laptops
+Product: Pavilion-DV4-1547SB-14-1-Inch-Black-Laptop
+ReviewerID: A2LH6FMR8O8DXB
+ReviewerName: Rainforest biker
+Date: October 30, 2009
+Helpful: 10 of 24
+Rating: 3.0
+Title: Warning to those attempting to upgrade
+Content:
+In general, beware of the reliability of HP notebooks.  They work great, but half (3 of 6) those I've purchased over the past four years required motherboard replacements (usually between 18 mos and 36 mos, so buying the extended warranty is not a bad idea).  This particular model though has very "buggy" recovery software.  You simply cannot reinstall your operating system and drivers to a new (bigger) harddrive using the recovery disks.  You also cannot expect HP tech support to be of any help.  My suggestion is you wait six months or so for the feedback loop to work within HP to address these issues.  Otherwise, as your picture and music files grow, you'll be left with a very expensive door stop or bookend.

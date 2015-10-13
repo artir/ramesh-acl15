@@ -1,0 +1,16 @@
+ID: B001GCTT7G-RH27656TP9I1G-A1UCMNPPHIJXLQ
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A1UCMNPPHIJXLQ
+ReviewerName: belshaz
+Date: October 28, 2008
+Helpful: 26 of 67
+Rating: 1.0
+Title: sturdy, pretty, but unusable
+Content:
+The new Macbook looks great, and it's sturdy all-aluminum unibody design is awesome!
+So buy this computer if you don't plan to use it for work but only as a piece of high-tech decoration, or for showing off with friends. Two points make it absolutely unusable:
+The screen isn't only a glossy screen: its a hyper-ultra-mega-glossy screen, since a glass plate is mounted on top of the glossy screen. It's almost impossible to not be distracted by reflections when working with it, which causes eye-strain, fatigue, and maybe more serious ocular problems. Now, if you want to do your make-up or shave while working, this computer might be a good choice.
+Then of course, this computer is unusable for anybody making serious audio or video, or event just wants to use multiple speedy harddisks. Not only would that person have to sell all his Firewire equipment and by their USB2 equivalents (when they actually exist), he also would have to settle for far inferior technology, and suffer all the problems that come with the USB port versus Firewire: glitches, bottlenecks, asynchronicity, CPU strain etc. etc.
+Think twice before buying this computer: you may not use Firewire now, but will need it soon. You may not notice the glare and reflections of the glossy screen now, but you will feell the headaches and fatigue constantly having to reajust your vision sooner or later.
+Conclusion: a seductive but deceptive object, good to show off but not for work.

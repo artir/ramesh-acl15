@@ -1,0 +1,14 @@
+ID: B002C4KXJK-R2KNBCT6M81OHM-A10QPVM7SZ7SM4
+Category: Laptops
+Product: MSI-X320-037US-13-4-Inch-Laptop-Black
+ReviewerID: A10QPVM7SZ7SM4
+ReviewerName: Frederick Gaston
+Date: June 18, 2009
+Helpful: 13 of 13
+Rating: 5.0
+Title: The perfect ulta-portable at a bargain price.
+Content:
+After trying and returning an HP Mini 1000 from Verizon I ordered an X340 from Amazon and have no regrets.  While I think the new 11.6" form factor machines (e.g. Acer 751h) will be ideal for train use, I wanted the perfect ultra-portable for home which had a little more horsepower and a bigger screen.  As others have said, while this machine costs double what a 10" netbook does, it is a fraction of the price of a Macbook Air or Sony Vaio with pretty equivalent specs.
+The packaging and design of the X340 are beautiful, and contrary to some other reviewers, I do not find it to be too plasticy or the keyboard to have too much flex.  I think Timothy Lam's review is spot on so I won't duplicate.  The machine runs Vista 32 respectably right out of the box, but I immediately upgraded to Windows 7 32-bit without a hitch or DVD drive using a shareware program called Virtual Clone Drive.  Projected battery life increased by about 20 minutes to 4:07, but I have not had it long enough to cite what you can realistically expect.  If that is unacceptable there is supposed to be an optional 8 cell battery, or you should consider the X320 with Atom Z530 and 8 hour battery life for $600 (same size and great screen). 
+I think the screen size is ideal for an ultra-portable, and despite the screen being glossy, I noticed very little glare, especially compared to the HP 1000. Although the touchpad lacks 2 discreet buttons, I found it to be excellent, as are the speakers for a notebook.  The light weight and ergonomics were perfect for chilling on the couch, and working or surfing.  It really is a delight to use, and kind of intoxicating.
+In summary, depending on your needs, there is virtually nothing to dislike about this computer and I think MSI has scored a big hit in this 13.4" ultra-portable category.

@@ -1,0 +1,11 @@
+ID: B002SJ38KK-R38UUNAKAD7IYS-ADF96ZWT2YNAE
+Category: Laptops
+Product: Acer-Aspire-AS1410-2954-11-6-Inch-Notebook
+ReviewerID: ADF96ZWT2YNAE
+ReviewerName: Gilbert Reed
+Date: March 20, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Acer 11.6 Inch Notebook
+Content:
+It has a great keyboard. It is standard size. You can really punch out some work with it. Acer Support has all of the XP drivers so you can downgrade(?) to XP, as I have done. I am dual booting XP and LINUX Mint from a partitioned hard drive. I replaced the Hard Drive(Easy to do), which has 7 Home Premium, with a 80GB from 3BTech. You have to change the Bios so that a IDE hard drive will work.(Easy too, now that you know). Good display, although the shinny display can get some reflections. Has HDMI output. Plugs right into a big screen HD TV. One cable for video and sound. Decent web-cam. WiFi works good. I use XP/SP3. I don't have a problem with 7(For me XP is still better). I have some old XP photo-editing software, old but serviceable and cheap to operate printers, and a scanner that Cannon doesn't have 7 drivers for. So I do not have to spend hours learning to use new software. Everything works with XP(Even the new stuff). LINUX Mint 8 has the drivers already. Easy to install, although it was hard figuring out how to get XP to be default boot so it boots first. (The simpler way to do this is to install package software called "Startupmanager") Linux Mint for web surfing (NO VIRUSES) Google Earth and Google Chrome on Mint. If you have the time to play with it, LINUX can be a interesting hobby. The files on The XP partition are accessible when using Mint. Really nice, light and compact laptop. I had a ASUS eee Netbook. It was a little too small.

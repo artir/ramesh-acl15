@@ -1,0 +1,17 @@
+ID: B002PAQXAE-R1JRCOASQPLT8D-A1U8IK69GLLK5M
+Category: Laptops
+Product: UL20A-A1-Light-12-1-Inch-Silver-Laptop
+ReviewerID: A1U8IK69GLLK5M
+ReviewerName: B. Robichaud
+Date: February 26, 2010
+Helpful: 3 of 4
+Rating: 5.0
+Title: Awesome little machine
+Content:
+The UL20A is really nearly the perfect machine in its class. The power in this little thing is quite impressive, keeping in perspective this is not a full sized laptop.
+If this is the size laptop you're after it is hard to beat the features. The aluminum-like finish on the cover is so much better than all those glossy black laptops out there. The keyboard is a standard laptop keyboard layout, not the super squished layout of a netbook, and it has a great feel. The screen is bright a crisp. It also comes with a super small power brick. The thing gets pretty warm, but the size is just one more thing that makes this laptop so portable.
+Fast boot. Wow, this thing is by far the fastest booting machine I have ever used. I replaced the hard drive with a Solid State Drive and I can literally boot to a usable desktop in Windows 7 in 30 seconds from power off. No kidding. Even my Core i5 desktop with Intel SSD doesn't come anywhere near this speed. They have super optimized the BIOS to get passed many of the slow issues with bootup on most machines.
+So the downsides. The lack of bluetooth and gigabit lan on a laptop in 2010 is just plain bad thinking. These are low cost items that should be in every single laptop on the market, period. Sure I can get bluetooth with a tiny usb dongle, but why should I have to? And 10/100 LAN? Come on, that is so mid-2000's.
+The touchpad is not the best design I've seen. It has small divets on the surface, but otherwise there is no way to tell when your finger has moved off the touchpad. Finding the scroll regions is particularly hard, though the new dual touch scrolling feature of the Synaptics software goes a long way to mitigating this. The touchpad takes some getting used to, but give it a chance.
+Lastly, price. Paying 5 or 6 bills of this thing seems like a lot when you get can a full featured and high powered laptop for the same or less. But I keep telling myself it is small and in electronics you always pay for small. But still. If this thing were say $450, I'd recommend it to everyone I know.
+Thinking about buying one? Go for it, you'll not be disappointed.

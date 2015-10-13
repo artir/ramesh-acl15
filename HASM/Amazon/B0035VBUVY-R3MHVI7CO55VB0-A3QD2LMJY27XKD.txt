@@ -1,0 +1,11 @@
+ID: B0035VBUVY-R3MHVI7CO55VB0-A3QD2LMJY27XKD
+Category: Laptops
+Product: Acer-eMachines-E525-2200-Notebook-PC
+ReviewerID: A3QD2LMJY27XKD
+ReviewerName: Jason Holton "jholton"
+Date: February 1, 2010
+Helpful: 5 of 6
+Rating: 4.0
+Title: Good budget notebook
+Content:
+Just got this today. As a test for the processor and ram I downloaded Wow. It runs at about 23 fps. Which is better than the desktop I had that had an AMD processor. It is a new experience working on Windows 7. It is pretty nice, but will take a little bit to get used too. Over all very satified at the moment.

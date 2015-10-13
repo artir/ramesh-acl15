@@ -1,0 +1,20 @@
+ID: B001JTA59C-RWBXD4AQS1LFI-A1O430C6F07VV2
+Category: Laptops
+Product: Mini-1000-Notebook-Processor-Brightview
+ReviewerID: A1O430C6F07VV2
+ReviewerName: D. Fichtner
+Date: December 18, 2008
+Helpful: 8 of 10
+Rating: 3.0
+Title: Almost, but not quite.  A few glaring issues.
+Content:
+I had the opportunity to test this netbook for a weekend, after borrowing it from a friend. 
+The above review is excellent, but I'd like to add/reiterate a few important details. 
+1. Despite having a larger screen, the video resolution is actually lower than that of the HP netbook predecessor, the HP 2133. The HP 2133 has 1280x768 resolution. This netbook has the typical 1024x600 netbook resolution. That is a big disappointment, and a downgrade despite the larger screen. 
+2. The audio in/out port is a major flaw. You cannot hook headphones and a microphone in at the same time, because there is just one port! As I expected to use this netbook with skype, this was a major disappointment that is not an issue with competitors. You can, however, use the HP's built-in mic and plug headphones into the single audio port, but people I was chatting with found there was a lot of extra background noise that wouldn't have been there with a traditional headset mic. 
+3. The proprietary HP HP Mini Mobile Drive port for additional memory is a disappointment. HP has a habit of making such things proprietary, and charging through the nose for such additions, and it's too bad. Beware of this. 
+4. The case is now plastic, rather than the rugged aluminum on the 2133 model. This makes it lighter, but less impressive. 
+5. The webcam does not work well, unless you have a LOT of light. 
+6. The hinge system is different than on the 2133. It doesn't bend back quite as far. This might be an issue for taller people wanting to place the computer in their lap. 
+7.  This netbook runs borderline hot.  Not as hot as the VIA model from HP, but certainly hotter than most Atom netbooks I've played with.
+Otherwise, there are lots of things to love about this little machine, as mentioned in the other reviews.

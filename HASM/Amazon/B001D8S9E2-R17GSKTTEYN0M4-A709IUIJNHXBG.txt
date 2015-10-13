@@ -1,0 +1,16 @@
+ID: B001D8S9E2-R17GSKTTEYN0M4-A709IUIJNHXBG
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A709IUIJNHXBG
+ReviewerName: J. Biddy "jb-in-nc"
+Date: December 6, 2008
+Helpful: 2 of 4
+Rating: 5.0
+Title: Very speedy, incredibly quite
+Content:
+This is my first Mac and it has so many great points. Most impressive are it's speed and how quite it is when running. When I run any website with flash video on my 2 year old desktop computer, the fans immediately begin to spin at full velocity. The Mac manages to play flash video without breaking a sweat, and without so much as a sigh. Safari loads web pages crazily fast. Some pages load instantly, such as GoDaddy, even if the page has not been cached. Very impressive.
+The wireless-N receiver in the MacBook works great and manages to pick up wireless signals with very high reception that my friend's recent model Dell laptop doesn't even recognize (even though it has a wireless-N receiver also).
+I love the new trackpad. It makes navigation very quick and can be customized to suit your likes. By default, you have to press down on the track pad to click, but you can change the behavior so that only a light touch will click, very similar to how you click on the iPhone. Scrolling with two fingers quickly becomes second nature, and using 3 fingers to navigate backwards in the web browser is handy. A two finger tap brings up the secondary menu for where you click. Perhaps the funnest trackpad gesture is using the four finger "throw" to send all the open windows flying to the edge of the screen to reveal your desktop. Another four finger "pull" brings them back into view, and another "pull" will bring up Expose so you can view all open windows and choose the one you are looking for quickly. Even though I've never owned a Mac before, I've tested out past editions that had the click button at the bottom of the track pad, and I think it's removal is a positive thing and a little bit of playing around with the new trackpad gestures should convince old users of the same.
+Spotlight makes launching an application a split-second process, and I much prefer it to using the dock. Spotlight also lets you speedily find a file you are looking for by typing all or part of it's name. And searching within the Finder (the Mac's equivalent to Windows Explorer) makes finding the file you are looking for a very easy and satisfying procedure. If only Windows had this feature. I think it is a basic and obvious thing to have in any operating system.
+My MacBook immediately recognized the shared parts of my Windows network without any work on my part. I was pleasantly surprised by this. I wish I could say that my Windows machine was as quick to recognize my Mac on the network.
+The built-in iSight camera also works wonderfully. My only gripe at all so far with the Mac is that using my iPhone (which I already had synced with my Windows machine) is not a very user-friendly process, and it is not immediately obvious how to make the iPhone work with multiple machines. For a company that prides itself on user friendliness, they should really work on this aspect of their software. Overall thought, I highly recommend the latest edition of the MacBook.

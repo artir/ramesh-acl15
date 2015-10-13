@@ -1,0 +1,13 @@
+ID: B00185XISW-R3W1KA4K8XSJKW-A33BCSJS02JKLV
+Category: SpaceHeaters
+Product: Eco-heater-602-High-Efficiency-Electric-Whole-Room
+ReviewerID: A33BCSJS02JKLV
+ReviewerName: John Murphy
+Date: November 9, 2008
+Helpful: 35 of 44
+Rating: 1.0
+Title: not efficient
+Content:
+For Product Features it states that it uses 30% less energy than other heaters. Well, guess what. It also puts out less than 30% of the heat than other heaters. They don't want you to know that. That is why they don't tell you the btu output.
+It's impossible for a space heater to turn electric energy into heat energy more efficiently. (unless its a heat-pump)
+Weather the heater uses tungsten, quartz, ceramic, etc. You still have the same formula: 1 watt = 3.41 btu

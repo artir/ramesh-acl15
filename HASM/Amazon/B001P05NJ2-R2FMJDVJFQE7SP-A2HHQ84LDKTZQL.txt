@@ -1,0 +1,11 @@
+ID: B001P05NJ2-R2FMJDVJFQE7SP-A2HHQ84LDKTZQL
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: A2HHQ84LDKTZQL
+ReviewerName: Terry Grieves "RoadToad"
+Date: January 9, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great with a caveat
+Content:
+I love this MacBook Pro in every way except for the way trackpad gestures are implemented in Adobe CS4. The zoom and rotate gestures are way too sensitive and are easily activated unintentionally making Photoshop, InDesign, Illustrator, etc. almost unusable. Adobe has got to correct this very annoying problem. One more thing, the edge of the unibody where your palms rest is sharp. I took some sandpaper and rounded it off a bit. Oh yeah, another one more thing...the hinge is not strong enough to hold the LCD monitor in all positions (like when your using the notebook lying in bed).

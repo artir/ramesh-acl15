@@ -1,0 +1,17 @@
+ID: B002P3KSKW-RKIYDA8OJ0KBI-A1EMZYBGEC5WKD
+Category: Laptops
+Product: Acer-Timeline-AS4810TZ-4508-14-Inch-Aluminum
+ReviewerID: A1EMZYBGEC5WKD
+ReviewerName: Pat Rowe "satori scribe"
+Date: December 2, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Why get a netbook when you can have it ALL?!
+Content:
+I've had this baby over a month now. And I am impressed!
+The dual-core ultra-low voltage processor in this machine is powerful, yet it sips juice like it was liqueur!
+I've been able to watch videos with no jitter or lag, do spreadsheet work, just about everything my gigantic desktop machine will do, all UNPLUGGED!
+The only cons I've found are minor:
+     1. The wireless internet adapter built into the machine was very difficult to network into my home network. It took about 45 minutes of help from a computer genius that I know, to find some obscure Tech Support bulletin and go into the registry and change a "0" to a "1". (Yes, that's all it took, but finding the RIGHT zero was the trick...)
+     2. As you've heard from others, the simple lack of a CAPS LOCK light is very frustrating. Can't believe that Acer left that out! Hopefully, I'll find some utility online that at least makes a flag on the SCREEN when CAPS LOCK is on.
+The light weight, relatively big screen, full-sized chicklet-style keyboard, fast boot time, fast processing and DVD-ROM do it for me. Along with, of course, pretty amazing battery life (I'm getting about 6 hours actual USAGE - not idle time - but I'm not doing any real careful energy-management either).

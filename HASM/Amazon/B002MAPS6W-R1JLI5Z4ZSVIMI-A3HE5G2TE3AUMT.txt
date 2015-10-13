@@ -1,0 +1,11 @@
+ID: B002MAPS6W-R1JLI5Z4ZSVIMI-A3HE5G2TE3AUMT
+Category: MP3Players
+Product: SanDisk-Sansa-Clip-Player-Black
+ReviewerID: A3HE5G2TE3AUMT
+ReviewerName: schnack
+Date: January 13, 2010
+Helpful: 13 of 27
+Rating: 1.0
+Title: Pitch problem...
+Content:
+When reading this review, keep in mind that I have never actually used this product.  This review is simply to warn potential buyers about a flaw that I wish I had known about before ordering this product.  This issue may or may not be important to those thinking about purchasing a clip+.  One reviewer mentioned the pitch/speed problem that has plagued a few of Sansa's products over the past few years.  He said that this problem has been fixed in the clip+, but although the problem may have been lessened, as far as I know it does still exist.  The clip+ still plays slower and at a lower pitch than it should.  In fact, Sansa has released a statement saying that they WILL NOT be releasing any firmware in the future to fix this problem.  It is very slight (between 19 and 20 cents, or 0.247%, if that means anything to any of you), but if you are a musician who might want to play along with your clip +, or if you think this might detract from your listening enjoyment, you may want to look elsewhere for an mp3 player.  There is a workaround.  You can encode your music files at 48k instead of the usual 44.1k, and they will then play at the correct speed/pitch.  But most people don't want to have to deal with such issues, even if they do know how to change such settings on their encoding program.  This player does have quite an impressive feature set for its price.  But if you were wondering what the catch is, well, there it is.  Pretty ridiculous if you think about it.  If it were a cassette tape player, I could understand.  But this is a digital music player using much more modern, supposedly superior, technology. Most people will not notice or care.  I just think people should know the whole truth before buying this product.

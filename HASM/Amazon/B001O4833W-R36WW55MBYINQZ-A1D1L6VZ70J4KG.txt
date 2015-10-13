@@ -1,0 +1,11 @@
+ID: B001O4833W-R36WW55MBYINQZ-A1D1L6VZ70J4KG
+Category: SpaceHeaters
+Product: SCI-Resource-Partner-G3-1000-EdenPURE-Infrared
+ReviewerID: A1D1L6VZ70J4KG
+ReviewerName: Conrad D. Shull
+Date: January 26, 2010
+Helpful: 3 of 3
+Rating: 1.0
+Title: Pure Hogwash
+Content:
+No 110 volt electric heater is allowed to pull more than 1500 watts.  Electric heat is essentially 100% efficient (remember electric waste IS heat). 1500 watts produces approximately 5,000 BTU/hr. A $19.95 "milkhouse" style heater from a big box store or, better yet, your local hardware store produces exactly the amount of heat using the exact amount of electricity an EdenPure unit produces (actually because of it's unique quartz heater/copper tube design, the EdenPure is slightly less efficient). The "rides the humidity" claptrap is spurious nonsense. In other words, if you buy an EdenPure, you are paying $349 (minus $19.95) for clever, misleading marketing and a spiffy looking box.  What you are NOT paying for is better, cheaper heat.

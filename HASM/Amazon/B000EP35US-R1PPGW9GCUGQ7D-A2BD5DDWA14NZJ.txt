@@ -1,0 +1,13 @@
+ID: B000EP35US-R1PPGW9GCUGQ7D-A2BD5DDWA14NZJ
+Category: MP3Players
+Product: Apple-iPod-Silver-Generation-MODEL
+ReviewerID: A2BD5DDWA14NZJ
+ReviewerName: Harald Munteanu "Lifestyle"
+Date: December 8, 2006
+Helpful: 5 of 11
+Rating: 2.0
+Title: Major issues -  Freezing and skipping songs!
+Content:
+Nowadays, it is very common to throw unfinished software on the market letting us, the users to beta- or even alpha-test the product. And the software is IPod's major issue, because the hardware is really sweet! I love the design and I love the handling too, but the firmware is total crap! Because, like I wrote in the title, my iPod having the firmware ver. 1.1.1 (which is not 1.0) installed, skips and freezes at songs that are ripped from original cd's or downloaded with iTunes. The forums on [...] are full with exactly this kind of complains - now, I'm asking myself, are there ANY developer tests in the Apple house before a bugfix is released?
+Do we really have to wait before we buy ANY product that has software installed until the Service Pack 2 comes out? 
+Anyway thank you, Apple for providing me such a beautiful player, which skips so many songs!

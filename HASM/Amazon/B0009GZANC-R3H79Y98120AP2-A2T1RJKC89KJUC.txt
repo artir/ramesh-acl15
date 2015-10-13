@@ -1,0 +1,14 @@
+ID: B0009GZANC-R3H79Y98120AP2-A2T1RJKC89KJUC
+Category: DigitalSLRs
+Product: Nikon-Digital-Camera-18-55mm-3-5-5-6G
+ReviewerID: A2T1RJKC89KJUC
+ReviewerName: L. Tao
+Date: September 8, 2005
+Helpful: 45 of 54
+Rating: 4.0
+Title: Great Camera, but lacked critical features
+Content:
+I read a lot of great reviews about this camera, and I bought it and tried it out before returning it last week.  It responds very fast, the focusing and quality of the pictures were brilliant, however I was disappointed in the software package it came with among other things.
+Pros: Fast, cheap, feels great in hand, great picture quality.  Easy picture modes for the amateur / starter photographer (my mom).
+Cons: No depth-of-field preview, no custom white balance, menu options generally limited, encrypted RAW white balance means only Nikon Capture can read as-shot white balance info (meaning if you use Adobe Camera RAW, all your shots turn out bluish).
+I didn't think it would be an issue, but I shoot mostly in RAW, and converting batches of files using Nikon Capture (which is 99$ extra by the way) is slow and disrupted my Adobe workflow.  The lack of custom white balance meant having to use their presets for difficult indoor lighting (like tungesten) which didn't always give me good results, hence RAW conversion it is.  For not much more you can get an excellent Konica-Minolta 5D/7D with image stabilization (Nikon & Canon lenses with it cost $400+), or the excellent Canon Rebel XT if you don't mind the smaller grip and menu-based controls.  If you are more serious about photography and full control, I suggest those or the D70 instead.

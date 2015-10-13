@@ -1,0 +1,21 @@
+ID: B00126NSVE-RHUJ826TDM6SZ-A3DF6QWUMLEL3H
+Category: MP3Players
+Product: SanDisk-Sansa-View-Video-Player
+ReviewerID: A3DF6QWUMLEL3H
+ReviewerName: JA008
+Date: October 11, 2009
+Helpful: 
+Rating: 2.0
+Title: Disappointing... clunky operation
+Content:
+I bought the Sansa MP3 player over other MP3s because of its supposed connectivity with Rhapsody (which i love and have been a member of for years). 
+Technically, yes, one can download (with an upgraded Rhapsody subscription) music to the Sansa View, so one can listen to music off-line.
+So that's all good and well. But the reality is that the MP3 player is so clunky, gives one so many headaches, it constantly freezes while connecting to Rhapsody music service, that in the end I gave up after having reformatted the device numerous times and wasted many hours to no avail.
+Yes it does work. But with so many glitches that eventually one will give up on it.
+And there are numerous irritating issues. 
+Example: Very slow fast forwarding. If you have language tracks of 20 minutes each (like I do, trying to learn a foreign language), and you want to forward to minute 15, it takes for ever.
+Another example: Where are my tracks?!!! I can copy and paste from the Windows Explorer, and they do copy and show and play in my MP3 player, but they do not show in my PC when connected via the USB cable.
+** Summary **
+A lot of quirks.
+Good points: it's got a decent FM radio.
+Bad points: everything else.

@@ -1,0 +1,15 @@
+ID: B002P3KMP8-R32SOYC4CQM0OJ-A1RPBAR34WOLQM
+Category: Laptops
+Product: UL50AG-A2-Light-15-6-Inch-Black-Laptop
+ReviewerID: A1RPBAR34WOLQM
+ReviewerName: K. Lang
+Date: April 18, 2010
+Helpful: 
+Rating: 5.0
+Title: Great laptop for those looking for excellent value.
+Content:
+We recently purchased this reconditioned laptop with Win 7 Home Premium. We wanted to take a computer with us for a trip to Washington D.C. and were originally looking at netbooks. Unless a small size is your top reason for purchasing a laptop, skip the netbooks. By the time you add on the extra RAM to equal what this unit comes with by default, an external optical drive so you can install third party software, and a full version of Windows 7 instead of the "light" version almost all netbooks come with, you're paying at least as much for your "cheap" netbook as this unit.
+Battery life is excellent. Is it the fastest thing in the world? No, but we expected that. Neither though is it slow. The price perfectly fits the performance. It will easily do what we intend to use it for without feeling sluggish.
+In what seems to be the norm with all Windows computers, the Asus comes loaded with tons of worthless software. Besides the plethora of junk software to get rid of, a large portion of a 320 GB drive was being consumed by a backup of the system software on a hidden partition. Hardly necessary since the computer came with restore disks. I knew I would never use those things though since that would just put everything back on the hard drive I wanted to remove, and has no option to do anything but destroy every bit of data currently on the drive. What if you need to save important data first from a system that won't boot?
+Quite seriously, I find it hard to believe consumers haven't filed a lawsuit against PC manufacturers who don't give you a real copy of Windows, which you paid for, on a disk. At least Asus does give you restore disks with this unit. Some manufactures only put a copy of the system software on the hard drive. And just how is that a backup, or even useful? A real disk, similar to a retail copy, would allow you to repair the drive so you could backup important data first before doing a restore or other rebuild of the hard drive.
+What I did was take the retail copy of Win 7 Home Premium I bought to install on my Mac Pro and wiped the laptop drive with it completely, repartitioning it into a C and D drive. After installing Win 7 from the retail disk (still completely legal since the laptop came with the same version of Win 7 and has its own product key to activate it), I then used the driver disk that came with the laptop to get the hardware working the way it should. End result was a laptop that boots and works much faster and better than it did with the factory setup. I then use Norton Ghost to make complete backups of the drive on a regular basis to the D drive partition. Those backup files then get copied to an external hard drive. Way easier to do a restore of the laptop to its last backed up state in case of a virus or something than starting over from scratch.

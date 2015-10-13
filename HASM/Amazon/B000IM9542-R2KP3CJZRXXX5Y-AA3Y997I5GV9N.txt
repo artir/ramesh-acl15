@@ -1,0 +1,12 @@
+ID: B000IM9542-R2KP3CJZRXXX5Y-AA3Y997I5GV9N
+Category: MP3Players
+Product: SanDisk-Sansa-c250-Player-Black
+ReviewerID: AA3Y997I5GV9N
+ReviewerName: W. Dormann
+Date: October 20, 2008
+Helpful: 0 of 1
+Rating: 2.0
+Title: Very poor software - skip this one!
+Content:
+This MP3 player has pretty poor software.   For the life of me, I couldn't get it to play tracks in the order that they appear on the album.   With my MP3 collection, you could sort by file name, ID3 tag, or even date created and you'd end up with the proper order.  But this unit played them alphabetically!
+Text contrast on the screen is awful.

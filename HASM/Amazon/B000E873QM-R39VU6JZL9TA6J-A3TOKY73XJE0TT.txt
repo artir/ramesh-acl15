@@ -1,0 +1,16 @@
+ID: B000E873QM-R39VU6JZL9TA6J-A3TOKY73XJE0TT
+Category: MP3Players
+Product: MP-C827-Player-Flash-Memory-Drive
+ReviewerID: A3TOKY73XJE0TT
+ReviewerName: Walter Brameld IV
+Date: January 11, 2007
+Helpful: 1 of 2
+Rating: 3.0
+Title: nice basic MP3 player
+Content:
+While overall I think this is a great MP3 player for its price, I'm giving it only three stars because of these two complaints:
+1. The included neck strap speakers are crap.  At first I thought the player itself was outputting a lousy signal, but then I tried it with the headphones I use with my computer and it sounded just fine.  Just throw away the included ear buds.  If you don't already have a set of headphones, you'll need to get some to use with this player if you ever want to play music on it.  Factor that into the cost.
+2. The volume control buttons are reversed.  The button on the left increases volume while the one on the right decreases it.  This takes some time to get used to.
+On the plus side, interfacing it with my computer couldn't have been easier.  It's a standard USB mass storage device, so it will work with most systems even without the driver disc.  It's USB 2.0, so file transfers are quick if your computer also has USB 2.0.  While you can plug the device directly into a USB port, it also includes an extension cable.
+There is no LCD display, but I consider this a plus since it would just cut down the battery life for this simple player.
+Get this player if you're on a budget and all you need is a basic portable MP3 player that can hold a few hours of music.  It's perfect for taking walks in the park.

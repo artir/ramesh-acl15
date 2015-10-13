@@ -1,0 +1,18 @@
+ID: B002OL2M18-R1TURISRY8XZ3N-A1I1IBEQK7PPZX
+Category: Laptops
+Product: Toshiba-Qosmio-X505-Q830-TruBrite-18-4-Inch
+ReviewerID: A1I1IBEQK7PPZX
+ReviewerName: Sparkle "Sparkle"
+Date: December 5, 2009
+Helpful: 18 of 25
+Rating: 3.0
+Title: Known Bug with Windows 7
+Content:
+I did weeks of research, (as with 90% of the items I purchase).  And decided on this particular laptop because it had all of the desired specifications I needed for video and music editing. I've had the laptop for less than a week and I'm strongly considering returning it to the manufacturer.  
+First reason, I don't have administrative writes to all parts of my hard drive. I can't save files on my c:\ drive except in my "user" folder.  I kept getting an error message stating: "You don't have permissions to save to this location.  Contact the administrator to obtain permission."  However, I am logged in as the administrator. The only folder I'm able to write to on the hardrive is my user folder. I called Toshiba's technical support and they informed me that this laptop has a known issue/bug with Windows 7. In order to fix you must do a full recovery of your hard drive but make sure you back it up first!  Apparently the system has a hidden partition which allows you to rest it back to it's original factory settings. By removing the battery for 2-3 hours while it's plugged into the wall,(ok whatever).
+Second reason, I'm not used to the Toshiba's "System Control Panel" located next to the typing keys.  I find myself mistakenly hitting one of those 8 buttons all the time while I'm typing. Which launches either;  an application, disk drive, mute button or something else.  
+Third reason is the touchPad used to move your mouse curser. I find it's in an awkward place for me,(It's slightly off-center and I'm not sure why, or maybe I'm just slightly off center).  I find as I'm typing, if my hands slightly touches the TouchPad, the cursor jumps to weird places anywhere on the screen.  One nice feature is you can disable the touchPad as your typing.
+I'm not impressed with the Harman/Kardon speakers.  I thought the quality was just okay.  Whenever I turned the speakers up as loud as they would go,(to watch a movie on the beautiful screen), the sound would crack as I increased the volume - and once it's turned all the way up, the volume would go up and down unexpectedly.
+Overall, I find that this laptop is not really a "portable" laptop. I purchased it as a desktop replacement so I don't have to be confined to my office. I figured I can work other places in my house and this is fine. But I can't see myself taking this one to a coffee shop because it's just too big and heavy.  As a matter of fact, I find it very difficult to work with this computer while in my pajama's in bed. 
+But in all fairness, this laptop is a "Beast" with all of it's power, that's why it gets 3 stars. Surfing the Internet is smooth and seamless.  Anything that requires large amount of resources like video editing and gameing should not be a problem, this laptop should handle all of your multi-tasking with ease.
+I will try to fix my bug and let you know if I was successful and also if I decided to keep or return it.

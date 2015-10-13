@@ -1,0 +1,22 @@
+ID: B0027P9BZG-R3L8D00FRC28IJ-ACZZATXUFRN1I
+Category: Laptops
+Product: Sony-VAIO-VGN-FW465J-16-4-Inch-Laptop
+ReviewerID: ACZZATXUFRN1I
+ReviewerName: Vinicius C. Carvalho
+Date: October 16, 2009
+Helpful: 
+Rating: 4.0
+Title: Minor problems, nice computer
+Content:
+Well, after a week using this computer, I have a few considerations for those wishing to get one:
+Bad points
+* Screen : Although very nice the 16" screens suffers from reflection, its a pain to get a good view position, bright environments makes it almost impossible
+* Battery: The worst I ever had: Lasts less than 90 minutes with bright dimmed
+* Keyboard: Really, really bad. the individual keys makes a lot of noise, and its somehow hard to press them, not as good as Macbooks
+* Software: Every single software installed from Sony are broken (Vaio update, crashes all the time)
+* Temperature: The place you are supposed to rest your right hand, next to the stickers  is really hot (maybe HD is beneath it)
+Good points:
+* Graphic card is really nice
+* Sound: Good sound speakers
+* Appearance: Its a Vaio no need to go further, very nice, beautiful piece of hardware
+* Silent: Really quite, really nice to use

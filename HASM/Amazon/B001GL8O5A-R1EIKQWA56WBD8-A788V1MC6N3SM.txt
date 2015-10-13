@@ -1,0 +1,11 @@
+ID: B001GL8O5A-R1EIKQWA56WBD8-A788V1MC6N3SM
+Category: Laptops
+Product: Dell-Latitude-E6400-Processor-DDR2-800
+ReviewerID: A788V1MC6N3SM
+ReviewerName: Peedy W. Legs "peedy-w-legs"
+Date: July 13, 2009
+Helpful: 0 of 1
+Rating: 1.0
+Title: One major flaw.
+Content:
+Bought several E6400 laptops for our company.  Operationally, they are good, but they have one major flaw (as mentioned in other reviews) - the finish they now use on the casing is atrocious.  It shows every print, smudge, mark, etc. anytime it is touched, anywhere...including the outside cover.  The keyboard and palmrest will wear out quickly, and one has had the paint around the speaker area start to chip off (btw, the sound quality of the speakers is subpar for a laptop).  Dell really screwed up on this one, and you can only hope for a mid-cycle refresh will include using a finish similar to the previous D630 Lattitude, which did not have this problem.  If you use this at home, maybe you won't care.  But for business use, you will find the finish very aggravating and your machines look like cr@p at your client sites - image is everything.

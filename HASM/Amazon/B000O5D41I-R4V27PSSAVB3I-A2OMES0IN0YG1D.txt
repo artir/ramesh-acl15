@@ -1,0 +1,14 @@
+ID: B000O5D41I-R4V27PSSAVB3I-A2OMES0IN0YG1D
+Category: Laptops
+Product: DV9320US-Pavilion-Entertainment-Processor-SuperMulti
+ReviewerID: A2OMES0IN0YG1D
+ReviewerName: Linda R. "value hunter"
+Date: November 1, 2009
+Helpful: 
+Rating: 1.0
+Title: Buy the best/longest service contract you can get!
+Content:
+Warning: This computer may have a well-documented defect related to nVidia.  nVidia took a huge write-off in July 08 related to this defect. If you search online for "nvidia geforce 6150 hp defect" you'll quickly find what I'm talking about.  No one who has any way of knowing is talking about how many of the computers sold end up having the problem, but you'll see there are lots of them.
+This was my first notebook computer, purchased from Amazon in May 07. I was thrilled with it. I chose it over others because the numeric keypad was important to me and because of the HP name. I really liked the large display.  It ran great till August 08. Then it began crashing. HP informed me it qualified for a Warranty Service Enhancement. They replaced the system board and cover at no cost to me.  I was impressed. It never occurred to me that they would put another defective board in.
+It ran fine until 1 year and 2 days later, when it began intermittently booting to a black screen. Then I lost my wireless connection.  HP wouldn't talk to me about the latter unless I paid $50 for support.  I took it to a local shop, and over the next 10 days they tried everything they could think of, ending up with using recovery to restore the computer to its original state, but the problems were getting worse.  Ultimately, they called HP and HP offered to fix it (replace system board again) for the "discounted" price of $285.  Not a bad price if there was any guarantee it wouldn't die again in a few months - but there wasn't.  I spent that money on a used desktop, and I now have a very expensive paperweight.
+I paid 2/3 of the price I see this offered for now, and I expected to have this computer for at least 4-5 years.  If you like the features and want to take a chance, be aware that it could happen to you, too.  Get a great, looong service contract, and hope for the best.

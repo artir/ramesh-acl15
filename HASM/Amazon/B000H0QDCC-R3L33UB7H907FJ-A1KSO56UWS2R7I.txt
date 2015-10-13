@@ -1,0 +1,29 @@
+ID: B000H0QDCC-R3L33UB7H907FJ-A1KSO56UWS2R7I
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Brown
+ReviewerID: A1KSO56UWS2R7I
+ReviewerName: Adam L. Safianow "Kiddo"
+Date: November 15, 2006
+Helpful: 88 of 110
+Rating: 4.0
+Title: Great Performance, But Lack of Support and other Problems Plague this "iPod Killer"
+Content:
+First off, I do not work for Microsoft, I do not work for Apple. This is a competely unbiased review, and I do actually own the product.
+PROS:
+-Bright, vivid screen - A 3" Screen makes it the largest screen of a device this size. Can be viewed in portait or landscape, this very clear screen has good viewing angles and rivals very nicely with the iPod.
+-Great Sound - This is what REALLY matters right?
+-Design - With a durable rubberized surface, no fingerprints or scratches will be obvious, and feels safer to carry around in more rugged locations. Also, all three colors look really great.
+-Wi-Fi - Connect to fellow Zunesters to view what their listening to, share music, and all while not drastically reducing battery life.
+-Great Interface - The internal software interface of the Zune is great. It is actually built on the Windows Mobile CE OS, and the PC Software is built on the Windows Media Player 11 Software. Great performance and quick menus.
+-Plays Movies: H.264 (Quicktime/HD), MPEG-4, and WMV (native)
+-Plays Music: MP3, AAC, and WMA (native)
+-Views JPEGS
+CONS:
+-Mediocre Battery - Music ranges from 10-13 hours, and video ranges from 2.5-3.5 hours. Very poor compared to the iPod.
+-3 Plays, 3 Days - Absolute bull. When you transfer a song, it only plays 3 times, or you only get 3 days (whatever comes first). That is not near long enough to enjoy a song.
+-LACK OF SUPPORT: DivX and Xvid don't play, Lossless music doesn't play, and only JPEGs are viewable. Everything else has to be converted in some form of the other. Previous subscription and protected music won't work on this device, and you are restricted to the Zune Marketplace for music.
+-Zune Marketplace - Although a great start, you can't buy movies on it yet, and you have to buy everything in points, which is a pain, because 79 points is $.99.
+-Wi-Fi restrictions - No wireless computer synching, transfering, or web browsing.
+-5 Click Wheel - Nothing innovative. Quite annoying actually; although responsive, it is nothing like the iPod.
+-Propietary USB - USB to USB-A(Mini USB) cords won't fly, you have to use what comes in the box to connect. It does charge relatively quickly though.
+BOTTOM LINE: No, iPod killer, but a great step in the right direction. Microsoft's transition from Software to Hardware will continue to improve and this might be a tough competitor for the iPod this holiday season due to its large amount of hype. Unless you are really keen on getting the device, wait until the next generation. As an MP3 player, it is great; at the top of its class in sound, but still pails in comparison to the might iPod.

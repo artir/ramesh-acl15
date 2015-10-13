@@ -1,0 +1,30 @@
+ID: B002PK154S-R3J3ZBJ6JC4KK4-A2HBF1C72LWX75
+Category: Laptops
+Product: Lenovo-Ideapad-2963-47U-13-3-Inch-Laptop
+ReviewerID: A2HBF1C72LWX75
+ReviewerName: Jordan Griesshaber
+Date: March 20, 2010
+Helpful: 
+Rating: 4.0
+Title: Great Netbook Alternative
+Content:
+I received my new Lenovo U350 a few days ago, so here's what I have to say early on:
+Pros:
+1.Thin and Light...great size...3.5lbs is perfect...acceptable 5 hours from included 4 cell battery (8 cell available for $100)
+For those looking at something like a Netbook (I recently returned one of the new Pinetrail Netbooks because of it only had Windows 7 Starter (very limited) and without a Broadcom HD card, will never be able to display any sort of HD streaming due to lack of any HD decoding
+2. Intel SU4100 CPU is dual core allowing the laptop to use Windows 7 better than Netbooks, especially once you install Antivirus, the second core helps spread the workload around, unlike the single core N450 Atoms on Netbooks
+3. Intel GMA 4500MHD is great for basic internet, AERO GLass UI, and HD decoding...just don't expect much else from ANY Intel integrated graphics...or you could spend $150 more and get the U350 with the switchable ATI card...just remember what the machine is...
+4. Mac Pro looks without the Apple premium...for those who care when they are Starbucks
+5. Stays cool on your lap, and fan isn't too loud...and isn't topover prone like the netbooks...
+6. Full sized keyboard
+7. Multitouch touchpad
+8. Bright clear screen that allows full webpages without zooming out (unlike the 10 inch Netbooks) (it is a glossly screen for those who care)
+9. Veriface camera login is pretty cool, say cheese!
+Cons:
+1. Touchpad buttons are sort of clunky, they work, but they are sort of annoying
+2. Fn key is where the left Ctrl button usually is, so I keep hitting it instead of Ctrl when I Ctrl Enter to input web addresses
+3. You really have to unistall and bunch of crap to get going, but that is to be expected from most computers...
+4. Lenovo's support site is tragic at best...nothing like Dell or Apple...but there doesn't seem to be anything you need besides the Intel Graphics driver upgrades which can be autoinstalled from Intel's site
+Overall, very happy with the laptop...for those complaining about the batter hinge getting broken I say this:
+It is a ultra thin and light, so this is going to be a more fragile machine than a clunky notebook...so be careful with it...plastic doesn't like being forced so play gingerly...
+I bought a Targus 14" Messenger laptop bag which works perfect for this machine...BTW

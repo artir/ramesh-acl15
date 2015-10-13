@@ -1,0 +1,23 @@
+ID: B0036ZEANO-R21UJWPZZ5RY4G-A29VHMI5772NQR
+Category: Laptops
+Product: ASUS-U30JC-A1-13-3-Inch-Laptop-Silver
+ReviewerID: A29VHMI5772NQR
+ReviewerName: loungesong "loungesong"
+Date: April 12, 2010
+Helpful: 5 of 5
+Rating: 4.0
+Title: Review from an ex-Dell XPS M1330 User
+Content:
+I've been using a Dell XPS M1330 since January 2008.  It was my favorite computer, ever.  Unfortunately I was a victim of the nVidia GPU overheat problem and had my motherboard and GPU replaced five times.  I got a lot of work done on the road with that computer with my Verizon Data Card.
+After Dell wouldn't fix my XPS M1330 anymore and they gave me my money back, I started shopping for a 13" performance system.  I waited a few weeks for the U30JC to get released.  So far I've been happy with the system, here are some of my observations: 
+Negatives:
+1.  No mini PCI-E slot or extra antenna for my Verizon wireless card.  I'm using the Verizon MIFI 2200 device and I'm not happy with it. The speed is only 25% of what I was getting.  I'm going to get a USB Adapter instead.
+2.  No dual headphone jacks.  Was great for sharing a movie.
+3.  Speakers and headphone jacks are not as loud as the M1330.  I like to use my laptop speakers in the morning to listen to podcasts in the morning and the speakers are noticeably quieter than the M1330. 
+4.  Touchpad is overly complicated.  It doesn't have a right click button.  I "get" the triple finger-tap right click.  However I think they could have split the long click button and allowed the user to select if they wanted it to function traditionally or this new way.  It's so big that my thumbs occasionally hit it and my cursor goes flying.  I'm sure I'll get over this.
+Positives:
+1.  The battery life is incredible. I got almost 6 hours of continuous use with Wi-Fi running with heavy browsing, office documents, iTunes (even downloaded some music), and outlook email.
+2.  Asus bloatware is better than Dell's.  I immediately installed Windows 7 Ultimate and used the Asus driver CD to get their required apps on the system.  The various utilities load quick, are intuitive, and don't seem to affect performance.
+3.  Build quality/design is better.  The aluminum palm rest gets the job done (no fingerprints).  Although I don't love the shiny black bezel around the LCD (it attracts lint), it has perfectly placed standoffs to prevent the keyboard from tattooing itself in the screen (one of my biggest complaints about the M1330).
+4.  Extremely quiet, not hot.  Again, two big gripes for the M1330.
+For the price I think this system is a great value.  However no mini-PCI is a major bummer.  There isn't any competition today in this price range in my opinion.

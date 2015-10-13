@@ -1,0 +1,11 @@
+ID: B001NEJO2M-R10JKAQC3W61ZS-A5E5GTB2X47CX
+Category: Laptops
+Product: Toshiba-Satellite-U405-S2915-13-3-Inch-Laptop
+ReviewerID: A5E5GTB2X47CX
+ReviewerName: Shiuan-haur Lu "Howard"
+Date: July 6, 2009
+Helpful: 
+Rating: 2.0
+Title: QA problem
+Content:
+One of the USB ports went bad almost immediately when I plugged in my portable disk.  (Other USB ports were OK.)  Amazon was very nice to send me a new replacement right away.  Unfornately the second one has the exact problem as the first one.  The same USB port went bad again almost immediately.  I believe this is a manufacturing QA problem.  I decided to return it.  Toshiba has reliable products that I have been using for many years.  But this one I can only give two stars.

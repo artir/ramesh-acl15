@@ -1,0 +1,17 @@
+ID: B00176AX6W-R7WEKO0RR0POA-A37EGLODGNLLBI
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Red
+ReviewerID: A37EGLODGNLLBI
+ReviewerName: Nolan Lemon "Nolan"
+Date: April 28, 2010
+Helpful: 
+Rating: 1.0
+Title: Underwhelming Junk
+Content:
+With all of the five-star ratings posted here for the 80GB Zune, I'm certain there will be many people who may be started to see somebody refer to it as junk.  So, let me elaborate.  First, I think the sleek design, sound quality, and video quality are all superb.  I couldn't ask for more.  Anything beyond that, however, Microsoft couldn't have provided less!
+The battery life, which initially performed as touted, delivering nearly 16 hours of continuous listening time, was dramatically reduced within the first two months.  By the fifth month, I had to fully charge it before each use.  Even then, I'd be lucky to get two to three hours of playback from it.  I've had at least three other mp3 players (including cheap models like Iomega's early entry and Sansa's player, as well as Creative's early high-end model) that all outperform the Zune for durability, ease of playback, and playlist construction and execution.
+Now, here's the puzzling part.  Microsoft is a SOFTWARE COMPANY.  If there's an area I'd expect them to struggle in, it would NOT be SOFTWARE, especially because Windows media player works admirably well.  Apparently, Microsoft decided to reinvent the wheel and rolled out four squares for its "Cadillac" mp3 player. The Zune software has to be one of the most counterintuitive, inflexible media management application on the market.  The only reason I haven't uninstalled it is because I cannot get Windows Media Player to load music directly onto the Zune.  Another "Are-you-kidding-me" moment!  Both are Microsoft products, but there's a compatibility issue.  So, I manage my music (load, remove, create and/or modify playlists) in Media Player before connecting the Zune because the launch of the Zune software will create instability and freeze Media Player.  So, essentially, the Zune software is horrible, and the Zune team hasn't done much to improve it with updates.
+Okay, so let's say you're on the fly and want to create a playlist.  No problem.  You add a few songs to the "Now Playing" playlist.  Well, let's say a little later, you decide you want to modify the "Now Playing" list.  You have to clear the entire thing and start all over.  In this regard, it's like pulling out the original Motorola flip phone when everyone around you is using iPhones and Androids.  Awkward, backward, and frustrating!!!
+The headphones, which are outstanding out the box, began shorting out within a few months.  While this is minor, because I can always purchase additional headphones, it's just a running tally of frustrating issues associated with this player.
+Now, here's the lynch pin--customer service.  It's non-existent.  They don't reply at all, or you're sent to the circular maze of lingering death.  It felt like trying to get customer service from the notorious Sprint--a waste of time and energy!
+This could have been a great product, but my experience with this has forever tarnished Microsoft's brand to me.  Currently, if I fully charge the player today, by tomorrow it I will need to charge it again--whether I use it or not.

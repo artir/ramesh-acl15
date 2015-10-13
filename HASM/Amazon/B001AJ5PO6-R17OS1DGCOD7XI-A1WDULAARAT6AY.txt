@@ -1,0 +1,11 @@
+ID: B001AJ5PO6-R17OS1DGCOD7XI-A1WDULAARAT6AY
+Category: Laptops
+Product: Toshiba-A215-S5837-Satellite-Widescreen-wireless
+ReviewerID: A1WDULAARAT6AY
+ReviewerName: P. Harvey
+Date: September 3, 2008
+Helpful: 1 of 2
+Rating: 3.0
+Title: Toshiba Service
+Content:
+I have this laptop and wish I didn't. I've contacted TOSHIBA service department for two issues and they have not been able to fix either one. Their standard answer is to "do a system recovery." One problem is that the cursor jumps all over the screen and starts to insert letters where ever it pleases while typing. The patch driver they gave me was older than the one that came on the machine and did not work. Another problem is with Internet Explorer. It's constantly shuting down and doing an automatic restart for no apparent reason. Even though the software was OEM, they insisted that Microsoft was responsible, even though it clearly states in their warranty that TOSHIBA is responsible for all software that is factory installed. In short, TOSHIBA's service is worthless, unless all you want to do is a system recovery and lose everything you have on the PC. Who needs them for that?

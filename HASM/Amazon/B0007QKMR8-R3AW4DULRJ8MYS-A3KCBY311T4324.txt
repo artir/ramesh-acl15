@@ -1,0 +1,12 @@
+ID: B0007QKMR8-R3AW4DULRJ8MYS-A3KCBY311T4324
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-XT-Camera
+ReviewerID: A3KCBY311T4324
+ReviewerName: Roberto C. Guercini
+Date: May 13, 2009
+Helpful: 
+Rating: 2.0
+Title: Bad experience
+Content:
+the camera it's very good for the price, the lens it's mediocre but..again, for that price what do you want?
+I purchased this camera at Target, it was the last one on the shelf. I got a great price but then I realized why. as I purchased the cf card (in another place since they were out) I noticed the infamous "Err CF" message: the pins were bent. But not only..I decided (shame on me for not returning it) to ship the camera to Canon, I thought it would be fixed for free and then it would be ok. I received the camera back and for a while it's been working fine. Then it started giving that message again, every now and then, to the point that it was hard to take pictures. I shipped the camera back to Canon and they wanted to charge me for the repair. They said the pins were bent. THEY WEREN'T!! There is a problem with the firmware/hardware in the card reading/writing process. Some cameras have it some don't. I wouldn't reccomend this camera.

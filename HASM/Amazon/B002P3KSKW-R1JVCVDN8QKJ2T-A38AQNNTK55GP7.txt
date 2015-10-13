@@ -1,0 +1,17 @@
+ID: B002P3KSKW-R1JVCVDN8QKJ2T-A38AQNNTK55GP7
+Category: Laptops
+Product: Acer-Timeline-AS4810TZ-4508-14-Inch-Aluminum
+ReviewerID: A38AQNNTK55GP7
+ReviewerName: Ezra Lagberg
+Date: December 2, 2009
+Helpful: 4 of 11
+Rating: 1.0
+Title: Just returned (crackling speakers, slow, etc.)
+Content:
+I rarely write reviews, but wanted to warn others who are considering buying this laptop based on, for example, the recommendation that appeared in the New York Times. I just returned the laptop (and may have to pay a 15% restocking fee? so keep that in mind) because it's defective in at least three ways:
+1) The speakers make a loud crackling noise.
+2) The speakers sometimes stop working until you restart the computer.
+3) There is something wrong with the computer generally that causes it to play online video and DVDs as though you are watching a slide-show, with a new frame arriving every half-second or so.
+It's possible that if I kept this computer, I might find some way to fix all of these problems. But I doubt it -- especially the crackling speakers. And apparently Acer laptop speakers are a recurring problem: start typing "Acer speakers" on Google, and "Acer speakers crackling" is one of the first results.
+Also, as you'll find other critics saying online, the laptop does come cluttered with a bunch of unwanted software (a program for eBay on the desktop? why?).
+This is sad, but I may end up buying a Mac. I dislike the idea of being locked into whatever constraints Apple chooses to impose on its customers. But at least the software and the hardware will work together, and work well.

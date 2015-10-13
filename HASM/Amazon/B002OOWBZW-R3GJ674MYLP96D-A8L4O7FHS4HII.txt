@@ -1,0 +1,15 @@
+ID: B002OOWBZW-R3GJ674MYLP96D-A8L4O7FHS4HII
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310-13-3-Inch-Ultrathin
+ReviewerID: A8L4O7FHS4HII
+ReviewerName: Truth be Told "Adam"
+Date: January 5, 2010
+Helpful: 5 of 7
+Rating: 3.0
+Title: Good computer, keyboard is terrible - don't buy this laptop until this is fixed
+Content:
+I've had this computer for about a week now and it's been good. It works fine, the software I had all installed correctly, my old printer works with it (with a USB cable), and the external CD/DVD player/writer that I bought with it works fine. I did update the Smart Audio per a different review and this worked fine as well. As with most Toshibas, it runs fairly cool, which is important when it comes to the lifespan of a laptop. 
+Unfortunately, there are two cons:
+1. I agree with another reviewer; I would have liked the right-handed version. The power, ethernet and two of the three USB ports are on the right, as well as the microphone jack. For those of us who are right-handed, this is also where we want to put our mouse. Overall, this has been a minor inconvenience.
+2. I am, however, very dissatisfied with the keyboard. I've never had a keyboard that missed so many letters. I'm a fairly fast typist and I would say it skips one letter every 3 to 7 words or so. This is the worst, by far, keyboard I have ever typed on (it's worse than a manual typerwriter from 1960, except that there's a backspace button which I use heavily). Someone suggested that it is better to type lightly. I have not found this to make any difference. The solution is to buy an external keyboard, which I'll do, but this will not be good for travel. I have to say, there is really nothing worse than having to go back every few words to type in the missing letter and to have to watch everything you type to catch the keyboard's mistakes. Even the backspace key misses taps, so if you know you have to go back three letters, you have to hit it slowly three times or quickly five times and hope you don't overshoot. Horrible.
+Toshiba has nothing on their site related to this, so I would recommend not buying this laptop until they get a fix in place, which may mean they have to change their keyboard manufacturer (but I hope this can be fixed with software/drivers).

@@ -1,0 +1,14 @@
+ID: B002ONCD4M-R1W4TQ7AYWEKSQ-A1U8HYI5QM7DBD
+Category: Laptops
+Product: Pavilion-DV6-1350US-15-6-Inch-Espresso-Laptop
+ReviewerID: A1U8HYI5QM7DBD
+ReviewerName: afonit "afonit"
+Date: December 13, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Jared
+Content:
+I purchased the 1350us and it works great with Linux.  Currently running OpenSUSE 11.2 and wireless, screen resolution, external screen configuration, web-cam, and the remote control all work out of the box as the hardware has all in-kernel drivers now.
+The only funny thing is that every other time you come out of sleep mode the track pad will not work.
+Also, a warning to those who wish to virtualize 64 bit operating systems on this - the processor is a t6600, so it does not come with the ability to do so as it lacks VT-x.
+Other than that, quite a sold laptop for Linux use.

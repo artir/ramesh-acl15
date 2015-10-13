@@ -1,0 +1,20 @@
+ID: B002P3KMVC-R3HIBJ9IM44ZC1-A3IIQXV3GDL554
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A3IIQXV3GDL554
+ReviewerName: tloppa
+Date: April 21, 2010
+Helpful: 0 of 2
+Rating: 5.0
+Title: My view on ul30a-x5
+Content:
+Initial impression:  had it for a day so far-- 
+I played with the laptop abit. Here is my initial impression:
+-very light
+-had no problems booting it up and going through the initial configuration for the first time
+-no dead pixel, everything works, even though the wireless indicator is not working correctly(probably need a newer driver, its showing no signal even though im getting full signal)
+-the harddrive makes noises, but not loud due to hd reading i believe.  it gets quite when not doing anything.
+I went to [...] and register my ADW and they sent me an email confirmation stating my case number and location address where to send to( I will send the ADW sometimes over the weekend and will let you guys know the result).  
+Battery: the battery snaps into place very well, it doesn't wobble like some people stated. I'm not sure if the battery already 1/2 charged at mnft but once i plugged in the powersupply, an hour or later, I'm 85% charged.  After wards, I unplugged the pwr supply and using the laptop for an 1hr or so, it only used up 10-15% max. So far, the battery impresses me alot.
+Overal, my initial thought of this laptop is all but positive.
+I will update my final impression after 1 to 2 weeks of usage

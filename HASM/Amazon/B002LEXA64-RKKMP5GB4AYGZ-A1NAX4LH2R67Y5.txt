@@ -1,0 +1,13 @@
+ID: B002LEXA64-RKKMP5GB4AYGZ-A1NAX4LH2R67Y5
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A1NAX4LH2R67Y5
+ReviewerName: J. Westerman "Jojo"
+Date: October 29, 2009
+Helpful: 4 of 6
+Rating: 2.0
+Title: Wanted to love this netbook but...
+Content:
+I had this netbook for 2 weeks before it stopped booting.  It froze at the BIOS page and could not locate the boot sector for the operating system.  Either that or there was a loose connector to the hard disk.  I did call Acer tech support but they told me to restore from the recovery CD.  I explained since this was a netbook that no optical drive came with the system.   She told me to boot to recovery partition even after I explained that the system wasn't recognizing the hard disk.  In the end, she offered to have me send the netbook to Texas for a repair but I declined.  Since it was within the 30-day warranty through J&R I returned the machine for a full refund rather than risk anything else going wrong.  
+A couple of other items that turned me off about this netbook were the keys on the keyboard were flimsy.  I'd be surfing the web and the mouse cursor would skip in Google Chrome.  This would cause the web page to magnify or shrink.  It was easily fixable in the browser but was an total annoyance.  Also the windows version licensing sticker on the bottom the netbook wouldn't fully adhere to the underside.  I suppose scotch tape could of fixed this.  Also, the stock memory that comes with the unit is DDR2 667Mhz even though the unit supports 800Mhz.  
+All told, I'd be skeptical of the build quality and do not be over romanticized by its awesome specs.  I'll wait for another manufacturer to release a Netbook as powerful as this one.

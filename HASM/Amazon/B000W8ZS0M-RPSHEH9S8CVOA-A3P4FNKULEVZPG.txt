@@ -1,0 +1,13 @@
+ID: B000W8ZS0M-RPSHEH9S8CVOA-A3P4FNKULEVZPG
+Category: Laptops
+Product: Fujitsu-LifeBook-U810-Mini-Notebook-fingerprint
+ReviewerID: A3P4FNKULEVZPG
+ReviewerName: Psaro
+Date: December 11, 2008
+Helpful: 
+Rating: 4.0
+Title: Love it
+Content:
+I bought mine several months ago. I still like it very much. 
+Vista Home is just too slow during start-up and program launch. Wished I spent a little more to get Vista Business so that I can downgrade it to Win XP tablet. It doesn't matter anymore anyways, I switched to Ubuntu 8.10 and have been quite happy with it.
+The screen is crisp, but probably not too small for long use.

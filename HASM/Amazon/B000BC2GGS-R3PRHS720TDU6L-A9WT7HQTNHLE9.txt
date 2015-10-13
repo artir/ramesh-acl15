@@ -1,0 +1,21 @@
+ID: B000BC2GGS-R3PRHS720TDU6L-A9WT7HQTNHLE9
+Category: SpaceHeaters
+Product: Honeywell-HZ519-Digital-Profile-Comfort
+ReviewerID: A9WT7HQTNHLE9
+ReviewerName: Isaiah B. Laderman
+Date: January 27, 2008
+Helpful: 23 of 23
+Rating: 1.0
+Title: unreliable
+Content:
+I own five of these, and heat my home with them (and five upright oil-filled types).
+Pros: usually safe to touch, non-electronic glowing badge-type overheat indicator, timer, quiet, five-year warrantee, great flexible 16-gage 3-wire cord (stays cool), appears to be of highest quality, inexpensive.
+Cons: Although there is a bright bulb indicating the unit is on, the LCD panel is unlit by it, so you can't check the indicator easily when it is dark. This is important, because the heaters sometimes reset themselves to maximum, so you need to look at the panel repeatedly during the night.
+The timer only works for shut-off, not for timed turn-on, so you can't use it for programmed heating, such as warming up for the morning, or warming up for return in the afternoon.
+Timer and temp settings are lost when powered off (no back-up battery or constant power to the panel from the plug).
+Temp settings unpredictably reset to maximum, so you can't leave these heaters on unattended (for instance, to keep the house above freezing when going out for the day or a weekend). You may come back to a house at 80 degrees, at great electric expense.
+To repeat, on all five of my units, if I have them set at some lower temperature, say, sixty-five degrees, I may come back some time later to find it at eighty degrees. So I must constantly go around checking them.
+On one of the five units the tilt switch burned out. Not from being tilted, just from being on for a few months. 
+Many of the high-raters of this heater mention these same problems, but don't consider them as bad as I do. That is probably because they don't use the heaters as much as I do.
+Many of the low-raters of this heater don't understand that all 1500 watt heaters put out the same amount of heat, and don't understand that a thermometer near the heating element is bound to read higher than one across the room, and don't understand that a convection heater is bound to be slower than, but ultimately equal or superior to, a fan-forced or radiant heater of the same wattage. Oil convection heaters are even slower, since the oil has to heat up first. Radiant heaters lose heat out the window if pointed at an unshaded window. There is a theory that radiant heat is equivalently comfortable at lower power use. Fan-forced heaters' fans will eventually fail, sometimes causing a fire. 
+Some reviewers mention the poor instructions, and how important they are. Much better instructions are available online. The controls are not obvious; you are sure to misuse them if you don't have the online instructions. Basically: to set the temperature, turn the unit off, turn it on, press the Temp button, use the up/down buttons to set the temperature, and then don't touch it again. If you subsequently touch any button it will reset to maximum. At first the indicator will show what temperature you have set it to try to get up to. After a while, the indicator will show the actual temperature at the unit - you can no longer check the temperature it is attempting to attain. Ignore the fan icon: there is no fan. If the clock icon appears (unintentionally), you have double-clicked, and must start over. The thermometer icon shows you have set the temperature. When the temperature blinks, it has attained the goal you set.

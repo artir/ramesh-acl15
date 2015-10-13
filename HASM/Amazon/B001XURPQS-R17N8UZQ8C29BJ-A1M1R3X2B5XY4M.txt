@@ -1,0 +1,13 @@
+ID: B001XURPQS-R17N8UZQ8C29BJ-A1M1R3X2B5XY4M
+Category: DigitalSLRs
+Product: Canon-T1i-Digital-18-55mm-3-5-5-6
+ReviewerID: A1M1R3X2B5XY4M
+ReviewerName: Joseph Vlachos
+Date: January 21, 2010
+Helpful: 
+Rating: 4.0
+Title: Canon EOS Rebel 500D/ T1i
+Content:
+The Canon EOS Rebel T1i/500D/Kiss X3 is the third EOS to offer HD video capture, and utilizes the DIGIC 4 processor. One of the advantages of the camera is if one uses a 600mm or less lens with a maximum aperture of f4 or less, there is no vignetting like previous ASP-C imaging devices.
+     The camera is suited to photographers eager to enter dSLR photography, but the T1i will be rather disappointing for videographers eager to break into dSLR HD capture; the T1i is not an affordable 7D alternative, but it could be if Canon releases a firmware update that allows for full aperture and shutter speed control and a 1080p/24fps mode. Also, if using the T1i for digital filmmaking, use a flash recorder like the Marantz PMD 661 to capture audio (which uses the same sd/sdhc cards as the T1i) as the camera does not have a mic input like other EOS dSLRs. Marantz PMD661 Portable SD Recorder
+Image stabilization is a good feature to have, but it is best suited on a better lens due to the chromatic aberration and low light noise inherent to the 18-55mm 3.5-5.6 kit lens.

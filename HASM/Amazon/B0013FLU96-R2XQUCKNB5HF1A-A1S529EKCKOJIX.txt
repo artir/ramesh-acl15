@@ -1,0 +1,16 @@
+ID: B0013FLU96-R2XQUCKNB5HF1A-A1S529EKCKOJIX
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A1S529EKCKOJIX
+ReviewerName: Soumen Bhattacharya
+Date: December 16, 2008
+Helpful: 1 of 1
+Rating: 5.0
+Title: Excellent Mobile Computer for all types of users
+Content:
+I bought this MacBook Pro after the unibody model came out, got a good deal from a local electronics store. This is my first Mac (I had bought a Mac Mini earlier, but not for me), and I have to say I am highly impressed with this machine.
+As always, the physical design of the MBP is absolutely gorgeous. Somehow I like it more than the unibody design. And the best part is, you get a non glossy screen, so less reflections. The keys are quite responsive and tactile. The touchpad is smooth (though not as much as the new unibody models) and responsive, and the multitouch is very intuitive to use. The two finger scrolling is way better than the right side scroll we get for most Windows laptop, and many a times I have tried scrolling on my Windows laptop with two fingers, only to realize my mistake and wish that I had the same feature there too.
+From the operating system and software standpoint, it is your personal choice whether you like OS X or Windows better. But there are a few advantages of Mac machines that you rarely get from Windows, mainly because in case of Mac the hardware and software is tightly integrated. In a Mac, you can just close the lid, and the computer will soon go to sleep. This does not always happen in Windows laptops, and if you put it in the bag while it fails to sleep, you are in a for a very warm surprise. The magsafe adapter is a wonderful touch, as it is kind of self guiding. The screen is absolutely gorgeous (as is often mentioned by Steve himself), and the built in iSight camera is way better than most off the shelf web cams you can buy - in terms of both resolution and color reproduction. The battery is great. Well, I do sound like a fanboy now, but I had a very good impression of the whole package.
+Some small problems are indeed there, like the fact that the screen does not open too widely (in most Windows laptops you can open it to almost 180 degrees), and when you sit on the bed with the Mac on your lap, you sometimes wish it opened up a little bit more (no pun intended). The button you push to open the lid is too narrow, I sometimes have to push with my finger nail rather than my finger. And then there are a few issues with the OS X itself, like the lack of the option to maximize windows to full screen (OK, I know this is due to my Windows background, but I do miss it sometimes); the Windows set of Home, End, page Up and Page Down keys; The absolute omission of Add/Remove programs (or Synaptic, as in Ubuntu) through a central location for removing installed applications etc. But I am nitpicking now. Most most purposes, OS X is an extremely capable and stable system.
+Some users have faced issues over time with their MBP. I have not had mine for a long enough time to agree or disagree to those complaints, but so far, I have had mostly positive impressions of the machine.
+Highly recommended.

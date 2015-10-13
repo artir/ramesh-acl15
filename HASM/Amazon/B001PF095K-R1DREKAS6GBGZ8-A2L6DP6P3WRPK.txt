@@ -1,0 +1,15 @@
+ID: B001PF095K-R1DREKAS6GBGZ8-A2L6DP6P3WRPK
+Category: DigitalSLRs
+Product: M1031-W-Network-Camera-Small-Indoor
+ReviewerID: A2L6DP6P3WRPK
+ReviewerName: The Gray Ghost "PUA Lounge Founder"
+Date: April 15, 2009
+Helpful: 8 of 8
+Rating: 4.0
+Title: Great camera for Mac's too
+Content:
+I have tried a bunch of network cameras and unfortuantely most don't work very well Macintosh. Under $400 most don't work that great period. The Axis cameras on the other hand do. The web interface was pretty straight forward. Setup was a little technical, but easy enough.
+Few of really great things about this camera if you are using a Mac. First, they automatically show up in the Bonjour menu of Safari so locating them and administrating them over the network is easy. Second, Quicktime automatically finds them through Bonjour too!!! You can actually very the video streams straight from Quicktime. Go to File/Open Url/ then click on the menu button to the far right of the screen that pops up and towards the bottom of the list you will see the camera(s) list themselves. You can also change the name that appears in Bonjour lists from a IPv4 address to a recognizable name by going into the web admin of the camera System Options/Network/Bonjour and renaming the camera in the field called "Friendly Name" and hitting save.
+Now for the bad. The LRD light on this camera is a complete joke. If something was sitting two to three feet from this camera the light lights up the subject just barely. Any further away than that and the light is useless. The demo video of this camera on the manufacture's website is blatantly in fabricated that shows a crystal clear video being shot at night. Second beef, the password setup. The password set up does not work over just a few characters. This took me several tries of setting up the password (10 characters) and then not being able to get in to the camera and having to do a factory reset (small button on the back of the camera. Unplug the power. Hold the small button on the back. Continue holding it for 20 seconds as the camera powers back up. Once done the green LED on the front turns amber. Goes green again when process is complete.) I finally just put in a three character password and called it a day rather than pushing for a good one of any length.
+All in all the cameras benefits WAY outweigh the short comings. I would highly recommend it to anyone looking for a good network camera in the price range whether you are looking for compatibility with Mac or PC. 
+Additionally I also bought the version of this camera without the light and audio, M1101-W, works just as well.

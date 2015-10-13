@@ -1,0 +1,16 @@
+ID: B001GCQ3KM-R19C1CUX3Q21VS-AOQMN4EDMQIKL
+Category: MP3Players
+Product: SanDisk-Sansa-Video-Player-Black
+ReviewerID: AOQMN4EDMQIKL
+ReviewerName: Federalist One "second amendment: original ho...
+Date: January 31, 2010
+Helpful: 0 of 3
+Rating: 1.0
+Title: will not buy another fuze... might buy another sansa (still will never become an itard)
+Content:
+One warranty exchange later and I am still displeased: video lockup.  This is ironic given that sansa fuze can play only one format/container with apparent secret properties that can only be transcoded by their respective proprietary bloatware.   This minimalist, masochistic addition to claim "video" as a feature.  Yeah, right.  Thanks?
+Why not use a standard USB cable?  More torture: the fuze has a proprietary connection.  
+As mine is a version two device sadly rockbox firmware *upgrade* is out of the question.
+It handles my extensive FLAC collection nicely.  I shall be looking for the next PMP (Portable Media Player) to be able to wirelessly access house NAS be that ethernet or bluetooth.
+otherwise:  DO NOT BUY A FUZE
+one star for excellent warranty / customer service otherwise I would have rated zero if it was possible

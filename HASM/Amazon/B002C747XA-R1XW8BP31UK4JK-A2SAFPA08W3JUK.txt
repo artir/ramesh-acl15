@@ -1,0 +1,11 @@
+ID: B002C747XA-R1XW8BP31UK4JK-A2SAFPA08W3JUK
+Category: Laptops
+Product: Apple-MacBook-MC234LL-13-3-Inch-Laptop
+ReviewerID: A2SAFPA08W3JUK
+ReviewerName: Early Adopter
+Date: July 3, 2009
+Helpful: 20 of 21
+Rating: 5.0
+Title: Ultimate Ultra-Lite
+Content:
+After owning and enjoying the first generation Macbook Air (1.6 MHz, 80GB drive), this unit is an unbelievable upgrade.  For the same price as the original, this unit is incredibly faster.  Programs start up about 3 times faster and the SSD drive is silent and extremely quick.  Startups and shutdowns are noticeably quicker too.  My initial experience has indicated that the battery life should be better as well.  I was also impressed with the browser speed pickup as pages seem to render all at once without the typical lag the original unit had.

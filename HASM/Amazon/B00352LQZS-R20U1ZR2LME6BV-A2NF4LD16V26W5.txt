@@ -1,0 +1,17 @@
+ID: B00352LQZS-R20U1ZR2LME6BV-A2NF4LD16V26W5
+Category: Laptops
+Product: N61JQ-X1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A2NF4LD16V26W5
+ReviewerName: Donald M. Simms III "Donald Simms"
+Date: April 5, 2010
+Helpful: 0 of 4
+Rating: 5.0
+Title: My N61jQ-X1 experiance
+Content:
+Well, I've personally gave it a solid state drive instead of a Hard drive. Upgraded it to the Windows 7 Ultimate, and the Asus compatible to it. the laptop comes with its 1 CD of drivers that'll cover everything in a single installation (it'll take about 20 minutes to install all everything from the mobo plug-in play). 
+The GPU feels like a 650Mhz core clock, making the 1GB of ram GPU extremely useless. The vid card is only strong enough to run on medium settings of your games such the Street Fighter 4, but stronger than the xbox360's ATI GPU. The Ultimate settings on Starcraft 2 demands 1GB of the GPU ram, but it no longer runs at 60fps but very poor performance. You'll want to stay at medium for its 60-fps at the very high resolutions. This laptop GPU doesn't have a logic with going faster fresh rate of frames at a smaller resolution, only at the highest HD resolutions it attends to go faster at 60fps medium settings. The Street Fighter 4 medium settings hits it beautifully at 60fps with only the use of the GPU ram of 136mb.
+The CPU's FSB is a dream come true when it comes to the loading times with the solid state. It'll make the ram feels like 1666Mhz than it is originally 1066mhz. No needing to wait for a boot, truly instant. 
+Battery experience:
+Without any heavier game application, it last 1 hours and 48 minutes. With the heavier game application it'll last 38 minutes.
+Hm... The USB 3.0 isn't compatible with my Sprint on the road wireless G4 net speed, only the 2.0 on the other side of the laptop.
+The CPU is a Bonifiede pro. There was nothing that I can do to stress it, putting my desktop to shame to put away from the last 3 weeks ago.

@@ -1,0 +1,34 @@
+ID: B002PHM3TC-R1AYB0P16U31G8-A1FJYJEYQ48WYX
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS1810TZ-4174-11-6-Inch
+ReviewerID: A1FJYJEYQ48WYX
+ReviewerName: C. Krenzer
+Date: December 7, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: Those two things netbooks lack...
+Content:
+I am a self-professed netbook evangelist.  I bought an Asus 1000HE for myself, but my wife stole it the second day (this is actually her account as she bought me this computer for my early Christmas present).  She cannot stop raving about it and the ten-hour battery life even eight months later.  So why did I buy a CULV/ultrathin laptop instead of a netbook?
+There are only two shortcomings to all but a couple of the netbooks when used as an ultra-portable computer; screen resolution and GPU power.  If Asus had successfully implemented an 11-12 screen and something better than the standard Atom with integrated graphics while maintaining at least eight hours of battery life with Windows 7...I would have bought it.  They had one in the pipeline when I bought the Timeline, but it was not yet available.
+As far as I saw it, I really only had two options if I wanted to meet my needs; the Acer Timeline or similar CULV dual core 11" ultrathin or the HP Mini 12 with the Ion option.  In the end, the HP was MORE money for similar spec's and we are still only talking about a Atom 1.66 single-core processor.
+I have had the computer for about 3 weeks now and love it.
+Pro's:
+About the same size as the ASUS 1000HE but about an inch longer
+Plenty of processor power...multitasks without issue althought i have not pushed too hard with one of my larger Access databases
+Unbelievably bright screen...I have no trouble watching movies at only 10% brightness in dark room and 50% covers almost all situations
+Excellent keyboard and better than expected touchpad
+Excellent wireless range...better throughput than the 1000HE when in the same room as my router and more than double the throughput at 55 ft.
+Plays HD videos from Unbox without a hitch and displays it well on our 40" LCD through the DVI
+Almost 7 hours of video played on a transatlantic flight (10% brightness, wireless and bluetooth off) with a reported 15% battery remaining
+320 GB harddrive
+Windows 7 is so much better than Vista and much slicker than XP
+Plays those games and surfs those websites that require a higher resolution than most 10" netbooks can supply
+Con's:
+Scrolling feature on touchpad to sensitive...I am always hitting it by mistake
+Sound from the speakers at max cannot overcome the minimal noise of the air conditioner in my room
+Fan is noticeable (barely) in a quiet room when watching a movie
+No hot-key combination that I can find for disabling WiFi
+Screen is glossy...not terrible like many computers for reflections, but glossy enough to annoy me
+Exterior is glossy so it is constanly smudged...why any manufacturer would think this is good idea is beyond me, but few netbooks or ultrathins are any better
+Bloatware...better than my HP or Dell but still took me a while to uninstall it all
+Overall, I cannot say enough good things about my Timeline.  If they made a 1/2" thicker version that had an integrated optical drive, but no other changes, for $100 more I would have bought that, but otherwise there is no other product I have found on the market with better specs for my needs.

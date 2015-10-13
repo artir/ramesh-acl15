@@ -1,0 +1,22 @@
+ID: B001FA1NF0-RVWFVU2XP57S8-A2R1R907SMOJHD
+Category: MP3Players
+Product: Apple-Purple-Generation-Previous-Model
+ReviewerID: A2R1R907SMOJHD
+ReviewerName: Alastair G. Stell
+Date: September 5, 2009
+Helpful: 1 of 1
+Rating: 2.0
+Title: A step backwards
+Content:
+I have owned iPod shuffles, nanos and in particular both the current nano (4th generation) and it's immediate predecessor. I have an extensive library of purchased media from iTunes and most of my personal collection of CD's are ripped to mp3 or aac. My last two iPods were both stolen.
+I attempted to use my nano 8GByte on my car's Alpine stereo. This was "iPod ready", worked fine on the 3rd gen product, and allows control of the music from the car stereo. However it was immediately apparent the 4th generation iPod was not recharging from the adapter. Apparently Apple think I should go out and buy a new stereo for my car?
+Similarly my socket adapter (I travel world wide) doesn't work either. Scratch another $27 for a new one.
+In the end, only the cable that comes with the 4th generation is usable for recharging. Throw everything away and start again!
+The nano plays videos, and in this mode I watch podcasts, tv shows and music videos. But apparently Apple think you should always be holding this device. It isn't designed to stand sideways on a desk. So I was forced to fabricate a special sleeve that angles the nano display, at about 75 degrees. Ergonic disaster here!
+Next, the unit distorts badly at high volumes. By contrast my 3rd generation cranked out acceptable quality all the way to maximum volume. Worse, as the battery runs down the distortion increases perceptibly and audio becomes unstable as the battery approaches zero.
+As always I am unable to listen to my iPod nano while the iPod is plugged into any recharger (whether USB or mains adapter). This is completely absurd of course - who in Apple really thought this was a good idea?
+Meanwhile, and even while they can't solve the most basic usability features, Apple have seen fit to include an accelerometer. I'm not objecting except to say for me it's mostly useless. I would've rather paid extra to have music during a recharge and an integrated stand for my desktop.
+In the final analysis it appears that Apple is hurtling backwards once again. I have had two computers "die" on me so I didn't have the chance to de-authorize them. So now I have "3 of 5 authorized computers" even though I actually only have one. This is very annoying and you'd think Apple would have a way to figure out that computers, over the years, do indeed die unexpectedly of old age or disk failure.
+iTunes is getting worse by the day. It now insists on opening two windows every time I start it. Very annoying on a netbook. It is hard to find functions like the graphic equalizer and other functions are unnecessarily awkward to use. It appears Apple has really lost the thread on User Interfaces. Even Zunes is getting to look good!
+So in summary, I have owned a total of eight iPods over the years but this will be my last unless Apple does something radical to improve the situation. I might consider an iTouch. However other players cost just a fraction of the iPod and most of them have better features and support more codecs. 
+It is very sad for me to see Apple brought so low. They need a shake up in management.

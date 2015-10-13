@@ -1,0 +1,15 @@
+ID: B001EWDFCI-R1X6U55DEQMZ20-A3TVD5NT3OPBHC
+Category: MP3Players
+Product: Zune-Video-MP3-Player-Black
+ReviewerID: A3TVD5NT3OPBHC
+ReviewerName: Sandeep Somani
+Date: June 25, 2008
+Helpful: 5 of 19
+Rating: 1.0
+Title: drawbacks of zune
+Content:
+# USB cable has a non-standard jack at the device end. Standard USB interface cables such as used by digital cameras and portable hard disk would make sense
+# obscure software - had trouble installing on Windows XP. 
+# could not find a way to use zune as a USB drive (as against creative's players) 
+# device heavily tied with the software - restricts portability. 
+overall not worth the hassle and price.

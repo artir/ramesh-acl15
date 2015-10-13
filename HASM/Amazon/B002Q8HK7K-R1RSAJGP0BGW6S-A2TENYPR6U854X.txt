@@ -1,0 +1,27 @@
+ID: B002Q8HK7K-R1RSAJGP0BGW6S-A2TENYPR6U854X
+Category: Laptops
+Product: UL80Vt-A1-14-Inch-Light-Laptop-Battery
+ReviewerID: A2TENYPR6U854X
+ReviewerName: J. Brown
+Date: December 15, 2009
+Helpful: 
+Rating: 5.0
+Title: Best overall laptop I've seen
+Content:
+My last laptop was $3000 when I purchased it 8 years ago, and I figured it was time to move on and get something more modern.  I knew I wanted long battery life and a graphics card, but those two things usually don't happen in the same laptop.  I also didn't want a large screen, because I already have a desktop, and the laptop would be more for use at school or on the road.  I had many problems with my last laptop during its 2nd year, so I knew I also wanted a warranty longer than 12 months.
+I've been shopping around for a few months, knowing that I would need to purchase something before the next school semester, and I stumbled upon this model.  It has everything that I was looking for, and works exactly as advertised, all for under $1000.  I was pricing equivalent systems (with same warranty, specs, etc.) at around $1100, and even then I usually had to sacrifice one feature that I wanted.
+PROS--
+--Battery life- At a full charge, it was showing about 10.5 hours with moderate internet browsing.  The battery is also low profile, unlike some other brands' high capacity batteries.
+--Switchable graphics- Not enough can be said about how awesome a feature this is.  I haven't seen it on any other laptop, and this one feature alone pushed me to buy this one.  The computer automatically swaps graphics methods when you plug or unplug the power adapter.  You can set it manually by change the Windows power management mode (a few mouse clicks).  For those that care, I got a 3DMark05 score of about 6900 using stock settings (with the discrete graphics card).  Note that the HDMI only works with the discrete graphics enabled, not the Intel onboard.  HDMI works flawlessly for me, and is great for streaming Netflix or Pandora.
+--Keyboard and mouse- Love the multitouch, but the touchpad is a bit more tap sensitive than I'm used to.  It's not that annoying, just a bit of a learning curve.  The keyboard is great.  I haven't noticed any flex, and the keys are laid out well.  Some laptops make keys such as the arrows and PgUp, PgDn, Home, and End smaller, which is really awkward for me, but Asus left those keys full size on this model.
+--Overclocked- Asus OC'd the processor from 1.3 to 1.72 right out of the box.  It's a shame they don't advertise it with concrete numbers, but that's what they mean by 33% increased speed.
+--Warranty- Try to add a 2 year warranty with 1 year accidental to any other brand and see how much the cost jumps.
+--Other features- 4GB DDR3 is a step above most computers in this price range, as is Wireless N.  
+--Fit and Finish- Despite its weight and size, this laptop feels solid.  The brushed aluminum makes it look more expensive than it is.  Even the velcro cable tie for the power adapter is higher quality than most of what I've seen.  This model comes with actual recovery DVDs, plus you can make your own if you want.
+CONS--
+Just because not everything can be a pro, here are my cons, even though they really aren't that bad, just room for improvement.
+--Screen- Not bad, but not good.  The contrast is a bit low if you plan on watching movies constantly, but for that I usually hook up the HDMI to my TV, which has better contrast anyway.  It works fine for internet browsing and games.
+--Mouse button- I'd rather have two discrete buttons than one that pivots left and right, but I'm starting to like the multitouch method better anyway.
+--Fingerprint magnet- Wear gloves if this really bothers you.
+--Bloatware- No worse than any other brand, but it's still a con.
+Overall, I'd say that this model is the perfect all around laptop.  It combines long battery life with good performance at an affordable price, without sacrificing quality.  They even back up their work with what is probably the best standard warranty in the business.

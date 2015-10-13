@@ -1,0 +1,15 @@
+ID: B001NPDKWQ-R3IMF91GF2NW99-A3SA1A5UELKCTD
+Category: Laptops
+Product: Pavilion-DV6-1050US-16-0-Inch-Processor-Premium
+ReviewerID: A3SA1A5UELKCTD
+ReviewerName: Brendan Daisley "Brendan"
+Date: June 26, 2009
+Helpful: 2 of 2
+Rating: 2.0
+Title: MUST READ!  Faulty BIOS Upgrade
+Content:
+Fellow Amazoners:
+I just bought this computer two days ago -- specifically the DV6-1030US.   The HP Update tool recommended that I upgrade the BIOS.  The error caused the computer to crash permanently.   This is happening now, and HP still has the faulty BIOS update on its website. 
+I'd recommend buying another computer/brand until this problem is resolved.  The work around is kind of complex.  I would just hate to see you with what the techies call a "brick" -- a computer that won't power on, etc.
+See this thread for more information at the HP Forums: [...]
+No joke.

@@ -1,0 +1,28 @@
+ID: B0015L0T68-RPAQE4LKLFDRE-A2IKYTS8SLW15C
+Category: MP3Players
+Product: SanDisk-Sansa-Video-Player-Black
+ReviewerID: A2IKYTS8SLW15C
+ReviewerName: bbzippo
+Date: April 13, 2010
+Helpful: 1 of 2
+Rating: 3.0
+Title: A good music player, but below expectations
+Content:
+I just got the Fuze from Amazon a few hours ago, so this is a first impression review.
+Overall, this is a good music player.
+Pros: 
++ Good sound quality. I previously owned Cowon and Creative players, and I'd say the Fuze is on par with those brands.
++ Good usability, intuituve controls, mostly. 
++ Build quality and materials feel pleasant to touch and look durable.
++ The included headphones are surprisingly good. I still recommend to get the inexpensive but superior Koss KSC75.
++ Nice screen.
++ FM radio.
++ Folders view.
+Cons:
+- Proprietary USB connector.
+- Controls are not good enough for in-pocket use. You need to be looking at the player when you operate it. Yes, you can operate volume control, but pausing and skipping can't be done "blindfolded". This also makes it hard to use it in the car.
+- No Video Conversion software included or provided by the vendor. Sandisk used to provide a media converter, but not anymore, apparently. So far I haven't figured out how to put my videos on the player and what exact formats, codecs, bitrates and framerates are supported. (see update below).
+- No user manual included, only a quick start guide.
+- Too heavy/bulky for a pocket audio player, too limited video capabilities for a video player.
+UPDATE: 
+I have figured out how to get the Media Converter software from SanDisk. You first need to download Sansa Firmware Updater which can be found in the Driver Download section on [...]. Then you need to start the Updater with your player plugged in and let it check for updates. It will find 2 updates: the Media Converter and the User Manual.

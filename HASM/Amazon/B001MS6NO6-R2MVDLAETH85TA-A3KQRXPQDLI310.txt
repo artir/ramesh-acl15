@@ -1,0 +1,19 @@
+ID: B001MS6NO6-R2MVDLAETH85TA-A3KQRXPQDLI310
+Category: Laptops
+Product: Sony-VAIO-VGN-FW373J-16-4-Inch-Laptop
+ReviewerID: A3KQRXPQDLI310
+ReviewerName: Rick Feratti
+Date: April 14, 2009
+Helpful: 0 of 10
+Rating: 1.0
+Title: Don't buy it!!
+Content:
+1 - There is no XP drivers
+2 - There is no CD or DVD (for support or Windows) in the box
+3 - Wifi doesn't work very well
+4 - There is no vaio drivers for model VGN-FW373J/B at the sony support.
+Now my Vaio that I bougth 10 days ago:
+1 - Windows fails
+2 - Battery doesn't work - System ask me to replace or remove
+3 - HD doesn't work (some times when I turn on)
+4 - Some times the screen doesn't work

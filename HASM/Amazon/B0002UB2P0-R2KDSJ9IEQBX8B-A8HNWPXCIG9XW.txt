@@ -1,0 +1,15 @@
+ID: B0002UB2P0-R2KDSJ9IEQBX8B-A8HNWPXCIG9XW
+Category: MP3Players
+Product: Rio-Carbon-GB-MP3-Player
+ReviewerID: A8HNWPXCIG9XW
+ReviewerName: Jimmy McNulty
+Date: June 17, 2005
+Helpful: 7 of 9
+Rating: 1.0
+Title: Quality Control Issues With RIO PRODUCTS
+Content:
+There is a history of Rio's that fail right after the short 90 day warranty period.
+The Carbon is no exception.
+I've gotten the dreaded 'Upgrader' Error Message and the unit will not work without the charger attached to the USB Port on the unit.
+I've tried everything, including updating firware apprx. 5 times with no success.
+Stick with Creative or Apple products. Their quality control is much better.

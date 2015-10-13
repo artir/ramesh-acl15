@@ -1,0 +1,17 @@
+ID: B002C7446A-RSNSK3G4FCK38-A23C0R77ZP9Z84
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A23C0R77ZP9Z84
+ReviewerName: Hery R. Ratsimihah
+Date: December 28, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: Perfect ?
+Content:
+The Macbook Pro is just awesome.
+Once you get to know all the trackpad moves and most of the keyboard shortcuts, it gets really comfortable and instinctive to navigate in Mac OS X Snow Leopard.
+I got the 2.26 Ghz for Christmas '09, and I have been really impressed so far. The OS runs really smooth and fast, and the interface is beautiful.
+This is my first mac ever, and also was I have been expecting for a computer, but was always disappointed with PCs.
+Furthermore, I like how running the terminal on Snow Leopard is similar to running it in a Linux distribution, thanks to the UNIX-based OS.
+The only game I tried so far is World of Goo, which runs perfectly on this version of the Macbook Pro.
+I might add further details later as I get to know my Macbook Pro better, but so far, I love it.

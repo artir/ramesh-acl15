@@ -1,0 +1,58 @@
+ID: B001GCTT7G-R1PJRL2WUFPC1I-AEGJTQ52JQ1VO
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: AEGJTQ52JQ1VO
+ReviewerName: Kuroda "Jeff"
+Date: October 23, 2008
+Helpful: 4 of 8
+Rating: 5.0
+Title: Phenomenal Laptop
+Content:
+Pros: - GREAT OS
+- Lightning fast
+- Light-weight, sturdy unibody design
+- Attractive design
+- Dashboard
+- Incredible screen
+- Great trackpad
+- Good battery life
+- Keyboard is excellent
+- Magsafe adapter
+- Excellent iSight Camera
+- Boot camp available
+Cons: - Glossy screen quite reflective
+- Screen is fingerprint prone
+- No FireWire
+- Small amount of game functionality
+- Battery not as good as advertised
+- Distant longing for physical trackpad button
+- Multi-touch gestures not entirely spot-on
+Summary: The new Macbook. It's incredible. With faults. That's all I'm going to say for my introduction. Read on.
+Physical Specs
+The product physically is very sturdy, thanks to the unibody construction. Normally the chassis would normally consist of various small parts. So instead of taking a small piece of aluminum and adding more aluminum, Apple has taking a big piece of aluminum and subtracted from it. Thus creating a sturdy, yet light laptop. I have heard that the aluminum interferes with internet connectivity issues. I do have to say, unfortunately, it is true. I put the Macbook and my old PC laptop side by side, and the PC was able to pick up better frequency and more networks. 
+Now for the multi-touch trackpad. It is made from glass, but it feels like there is a covering on it that doesn't nearly have the friction of glass. Clicking and moving the cursor is very easy and enjoyable, with the very large surface. Right-clicking can be done with by clicking with two fingers or by clicking one of the bottom corners after being manually set. It should also be noted that only the bottom 3/4 of the trackpad is clickable. 
+The multi-touch gestures are fun to use, but are truly unneeded gimmicks that could be done easier with a click.
+I'll just go through the gestures now. 
+There are 2 finger gestures:
+The first is scrolling with using two fingers by swiping your fingers vertically or horizontally depending on the page. 
+Secondly you can rotate a picture using two fingers apart and rotating.
+The third gesture is holding the control button and scrolling vertically to zoom in on a page.
+And there is one 3-finger gesture:
+Swipe with three fingers to navigate. You can do this to go forward or back on a page, or changing a picture.
+Lastly there are 4-finger gestures:
+Swiping vertically upwards allows you to clear everything off your desktop.
+Swiping vertically down launches Expose. 
+Swiping horizontally in any direction lets you change and view your running applications, which can also be done with command+tab. 
+On the bottom of the MacBook there is a panel that allows for easy access to your battery and hard drive. This will be handy to many people.
+The keyboard is just like the Air, with the spaces between the keys. This creates a very nice typing experience, and are backlit if you purchase the 2.4GHz model. 
+A major letdown by Apple is the omission of a FireWire port. This is very disappointing to many people, but doesn't affect me at all. Nowadays the average users don't use FireWire too much. Although I do see this as a major problem for professional applications. 
+There is also a battery life indicator on the side of the base that glows green to show the rounded percentage of your battery.
+Software and Performance
+Of course the MacBook has the great Mac OS X Leopard software. 
+It is very fast, and has good security. 
+The battery life is advertised to have 5 hours of battery life, but Apple obviously means not being connected to the Internet, and having no applications running. You'll probably get about 4 and a half hours with Safari and other apps running. Unless you have a lot of apps on like me, then you'll maybe have 3 and a half to 4 hours. 
+With the NVidia graphics card, the screen looks pretty good, as do games. I do have to admit, though, the new MacBook Pro screen looks better, especially with blacks. Still, games really pop on the gorgeous glossy screen, unless you are in a bright area. The glossy screen of course attracts bad glares and many noticeable fingerprints. Still, if you are indoors or someplace with low light, the glossy screen is perfect. I mostly use it inside, so I wouldn't trade the beautiful glossy screen. Although for those coffee-shop typing folks, this could be a deal-breaker.
+Other than these things, Mac OS X is the same, really. 
+Conclusion
+If you have purchased a MacBook anytime soon, then I would not suggest you purchase this one. Most of the differences are the physical attributes, and the software is pretty much the same.
+If you are new to Macs like me, then I would DEFINITELY suggest this phenomenal notebook computer. Of course it does have it's faults, truly I have never used such a simple, enjoyable computer.

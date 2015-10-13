@@ -1,0 +1,11 @@
+ID: B002OOWBZM-R2WX54KQ7HC5GE-A1D9U6CZL7O8CA
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1307-13-3-Inch-Ultrathin
+ReviewerID: A1D9U6CZL7O8CA
+ReviewerName: Ken "Ken"
+Date: April 22, 2010
+Helpful: 
+Rating: 4.0
+Title: Toshiba T135-S1307
+Content:
+Lightweight, lots of features for the price (500 gig HD, 3 gig memory, bluetooth, Wifi, HDMI, video camera,Intel Duo processor)and fairly long battery life.  Only negatives are low speaker volume and at times flaky touchpad response.  For some reason 32 bit version of Windows 7 is provided even though the processor should support 64 bit.

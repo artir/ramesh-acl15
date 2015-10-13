@@ -1,0 +1,17 @@
+ID: B000M8WTEU-R20YHLIBJZ3RJO-A3AOTRJI8M7LC0
+Category: Laptops
+Product: Toshiba-Satellite-A135-S4427-Widescreen-SuperMulti
+ReviewerID: A3AOTRJI8M7LC0
+ReviewerName: Paul Barwick "Paul in SF"
+Date: March 31, 2007
+Helpful: 11 of 11
+Rating: 5.0
+Title: Good Laptop - Extremely Linux (Ubuntu) Friendly!
+Content:
+After spending a couple of weeks researching the current laptop market for a good general purpose, desktop replacement machine, I discovered the A135-S4427 was being sold at a nationwide chain as an "in store only" special for $200 off the list price.  That put it right at the price range I was looking at, and gave me a lot more than I was expecting at that price.
+This A135 sports one Gig of ram which one pretty much needs as a minimum these days, and it has a decent size 120 Gig hard drive.  It has a nice bright 15.4" widescreen display, and mine has no light leakage or dead pixels.  I was afraid that there might be reflection issues with the glossy screen, but it actually has fewer reflections than the matte screen on the machine it replaced.
+This model has a very nice DVD burner, and for a laptop the speakers aren't bad.  I don't know what inspired the designer to put the speaker/earphone jack in the middle of the front edge, instead of on the side or the back, but that's about my only gripe.
+The standard battery leaves a little to be desired, providing only about 2 to 2 1/2 hours running time.  I think that for many folks this will be a desktop replacement machine, so that shouldn't be a big issue.  A higher capacity battery is available from Toshiba for those who need it.
+As others have pointed out, this is not a gamer's machine.  But then, I didn't expect it to be.  After the research I did I would expect a decent gaming machine to cost somewhere in the neighborhood of twice the list price of this laptop.  This machine has a Core Duo processor, rather than the slightly faster Core 2, and like many machines on the market has the GMA950 video card.  The serious gamer won't find these acceptable, but for general use they are just fine, and most users won't find the slight jump in performance worth the big jump in price.
+What I personally liked most about this laptop was the fact that when I replaced the Windows Vista Home Premium with which it comes with Ubuntu 6.10 Linux, everything worked (with the exception of the built in memory card reader, which is very minor to me).  Wireless, screen resolution, everything just worked.  No tweaking required.  Too cool.  A Shout Out too, to Toshiba for including a real Vista backup disc, instead of one of those "hidden partitions" which are becoming so common these days.  If and when I ever get around to selling this laptop I will probably load the Vista back onto it for the great uneducated masses who think that Microsoft is the only alter at which to worship.
+In summery, this is a nice machine and a good value, especially if you can find it as I did, on sale.  It's not the fastest machine out there, nor one with the most advanced video card, but it's not priced in that range either.  For someone like me who spends a lot of time surfing the web, watching streaming video, listing to web based radio stations and just general computing, it makes a good, speedy all purpose machine.

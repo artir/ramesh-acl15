@@ -1,0 +1,38 @@
+ID: B002PIRE2M-R3MAUWLBCV4KUM-A3HPPT9QAJPJV7
+Category: Laptops
+Product: Acer-Aspire-1410-2936-Widescreen-CineCrystal
+ReviewerID: A3HPPT9QAJPJV7
+ReviewerName: David Wells
+Date: December 4, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: Netbook for the rest of us?
+Content:
+This system is an excellent combination of portability and power! Check out this line if like me, you've found netbooks wanting.
+After migrating from my full-size notebook, all 7lbs of Core 2 goodness, to an Atom based netbook, the tradeoffs for size were cramping my style. My typing slowed, my eyes hated it, and it just wasn't responsive enough. Worse, the 2GB maximum RAM limitation meant running my virtual machines were out of the question. The experience left me discouraged and I fully expected to become one of the last victims of a $1500 ultra-portable.
+In contrast, this thing is fast, it has a full-size keyboard, much more useful screen, drives a larger external display (VGA or HDMI(!)), can have 4GB RAM, and has twice the battery life if you don't thrash it. (my previous netbook only had the 3-cell battery). It's all wrapped in a package that appears to most people the same size as the little 10" versions. I can't tell the weight difference if I'm not holding them both at the same time. And the price! The Black Friday discount was minimal but now that I've used it and can compare, I'd gladly re-buy this one at retail. This thing is the netbook for those who can't quite squeeze down to the little N270/280 boxes. Whereas the Atoms feel like a cute attempt at a notebook, running a "sort-of" mobile processor, this thing feels like a real system, but it's small and cheap.
+Pros (vs Atom-based netbook)
+- See above - speed, screen size, speed, keyboard, RAM, speed, etc.
+- Dual-core headroom.
+- Touchpad is 50% larger and buttons are separate vs. D250 rocker style.
+- The additional indicator lights are always a good thing. Power, charge, bluetooth wifi, HD, Numlock, capslock.
+- The integrated video can drive a huge external monitor.
+- Windows 7 Home, 64-bit version
+- Gb Ethernet.
+- N draft WiFi.
+Cons & quibbles:
+- I prefer matte screens, but this isn't bad for glossy.
+- Red color - others were another $50.
+- HD mounting and connector are a kludge. HD secured by pressure between pads and external cover. No real lock. Uses ribbon cable adapter to match its 90 degree rotation to board. It isn't going anywhere, but it's a big contrast to the D250's very clean HD mount.
+- Keys are completely flat, as is their action. I'm getting used to it.
+- Too little space between keys makes it easy to touch-type the wrong keys. It's tough to feel the boundaries.
+- Windows COA sticker on bottom was applied slightly off-center and the edges keep peeling.
+- Default settings for touchpad make it very easy to accidentally "tap" when typing, sending cursor into the weeds or sometimes doing big unintended edits.
+- Power plug (computer end) & socket seem fragile.
+- Case material seems a bit fragile. Not a ThinkPad.
+- Very slightly noisier than Atom systems. Most noticeable when the fan cycles on and off repeatedly while running something processor intensive.
+- WiFi slide-switch fragile & action uncertain.
+- No built-in Bluetooth on this model though it does have the BT slide-switch and indicator. Inside, next to the Intel 1000 WiFi card, you can see pads on circuit board where BT socket option might have gone.
+- I know I'll wish it had a 4th USB port.
+If you're looking for something both smnall AND functional give this thing a try.
+(Thank you Acer!)

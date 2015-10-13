@@ -1,0 +1,35 @@
+ID: B002V5GO8E-R71V7LNWTO7YY-A30M6GW99Q00VM
+Category: Laptops
+Product: MSI-A4000-068US-Celeron-Dual-Core-LED-Backlit
+ReviewerID: A30M6GW99Q00VM
+ReviewerName: The WB
+Date: November 4, 2009
+Helpful: 7 of 7
+Rating: 5.0
+Title: Great small notebook
+Content:
+Just received mine the morning of 11/3/09 from another retailer.  Double boxed and arrived without any damage to the box itself.  Took it out and charged the battery completely starting the computer for the first time.  Like any first time Windows start, it took almost 30 minutes to load and configure itself for the first use.  After almost 24 hours of playing with this computer, let me share my impressions.
+Computer itself: 
+* Bright 14.1" 16 * 9 widescreen LCD monitor with Screen Resolution of 1366 x 768
+* Nvidia graphics accelerator for video -- one HDMI output port, but it is not included.
+* Wifi b/g/n -- my DSL caps out at 5.2mbs and on wireless, I max out my connection (615K/sec download speed)
+* The signal strength meter reads low, but even with a low reading, I get a solid connection to my wireless router -- no drops
+* This unit does not have Bluetooth built-in -- the 15" may?
+* Win 7 Home Premium 32 bit is preloaded and MSI provides a Windows restore disk with all drivers in the box
+* 6 cell battery, but the unit itself is quite light
+* DVD burner built-in
+* The built-in SD/MMC card reader reads/writes to SDHC cards - 4 GB cards I have work
+* 250GB HD is partitioned as C:\ 89.1 GB and D:\ 133 GB, upgradeable, but could void the warranty.
+* 2 GB of RAM standard -- looks like it's upgradeable from the bottom, but it could void the warranty also
+* Bloatware -- Norton Internet Security 2009, MS Office S & H, MS Works and Winrar -- quite light in comparison to others
+* The trackpad is responsive, but the feel is not as good as higher end laptops.
+* The keyboard feels softer that I like, with no tactual feedback -- the keyboard is not backlit.
+* The built-in speakers sound tinnie, but they are small and I fully expected this result
+* BONUS -- 3 year limited hardware warranty
+There is a 1.3 MP web cam built-in to the top of the screen frame.  The cam works just as advertised.
+After pounding on this computer all evening and again this morning, I'm pleased to say that this computer never froze up, crashed or refused to perform what I asked of it.  Now, I had to wait for things, but this is not a quad core machine.  Having survived the first round of testing, I then gave it the big test -- Doom 3, to see how the computer holds up in this graphics rich CPU intensive program.  I know Doom is not Call to Duty, but every system I've used Doom on has either held up or failed miserably.  Installation of Doom 3 took as long as as it did on my 5 year old Sony system.  Play is slower than on my Core 2 Duo system, but the graphics held well in play.  Intense play, the limitations become more apparent -- the frame rate dropped considerably, but not to the level of what an Intel graphics chip system would.   Just have to remember that this is not a gaming computer, but for some diversion after a bad day, it will do the job.
+Connecting this computer to my XP home network took a bit of doing, but once I learned how Windows 7 handles home networks, the computers now play nice together.
+Overall, for the price paid I paid, the features included in the system, it is a hard system to overlook.  The current limitation regarding hardware upgrades during the warranty period is the only real down issue I have with the computer.  I recommend this computer to anyone looking for something bigger than a netbook without taking on something big and bulky for traveling.
+***
+11/23/2009 -- Update
+I have had only one minor issue with this system in the past 3 weeks of hard use -- wireless LAN failure when I set up the guest account.  After setting up the guest account in Win 7, my wireless failed to work with any user.  Without spending an unreasonable amount of time working the problem, I did a system restore back to a time before the guest account was created.  The two regular accounts work fine on wireless now and I will have to do more reading to correct my configuration issue -- it could be a driver issue for Win 7 that MSi still has to release for this model.

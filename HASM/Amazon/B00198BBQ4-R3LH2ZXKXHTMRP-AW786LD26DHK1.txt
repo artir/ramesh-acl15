@@ -1,0 +1,14 @@
+ID: B00198BBQ4-R3LH2ZXKXHTMRP-AW786LD26DHK1
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: AW786LD26DHK1
+ReviewerName: TDK41992 "Tom"
+Date: September 9, 2009
+Helpful: 
+Rating: 1.0
+Title: Extremely Disappointed in DELL Service
+Content:
+I am a San Diego-based executive and long time DELL customer. I have had at least four DELL laptops at work, and three at home. I purchased an Inspiron 1525 laptop for my wife in December 2008. About 6 months later, it crashed. My service experience can be described as an "endless loop" of frustration where you have to navigate through a foreign call center talking to multiple unqualified people, and repeating yourself over and over again.
+As part of the "service" I received, the tech required me to buy anti-virus software that I did not need saying: "I can't help you unless you install it." As I told DELL repeatedly, the issue was obviously a hardware defect. Ultimately, I was proven correct as the problem was indeed failed memory.
+To add insult to injury, the software (that I didn't need) was quoted at $55 for a 2 year subscription. When I received the product and credit card statement, I discovered 1) DELL charged me $115.25 (the quote was $55) and 2) the service was 1 year (not 2 years). I have repeatedly contacted customer support to correct the error but they refuse to acknowledge the misrepresentations.
+Shame on DELL for providing such terrible service to a long time executive level customer. Shame on them for refusing to provide any escalation path to a rational U.S. customer service employee.

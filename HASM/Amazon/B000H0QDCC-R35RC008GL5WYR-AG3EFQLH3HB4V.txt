@@ -1,0 +1,13 @@
+ID: B000H0QDCC-R35RC008GL5WYR-AG3EFQLH3HB4V
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Brown
+ReviewerID: AG3EFQLH3HB4V
+ReviewerName: Cyberjock45
+Date: August 27, 2007
+Helpful: 4 of 4
+Rating: 1.0
+Title: Software doesn't work with some versions of Windows XP Media Center
+Content:
+Can't tell you how good the player is because I could never get the software to install.  Inserted disk and was told that I needed to upgrade either the software or my operating system.  Further investigations led me to the Zune website where I found out that any version of XP Media Center other than the 2005 version will not work with the Zune player, and that the 2005 edition required an upgrade to "Rollup 2".  Well my version of Media Center is the 2005 edition but this was not recognized and Rollup 2 would not install.
+It is absolutely beyond logic to me that Microsoft cannot design a MP3 player with software that will work with all versions of its crappy operating systems, especially those that are only a few years old.  It's even more baffling to me considering that XP Media Center is nothing more than the standard XP with a few extra features, but it's still XP at the core.  I've installed and used software for IPod and Creative players and have had absolutely no problem with their software working with my OS.  Only Microsoft could screw this up.
+Needless to say, I quickly repackaged the Zune and returned it to the store and bought a Creative Zen player instead.  Works great, looks awesome, and software installs with no problem.

@@ -1,0 +1,29 @@
+ID: B002NEGTTW-RZ16KWG567YCI-A12UFQ10DVLY4M
+Category: DigitalSLRs
+Product: Canon-EOS-7D-Body-Only
+ReviewerID: A12UFQ10DVLY4M
+ReviewerName: Marshall Pierce
+Date: April 10, 2010
+Helpful: 4 of 7
+Rating: 2.0
+Title: It's great... except for the pictures it makes.
+Content:
+The one I got had a squeaky CF door. I noticed it the very first time I picked it up; it was that obvious. After doing some reading online, it appears this is a common (but not universal) build problem. I considered exchanging it before I'd gotten much further unpacking, but thought I might as well shoot with it for a weekend to see how it performed compared to my trusty 40D. (For what it's worth, the 40D's door is rock solid and has absolutely no "give" to it.)
+I shot an autocross event in light varying from full sun to mild cloud cover. Exposures were typically around 1/2000 at f/2.8 ISO 100, so there was plenty of light. I used a 70-200mm f/2.8L IS (not the new second-generation one, though) on the 7D and a 300mm f/4L on my 40D. Both cameras were set to record raw files and were processed in Lightroom 2.6.
+Pluses:
+- Drastically better color rendition for certain shades. One of the cars at the autocross was a BMW M3 in Phoenix Yellow, a particularly awful shade of yellow-green. The 7D got it almost exactly right. The 40D rendered it as more of a dull dusty yellow with almost no green to it. The colors were so far apart that at first I thought they were different cars when I was going through the frames afterwards. 
+- AF was improved over the 40D. I used the AF mode that uses one AF point plus its vertical and horizontal neighbors and that worked pretty well tracking quickly moving cars. I wouldn't call its accuracy a dramatic improvement over the 40D for this particular style of shooting, but it's definitely better.
+- The grip was a marginal improvement for my large hands. I think it would be more of an improvement for smaller hands.
+- Big, bright viewfinder.
+- The main LCD screen is great, even in bright sun.
+- The new button layout and button "feel" is nice. Bigger buttons are easier to work with in gloves, though that wasn't an issue on this particular day.
+- The electronic level seems pretty sensitive. I'm not sure how useful it will be, but there it is. I haven't had much trouble getting my horizons level without an electronic level.
+- 1080p video is nice, but I don't have the audio equipment to make good use of it. Don't think that getting a camera that shoots 1080p will turn you into a videographer overnight.
+- Aside from the squeaky door, the body feels pleasantly heavy and very solid.
+Minuses:
+- Significantly grainier images than the 40D, even at ISO 100. I was shocked at how bad the grain was. After seeing how bad the noise was, I immediately packed up the camera to return it. The noise is simply atrocious.
+- Pixel for pixel, the 7D is a little softer than the 40D. This is well known; see other online reviews of the 7D.
+So there you have it. It's a great camera to use as long as you never intend to look at the pictures it takes (or don't have very high standards). Maybe the one I got was defective... who knows. I'm waiting for the next generation of bodies.
+Update:
+Take a look at a full-size shot: [...] (Amazon censors URLs in reviews. See the comments for how to access the sample images.)
+Make sure to view it at 100%. As stated above in the review, the 7D does have very good color rendition, so don't hold the muted colors in this shot against it. This shot was converted with ufraw which doesn't have good color defaults for the 7D. Lightroom 2.6 renders colors accurately with the default camera profiles (though Lightroom's raw conversions also exhibit the same noise, so that's not just from ufraw). The side panels of the car are especially easy to see noise in.

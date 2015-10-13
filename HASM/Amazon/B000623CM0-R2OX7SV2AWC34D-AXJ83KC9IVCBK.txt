@@ -1,0 +1,11 @@
+ID: B000623CM0-R2OX7SV2AWC34D-AXJ83KC9IVCBK
+Category: Laptops
+Product: Toshiba-PORTEGE-PM-1-7G-512MB-PPM21U-07UEV8
+ReviewerID: AXJ83KC9IVCBK
+ReviewerName: Jay J. Jones
+Date: January 8, 2007
+Helpful: 0 of 1
+Rating: 3.0
+Title: Freezing problems too
+Content:
+I like almost everything about my Portege, but like one of the other reviewers mine freezes constantly when using IE.  You hae to cltr alt delete  then mess with it and usually it unfreezes but sometimes I have to hard schut down and restart. A real bummer, since I like and all the other features unique to the convertible alot.

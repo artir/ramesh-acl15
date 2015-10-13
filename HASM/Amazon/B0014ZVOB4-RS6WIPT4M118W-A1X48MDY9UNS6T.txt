@@ -1,0 +1,11 @@
+ID: B0014ZVOB4-RS6WIPT4M118W-A1X48MDY9UNS6T
+Category: SpaceHeaters
+Product: Broan-198-Heater-Painted-Grille
+ReviewerID: A1X48MDY9UNS6T
+ReviewerName: M. Vince Brewer "MasterSparkee"
+Date: December 9, 2009
+Helpful: 1 of 2
+Rating: 4.0
+Title: Nice heater
+Content:
+Kicks out some real heat at the 4kw level.  we put it on a timer and had it come on and off automatically, problem was the fan wasn't allowed to cool the heat coils down enough and then it would trip the high heat sensor.  The it wouldn't start back up without hitting it's reset. Bad application for it.  The fan has to cool down the coils after the termostat is satisfied.

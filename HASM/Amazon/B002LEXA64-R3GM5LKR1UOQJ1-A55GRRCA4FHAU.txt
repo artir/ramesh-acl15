@@ -1,0 +1,11 @@
+ID: B002LEXA64-R3GM5LKR1UOQJ1-A55GRRCA4FHAU
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A55GRRCA4FHAU
+ReviewerName: T. Wu
+Date: October 6, 2009
+Helpful: 4 of 27
+Rating: 1.0
+Title: not for linux
+Content:
+If you try to install Ubuntu on it, you will be very disappointed like me: blank screen for duo boot, and "Grub error 22" for stand alone installation, most important, you won't be able to roll back to factory status if you did not burn a lifesaver CD using your own external CD-ROM before you want to change anything.

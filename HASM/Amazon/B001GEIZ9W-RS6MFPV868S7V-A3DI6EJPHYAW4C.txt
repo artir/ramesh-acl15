@@ -1,0 +1,11 @@
+ID: B001GEIZ9W-RS6MFPV868S7V-A3DI6EJPHYAW4C
+Category: Laptops
+Product: Lenovo-ThinkPad-T500-2055-fingerprint
+ReviewerID: A3DI6EJPHYAW4C
+ReviewerName: Think before u buy
+Date: July 6, 2009
+Helpful: 0 of 1
+Rating: 2.0
+Title: Non ergonomic design, lack of LED displays, heavy machine
+Content:
+While performance of T500 is not bad, it has several flaws for anyone looking for a solid Biz machine and typing on in for hours.   First, the keyboard location/palm rest space is non-ergnonimic and will lead to wrist pain for anyone with medium to large palms. With mouse pad and related related clickable fields taking extra space, loudspeakers on the top taking space, there is not enough space to rest your palms - they end up resting on the edges and slipping off - putting pressure on your wrist area. This can lead to Carpal tunnel syndrom. Second, the location or finger reader is awkward - just under where you keep your hands instead on the side. Thrid, the weight of above 6lbs speaks against T500.  Another major flaws is that are no LED displays above 1280 resolution,  For serious user, better options are Dell E6500, and perhaps Apple until HP comes up with new series of laptops with LED displays.

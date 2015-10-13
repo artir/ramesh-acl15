@@ -1,0 +1,15 @@
+ID: B0032Z8KLQ-R2RP790A7ZGXTD-A2Y15OJT036MPA
+Category: Laptops
+Product: Gateway-NV5356u-15-6-Inch-Laptop-Brown
+ReviewerID: A2Y15OJT036MPA
+ReviewerName: K. F. Laux "kflaux"
+Date: March 22, 2010
+Helpful: 1 of 1
+Rating: 3.0
+Title: Fast, reliable, but not without some warts
+Content:
+I've been using this machine for about a month now. The basics of this Gateway notebook are solid, for the most part. Fast, lots of storage, good functionality.
+All the same, there are some problem areas. The single biggest is the keyboard, which is poorly designed and a pain to use. Tiny control keys in the corners of the keyboard, an even tinier delete key in the top row, and other issues make this hard to use me. But this is subjective, of course, so it may not be a problem for you.
+Documentation:  Gateway provides an icon on the desktop intended to provide info on the computer. But if you want to eg. find out what features the machine comes with, ...it tells you to look at the label on the box the machine came in. ;-&lt; It doesn't provide a lot of info on other aspects of functionality either. 
+The touchpad is sometimes oversensitive. The case seems to be a dust magnet. And there are a few other minor issues. Otherwise, though, it performs as advertised.
+I'd recommend this machine only if the keyboard isn't a deal-breaker for you. I probably would've bought some other machine had I been able to try this one out before ordering. IAC I'll be using an external keyboard whenever I'm not on the road.

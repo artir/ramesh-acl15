@@ -1,0 +1,11 @@
+ID: B0029ZA5M2-RZAP5M6GU0HIR-A1SUWDLD2JX1E1
+Category: Laptops
+Product: Compaq-Presario-CQ60-410US-15-6-Inch-Laptop
+ReviewerID: A1SUWDLD2JX1E1
+ReviewerName: jjj
+Date: September 28, 2009
+Helpful: 1 of 5
+Rating: 1.0
+Title: HP warantees and tech support leave a lot to be desired
+Content:
+Bought my CQ 60-410 computer 28 Aug 09. Today is 28 Sept 09. I have been on the phone with tech support more times than I can count trying to figure out why this piece of junk keeps popping up a bluescreen error and shutting down. After a month of calls they finaly decide I need to return it to the factory so they can fix it. The kicker is now HP has decided they will no longer pay shipping to return their defective product under warantee. This unit has yet to remain operational for more than a day at a time, their tech support can't fix it (great at teling me to contact Microsoft; everything is Microsoft's fault if you listen to them) and now I get to fork out some $20-30 for shipping and insurance. Send a message to HP, don't buy their junk.

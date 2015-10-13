@@ -1,0 +1,19 @@
+ID: B002C7458M-R3E4OX43OSNC4V-AOK5TN04A2C65
+Category: Laptops
+Product: Apple-MacBook-MB985LL-15-4-Inch-Laptop
+ReviewerID: AOK5TN04A2C65
+ReviewerName: James L. Thompson
+Date: November 8, 2009
+Helpful: 7 of 8
+Rating: 5.0
+Title: Windows Lovers: This Thing Does NOT Crash! No more blue screens of death!
+Content:
+Put me in the column of rabid Windows defenders who discovered the new MAC OS and the new Macbook Pro 15.4" laptop. For more than 30 years, after my first Apple-2 experience, I swore that I would never have another Apple computer.
+In short, with my Windows-based PC, every time I went to use it to edit photos, make a music mix, copy some home video to DVD: I would have to download and install a bunch of updates, then reboot, then try to figure out what they meant when they said my simple little program won't work because of "giffelflexbot.dll not found." Once I found and fixed a problem, Microsoft would then demand that I re-register my operating system or it would stop working altogether.
+I was beginning to stabilize my Windows XP SP3 system -- until Microsoft announced that they would no longer support that system. So, I had just upgraded to Windows Vista when Microsoft announced that I will now need Windows 7. Oh yeah, and the Vista system wanted me to buy a whole slew of new peripherals.
+Shopping for a the newest Intel-based PC, I came across the Macbook Pro systems. The looks and the features, plus the Intel-based board, made me go ahead and spend $1,699 in the hopes that the MAC would outperform my old machine.
+I've been using this Macbook Pro 15 for five months now, and the best comment I can offer to skeptics is that IT DOES NOT CRASH! No more blue-screens-of-death. When something does go wrong, the Snow Leopard system finds a way to FIX the problem and get me back on track in a matter of minutes. 
+At the same time I bought my Macbook Pro for myself, I bought a high-end PC-based Dell laptop for my wife. She complains about all the common Windows problems a lot, and I still have to fix them. I actually had to dumb the Dell Vista system down to 32-bit so her apps will work. Clearly, her next laptop is going to be a Macbook.
+Sure, I love the LED display, and I love the backlit keyboard. And of course I'm a bit perplexed that I have to buy some new cables to use the Firewire 800 and mini-display ports. I'd think for a $1,699 laptop that Apple would supply a few odd cables to make buyers happier.
+I can't believe my laptop didn't crash, and didn't have any encounters with internet viruses and trojan horses, while I wrote this review. 
+Again I say, THE MACBOOK PRO DOES NOT CRASH!

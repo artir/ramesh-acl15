@@ -1,0 +1,15 @@
+ID: B000UV4EUG-R2SOM306DXYMWJ-A22GEKRZG5HRQ7
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A22GEKRZG5HRQ7
+ReviewerName: LastLion
+Date: October 12, 2007
+Helpful: 129 of 143
+Rating: 3.0
+Title: Small and Sleek, but SD is designed poorly and does not work as advertised
+Content:
+I purchased this item based upon Creative marketing that it worked with Amazon Unboxed, Audible, and the SD card slot would "expand my media library" so that the 8GB core memory would not be a limitation.  Well, Amazon Unboxed and Audible do transfer to the unit and play on the core 8GB memory only, but will not transfer or work from the SD memory slot.  So, if you expect to be able to run protected videos or audible books from the SD card slot, you can forget about it.  
+Unprotected MP3's do run from the SD card slot, but they are not integrated with the units software for playlists.  So, you have to manual browse folders on the SD card and play one song at a time (no queuing or creating a play list).  The moment you navigate away from the song playing on the SD card to look at the list of other songs, the playing stops.  So there is no browsing through your songs on the SD card while playing a song.  It works, but the SD interface is sloppy.
+I talked to Amazon about the issue with the Unboxed videos not playing on the SD card and they said they Unboxed player has to transfer the files to the device.  If the SD memory showed up as part of the core memory, than there would be no problem.  Also, they said if the unit allowed you to copy/cut from the core memory and move/paste it to the SD memory from the device, this would allow the videos to play.  I could not get a response from Creative on this issue after 2 days of phone calls and emails.
+I so much wanted this device to be great, and it is so close but the SD card limitations make it really nothing more than an 8GB flash players.  I need more room than that.  I recommend reading the forums on Creative to see the list of complaints about this very problem.  Creative has come out and said they plan NO firmware updates to better integrate the SD card with the core memory or core software to allow protected video or audible to play from the SD memory.  It is a slick, small device that has so much potential, but the SD limitations make it useless for a user with a large video and audible library.  If you only have unprotected audio, than this device will work for you.  Thanks to Amazon's generous return policy, this item is on its way back for a refund since it did not work as advertised.  People are also reporting the Napstet to Go does not work on the SD card slot as well, but I do not have this service to confirm it
+I gave it 3 stars, instead of 2 because it does work with the core memory, looks good, is small and lite; but I am very disappointed in what I feel is deceptive advertising from Creative where they hide the limitations and imply that the SD care will offer you an endless media library while working with these paid services.  .

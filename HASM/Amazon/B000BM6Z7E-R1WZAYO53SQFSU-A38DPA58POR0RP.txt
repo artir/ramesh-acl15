@@ -1,0 +1,18 @@
+ID: B000BM6Z7E-R1WZAYO53SQFSU-A38DPA58POR0RP
+Category: MP3Players
+Product: Creative-Labs-70PF165000015-MicroPhoto-Player
+ReviewerID: A38DPA58POR0RP
+ReviewerName: Walter H. Gude
+Date: August 15, 2007
+Helpful: 3 of 5
+Rating: 3.0
+Title: Could have been great....
+Content:
+Nice screen, standard mini USB cable, nice sound, good battery life, replaceable battery.
+Could be great but for a number of annoying failures:
+  - Can't view photos and listen to music
+  - Does not show up as a drive on windows (must allocate space to be a drive)
+  - Can't play tracks on device on your computer, must copy track to computer drive.
+  - No star ratings for songs
+  - No way to flag a now playing song as "good"
+  - Can't charge on computer and play music at the same time.

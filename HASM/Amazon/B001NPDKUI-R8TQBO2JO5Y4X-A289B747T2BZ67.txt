@@ -1,0 +1,15 @@
+ID: B001NPDKUI-R8TQBO2JO5Y4X-A289B747T2BZ67
+Category: Laptops
+Product: HP-Pavilion-G60-230US-16-0-Inch-Laptop
+ReviewerID: A289B747T2BZ67
+ReviewerName: Alanowski
+Date: April 1, 2009
+Helpful: 9 of 10
+Rating: 5.0
+Title: Great laptop
+Content:
+I've been very impressed with this HP.  The build quality is superb, the design is clever and stylish, and the screen quality is excellent.
+I have not attempted any gaming on this machine (yet), but for regular M$ Office stuff, and graphics processing this thing has handled them without issue.  This carries the 32bit version of Vista - not a deal breaker for most, but those who use VPN to connect to work should note that Cisco does not provide a 64bit version of their VPN software.
+I had 2 other Acer laptops prior to this that had to be sent back due to faulty equipment and shoddily put together components.  No signs of anything like that with the HP.
+The full number pad on the keyboard is a good addition, and the mic and webcam work well.
+All in all a very solid laptop for the price.  [...]

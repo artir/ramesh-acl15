@@ -1,0 +1,11 @@
+ID: B002RT93PA-R1X5DD0TS1BIBJ-A2QMMP7BI2AAAA
+Category: Laptops
+Product: Lenovo-Y550P-324156U-15-6-Inch-Laptop
+ReviewerID: A2QMMP7BI2AAAA
+ReviewerName: B. Haverkamp
+Date: April 24, 2010
+Helpful: 
+Rating: 5.0
+Title: Great little beasty -- tons of power - sound is a little weak
+Content:
+I agree with most of the comments I have seen from others. I had a 17 inch HP before this so I think this puppy is quite svelt. It does get a little hot if you keep your hands near the exhaust vent. I run a lot of virtual machines on this machine and it is truly awsome. I blew away windows and installed Linux. I run a Windows 7 VM for those times when I need a windows system. The sound is a bit wimpy however. Definitely does not compete well with a TV in the same room. That's not deal breaker for me. Battery life is pretty decent considering the baby under the hood; I get about 2 1/2 to 3 hours with the best power settings. I also bumped up the memory to 8 GB to run all those VMs. I am very happy with it. I guess more pixels would have been nice (1366x768) more vertical pixels would have been nice.

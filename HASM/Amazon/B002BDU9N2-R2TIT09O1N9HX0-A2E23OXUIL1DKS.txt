@@ -1,0 +1,27 @@
+ID: B002BDU9N2-R2TIT09O1N9HX0-A2E23OXUIL1DKS
+Category: Laptops
+Product: Toshiba-Portable-Satellite-U505-S2940-13-3-Inch
+ReviewerID: A2E23OXUIL1DKS
+ReviewerName: David A. Low
+Date: August 16, 2009
+Helpful: 15 of 18
+Rating: 2.0
+Title: Disappointed
+Content:
+The last time I owned a Toshiba laptop was 12 years ago, when  it spent a summer and 20k miles on the back of my Harley going from the East to West To Alaska to East coasts.  It worked well, and I had great expectations for this new model.
+This is a fairly expensive PC, and I was hoping it would fit the bill as an "all day" traveling notebook, with a little more oomph than the average netbook, at more than twice the cost and almost twice the weight.  It looks like this machine was designed for long battery life.  The processor uses a little less power than previous Intel duo-core, and there is a software power "eco mode" that is designed for extending battery duration.
+This machine currently works under Vista 64, with a free update to Windows 7/64 in the Fall.  I have not given it a thorough workout, but my comments might help other prospective buyers.
+Pros:
+Nice screen, although running in eco mode is a little too dark for me.
+Some of the utilities are informative and interesting.  The notebook accelerometer has a 3D display that will show your heartbeat as the PC rests on your lap.
+The HDMI connector works well, and the notebook is a satisfactory 720p DVD player when hooked with a digital TV.
+The notebook seems reasonably responsive, although no more so than an average Windows XP notebook running with 1 GB of memory.
+Seems to run fairly cool, with fan noise that is not obtrusive.
+Cons:
+If you're a power-user, this could be a show-stopper: the (downloadable) SecurAble application says that this computer does not support Hardware Virtualization (it is also not mentioned in the BIOS setup.)  This feature will be necessary for Windows 7 "XP Mode".
+The built-in microphone is unusable, it sounds like you're gargling.  For a traveling notebook, this is a major fault.  Contrast this, for example, with the MacBook, which has an excellent microphone.
+Speakers are poor.  Together with the above, means you will will need an external headphone/microphone.
+The touch-pad has a byzantine set-up, and uses special zones for gestures such as scrolling, which I find awkward and error-prone. I miss simple features like two-fingered scroll or right click on the MacBook.  This may be a matter of personal taste and acclimation.
+The 12 cell battery is huge, heavy, clunky, and rattles a bit.  It will not last 8 hours under my normal use, even in "eco mode".  With a fresh, new battery, I did 2.5 hours of surfing, watching some streaming video, and preparing this document, using about 50% of the battery charge as measured by the Toshiba utility.  I did not use the DVD drive.
+The keyboard flexes too much while typing. Poor fit?
+Thus far, I am not impressed with this PC.  I do not think this laptop is $500 better than most netbooks I have used, and I have made a mistake in thinking it would be suitable for travel.  So far, despite high $$ and poor ventilation/cooling, my favorite travel laptop is the MacBook running Windows on a virtual machine.

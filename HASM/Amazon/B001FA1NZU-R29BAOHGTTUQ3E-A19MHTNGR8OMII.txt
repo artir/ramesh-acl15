@@ -1,0 +1,13 @@
+ID: B001FA1NZU-R29BAOHGTTUQ3E-A19MHTNGR8OMII
+Category: MP3Players
+Product: Apple-touch-Generation-Previous-Model
+ReviewerID: A19MHTNGR8OMII
+ReviewerName: C. Carroll
+Date: September 18, 2008
+Helpful: 132 of 151
+Rating: 3.0
+Title: "Funnest iPod ever", but wifi buggy under firmware 2.1
+Content:
+This is a great iPod as others have said in their reviews but a couple of warnings:
+1) WiFi connections to routers using WPA encryption are a problem (hopefully will be fixed in future firmware update). There's a thread on Apple Support Forum with 6000 views so this is a common problem. Since WiFi is a big part of this ipod's appeal you may be disappointed.
+2) Many accessories for Touch 1G (chargers, etc.) won't work with the Touch 2G.

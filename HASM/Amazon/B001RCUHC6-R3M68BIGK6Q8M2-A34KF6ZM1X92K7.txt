@@ -1,0 +1,14 @@
+ID: B001RCUHC6-R3M68BIGK6Q8M2-A34KF6ZM1X92K7
+Category: Laptops
+Product: Lenovo-IdeaPad-Y430-7342U-14-1-Inch-Laptop
+ReviewerID: A34KF6ZM1X92K7
+ReviewerName: Paul A. Corral "Titanium????"
+Date: May 18, 2009
+Helpful: 3 of 4
+Rating: 4.0
+Title: Great Laptop, WiFi problem with fix!!
+Content:
+I got this laptop a week ago. It is really fast, I had considered changing to XP due to the fact I had used Vista a few times and it had lackluster performance. I deceided to stick with the Vista-64, not a single complaint once you get used to the interface and it runs smoothly on the computer. My one complaint came yesterday, I had a big problem with the WiFi. It would not pick up my router, at first I thought it might be the router but after testing it with another computer I figured out it was the computer's wifi. After trying everything I fixed it doing the following: 
+I uninstalled the driver for the wifi, and then installed the new drivers from intel: http://downloadcenter.intel.com/Product_Filter.aspx?ProductID=3062
+This fixed the problem. Don't use the driver at Lenovo since it is out of date. Uninstalling the original driver may not be needed as well.
+Hope you enjoy your laptop.

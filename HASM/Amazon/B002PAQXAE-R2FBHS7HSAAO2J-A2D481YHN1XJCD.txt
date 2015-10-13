@@ -1,0 +1,14 @@
+ID: B002PAQXAE-R2FBHS7HSAAO2J-A2D481YHN1XJCD
+Category: Laptops
+Product: UL20A-A1-Light-12-1-Inch-Silver-Laptop
+ReviewerID: A2D481YHN1XJCD
+ReviewerName: T. Yu
+Date: November 25, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: Perfect notebook!
+Content:
+This notebook is perfect! Perfect size, weight, keyboard, screen!  Touchpad needs to get a little adjusted to, especially the touchpad buttons, but after an hour or two of using it, it feels good also!  
+Like one of the other reviewers, put in an additional 2 GB of RAM before even turning on the system.  Booted like a charm!  Also, replaced the 250GB hitachi hard drive with an Intel 160GB SSD G2 drive.  Cloned the hard drive image over from original drive to the SSD, everything worked like a charm.  Boots up in less than 15 seconds.
+Wish it had built in bluetooth, but taken care of by putting one of those USB bluetooth nubs.
+Would highly recommend this notebook who travels often and needs a lightweight travel sized full powered notebook with good battery life.

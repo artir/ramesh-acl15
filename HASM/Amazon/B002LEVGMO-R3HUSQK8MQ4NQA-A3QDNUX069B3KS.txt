@@ -1,0 +1,21 @@
+ID: B002LEVGMO-R3HUSQK8MQ4NQA-A3QDNUX069B3KS
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A3QDNUX069B3KS
+ReviewerName: Adric R. Riedel
+Date: October 8, 2009
+Helpful: 2 of 8
+Rating: 4.0
+Title: Decent ultraportable, but a bit too underpowered.
+Content:
+First off, I'm sure this would have been a great laptop had it been what I was really looking for.  It's very quiet, very light and very solid (hold it by one hand in the corner!) and of course very small.  All the specs are slightly better than netbook quality for not much more than a netbook price. I had to spend a lot more to get a definitely superior system.  The keyboard was fine, the screen was bright, wireless connections were strong, the battery life was probably not six hours but very long (there are non-US variants in the Acer Timeline series with 8 hour batteries)
+Some other random notes:
+The SD slot is SDXC (the successor to SD and SDHC, for terabytes of storage (eventually))
+The screen seems to be 6-bit color, dithered.  It's only noticeable at rapidly changing gradients or near pure blacks.
+The USB ports are powered, and can run an external DVD burner without requiring its own external power source.
+The touchpad buttons click when you bump them.
+Since you're probably wondering why I returned it, this is why:
+1366x768 pixels on an 11.6" screen is just too small of a pixel pitch for me.  I'm much happier with a 13.3" screen at the same resolution now.
+The speakers verge on inaudible.  I can live with tinny, but when I can't hear the audio from the DVD (external drive, purchased from Amazon) while holding the laptop next to my face there's a problem.  Maybe it was the DVD, but I put the volume sliders all the way up.
+The Intel Core 2 Solo SU3500 (1.4GHz) is not fast enough to play streaming flash video smoothly with Flash 10.  This is ultimately Adobe's fault, but my older 5-year-old laptop with an Intel Celeron M (1.4GHz) did equally poorly and I wanted something better, not the same.  The Celeron M ran very hot and had much worse battery life, of course.  Compared to a netbook with an N270 or N280 I'm sure this is a major step up, though.
+The touchpad is a slightly smoother rectangle flush with the rest of the case, and hard to find without looking.  I'm sure you get used to it, but WHY?

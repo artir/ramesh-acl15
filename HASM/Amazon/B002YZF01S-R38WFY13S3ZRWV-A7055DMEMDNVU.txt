@@ -1,0 +1,14 @@
+ID: B002YZF01S-R38WFY13S3ZRWV-A7055DMEMDNVU
+Category: Laptops
+Product: Republic-Gamers-G51J-3D-15-6-Inch-Gaming
+ReviewerID: A7055DMEMDNVU
+ReviewerName: 3D pro User "Bob"
+Date: March 19, 2010
+Helpful: 5 of 7
+Rating: 3.0
+Title: 3D Done Wrong
+Content:
+If you are considering this laptop as a 3D gaming device, you will probably be satisfied. If you want a screaming 2D computer, you will be elated (it's REALLY fast). 
+If you are using it for 3D photo and video, forget it. This unit has apparently been crippled on purpose to NOT be compatible with the current standards of the industry in 3D software and hardware. 
+For instance, standard 3D glasses at $40 won't work, but their $200 ones do. Their stripped-down version of StereoScopic Player works (with shadows on the right and left side of images), but goes into "old-school" mode (red-blue 3D glasses) when an external 3D compatible projector is plugged in. There are no settings to overcome this that I see, and I've been doing 3D for 10 years. Upgrading to the full version of StereoScopic Player causes other problems, possibly due to "blocks" in the software/hardware of the laptop. Their 3D IR transmitter turns itself off sometimes, and the "on" button does not work. Basically, it seems that they do not want you to use a projector (and possibly even and external 3D monitor), don't want you to use cheap glasses that work better than the ones supplied, and don't want you running any "foreign" 3D software. Such a shame.
+My cheap $1000 mini-desktop has none of these problems, works with projectors in any mode, any glasses, no shadows, no software quirks. Just great, realistic 3D video and pictures, that I don't have to pay $200 per person in order to enjoy. Some people are working on software and hardware "hacks" that may possibly unleash the 3D performance that this laptop should have.

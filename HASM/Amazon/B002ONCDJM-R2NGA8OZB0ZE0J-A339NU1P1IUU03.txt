@@ -1,0 +1,17 @@
+ID: B002ONCDJM-R2NGA8OZB0ZE0J-A339NU1P1IUU03
+Category: Laptops
+Product: G61-320US-15-6-Inch-Black-Silver-Laptop
+ReviewerID: A339NU1P1IUU03
+ReviewerName: Christopher T. Dahle
+Date: March 14, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: Bad touchpad placement, but otherwise a nice machine
+Content:
+I bought my G-61 in October, and after 5 months, I am pretty happy with it. The one thing that bugs me is that the touch pad really needs to be centered below the space bar. It is about 3/4" too far to the right and it falls right under the base of my right thumb. During extended typing, it is far too easy to brush the touchpad and activate an unexpected menu item, delete a block of text, or move the cursor to a different part of the text, resulting in strange and disconcerting typos.
+I solved this however by purchasing a couple of wireless mice, one to leave in each location where I work for extended periods of time (at home and at the office). I disable the touch pad with the handy built in switch when I am in my primary working locations. Still, this problem, which has been manifest on most laptops I have owned, would be better alleviated by shifting the keyboard closer to the screen, leaving a bit more room for people with big clumsy mitts to place their palms.
+The "up to 4.5 hours of battery life" is a bit of exaggeration. I've never been able to go more than 90 minutes on a charge, even when it was brand new and I was still using Windows. On the upside, HP now sells an ac adapter that fits ALL of their machines. These are available at many big box and discount stores, so I leave one one at each each of my work areas as well, and have a third one that I haul around in my computer bag for when I need to take the computer on the road.
+The wide screen displays movies nicely, although the amplifier is a bit weak. It's ok with earphones but if there is any noise in the room...a running humidifier for example, the sound is to low to hear, this makes it hard to watch a film cuddled on the couch with the kids because there is really no good way to connect three sets of earphones.
+I really didn't like Windows 7, and coupled with the bloatware packed on by HP, I was pushed over the edge and installed a linux partition. Happily, this machine runs linux (Ubuntu 9.10) nicely.
+As typical with HP, both memory slots are populated with small DIMMs (why can't they just install one big board and leave the other slot empty...jerks...) so you have to completely replace the memory to upgrade.
+So, for the price, and considering that laptop computers are basically a throwaway item (I have never been able to make a laptop last more than 30 months before some bureaucratic demand that I be able to run some memory and speed sucking application makes it obsolete), the HP-G-61 is about as cost effective as laptop computers get.

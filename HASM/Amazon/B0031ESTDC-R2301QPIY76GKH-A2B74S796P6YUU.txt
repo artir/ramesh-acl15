@@ -1,0 +1,14 @@
+ID: B0031ESTDC-R2301QPIY76GKH-A2B74S796P6YUU
+Category: Laptops
+Product: Toshiba-Satellite-T115D-S1125-TruBrite-11-6-Inch
+ReviewerID: A2B74S796P6YUU
+ReviewerName: Dwight Spencer "network security professional...
+Date: March 17, 2010
+Helpful: 5 of 6
+Rating: 4.0
+Title: quick comparison between the t115d & a few other netbooks
+Content:
+Just a quick few comments.  I've tried 4 netbooks in the last year, starting with an 8.9" acer aspire 1, then going to a hp mini 110, then the hp mini 311 (in dec 2009), and ending up with the toshiba t115d this past january.  My main goal was finding something small and portable, that could play a few games on, though my first purchase of the aspire one was just to play with it.  I even installed the touchscreen mod on it, which was good fun, and quickly exposed me to the internals of netbooks.
+the last upgrade, from the mini311 to the toshiba, was the last i'll make for a while.  I was trying to find a laptop that I could play both hidef movies (720/1080p) and team fortress 2 on.  The hp mini had no problems with hi def content, but i could only get about 10FPS in tf2, so that didnt' cut it.  The toshiba however, does play tf2 quite well, running around 40fps most of the time.  that said, I can't get it to play high def content well though.  Considering it does only have a 11.6" screen, I'll probably just get std.def content to watch while i'm travelling, and keep this one for a while. 
+As far as screen sizes, the acer had an 8.9", as mentioned, the mini110 had a 10.1", and both the mini311 and the toshiba have the 11.6" screen, both at 1366x768, which is a great resolution, imo.  If i upgrade this again, i'll probably look for something with a culv processor, 2gb ram, 250gb drive, and a discrete video card.  Some may suggest that i look at the new alienware 11" netbook from dell, which is probably a good choice, but it looks a bit beefy for lugging around in a backpack.   The price point is pretty good for the alienware though, I believe around 600USD.   
+hope this helps anyone looking at netbooks...

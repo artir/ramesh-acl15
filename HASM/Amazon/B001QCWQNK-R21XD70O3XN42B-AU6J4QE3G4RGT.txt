@@ -1,0 +1,13 @@
+ID: B001QCWQNK-R21XD70O3XN42B-AU6J4QE3G4RGT
+Category: Laptops
+Product: Apple-MacBook-MB881LL-13-3-Inch-Laptop
+ReviewerID: AU6J4QE3G4RGT
+ReviewerName: Dave Long
+Date: June 11, 2009
+Helpful: 
+Rating: 5.0
+Title: excellent computer
+Content:
+I have been a PC user for a number of years and recently decided to get a Mac after seeing so many people out and about with them and talking to those people about their experiences.  Everything I heard was true.  This is a fantastic machine and very powerful, especially for the price.  The software selection is excellent and, thanks to open source stuff, mostly free.  I've also found a lot of "Mac-only" stuff from smaller developers which has really helped me with productivity.
+If you use an iPhone or iPod, this is the machine it was made to work with.  Integration is seamless.
+For under $1000, this is a great system.  It took me only about 30 minutes to get it up and running, and that includes the time it took to get it out of the box.  You turn it on and it asks you a few questions.  The rest of the things it needs to know, like your online connection, are taken care of automatically.  It really is amazing.

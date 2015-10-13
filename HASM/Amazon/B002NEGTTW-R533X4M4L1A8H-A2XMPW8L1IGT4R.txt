@@ -1,0 +1,23 @@
+ID: B002NEGTTW-R533X4M4L1A8H-A2XMPW8L1IGT4R
+Category: DigitalSLRs
+Product: Canon-EOS-7D-Body-Only
+ReviewerID: A2XMPW8L1IGT4R
+ReviewerName: IDH
+Date: October 29, 2009
+Helpful: 19 of 30
+Rating: 5.0
+Title: replacement fixed it all!
+Content:
+Received camera today and initial impression is good, but........the main dial is not working correctly.  When it is rotated, the associated function lags, or does not respond at all. The multi-controller button is also a bit unresponsive in the "up" direction. Over 500 shots with it already. Noisy at ISO above 400 (much more so than my 50D). Sharp at lower ISO settings. The three stars is warranted at this point considering Canon has let a bum unit past QC and the noisy high ISO performance. This is a disappointment considering the great performance of my 50D. I'll update this section when the replacement from Amazon arrives next week.
+Update (11/11/2009):
+The replacement body arrived and the problems with the controls are no longer an issue.  This one feels tight, and the main dial is responsive like it should be. In fact, all the controls and dials feel tighter than on my 50D. 
+Is it worth the upgrade?  I thought so as I'm looking to add sports photography to my portfolio.  The camera's 8fps is FAST, and the AF in conjunction with the AI Servo mode works well capturing moving subjects. I can grab 15 RAWS before any noticeable slow down as the buffer fills.  If capturing in JPEG mode, it seems to go on forever (using 8GB Sandisk Extreme III, not UDMA compatible).
+It is not significantly larger or heavier than the 50D (except for the noticeable bulge around the viewfinder). The 100% viewfinder stops the guess work associated with framing your subject and lets in a lot of light.  As multiple AF points illuminate in the viewfinder though, you get a red "haze" across the image field which grows in intensity as more points are illuminated (this does not affect the captured image). This is a bit distracting.  The multi-function button next to the shutter makes adjusting the AF points a cinch. The AF point expansion is a great option when you want to control the focus point, but risk getting off subject when the subject is moving quickly.
+The shutter is quieter than the 50D's. The build quality seems a bit more hearty than the 50D. I can feel a very small amount of play in the lens mount on the 50D with heavier lenses attached such as the 70-200 f/2.8 IS. The lens mount on the 7D is very snug, and no play is evident.
+The ability to see grid lines and the multi axis level through the viewfinder is a great option that helps immensely with getting orientation right the first time.  Less image rotation later in Photoshop. 
+The LCD brightness is a bit dim in auto mode, but that can be changed to a manual setting with little effort. The LCD looks a bit smaller on the 7D, but this is due to the presence of a black border around the 50D LCD which has been removed on the 7D.
+The ability to use the RC-1 remote is nice addition which was a missing feature in my opinion in the 50D, as well as the ability to control off camera flashes with the integrated Speedlight transmitter.  I was using a 580EX II on camera to control a 430EX II off camera, but now I can use both off camera when needed without cords or expensive radio controllers.   
+The Auto Lighting Optimizer seems a bit more noticeable when at the default setting than with the 50D.  For those times when you want or need to underexpose slightly, this can render the image too bright.  It can be set to a lower setting or turned off in the menu. 
+Another small change that might not matter if you don't use a battery grip (or do use one but never take it off) is how the battery door attaches to the body. On the 50D, the battery door has two arms that snap into flexible plastic clips. The 7D has non flexing slots and a spring loaded arm on the door itself.  Why does this matter?  If you alternate between using the battery grip (portraits, sports, etc..) and not using it (for the weight advantage of walking around all day) the idea of taking the battery door on and off is less worrisome.  When plastic flexes it weakens and can break. The spring loaded arm on the 7D battery door is a great idea.
+Using Canon's 100mm f/2.8 USM macro lens, I was able to capture some of the sharpest handhled images I have ever taken. I've seen one ISO 12233 chart that purports to give the sharpness advantage to the 50D, but I don't see that in practice.    
+My initial impression is that this is the best crop sensor camera Canon has made to date.  With features not (yet?) found on the xD models, it's a great feature/price choice.

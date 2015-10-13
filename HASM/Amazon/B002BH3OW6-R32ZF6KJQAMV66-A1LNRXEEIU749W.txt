@@ -1,0 +1,19 @@
+ID: B002BH3OW6-R32ZF6KJQAMV66-A1LNRXEEIU749W
+Category: Laptops
+Product: Sony-VAIO-VGN-NW160J-15-5-Inch-Laptop
+ReviewerID: A1LNRXEEIU749W
+ReviewerName: P. Alley
+Date: September 9, 2009
+Helpful: 13 of 13
+Rating: 4.0
+Title: Great laptop, great performance, and good value!
+Content:
+I looked far and wide for a laptop to meet my needs:
+- Not too small to use for image editing, and not too large to fit on an airplane food tray
+- Dedicated video memory to handle basic video/photo editing (not to mention Vista's hunger for Video memory)
+- Lots of RAM and a fast processor
+- Blu-Ray reading/burning
+- Enough battery life to get me through a streaming movie
+The Sony VAIO NW series was a PERFECT match!  Despite my concerns about Vista, the laptop runs like a charm and hasn't ever crashed (plus, it comes with a free Windows 7 upgrade that I'm looking forward to).  The build quality seems sturdy and the laptop has a clean, stylish appearance that looks cooler than a Mac (in my opinion).  The battery that comes with the laptop provides anywhere from 1.5 to 2.5 hours of life depending on what I'm doing, and the power settings I've chosen (which, by the way, are very easy to tweak and optimize).  I'll probably upgrade to the bigger battery at some point, but I haven't had the need to do so just yet.  I've read some reviews that say VAIO's come with too much 'bloatware', but I didn't think it was as bad as Gateways or Dell's that I've purchased in the past.  I removed a few pieces of pre-installed software, but it was straightforward and relatively painless.
+Why only four stars?  The VAIO setup assistant won't go away, and must be forced to close each time the computer is restarted.  Even though I've unchecked the "Show startup assistant when computer starts", it keeps nagging every user on the laptop and doesn't respond to user input.  I also wish the laptop came with a set of restore CD's - instead, the user must create them manually (though the laptop does provide handy reminders to do so).  
+Bottom line: I would definitely buy another Sony VAIO, and would highly recommend this particular model to anyone considering it.

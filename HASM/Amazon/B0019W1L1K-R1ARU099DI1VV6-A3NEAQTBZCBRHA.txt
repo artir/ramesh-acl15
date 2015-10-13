@@ -1,0 +1,11 @@
+ID: B0019W1L1K-R1ARU099DI1VV6-A3NEAQTBZCBRHA
+Category: Laptops
+Product: Dell-Inspiron-mini-10-Notebook
+ReviewerID: A3NEAQTBZCBRHA
+ReviewerName: Penny Bradford
+Date: November 25, 2009
+Helpful: 
+Rating: 3.0
+Title: When Searching for a duo, this one comes up... but...
+Content:
+I've tried getting product descriptions changed when they have conflicting information and it didn't get changed, so I'm not going to try to submit it and show how this one is falsely advertising that it is a duo. I'll just post here and then when it is fixed, I can take my post off. So, it doesn't say that it is a duo but comes up in the search with the word duo below it until you get to the product page. Make sense? I'm not a web tech person, but I know Amazon's can fix this. Thanks webmasters!

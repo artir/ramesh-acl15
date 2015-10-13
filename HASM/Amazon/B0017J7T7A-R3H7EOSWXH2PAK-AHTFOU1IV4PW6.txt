@@ -1,0 +1,23 @@
+ID: B0017J7T7A-R3H7EOSWXH2PAK-AHTFOU1IV4PW6
+Category: Laptops
+Product: Apple-MB471LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: AHTFOU1IV4PW6
+ReviewerName: Bhushir Mankad "bhushir"
+Date: February 2, 2009
+Helpful: 6 of 6
+Rating: 4.0
+Title: Reviews from a Geek's perspective
+Content:
+The experience of owning a mac, versus owning a PC are far different and the Mac wins hands down when it comes to providing the best 'customer experience'.. 
+For me, buying the Mac from Amazon was a risk since I live in Dubai and used temporary PO box in the US to get my Macbook Pro couriered to Dubai.. But it arrived all in one piece, and its working great... 
+Speaking of the experience, right from the packaging (the white box as opposed to the conventional brown carton for a laptop), to the intro video of the mac OS X leopard, the Mag safe power cable with the magnetic latch, the ease of setting the OS up etc... it was all a breeze.. (my laptop arrived via courier at my office address, and i set up my system during lunch time.. less than 30 minutes flat)
+with regards to built quality, this thing is rock solid.. the aluminum unibody is robust, and you feel you're holding a block of metal.. no sqeaks, loose ends.... its pretty amusing to know how stalwarts like HP and Dell never thought of building a robust machine when it came to build quality. 
+as for the performance, on paper the specs might not seem earth shattering, and there are a whole lot of other laptops that give a standard 3 GB ram and everything. But no one seems to be reading the fine lines. The frequencies of RAMs are higher, the caches are bigger, the chipsets are from nVidia (an intel chipset + nvidia graphic processor is a much slower option as compared to an nvidia chipset and nvidia graphic processor). 
+in short, the hardware mix of the Macbook Pro (and the Macbook) is optimised to deliver performance with high amount of stability.. From the looks of it, all the hardware is tested to inter-operate seamlessly before the product is released into the market... before the mac I owned an HP, and the wireless device just used to konk off..! i have changed my motherboard thrice during my warranty period (HP service centres have been really helpful in this regard)
+as for software, OS X is certainly better, more intuitive, smooth and intelligent than Vista.. Vista is just plain paranoid, where it asks you every time you run a .exe file. Not to say that things dont hang in OS X.. things like Firefox do once in a while (rarely), but you can 'Force Quit' them and carry on with your other work.. unlike in Vista, where in all probablity you might have to restart the whole system.. 
+I use Adobe PS, InDesign, and Illustrator all together, along with iTunes running in the background, and Firefox downloading something or the other.. and all of them work like a charm.. and Expose+Spaces is like the icing on the cake.
+The whole 'all button' trackpad has met with a lot of criticism, but it really doesnt make a whole lot of difference.. i mean, if you're used to pressing buttons towards the bottom of the trackpad, do it by all means.. it will still work.. there's a right click too for those shifting from Windows.. 
+I run Win Xp SP2 on bootcamp.. and there's this only 1 MAJOR regret that have as far as MBP and MB goes.. I play a lot of games and they run beautifully on XP on mac using boot camp.. but for some weird reason the fans dont start spinning at higher speeds when running XP. and the GPUs clock temperatures upto 75-80 degrees C, which isnt really good.. 
+i use smc fan control for now, and tried using input remapper, but my Mac used to hang the moment i used Input remapper on XP. And this is the only reason why i gave it a 4 out of 5.. Else i'm a happy man.. 
+Hope this helps.. 
+Cheers.

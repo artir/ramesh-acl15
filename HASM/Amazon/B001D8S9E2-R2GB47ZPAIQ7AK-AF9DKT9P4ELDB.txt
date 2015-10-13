@@ -1,0 +1,12 @@
+ID: B001D8S9E2-R2GB47ZPAIQ7AK-AF9DKT9P4ELDB
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: AF9DKT9P4ELDB
+ReviewerName: M. Smith
+Date: April 17, 2009
+Helpful: 1 of 3
+Rating: 4.0
+Title: Great Investment
+Content:
+This is my first mac and I couldn't be happier with it. I was excited to find out that it came with Apache and PHP installed on it right out of the box. Not that it is hard to put them on a windows machine, but it saved me time to do other things. I also love how easy it is to install applications. You know where they are being installed and you know where their associated files are. Since it is built on a UNIX foundation you don't need to worry about messing with the registry.
+My only problem that I have with it is that I should have got the one higher up. The only reason is because the keyboard can be difficult to see in rooms that are not that well lit. The back lit keyboard would have been a nice feature on it, but the price for the next macbook up just couldn't be justified.

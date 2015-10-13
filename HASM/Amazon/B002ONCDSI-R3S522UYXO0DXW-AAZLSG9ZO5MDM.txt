@@ -1,0 +1,11 @@
+ID: B002ONCDSI-R3S522UYXO0DXW-AAZLSG9ZO5MDM
+Category: Laptops
+Product: Pavilion-DM3-1040US-13-3-Inch-Windows-Premium
+ReviewerID: AAZLSG9ZO5MDM
+ReviewerName: Angel Martinez
+Date: March 10, 2010
+Helpful: 
+Rating: 4.0
+Title: Great Product!
+Content:
+Overall this product is a great deal for the price. Only con with this laptop is the mousepad. It locks up coming back from sleep if the gestures are turned on. Also its surface leaves less to be desired. It's metallic surface is not smooth enough and leaves it feeling "sticky".

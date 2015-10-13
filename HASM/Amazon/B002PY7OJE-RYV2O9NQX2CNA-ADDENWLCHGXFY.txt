@@ -1,0 +1,21 @@
+ID: B002PY7OJE-RYV2O9NQX2CNA-ADDENWLCHGXFY
+Category: Laptops
+Product: Dell-Inspiron-11-6-Inch-Obsidian-Windows
+ReviewerID: ADDENWLCHGXFY
+ReviewerName: Hockey Guy
+Date: February 15, 2010
+Helpful: 3 of 3
+Rating: 5.0
+Title: Smacks Netbooks Sideways
+Content:
+I had been looking into getting a 10" netbook from HP and was told by our distributor to wait until after CES because HP was releasing new specs on all of their netbooks.  Well needless to say I was unimpressed.  I decided to step up to an 11" and let me tell you it was the best decision ever.  This notebook has all the preformance of a full sized notebook and the portability of a netbook.  With 4Gb of RAM it runs all of my applications as well as could be expected.  Amazon's website had listed this as having an B/G/N wireless radio but have fixed it to show only B/G which is what it indeed has.  If you look at the specs for this notebook on Dell you would be led to believe that it has an internal bluetooth radio.  This is not true however and I had to get one off of Ebay and install it.  Don't bother calling Dell for this part if you want/need it.  They were unsuccessful in finding the correct part number for the correct bluetooth radio.  I will say that the documentation on their site for this model is exceptional and using it I was able to install the module in about 30 minutes.  The battery typically lasts between 4 and 4 1/2 hours on a charge which isn't too bad.  Another nice thing is that the Function Keys are reversed so if you want to adjust the screen brightness or access the media control buttons you do not have to press the "Fn" key in addition to the task key.  
+Overall I am completely happy with this notebook and would recommend it to anyone who wants an netbook size computer without making all of the performance sacrifices that come with the 10" models.
+Pros:
+4Gb RAM
+Size
+Screen Quality
+Windows 7 Home Premium 64bit
+Cons:
+No internal bluetooth
+Glossy fingerprint magnet cover
+Dell's knowledge of thier own product

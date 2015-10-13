@@ -1,0 +1,14 @@
+ID: B002C745OQ-R2GJG8RHSFTJCP-A2MQI0B8A30M2Y
+Category: Laptops
+Product: Apple-MacBook-MB986LL-15-4-Inch-Laptop
+ReviewerID: A2MQI0B8A30M2Y
+ReviewerName: Steve Schneider
+Date: August 7, 2009
+Helpful: 67 of 96
+Rating: 3.0
+Title: CLOSE TO GREAT....IF YOU CAN STAND THE PAIN!
+Content:
+After 25 years with Microsoft, I threw in the towel.  This Mac seemed to be all that I was looking for:  Ability to run Windows, good battery life, light weight, less virus prone.  And, I have to say that it pretty much delivered on all counts except one.  Apple's unibody looks great, but if you use your machine on your lap be prepared for a world of pain.  The leading edge of the of the machine is razor sharp.  Within a few minutes, depending on how you rest your wrist or palm on that edge, you will have to keep repositioning your hands to snuff the pain.  After my first few hours of using my Mac, my wrists and palms were raw.  Now please don't tell me about all the aftermarket fixes.  Yes, I already tried a couple and they somewhat mask the sharp edge.  But for a laptop that costs $2k, I should not have to stick on do-dads to avoid discomfort.  What was Apple thinking?  
+Wondering if I was the only one that was bothered by this issue, I decided to Google the problem.  Well, apparently from the hundreds of comments I read, this issue is widespread among MacBook Pro users (especially the unibody model).  One Mac owner actually took sandpaper to his new machine to file away the edge!
+Apparently, for those who use the Mac at their desk, it's not much of an issue.  But is you use this laptop as a laptop (silly me!), I suggest you wrap your wrists and palms with an Ace bandage.
+Before I go....Apple tech support:  In a word, poor.  I had a problem getting the Mac to talk to my other 2 Windows Vista computers.  I was told that this was easy and that the Mac would have no problem doing so.  Well, I had no luck.  Apple tech support was pleasant but in the end told me to call Microsoft (the arch enemy that I though I had fled!).  Apple said all my Mac settings were correct.  Fortunately, I happen to have purchased "Switching to a Mac" from Amazon.  Knowing nothing about an Apple or my MacBook Pro, I opened the book and had my Mac talking to my Vista machines in 5 minutes.  My Apple tech had skipped over an entire window of settings.  So much for Mac technical support.  A real disappoint and close to inexcusable.

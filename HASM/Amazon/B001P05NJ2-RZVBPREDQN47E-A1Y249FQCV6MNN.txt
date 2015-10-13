@@ -1,0 +1,15 @@
+ID: B001P05NJ2-RZVBPREDQN47E-A1Y249FQCV6MNN
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: A1Y249FQCV6MNN
+ReviewerName: OPsDad "IT Manager"
+Date: November 30, 2008
+Helpful: 22 of 22
+Rating: 5.0
+Title: PC to Mac Convert and lovin' it!
+Content:
+I am a long-time IT professional with enough certifications (mostly Microsoft) to make a large can of alphabet soup, and this is my first Mac.  I had played with a few of them here and there years ago, and never saw what people liked about them.  The closest I ever came was back in the late '90s when I was tempted to run Windows on a PPC, but just about the time I was going to do that, Microsoft pulled their support for it from Windows, and that ended that.
+So, I was anti-Mac for quite a few years.  All that has changed.  I began to believe in the OS when Apple began to base it on Unix.  A solid, time proven technology that I trust.  The big thing that changed it all for me is VMWare.  For 70 dollars, I have the ability to run Vista Ultimate, XP, and Ubuntu Linux on OSX. My Vista Ultimate is my previous Dell (not a slouchy box, either).  It's a complete clone of my old computer.  Windows still shows it being a Dell!  Spooky.  Windows had it a 3.6 rating, and a retest of the VM on my Mac shows a 3.6 rating.  That alone earns 4 of the stars I give this machine.
+Now, here's another reason why I'm so happy.  I put Office 2008 on the MBP, and I seldom have any reason to even start the Vista VM anymore.  The last two times I did, it was only because I miss the great Vista solitaire game.  That earns the fifth star -- I'm not "homesick" in the least.  I think I'll be staying right here on planet Mac.  As a matter of fact, I got a MacBook for my wife, I liked this MBPro MB471LL/A so much!  Bought her the MB403LL/A.
+I use it with an external monitor about 90 percent of the time, so the glare of the glossy screen hasn't been an issue for me.   The built in screen is gorgeous, and I've not been in a situation where glare became an issue.
+This machine is truly desktop horsepower in a gorgeous carved aluminum notebook chassis.  I'm a very happy camper.

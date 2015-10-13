@@ -1,0 +1,26 @@
+ID: B001P05NKG-R33FVS66MMYY1B-A2A8ZU5ZIQU1HV
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A2A8ZU5ZIQU1HV
+ReviewerName: R. Reed
+Date: June 17, 2009
+Helpful: 11 of 13
+Rating: 4.0
+Title: I'm finally off the fence!
+Content:
+I'm a long time PC user and had been in the market for a notebook the last few months.  I wanted something light and powerful that I could take along with my dSLR and photography gear and to do some light post processing in the field.
+When at home, I planned on hooking it up to an external display for more critical post processing work, so a 13-14" notebook was perfect for my needs.
+I seriously looked at the Macbooks because of the thin and light form factor, build quality, and I wanted to take a serious look at OSX Leopard after having so much fun with my iPhone 3G.  Plus I could run Windows apps (I've got Adobe Design Standard CS4 for Windows) with virtualization software.
+These refreshed Macbooks finally make the lineup truly worth considering for those looking at a Mac over a PC.  Spec wise, these new macbooks are much more comparable to their PC competition (eg. Dell Studio XPS 13).  
+I picked up the 2.53GHz model because with the education discount and free iPod Touch promotion (through Apple), making the jump up to the higher end 13" was a no brainer.  According to early Macworld speed tests, the performance differences between the two new 13" MBP models is more than just 2GB RAM.  
+Pros:
+- Rock solid build quality. My wife's Dell Inspiron 15 feels like a plasticky toy in comparison.
+- Thin and Light (not quite MacBook Air, but you're not making the same compromises either)
+- OSX Leopard (and all that entails)
+- **NEW** Display.  Vastly improved over the previous unibody MacBook. Now on par with 15" models.  I do find myself adjusting the angle of the display to minimize reflections, but it's not as distracting as people are saying.  It's all a matter of personal preference though. The glass is what enhances the display, so there's the compromise.
+- SD Card slot.  People are complaining about the 15" MBP losing the express card slot, but since the 13" unibody MB never had one, this is an additional port.
+- Battery.  With the right settings, the battery feels like it can go on forever.  I've pushed the battery life meter to 8 hours...though 6-6.5 hours is more achievable.
+Cons:
+- Heat. Under heavy load, the aluminum acts like a radiator and it heats up near the left hinge.
+- Aluminum susceptible to scratching.  I barely had my MBP for a weekend and there's already a little scratch on the lid.  I'm going to consider a Speck SeeThru Satin to protect it.
+- Having to figure out how to get the Mac to get access to my PC's printer and external storage...not a real con, but there's an obvious learning curve.

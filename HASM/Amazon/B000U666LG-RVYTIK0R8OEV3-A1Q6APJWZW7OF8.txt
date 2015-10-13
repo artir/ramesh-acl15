@@ -1,0 +1,11 @@
+ID: B000U666LG-RVYTIK0R8OEV3-A1Q6APJWZW7OF8
+Category: SpaceHeaters
+Product: Honeywell-HZ-7200-Oscillating-Digital-Control
+ReviewerID: A1Q6APJWZW7OF8
+ReviewerName: MamaOwl
+Date: April 13, 2010
+Helpful: 
+Rating: 2.0
+Title: Not what I expected
+Content:
+I bought this for its digital thermostat because that usually means precise temp control. It even touts its precision on its website -- only a three degree variation from the set temp, instead of the standard six. I was really disappointed to find that instead of a digital readout of my settings, there was a knob; and instead of precise controls,every setting was a range of five degrees or so. The end result is I'm always too hot or too cold when I'm sleeping -- no different from a standard analog heater.

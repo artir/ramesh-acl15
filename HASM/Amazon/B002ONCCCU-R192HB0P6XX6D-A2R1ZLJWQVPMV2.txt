@@ -1,0 +1,13 @@
+ID: B002ONCCCU-R192HB0P6XX6D-A2R1ZLJWQVPMV2
+Category: Laptops
+Product: G60-530US-15-6-Inch-Black-Silver-Laptop
+ReviewerID: A2R1ZLJWQVPMV2
+ReviewerName: Daniel A. Nicholson
+Date: December 28, 2009
+Helpful: 
+Rating: 4.0
+Title: HP G60-530
+Content:
+I'm very happy with the G60-530's performance.  It does everything it says it does.  My only reservation is with the "Lightscribe" CD labeling that is supposedly built-in.  Your supposed to insert the blank CD upside down to start the labeling program, whenever I do this, it just makes strange noises, it doesn't seem right.
+Other than that, everything else is great.  
+However, as great as Windows 7 says it is, and who knows, maybe it is, all I know is there are currently way too many hardware & software issues that cause problems with Windows 7 operating systems.  Of course this isn't HP's problem, it's not necessarily even Windows' problem.  I just with they would have designed Windows 7 to be a little more compatible with existing hardware/software.

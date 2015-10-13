@@ -1,0 +1,11 @@
+ID: B002AURXTY-R2PR8GWQ1BRAXA-A27XZ2EQ8VUT7Y
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS5810TZ-4274-15-6-Inch
+ReviewerID: A27XZ2EQ8VUT7Y
+ReviewerName: AAlt
+Date: April 29, 2010
+Helpful: 
+Rating: 4.0
+Title: Really nice laptop for the price.
+Content:
+I bought this laptop mostly to browse the internet and watch videos on it. While this is definitely not a gaming machine, it did surprise me how incredibly thin it is compared to other laptops and another thing is that it doesn't get hot at all no matter for how many hours you are running it. The battery life is OK for a 15.6 inch laptop. I haven't completely discharged the battery yet. But it does give me about 4 hours of work time before I connect it to the charger. I don't travel with this laptop (for this purpose I have an Acer netbook) So I don't care much about advertised 8 hours of battery on power save mode although sometimes I do use this mode. I have upgraded it to windows 7 which works flawlessly in this machine. I am not a fan of Windows 7. But it runs better and smoother than Vista. So far I had only one problem with this laptop. Ever since I connected it to my Dlink router it would occasionally drop the connection especially when I was copying something from any other computer in my home. So I had to reestablish it manually. It was very annoying. I googled the problem but haven't found any good solution. But eventually after playing with my router and trying out different wireless settings I solved the problem by changing the security mode from WPA to WEP. It's less secure but at least it works now. Another things that I find strange but can live with, are: the keys are a little slippery, the caps lock doesn't have a separate light indicator and an awkward location of the CDRom eject button which makes me worry that it may start to malfunction one day. The manufacturer has installed a lot of bloatware so I had to spend few hours uninstalling it, putting Windows 7 and reconfiguring it to my liking and after that I simply created a ghost backup image. Other than that it is a really nice classy looking laptop with enough power even to do some photoshop work. I just hope nothing happens with it so it will last me at least for 2 or more years. I recommend investing a little more money though and purchasing this model with windows 7 installed on it.

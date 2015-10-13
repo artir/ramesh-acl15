@@ -1,0 +1,11 @@
+ID: B0000DFZ6J-R32YC3YLN4AOXH-A3B1039L2HFKFI
+Category: MP3Players
+Product: Creative-Labs-Rhomba-256-Player
+ReviewerID: A3B1039L2HFKFI
+ReviewerName: Vandevenne "Pierre Vandevenne"
+Date: December 20, 2003
+Helpful: 10 of 12
+Rating: 2.0
+Title: poor implementation of a good idea
+Content:
+The combination of FM radio, Voice Recorder and less importantly WMA/MP3 player in a small form factor appealed to me and, knowing the risks of such a behaviour, I became an early adopter.Good things first: the device looks nice, isn't too big - barely bigger than the original Muvo - and, the stock earphones sound are relatively decent. But... but... even after setting the FM mode to Europe (why in the world is Creative shipping such a device with inappropriate default local parameters when they do attempt to maintain three different regional web sites for their slightly different product lines?) FM reception remains of very high quality. The signal to noise ratio is reminiscent of an early 80s turntable, tuning isn't very stable, &quot;best&quot; reception seems to be achieved about 0.05 Mhz above the official frequency, the dynamic range seems a bit compressed, the auto-scan misses 90% of the stations a cheap tuner gets, etc... All of this conspire to create an overall disappointing FM listening experience. Radio recording is therefore intrinsically limited. The battery life is closer to 8 hours than 14. Voice recording is acceptable, no more. MP3 playback is good (but who has bad MP3 sound nowadays?). Creative Media Source is a big improvement over the useless stuff Creative used to ship with its device.If Creative doesn't address some of the FM issues by a firmware update - if that is possible - the Rhomba will disappoint me.

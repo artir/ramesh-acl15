@@ -1,0 +1,34 @@
+ID: B0012YPMOC-R2DNL1SQPSOBF2-A17IR8I1KOEML6
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: A17IR8I1KOEML6
+ReviewerName: Homer J. Simpson
+Date: March 5, 2010
+Helpful: 1 of 1
+Rating: 1.0
+Title: Heaven and true hell
+Content:
+Good things like
+- Good sound
+- Useful EQ, sufficient to improve even really bad earbuds
+- Brilliant little display
+have been pointed out in the majority of reviews here, so forgive me if I focus on the downsides (and no, I didn't buy it, it was a gift):
+- Horrible file managment
+The software for the Creative Zen is one hell of an example for an unintuitive, annoyingly restricted and intrusive piece of misdesigned bloatware, with all the bloat under the hood and not at the surface where you expect it. You cant just copy a folder and play that folder and in order to create playlists, albums etc. you have to use that said software and move things very tediously with something like a downstripped Windows Explorer. You can also use the build-in functions in the player, but that's even more annoying. If your MP3s don't have tags, things are getting even worse. I'm used to operate pretty complex DAW software with more functions than a Boeing 747 in my daily life and after filling the Zen with my stuff, I never ever want to do that again. This lack of functionality became even more upsetting when I found out that the stupid software installs not only autostart junk but also drivers, just to sense the presence of the Zen (something that could be done with build-in Windows functions). 
+Related to that, the optional SD memory card does not even enjoy that minimalistic functionality, you can copy stuff from the SD slot to the build-in memory and play a single file from the SD card itself, that's it.
+If you want to charge the Zen via the USB port and use it at the same time, you better don't have that software installed - if you do, it will play dead while charging.
+- Unstable firmware
+I haven't experienced the awful things people report here but mine flashes every few minutes when it's turned off and I had a few minor glitches that disappeared after "rebooting" the Zen (which takes a while, my netbook is way faster coming out of hibernation) plus a few occasions where that thing turned itself on.
+The UI concept of the firmware becomes even more unintuitive than the software when you leave the top-level menus and try to organize your content with the build-in functions. A "logical UI concept" is something else. 
+- Non-removable/replaceable build-in battery
+After 1000 charging cycles, it becomes electronic junk because the battery's life is over and you can't replace it. Not to mention the environmental aspects of this policy, it makes me sick to the bone that they successfully sell a piece of hardware with build-in artificial expiration date this way and people accept that.
+And related to the battery, here is a severe WARNING!:
+----------------------------------
+- THE ZEN MAY BURN DOWN YOUR HOME!
+----------------------------------
+Ok, that's (for now!) slightly exaggerated but:
+I know of one Zen 4GB that melted to a charred blob of plastic when it was unattended, laying around on the table. I saw the "blob" but I didn't give too much credit to it (I can't say for sure if they drowned it in a liquid containing water to trigger the dangerous chemical processes in Li-Ion batteries that cause overheating and fires) but then I used it for a 1.5-hour microphone recording a few days ago: For some reason, it was so hot that it was uncomfortable to touch it. 
+I never drowned it, used it in rain or something. After that I'm really not sure anymore whether the batteries in the Zen may become really, really dangerous or not. I don't want to find out, so I threw it away. End of story.
+Verdict:
+--------
+Creative's products, drivers and services are known to broadcast a certain attitude (Google 'Daniel K. Creative') against its customers, the Zen is no exception. I stopped buying Creative products a long time ago and the Zen confirmed in all aspects that this decision was right. Customer-friendly policy is something else, intuitive operation is something else and the battery story scared me to hell, so you better get something else.

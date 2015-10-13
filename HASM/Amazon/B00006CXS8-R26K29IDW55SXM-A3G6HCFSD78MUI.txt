@@ -1,0 +1,11 @@
+ID: B00006CXS8-R26K29IDW55SXM-A3G6HCFSD78MUI
+Category: MP3Players
+Product: RCA-Lyra-RD1080-128-Player
+ReviewerID: A3G6HCFSD78MUI
+ReviewerName: Richard W. Watson
+Date: April 24, 2003
+Helpful: 4 of 5
+Rating: 1.0
+Title: Better off buying your own trumpet and drum set
+Content:
+This does not play MP3 natively!!! You have to install and use MusicMatch .... Audio is "re-encoded" into an MPY format which is substantially different than MP3 (although apparently the same exact size), skipping songs takes FOREVER (I have lost relatives faster than I can skip songs with this thing), and if an MP3 wasn't encoded direct from CD there seems to be a substantial (nearly 100%) chance this thing will freak out with it. If it freaks you have to remove the batteries, wait for a new president to be elected, wipe all songs from it and install new songs - which, by the way takes forever (70MB is over 25 minutes on a brand new 2.8GHz machine). Additionally, the "random" is just a scrambled order that plays over and over and over (until you add another song with MusicMatch)....

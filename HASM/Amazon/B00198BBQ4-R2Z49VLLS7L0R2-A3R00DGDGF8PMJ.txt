@@ -1,0 +1,14 @@
+ID: B00198BBQ4-R2Z49VLLS7L0R2-A3R00DGDGF8PMJ
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: A3R00DGDGF8PMJ
+ReviewerName: Reality Hammer "The Reality Hammer Blog"
+Date: November 22, 2008
+Helpful: 0 of 1
+Rating: 1.0
+Title: Defective graphics
+Content:
+The 1525 series has built-in graphics chips that you can't change or upgrade.  That would be one thing a consumer could choose to live with...except this configuration is defective.
+It will fail...routinely, consistently and relentlessly.  Unfortunately for me I spent the first month transferring files from my old machines and working almost exclusively online and with office applications.  By the time I got around to using programs that were even minimally graphics intensive it was already past the point where Dell would let me swap it for another model.
+This model makes me miss my old 6000!
+Buyer beware!

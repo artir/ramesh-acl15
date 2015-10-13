@@ -1,0 +1,14 @@
+ID: B001MS6NO6-R2YBEMRTB7VQCE-A2XQDP9M0Y9ZLL
+Category: Laptops
+Product: Sony-VAIO-VGN-FW373J-16-4-Inch-Laptop
+ReviewerID: A2XQDP9M0Y9ZLL
+ReviewerName: Samy Tawakol
+Date: April 10, 2009
+Helpful: 
+Rating: 5.0
+Title: Can't be any happier
+Content:
+Well... First of all  I removed the Vista 64bit preinstalled on this system. I had a hard time finding the Vista 32bit drivers.... But i finally did it (took me two days or so). I'm using this laptop for music production (reason, nuendo, protools) with an MBOX2 PRo interface (firewire). I just can't complain... The performance exceeds most desktops.
+As for the mac OS, it runs great with no problems at all except your maximum resolution is stuck at 1440x900 cause there's no driver yet for the ati 3650HD on Mac.
+I purchased a microsoft wireless xbox receiver and two xbox controllers and installed need for speed and PES2009 - Amazing!
+I definitely recommend this laptop to anyone who wants quality, performance and style (Vaio is the Best!)

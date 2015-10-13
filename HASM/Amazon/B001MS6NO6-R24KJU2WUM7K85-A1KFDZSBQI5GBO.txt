@@ -1,0 +1,15 @@
+ID: B001MS6NO6-R24KJU2WUM7K85-A1KFDZSBQI5GBO
+Category: Laptops
+Product: Sony-VAIO-VGN-FW373J-16-4-Inch-Laptop
+ReviewerID: A1KFDZSBQI5GBO
+ReviewerName: Marie Glynn
+Date: January 3, 2010
+Helpful: 
+Rating: 1.0
+Title: Wish I'd spent twice the money on the Macbook Pro
+Content:
+I bought this because of the blu-ray player, and because of the fairly advanced video card (I use Adobe Lightroom and Photoshop a lot) 8 months ago.  Within 3 weeks, the blu-ray player had stopped working due to a software "AACS key" issue.  It took Sony over 4 months to provide updated software on their support site.
+Running Vista, this machine is slower than a 3-year-old Pentium 5 notebook I'd replaced. 
+I upgraded to Vista to solve the speed problem, and that works for me as an OS.  It took only 2-1/2 months for Sony to issue compatible softward for the blu-ray player.  However, Sony has failed to issue Windows 7-compatible drivers for many of the components--e.g., the video card, which means that you don't get hi-def out of the blu-ray player, and that you get the "blue screen of death" crash fairly often.  (Windows 7 reports the crash as being due to the video driver.)  
+Sony Support is awful.  I have tried to do one last re-install of Windows 7 to see if I could resolve all the outstanding issues with the computer, and their servers have been down or impaired for days, making it impossible to download drivers from their sites.  Chat with tech support on any of these issues has proven useless.
+My sister had a Sony laptop for years and never had any problem with it.  I've had nothing but problems with this one and regret the purchase.  Caveat emptor.

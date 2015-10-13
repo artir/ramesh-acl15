@@ -1,0 +1,29 @@
+ID: B002Q8HK7K-R1VLON4W4OKEC2-A3BQ4CFWQJ9ACO
+Category: Laptops
+Product: UL80Vt-A1-14-Inch-Light-Laptop-Battery
+ReviewerID: A3BQ4CFWQJ9ACO
+ReviewerName: Mark Youngren
+Date: December 27, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: Five star notebook (with a few exceptions)
+Content:
+Here are the problems with this laptop:
+-Build quality isn't absolutely perfect. There's a little give to the case, and I've heard that's better in the UL30vt. It does feel like despite the give it is sturdy and will last.
+-Contrast ratio is 200:1 in the average res/size glossy LED screen.
+-No internal bluetooth.
+-5400 RPM hard drive.
+-Keyboard can make empty sounding noise on right side.
+-Lowres webcam.
+-Faster new CULV processors are coming.
+-A few crappy preinstalled apps, but not a huge amount.
+And now, the awesome:
+-The processor can be put at 1.73GHz. Not overclocked but "turbo mode"'d; a separate BIOS setting allows for another 5% boost. Puts the performance into "Fast Enough for Anything C2D" range (4GB of DDR3 helps i'd guess). I define that based on my preferences; game and/or run tons of things at once.
+-Switchable graphics from integrated to a lowgrade nVidia card. Doesn't seem like much compared to a desktop card but for the price range you cannot beat the 'actually having it' part, which is rare unless you get a chunky laptop.
+-Great trackpad. Has pseudo-multitouch, which is basically everything but pinch motions. It works precisely, and glides without slipping or sticking.
+-Sound is integrated realtek hd. It is clear with no inline noise and has slightly more than enough power for my HD595s. Good enough sound is great, considering the competition.
+-Ridiculously long battery life. Set it up however you want - I could get more, but I'm happy with getting 5-6 hours of quality normal usage.
+Final thoughts:
+WiFi is N, there's HDMI and VGA, a button to change graphics modes or boot into the instant boot linux when laptop is off. That preOS linux(?) works surprisingly well but doesn't support widescreen. Lame. Otherwise it'd be useful. 
+It's light but not that light, and the screen is really bright with good color. The meh contrast ratio doesn't ruin it.
+I feel really satisfied with this laptop for the price. I considered a MacBook. I like OSX but until I can run Steam natively I am with Win7. Which isn't bad, and a perfect laptop to go with win7 is this one. /recommend

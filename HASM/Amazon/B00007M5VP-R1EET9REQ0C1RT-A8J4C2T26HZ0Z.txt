@@ -1,0 +1,11 @@
+ID: B00007M5VP-R1EET9REQ0C1RT-A8J4C2T26HZ0Z
+Category: Laptops
+Product: Compaq-Presario-2105US-Laptop-Athlon
+ReviewerID: A8J4C2T26HZ0Z
+ReviewerName: "801deals"
+Date: January 20, 2003
+Helpful: 7 of 16
+Rating: 1.0
+Title: Uses copy protection without informing !
+Content:
+This laptop's hard disk/IDE controller/Combo drive collude together to prevent lots of normal things from happenning. Like installation of many softwares from back up copies. Troubles wth DVD's and digital media. Reading CD-R's etc. Imagine spending so much money on laptop which won't play your favorite music or movies!Stay away from these content protection &amp; monitoring (CPRM based?) laptops made by Compaq.Not to mention that they run very hot. And Windows restarts every time you plug in anything into the usb ports. The laptop hard drive is very noisy and so is the flimsy keyboard. The laptop is clumsy &amp; ugly looking. Think carefully before getting this.

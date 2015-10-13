@@ -1,0 +1,11 @@
+ID: B000BP50AY-R3I0D0Z22QBU02-ABP4168B055MZ
+Category: MP3Players
+Product: SanDisk-Sansa-m240-Player-Silver
+ReviewerID: ABP4168B055MZ
+ReviewerName: Awdio Kreep "tlaloc"
+Date: September 10, 2006
+Helpful: 3 of 11
+Rating: 2.0
+Title: Portable device or mass storage??
+Content:
+On one WINXP computer this shows as a mass storage device, on another computer a portable audio device.  Each computer can only see the files it synced or copied to device, but cannot see the files copied from the other computer.  How can you delete the files you don't want unless you are in the same computer that transfered them?  Poor technical support options and FAQ at manufacturer's site.  I'm sending it back as incompatible with my computers...  Sounds ok and uses replaceable or rechargeable batteries (this keeps it from getting 1 star)

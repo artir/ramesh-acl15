@@ -1,0 +1,14 @@
+ID: B000FMZE7W-R2E8ZBXBHQ0CBD-A30MVVY8BOVT2F
+Category: MP3Players
+Product: Zune-Digital-Media-Player-White
+ReviewerID: A30MVVY8BOVT2F
+ReviewerName: Chewie
+Date: January 10, 2007
+Helpful: 10 of 14
+Rating: 3.0
+Title: Nice start - not enough
+Content:
+I had the Zune for a few weeks, just after they were released.  I have to say that the unit was a nice size, not too big and not too small.  The lack of any buttons anywhere took me by surprise, but after a while I got used to doing everything using the rocker-wheel and the two buttons on the front.  I really liked the interface, finding music was easy, scrolling up and down the songlist/albums/artists sped up the longer you held the button(s) down, you can go back and forth to switch from Albums to Artists to Songs to Playlist, etc.  The screen was a nice size, and I thought the video quality was good enough.
+What I didn't like about the Zune involved 3 things.  1) you have to use the Zune software to synch music to the player (vice using WMP 10/11), 2) you can't play PlaysForSure music (essentially locking you into the MS Marketplace online store), and 3) would only play WMV video files, and the Zune sw didn't seem to auto-convert anything (unlike WMP 10/11).
+One other note about the Zune sw.  After the initial sync with the player, it would no longer sync.  It would recognize the Zune and connect, but didn't seem to work.  I ended up having to install the Zune sw on my wife's computer and do all the syncs.  Not sure if it was a local issue or a more pervasive problem.
+Btw, I returned the Zune and, since the Zune is made by Toshiba (with a few tweaks), I ended up purchasing a Toshiba MES60V instead which (for the most part) worked just like the Zune without the glitches and useless Wifi.  And it's a bit smaller but double the HD space (60GB).

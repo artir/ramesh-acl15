@@ -1,0 +1,15 @@
+ID: B001GCTT7G-R3OQH528H1KQ9B-A32XHPDPTMEOFF
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A32XHPDPTMEOFF
+ReviewerName: Adrienne Leverette "Adrienne"
+Date: February 6, 2009
+Helpful: 2 of 4
+Rating: 5.0
+Title: This is a great laptop
+Content:
+I have used Windows exclusively since Windows 95 was introduced. I currently own PCs that run XP and Vista. I never really had much trouble with Windows, but I decided I wanted to give Mac a try. I bought the 2.4GHz Macbook and the first thing I did was upgrade the RAM to 4gb (very easy to do.)
+This is a great computer. It's beautiful and it does pretty much everything I used to do on Windows, but much faster.My favorite features are the multi-touch trackpad and the Spaces feature in the Leopard OS.  At first, I was concerned about the glossy screen, but it hasn't been an issue.
+In my opinion, Mac's Leopard operating system has a better user interface than Windows. However, I need Windows for a couple of programs so I installed VMware Fusion 2 to run Windows XP SP3 on my mac. VMware fusion is great because you don't have to reboot into windows (you can use Bootcamp, but you'll have to reboot into Windows). Also, Windows XP runs better on my macbook than it did on my PCs! I can run my windows apps side by side with my mac apps. I am currently running the Windows version of CorelDraw and Photoshop along with my mac apps with no noticeable decrease in performance.
+I also installed Windows 7 using VMware Fusion, and it runs great.
+I highly recommend this computer.

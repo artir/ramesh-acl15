@@ -1,0 +1,41 @@
+ID: B0007U0INM-R3CE2V15ZCQ507-A1PSVZBM894R5H
+Category: MP3Players
+Product: Toshiba-Gigabeat-MEG-F40S-Digital-Player
+ReviewerID: A1PSVZBM894R5H
+ReviewerName: B. Roy "RoyTech"
+Date: July 28, 2006
+Helpful: 26 of 27
+Rating: 5.0
+Title: The Zen Sleek Photo vs Toshiba Gigabeat.
+Content:
+Update - There is now a rockbox port for this. Makes it even better!
+I returned my Zen Sleek Photo and replaced it with the Gigabeat (and many thanks to Amazon's great return policy). I've decided that the Gigabeat (GB) is the one for me.
+I had originally not considered the Toshiba, consigning it to the ranks of also rans - just like their digital camera's. But looking into this further, I realized that Toshiba is a leader in some of the core technologies used in these devices - such as the 1.8 inch HDD's, the TFT screens, LiPolymer batteries. There was a point in giving this Gigabeast (sic) a try.
+The pros relative to the Creative - 
+1)	Unlike Creative, no special cable with associated adapter needed for charging the GB. The adapter plugs right in. A no-brainer sensible approach.
+2)	The docking port at the bottom is more sturdy than the Zen Sleek's.
+3)	When you travel, you only need to take your GB with you and leave your adapters and cables behind. It'll charge off the computers USB port using your camera USB cable (if it is the standard mini USB sort).
+4)	40 GB HDD space on the Gigabeat versus 20 GB on the Zen sleek for almost the same price (I actually paid even less at Costco). Another no-brainer. I can store all the music in the world and still have space left over.
+5)	The color screen on the GB is way way better. No comparison. That OLED on the Creative sounds high tech, but it is small, coarse, and turns off after a few secs, so you are left looking at a black screen all the time. On the Gigabeat, you can set it to low power which keeps the screen visible. Plus the screen is larger and way too sharp at 320X240 pixels for a small screen. I haven't measured, but the device lasts a long time with the screen on low power all the time. No problem at all on this front.
+6)	The adapter is smaller and easier to pack for traveling. One the Zen Sleek adapter, even the prongs don't fold.
+7)	The entire HDD of the Gigabeat is accessible using windows Explorer. Using it as a removable drive is a breeze - just connect it. On the Creative, you have to set aside and format this space separately. You can either have space assigned to music or to data - but not both. Now how stupid is that - especially when the drive is only 20GB big?
+8)	The music and photo files on the GB are also accessible using Explorer. You can rearrange contents into folders of your choice, do a "library update" using the supplied Gigaroom software, and you are up and running again.
+9)	The navigation cross can be used both horizontally and vertically and the profiles can be adjusted appropriately.
+10)	Pictures look sharp and clear on the great screen.
+11)	This is great - can move pics from your digital camera to the GB directly. Now I can shoot pics to my heart's content and move them to the GB when the memory card goes full. No need to buy another high capacity memory card. But you cannot view these pics on the GB.
+12)	Comes with an in-line remote.
+13)	Mine came with a great docking station while it was not included in the Creative.
+14)	I guess you can have a slide show on the excellent screen along with pictures - haven't done so yet, but there is a demo file which does so. 
+15)	I haven't looked at the manual yet.
+Some con's relative to its Creative counterpart.
+1)	Shade larger than the Zen sleek and not as good looking. If you really want stuff that is good looking but otherwise a dud, you belong to apples and lemons club.
+2)	No radio
+3)	No recording
+4)	Navigation on the GigaBeat (GB) is clunkier compared to the Creative where the menu's are much better arranged.
+5)	The touchpad on the Creative just works better than the GB crosspad.
+6)	No user adjustable graphic equalizer - just bass and treble. But too many preset choices some of which don't seem to do much. No loudness alone control.
+7)	The Gigaroom software is nothing much to write about - no right click option. Transferring 32 megs of photos (320X240 resolution), created almost 250 megs on the GBeat after transferring with a number of secondary files for every picture transferred.
+8)	I still haven't figured out a bunch of things - such as - can you delete pics and music tracks directly on the GBeat?. I don't see this choice anywhere while on the creative it was easy.
+You should get the 3.0 firmware and software. Nicer than 2.2 that my device originally came with. Updating was a breeze but Toshiba does not post this on it web site. After you upgrade firmware, you need to do a library update using the Gigaroom software before your music and photos can be seen again. Now only if there is a rockbox port for it..sigh....
+Sound quality is clear - don't note a difference with the Creative.
+The Apple's really a lemon, the Creative is good while the Toshiba is just great. Take your pick.

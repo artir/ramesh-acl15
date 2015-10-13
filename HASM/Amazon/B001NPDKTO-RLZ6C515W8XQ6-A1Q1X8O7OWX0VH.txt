@@ -1,0 +1,16 @@
+ID: B001NPDKTO-RLZ6C515W8XQ6-A1Q1X8O7OWX0VH
+Category: Laptops
+Product: HP-Pavilion-HDX16-1140US-16-0-Inch-Laptop
+ReviewerID: A1Q1X8O7OWX0VH
+ReviewerName: ed nir
+Date: April 25, 2009
+Helpful: 4 of 12
+Rating: 1.0
+Title: Poor Reliability, Frustrating & Expensive Support
+Content:
+HP Pavilion HDX16-1160US 16.0-Inch Laptop HP Pavilion HDX16-1140US 16.0-Inch Laptop HP Pavilion X16-1040US 16.0-Inch Laptop HP Pavilion HDX18-1020US 18.4-Inch Laptop HP HDX 16t Premium-Intel(R) Core(TM)2 Duo ProcessorP8600 (2.4 GHz), 4GB DDR2
+It is ironic I picked HP for reliability and service reasons. After over two frustrating months I can only report about poor reliability and extremely ineffective service. My new HDX Laptop still has major performance issues and the horizon looks bleak. I am considering making this purchase a total lose in order to save me from wasting many more hours of my time.
+Out of the box the laptop looked promising. for instance HP decision to scarify proper aspect ratio for the display in order to achieve high resolution at a lower cost seems reasonable (it uses standard HDTV screen rather than WXGA). Immediately it was obvious that performance was mediocre at best in spite of ordering the highest available options for my configuration (processor, memory, hard drive, etc. all superior to the listing above). Documentation was not helpful like directing me to unavailable features and options for the embedded webcam.
+I failed my first task of connecting my new HP laptop to my new HP printer. It is missing an essential HP driver that apparently was supposed to be install at the factory. After eight weeks and 50 (yes fifty!) hours of my time and similar effort from HP, the only option I have, is to start from scratch and install the initial factory configuration for the software myself. Since it takes numerous hours to proceed the inital configuration with missing updates, software configuration choices, installation of my own software, etc., I wonder if I should invest any more time in this computer. At this moment, the reason for the faulty factory installation is not on HP service map yet (likely a faulty sector on my new hard drive). Thus my odds to continue a long expensive path in reviving my sick new computer looks high.
+Since we are at the age of paying relatively little for much functionality and performance one must face the high probability of requiring support. If you like to follow excessive useless long laundry instruction lists (looked canned to me) of re-installing existing software that works fine, email HP Support and ask for help. If you enjoy long aimless frustrating discussions with mostly nice people but with lack of knowledge, ability, responsibility, or authority (probably the combination of all), than buy HP products. I can assure you that you will meet many people from the Philippines and India with various impressive job titles.
+While generating a rich set of service records, I was wandering how can HP afford to spend so much time and effort with a single customer on a single product with very low profit margin. Perhaps that is the reason why HP cut corners more aggressively than others. My personal cursory inquiry and Consumer Reports survey suggest that Lenovo is a better choice for laptops.

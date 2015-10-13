@@ -1,0 +1,20 @@
+ID: B002LF10GA-RC83G9KK0N0QF-AOO4R8NNH60KP
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: AOO4R8NNH60KP
+ReviewerName: Keith
+Date: January 22, 2010
+Helpful: 
+Rating: 5.0
+Title: Great netbook+
+Content:
+I'm a software engineer / electronics geek and I was looking for a netbook for my mom. However, she complained about my brother's HP netbook as being a little too small for her to use and see easily. After a great deal of research, I picked up an AS1410-8414 for her. Once I received it, I removed all the pre-installed junk and made everything work well and speedily. Following are my impressions: 
+1. The keyboard is great. I normally have a little trouble adjusting to netbook keyboards when I use them, but I don't think I made a single errant keystroke while using this keyboard. The keys are quite large, larger than an average desktop keyboard actually. Note that I am partial to the Apple chiclet-style flat keyboards. 
+2. I was looking for a netbook that was a little bigger and faster than the average netbook, and that's exactly what this is. After preinstalling all the junk that came on it, resident RAM usage settle down to about 800MB without any running applications. The 2GB that came with the computer is therefore perfect for fairly heavy application use. 
+3. The HDMI output is awesome! I plugged it directly into my 1080p montior at work and it automatically boosted the output resolution to native 1080p res and didn't seem to have any difficulty driving the display. In fact I think I noticed better performance on the external HD monitor at 1080p res than on the netbook's screen itself.
+4. Performance was significantly better than my brother's netbook in terms of CPU. I was able to play back 720p content to the external display without any difficulty, albeit with CPU usage maxed. 
+5. The internal components appeared to work flawlessly. I tested the webcam with Skype, wifi tethering to my hacked smartphone, output display switching, and all the hardware shortcuts for everything without any trouble. Response to the HW keys was very snappy, and it has nice OSD overlay feedback for any of these operations. I was able to hop onto a variety of wifi networks with WPA2 or WEP encryption without any difficulty. 
+6. The built-in screen was definitely roomier than other netbooks I have used, but it is by no means big. If you want to do any sort of image manipulation or other highly visual work, I recommend using an external display. However it didn't have any difficulty rendering webpages snappily and scaling down images for viewing.  The brightness and clarity of the display seemed about average for contemporary laptops.
+7. If it were my netbook I would have installed Win7 or XP or MacOS on it, and probably gotten improved performance. The preinstalled Vista is... well... Vista. However Acer will give you a free copy of Windows 7 if you buy any of their netbooks before the end of the month, and my order for Win7 through Acer's upgrade program went though without any difficulty. 
+8. The only con which comes to mind is that the trackpad seems fairly cramped.  Also, Acer has added "multi-touch" support to the trackpad a la Macbooks, but I found the gesture and multi-touch interaction largely useless.  Normal trackpad operation seems fine.
+I highly recommend this computer for anyone looking to get a netbook and willing to cough up an extra little bit of money. I got this computer for $375 shipped and benefits far outweigh the additional cost.  The weight of the computer with the battery is about the same as any other netbook I have hefted.

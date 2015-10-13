@@ -1,0 +1,11 @@
+ID: B00198BBQ4-RAQRUK60WTVM1-AKVJMLC1P82L
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: AKVJMLC1P82L
+ReviewerName: C. Cortright
+Date: October 31, 2009
+Helpful: 
+Rating: 1.0
+Title: Repeat Problems - No Recall
+Content:
+I bought a Dell Inspiron 1525 about 11 months ago. I have a one year warranty.  My power cord spontaneously stopped working, so I called Dell.  To my surprise, the issue is my  motherboard, not my power cord.  I was informed by Dell that they had had "lots of calls" and that there is a "problem with [my] model." Lucky me, I suppose, I'm under warranty for one more month. I am very upset that Dell HAS NOT RECALLED due to this issue OR otherwise WARNED CONSUMERS whose warranties are fast expiring. A quick Google search will show you that the problem is nearly ubiquitous, and in most cases appears just before the standard 1 year warranty expiration. I'm unusually reliant on my computer as a law student. Due to this issue and the delays in getting it fixed, I will be unable to access my much needed data in time for a final exam. Insult to injury: I was informed by my hard-to-understand call center help that I SHOULD PURCHASE an extended hardware warranty to avoid being further screwed and inconvenienced in the future.

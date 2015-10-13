@@ -1,0 +1,26 @@
+ID: B00005OBP1-R1LCHPG2CP1LT5-A2SWJGRE672N44
+Category: Laptops
+Product: Dell-Latitude-Notebook-166-MHz-Pentium
+ReviewerID: A2SWJGRE672N44
+ReviewerName: Frisco Yid
+Date: March 11, 2007
+Helpful: 4 of 4
+Rating: 5.0
+Title: Great Workhorse (But Outclassed)
+Content:
+Dell's XPI CD is my favorite laptop of all times. However, it's not as nimble as it would like to be any more. So, unfortunately, there's only reason to keep this baby around: if you want the easiest typing experience available in a laptop.
+== The Good ==
+The trackball in this machine is by far the best pointing device I've ever used. You can drag/click and drag/right-click across the whole screen without contorting your hands or wrists into carpal tunnel syndrome candidates.
+The keyboard is good, very good - good action on the keys, tactile feedback, and relatively easy to clean.
+It's wonderfully solid. I dropped mine any number of times without suffering screen, keyboard, or other problems.
+== The Bad ==
+At 166 MHz and 64 MB max RAM, it's not suitable for anything past Win98 (I recommend the most recent Win95, if you have disks).
+The optical drive is read only (no burning) and is painfully slow compared ot more recent versions.
+2.1 GB of storage doesn't leave room for much (this will not be your MP3 storage device).
+For modern internet, you'll also need some type of PC Card ($40-100) and there's no USB built-in.
+== The Ugly ==
+As much as I love this machine, it's not worth more than $50 in my opinion. You can get a 30 gig iPod for $250, which will allow you to store more pictures, music, and even software files. If you're willing to part with $400, you can get a Vista-ready laptop that's lighter, speedier, and more versatile.
+== Conclusion ==
+There is one overwhelming reason to buy the XPI: for the trackball. If you can't deal with trackpads, this is the machine for you. If you only need the machine to write the great American novel while you're at the beach... and you don't need to logon to the net, you'll be fine with the anemic features. (Make sure you have a home computer that you can synch up with often, to keep this machine from being too cluttered.)
+== [A note about Dell] ==
+I have bought about 8 Dell machines over the years (for myself or as gifts). I've never experienced significant problems except for the first machine, which was a nightmare (the Texas-based tech support misdiagnosed the problem on the first call and it took a half-dozen calls and about 30 hours of my time to get it right). However, the company recognized they had sold me a lemon and eventually replaced the machine with a faster version, with more memory, upgraded the hard- and optical-drives.

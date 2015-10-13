@@ -1,0 +1,14 @@
+ID: B0015UVV0W-RI4CI5WE14QI8-A1HGQOP6K70U9L
+Category: SpaceHeaters
+Product: Vornado-EH1-0032-28-TouchStone-Full-Room-Electric
+ReviewerID: A1HGQOP6K70U9L
+ReviewerName: Rodinia
+Date: November 22, 2008
+Helpful: 1 of 1
+Rating: 4.0
+Title: Worth the money - "fix" for Sony TV remotes
+Content:
+I've purchased a multitude of cheap space heaters for my finished basement over the years.  Most have broken down for one reason or another within two years.  I've had this Vornado for over two years now and it's has been excellent.  A quick read of the features will point out how it differs from conventional space heaters.  Because of how well it circulates air, I also use it as a regular fan during the summer. 
+Loses a star for one reason, the Sony TV remote problem.  I just picked up a Sony flat-screen unknowing that lowering the volume on the TV's remote lowers the temperature control on the heater.  A detailed web search after the fact confirmed the problem from multiple sources, but unveiled no solutions.
+Not willing to accept defeat and guessing Vornado customer support would be of no help, I found a simple "try at your own risk" solution to this.  The IR sensor lives behind the red light that is on the top-front of the heater's control panel.  A small piece of electrical tape over that light blocks the remote's IR signal, at least from certain angles.  Granted, this prevents use of the heater's remote, but I never used it to begin with.
+You'll pay a premium for this unit, but it's well worth the money.

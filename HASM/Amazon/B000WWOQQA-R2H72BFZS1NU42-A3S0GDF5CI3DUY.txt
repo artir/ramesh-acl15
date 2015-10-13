@@ -1,0 +1,11 @@
+ID: B000WWOQQA-R2H72BFZS1NU42-A3S0GDF5CI3DUY
+Category: Laptops
+Product: Pavilion-Notebook-Processor-Lightscribe-SuperMulti
+ReviewerID: A3S0GDF5CI3DUY
+ReviewerName: My honest opinion
+Date: January 14, 2010
+Helpful: 
+Rating: 1.0
+Title: Do not buy this computer
+Content:
+This machine gets very warm - which eventually damages the hard drive and the soltering of the video card on the mother board.   Video card cannot be replaced separately - it is integrated into the motherboard - so you have to replace the entire mother board for $398 + taxes. If you search for DV9500 NVidia, you will see MANY people on the blogs who have this same problem, and HP refuses to recall these machines, even though they have extended the warranty on other laptops with the same defective video card. HP was unable to solve a simple install issue for the replacement hard drive, so I returned it and bought one from another person on ebay who quickly identified the problem that was not in the HP install instructions.  Then days later, my video card failed. My machine lasted only 2 years and 3 months, until both the hard drive and video card failed.  I entered a complaint with HP, telling them that I expected this machine to last more than 2 years. They told me that the NVidia soltering on the motherboard fails.  They said that NVidia changed to a "greener" method of soltering which does not last when laptops get warm.  They are not willing to do anything to repair or replace this defective product unless I pay for it.  So don't buy this machine unless you have the money to replace it after 2 years.  I will not buy another HP!

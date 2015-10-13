@@ -1,0 +1,33 @@
+ID: B0013FJBX8-R3PK9WSX3ITRS3-A313H6238N589
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A313H6238N589
+ReviewerName: Jaewoo Kim "OB-Wan"
+Date: July 26, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: WOW Best laptop your money can buy.
+Content:
+I own the latest 2.8Ghz MacBook Pro with 512MB of VRAM, 4gb 1024mhz RAM, new polymer battery,  and optional 7200 RPM 500GB drive.  I am using both Mac OS and Vista Premium using Bootcamp. I have used my MacBook Pro for a month. 
+Compared to my previous laptop (Dell XPS 1530: 2.0 Ghz, 2GB RAM, 256MB 8600GT VRAM), which was a very good laptop, the MacBook Pro is  stunningly awesome.  The MacBook Pro is far smaller and portable yet performs at MUCH higher level than my Dell ever did.
+LOOKS
+If the MacBook Pro was a woman, it would be Miss Universe. It is thin, light, and as portable as 15.4 inch laptop can be.  Its aluminum casing is not only pleasing to the eye, but also pleasing to the touch as well. There is no cheap plastic anywhere to be found. 
+PERFORMANCE
+Vista Performance Index rates my MacBook Pro at 5.5 (5 is considered very good). The only reason why it is not higher is because the Nvidia 512MB 9600 is not awesome (but still very good) in 3D graphics performance. It is worth noting the 9600 laptop graphics card still performs better in 3D graphics than majority of desktop graphics cards of today.
+From a usability perspective, this laptop is blazing fast. There is no noticeable lag between CPU and Memory as I have seen with my Dell XPS 1530 laptop (Dell is undermining the performance of its laptops by using cheaper and subpar memory chips). The BUS on this system is also top notch as well.
+When I play BioShock on Vista, the graphics looks very crisp and the overall responsiveness is very good.
+Bottom line: you will not be disappointed with the performance of this laptop unless you are comparing it to that of a high end desktop. Certainly, you will be hard pressed to find any medium size 15.4 inch laptop that can even duplicate MacBook Pro's overall performance.
+TOUCHPAD and SOUND
+The new touchpad is the mouse reinvented. The new touchpad is so good, this is the ONLY laptop which I do not carry a separate portable mouse.  The new touchpad is large, responsive, and just has that WOW factor to it. THE NEW TOUCHPAD, BY ITSELF, IS A GOOD REASON TO GET A MACBOOK. 
+On Vista, the touchpad works almost as well as it does on Mac OS. The only feature missing in Vista is the ability to twist pictures and other objects (not all apps in Mac OS support this feature either).
+The sound quality is good, but not terrific. On Vista, the MacBook produces maybe 60% of maximum volume it can produce on Mac OS. I have tried reinstalling drivers on Vista but to no avail. I wish MS or Apple will fix this problem (I am sure this is a driver, and not a hardware, issue).
+PORTABILITY, BATTERY, and HEAT 
+Because of its small form factor and solid all aluminum body, the MacBook Pro is eminently portable. I have had many of laptops (about 8) both for work and for personal use, and this laptop is BY FAR the most portable of all. 
+The battery lasts around 7 hours when I run the Mac OS (9600 graphics card turned off). The battery lasts 4 hours when I run the Vista Home Premium edition (9600 graphics card turn on because it can't be turned off in Vista). My main concern, however, with running Vista on this laptop is not with the battery life but with excess heat output.
+This laptop is flat and the hottest portion of this laptop is concentrated in the rear bottom. When placed on a flat surface, much of the heat is trapped underneath. The MacBook Pro can overheat to a point where it is uncomfortable to touch the upper surface near the keyboard.  The heat isn't much of a problem with Mac OS, but with Vista, the user must be careful. I strongly advice using MacBook on a open bottom surface, such as laptop stand with an open bottom surface area for ventilation, when using Vista.  You laptop will last longer. 
+Mac OS vs VISTA
+I was pleasantly surprised that Mac OS can now run Flash and Adobe Acrobat Reader. The compatibility between Mac and PC is closer than ever. MS Entourage (part of Mac Office 2008) is compatible with MS Exchange email, calendar, and contacts. Overall, I am impressed with the Mac OS Leopard. But its achilles heel is still software availability. Although Apple has greatly expanded its library of available Mac compatible software, most softwares, particularly video games,  still do not run on Mac. For Vista, and its successor Windows 7, to better compete against the Mac OS in the laptop market space, it needs to greatly enhance its battery life and substantially lower its heat output.  
+FLAWS
+I have only two gripes
+1)Vista cannot utilize the full range of sound the MacBook hardware is capable. Notably, the maximum volume is too low. This can be easily fixed by Apple by updating the sound driver in BootCamp (HINT).
+2)The Caps Lock button is extremely easy to press. So easy, I wish I could find a way to disable the key.

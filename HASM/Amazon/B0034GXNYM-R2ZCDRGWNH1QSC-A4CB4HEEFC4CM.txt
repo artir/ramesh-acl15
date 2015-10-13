@@ -1,0 +1,16 @@
+ID: B0034GXNYM-R2ZCDRGWNH1QSC-A4CB4HEEFC4CM
+Category: Laptops
+Product: N61JQ-A1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A4CB4HEEFC4CM
+ReviewerName: Lawless B "Brian"
+Date: April 2, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Lightning in a box
+Content:
+This Laptop is blazing fast and delivers as listed.  I use my laptop primarily for music production and daily internet usage but I also ran the Lost Coast HL2 stress test with everything (AA, reflections etc) maxed out and it was averaging well over 100fps.  Windows 7 compatibility has been a dream compared to the hassles I am used to with XP Home-- my FireWire 1814 box connects through a TI expresscard firewire adapter with no problems in Ableton Live.
+The computer keyboard gets some getting used to if you are familiar with the Delete key being the top right-most key... as with all newer Asus laptops, they include a condensed numpad layout on the right side of the keyboard that adds the home/break/printscreen buttons up where I'm used to finding Del.  I think the benefits of having the numpad will outweigh this problem once I get used to it.
+I read reviews stating that things like spread sheets were impossible to see on this computer because of the screen resolution... this is simply not true.  I formatted a book (spreadsheets involved!) and designed a book cover using this screen and it worked fine.  I do agree with people who have criticized the viewing angle of the screen though--At ordinary angles the image looks incredibly washed out and visibility is restricted to a tight range of screen positions for any given viewer--not ideal for watching movies on the laptop screen.
+But!  With HDMI out, I plan to use an external monitor at some point and bypass all of the screen concerns entirely.
+The computer removes heat VERY efficiently, but that means that anything in front of the vent on the left hand side will become very hot, so be careful! (i've melted one chapstick and one chocolate bar by placing them somewhere nearby during gameplay use).  Overall this computer just blows my mind.  I can alt-tab out of a game, start a music program, and open 10 chrome pages, all at the same time and it won't break a sweat.  For instance, the computer runs the dolphin emulator flawlessly on low settings (this is a pretty demanding emulator).
+Anyways, I researched computers for a couple days straight and this one was by far the best deal i could find for under $1000.  Buy this right now if you are even slightly interested!  Hah, WORD OF WARNING:  Amazon shipped my latptop in its original Asus box with pictures and specs of the laptop all over it--I would recommend selecting gift wrapping if you don't want people knowing that a valuable product is inside.  Enjoy!

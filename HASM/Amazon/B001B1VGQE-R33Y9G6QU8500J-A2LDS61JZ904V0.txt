@@ -1,0 +1,15 @@
+ID: B001B1VGQE-R33Y9G6QU8500J-A2LDS61JZ904V0
+Category: SpaceHeaters
+Product: Soleus-Air-HGW-308R-Micathermic-Heater
+ReviewerID: A2LDS61JZ904V0
+ReviewerName: Robert Muszynski "Orion"
+Date: December 2, 2009
+Helpful: 4 of 4
+Rating: 3.0
+Title: OK, if you don't expect too much
+Content:
+This heater seems to have been cranked out to take advantage of the popularity of the new Micathermic technology.  This new heating technology heats up the panel very quickly, but takes as long as the oil heaters to heat the room.   This is to be expected.  With out a fan, the speed of heating is determined by the size of the heating surface.  Which in this case is around 30" X 30".  This technology is completely silent, compared to the bubbling noise of the oil radiators.
+Ok, the mistakes Soleus made.  The digital thermostat is somewhat for show.  In my 10' X 10' room the heater is set for 77 but the room never reaches 70 degrees.  The heater turns off making you think it has reached it's goal.  Same room, I put in another Soleus heater.  I initially left this heater at the default 68 degrees that is displayed when the unit first comes on.  Now the room stays above 78 degrees.  After much experimentation and repositioning of heaters, I've discovered a trend.  Each heater has a fixed error in their temp sensor.  For instance the previous mentioned heater is exactly ten degrees off.  You set it for 68, it tries to keep the room at 78.  This error is different for each heater.  In addition these heaters have roughly a five degree response range.  In other words it may keep heating for an addtional five degrees past the target setting and after turning off may not start again until it's more than five degrees below the target setting.
+Soleus did a great job at making a silent technology noisy.  The single Micathermic panel heats up very quickly, so it expands quickly.  Initially you'll hear these little creaking pops as the housing mount points are trying to hang on to the panel as it expands.  Then you'll hear a gong as the panel bows out under pressure.  These sounds aren't loud, but in a quiet room in the middle of the night, it wakes me up.  Smaller multiple panels might reduce this noise problem.
+As far as the smell, hang in there.  It takes awhile, but it eventually goes away.
+I gave this heater three stars because the problems I pointed out are pretty much the norm for most portable heaters I've used.  Micathermic technology is great, someone just needs to put it in a quality device.

@@ -1,0 +1,11 @@
+ID: B0030Y312W-R2Y2KXIWBTHKVL-AEG363IRRQ8O7
+Category: Laptops
+Product: Pavilion-DV7-3160US-17-3-Inch-Laptop-Black
+ReviewerID: AEG363IRRQ8O7
+ReviewerName: Shawn P. Reeves
+Date: March 3, 2010
+Helpful: 16 of 21
+Rating: 4.0
+Title: Great product with some glitches
+Content:
+I know that for the price your paying for this computer it isen't that bad. It only has one fluck that I have experenced and that is that the dislay drive stops responding and immediantly recovers after the screen gos black for a few seconds. It has something to do with the kernel drive 184.66 and I can't fix it because hp and nvidia haven't come up with a solution too the problem yet and yes I did a system recovery several times also uninstalling and reinstalling the driver. Other than that I really can't complain other then that little problem with the display drive. I really dont like the fact that they took out the 500GB (7200RPM) hard drive and replaced it with a 640GB (5400RPM). Overall I give this computer a 4 out of 5.

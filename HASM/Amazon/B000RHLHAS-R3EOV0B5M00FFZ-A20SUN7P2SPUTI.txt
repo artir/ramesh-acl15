@@ -1,0 +1,11 @@
+ID: B000RHLHAS-R3EOV0B5M00FFZ-A20SUN7P2SPUTI
+Category: SpaceHeaters
+Product: Honeywell-HZ341BL-Ceramic-Heater-Remote
+ReviewerID: A20SUN7P2SPUTI
+ReviewerName: Peter K. Murricane "'tracksionmotor'"
+Date: January 2, 2009
+Helpful: 
+Rating: 3.0
+Title: Emergency heater during power failures
+Content:
+These Honeywell heaters are very good for spot warmth but have a caveat:  IF there is a power failure the electronic controls will NOT turn the heater on when power is restored.  I recommend heaters with simple thermostats.....test is unplugging unit in operation and plugging it back in to see it in operation.  Avoid using extension cords and make sure the electrical outlet is in good shape.

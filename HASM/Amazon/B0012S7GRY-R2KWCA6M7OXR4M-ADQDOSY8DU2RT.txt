@@ -1,0 +1,15 @@
+ID: B0012S7GRY-R2KWCA6M7OXR4M-ADQDOSY8DU2RT
+Category: MP3Players
+Product: Apple-iPod-nano-Generation-MODEL
+ReviewerID: ADQDOSY8DU2RT
+ReviewerName: FujiFuji
+Date: June 20, 2008
+Helpful: 0 of 1
+Rating: 4.0
+Title: Very good but ....
+Content:
+This ipod nano 3G only support iTunes7.6.
+And iTunes7.6 requre windows XP or vista.
+It means, ipod nano 3G require windows XP or vista.
+I am using windows 2000 , So I need to buy windows XP to use ipod.
+I wouldn't notice this before getting ipod.

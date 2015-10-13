@@ -1,0 +1,42 @@
+ID: B002P3KMVC-R3UZ1BZSZZJMKM-A36THI489I2M1Y
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A36THI489I2M1Y
+ReviewerName: MW
+Date: April 16, 2010
+Helpful: 3 of 3
+Rating: 5.0
+Title: Another hit for ASUS
+Content:
+Aside from one minor problem, this really is a spectacular laptop. 
+REASON FOR PURCHASE: My old laptop was an ASUS F3SE which unfortunately died and needed to be replaced. This was a heavy 15.6"/dedicated graphics, thick machine which ended up also being a pain to lug around.  I looked into netbooks and decided that they were really too small for what I needed. I have a desktop but wanted something for travel and around the house. 
+If you are considering between this and a netbook, get this!
+THE REVIEW:
+Weight
+After opening everything up Windows 7 finally got configured and I could start using the laptop. First of all this machine is LIGHT! I was surprised when I put the battery in how light it really is. At the same time the laptop feels solid, so you don't have that trade-off between quality materials and weight reduction. Ultra-portable is definitely a great way to describe it.
+Feel/Aesthetics
+As I said, the laptop feels absolutely solid. Even thought the inside is made of shiny black plastic, it's not thin. The lid/screen moves easily on the hinges, while at the same time not sliding to the sides or left to right. Also, the screen does a good job of staying where you set it and not sliding down toward the closed position. Speaking of, the lid closes well without any noticeable gaps as some laptops have. The one complaint about the laptop's aesthetics is that is shows off fingerprints like crazy. any time you touch it (the lid or the body) you get a nice fat print of whatever hand was there - this is not a big deal since you can just wipe it down, but still a minor annoyance. Finally, a few people have complained that the screen is too glossy. It is very glossy, but not enough  to make it difficult to use, and this is only an issue when the screen is very dark. Once you star using programs you can't even notice it. 
+Usability/Features
+Obviously you are getting something without a DVD+/- RW so you lose some weight and bulk, but also the feature. Look into the ASUS SDRW-08D1S-U as an external solution, it's pretty solid as well. I got that as a combo purchase with this and it works well. It looks like it goes together. It's noteworthy that you are asked to make a DVD backup when you fist boot up - but they also give you a driver and OS Cd, as well as a recovery partition. (Side note: They actually have 3 partitions, 1 recovery (hidden), 1 OS, 1 Data. I merged the Data and OS). You will probably neve use fast gate btw, it's fun, but not that worth it. (FastGate is their linux program that boots the computer in 10 seconds and does basic web browsing and music playing... maybe that's why they have 3 partitions! Uh Oh.. more on that later.
+There is plenty of power under the hood here. The 4GB of RAM makes it snappy, although this is somewhat undermined by a slower processor (my desktop has 1Gb Ram (PC5200) and a C2D @ 3.1 Ghz, sometimes if feels faster). Overall things seem to run well. Windows 7 has a lot of services in the background and if you don't uninstall ASUS's features then they will run too. Speaking of, you should uninstall most of them. They are pointless. Keep the Power4Gear though. Also, another way that you are saving battery is with integrated graphics. I was worried about Intel's 4500HD but I did some research and didn't see too much knocking it down. Integrated is never going to compare well to dedicated graphics, but what are you really using this laptop for? If you want graphics, get a different model (Asus has plenty of other great ones). Also, my old laptop which had a dedicated card had a LOUD fan and got VERY hot. This the UL30A- series has stay cool technology which actually does work. While the laptop might get a bit warm, it is never very much and it takes a while of being in the same spot. I can't say I've found it to be truly uncomfortable on either the top or bottom. 
+One other complaint that I have is the sound quality. It's pretty terrible - when you have the laptop on your lap. The speakers are on the underside of the chassis so your legs will muffle it. Supposedly this is some sound enhancing technique that bounces the sound off of a table to give it more definition, but that sounds like a stretch. Nonetheless, the laptop does sounds better when I set it down in front of me, not so much as to 'WOW' me, but enough to interest me and make note.
+I also tested the HDMI output. I grabbed a HD (720p) video from YouTube and played it over HDMI. There was some slight stuttering (barely noticeable) when played on my TV, but I think this is from VLC (the media player) indexing files as well as the laptop showing the clip both in its own screen and passing it to the TV. I need to try this JUST on the TV, but I think it will be fine. I played some full 1080 clips on the TV as well and they looked fine. I can say that I am confident the HDMI is solid and will perform admirably. I was surprised at how well it handled normal use and the second video - especially for an integrated graphics card.
+Next, the battery. I saw a lot of questions about what size it is, how many cells, what's the length, etc. Well, it boils down to this - it depends on what you do. I was running 3 or 4 installations and burning a CD and it dropped pretty quickly. I saw 4:10 at only 68%. However, after I was finished, I kept using the laptop (web browsing, music, etc) and was still at 4 hours when the battery decreased to 54%. So it is all relative to what you are using the laptop for. In full disclosure I have tweaked the settings on Power4Gear. I don't need the brightness up in Quiet Office. Since the screen is usually the largest consumer of battery, I felt that it was worth it. P4G also lets you set upper limits on the CPU, so I changed that just a bit. Oh, and the stickers on the laptop say 10 hours, not 12. It doesn't matter because you can only realistically expect 8 hours at most, but I still wish there was more consistency (see the RMA section below too). 
+I don't have a better place to put this, but the webcam is fine. 0./3 mega pixels is low, and I did notice that there was a large lag in what it picked up (try waving), but for quick video chat where you are just sitting there talking - it's fine. 
+RMA!
+Finally, my problems section.
+I am RMA'ing this unit to fix the keyboard. I know I just put up a glowing (almost) review of the unit, but this was manufactured and things can go wrong. I hope this helps people who have not seen a review of their customer service. ASUS always ranks high in this category and I agree with that. Someone said that when looking at the same price point most laptops have the same specs, so it comes down to feel, aesthetics, and customer service - great summation!) Ok, on with it. The left side of the keyboard is loose and it makes an annoying ringing/jingling sound when you type. I was in a meeting and had to stop because it was that noticeable. This is not a functional problem, rather an annoyance. When you pay $600 for a laptop, this shouldn't be an issue. So I called them. It was easy, I was talking to a person after only 2 menu's (so 15 seconds or less) and they gave me two options: 1) they send me a keyboard and I do it or 2) I send it in. I chose the second not because I can't but because if they do it, I don't have to deal with warranty problems in the future if they should come up. So I'll be without my laptop for 2 weeks. They also pay shipping both ways, so it's ok. Oh, and I hear different things different places, its a 1 year manufacturers, and a 1 (parallel) year of Accidental coverage. I thought it was 24mos. 
+Pros:
+Light
+Great battery performance
+Powerful
+Cheap!
+HDMI out
+Cons:
+The Keyboard
+Pre-installed junk
+Speaker placement
+Major Complaint:
+I had to RMA the keyboard
+Bottom Line: Get it. I give the laptop a 9.5 / 10. I really wish there were other things in here like an SSD and USB 3.0, but I paid $600 for it. I can't really complain.
+I am happy to answer questions the best I can if you reply to this post. Good luck!

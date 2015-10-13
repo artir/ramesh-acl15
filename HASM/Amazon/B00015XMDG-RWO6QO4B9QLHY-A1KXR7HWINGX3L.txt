@@ -1,0 +1,13 @@
+ID: B00015XMDG-RWO6QO4B9QLHY-A1KXR7HWINGX3L
+Category: Laptops
+Product: IBM-ThinkPad-2379DJU-Pentium-Centrino
+ReviewerID: A1KXR7HWINGX3L
+ReviewerName: nope
+Date: August 10, 2004
+Helpful: 3 of 5
+Rating: 4.0
+Title: great screen, decent battery, but the cd/dvd stinks
+Content:
+nice laptop. make sure to spend the extra dough and get the 1400x1050 screen cause it is awesome.
+it has decent battery life of around 3hrs.
+but the dvd/cd-rom doesnt read anything.  not even store bought discs.  i have had ibm ship me a new cdrom unit and it still stinks.  however because i use this laptop primarily to program .NET i am still thinking about keeping it even though the cdrom is a glaring defect.  the problem may be based in windows so i cant say for sure its IBM's fault, but come on.  out of the box and it cant play even my store bought DVD's?

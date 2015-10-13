@@ -1,0 +1,12 @@
+ID: B002ONCCGQ-RD4MHQ9SC6ZRT-A1VDYZYZU81304
+Category: Laptops
+Product: Pavilion-DM3-1030US-13-3-Inch-Silver-Laptop
+ReviewerID: A1VDYZYZU81304
+ReviewerName: CJ "cjb200"
+Date: December 5, 2009
+Helpful: 
+Rating: 5.0
+Title: Very Satisfied
+Content:
+Pros: Looks fantastic, feels very sturdy, 7200RPM HD, beautiful screen, well spaced "chicklet" style keyboard. The few benchmarks I've seen for this processor don't look so hot, but to me it feels like a screamer.
+Cons: HP Bloatware, fortunately I quickly installed a fresh copy of Windows 7 Ultimate. Runs MUCH faster after doing so. Also, the touchpad isn't as smooth as I'd like. And...the speakers maybe? The sound through headphones is fantastic though. Overall, a fantastic option in the ultralight category.

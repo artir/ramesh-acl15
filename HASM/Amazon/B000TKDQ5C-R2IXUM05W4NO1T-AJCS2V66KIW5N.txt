@@ -1,0 +1,11 @@
+ID: B000TKDQ5C-R2IXUM05W4NO1T-AJCS2V66KIW5N
+Category: SpaceHeaters
+Product: Lasko-754200-Ceramic-Adjustable-Thermostat
+ReviewerID: AJCS2V66KIW5N
+ReviewerName: Ron B. Ewart
+Date: February 20, 2010
+Helpful: 
+Rating: 2.0
+Title: Poor thermostat control
+Content:
+Heater and fan work fine.  Adjustable thermostat is poor; wide dead band with temperature getting very warm before it turns off, then very cold before it turns on again.  No safety cutout, so if heater accidently gets knocked over; the heater stays ON.

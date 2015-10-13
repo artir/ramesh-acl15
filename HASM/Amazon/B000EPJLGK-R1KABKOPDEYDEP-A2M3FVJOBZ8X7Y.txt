@@ -1,0 +1,16 @@
+ID: B000EPJLGK-R1KABKOPDEYDEP-A2M3FVJOBZ8X7Y
+Category: MP3Players
+Product: Apple-Video-Player-White-Generation
+ReviewerID: A2M3FVJOBZ8X7Y
+ReviewerName: Steven Janes
+Date: June 11, 2007
+Helpful: 10 of 12
+Rating: 3.0
+Title: Great concept - flawed execution
+Content:
+The actual iPod is really a nice piece of gear, with a well thought out simple user interface. However, as a new user I felt great frustration at some start-up issues:
+- Setting up the initial connectivity to my home PC: My PC would not recognise iPod as a device. After many wasted hours trying one solution after another I just gave up and used my work laptop. Not ideal as you are tied to one PC forever. From looking into the apple newsgroups (and trying many of their suggestions) it seems that this is a very common problem. Since all my other USB devices work fine I assume this is an iPod issue rather than one with my PC
+- iTunes software not included in package: You can not use iPod without having iTunes on your PC, but you are forced to download a very large file from the internet to get this (no CD provided). To me, this is a big cheek - since many people will only want an iPod to listen to their own CDs there is no automatic requirement for a broadband internet connection, so why put this restriction on it? What would someone do without any internet connection or a very slow one? 
+- iTunes limitations: Why is it necessary that in order to listen to my CD collection on my iPod that I am forced to keep copies of all the music files on my PC? I don't want it there, but if I delete it after synching to my iPod, it will be deleted from the iPod when I next synch. 
+- iTunes national limitation: You are only allowed to register with the iTunes in the country you live in. I live in Germany but can not buy things from the US or UK iTunes store. 
+These were my main initial frustrations. After having given up on using my home PC and resigned myself to iTunes limitations, I find I really enjoy using the actual iPod itself.

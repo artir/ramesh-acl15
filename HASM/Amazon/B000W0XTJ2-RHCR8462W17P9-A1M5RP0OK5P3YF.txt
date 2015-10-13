@@ -1,0 +1,13 @@
+ID: B000W0XTJ2-RHCR8462W17P9-A1M5RP0OK5P3YF
+Category: Laptops
+Product: Pavilion-TX1320US-Entertainment-Notebook-Processor
+ReviewerID: A1M5RP0OK5P3YF
+ReviewerName: Nirand Pisutha-arnond
+Date: March 30, 2010
+Helpful: 
+Rating: 1.0
+Title: Defective Design
+Content:
+We bought this laptop 2 years ago and it started to have problem with WIFI not working.  About a month later, the screen suddenly went blank and nothing showed up despite many reboots.  Since we no longer had a warranty, we took this to a local shop and paid $170 to fix this.  Another 3 months, the same problems occurred again.
+This has a lot to do with insufficient heat ventilation which causes the graphic card to detach from the mother board.  The temporary fix for this comes in many ways of reheating the video-card area of the motherboard and use pressure (or gravity) to reapply the chip back.  However, you risk frying the chip or causing more circuit detachment due to thermal stress.
+In the end, we have to buy a new laptop, not from HP again for certain.

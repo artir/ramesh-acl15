@@ -1,0 +1,103 @@
+java -cp "./lib/*" meka.classifiers.multilabel.MULAN -x 10 -R -t data/data-all/relevance-coarse-sentiment.arff -verbosity 10 -S RAkEL2 -W weka.classifiers.trees.J48 -f output/level2/output.txt
+
+|==== PREDICTIONS ===============>
+|==============================<
+Classifier_name      : meka.classifiers.multilabel.MULAN
+Classifier_ops       : [-S, RAkEL2, -W, weka.classifiers.trees.J48, --, -C, 0.25, -M, 2]
+Classifier_info      : 
+Dataset_name         : relevance-coarse-sentiment
+Type                 : CV
+Threshold            : 0.42857142857142855
+Verbosity            : 10
+N(test)              : 201.4 +/- 0.516
+L                    : 13 +/- 0    
+Accuracy             : 0.809 +/- 0.016
+Hamming score        : 0.937 +/- 0.006
+Exact match          : 0.593 +/- 0.026
+Jaccard dist         : 0.191 +/- 0.016
+Hamming loss         : 0.063 +/- 0.006
+ZeroOne loss         : 0.407 +/- 0.026
+Harmonic score       : 0.906 +/- 0.011
+One error            : 0.055 +/- 0.013
+Rank loss            : 0.049 +/- 0.005
+Avg precision        : 0.386 +/- 0.013
+Log Loss (max L)     : 0.119 +/- 0.009
+Log Loss (max D)     : 0.162 +/- 0.014
+F1 micro avg         : 0.866 +/- 0.012
+F1 macro avg, by ex. : 0.868 +/- 0.013
+F1 macro avg, by lbl : 0.611 +/- 0.024
+Percent no-labels    : 0     +/- 0    
+Accuracy[0]          : 0.913 +/- 0.022
+Harmonic[0]          : 0.911 +/- 0.027
+Precision[0]         : 0.841 +/- 0.034
+Recall[0]            : 0.907 +/- 0.044
+Accuracy[1]          : 0.93  +/- 0.024
+Harmonic[1]          : 0.844 +/- 0.063
+Precision[1]         : 0.751 +/- 0.096
+Recall[1]            : 0.757 +/- 0.096
+Accuracy[2]          : 0.982 +/- 0.007
+Harmonic[2]          : 0.468 +/- 0.32 
+Precision[2]         : 0.459 +/- 0.315
+Recall[2]            : 0.363 +/- 0.307
+Accuracy[3]          : 0.987 +/- 0.01 
+Harmonic[3]          : NaN +/- NaN
+Precision[3]         : 0     +/- 0    
+Recall[3]            : 0     +/- 0    
+Accuracy[4]          : 0.964 +/- 0.01 
+Harmonic[4]          : 0.965 +/- 0.01 
+Precision[4]         : 0.944 +/- 0.021
+Recall[4]            : 0.975 +/- 0.013
+Accuracy[5]          : 0.974 +/- 0.01 
+Harmonic[5]          : 0.217 +/- 0.313
+Precision[5]         : 0.333 +/- 0.408
+Recall[5]            : 0.169 +/- 0.306
+Accuracy[6]          : 0.939 +/- 0.014
+Harmonic[6]          : 0.25  +/- 0.132
+Precision[6]         : 0.267 +/- 0.149
+Recall[6]            : 0.15  +/- 0.088
+Accuracy[7]          : 0.997 +/- 0.003
+Harmonic[7]          : 0.997 +/- 0.003
+Precision[7]         : 0.992 +/- 0.008
+Recall[7]            : 1     +/- 0    
+Accuracy[8]          : 0.877 +/- 0.024
+Harmonic[8]          : 0.573 +/- 0.133
+Precision[8]         : 0.394 +/- 0.108
+Recall[8]            : 0.429 +/- 0.128
+Accuracy[9]          : 0.808 +/- 0.027
+Harmonic[9]          : 0.767 +/- 0.055
+Precision[9]         : 0.575 +/- 0.066
+Recall[9]            : 0.718 +/- 0.108
+Accuracy[10]         : 0.817 +/- 0.03 
+Harmonic[10]         : 0.736 +/- 0.054
+Precision[10]        : 0.565 +/- 0.073
+Recall[10]           : 0.649 +/- 0.096
+Accuracy[11]         : 0.997 +/- 0.003
+Harmonic[11]         : 0.997 +/- 0.003
+Precision[11]        : 1     +/- 0    
+Recall[11]           : 0.994 +/- 0.006
+Accuracy[12]         : 0.997 +/- 0.003
+Harmonic[12]         : 0.997 +/- 0.003
+Precision[12]        : 0.992 +/- 0.008
+Recall[12]           : 1     +/- 0    
+LCard_pred           : 3.103 +/- 0.074
+LCard_diff           : -0.103 +/- 0.074
+LCard_diff[0]        : -0.025 +/- 0.016
+LCard_diff[1]        : -0.001 +/- 0.015
+LCard_diff[2]        : 0.005 +/- 0.01 
+LCard_diff[3]        : 0.005 +/- 0.014
+LCard_diff[4]        : -0.014 +/- 0.012
+LCard_diff[5]        : 0.014 +/- 0.013
+LCard_diff[6]        : 0.018 +/- 0.011
+LCard_diff[7]        : -0.003 +/- 0.003
+LCard_diff[8]        : -0.013 +/- 0.041
+LCard_diff[9]        : -0.058 +/- 0.061
+LCard_diff[10]       : -0.031 +/- 0.046
+LCard_diff[11]       : 0.003 +/- 0.003
+LCard_diff[12]       : -0.003 +/- 0.003
+N_train              : 1812.6 +/- 0.516
+N_test               : 201.4 +/- 0.516
+LCard_train          : 3     +/- 0    
+LCard_test           : 3     +/- 0    
+Build_time           : 6.326 +/- 0.445
+Test_time            : 0.027 +/- 0.032
+Total_time           : 6.354 +/- 0.471

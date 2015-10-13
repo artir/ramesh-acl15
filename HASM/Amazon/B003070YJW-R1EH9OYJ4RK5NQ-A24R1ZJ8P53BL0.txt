@@ -1,0 +1,11 @@
+ID: B003070YJW-R1EH9OYJ4RK5NQ-A24R1ZJ8P53BL0
+Category: Laptops
+Product: Toshiba-Qosmio-X505-Q860-18-4-Inch-Black-Red
+ReviewerID: A24R1ZJ8P53BL0
+ReviewerName: C. Nguyen
+Date: April 16, 2010
+Helpful: 0 of 2
+Rating: 1.0
+Title: Cooling System Problem Detect after 15 minutes Used
+Content:
+I was excited when this laptop arrived. After 15 minutes of usage, I got an error message stating there was a problem with the cooling system, shutdown immediately and return for service. I returned the laptop to Amazon the next day.

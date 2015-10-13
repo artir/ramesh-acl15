@@ -1,0 +1,11 @@
+ID: B001MS6NOG-R2BPL1MHQXZZXA-A3IXXWSTNWCS4G
+Category: Laptops
+Product: Sony-VGN-FW373J-16-4-Inch-Processor-Blu-ray
+ReviewerID: A3IXXWSTNWCS4G
+ReviewerName: David A. Morehead
+Date: June 13, 2009
+Helpful: 0 of 1
+Rating: 5.0
+Title: Great laptop!! I always buy Sony.
+Content:
+I am very happy with my new Sony Vaio (VGN-FW373J/H). The only problem I have been having is some companies haven't bothered to update their drivers. Epson is one example. I have a scanner that works perfectly with Windpws XP, but now I can't use it on the my new laptop because they haven't made a new driver for Vista 64bit. Lame Epson! Very lame! This is not a Microsoft or Sony problem so I am not blaming them in any way. But, I just wanted to make people aware that some companies aren't updating their drivers which means you will have to buy new hardware when you switch to Vista.

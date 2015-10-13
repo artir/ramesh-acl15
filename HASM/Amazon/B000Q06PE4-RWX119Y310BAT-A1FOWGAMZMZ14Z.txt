@@ -1,0 +1,12 @@
+ID: B000Q06PE4-RWX119Y310BAT-A1FOWGAMZMZ14Z
+Category: Laptops
+Product: DV9700T-Processor-LightScribe-SuperMulti-Microphone
+ReviewerID: A1FOWGAMZMZ14Z
+ReviewerName: Gilbert Smith III "Dashboard Fan"
+Date: October 4, 2009
+Helpful: 4 of 4
+Rating: 1.0
+Title: Don't purchase!!
+Content:
+I bought this laptop in April of 2008. My laptop just crapped out in September of 09, 5 months after my warranty expired.  I take care of my computers.  I'm a software engineer, and I have a lot of important work on my computers.  The same problem that HP acknowledged a long time ago plagues these computers, but HP refuses to fix them.  First, my screen went pixelated and then shut down.  On reboot, it only comes up to a black screen now.  The NVidia GPU and HP quality motherboard died on me.  HP acknowledged it was the same problem as the earlier computers had but said it would cost $398 + tax to fix.  When you buy a $1700 computer (mine was customized with a better processor and more RAM), you expect it to last several years if you take care of it.  I have a $1700 paperweight now.
+I've filed a complaint with the Better Business Bureau of Silicon Valley and also signed up for a class action lawsuit against NVidia and HP.  Unless you want the same experience, don't purchase this or any other HP.  Extremely disappointed.

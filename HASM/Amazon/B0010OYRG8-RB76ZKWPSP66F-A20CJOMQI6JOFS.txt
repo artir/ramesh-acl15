@@ -1,0 +1,16 @@
+ID: B0010OYRG8-RB76ZKWPSP66F-A20CJOMQI6JOFS
+Category: Laptops
+Product: Apple-MacBook-Laptop-Processor-Solid-State
+ReviewerID: A20CJOMQI6JOFS
+ReviewerName: JD AZR
+Date: August 5, 2008
+Helpful: 5 of 5
+Rating: 5.0
+Title: Worth the price!
+Content:
+While it is true that the MacBook Air is not for everyone, this is the best computer I have owned. Mine is the SSD version and it is my work computer, used for Web development, occasional graphics work in Creative Suite, and bookkeeping using QuickBooks for Windows via Parallels. 
+After reading all the debate about the relative performance compared to more powerful machines as well as complaints about lack of ports and other "features", I have found that the actual daily ease-of-use is incredible. It is quiet and very portable, the screen is fantastic, the trackpad is highly responsive, waking from sleep is instantaneous, and the speed for regular work using a variety of applications is very fast. 
+My existing peripherals work with the Air. The only accessories I purchased are the USB Ethernet adapter and a neoprene sleeve. I do not own a SuperDrive, Airport Extreme router, or Time Capsule backup. I was able to reinstall OS X Leopard without many of the extras and saved a significant amount of disk space. With all my applications and files, there is still 29 GB of available space on the 64 GB drive.
+Customizing the set up was surprisingly easy. Using a typical non-Apple wireless router and the USB Ethernet adapter, I plugged in to the wired ports and used Remote Disc to reinstall Leopard and several third-party applications. After the initial set up, Remote Disc then works over any wireless network. For backing up, I use a 2.5-inch, SATA hard drive in a USB enclosure. The USB port on the Air delivers enough power out of the single connection (no two-wired connections necessary).
+Compared to my former machine, a MacBook Pro with 4GB of memory, the two caveats are that I cannot have a ton of application open at once, and intensive Photoshop work takes a performance hit. But these two negatives are far outweighed by the positives. 
+Since prices are coming down for SSDs in general, the price is coming down on the Air with SSD. I purchased mine for just slightly more than my former MacBook Pro. And for me, it was definitely worth it.

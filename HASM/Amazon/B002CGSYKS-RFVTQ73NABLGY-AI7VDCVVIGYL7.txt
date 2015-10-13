@@ -1,0 +1,18 @@
+ID: B002CGSYKS-RFVTQ73NABLGY-AI7VDCVVIGYL7
+Category: DigitalSLRs
+Product: Olympus-Interchangeable-Lens-14-42mm-Silver
+ReviewerID: AI7VDCVVIGYL7
+ReviewerName: Acuratic "acuratic"
+Date: October 16, 2009
+Helpful: 7 of 12
+Rating: 3.0
+Title: Great camera, lowsy software - Mac user
+Content:
+I've moved from a Nikon SLR to the Olympus EP-1. I was looking for a smaller camera that took SLR quality pictures and this fits the bill.  Build quality feels superior to Canon/Nikon although time will tell. After a recent trip up the coast and through the woods of Maine I'm very pleased with the results. Getting used to having no viewfinder takes more than a week or two.
+I use a Mac and store and edit programs with Aperture.  Aperture, even after three months has no support for the RAW (ORF) files produced by the camera. The JPEG's import just fine.
+The software that comes with the camera is horrendous. It is very amateurish in that there is no File menu and no Quit command. It can't import pictures stored on the hard drive.  And forget about editing with it. This same software is used for updating the camera, lens and flash firmware which can render the camera unusable if a problem occurs.  I love the camera but wish RAW support was available in Aperture. If you don't use RAW then you can easily set the camera to JPEG only.  I've had a running email conversation with Olympus Tech Support and I'm not sure they really understand how bad their software really is. I've certainly tried to tell them in a positive way offering my assistance in beta testing any new updates.
+I've read other reviews here that the camera can't be used with a Mac. This is untrue.  Photos can be imported into iPhoto and Aperture as easily as any other camera. Simply slip the SD card into a MacBook Pro with an SD card reader slot or use an SD card reader.  Do NOT use the Olympus software or connect camera via cable (which I never do anyway). I've also imported the movies produced by the camera with no problems.  Excellent movie quality.
+I recommend downloading the manual from the Olympus website (the printed one included in the box has tiny print). Spending an hour or so learning the features is worth the effort. Navigating through the menu and selections is easy.
+I purchased a second battery although I never needed to use it shooting photos and movies all day. 
+An issue is the lack of available lenses. There are no telephoto lenses available from Olympus besides the 14-42mm. The 17mm 'pancake' lens looks like a good option for low light situations if it were't for the $299 price tag (a bit steep for a camera at this price level). 
+Overall, I love the small-size convenience and photo quality.  The camera with the 14-42mm lens is good value.  If you can do without RAW format, which most probably can, then I doubt you can find a better camera.

@@ -1,0 +1,11 @@
+ID: B0008JIW8U-R1BYDJCTNZFGOM-AUDRYY3LYSEHS
+Category: CoffeeMachines
+Product: Mr-Coffee-DRX5-Programmable-Coffeemaker
+ReviewerID: AUDRYY3LYSEHS
+ReviewerName: Jeffrey Contompasis "Imagineer-in-Waiting"
+Date: May 9, 2008
+Helpful: 
+Rating: 2.0
+Title: Unit Failed After About 1 Year
+Content:
+It worked okay.  Then, one morning the clock was flashing.  I figured it was due to a power outage.  I could not get the unit to respond.  All the mechanical workings are still fine.  The main power to the unit is fine.  But, I cannot get it to work because of the failed electronics.

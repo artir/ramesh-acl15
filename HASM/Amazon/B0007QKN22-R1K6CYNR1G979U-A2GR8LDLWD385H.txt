@@ -1,0 +1,25 @@
+ID: B0007QKN22-R1K6CYNR1G979U-A2GR8LDLWD385H
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-XT-f3-5-5-6
+ReviewerID: A2GR8LDLWD385H
+ReviewerName: Edison Yuan
+Date: March 26, 2008
+Helpful: 3 of 3
+Rating: 4.0
+Title: Very good, inexpensive dSLR
+Content:
+This is my first dSLR camera. While most stores display the XTi and eventually the XSi, the XT is adequate for my needs. I believe I do not need the potentially ineffective sensor cleaning feature, live view, eye proximity detector, extra focal points, or the extra resolution. I ordered the XT with the EF-S 18-55mm 3.5-5.6 IS lens for only around $180. After buying the 4 GB Sandisk CF card I spent less than $700 total. A few years ago, I would only be a able to buy a high-end point and shoot camera. In the near future, I plan to buy the EF 50mm 1.8 II prime lens as well. 
+Pros:
+-Inexpensive
+-Compact; great for traveling, even fits in my backpack with my 18-55mm IS attached.
+-Very good ISO performance from 100-800. 1600 is OK
+-Handy back-lit monochrome LCD display
+-Built-in flash for starting out in dSLR photography and hot-shoe for future external flash
+-Very fast response
+-Shutter, aperture, and focus point display in viewfinder.
+-Custom functions allow some tweaking. 
+Cons:
+-Changing white balance, ISO, AF mode, and light metering requires use of the color LCD screen that is hard to see in sunlight. I wish the shortcut buttons just toggle through the settings and that I could see the resulting changes on the monochrome LCD.
+-No spot metering
+-Thumb wheel is too firm to easily rotate
+-CF pins may be easy to bend resulting in expensive repairs

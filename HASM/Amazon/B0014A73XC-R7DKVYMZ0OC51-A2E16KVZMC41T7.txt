@@ -1,0 +1,20 @@
+ID: B0014A73XC-R7DKVYMZ0OC51-A2E16KVZMC41T7
+Category: Laptops
+Product: Pavilion-DV2890NR-14-1-inch-Processor-Premium
+ReviewerID: A2E16KVZMC41T7
+ReviewerName: Rodrigo Quintilio Rego "quintilio"
+Date: April 5, 2010
+Helpful: 
+Rating: 1.0
+Title: Another factory defective HP Laptop
+Content:
+Do you want an advice?
+Never buy a HP laptop, notebook or netbook. HP is the company with the most units on recall ever (not considering battery recalls). 
+This laptop as other thousands of HP products has a factory deffect on the processor and video chip cooling and soldering process. The board heats to much and after some time the solder breaks and the entire system fails. Video and LCD goes weird, Wireless stop working, system freazes.
+All units have the problem, it is a board design issue. Even if you do the recall, the main board will be replaced with the another one with the same problem. 
+How long it will take for the problem to appear on your unit will depends on the use. Mine took 2 years (lots of video playback, image editing) even using a cooling table. Other users reported the problems after only 2 or 3 months of use.
+Just google for HP recall, HP problem and anything related. There are thousands of customers around the world and HP does nothing to help us.
+On the recall page you can notice hundreds of other Laptops series PNs affected. 
+Besides this, a friend has a brand new dv4000 series that overheats and shutdows after just a phews minuts powered on.
+My uncle has a DV9000 series and the LCD has a deffect on the hinge/joint. It just locked after some weeks of use and break. Another recall.
+Take this serious advice and do not buy any HP product. Go for Sony Vaio's

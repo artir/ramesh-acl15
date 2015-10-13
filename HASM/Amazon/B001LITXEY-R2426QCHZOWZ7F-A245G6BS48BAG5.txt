@@ -1,0 +1,14 @@
+ID: B001LITXEY-R2426QCHZOWZ7F-A245G6BS48BAG5
+Category: SpaceHeaters
+Product: Vornado-AVH2-1500w-Vortex-Heater
+ReviewerID: A245G6BS48BAG5
+ReviewerName: Henry Heth
+Date: February 18, 2010
+Helpful: 
+Rating: 5.0
+Title: Great heater/fan, one weird side effect?
+Content:
+First off, the Vornado heater/fan is fantastic.  Sensitive but not overactive thermostat, quiet but effective fan, nice safety features.  Buy one.
+Second, I think I've discovered a weird side effect.  Bear with me.  This winter, I put this heater/fan in the garage, because of an unusually cold winter.  I set it at 42 degrees, and it clicks on occasionally to keep things well above freezing, which I need in my garage.  About the same time (I didn't realize the coincidental timing until yesterday), the remote controls for my garage doors ceased operating, except at extremely close range (like 2 inches in front of the garage door).  I have two newer Chamberlain garage door openers, rolling code type, and remotes on both doors were affected.  Further, remotes on both cars were affected---these facts eliminate normal "weak battery" or "reprogram the remotes" solutions, even though I did that anyway.  The garage doors otherwise worked fine.
+A garage door tech came out to analyze the problem and was stumped--he, like I, guessed it was some kind of radio interference on the remote control frequency.  We couldn't figure out what the frequency interference would be caused by---garage doors don't operate on the common 2.4GHz frequency, for example.  Anyhoo, I later had an "AHA" moment---the timing of the problem matches up the me putting the fan in the garage--and I turned off the fan.   The garage door remotes now work fine, at extended range.
+Does the Vornado fan use radio frequency to determine temperature in the room?  I don't know, but I doubt it.  Vornado has patented technology that I don't have the inclination to research.  They do, however, use thermistor technology (basically, an electrical resistor that measures temperature fluctuations in an electric circuit) but how that intereferes with radio frequencies is beyond me.   All this being said, I still love this fan.

@@ -1,0 +1,11 @@
+ID: B002BV353U-R1QTL1SIEDJCC9-A2P5JFDZ2BLKDS
+Category: Laptops
+Product: CompuLab-fit-PC2-Windows-CyberLink-codecs
+ReviewerID: A2P5JFDZ2BLKDS
+ReviewerName: Joseph M. Zawodny
+Date: November 28, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Works great in my observatory
+Content:
+I bought this by pre-ordering directly from CompuLab and have been very pleased with its performance. I cloned the original 160GB 5400RPM drive with XP initially to a 320GB WD Scorpion Black (7200RPM) and cut the boot time to right around 30 seconds. I later went with a 30GB Vertex SSD since I was going to be in a more extreme environment (outdoors 24/7). The unit boots in 23 seconds from the SSD. I/O with the SSD is blazingly fast for an Atom-based system. In the observatory, I use this PC to run the mount, filter wheel, camera, and an autoguider along with Cartes du Ceil. The unit handles those concurrent jobs admirably and is completely silent. This tiny little unit tucks away into the mount very neatly and allows me to keep the cable runs very short. I too wish the USB ports on the front were full sized, but cables are available for those. I also wish the SD card slot was either full sized or micro sized - while micro cards do work with the Fit-PC2 you need a hard-to-find mini-SD adapter to use the micro cards (fast/large mini-cards are rare). I have found the unit to be very reliable and am thinking about buying another (diskless version).

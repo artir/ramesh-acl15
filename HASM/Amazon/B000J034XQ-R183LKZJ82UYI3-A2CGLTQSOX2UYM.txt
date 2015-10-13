@@ -1,0 +1,12 @@
+ID: B000J034XQ-R183LKZJ82UYI3-A2CGLTQSOX2UYM
+Category: CoffeeMachines
+Product: 12cup-Coffee-Maker-White
+ReviewerID: A2CGLTQSOX2UYM
+ReviewerName: V. Levy
+Date: February 12, 2008
+Helpful: 4 of 5
+Rating: 3.0
+Title: Good coffee, bad clock
+Content:
+We purchased this coffee maker for our office based on many positive Amazon reviews (now unavailable). It brews excellent coffee, looks good, and pours well. 
+However, the clock continually resets itself -- it can't keep time for more than a couple of hours before resetting to 12 PM and counting from there. Since the clock is unreliable, the programmed-brewing feature cannot be used. And having the wrong time continually displayed (in very bright LEDs) in an office environment can only reflect poorly on the business. So we will most likely be looking for another model.

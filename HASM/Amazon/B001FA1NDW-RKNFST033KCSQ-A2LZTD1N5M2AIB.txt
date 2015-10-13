@@ -1,0 +1,11 @@
+ID: B001FA1NDW-RKNFST033KCSQ-A2LZTD1N5M2AIB
+Category: MP3Players
+Product: Apple-Orange-Generation-Previous-Model
+ReviewerID: A2LZTD1N5M2AIB
+ReviewerName: bearandbu "bearandbu"
+Date: October 9, 2008
+Helpful: 2 of 3
+Rating: 3.0
+Title: Irritating mechanical design flaw
+Content:
+The new iPod Nano is an impressive little device --- excellent playback, light weight, balanced, and has a few fun features like Genius that previous generations lacked.  But here's my beef: I cannot charge my Nano and play music at the same time in my car.  Why, you ask?  The head of the 1/8" phono plug that connects to my head unit is greater than 1/4" diameter and will not fit into the base of the Nano when the iPod docking cable is inserted. I've got to find an adapter or rewire my car a bit. Why would Apple put the phono receptacle on the BOTTOM of the Nano anyway? There seems to be plenty of room on top.

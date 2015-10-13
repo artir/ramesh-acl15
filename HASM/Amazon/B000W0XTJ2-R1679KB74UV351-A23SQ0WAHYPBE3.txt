@@ -1,0 +1,11 @@
+ID: B000W0XTJ2-R1679KB74UV351-A23SQ0WAHYPBE3
+Category: Laptops
+Product: Pavilion-TX1320US-Entertainment-Notebook-Processor
+ReviewerID: A23SQ0WAHYPBE3
+ReviewerName: R. Eavis
+Date: January 15, 2009
+Helpful: 2 of 2
+Rating: 1.0
+Title: Big Problems with Wireless in HP Pavilion Notebooks
+Content:
+I bought a HP Pavilion Tx notebook and the Wireless Card vanished after about 13 months, just out of warranty.  I looked on the HP forum pages and there are loads of other people with the same problem. It seems that the motherboard also fails on a lot of units.  Type "hp pavilion wifi vanished" into Google and see the HP Forums and PCMech review if you don't believe me.  Do not buy this product.  The screen also went wrong and I had to send it back to HP to get it repaired but luckily that was still under warranty.

@@ -1,0 +1,12 @@
+ID: B0006DNMZG-R1XD54DUE3Z9IM-A1R53QTCZ6OI0V
+Category: SpaceHeaters
+Product: Honeywell-HZ-2200-Tower-Surround-Heater
+ReviewerID: A1R53QTCZ6OI0V
+ReviewerName: David Gausebeck
+Date: February 26, 2009
+Helpful: 
+Rating: 3.0
+Title: No 180 degree option
+Content:
+The description states that the heater has the option of 360 or 180 degree heat.  Apparently they've changed the heater to no longer have that option -- it's always 360 degree heat now.
+The manual says nothing about a front-only heating option, and there's no control for it on the heater.  Compared to the amazon image, the heater I received is missing the little tab sticking up in back, and there's a rectangle on the back of the unit that looks like it might have been a space for a switch, but now it's just filled with a block of plastic.

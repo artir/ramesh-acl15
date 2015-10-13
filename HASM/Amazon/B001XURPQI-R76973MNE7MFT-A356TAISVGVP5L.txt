@@ -1,0 +1,19 @@
+ID: B001XURPQI-R76973MNE7MFT-A356TAISVGVP5L
+Category: DigitalSLRs
+Product: Canon-T1i-Digital-Body-Only
+ReviewerID: A356TAISVGVP5L
+ReviewerName: Kalendae
+Date: May 13, 2009
+Helpful: 64 of 68
+Rating: 5.0
+Title: Real reasons for getting this over the Nikon D5000
+Content:
+If you are upgrading and already own Canon or Nikon lenses, you should stick with your brand, the differences between these two cameras should not be enough to cause you to switch, otherwise read on.
+First I will list the commonly wrong reasons to pick one over the other:
+1) Image Quality - Not because image quality is not important, but because the image quality difference between these two cameras is too minimal to have it be a reason.  They are essentially equally great with respect to image quality.
+2) Megapixel Count - 15 megapixels is indeed qualitatively better than 6 megapixels, but 15mp (t1i) and 12mp (5000D) from similar sized sensors is again not much real difference.  There are point and shoots with higher megapixel counts on tiny ccd sensors, doesn't mean they are better.  Again, image quality of the d5000 and t1i are both great and is no reason to pick one over the other.
+3) 1080p video - The t1i has it at 20fps, the d5000 doesn't have it at all.  But the 20 fps on the t1i renders this essentially pointless.  The human eye needs about 24fps for the illusion of smooth continuity.  If you will be using video, you can consider both 720p.  
+Now for what I believe are valid but minor reasons to pick one over the other:
+1) LCD difference:  canon's is almost double the resolution and bigger, nikon's can swivel out.  I prefer the higher res and bigger size to the swivel.  The higher res is very important as you will be able to tell if a shot had problems that you couldn't at lower res.  This is really an important factor that is hard to emphasize in words but makes a huge difference once you see it.  
+2) movie mode differences:  nikon d5000 is fully manual here including for the focus.  the canon is fully auto here including a pretty slow and disruptive auto focus.  For an SLR you WANT manual control, especially of aperture so you can control the depth of field to make videos that are less home video looking and more 'artsy'.  If you wanted full auto, get a point and shoot that does video.  Fortunately for canon, there are workarounds to be able to control aperture, but they are a hassle.  But my opinion is to get the Canon based on the auto focus.  It is not really useable during movie capture (loud slow and disruptive), but you can atleast use it before hand to get focus.  It brings quite a bit of convenience.  And you can look on the web for hack ways to manually control the aperture.  The Canon is also 30fps at 720p compared to 24fps at 720p for the nikon.  You can get a 25% slow motion effect with the canon without going under 24fps, where as with the nikon doing any slow motion will mean choppy frames (under 24fps).
+Everything else I feel comes down to personal factors like form factor, feel in hand etc.

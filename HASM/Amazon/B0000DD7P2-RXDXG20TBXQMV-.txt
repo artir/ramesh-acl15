@@ -1,0 +1,11 @@
+ID: B0000DD7P2-RXDXG20TBXQMV-
+Category: MP3Players
+Product: Creative-Labs-Digital-Audio-Player
+ReviewerID: 
+ReviewerName: 
+Date: March 4, 2004
+Helpful: 3 of 4
+Rating: 2.0
+Title: Great capacity, decent interface, horrible software
+Content:
+My experience with the Creative Zen mp3 players has been mixed. As for physical size, they are rather bulky when compared to other mp3 players like the iPod, or my favorite, the Dell Jukebox. The Zen's have a removable case, which is nice to switch the battery, but makes for a loose construction. Also, while the Zen's can have up to an amazing 60GB of space, the controls on the player are uncomfortable. The actual interface is pretty good and intuitive, but the small toggle switch on the side is painful after awhile and hard to manage for bigger hands. The software that comes with the player is absolutely worthless. I had multiple problems getting the player's drivers to work with the included software and with windows media player. The best bet would be to get Notmad Explorer from Red Chair Software. Also, I have heard issues about the player not recognizing some tags. All in all, if you need alot of capacity, this is a good player. Otherwise, stick to something more solid and compact with good software.

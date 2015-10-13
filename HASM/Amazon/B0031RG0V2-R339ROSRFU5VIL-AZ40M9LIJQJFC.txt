@@ -1,0 +1,19 @@
+ID: B0031RG0V2-R339ROSRFU5VIL-AZ40M9LIJQJFC
+Category: Laptops
+Product: Gateway-EC1456u-11-6-Inch-Display-Laptop
+ReviewerID: AZ40M9LIJQJFC
+ReviewerName: Brian Carnell
+Date: April 3, 2010
+Helpful: 3 of 3
+Rating: 4.0
+Title: Nice compromise between netbook and full-blown laptop
+Content:
+Although it is not perfect, for the $600 price tag, the Gateway EC1456u is a nice step up from a netbook while still keeping the weight and size in ultraportable land.
+Pros: the 500gb hard drive and fast processor mean fewer compromises. I have 80gb of files I need access to in my Dropbox and it was nice to watch that all transfer without having to worry about filling up the hard drive.
+This machine is also relatively fast, given the weight and relative lack of excess heat even when going full bore. I read on some sites that running games on the integrated Intel graphics was iffy at best. I installed my addiction of the moment - World of Warcraft - and was able to get 15-20 FPS in populated areas like Dalaran and 20-30 FPS in non-city areas at full-screen resolution. Ramped the graphic back a bit to 1024x768 and I was hitting 40 FPS. Tried a bunch of lower end games off Steam like Torchlight, and they ran fine too at more-than-acceptable frame rates.
+Cons:
+- the keyboard is not nearly as good as other reviews would lead you to believe. I can touch type at 150wpm and the keyboard took some getting used to. Yes it is full-size, but the keys are completely flat which makes it hard to tell at times which key you're pressing -- slightly smaller keys or even a chiclet style keyboard as on some of the Toshiba netbooks would have worked much better.
+- as in most small notebooks/netbooks, the trackpad and buttons are crap. I just turn them off and use a wireless mouse instead, though, so I assumed that going in.
+- I really couldn't care less about this, but if you do be warned -- the case is fingerprint smudge city.
+Overall:
+I am extremely happy with this laptop. It really fits the bill as an ultraportable laptop that is a lot more powerful and fully equipped than a netbook, but still in the 3 pound take-it-anywhere weight range.

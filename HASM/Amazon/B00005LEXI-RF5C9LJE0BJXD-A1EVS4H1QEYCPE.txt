@@ -1,0 +1,11 @@
+ID: B00005LEXI-RF5C9LJE0BJXD-A1EVS4H1QEYCPE
+Category: SpaceHeaters
+Product: Mr-Heater-MRHF273400-Buddy-Portable
+ReviewerID: A1EVS4H1QEYCPE
+ReviewerName: M. Hiltabidel "Tekkie"
+Date: November 30, 2005
+Helpful: 124 of 128
+Rating: 5.0
+Title: The purpose of the fuel filter....
+Content:
+Once and for all, here is the purpose of fuel filter for this heater. When you use this heater with a remote tank & rubber hose, it is imperative that you always shut the tank off first & let the heater run until it burns off all the fuel in the lines. YOU MUST DO THIS EVERY TIME. If you simply turn the heater knob to the off position, what you are doing is trapping 100 PSI of propane in the rubber hose. When high pressure propane just sits in your rubber hose, it literally causes the rubber to leetch a light oil that is part of the chemical composition of the rubber. If this oil forms and you have the filter on the heater, the filter will catch it and seperate it from the gas. If you do not have the filter, the oil will quickly work its way into the heater & destroy both the regulator & control valve. The heater can be repaired, but these two components will need to be replaced.

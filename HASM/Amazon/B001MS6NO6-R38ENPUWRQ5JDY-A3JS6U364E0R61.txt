@@ -1,0 +1,31 @@
+ID: B001MS6NO6-R38ENPUWRQ5JDY-A3JS6U364E0R61
+Category: Laptops
+Product: Sony-VAIO-VGN-FW373J-16-4-Inch-Laptop
+ReviewerID: A3JS6U364E0R61
+ReviewerName: C. Pollock
+Date: October 5, 2009
+Helpful: 
+Rating: 3.0
+Title: Good for Casual Users, bad for Technical Users
+Content:
+I won't repeat specifications - they're all listed and as advertised and as others have reviewed.
+On the plus side: 
+ * Good specifications and nice design for the price. Effectively a Mac package for a lower price.
+ * Windows 7 (beta) installed  and ran well - without even having to reload all the special Sony drivers.
+ * The keyboard has a good feel and is suitable for fast, efficient, comfortable typing.
+ * Has firewire. Yes, this is in the specs, but while most laptops used to have this, they don't all nowadays.
+and this came in handy when downloading some video from a Sony DV camcorder.
+On the negative side: 
+* While the P8600 cpu has VT / hardware virtualization Sony has disabled it - astonishing as it sounds. 
+VT isn't needed for consumer use, but it is needed for certain technical uses (such as the improved virtual machine software use or the special XP mode emulation available in Windows 7)
+It seems to be the case that Sony did that in order to secure a lower price for the hardware. You canNOT re-enable it by BIOS. I've found a site that claims to have a hack / firmware workaround - but i haven't tested it yet.
+* You canNOT use both the HDMI and VGA outputs at the same time. I chose the Sony in the hope that I could attach two external monitors (while disabling the on-screen monitor - I've never seen on-board + two externals) My previous Acer could do this trick which is great when using the laptop in desktop mode. Like the Acer, this Sony has ATI video and AMI BIOS. and the ATI Radeon is certainly capable of two externals. Again Sony seems to have disabled this (or not gone to the trouble of wiring it correctly) I first realized this when I saw (in person) that the VGA and HDMI ports are so close
+that you can't fit both simultaneously. I hack-sawed the VGA connector so they would both fit, but the BIOS still doesn't allow it.
+* There are just 3 USB ports (I knew this when I bought it, but it is still irritating) and they badly positioned. All three are
+together towards the front right and they're too close (Some combinations of USB connectors will not fit side by side) . Two on either side is a minimum these days. 
+* No E-SATA ( yes that's listed, but also still irritating)
+* The memory stick reader does not accept my camera's XD memory cards (no problem with SD and the others listed)
+* I sometimes use the on-board keyboard even though I connect an external one, but the computer does not maintain a separate num-lock state for each. The external is always on numlock so whenever i press U,I,O, etc on the on-board they come out as numbers. Actually, most laptops do this, but i did have a one before which kept them separate.
+There's plenty of room on the laptop for Sony to have added a numeric keypad (even while leaving the well spaced main keyboard) but they chose not to.
+* Despite the specifications, it's no screamer nor major improvement over my previous Core duo T2500 from several years ago. Though I suppose it's the same as any currently, similarly spec'ed machine and there's probably not many dramatically faster laptops available at this time.
+While they make fine 'consumer' user laptops, as a technical user I would try to avoid a Sony in the future and would look harder at the Acer and ASUS line-ups.

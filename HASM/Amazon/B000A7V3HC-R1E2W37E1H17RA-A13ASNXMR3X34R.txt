@@ -1,0 +1,16 @@
+ID: B000A7V3HC-R1E2W37E1H17RA-A13ASNXMR3X34R
+Category: CanisterVacuums
+Product: Miele-S4780-Galaxy-Canister-Vacuum
+ReviewerID: A13ASNXMR3X34R
+ReviewerName: Trogdor "burninating the countryside"
+Date: July 19, 2009
+Helpful: 1 of 1
+Rating: 3.0
+Title: Battery compartment broke, RF interference causing loss of suction
+Content:
+Initially, this vacuum worked better than any I have ever owned.  Eventually I had to replace the remote controls battery and we broke the battery compartment like several other posters.
+A piece of duct tape keeps the battery compartment in place. 
+Then the remote stopped working entirely.  We had to use the vacuum in manual mode by pressing the reset button.  It would work for a few seconds and then lose suction, dropping to its minimum suction, similar to other posters.
+Finally, I diagnosed the cause of the broken remote and loss of suction - it is due to radio frequency interference from other devices in my house.  Specifically, when my baby monitor is transmitting, the remote for my Miele not only does not work ,but the signal from the baby transmitter commands the vacuum to go to minimum suction.  It also sometimes turns it on and off.
+It is a shame that such a mechanically awesome vacuum is ruined by a cheapo remote control, especially when the remote control is not even needed.  
+The next model of this vacuum had better upgrade the electronics to be more resistant to RF interference.

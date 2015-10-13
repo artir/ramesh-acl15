@@ -1,0 +1,13 @@
+ID: B001NEK30E-R2AHF4AP4YWYY3-A83VCRHTZE6NN
+Category: Laptops
+Product: Toshiba-Satellite-A355-S6940-16-0-Inch-Laptop
+ReviewerID: A83VCRHTZE6NN
+ReviewerName: D. Grantham "HiTechToys"
+Date: April 8, 2009
+Helpful: 9 of 12
+Rating: 1.0
+Title: Toshiba laptop blue screened immediately
+Content:
+I design electronic test systems using PC's for controllers and am very familiar with PC operation. This system had trouble out of the box and I feel Toshiba's warranty policy isa terrible.
+I powered on this laptop and, of course, it immediately asked me to update it 's operating system (Windows Vista Home Premium 64bit).  I started the update process and then it asked me to reboot. I got the blue screen of death for the next 6 times I tried to boot it up (even after powering it down and removing the battery for 5 minutes).  Finally (after leaving the battery out over night) it booted back into Vista and I then began to load Toshiba updates.  Over the next week, it blue screened 2 more times upon rebooting.  Then one day it would not power on.  I called Toshiba support and after 5 minutes of troubleshooting, they said to return it but it would be two weeks before ti would ship back to me.  Luckily it was within 30 days of purchase so I was able to return it to Amazon for full refund (I have always been pleased with Amazon's return policy.)  After returning it, I found on several websites where other people with the same laptop were having the same blue screens after starting their updates and Toshiba would just tell them to return their PC's.  
+Toshiba's tech support was very lacking.  The tech did very little to troubleshoot the dead PC.  I have normally purchased HP and Dell laptops and have found Dell's support to be the best.  So I purchased 2 more Dell STudio laptops and am very pleased with them.

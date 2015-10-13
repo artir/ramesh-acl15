@@ -1,0 +1,24 @@
+ID: B002BH4QTQ-RHCUA1FUMI48H-APZBA4HPJ5M59
+Category: Laptops
+Product: Pavilion-DV6-1260SE-15-6-Inch-Entertainment-Laptop
+ReviewerID: APZBA4HPJ5M59
+ReviewerName: Zachary Harvey
+Date: September 5, 2009
+Helpful: 5 of 5
+Rating: 5.0
+Title: The best notebook available in the price range with very few flaws
+Content:
+I received this notebook the morning after I ordered it from Amazon.  With Amazon prime shipping it only cost $6.99 for overnight Saturday shipping, which is well less than what other companies charge for the same service.  As of the time of me writing this review the HP dv6-1260se cost $799.99.  I have been researching notebooks for the past two months and I have looked at everything in the 15'' inch multimedia/light gaming laptop family.  I looked hard at the Dell Studio XPS 16 but was turned off because I read it had overheating issues; I looked at the Asus G50vt family but was turned off by battery life; I even purchased a Dell Studio 1555 but had to return it because it was overheating.  The only model that I found that was as good as this one that I found was the Compal KHLB2 (aka the Force KHBL2 or Sager 2098).  That model cost about $1000 and had virtually the exact same specifications as the HP dv6-1260se.
+Some of the highlights of this laptop that I have found are,
+Processor: Coming recently from my Dell Studio 1555 with an Intel Core 2 Duo P8600 I can safely say that for all intents and purposes, the AMD Turion X2 Ultra ZM-85 is just as good.  I haven't noticed any difference while doing normal things like web surfing and typing documents.  I was also wary of buying an AMD processor because I had heard that they have overheating problems in notebooks.  Doing normal tasks, I can safely say that this isn't true for this model.
+Graphics Card: For the $700-800 price range the ATI Mobility Radeon HD 4650 is one of the best cards out there.  It can handle every game currently on the market at low settings at worst and most games run fluently at medium to high settings.  
+Build Quality: Once again, compared to the Dell Studio 1555, this notebook compares more than favorably.  The Dell creaked and flexed a lot when it was being moved around and the hinges connecting the screen seemed weak.  The HP has very little flex throughout the whole laptop, it does have a little by the optical drive, and the hinges are top-notch.
+Keyboard: I absolutely love the keyboard.  It is very responsive and, to me, it just fits my hands perfectly.  Even with the number pad the keyboard does not feel crapped at all.  
+Battery: I haven't had time to calibrate the battery properly or test it yet but right now it seems like I will be fine with it.  While typing this review, installing updates for Vista, and installing/uninstalling programs and with the screen at 50% brightness I currently have 80% remaining after being on for nearly an hour.  I can estimate that, once calibrated, the 12-cell battery will get ~4 hours of battery life, which is fantastic for a notebook with this much power.
+Pre-installed software: I usually hate bloatware but the software shipping with the dv6-1260se is actually useful.  I have already had fun playing around with the photo editing software and the video and music editing software looks promising.  HP also ships it with a few useful tools like the MediaSmart program.
+Ports: This laptop has a fantastic selection of ports.
+But, even though I like most of the things about this laptop there are a couple things that I don't.
+Touchpad: Don't get me wrong, the touchpad is responsive and works great but it is a fingerprint magnet.  After a while, though, there are so many fingerprints on it that you don't notice they are there at all.  You can also turn off the touchpad with the touch of a button right above it and use an external mouse.
+Artist Edition theme: I wanted to try it out when I set up the computer but soon realized that I did not like it.  I could not figure out how to change my theme to the regular Vista theme, however, so I had to contact HP.  I waited on hold for about 30/45 minutes of the call and it was obvious the operator had no idea what he was doing.  After 45 minutes he hung up on me.  I eventually figured out how to do it myself but still.  
+Overall, I am very happy with my purchase so far.  With the $50 rebate this laptop cost me $756 with Saturday shipping and I can safely say that is the best deal anyone will find on a laptop this powerful.  If anyone has any questions just comment and ask.
+-Zach

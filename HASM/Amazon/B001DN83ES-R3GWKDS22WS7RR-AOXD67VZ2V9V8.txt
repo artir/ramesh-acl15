@@ -1,0 +1,11 @@
+ID: B001DN83ES-R3GWKDS22WS7RR-AOXD67VZ2V9V8
+Category: Laptops
+Product: Dell-Studio-1545-Midnight-Blue
+ReviewerID: AOXD67VZ2V9V8
+ReviewerName: S. Lazo "Book Fan"
+Date: November 1, 2008
+Helpful: 10 of 14
+Rating: 1.0
+Title: USB Printer Issues - Customer as Test Pilot
+Content:
+Twenty hours over two weeks with Dell support and others and the computer (Studio 15 1536) is on its way back to Dell.  New HP printer would not print via USB, HP and Dell could not solve the issue.  Bought a Dell printer upon recommendation from Dell.  This printer would not print from USB, even after hours of remote support from Dell.  In the eleventh hour, Dell wanted one more try after Dell assisted in removing all biz software and files prior to return (F8 option to restore to factory image not available).  I appreciate it - but I am not getting paid to debug Dell's computers.  Indeed, I paid for a computer that worked, i.e., could print.  If a Dell computer cannot print as shipped, then don't ship it.  If the problem is a known problem, then let the consumer know immediately - not after numerous phone calls, disconnects, purchases of new Dell equipment, software upgrades, etc.  Dell should not use its customer base as test pilots.  While I have bought numerous Dell computers (at least 4), I cannot continue given this experience of their "test pilot" policy.

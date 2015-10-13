@@ -1,0 +1,15 @@
+ID: B0029QTJ1O-ROC2VMGDLZ36E-AVVVZ4JZSD10F
+Category: Laptops
+Product: Sony-VAIO-VGN-FW460J-Bluetooth-Widescreen
+ReviewerID: AVVVZ4JZSD10F
+ReviewerName: Jeff G. Brock
+Date: July 22, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Almost perfect
+Content:
+I have been using this as my primary laptop for about two weeks now and I am very pleased.
+Without going into detail about the technical specifications, suffice it to say the graphics are excellent, the display is sharp, the computer is quite fast.
+I was a little apprehensive about the size, it is longer than most..almost 15 inches.  But it is not heavy.
+One bad point is that the built in wifi is the Intel 5100 A/G/N.  If you are hoping that this means it will connect at N speeds to your N router..forget it.  This card is N in name only and will connect at G speeds max.  While a new driver, released after I bought the computer, has made the wifi connection more stable (at work, it would disconnect every 10 minutes or so) it does not make it faster.  No combination of adapter or router settings is going to make this connect faster.  54Mbs is the best you will get.  I am annoyed at this since I have a linksys router and access point at home.  Both N.  Looks like I am going to have to buy a USB or expresscard adapter to get N speed.  Which raises another small point; no PCMCIA card slot.  Expresscard only.  
+The power on button is on the end of the hinge and glows orange and slowly blinks when the computer is off.  Looks cool, but definitely don't leave it in the bedroom if you are the "oh my god what the hell is that!" in the middle of the night sort

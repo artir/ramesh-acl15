@@ -1,0 +1,30 @@
+ID: B001GCTT7G-R3TX7NFJGWZVDO-AC4OVOLC9P2FJ
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: AC4OVOLC9P2FJ
+ReviewerName: Leetsauce
+Date: October 27, 2008
+Helpful: 15 of 19
+Rating: 3.0
+Title: Sleek appearance, but has room for improvement; loss of some basic features
+Content:
+For my review I am going to organize this into positive and negative aspects of this new model based on my experience with both the old and new models, as well as a general understanding of what is available at this price point from PC manufactures (Dell, Sony, HP):
+Pros:
+1. LED screen, brighter, better battery life, better for the environment (no mercury).
+2. 1066MHz frontside bus.
+3. ~8x Better graphics performance than previous model.
+4. Easy access to hard drive.
+5. Half-pound lighter than previous model.
+Cons:
+1. No Firewire port. This means no target disk mode, or using minidv decks/cameras which require firewire. I feel this is a poor decision on Apple's part. This makes two of my hard drives useless without an adapter of some kind. One FW800 port would have been nice, and from an engineering point of view, they could have fit it in there.
+3. No HDMI port (yet to see this on a mac).
+4. No eSATA port (yet to see this on a mac).
+5. 5400 rpm hard drive. Better HDD performance requires $700 SSD upgrade on Apple's site. 7200rpm drive is something a tech savvy user can install themselves, though.
+6. Price. Base model is $1299.
+7. $1299 model does not have backlit keyboard. $800 Dell laptops have this.
+8. Display appears to have poorer contrast and viewing angles than previous model, even when using a Spyder calibration device. Also display is only available in glossy which some consumers do not like.
+Other points consumers should be aware of:
+1. Aluminum body; better displacement of heat than previous model, but body may dent easier.
+2. Button-less trackpad, people will have to retrain their muscle memory, but is rather easy to get used to.
+3. Display port replaces mini DVI port, but at least they have new adapters to DVI and VGA.
+Overall: I am generally neutral on this redesign. Very pleased with graphics upgrade, but equally disappointed by lack of ports, poor LCD display, and glossy only option. Bottom line, I can get a Dell Latitude for $800 with eSATA and Firewire--but, of course, it can't run Mac OSX.

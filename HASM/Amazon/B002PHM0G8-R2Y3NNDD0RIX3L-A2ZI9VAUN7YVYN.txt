@@ -1,0 +1,24 @@
+ID: B002PHM0G8-R2Y3NNDD0RIX3L-A2ZI9VAUN7YVYN
+Category: Laptops
+Product: Sony-VGN-FW510F-16-4-Inch-Windows-Premium
+ReviewerID: A2ZI9VAUN7YVYN
+ReviewerName: D. Wong
+Date: December 28, 2009
+Helpful: 12 of 13
+Rating: 4.0
+Title: Great other than sub-par LCD
+Content:
+Pros: 
+Good specs for a mid-grade notebook
+Comforable & quiet keyboard
+Upward facing speakers
+HDMI output
+Aesthetically pleasing
+Cons:
+LCD is dark even at full brightness
+Fan comes on intermitently every 4-5 mins
+Heavy (6.9 pounds)
+Low battery life (~2.5hrs on light usage)
+Review:
+I bought this at Bestbuy the weekend of Black Friday ($649.99). It's rare to find a mid-grade notebook that has dedicated graphics, 4GB RAM, 500GB HDD, GigE & 802.11n connectivity, and a 1600x900 display. Even at MSRP, the specs are pretty good for the price. The keyboard is very quiet and comfortable to type on. The touchpad is a decent size but the 2 buttons are hard to click (I generally use the touchpad tap gestures). The max volume on the speakers are pretty good and they actually face up. Many lower end notebooks have them facing down going away from your ear and also gets muffled if you put it on your bed. The HDMI is great for connecting to an external display. Unfortunately, the integrated glossy 1600x900 xbrite-eco display looks pretty bad. Even on max brightness, the LCD is not very bright. The viewing angles are bad. Normal sized text is hard to read unless you're looking at the LCD straight-on. This is my first experience with extended usage on a Sony xbrite-eco display and I'm a bit disappointed. I haven't used a TN-panel in 3 years, so I am a bit spoiled on monitors. I'm also very conscious of computer noise. The fan comes on and off frequently and cannot be controlled by 3rd party software (This is true of all Sony Vaios). I checked this out using HWMonitor. The PC idles around 50C. When the CPU gets stressed to 59C, the fan starts spinning and cooling the CPU down until 51C, then stops. This is a regular pattern that occurs maybe every 4-5 mins, but on the other hand, many notebook cooling systems are the same way. The good thing is this never becomes one of those lap-scorchers. This thing is quite heavy at 6.9 pounds. The big LCD and dedicated graphics add weight and also trim down the 4400mAH battery's life. I get 2.5hrs on light usage. I think this could have used a bigger battery, but I think Sony didn't want to have to market a 7 pound+ computer. There is still pre-installed garbage software that you'll want to uninstall but it's not as bad as it used to be. This is currently my main computer and I usually have it "docked" to my external S-IPS Dell monitor, external keyboard/mouse, and constantly charged, so I don't feel the effect of the dull LCD, weight, or battery life. 
+Overall, I still really like the computer. To get similar specs elsewhere, you'd have to spend $1000+. It looks very sleek and has the Sony "Vaio" branding if you're into that. With a 16"+ laptop, weight and lowered battery life are a given. The hardware is very good other than the LCD and the cooling sytem is a little bit below average in my opinion. I'd say if this looks good on paper to you, head down to a brick and mortar to check out the LCD brightness, viewing angles, and weight before making your decision.

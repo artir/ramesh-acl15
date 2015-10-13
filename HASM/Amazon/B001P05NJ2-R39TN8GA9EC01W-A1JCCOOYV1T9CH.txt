@@ -1,0 +1,15 @@
+ID: B001P05NJ2-R39TN8GA9EC01W-A1JCCOOYV1T9CH
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: A1JCCOOYV1T9CH
+ReviewerName: Michael Kurose
+Date: December 23, 2008
+Helpful: 1 of 1
+Rating: 4.0
+Title: Apple rocks!
+Content:
+Beautiful machine. Easy to set up and use. Really fast performance.
+The glossy monitor's glare could be an issue depending on the lighting, but it doesn't bother me. Keys are a little stiffer than previous models, but easy to adjust to.
+It would be nice if Apple included the VGA/DVI cables with the MacBook Pro.
+[...]
+[...]

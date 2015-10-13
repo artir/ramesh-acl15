@@ -1,0 +1,13 @@
+ID: B002PAQXCW-R2FA3O6OC29TGW-A2DS2A5BJL4TJQ
+Category: Laptops
+Product: ASUS-G51J-A1-15-6-Inch-Gaming-Laptop
+ReviewerID: A2DS2A5BJL4TJQ
+ReviewerName: Hyperworld dotbiz
+Date: April 22, 2010
+Helpful: 
+Rating: 1.0
+Title: Missed Potential
+Content:
+This is my first Asus purchase, and was very excited waiting for the box to arrive in the mail. At first the wireless did not work, so I was hoping I would not have to send it back for repair or exchange. Turned out the wireless button was turned off. So I was very relieved that was taken care of. Next issue was it was saying that the copy of Windows was not geniune. No big deal, taking a minute to activate should solve that issue also. Instead when I go to activate I get a warning message from Microsoft saying that I am a victim of software piracy, and that my copy of Windows is counterfeit! I called Asus technical support, and they recommended doing a restore from the partition. Long shot, and did not work. After 3 calls to Asus, it is obvious they are just giving me the runaround, and were not surprised in the least that I had a counterfeit copy of Windows installed.
+Other than that you are paying for a legit copy of Windows, there is not much else to fault on the laptop. I tried running a bunch of graphically taxing games such as Crysis, Modern Warfare 2, Burnout, and Dirt 2 and all played smoothly. For the price I would have liked to see a fingerprint scanner included. I wanted to use this computer for small business use along with gaming, but the lack of RAID will keep me from keeping any critical files on the hard drives.
+I have multiple copies of Windows laying around. Everything from Windows 95 to Windows 7 server, so I can install a valid copy of Windows pretty easily, but I feel screwed since I did pay for a copy to be included with the laptop. Asus would probably fix the issue, if I mail it back to them at my cost. I do not feel I should have to do this, but rather they should have to mail me a real copy of Windows. This issue may be rare, but I think it illustrates that they are not strong in customer support. A quick search online reveals I am far from the only one who has been let down by their tech department. I have never owned a Sager laptop, but after being burned by Dell and Gateway in the past, I think I am going to avoid the big name brands, and give the little guy a chance. Can't be any worse!

@@ -1,0 +1,14 @@
+ID: B001A46OHI-R24SCKBAZZ6GDM-AO77RUJ5TAPKJ
+Category: SpaceHeaters
+Product: Holmes-HFH416-UM-Swirl-Grill-Heater
+ReviewerID: AO77RUJ5TAPKJ
+ReviewerName: Jonathan Kreegar "Kreegs"
+Date: February 23, 2008
+Helpful: 5 of 5
+Rating: 1.0
+Title: Decent heater but thermometer doesn't work
+Content:
+This is a decent heater if you don't care about the thermometer feature.
+I'm on my 2nd unit after returning the first one and neither could make use of the thermometer feature.
+The first one would never turn on when set by temp.  The second one would only turn on when set to 80F (room is under 70F) but would always turn back off after a minute or two.  The only guess I have is that the thermometer takes the temp inside the heater, which rises a lot faster than the room temperature.  Although that doesn't explain why it doesn't turn on if set to 75F.
+I wanted the unit to use in the bedroom to keep my from freezing while I slept.  Leaving it on all night makes the room too hot so this unit is useless without a working temp feature.

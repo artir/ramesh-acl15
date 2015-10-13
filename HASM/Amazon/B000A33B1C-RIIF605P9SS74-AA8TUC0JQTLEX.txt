@@ -1,0 +1,25 @@
+ID: B000A33B1C-RIIF605P9SS74-AA8TUC0JQTLEX
+Category: SpaceHeaters
+Product: Delonghi-TRD0715T-Safe-Oil-Filled-Radiator
+ReviewerID: AA8TUC0JQTLEX
+ReviewerName: William Davison
+Date: December 2, 2006
+Helpful: 330 of 339
+Rating: 3.0
+Title: Some actual performance measurements
+Content:
+Just bought this, still deciding whether to keep it.  Ran a little experiment, thought it might give folks an idea of what to expect.
+Room size: 154SF  (11x14)
+Finished, unheated basement room, with one insulated external wall, the rest uninsulated interior walls.  No windows, door closed.
+Outside temp: 15F
+Put heater in center of room
+Put thermometer on a desk 6 feet away
+Started at 10:20AM with a cold heater set on high, measured for 5 hours
+10:20AM 49.6F
+11:20AM 55.9F
+12:20PM 59.9F
+01:20PM 62.6F
+02:20PM 64.4F
+03:20PM 65.8F
+So roughly 2 hours to raise the temp 10F, 4 hours to raise the temp 15F
+Unfortunately, I suspect that none of the competing electric heaters would do significantly better, since they're all limited to 1500W.  Since I'm reluctant to try a fuel-burning heater in an unventilated space, I may stick with this Delonghi and call it good enough.

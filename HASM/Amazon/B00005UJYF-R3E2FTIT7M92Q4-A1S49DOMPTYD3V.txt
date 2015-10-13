@@ -1,0 +1,13 @@
+ID: B00005UJYF-R3E2FTIT7M92Q4-A1S49DOMPTYD3V
+Category: Laptops
+Product: Dell-Latitude-Notebook-650-MHz-Pentium
+ReviewerID: A1S49DOMPTYD3V
+ReviewerName: Clamdigger
+Date: May 26, 2006
+Helpful: 2 of 3
+Rating: 4.0
+Title: Very serviceable, very, very cheap when bought "used"
+Content:
+Price is everything if you're considering one of these older Dell's in 2006... since decent NEW laptops commonly start at only $500 or so. However, at the right price - I paid under $200, including a memory upgrade and a new battery - the Latitude CPx still does everything 99% of adult users will want to do. It's upgradeable to the latest Windoze XP, it will surf the Internet at the highest speeds your coffee shop or hotel connection can provide, and - except maybe for heavy-duty Photoshop CS2 editing - it will effectively run Office or any other serious software you're likely to have.
+The screen is large and sharp. The keyboard is sized for real fingers, not little alien tentacles. If too confining, the single USB port can be finessed with a daisy chain or a USB hub - but how much junk do you lug around all the time, anyway?  Those other maligned ports on the Latitude (a SVGA, a serial, a parallel and a DIN mouse/keyboard) are actually pretty useful if you travel without tons of stuff, relying instead on whatever is in your destination's inventory - mice, external projectors, older printers. It works for me, anyway.
+So what's not to like?  This is the perfect sort of machine to lug around, day-to-day, in places and situations where you might get mugged (say, LA) or crunched (as on a bike.)  Just put in a modern wireless card and hit the road.

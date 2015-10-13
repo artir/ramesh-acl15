@@ -1,0 +1,11 @@
+ID: B002C7458M-R34MDVW4VIYGW0-A1R0LNM873ALSV
+Category: Laptops
+Product: Apple-MacBook-MB985LL-15-4-Inch-Laptop
+ReviewerID: A1R0LNM873ALSV
+ReviewerName: MacInTX
+Date: March 21, 2010
+Helpful: 
+Rating: 5.0
+Title: Great laptop!
+Content:
+I have the non-glossy version of this MacBook Pro. It is one great machine. It is fast and has lots of hard drive space. I use Parallels and Windows XP for the single Windows program I need to run. The MacBook Pro handles it all well. I would recommend this for anyone looking for a powerful laptop.

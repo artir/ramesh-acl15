@@ -1,0 +1,19 @@
+ID: B0007QKMQY-R2FCW11CGH4C5C-A2Q9ORIBPMCZ40
+Category: DigitalSLRs
+Product: Canon-Digital-Rebel-XT-f3-5-5-6
+ReviewerID: A2Q9ORIBPMCZ40
+ReviewerName: Outdoor cook
+Date: April 9, 2005
+Helpful: 36 of 37
+Rating: 4.0
+Title: Digital focus processor needs some tuning....
+Content:
+The circle is now complete: I started with film SLRs about 35 years ago, used them professionally in my job, but for personal use, I had gone to point and shoot film and recently point and shoot digital.  I have not been happy with the sharpness of the point and shoot cameras so I thought it might be time to try the digital SLRs for sharpness and higher resolution. 
+I ordered the silver body Rebel XT camera as I like it better than a faux pro black camera (this is afterall not a pro camera), and black cameras look dirty or dusty all the time. It came rapidly from Amazon.com.  I have had mostly good pictures with this camera, but there are a few things I would add to the other posters.
+Pro: compact, light, fast, good in outdoor daylight.
+Cons: in incandescent light the AWB is only fair. The picture color is better if you set this manually in a manual mode rather than using the AUTO mode.
+Sometimes the autofocus has a tough time figuring out where things are indoors, and sometimes there is severe hunting, with an occasional focus which is way off. You can fool this autofocus in situations where the subject is further back than foreground objects unless you set the focus point ahead of time, which is usually not what you think about on the spot.
+ISO speeds in AUTO mode is 400, and cannot be set higher.  You can set this to 1600 with very little noise in the non-auto modes.  
+Kit lens is a bit soft in my example, despite good reviews.  I got in a Tamron lens (28-75) which seems sharper, but some say this lens has a yellowish cast, which I have not seen yet. One other thing pointed out by the professionals: you have to wait till the buffer has saved the picts to the CF card or they will be lost. So long as the little red led has stopped flashing you are OK.
+Overall I am happy with this camera.  I wish it were a bit more user friendly and intuitive, and there was more control over the ISO and AWB in auto modes.  You can't expect the kit lens to be very good considering the price it is, but I would rather have a better prime lense than a cheap zoom which you have to replace anyway.  Next time round I will just get a body and forget about the kit lens.  For those looking to step up from a point and shoot film camera or a lessor digital, this is the right direction.  I do wonder if I should have got the 20D instead, but for the difference in price, I got my Tamron lens and I am happy I did it this way.  Good luck and happy picture taking to you all...
+Edit 4/10/2005: before doing my 24-75 zoom Tamron lens rebate, I wanted to be absolutely sure there were no front focus issues with this lens in this camera. Some have said the Tamron lens might have a front focus issue, and I spent a lot of time yesterday and today specifically looking for front focus problems, and found none.  I took dozens of pictures indoors and out, with flash and without, and found no consistent problem worth sending the lens or camera back for.  As I said above the focus is sometimes off indoors, probably due to low light, but much more often than not it is good.  Outdoors today I shot some sharp pictures which focussed spot on, and I am pleased with the Tamron len's performance in my Rebel XT.

@@ -1,0 +1,21 @@
+ID: B002UPKYCC-R2J49BOUHJMJ9D-A2MVF3CEV2DZQL
+Category: Laptops
+Product: Hewlett-Packard-Pavilion-18-4-Inch-Laptop
+ReviewerID: A2MVF3CEV2DZQL
+ReviewerName: D. F. Watt "dfwatt"
+Date: January 30, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: big, powerful, fast, loaded with features, but mucho heavy!!
+Content:
+We took the plunge and bought this for the family, despite HP's dismal service record.  So far so good.  It's big (REALLY big), fast and with a good feature set particularly for the money.  Windows 7 appears to be finally relatively debugged for a first release (much better than Vista in that regard).  Lots of OS eye candy, in terms of the Aero features.  If you're looking for a desktop replacement, that's mostly plugged in most of the time, and you need a lot of features and don't mind the weight, this looks like a good PC system for the money.
+Pros:
+1) fast and capable
+2) rich feature set: high-definition screen (1920x1010), Blu-Ray, big 7200 RPM hard drive, full keyboard, several other bells and whistles
+3) Windows 7 appears to be pretty reliable (so far!)
+4) neat fingerprint reader (definitely a gimmick for some, but it makes switching between password-protected users a lot easier)
+Cons:
+1) we did say it was big (honking would be more like it)
+2) poor battery life, at most about 1:45 (not sure why, given that we bought the larger battery which of course adds to the svelteness)
+3) not portable (forget about traveling with this monster)
+4) HP's legendary service (regarded as about as bad as it gets, just about as bad as Dell's)

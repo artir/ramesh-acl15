@@ -1,0 +1,11 @@
+ID: B0027P9BWO-R21E19N998OB9I-A2M6B4SNSEFF0I
+Category: Laptops
+Product: Sony-VAIO-VGN-CS320J-14-1-Inch-Laptop
+ReviewerID: A2M6B4SNSEFF0I
+ReviewerName: Douglas E. Aldridge
+Date: September 28, 2009
+Helpful: 4 of 5
+Rating: 4.0
+Title: Excellent laptop with only one annoying issue.
+Content:
+The screen, webcam, and keyboard are excellent. Most other features are fine and what you would expect. The only annoying issue is the fan management. This issue is easily "googled" where the fan runs almost continuously and at constantly varying speeds. Clearly a fan management software or firmware upgrade is needed but not available from what I can tell. Otherwise, this is an excellent laptop. The "build quality" is very good. If Sony had a fix for the fan I would have given five stars.

@@ -1,0 +1,11 @@
+ID: B002P3KVBI-R2VU645LP4WE5P-A19382YYH42DA5
+Category: Laptops
+Product: Acer-AS1410-2285-11-6-Inch-Windows-Premium
+ReviewerID: A19382YYH42DA5
+ReviewerName: Felix
+Date: November 25, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Real notebook, not netbook
+Content:
+I was struggle for getting a notebook or cheap netbook. This notebook is only 3 lb with full size keyboard and soild built. With win7 preinstall, turn on time is 27 second before install all crazy microsoft auto updates, and 35-40 second after. Even with 2Gb Ram you can still run photoshop. The only problem I is when I use Endnote(for managing reference) cite whil you write function, computor was slow.

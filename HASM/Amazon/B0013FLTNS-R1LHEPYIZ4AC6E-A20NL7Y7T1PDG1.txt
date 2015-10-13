@@ -1,0 +1,21 @@
+ID: B0013FLTNS-R1LHEPYIZ4AC6E-A20NL7Y7T1PDG1
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A20NL7Y7T1PDG1
+ReviewerName: M. Kayan
+Date: January 11, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: A good compromise between portability and power
+Content:
+A current iMac or Mac Pro would have been a faster computer, but the price was right and, for a portable, I'm impressed with the MacBook Pro's capabilities. The most taxing things I use this computer for are World of Warcraft, video chat, and development work using Eclipse.
+Most of the time, I use this in a stationary environment, and have added an Apple (wired) external keyboard and a 2-button Kensington mouse. The laptop touchpad and keyboard are actually not bad to type on, but a full-size keyboard and mouse better suit me.
+Pros:
+- availability of a matte screen (option no longer available on current MacBook pros)
+- discrete video card (GPU) does a better job handling graphics-intense video games.
+- backlit keyboard is a nice bonus, even if you do touch type.
+- 15" widescreen display seems larger than I thought it would be.
+- standard DVI output, not a proprietary plug.
+Cons:
+- if you tax the GPU, you can burn through the battery charge in an hour or two.
+- the bottom of the computer can get very warm, but I believe that's common in laptop form factors.

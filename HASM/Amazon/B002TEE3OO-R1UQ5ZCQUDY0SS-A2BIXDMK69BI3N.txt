@@ -1,0 +1,19 @@
+ID: B002TEE3OO-R1UQ5ZCQUDY0SS-A2BIXDMK69BI3N
+Category: Laptops
+Product: 13-1030NR-13-3-Inch-Magnesium-Windows-Premium
+ReviewerID: A2BIXDMK69BI3N
+ReviewerName: Michael Simpson "Owner of KronosRobotics.com"
+Date: December 2, 2009
+Helpful: 17 of 17
+Rating: 5.0
+Title: Best Laptop I have ever owned
+Content:
+I currently own 5 laptops.  They range from small netbooks and tablet PC's to a 17" HP Entertainment laptop.   As a contractor I used the 17" for all my meetings and it served its purpose well.   The problem is I wanted something smaller, and a longer lasting battery.
+I had looked at the envy 15 but it runs hot even while idle.   I just did not like the heat on my palms as I typed.  After much research the envy 13 seemed to meet all my requirements.  ITs a very portable laptop and even with the slice (extra battery) attached its thinner and lighter than all my other laptops.
+Even when playing graphic intensive games it does not break a sweat.   As for the battery/s  I'm getting about 11 hours of constant use with Bluetooth on and wifi off.   With wifi and Bluetooth on and streaming movies I get about 7 hours of constant use.
+The laptop is small so the IO ports are at a minimum.   It only has two USB ports so I purchased a Microsoft Bluetooth mouse and it works perfect.   The included external DVD drive gets its power from the USB and also acts as a USB hub supplying 2 ports.
+There does not seem to be any user accessible panels on the laptop so you can't change the hard drive of update the memory.  Even though the laptop has only 3GB installed it does have windows 7 64-bit installed and can handle up to 5GB.  But currently I see no way to upgrade.
+One thing I noticed is that the laptop has an accelometer installed so it can detect movement.   When on the battery it will park the hard drives if you pick up the laptop.   This is indicated by a small orange LED that turns on in place of the normal white hard drive LED.
+The speakers are probably the weakest point on the laptop.  They just don't have any output for most movies so you will have to use earphones or purchase a external speaker set.   I got a pair of those tiny USB powered HP speakers and they have plenty of volume and are small enough to keep in my laptop bag.
+As will all laptops there is quite a lot of bloteware installed.   It took me three solid days to get rid of all the crap but now the machine runs at between 0-2% CPU usage when idle.
+Would I purchase the laptop again?  The answer is definitely YES.

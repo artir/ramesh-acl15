@@ -1,0 +1,13 @@
+ID: B002L6HE8M-R2ZP4469U8BLZP-A3RIFCVPOD26D
+Category: MP3Players
+Product: Apple-iPod-Generation-NEWEST-MODEL
+ReviewerID: A3RIFCVPOD26D
+ReviewerName: J. Christian
+Date: December 28, 2009
+Helpful: 
+Rating: 5.0
+Title: Great, despite some set-up trouble.
+Content:
+The Nano has worked great for me once I got it properly set up.  However, set-up took some time.  When I first tried to connect it with my computer (Dell PC running Vista), iTunes would not recognize the iPod.
+I called Apple Support, and although it took about two hours on the phone with them (due somewhat to the speed of my computer), we eventually got everything working perfectly.  I ended up having to manually uninstall and delete everything connected with iTunes and then reinstall.
+Once I got set up, though, it has worked perfectly and I am very happy with the product and with the support experience.

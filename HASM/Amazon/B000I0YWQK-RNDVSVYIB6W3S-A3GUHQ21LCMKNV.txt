@@ -1,0 +1,11 @@
+ID: B000I0YWQK-RNDVSVYIB6W3S-A3GUHQ21LCMKNV
+Category: SpaceHeaters
+Product: Holmes-HCH6150-UM-Triple-Ceramic-Tower
+ReviewerID: A3GUHQ21LCMKNV
+ReviewerName: S. Bannerman "Gadget Freak"
+Date: June 27, 2009
+Helpful: 1 of 1
+Rating: 1.0
+Title: Poor Quality - units failure
+Content:
+Oscillating capability stopped after 1 month.  Now complete failure.  It appears the IC devices through which the power runs to each of these circuits has failed.  Thermostat never accurately controlled the temperature.  A design that relies on complex (and cheap) electronics is bound to fail.

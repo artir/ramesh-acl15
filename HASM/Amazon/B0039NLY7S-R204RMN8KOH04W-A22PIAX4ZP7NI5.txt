@@ -1,0 +1,23 @@
+ID: B0039NLY7S-R204RMN8KOH04W-A22PIAX4ZP7NI5
+Category: Laptops
+Product: Lenovo-06793JU-15-6-Inch-Laptop-Black
+ReviewerID: A22PIAX4ZP7NI5
+ReviewerName: Chun Lam "Chun"
+Date: April 12, 2010
+Helpful: 4 of 6
+Rating: 2.0
+Title: Poor trackpad ruins an otherwise solid laptop
+Content:
+I've had this laptop for about 2 weeks.
+Pros:
+* sleek modern design (gray, brushed metal)
+* good value (HDMI out, i5 CPU, webcam w/ mic, 4gb RAM)
+* bright clear and crisp LED screen
+* decent battery life
+Cons:
+* as other reviewers have noted - trackpad is unresponsive at times (see below)
+* low screen resolution (1366×768)
+* preloaded with lots of bloat-ware.
+The trackpad at times seems overly sensitive and sometimes not sensitive enough.  At first, I thought it was my hand interacting with the multi-touch software (which lets your scroll down webpages, drag and drop, etc. with motions on the trackpad) but even after turning off those features, it does not completely resolve the problem.  Lowering the sensitively of the trackpad does help, but even then - the trackpad seems to not respond to motions and does not even detect a mouse click.  Since the mouse buttons are integrated into the trackpad, I can only conclude it's an issue with the pad itself.
+The 1366×768 screen resolution is fairly standard with 14-15" laptops these days, but that seems low.  The desktop icons seem huge.  With a i5 CPU and a 15.6" screen, I'd expect the resolution to go up to 1280×1024.
+Overall, I'm a bit disappointed with the Lenonvo G560.  On paper, specifications and price point offer a lot of value, but unfortunately, the trackpad issues ruins an otherwise solid laptop.

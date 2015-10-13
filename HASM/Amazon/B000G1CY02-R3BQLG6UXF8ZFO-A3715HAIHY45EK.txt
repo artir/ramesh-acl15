@@ -1,0 +1,13 @@
+ID: B000G1CY02-R3BQLG6UXF8ZFO-A3715HAIHY45EK
+Category: SpaceHeaters
+Product: DeLonghi-HHP1500-Safeheat-Mica-Panel-Heater
+ReviewerID: A3715HAIHY45EK
+ReviewerName: Richard Darling
+Date: January 15, 2010
+Helpful: 4 of 4
+Rating: 3.0
+Title: Heats well but be very careful about location
+Content:
+I just got this heater and have only a few hours of use, but I can conclude that it does function fairly well as a space heater in a moderately sized room (my office which is about 140 sq ft with an 8 ft ceiling and no windows). As an engineer, however, I feel obligated to point out two concerns that might not be apparent from the description. 
+First, if you intend to mount the heater on a wall the instruction manual specifies a minimum distance of 2.3' (about 27.5") from the bottom of the unit to the floor, and a minimum distance from the top of the heater to the ceiling of 3.28' (about 39.5"). The heater itself is about 19.5" high, so these dimensions add up to more than 7'. In a room with a low ceiling there is precious little flexibility in the mounting height. The 2.3' above the floor requirement did seem suspicious to me. It equates to almost exactly 70cm and I suspected that a translation error from metric in the original Italian manual had multiplied what should be 7cm (the actual height of the removable legs) by 10. So I called DeLonghi and to my surprise they confirmed that the minimum distance above the floor should in fact be 70cm (2.3ft). Keep this height in mind if you intend to wall-mount. The _bottom_ of the heater must be at roughly windowsill height or above. 
+Second, after operating the unit for a while (on it's legs and well away from a wall) I find that the back panel gets 'way hotter than anything I would be willing to mount just an inch or so from any surface more combustible than a metal or masonry wall. The back panel is too hot to touch, and I believe it would dry out nearby wood or drywall. So my very strong personal opinion is that the heater should NOT be wall-mounted on combustible construction.

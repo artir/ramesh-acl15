@@ -1,0 +1,12 @@
+ID: B0021XW3YU-R3PZUMWJAKRIGN-AHJ41XLTCALK7
+Category: DigitalSLRs
+Product: Kodak-EasyShare-Digital-Camera-Black
+ReviewerID: AHJ41XLTCALK7
+ReviewerName: Eliot Press
+Date: February 10, 2010
+Helpful: 11 of 16
+Rating: 1.0
+Title: Unacceptable
+Content:
+One major issue.  Kodak does not provide a WIA driver for this camera.  To get pics out of the camera, you must use their EasyShare software (and don't get me started about how many ways that software is simply abominable).  This means that if you are on a trip, for example, or at a friend's house, and you want to upload pics out of the camera so that you can actually see them in all their 10-megapixel glory, you must find a computer that has the obnoxious EasyShare bloatware installed on it.  Every other digital camera that I have ever used, even third world knockoffs, would open as a device under "My Computer" when jacked into a USB port. Not this baby.
+Two minor issues.  It is difficult to seat the USB cable into the camera jack because the rubber port cover interferes.  Or maybe mine came with a flaky cable.  Either way, it took more than an hour and three annoying text chats with technical support to solve this problem.  Also, the shutter that covers the lens is delicate and flimsy.  It needs a lens cover to protect it, but none was provided, and it is not a standard size.  You would not want to put this camera into your pocket without a lens cover to protect the fragile shutter over the lens.  Good luck finding one that fits.

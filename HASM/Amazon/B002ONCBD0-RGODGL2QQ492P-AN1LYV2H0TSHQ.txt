@@ -1,0 +1,18 @@
+ID: B002ONCBD0-RGODGL2QQ492P-AN1LYV2H0TSHQ
+Category: Laptops
+Product: Pavilion-DV7-3080US-17-3-Inch-Espresso-Laptop
+ReviewerID: AN1LYV2H0TSHQ
+ReviewerName: Unhappy Customer
+Date: January 9, 2010
+Helpful: 6 of 6
+Rating: 2.0
+Title: Save your Money & Don't buy Blu-Ray
+Content:
+Was a loyal HP customer, but not anymore.
+We have two HP DV7's in our household. One was purchased Nov 2008 from Circuit City, the other was purchased as a customized laptop directy from HP in March 2009.  Both have BluRay players, but the Circuit City laptop plays through Media Player and the customized laptop plays through MediaSmart.  With both players, we have noticed a tendancy of the BluRays to lockup, but with the new coding now on the BluRay disks, the problem has become much worse.  
+Also downloading the new software and getting the Blu-Rays to play the newer discs is not intuitive and HP support in a word "Sucks".  Went to the HP website for the downloads and it is not as straight forward as it should be. 
+For one thing, don't click the update now button when it pops up within the media players.  It will take you into a black hole.  For MediaSmart go into tools and select the update on the Update tab. I am not sure where my husband went to download the updates into Media Player.
+After the updates where installed on the customized laptop, the BluRays would play just fine until it was connected via HDMI to our HD TV.  There we received picture, but no sound.  We went to tech support on that one.  Their basic response was that the coding on the discs prevented them from being played with the HD TV connected, so if that was the only thing we used the computers for then we had nothing but $1,000+ paperweights.
+Finally without the help of Tech Support, we were able to get the picture on the HD TV with sound once we hooked up laptop speakers to the computer and played the sound from the computer. But the picture quality is no longer what it once was.
+This brings up another problem that we have with the headphone jacks. If you research on the web, you will find that this is quite prevalent with HPs.  The connection within the computer is not secured very well and you have basically three options in order to use the headphone jacks. 1) physically hold the jack about 1/2 way in to get sound. 2)lightly coat the jack connection with oil before plugging in. Or 3) have the laptop opened up and the connections soldered down.
+Other than these flaws, the computers work as advertised.  But there are also other computers out there that do the same for less money.

@@ -1,0 +1,11 @@
+ID: B0011NH5J4-RQQN7KWF60NXN-A3N3K63M7MDXZI
+Category: Laptops
+Product: Sony-VGN-AR790U-17-inch-Processor-Ultimate
+ReviewerID: A3N3K63M7MDXZI
+ReviewerName: Raoul Aranha "Sony Maven"
+Date: May 14, 2008
+Helpful: 7 of 7
+Rating: 4.0
+Title: Interesting laptop packed with features
+Content:
+I really bought this machine for the blu-ray device and it's ability to use it with an HDCP compliant TV.  Well it turns out that this machine has major issues with doing just that seemingly simple task.  I have spent 3-4 hours a day for five days with Sony to resolve the matter only to lose WinDVD entirely.  Just as an FYI the backup and recovery software from Sony does not contain the original WinDVD install.  So please beware if any Sony tech person asks to uninstall it because there is no way to re-install it.  They had to move mountains to get me the install back on my laptop again.  And all I called about was to get it working on the TV...which is also a Sony 760p TV.  So it never worked.  Other than that this machine is fantastic.  It does run pretty hot though so watch out and it's size and weight makes it a bit impractical for travel.

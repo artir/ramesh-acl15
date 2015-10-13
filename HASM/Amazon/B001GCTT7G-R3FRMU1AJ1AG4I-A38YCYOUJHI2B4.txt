@@ -1,0 +1,18 @@
+ID: B001GCTT7G-R3FRMU1AJ1AG4I-A38YCYOUJHI2B4
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A38YCYOUJHI2B4
+ReviewerName: Guido Weppler "gjw50"
+Date: November 13, 2009
+Helpful: 1 of 4
+Rating: 3.0
+Title: Beautiful but functionally disappointing
+Content:
+I just bought my first Apple, a Macbook Pro (13"). Nice piece of artwork. But I'm shocked by the catastrophic font display and apparent lack of adjustment options (yes, seen the font smoothing option but the result's a joke with or without). I've read many posts on how apple's rendering is different from Windows, how exactly they manage to put so much thought into creating such a poor result, and how people prefer one or the other. But this seems just plain wrong -- I can't believe that there's so many people out there who, out of pure love for original font geometry (or for love of Apple), are willing to sacrifice readability/usability. 
+There's some other disappointing surprises for someone who switches from Windows:
+- no easy window maximise/minimise, maximisation only via green button that maximises to the layout Apple considers best (I'd often prefer a different window size, mostly full screen, particularly on 13"). That means you end up using the mouse & moving/changing windows all the time.
+- very inefficient handling of screen real estate. Lots of permanently displayed info / top menu rows etc that you really don't need most of the time and that cut down usable screen area. Maybe I just haven't found it yet, but I don't see an easy way to switch to full screen.   
+- sharp front edge on the unibody... that's very uncomfortable after a short while. Somewhere else I read that for Apple, clearly function follows form. That strikes me as spot on now...
+- Yes, you can soft-double-tap the large mouse pad, but if you decide to mechanically click it (you can do that anywhere on the pad), the sound of the mechanics is annoyingly loud. 
+ 
+Bottom line: I feel mislead by a good amount of (unjustified) enthusiasm of the Apple fans around me. Next time I need to satisfy an esthetic urge, I'll go and buy a new watch instead. Going Apple doesn't seem to be the right reaction if you're unhappy with Microsoft.

@@ -1,0 +1,18 @@
+ID: B001D8S9E2-R2PQSR26OEOXC9-A73C7IJSOSRVL
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A73C7IJSOSRVL
+ReviewerName: Wayne S.
+Date: February 11, 2009
+Helpful: 1 of 3
+Rating: 5.0
+Title: H to the E, to the double LL, Yeah!
+Content:
+Having made the switch to Apple almost a year ago, got a Mac Pro, I was contemplating on a laptop. I've never owned one, and school is set to start in a couple of weeks. I need(ed) something powerful, light, and dependable. 
+I decided on the 2.4GhZ/250 GB version, because it's pretty much the top tier in the 13 inch Macbook family. I'll probably have this machine for years to come. 
+I ordered it this past Saturday, and it arrived yesterday, and I was ready to rock! Before I forget, these Macbooks on Amazon still have iLife '08. I was fortunate enough to have an extra license for both, iLife '09 & iWork '09. I'm running at full/current capacity. 
+For some reason it took me a little longer to set-up my wireless internet. I have a Time Capsule that two computers share internet connections with. I figured the Macbook airport would just catch the signal and I'd have internet access automatically. It didn't quite happen that way, so I'll spare you wasting your time. At some point while accessing the Time Capsule parameters to join the network, it will prompt you with a screen that says something like, "Do you have any devices, firewalls, or routers connected to the machine (or something like that). You must click yes (if you have a Time Capsule), then it asks you to restart the machine, and press "continue" afterwards. I kept hitting restart on my MacPro instead of restarting my Time Capsule. At the end I unplugged/plugged the Time Capsule and the MacBook picked up the signal %100. Oh, and make sure the Bluetooth is off, you probably won't need it. 
+Sorry if the above was long winded, but it had to be said. 
+Other than that, I'm working on all cylinders! 
+Between me and my siblings, we have a combined total of 5 Mac computers. 
+Apple computers... it's like being home. :)

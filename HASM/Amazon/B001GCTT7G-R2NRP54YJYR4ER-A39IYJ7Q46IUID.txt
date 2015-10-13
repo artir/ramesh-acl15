@@ -1,0 +1,11 @@
+ID: B001GCTT7G-R2NRP54YJYR4ER-A39IYJ7Q46IUID
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A39IYJ7Q46IUID
+ReviewerName: REB
+Date: January 20, 2009
+Helpful: 2 of 4
+Rating: 5.0
+Title: How to live without firewire
+Content:
+Ok, like almost everyone else I was a bit puzzled to find that there is no FW port on the new MB. Many people complain that transferring files, say, from their old PowerBook G4 to their MB is now difficult without FW target mode. It is not as easy or quite as fast, but it's not difficult or slow. All you need is a $5 Ethernet cable and to set up file-sharing between the two machines. You don't need a hub -- you can connect the two laptops directly. There should be instructions on how to do this on the web. Note that you'll need manually to configure your Ethernet connection settings on both computers. It took me about 20 minutes to transfer 9 GB.

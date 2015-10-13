@@ -1,0 +1,15 @@
+ID: B001JIALGK-RR67QCR008RC-A1YJKAE2MA4GRI
+Category: Laptops
+Product: EliteBook-Mobile-Workstation-8730w-fingerprint
+ReviewerID: A1YJKAE2MA4GRI
+ReviewerName: Jay P. Harbath
+Date: August 26, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: Magnificent Machine!
+Content:
+It was a sad day when my trusty traveling companion of four years, my HP ZD7000 finally had to be retired.  Software required for work mandated that I have a system that ran XP Pro as the native OS, not from within a VMWare shell.  That meant buying a laptop with the oxymoron "XP downgrade".  Bill, you know what you can do with Vista in any of it's endless flavors.  
+After lots of research, I selected the HP 8730W series.  Amazon had a refurbished system at a price far below HP list.  Considering I was going to buy the 4 year Next Business Day service plan with Accidental Breakage Protection, I was not worried about a refurbished system.  As it turned out, the unit had a catastrophic failure three days out of the box.  One call to HP had a shipping box on my doorstep the next morning.  It went out Wednesday, and HP had the repaired unit back to me by Friday morning.  Service doesn't get much better than that.  BTW, according to the return paperwork, the video card failed and took the whole system down.  Infant mortality evidently still exists.
+Now as to the computer itself.  Where to start!  It is loaded with geek goodies.  I can hook up one external monitor to either the VGA port or to the HDMI port (first one connected wins, I checked, can't connect two external monitors to the ports on the machine).  The WiFi seems to have a pretty good range and speed.  I can tether my phone with Bluetooth, although if I cable to a USB port, it can charge at the same time and I can use the headset.  XP Pro loves the 4 GB of Ram to play in.  The ESATA connector was a really cool bonus.  The external ESATA drive flies.  The LCD is gorgeous, and it is hard to believe that they fit a 1920x1200 resolution into a 17" display.  If they can do that for a 17" notebook, why are companies still selling so called "HD" TVs with 768 vertical pixels?  As a portable desktop, the 17" size also means it comes with the number pad next to the full sized keyboard.  The fingerprint reader is cool.  Be sure to program more than one finger into it to account for the occasional bandage.  It has both a touch pad mouse and the joystick embedded in the keyboard.  The camera chip slot seems to take just about anything.  The unit I received had a built in 2 MP Web Cam.  After I ordered the unit, they called to say they were out of stock on the one I ordered.  They offered me one with identical specs, except it included the optional Web Cam.  I happily accepted their substitution.  Considering I am a road warrior, the Web Cam gives the kids a chance to see Daddy during the weeks I am away.  
+I ordered the Advanced Docking Station to go with it, and the extra 250 GB drive that can be swapped out for the DVD drive.  I plan on using that for making full backups and extra storage for the various projects I work on. 
+HP did a fabulous job on this design.  I am looking forward to many years of use.

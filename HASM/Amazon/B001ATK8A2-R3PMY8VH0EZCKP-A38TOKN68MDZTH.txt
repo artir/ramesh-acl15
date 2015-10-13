@@ -1,0 +1,14 @@
+ID: B001ATK8A2-R3PMY8VH0EZCKP-A38TOKN68MDZTH
+Category: Laptops
+Product: Dell-XPS-M1330-Laptop-Crimson
+ReviewerID: A38TOKN68MDZTH
+ReviewerName: Shawn Wale "MindsEye"
+Date: March 5, 2009
+Helpful: 15 of 17
+Rating: 1.0
+Title: WARNING: DELL WILL NOT HONOR THEIR WARRANTY!
+Content:
+I ordered a Dell Inspiron laptop 1 1/2 years ago and it worked great until recently.  The screen went black and the system would not start.  Turned out that the video card had failed.  
+I contacted Dell customer support to activate my next business day warranty and after more than a week I have gotten nowhere with them.  My claim has been "escalated" twice with the same excuses and refusal to fix the problem.  They claim they have no video cards in stock and I will have to wait 2-3 weeks for a replacement card, 2-3 weeks for a loaner system, or 2-3 weeks for a replacement system -- basically my NEXT DAY warranty is anything but.
+I explained that this is a mission critical system and a 2-3 week delay is unacceptable given the high price I paid for the next day warranty.  I offered to take another make or model of graphics card and even offered to go buy the card myself if the agreed to pay for it.  
+They refused to help in any way.  So, I am left with a useless laptop for 2-3 weeks until it becomes convenient for them to honor the warranty.  I will never buy another Dell product again and recommend that others who are not technically experienced with fixing computers or that need a "mission critical" system that they look elsewhere because Dell cannot be relied upon to fix broken systems in a timely manner.

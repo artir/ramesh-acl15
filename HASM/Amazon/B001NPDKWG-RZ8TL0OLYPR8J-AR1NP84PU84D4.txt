@@ -1,0 +1,14 @@
+ID: B001NPDKWG-RZ8TL0OLYPR8J-AR1NP84PU84D4
+Category: Laptops
+Product: Pavilion-DV4-1220US-14-1-Inch-Processor-Premium
+ReviewerID: AR1NP84PU84D4
+ReviewerName: S. Melvin
+Date: May 23, 2009
+Helpful: 4 of 5
+Rating: 4.0
+Title: For what it is intended to do...not bad
+Content:
+The laptop is similar to so many other basic laptops in this price range from the major manufacturers that it is hard to distinguish one from another.  The monitor is nice, the layout is alright and the overall feature set is not bad (camera, HDMI, remote, etc).  Overall, my initial impression (just pulled out of box this weekend and spending my initial time updating, installing and removing software) are that for the money, it will do exactly what we intend it to do--surf the internet, handle last and some current generation games, watch movies and provide access while on the go.  This is certainly not a desktop replacement, nor should it be treated like one.
+Pros: weight, camera, OS (64-bit should be the new standard), video card (for integrated anyway), and finally the HDMI and other connectors.
+Cons: lack of installation software (standard HP practice is to make you make your own copies using DVD backups, which is silly since you bought the dang license), weird molded corners that look/feel cheap, crapware (okay, HP and most other major manufacturers do this to offset the cost of the machine, which is a hassle when you first pull your new machine out of the box, but nothing that can't be fixed using some very simple uninstall assistance--I personally like http://www.pcdecrapifier.com/ to remove all the stuff I don't need or want).
+Overall: for ~$600 with rebates and Amazon pricing it's not a bad machine for the basics of computing while on the go or from the comfort of our couch.  Great little feature set that should last you a while or at least until you're ready to move up to a more powerful laptop for a higher price.

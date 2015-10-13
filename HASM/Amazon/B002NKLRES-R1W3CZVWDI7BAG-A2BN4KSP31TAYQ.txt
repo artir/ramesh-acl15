@@ -1,0 +1,14 @@
+ID: B002NKLRES-R1W3CZVWDI7BAG-A2BN4KSP31TAYQ
+Category: MP3Players
+Product: Creative-Labs-Player-Touchscreen-Speaker
+ReviewerID: A2BN4KSP31TAYQ
+ReviewerName: Curtis
+Date: January 20, 2010
+Helpful: 1 of 1
+Rating: 3.0
+Title: Good player hobbled by poor firmware and desktop software
+Content:
+I've owned a number of Creative MP3 players over the last 5 years.
+The Zen X-FI2 16mb is the most sophisticated so far.
+The player is difficult to sync, and it does not handle play lists well at all (yes I've updated the firmware). Creative continues to give their own products the short end of the stick by designing user software, and device firmware, as apparent afterthoughts.
+Volume control is a 2-step royal pain.

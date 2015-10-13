@@ -1,0 +1,18 @@
+ID: B000TGDGLU-RSZQYY31R2MOV-AAI8G6LM4CIFP
+Category: SpaceHeaters
+Product: DeLonghi-EW7707CM-Oil-filled-ComforTemp-Technology
+ReviewerID: AAI8G6LM4CIFP
+ReviewerName: D. Cepulis
+Date: January 23, 2008
+Helpful: 1 of 1
+Rating: 5.0
+Title: No noise, no smell, saves dough, works well.
+Content:
+We are very satisfied with this heater.  It is silent and safe and doesn't dry out the air like a normal fan driven space heater.  The thermostat works well and allows a broad range of temp adjustment.  The ComfortTemp setting is a bit warmer than we prefer so we just leave it off and use the thermostat to get the right temp.  
+Proper placement in front of a north facing window in our boys room has allowed us to turn down the central heater in the house at night and save $ on our winter heating bills.  I am sure this unit has paid for itself already this winter.
+Some new info, I took some power measurements this winter:
+Min Power ON only = ~700 Watts
+Med Power ON only = ~750 Watts
+Med & Min Power switch ON = ~1350 Watts
+Of course, when the built in thermostat clicks off the internal heating element, the power
+drops to 0 W.

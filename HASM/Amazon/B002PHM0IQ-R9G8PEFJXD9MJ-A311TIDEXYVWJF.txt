@@ -1,0 +1,11 @@
+ID: B002PHM0IQ-R9G8PEFJXD9MJ-A311TIDEXYVWJF
+Category: Laptops
+Product: Sony-VPC-CW13FX-14-Inch-Windows-Premium
+ReviewerID: A311TIDEXYVWJF
+ReviewerName: Tessie Santos
+Date: January 13, 2010
+Helpful: 2 of 2
+Rating: 2.0
+Title: always hangs
+Content:
+bought this unit for my brother, works fine for a month after that it starts to hang now & then, he had it check up, BIOS was the suspected problem. To think i ordered it brand new, he also notice there where file pictures and videos in the hard drive.....so it was a used computer sold by amazon as brand new...

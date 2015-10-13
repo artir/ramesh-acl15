@@ -1,0 +1,15 @@
+ID: B000OK0YWK-RKOAFBTD7WZEH-A16F3NUKTT7L79
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Red
+ReviewerID: A16F3NUKTT7L79
+ReviewerName: P. Chavez "nicknamesarealwayspublic"
+Date: August 30, 2007
+Helpful: 1 of 1
+Rating: 4.0
+Title: Sweet Little Hi-Fi
+Content:
+I had owned a Dellpod (Dell's version of an MP3 player) for two years and found it to be a solid piece of hardware.  So when it died a respectable death a few months ago, I went back to Dell to see if they had a newer version of their MP3 player... but they had decided to pull out of that market.  I ended up reading review after review of Zune v. iPod.  Also looked around at other options from Creative Labs.  Eventually, I settled on the Zune because... well... I liked the brown color.  
+As shallow as that may seem, I should point out that my original criteria was not based on brands, but functionality and dependability.  Creative, Apple and Microsoft all have great products with respective pros and cons.  So when I checked each MP3 player out, I realized that there wasn't a clear winner.  So I decided on the player that I found most appealing.
+After two months of Zune ownership, I really enjoy it!  My only problem is the software for loading songs onto your player.  When loading songs, you have to be careful on your tags because the slightest difference in the files will cause the songs to not be properly grouped together.  For example: I had 10 songs by John Lennon.  9 songs were tagged identically, but the 10th one had a different year than the other nine... so the player displayed two albums instead of one.  The lesson learned is: check all the boxes of the song's properties to make sure everything is identical for proper song grouping.
+The software is also a memory eater.  Too bad Microsoft couldn't integrate their Media Player with the Zune Player.  To me, that would appear to be the simplest solution... but then, I don't work at Microsoft.
+Ultimately, the device is fun, the search function of the player is well done, and the sound is clear... a very solid product!

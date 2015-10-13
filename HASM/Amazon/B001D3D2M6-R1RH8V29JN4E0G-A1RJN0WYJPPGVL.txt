@@ -1,0 +1,11 @@
+ID: B001D3D2M6-R1RH8V29JN4E0G-A1RJN0WYJPPGVL
+Category: Laptops
+Product: HP-Pavilion-dv5-1000us-Entertainment-Notebook
+ReviewerID: A1RJN0WYJPPGVL
+ReviewerName: Jack
+Date: November 15, 2009
+Helpful: 1 of 1
+Rating: 1.0
+Title: Make sure you get the warranty
+Content:
+I was very eager to get my HP Pavilion only to find that they all have an overheating problem that leads to a shot motherboard.  Unfortunately even if you replace the motherboard the heating issue will not be repaired so you can look forward to replacing another motherboard until you buy a Mac in frustration.  HP will not admit this is a design flaw and they need to address this so until then Bye-bye PC, Hello Mac.

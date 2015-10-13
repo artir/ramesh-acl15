@@ -1,0 +1,27 @@
+ID: B0029U151M-R1C6VDQIZ5SCFP-A2PMCLD84QOL1H
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A2PMCLD84QOL1H
+ReviewerName: Edwina "eduenas"
+Date: October 1, 2009
+Helpful: 4 of 4
+Rating: 5.0
+Title: Excellent laptop. Runs great on Windows 7!
+Content:
+This is the 2nd laptop I've owned. My first one was a Toshiba Satellite that had 80gb and 512mb memory--this laptop is a huge upgrade to say the least! And the price was great, too!
+The model number of this laptop is 4810TZ-4011 and features an Intel Pentium processor at 1.3GHz, 3gb DDR3 memory, and 320gb hard drive. I got it for $535 with free shipping and it came in exactly five days. Thanks Amazon! And the reason why I chose this laptop over the 13 inch is that it has the CD/DVD drive that I wanted.
+It comes with the free Windows 7 upgrade that is being promoted by several manufacturers right now. I received NO paperwork about it, but I just went on the Acer website and found the right links. They just ask for your product serial number (on the bottom of the laptop) and shipping info. Then your order is placed; very easy process. 
+The laptop is in adark grey color and looks quite nice, actually. The build of the laptop feels very sturdy. The lid does much fingerprint smudge which is a plus. However, the black chiclet keyboard is a little slick and does attract fingerprints. The keyboard itself is nice and well-spaced, but make sure to keep the keyboard clean. However, it is slick, and takes some getting used to. However, I am typing the review on the keyboard right now, and it is comfortable to use. On another note, the spacebar on my laptop clicks louder than I'd like, but it's not a problem. 
+The laptop weights only about 4 pounds and is not too heavy. It of course is not netbook level weight, but it's nice to have a full featured laptop weighing less than 5 pounds. It is also thin and sleek. It's not quite on the thinness level of other laptops or the MacBook Air, but compared to other notebooks with a 14inch screen, it is thin. This is one of the main reasons why I chose this laptop.
+The laptop has a multi-touch capability which works fine, like pinch to zoom. The keypad is indeed a little hard, but pressing at the edges may help as it is a bit softer. There's a button to turn off the touchpad in case you use a mouse. As for buttons, it has got good FN functions, with buttons to pause music, skip, as well as for sound and brightness. I was disappointed that there are no volume controls, but using FN button is fine. 
+I also really like the 5-in-1 card reader. It can read the popular SD card, which are housed in my point and shoot camera and Nintendo DSi, making transferring pictures and music quick, which is nice.
+As for battery, it is quite solid. My old laptop had about 1.5 hours of battery life. On my Acer, for a full day of computing and word-processing plus watching YouTube videos, on one charge, I've gotten about 7 hours with wifi on. Very nice!
+Some extra features include a Crystal Eye webcam, which is nice and crisp (I'll try it out with Skype). It also has a power saver mode to fully utilize the computer's battery life, and an LED backlit display which can be turned up quite bright. The laptop has also been quite cool. It doesn't get too hot, and even after long use isn't burning up like some other laptops at home. On another note--there is a good amount of bloatware, but it's quick to delete. The laptop does perform faster after deletion, so take care of it right away.=]
+One of the bad things about this laptop is its speaker. Sound quality is not that great and sounds a bit muted. Streaming music is not what this laptop was meant for. However, for watching YouTube, it's fine. I would have liked to have better speakers, but it's OK.
+In short, I've got a lot to say about the laptop, but not enough room! I really enjoy using it. As a student whose computing needs are web surfing, watching YouTube videos, downloading music and pictures, and word processing, the Acer Aspire Timeline 4810T has done its job quite well so far. It is very fun to use but also portable enough and performs well with great battery life. It has been able to perform all the tasks I've thrown at it and then some. IIf you're considering this laptop, I would definitely recommend it! 
+UPDATE:
+I upgraded the BIOS as I saw the CPU meter (in the Vista sidebar) at 100% with no programs open. It is now working fine. I've also been able to use Fences and ObjectDock desktop modifications to work beautifully on this laptop; no lag or issues with setup! Boot up time has increased because of some Vista updates (go figure) but it shuts down fast and doesn't get hot and is very quiet! I've only had the laptop about a week, too! I'll update in the future.
+UPDATE as of 10/15/09:
+I installed Ubuntu 9.04 (Jaunty Jackalope) inside of Windows Vista and it works perfectly! The 320gb comes in handy if you're planning on storing lots of music, photos, and programs, including Ubuntu. When the computer boots up I now have the choice of running Vista or Ubuntu. I just restart the computer to switch between the two and it is very easy to do.
+UPDATE as of 11/05/09
+I received my Windows 7 upgrade and downloading it was a smooth process, although it took a few hours. I also upgraded Ubuntu to 9.10 so I've got the choice of running Windows 7 or Ubuntu 9.10 upon boot-up. It runs beautifully on Windows 7 and is very "snappy."

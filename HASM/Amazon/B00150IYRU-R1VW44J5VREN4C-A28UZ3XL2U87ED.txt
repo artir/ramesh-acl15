@@ -1,0 +1,11 @@
+ID: B00150IYRU-R1VW44J5VREN4C-A28UZ3XL2U87ED
+Category: Laptops
+Product: Dell-Vostro-1500-2x1-6GHz-802-11g
+ReviewerID: A28UZ3XL2U87ED
+ReviewerName: Jon W
+Date: May 20, 2009
+Helpful: 1 of 1
+Rating: 1.0
+Title: Never buy a Dell
+Content:
+My 2-month old Dell Vostro laptop has been a problem since day one. It would not play DVDs or load DVD-based software. When I called tech support, their solution was to load a different DVD player, which did not work, either. After spending an additional 4 hours on the phone with tech support, they decided that I needed to reload the operating system. Somehow, it became my responsibility. They said it would take 2 - 3 hours on the phone with them for me to do that. I'm not that computer savvy, so I took it to a Dell authorized repair shop. They can get the laptop to work with Vista, but I paid $99 extra for the XP "downgrade". I don't want Vista. The repair shop could never get it to work correctly with XP. They called Dell, and Dell told them that it was a software issue and that they would not honor the warranty, or take the computer back for repair. So now, I have a laptop that doesn't function and a warranty that is basically worthless. Don't buy a Dell - you'll be sorry.

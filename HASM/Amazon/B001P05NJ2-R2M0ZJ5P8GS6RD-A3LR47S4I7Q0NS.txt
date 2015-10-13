@@ -1,0 +1,11 @@
+ID: B001P05NJ2-R2M0ZJ5P8GS6RD-A3LR47S4I7Q0NS
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: A3LR47S4I7Q0NS
+ReviewerName: John Doe
+Date: February 9, 2009
+Helpful: 9 of 25
+Rating: 1.0
+Title: Dead Pixel's are common
+Content:
+I gave this one star mainly to bring attention to a common MBP problem.  My MBP arrived with a dead pixel(s) near the top.  It would have been such a hassle to send it back I figured I would deal with it and maybe take it to a Mac store it became bothersome.  I learned that Apple does not consider this to be "Materially Defective" because it is not in the main viewing area of the screen.  If you go to the Mac Blogs and other threads you will see many people with this problem.  My suggestion is to immediately see if the screen has any pixels that are either dead or stuck and return it to Amazon if you do.  Amazon will treat you better than Apple.  They will send you a shipping label and replace the MBP where as Apple will not cover the defective screen as they do not consider it a defect.  In all other ways I am very happy with the MBP as I am a convert from Dell.

@@ -1,0 +1,39 @@
+ID: B002PY7OSA-R241G72PTMH5U4-A250AXLRBVYKB4
+Category: Laptops
+Product: Dell-Studio-15-6-Inch-Chainlink-Laptop
+ReviewerID: A250AXLRBVYKB4
+ReviewerName: Nathan Beauchamp "Dakotad555"
+Date: January 10, 2010
+Helpful: 6 of 6
+Rating: 4.0
+Title: Great notebook for the price
+Content:
+I have a variation of the 1555 Studio configuration which consists of: 
+1) P8700 Processor 
+2) 4Gb Ram
+3) Full 1080x1920 screen
+4) 500gb 7200rpm hard drive 
+5) ATI HD4670 1GB GPU 
+6) BlueRay drive 
+I bought it around Black Friday directly from Dell for just over a grand. 
+Based on some of the comments/negative reviews of this computer, I'd like to say that I have owned and used Dell computers for over 10 years, and aside from one really crap Optiplex220 workstation, have had nothing but good experiences with them across a diverse range of computers including everything from a Dell Mini 10 to a couple XPS gaming machines (before I got wise and started building my own gaming computers about 5 years ago). As a brand, Dell is frequently maligned for being either cheaply made or offering poor service. I can say that in my experience, neither is true. (And to put that in context I work in a an office with about 8 dell workstations that I am responsible for maintaining, in addition to the Dells I've owned personally). I've gotten great service from them including an overnight battery replacement (under warranty) when it really counted. So, while I recognize that any company as large as Dell is going to have some misses, my personal experience has been excellent. 
+I'd also like to say that I own 5 computers (counting my wife's) including an HP, a custom built gaming computer, and even an Apple. I work with a whole host of computers on a daily basis (Macs included) and am not a fanboy of any brand or manufacturer, nor do I engage in the stupid PC vs. Mac debates. I love technology in general, and will go wherever I can get the features I want for the best price to enable me to finish the task at hand. I bought this Studio 1555 to replace my workstation since I wanted to be able to work remotely more easily. 
+Now on to my actual review:
+First off, there is one thing I really dislike about this notebook and that is the keyboard (which I'm using to type this review). It's not a tactile thing, or responsiveness, my typical complaint against keyboards in general. The keyboard squeaks. Not all the time and not loudly, but certain keys on the right side, including the backspace key, make a slight chirping sound that I find very irritating. 
+What I love about the notebook far eclipses that one irritation, and the screen alone more than makes up for it. As one of the very, very few 15" notebooks that offers full 1080x1920 resolution, it is also one of the cheapest. If you're going to buy just ONE upgrade for this notebook, make it that one. Having that much real estate on such a beautiful screen is worth every penny. SONY is the only other computer maker I could find with 15" notebooks with full 1080p resolution, and they are on average $500 more than this dell. You could argue they are better (less weight, possibly more stylish, etc.) but the bottom line is that the Studio 1555 with a 1080p screen for around a grand is a GREAT deal. Especially considering the screen is beautiful. 
+The feature set on the Studio 1555 series is also quite good with the newer, faster P series processors leading the way. With their architecture they also use less power, which means a P series notebook will run longer than an identical T series notebook, all things being equal. Windows 7 64-bit being standard is awesome, and once coupled with 4gb (or even 8gb if you want to pay through the nose) of ram, make this a very speedy machine. Boot times are great, and I can easily multitask with several demanding applications with no slowdown. 
+Aesthetically, the notebook is good, but not fantastic. I elected to get the 'chainlink black' version since I use this notebook for work and didn't need a fancy lid. The layout is functional and logical without being superior (this is where SONY excels--they're probably the only company with a sense of style that rivals Apple). The port configuration is great, with everything you'd expect (HDMI, 3-USB, Esata, SD card reader, VGA) and then a few bonuses (FireWire800, and TWO headphone jacks--fantastic for sharing a BlueRay with someone on a flight, etc...) 
+The Build quality is average to good. The aforementioned keyboard squeak lowers this category significantly, as does the heat build up on the panel below the keyboard which makes my wrists sweat a little bit. Thankfully Dell did make some solid improvements, including a really good hing for the screen which is heavy duty enough to make me believe the screen will open&close without losing any firmness for years. The charger is adequate, but with a strange layout that defies logic--the power cord (the end that plugs into the wall) is very short at about 3-feet. The single power cable that runs to the ntoebook itself is fairly long, but I'd really like to see dell make a power adapter more like HPs with a nice long cable on both ends (from the wall to the adapter and then from the adapter to the notebook). 
+Battery life is fantastic and better than I expected. Even when taxing the n-band wireless while streaming videos or downloading files (which uses a lot of power) I can still get 3.5-4hrs out of the notebook. If all I'm doing is word processing, e-mailing, and other light tasks, I can get upwards of 5 hours. If you set your power profile to the minimum, it is possible to get Dell's claimed 7 hours, but you'll have to live with a very dim monitor and no wifi usage to achieve those numbers--not many real world applications where that would work. 
+PROs: 
+1) Excellent and truly top-notch screen (1920x1080 HIGHLY recommended) 
+2) Great feature set for the price, especially with a few well chosen upgrades 
+3) Functional design that while not convincingly beautiful, is very well suited to getting work done. 
+4) Quality components for the price 
+5) Very solid battery life 
+CONs: 
+1) Squeaky keyboard 
+2) Strange, less than stellar power adapter
+FINAL THOUGHTS: 
+I bought this notebook to replace my workstation in my office. It's more than exceeded my expectations overall. With a better keyboard I'd happily give it 5 stars, but that one element is distracting enough to downgrade the Studio 1555 to 4 stars. If you want a very strong feature set for the price, you have to at least consider the Studio 1555 series from Dell. Check out the comments section of this review for some thoughts on configuration/prices if buying from Dell. 
+4/5 Stars. Recommended for those that value quality screens over pretty aesthetics.

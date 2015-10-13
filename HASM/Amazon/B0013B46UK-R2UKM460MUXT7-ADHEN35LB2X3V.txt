@@ -1,0 +1,14 @@
+ID: B0013B46UK-R2UKM460MUXT7-ADHEN35LB2X3V
+Category: MP3Players
+Product: Sony-Walkman-Video-Player-Pink
+ReviewerID: ADHEN35LB2X3V
+ReviewerName: Bruno Richard Hauptmann
+Date: August 28, 2008
+Helpful: 2 of 3
+Rating: 4.0
+Title: Excellent Player, Copy Protection Overzealous
+Content:
+This is one excellent MP3 player, and less than 1/2 the price of an equivalent iPod.  Drag and drop your MP3's and you're ready to go.  Does not convert your music to proprietary format like iPod. Sound is excellent.  EQ and effects are great. Navigation intuitive.  
+I don't use this for pictures, but it will do pictures.  And vids.  But all I want is music.
+I can't testify about battery life yet.
+Cons:  once you plug the player into your computer (via USB) you will not be able to play MP3s on your computer when using such software as WinAmp.  Appears to be caused by overzealous copy protection, which Sony is known for.  Unplug the unit, and you can play MP3s on your computer once again.

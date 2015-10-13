@@ -1,0 +1,15 @@
+ID: B001NPDKWQ-R2PXN96CICA5MA-A3L34D6WMMDI91
+Category: Laptops
+Product: Pavilion-DV6-1050US-16-0-Inch-Processor-Premium
+ReviewerID: A3L34D6WMMDI91
+ReviewerName: Eduardo R. Rodrigues
+Date: June 1, 2009
+Helpful: 8 of 8
+Rating: 3.0
+Title: Good machine but Windows Vista only and REALLY DANGEROUS BIOS upgrade!
+Content:
+This is a very fine and fully loaded laptop.
+I already had a previous HP pavillion dv-1030us model at home (which gave me no major problems for the last years) so I decided to stick to it.
+I still did not have the chance to really use it because as soon as it arrived, I got a HP Health Check window with a list of recommended upgrades that should be applied. Pretty normal and expected since I was turning it on for the very first time, right?
+Well, the 1st upgrade in the list was a BIOS upgrade, which I obviously downloaded and executed. The only problem was that the new HP Insyde BIOS flash utility for Windows Vista seems to be more of a threat than a utility. It simply popped-up a "Verify Error" message and completely frozen Windows and made the fan and HD run like crazy . Even the power button stopped working. The only way I was able to turn it off was by removing the battery. After that, the machine was completely dead! The power button didn't even light-up any of the machine's LED, not even the battery charging indicator.
+I chatted with HP "support" just to know that I'd need to send the laptop for maintenance. So I decided to return it to Amazon for replacement and now I don't intend to apply any BIOS upgrades from HP any time soon.

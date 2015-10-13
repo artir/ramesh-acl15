@@ -1,0 +1,26 @@
+ID: B002PY7OPI-R3H3J2NXX68E4T-A1JLKFJQOGVKP1
+Category: Laptops
+Product: Dell-Inspiron-14-Inch-Laptop-Cherry
+ReviewerID: A1JLKFJQOGVKP1
+ReviewerName: Sara MJ
+Date: March 19, 2010
+Helpful: 7 of 8
+Rating: 1.0
+Title: Defective Speakers
+Content:
+As a full-time grad student with a full-time job and 2.5-hour round-trip commute, I needed a laptop asap for my schoolwork. After thoroughly trolling the Internet and comparing specs and prices, this system seemed to be the best compromise between specs and cost. I previously had a Dell laptop and, despite minor quirks, it was a decent system. I was willing to buy another Dell.
+I placed the order, and I purchased next-day delivery. 
+The system arrived by noon the following day, and I immediately unpacked it and began to charge the battery and investigate features. 
+Pros:
+-- attractive
+-- quiet
+-- software installation disks included (call me old-school; I want tangible backup)
+-- solid feel to the keyboard
+-- nifty multi-touch touchpad
+Cons:
+-- no latch to close system (it just seemed somehow less sturdy without the latch)
+-- there was no express card/34 slot, contrary to the specs listed on Amazon
+-- **speakers completely and spontaneously blew out 10 minutes after I turned on the system** (it began with static and crackling noise that escalated in volume until, finally, there was no sound and Windows would not detect any audio output hardware)**
+I immediately called Amazon customer service, explained the situation, and requested a full refund. The representative was extremely sympathetic and automatically agreed to e-mail return shipping labels to me and agreed to provide a full refund, including all initial shipping charges. Amazon customer service was stellar, as all reports indicated it would be.
+I realize that the problem was most likely from defective components provided to Dell, but I don't have time to hope an exchange would be trouble-free; I'm buying a Sony Vaio.
+Good luck.

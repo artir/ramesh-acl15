@@ -1,0 +1,17 @@
+ID: B0009JPREG-R2OO9VI57733T9-A1RBC5UQCUXEQR
+Category: DigitalSLRs
+Product: Nikon-Digital-Camera-18-70mm-55-200mm
+ReviewerID: A1RBC5UQCUXEQR
+ReviewerName: Christoph Joosten
+Date: April 5, 2006
+Helpful: 6 of 7
+Rating: 5.0
+Title: Great camera, but beware of auto white balance
+Content:
+I love the layout of this camera. Every important function (bracketing, white balance and white balance fine-tuning, etc.) can be easily accessed with buttons and dials without having to fumble through menus on the LCD. The camera turns on in a blink and there is no delay between pressing the shutter and the picture being taken.
+Some features the D70s has and the D50 doesn't, and that I find really useful:
+- Depth-of-field preview button
+- Optional grids in the viewfinder
+- Direct access button to bracketing functions
+- A light on the top LCD display
+Auto white balance outdoors seems somewhat off (too cold), however this can be corrected easily by setting white balance compensation to -1. Shade  setting is too warm, I compensate it with +3.

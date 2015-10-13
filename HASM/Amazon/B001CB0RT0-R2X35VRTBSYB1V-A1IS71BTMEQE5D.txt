@@ -1,0 +1,21 @@
+ID: B001CB0RT0-R2X35VRTBSYB1V-A1IS71BTMEQE5D
+Category: MP3Players
+Product: Creative-Player-Wireless-Built-Speaker
+ReviewerID: A1IS71BTMEQE5D
+ReviewerName: J. Leonard "wannabe music snob"
+Date: January 22, 2010
+Helpful: 1 of 2
+Rating: 2.0
+Title: Amazing sound, horrid player
+Content:
+I've been using Creative products for almost twelve years now, and I've finally decided to start looking for audio products from other companies. The Zen X-Fi 32GB is what pushed me over the edge. There are a plethora of issues with this player, and if it weren't for the amazing sound quality, I would have returned it soon after I bought it. Let us count the ways Creative has finally hit rock bottom in the MP3 player department:
+*You can use an SD card with the Zen X-Fi, but it does not integrate with the player's menu. In other words, you can't bookmark, create playlists, or continue playback of a track after you shut the player off. How lame is that?
+*You can modify acoustics with the built-in X-Fi software, but you can't adjust the equalizer while the software is enabled. It's either X-Fi or EQ, but not both. Depending on you personal audio tastes and the quality of your headphones, this can be good or bad.
+*Want to download album art to your X-Fi? Good luck with that. Even using Creative's Centrale software, your chances of getting the album art to display at all is pretty slim. Sometimes it works, sometimes it doesn't.
+*Avoid using the supplied Centrale music software at all costs. It is honestly the buggiest software I've ever had the dishonor of trying to use. It crashes constantly, it can take up to 1/2 hour to load (!), and none of the features work as intended. For the love of God, use MediaMonkey or WMP when you need to transfer files to the X-Fi.
+*Speaking of transferring files, you can't do it with drag-and-drop like you could with Creative's older players. It will crash the X-Fi, forcing you to do a hard reset and rebuild your music collection.
+*Creative's tech support is horrible, and not just for their players. Probably the worst in the business. Creative only released one firmware update for the X-Fi, which fixed absolutely nothing. Despite a huge uproar from customers (check out their forums), they have no plans to release any more fixes. 
+*No FLAC support; seriously, in this day and age? Fortunately WMA files sound particularly good on this player.
+*The wireless function is useless, unless you're accessing music on your local network via Creative's music server or listening to podcasts. You can't IM or browse the internet. Oh yeah, you can also share files with other X-Fi owners that are nearby, but seeing as how only ten people own an X-Fi, that's pretty much useless too.
+Despite all these problems (and there are a ton of minor issues, no room here to list them all), I can easily say the X-Fi is the best sounding player I've ever used. The earbuds supplied with the player are excellent, but I've used several other headphone brands to the same effect. Nice deep bass, crisp tones and crystal-clear sound. It seriously makes the iPod sound like audio sludge in comparison. Buy a pair of Ultrasone Zino headphones if you want a truly surround sound experience with the X-Fi.
+In summation, buy the X-Fi only if you're looking for an outstanding audio experience. Other than that, avoid it completely and look at other brands.

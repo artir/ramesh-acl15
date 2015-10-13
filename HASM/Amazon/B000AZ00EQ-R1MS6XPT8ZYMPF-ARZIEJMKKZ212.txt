@@ -1,0 +1,11 @@
+ID: B000AZ00EQ-R1MS6XPT8ZYMPF-ARZIEJMKKZ212
+Category: MP3Players
+Product: Sony-NW-E305-Walkman-Player-White
+ReviewerID: ARZIEJMKKZ212
+ReviewerName: bmindful "bmindful"
+Date: March 28, 2007
+Helpful: 1 of 1
+Rating: 1.0
+Title: Don't bother...
+Content:
+Nice piece of hardware...  Everything I was looking for, retractable USB, rechargable battery...  Sounds pretty simple and if they kept it that way it would have been real nice...  But it looks like Sony was trying to impose their standards through hardware...  The software is ugly and painfully slow..  My biggest complaint is that you can't just drag and drop MP3, WAV or WMA files on to the device using windows explorer...  Well, you can but you can't play them...  Anything you want to listen to has to go through the Sonic stage software to be converted to OMG format, which is very slow as well as unnecessary (in my opinion).. So you can't just go up to any computer, plug it in copy files and listen to them...  Looks like I just bought an expensive thumb drive...

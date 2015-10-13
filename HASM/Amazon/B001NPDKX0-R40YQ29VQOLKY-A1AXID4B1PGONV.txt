@@ -1,0 +1,11 @@
+ID: B001NPDKX0-R40YQ29VQOLKY-A1AXID4B1PGONV
+Category: Laptops
+Product: HP-Pavilion-HDX18-1180US-18-4-Inch-Laptop
+ReviewerID: A1AXID4B1PGONV
+ReviewerName: Timothy C. Swanson
+Date: June 10, 2009
+Helpful: 
+Rating: 5.0
+Title: Satisfying performance in a laptop
+Content:
+I wanted to hold out on a new laptop until Windows 7, but my six-year-old Gateway went south rather abruptly.  Therefore, the search centered on something that would run Vista well, keep my teenagers happy as a backup, and blow through things that the machine from 2003 had trouble handling.  After setting the hardware parameters, this machine kept coming up as the best value.  I looked hard at an Alienware m15, but would have had to spend $400 to $600 more to get the same features -- and this machine is almost as pretty.  It was not hard to remove the bloatware that annoyed me and the performance has been great.  Vista runs quite well on it.  It is much cooler and quieter than its predecessor and the battery can last more than 4 hours if use is not too demanding.  Otherwise, expect a little over 2 hours.

@@ -1,0 +1,14 @@
+ID: B000IHN8AO-RSNLARG4IQX8X-A341DQ6YPM82WU
+Category: DigitalSLRs
+Product: Pentax-10-2MP-Digital-Camera-Reduction
+ReviewerID: A341DQ6YPM82WU
+ReviewerName: Howdy8888
+Date: January 25, 2008
+Helpful: 
+Rating: 5.0
+Title: DSLR Newbie
+Content:
+Others have sung the praises of this camera enough.  
+I will point to the only possible thing to look out for: write errors.  I ended up exchanging mine.  I concede that it may be the card (although it's happened on two different branded cards of different capacities, one SD (1 GB) and one SDHC (8 GB)), purchased from authorized retailers, not eBay. For an xxx dollar camera, I just couldn't take the chance that it was two bum cards before my exchange period ran out.  And yes, I formatted the cards in the camera multiple times and yes, I had a lot of capacity remaining on the card at the time of the error.  Searching photography forums, this is not an isolated case, but it doesn't seem overly common either.  When described to the Pentax rep (who was very helpful), she believed it to be a camera issue.
+Whether it is the cards or the camera, it would be nice that the camera would beep to alert you to errors.  The shutter will continue to operate and things will otherwise seem normal.  However, no images will be captured after the error.  You need to shut off and restart the camera to clear the error.  So, if you aren't checking after every shot, you might miss some shots that you can't get back.
+Hopefully the new one won't have the issue.

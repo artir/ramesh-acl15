@@ -1,0 +1,25 @@
+ID: B002L6HE8M-R3ABHEDDZ93Z2D-A3BQ0D1QD0PHAE
+Category: MP3Players
+Product: Apple-iPod-Generation-NEWEST-MODEL
+ReviewerID: A3BQ0D1QD0PHAE
+ReviewerName: Thomas C. Poulin
+Date: November 24, 2009
+Helpful: 11 of 11
+Rating: 5.0
+Title: Packs a punch
+Content:
+This is my third iPod, the others being a 40GB classic (hard drive model) and an 8GB 2g Nano (my wife's). I chose the Nano because I wanted something small and vibration tolerant that I could listen to while active (doing chores, exercising, etc.).
+The Good:
+* Simple, sleek, and cool--worthy of the Apple name.
+* Small size and relatively large display.
+* Navigation is straightforward, and syncing through iTunes is simple.
+* The radio feature with live pause is great. Now when I'm interrupted I can just pause and resume without missing the broadcast.
+* The video camera is a nice addition. As long as you realize it's more about convenience than quality you should be satisfied. On the Mac, your videos show up in iPhoto once you've enabled the Nano for disk use.
+* The silver color coordinates nicely with aluminum iMacs.
+The Bad:
+* I want a dedicated volume control. Yes, I know this would interrupt Apple's minimalist design philosophy, but some functions deserve their own physical controls. There are times when the scroll wheel controls other functions (menu navigation, traversing saved radio stations) and thus you can't directly, immediately change the volume, which I find annoying. Instead, I have to pause the unit first or navigate to "Now Playing", which is a hassle.
+* The Apple earbuds aren't going to win any audiophile awards. Their sound is pretty lousy, actually, but they're fine for listening when I'm engaged in an active task and don't have my full attention turned to listening.
+* It doesn't charge from certain older iPod accessories. I have a JBL Soundstage and an iHome under-counter player, and neither can charge/control the Nano. Apparently they use the Firewire rather than USB interface internally, which newer iPods don't support this anymore. You can still play the iPod through the devices though.
+* It's too easy to accidentally cover the camera lens when taking a video. I've found holding the Nano at the opposite end or along the edges works best, but it's a bit awkward due to the small size of the device.
+* VoiceOver is an interesting feature, but I turned it off because it kept getting unintentionally triggered when I scanned forward/back in a track (mostly for podcasts).
+* 16MB is probably enough for most people, but I have a large music collection and would like a larger memory option. Unfortunately this means moving to a bulkier model (the Touch or Classic).

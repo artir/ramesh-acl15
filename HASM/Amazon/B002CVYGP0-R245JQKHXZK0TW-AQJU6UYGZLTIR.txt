@@ -1,0 +1,11 @@
+ID: B002CVYGP0-R245JQKHXZK0TW-AQJU6UYGZLTIR
+Category: Laptops
+Product: Apple-MacBook-Pro-Bluetooth-Widescreen
+ReviewerID: AQJU6UYGZLTIR
+ReviewerName: S. Lasher
+Date: April 10, 2010
+Helpful: 0 of 1
+Rating: 5.0
+Title: MacBook Pro 13"
+Content:
+This is a great laptop. I was able to move up from the base model MacBook Pro by getting this slightly used one. Got it for almost the same price as a new base model. This model has a faster processor, 2.53 Ghz vs. 2.26 Ghz, bigger hard drive, 250 GB vs. 160 GB, and 4 GB of RAM vs. 2 GB. Also all the new pro's have the NVIDIA GeForce 9400M graphics processor with 256MB of DDR3 SDRAM shared with main memory. Have to say this is the most fantastic looking and working laptop I have ever used. Not to mention it comes with Apple's customer service which was just ranked #1 by a popular consumer publication. As a side note my wife and I have both had computers for over 12 years. I use Macs and she prefers PCs. In that 12 years I can not count the number of times I had to reformat or repair her various PCs due to viruses or just software problems with windows. While my Macs have had only one hardware problem with a video board back 9 years ago. That says a lot to me about the quality of Mac hardware and software. Just as an aside I do have to admit that Windows 7 is the closest to the Mac OSX that Windows has yet (have Win 7 on my Mac in a virtual machine). Get a Mac and you won't look back.

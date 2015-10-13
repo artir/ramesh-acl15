@@ -1,0 +1,11 @@
+ID: B0036QZ6FO-R19XHY380NTJUE-A3P89JT07XR1OT
+Category: Laptops
+Product: HEWLETT-PACKARD-High-Definition-LightScribe-Fingerprint
+ReviewerID: A3P89JT07XR1OT
+ReviewerName: Tamara O. Doloff
+Date: March 8, 2010
+Helpful: 0 of 1
+Rating: 2.0
+Title: I wish I hadn't bought this
+Content:
+It's fast and has a large memory.  It DOESN'T have a Bluetooth transceiver so you need to plug in a separate device for devices.  Sometimes the video driver crashes and flickers.  The physical plastic covering cracks easily and the softkeys (the lit up buttons just below the screen are stuck).

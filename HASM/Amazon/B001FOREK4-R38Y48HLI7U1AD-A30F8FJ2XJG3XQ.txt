@@ -1,0 +1,11 @@
+ID: B001FOREK4-R38Y48HLI7U1AD-A30F8FJ2XJG3XQ
+Category: DigitalSLRs
+Product: Sony-Alpha-24-6MP-Digital-Camera
+ReviewerID: A30F8FJ2XJG3XQ
+ReviewerName: Dr. Glenn "RidgeJumper"
+Date: January 12, 2009
+Helpful: 4 of 7
+Rating: 5.0
+Title: Love the camera - where is the manual?
+Content:
+I've been shooting the A900 with most of the Minolta 'G' lenses and especially like its capabilities with the F 2.8 300 mm G for birding and wildlife.  I have one gripe.  The "manual" for the camera is less substantial than those for the A100 or the A700.  With the time Sony took to get this fine beast to market you would think they would have a full featured companion manual and have provided code for Adobe, Microsoft et al  to render its RAW output.  Here I am with Vista 64 and 8 Gig of ram and Vista and Lightroom both balk at the RAW output.  I love the product but want a professional level back to be more integrated with the other tools sophisticated users employ.  Cannon would not be caught this way with a new high end product.  Kudos to the Minolta engineers for continuing to refine the surperb ergonomics but help us fully utilize what's been achieved in hardware in the field!

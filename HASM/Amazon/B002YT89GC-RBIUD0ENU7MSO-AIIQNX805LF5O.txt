@@ -1,0 +1,20 @@
+ID: B002YT89GC-RBIUD0ENU7MSO-AIIQNX805LF5O
+Category: Laptops
+Product: Sony-VGN-NW310F-15-5-Inch-Laptop-Brown
+ReviewerID: AIIQNX805LF5O
+ReviewerName: Seamus O'Boogie
+Date: March 21, 2010
+Helpful: 7 of 9
+Rating: 5.0
+Title: Nice budget computer
+Content:
+The keyboard on this notebook is the highlight, it has great feedback, separated chicklet keys, and has standard key placement (unlike some funky keyboards I have tried recently).  That is to say, delete in top right, escape top left and CTL bottom left, with arrow keys on the bottom right.  Also, it doesn't have the rarely needed numeric keypad, which is found on a lot of keyboards these days but requires your hand placement left of expected to type, which is what you do most of the time anyhow, right?  I like this keyboard better than those on the legendary Thinkpads of old.
+The screen is nice and sharp, I don't dislike the shiny screen as much as I had originally expected.  Colors are great.
+Hard drive has enough space for me, and the recovery procedure works well.  I made the recovery CDs as well, but I normally just clone the HD onto and old drive to have a backup that way. 
+The computer has nice selection of features, minus the HDMI that has been mentioned already.  
+I am very fond of the trackpad .. I grew up with IBMs and prefer the pointer stick, but this is the nicest trackpad I've ever used.  Buttons are in the right places and are the right size.
+Speakers are OK, better than many budget laptops.  The recessed keyboard is a nice looking design and the textured case is also quite cool looking.  This certainly doesn't look like a budget laptop. 
+There are a few negatives however.  First, Sony loads a ridiculous amount of "junkware" on this computer.  Trial versions of this and that, utilities of dubious importance, and a bunch of other junk I see no need for.  I took me about 45 minutes to get rid most of the egregious stuff.  The processor is 64 bit, and the Win7 version is 64 bit, which makes sense given the 4GB ram installed.  The processor does not have the Intel virtualization technology, but frankly having used Sun's free and excellent Virtual Box software for some time, which doesn't need this virtualization technology, I see no need for Intel's hardware virtualization.  
+Also, the computer ain't a light weight although it isn't a complete pig either.  
+I also installed XP Professional for giggles, the drivers are all available on Sony's site.  Man, it really flies with 32 bit XP.  
+All in all a very nice budget laptop.

@@ -1,0 +1,11 @@
+ID: B000VR3P9K-R3N9R30PD6GA6W-A2V0G2TVWP4NPG
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A2V0G2TVWP4NPG
+ReviewerName: Gene Lew "generide"
+Date: February 26, 2009
+Helpful: 1 of 2
+Rating: 5.0
+Title: unibody Macbook Pro definitely great
+Content:
+Upgraded from a Powerbook 15" to this Macbook Pro 15". Very nice stiff body with the new product.  Upgraded RAM to 4 GB and running VMWare Fusion with Windows 7 with great success. Very happy with the overall experience.  The new multiTouch trackpad is very nice since large and easy to find.  The only downside is that the large trackpad sometimes causes me to accidentlt touch it.

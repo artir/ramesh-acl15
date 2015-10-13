@@ -1,0 +1,20 @@
+ID: B00263ZA1I-R1GNQFA597OV5U-ASJLXOX1VD4DF
+Category: Laptops
+Product: Dell-Inspiron-Laptop-Notebook-Black
+ReviewerID: ASJLXOX1VD4DF
+ReviewerName: Mahlers2nd "Mom of Many Interests"
+Date: April 13, 2010
+Helpful: 1 of 1
+Rating: 1.0
+Title: Ok for Emergency back up but consider this a throw-away computer
+Content:
+I purchased this system about 9 months ago and for about 4 months, it received little to no use. However, as my IBM started acting up more and I started teaching online, I switched to the Dell as my primary system about 6 weeks ago. Yesterday, it started powering down randomly throughout the day. Since I teach online, I'm online most of the day. Tonight, it basically wouldn't even complete the boot sequence before shutting down again. I'm VERY VERY unhappy. No -- I didn't pay a lot for the system (less than four hundred bucks) but I expect it to last longer than 2 months of daily use. Well never buy a Dell again.
+My primary computer is an Thinkpad T61 which I love. It isn't fancy but my needs aren't fancy, either. I'm an IT person and also teach online so alot of what I am doing is accessing work systems remotely through VPN, using Microsoft Office, using the Internet etc. I'm not into gaming but do listen to music through my computer a lot.
+When my Thinkpad started shutting down at random intervals, I knew I couldn't afford to be without a computer... nor did I have the money to get a new Thinkpad. I wanted something pretty inexpensive that would be powerful enough to do what I needed. I went to our local Wally World to see what they had and they had this system for a price MUCH MUCH lower than listed here -- basically for the cost of a netbook. The one I have has 3 GB memory and runs Vista (though I could upgrade to Windows 7 if I were so inclined)
+This is a very adequate system for what I need to do. I have been using it for about 3 months now with absolutely no reliability issues at all. I wasn't wild about the feel of the trackpad but since I use it at home all the time, I use my handy dandy Kensington Expert Mouse Optical USB Trackball for PC or Mac 64325. The keyboard is fine to type on -- not as nice and crisp as my Thinkpad but not as squishy as some I have tried. I like the fact that it does not overheat -- I have had issues with HP systems that would get so hot you could barely touch them.
+The screen is gorgeous -- though again, I would prefer a non-glare screen but that is becoming harder and harder to find.
+Performance is adequate. It doesn't seem as zippy as my Thinkpad but that is probably the difference between running Vista and XP since the specs on the Dell are better than the specs on the Thinkpad.
+As shallow as this sounds, the Dell looks really nice -- mine is a medium blue and I really like the styling.
+I can tell that the build quality isn't the same as more expensive systems. However, I don't need a rugged system since I'm just using it for home use. Battery life is respectable but again, 99 percent of the time, I have it plugged in.
+Overall, I'm very satisfied with the system and would not hesitate to buy it again -- especially for what little it cost. The usability and "ergonomics" of the system are not significantly worse than more expensive systems and for basic home-office use, I believe it is a great system doing what I need it to do without being over-engineered for gaming and other system-intensive applications. Probably the most resource intensive thing I run on it is SAS Learning Edition 4.1: With the Little SAS Book for Enterprise Guide 4.1 and Mathematica and those work just fine.
+If you need a good basic system without alot of bells and whistles, I think you will be satisfied with this computer until it breaks down -- be sure to have an "hot spare" in reserve!

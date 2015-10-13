@@ -1,0 +1,11 @@
+ID: B000RNG3LK-R9ZUFXLU8AGA5-AMLNIC7KHTX1C
+Category: Laptops
+Product: Pavilion-DV9420US-17-inch-Processor-Premium
+ReviewerID: AMLNIC7KHTX1C
+ReviewerName: Brian
+Date: October 23, 2007
+Helpful: 3 of 6
+Rating: 2.0
+Title: Aggravatingly SLOW machine!!
+Content:
+I can't even stand to work on this computer because it is so slow.  I use my 4 year old Dell desktop instead whenever possible because it is twice as fast.  I don't know what the problem is...maybe another GB of RAM is needed to run vista.  It takes about 90 seconds to open a WORD document, or an Outlook email.  It is a nice looking machine with a great display and keyboard.  The performance is the only problem for me.

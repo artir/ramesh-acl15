@@ -1,0 +1,11 @@
+ID: B0000EI9VR-R2B3JPAKJOODT5-A3DG4CEX5LWKBK
+Category: MP3Players
+Product: iriver-H120-20GB-MP3-Jukebox
+ReviewerID: A3DG4CEX5LWKBK
+ReviewerName: Daniel S. Baum
+Date: January 31, 2004
+Helpful: 7 of 7
+Rating: 4.0
+Title: Some important details
+Content:
+A lot has already been said about the iHP's features so I am not going to go through that again. However I want to add a few points about details that are often overlooked and that turned out to be quite important to me.- A nice plus is that there is not only a standard, linear equalizer but also the SRS system built-in. I found that the &quot;TrueBass&quot; is especially useful. This effect that basically distorts the sound makes the bass frequencies sound pretty nice, even on cheap earplugs.- A minus on the equalizer and SRS is that they are not active in radio mode. This makes the radio sound very flat.- Another minus for me was that the iHP makes gaps of about a second between consecutive tracks. If you convert a CD like Pink Floyd's Dark Side of the Moon to WMA tracks, it sounds fine for example on the Windows Media Player. However, when played back on the iHP the sound is interrupted with silence between every track. I know that the iPod has the same problem but I thought they had fixed it meanwhile in a newer player like the iHP.- Finally, I noticed that now, after about half a year, the black paint on the aluminium case is throwing bubbles here and there and coming off.

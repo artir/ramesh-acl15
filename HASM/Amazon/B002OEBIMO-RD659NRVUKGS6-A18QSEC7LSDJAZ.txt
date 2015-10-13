@@ -1,0 +1,15 @@
+ID: B002OEBIMO-RD659NRVUKGS6-A18QSEC7LSDJAZ
+Category: Laptops
+Product: UL30A-X3-Light-13-3-Inch-Silver-Laptop
+ReviewerID: A18QSEC7LSDJAZ
+ReviewerName: Jun Liu
+Date: October 10, 2009
+Helpful: 0 of 6
+Rating: 2.0
+Title: The poor performance and low quality keyboard
+Content:
+I got this computer as a 2nd computer to obtain extra long battery life.  However, its performance despond me.
+ASUS claimed 12+ hr battery life.  I kept the computer under the condition where consumer can set to:  battery saving mode, dime the display, turn off the wireless, do not run any application.  The estimated battery from computer shown exact 10 hr, regarding the charging percentage in 100%, 95%, 90%, and 85%.  Basically, when the computer is idle, the estimated hour is always 10hr, less than 12 hr, also not accurate in different charging %.  So, I believe ASUS has lied to consumer about the battery life.
+The keyboard can be better.  Very often, the mouse cursor jumps around while I am typing.  No any other computer keyboard will do this type poor job.
+In addition, the computer does not come with Bluetooth and miss the carrying case and mouse as advertised by Amazon.
+Recommend wait for better model.

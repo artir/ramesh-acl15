@@ -1,0 +1,12 @@
+ID: B00126SV6G-RLHFINA3JNFHD-AIU5WKRXHV7K7
+Category: MP3Players
+Product: Creative-Portable-Media-Player-Black
+ReviewerID: AIU5WKRXHV7K7
+ReviewerName: P. Abe "Public TV Supporter"
+Date: July 2, 2008
+Helpful: 
+Rating: 4.0
+Title: Mac user+MP3+XNJB=Working Zen
+Content:
+I bought this unit to cokmplement a Creative Zen Nano Plus 1GB that was a great pocket MP3 player hampered only by limited memory capacity. I figured that it would do OK with the PowerBook, since I saw that CNET listed the Zen as "Mac compatible." To make a long story short, it isn't. I connected it up to a 3GHz Pentium 4 running Windows XP, installed the software, and was rewarded with a system that has a love/hate realtionship with the Zen. (Sometimes it works, sometimes it won't see the Zen player.) Yesterday (7/1/2008) I was at Low End Mac, looking at this and that when I saw an article on the new SanDisk Sansa Clip 4GB player, when the author mentioned a software fix for the Creative Zen. (http://www.wentnet.com/projects/xnjb/) XNJB provides a multiple window interface to view what's already on the Zen player, upload MP3s from your computer, etc. Why is this important to me? I have an old G3 and a newer G4 Mac PowerBook that have very different iTunes MP3 collections, ripped from my music CD collection that I'd like to mix up. In the iPod/iTunes world, you must choose one computer's MP3/AAC library, making it necessary to load other MP3s on a CD/DVD or external HDD. So, I can shuffle between The Who, Louis Armstrong, Dan Tyminski, Barefoot Natives, etc. 
+As for the Zen package, I don't use the supplied much-too-short USB cord; the one that came with a digital camera does the job. This unit doesn't come with an AC adpater, but I found an adequate Belkin F8Z121 wall charger that also charges iPods. Otherwise, it's a fine unit, though the FM radio tuner in this Zen doesn't log as many stations as the Zen Nano Plus did. I have a 4G 20GB iPod just for music and don't really need video playback, so this works out better than an iPod Nano for now.

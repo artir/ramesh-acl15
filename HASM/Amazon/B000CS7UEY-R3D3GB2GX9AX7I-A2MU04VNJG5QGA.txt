@@ -1,0 +1,17 @@
+ID: B000CS7UEY-R3D3GB2GX9AX7I-A2MU04VNJG5QGA
+Category: MP3Players
+Product: Creative-Zen-Vision-Video-Player
+ReviewerID: A2MU04VNJG5QGA
+ReviewerName: Happy Pappy "Happy Pappy"
+Date: March 1, 2007
+Helpful: 2 of 13
+Rating: 2.0
+Title: Slow Transfers, Poor Interface, Unpleasant Experience
+Content:
+The interface of this unit is organized around playlists. Even if you place your items into folders you can't access them via the folders. The interface is clumpsy and not intuitive.
+Transferring just over 2100 3-4 meg mp3 files to the unit and it requires more than 11 hours to complete the transfer. The transfer also locked up about 2/3 of the way through and had to be restarted.
+Transfered video of various formats. It would not play valid AVI files that play in Windows Media Player 9, complaining about frame rates. Transfered MPEG, MP4 files, again that play in Media Player 9, and they would not play on this unit.
+The thumb slide even set to the lowest sensitivity skips around the menus too quickly. It often takes several attempts to access the files you want.
+If you place items on the usb drive portion of the unit you can't seem to access them from the unit.
+Sound and screen quality are acceptable. Unit displayed JPG files adeqautely. I am however very dissatisfied with the interface, transfer speed and overall user experience. I've found the PSP to have a more intelligent user interface and much faster transfer rate.
+If you have an older OS you will be stuck using Windows Media Player to copy and organize files. I do not recommend this unit.

@@ -1,0 +1,31 @@
+ID: B0013FLU96-R1G7Q0YFG4I0IN-ALJGXOJOM145S
+Category: Laptops
+Product: Apple-MB133LL-15-4-inch-Processor-SuperDrive
+ReviewerID: ALJGXOJOM145S
+ReviewerName: hot4hypatia
+Date: October 5, 2008
+Helpful: 3 of 4
+Rating: 4.0
+Title: Apple for now, Linux in my future??
+Content:
+This is a good product as laptops for this price range go. I have the 2.2 ghz model.
+Pros:  
+1) Backlit keyboard is awesome
+2) Apple software works seamlessly with 3rd party applications - MS is still trying to catch up. I have no trouble downloading/installing software.
+3) Unix available at the command line level
+4) Free iLife 08 including useful appls like iTunes, iPhoto iMovie, and GarageBand
+5) Safari is a v. good browser
+Cons: 
+1) Screen does not display color as well as a PC (color dithering scam on its notebook displays). If you don't believe this - compare a PC and Mac notebook side by side. Ever wonder why Apple products are segregated from others (e.g. at B. Buy)?
+Scrolling in some windows may  have glitches (see inet forums for details)
+Ditto dragging in the mouse pad. 
+2) Leopard plug-ins/updates are still not all complete from some popular application programs. Fortunately I have 2 mac notebooks and the old one has Tiger on it. Tiger runs everything.
+3) Battery is still not as efficient as other laptops but my Dell 700 is even worse...
+4) Apple is almost as bad as MS at being proprietary about their software. 
+a) The Apple educational discounts have become progressively lower over the past 5 years. The Apple discounts on software are nowhere near as good as many others.
+ I can buy Lightroom 2 for a lot less than Aperture 2 via educational store
+b) Upgrading is also pricier.
+5) Apple phone support is really sucking recently and stay out of Apple retail stores- their 'geniuses' in support are not even marginally intelligent in the 2 stores in my area. 
+6) Apple quality control from the 'golden' days is nonexistent today. Just see the web forums for all the problems that users are having with ALL Apple products.
+7) Bluetooth keyboards do not have powered USB ports. Why not??
+Bottom Line: Still a cool product but it could definitely be better.

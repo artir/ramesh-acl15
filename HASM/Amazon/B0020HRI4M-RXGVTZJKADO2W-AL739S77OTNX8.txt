@@ -1,0 +1,12 @@
+ID: B0020HRI4M-RXGVTZJKADO2W-AL739S77OTNX8
+Category: Laptops
+Product: HP-Pavilion-DV7-2040US-17-3-Inch-Laptop
+ReviewerID: AL739S77OTNX8
+ReviewerName: Morvac "Morvac"
+Date: June 9, 2009
+Helpful: 4 of 4
+Rating: 4.0
+Title: Nice desktop replacement, first 'new' laptop
+Content:
+I work with computers for a living so i've always built and maintained my own systems but have held off on getting myself a laptop.  They've always been too small or slow or both - until now.  For what I am going to be using it for, it fits me perfectly.  I like having dual hard drives (2x250) so I could upgrade to SSD (which I plan to do for even more speed) at a later date.  I've upgraded my system from 4GB to 8GB and Vista lasted long enough to get a entire system backup.  I then formatted the system and installed Windows 7.  No matter how big or fast a laptop you buy, Vista will always seem like a dog when compared to 7 or XP.  Installing 7, it loaded most of the important drivers (wireless, lan and video) that is needed to get up and running - you will still need to download the rest of the vista drivers for the other odds/ends, but was for the most part painless.  I've got OpenOffice and AVG antivirus (both free) installed.  Be sure to adjust your power profiles within 7 (or Vista for that matter) to get the performance you want during on or off battery use.  Mine out of the box was 'vanilla' and needed ramped up a bit to get full use.  Just keep in mind this will change how long your battery will last, if you use it much on battery (which I do not). All in all, the only thing I would change about this laptop is - it is a bit too glossy for me.  Sure it looks nice and stuff right out of the box, but shows a lot of prints.  Also, it can get warm if you lay it on your lap for long periods of time.  Not sure if this is the right laptop to take with you on long flights across the country - it would probably stick out along the edges of your food tray, not to mention the heft as a carry on.  A 15" with a quad core would be nicer if you travel often.  I've owned it about a week now and would purchase it again without hesitation.
+Tip - if you plan to upgrade to 8GB of memory, seach ebay...I bought mine for 225.  (8GB 2x4gb) Windows experience under Vista was 5.5 (disks being weakest link), Win 7 was 5.6 (again, disks being weakest link - Proc/Ram scored 7.0)

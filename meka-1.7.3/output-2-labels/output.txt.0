@@ -1,0 +1,89 @@
+L=4
+i:Classifier_name=meka.classifiers.multilabel.RAkELd
+i:Classifier_ops=[-P, 0, -N, 0, -W, weka.classifiers.bayes.BayesNet, --, -Q, weka.classifiers.bayes.net.search.local.K2, --, -P, 1, -S, BAYES, -E, weka.classifiers.bayes.net.estimate.SimpleEstimator, --, -A, 0.5, -k, 2, -M, 2]
+i:Classifier_info={[0, 3][1, 2]}
+i:Dataset_name=lecture-quiz-subtitles-grading
+i:Type=CV
+i:Threshold=1.0
+i:Verbosity=10
+i:N(test)=25 +/- 0    
+i:L=4     +/- 0    
+i:Accuracy=0.736 +/- 0.089
+i:Hamming score=0.736 +/- 0.089
+i:Exact match=0.736 +/- 0.089
+i:Jaccard dist=0.264 +/- 0.089
+i:Hamming loss=0.264 +/- 0.089
+i:ZeroOne loss=0.264 +/- 0.089
+i:Harmonic score=0.736 +/- 0.089
+i:One error=0.264 +/- 0.089
+i:Rank loss=0.264 +/- 0.089
+i:Avg precision=0.846 +/- 0.052
+i:Log Loss (max L)=0.366 +/- 0.123
+i:Log Loss (max D)=0.85  +/- 0.286
+i:F1 micro avg=0.736 +/- 0.089
+i:F1 macro avg, by ex.=0.736 +/- 0.089
+i:F1 macro avg, by lbl=0.721 +/- 0.089
+i:Percent no-labels=0     +/- 0    
+i:Accuracy[0]=0.736 +/- 0.089
+i:Harmonic[0]=0.696 +/- 0.103
+i:Precision[0]=0.7   +/- 0.087
+i:Recall[0]=0.767 +/- 0.196
+i:Accuracy[1]=0.736 +/- 0.089
+i:Harmonic[1]=0.696 +/- 0.103
+i:Precision[1]=0.789 +/- 0.133
+i:Recall[1]=0.683 +/- 0.134
+i:Accuracy[2]=0.736 +/- 0.089
+i:Harmonic[2]=0.696 +/- 0.103
+i:Precision[2]=0.7   +/- 0.087
+i:Recall[2]=0.767 +/- 0.196
+i:Accuracy[3]=0.736 +/- 0.089
+i:Harmonic[3]=0.696 +/- 0.103
+i:Precision[3]=0.789 +/- 0.133
+i:Recall[3]=0.683 +/- 0.134
+i:LCard_pred=2     +/- 0    
+i:LCard_diff=0     +/- 0    
+i:LCard_diff[0]=-0.056 +/- 0.12 
+i:LCard_diff[1]=0.056 +/- 0.12 
+i:LCard_diff[2]=-0.056 +/- 0.12 
+i:LCard_diff[3]=0.056 +/- 0.12 
+i:N_train=225 +/- 0    
+i:N_test=25 +/- 0    
+i:LCard_train=2     +/- 0    
+i:LCard_test=2     +/- 0    
+i:Build_time=0.284 +/- 0.351
+i:Test_time=0.004 +/- 0.003
+i:Total_time=0.288 +/- 0.354
+v:N_train=225.0
+v:N_test=25.0
+v:LCard_train=2.0
+v:LCard_test=2.0
+v:Build_time=1.275
+v:Test_time=0.011
+v:Total_time=1.286
+|==== PREDICTIONS ===============>
+|    1 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|    2 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|    3 [ 0 1 0 1 ] [ 1.000 0.000 1.000 0.000 ]
+|    4 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|    5 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|    6 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|    7 [ 0 1 0 1 ] [ 1.000 0.000 1.000 0.000 ]
+|    8 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|    9 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|   10 [ 0 1 0 1 ] [ 1.000 0.000 1.000 0.000 ]
+|   11 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   12 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   13 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   14 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   15 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   16 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   17 [ 0 1 0 1 ] [ 1.000 0.000 1.000 0.000 ]
+|   18 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   19 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|   20 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|   21 [ 0 1 0 1 ] [ 1.000 0.000 1.000 0.000 ]
+|   22 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|   23 [ 1 0 1 0 ] [ 0.000 1.000 0.000 1.000 ]
+|   24 [ 0 1 0 1 ] [ 0.000 1.000 0.000 1.000 ]
+|   25 [ 1 0 1 0 ] [ 1.000 0.000 1.000 0.000 ]
+|==============================<

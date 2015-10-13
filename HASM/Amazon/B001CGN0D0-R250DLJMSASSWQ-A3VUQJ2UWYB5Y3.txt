@@ -1,0 +1,12 @@
+ID: B001CGN0D0-R250DLJMSASSWQ-A3VUQJ2UWYB5Y3
+Category: Laptops
+Product: Dell-15-4-Inch-Widescreen-Laptop-Tuxedo
+ReviewerID: A3VUQJ2UWYB5Y3
+ReviewerName: J. R. Malone
+Date: May 7, 2009
+Helpful: 1 of 3
+Rating: 4.0
+Title: Dell XPS M1530
+Content:
+I have owned my XPS for 1 year now.  Overall I am very satisfied.  This is my 4th Dell laptop and the build is the best of all, particularly the hinge on the screen.  After a year it is as stiff as it was out of the box.  I use this laptop for my business and I am usually on it 7-10 hours per day.  The screen is bright and the media player controls are convenient.
+The only problems I have had are on the touch pad and video card.  I do not use a mouse, only the touch pad.  Fortunately I purchased the 3 year In-Home warranty because I have already had the touchpad replaced twice and the mother board replaced once.  I seem to wear out the left enter key below the touchpad but the entire board has to be replaced.  I also lost my WSVGA capability due to a known NVidia 8600GT card problem.  Since it is integrated into the motherboard, again the entire board had to be replaced.  However, Dell did not hesitate to replace any of the components and sent a technician to my home within 24 hours.   This may sound serious but it was repaired quickly and easily and my overall satisfaction with the laptop outweighs any inconvenience.

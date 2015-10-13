@@ -1,0 +1,11 @@
+ID: B001PII4HW-R1WY3JAK8QPF2P-A1XXC9S1YT6JC7
+Category: Laptops
+Product: Sony-VAIO-VGN-P530H-Lifestyle-PC
+ReviewerID: A1XXC9S1YT6JC7
+ReviewerName: D. Singleton
+Date: April 25, 2009
+Helpful: 2 of 5
+Rating: 3.0
+Title: Nice piece of hardware but vista is SLOW!
+Content:
+I really like this device but Vista really limits its full potential. Vista bogs it down. Takes forever to resume from standby mode and takes a really long time to boot up from power up. Otherwise, Sony has cranked out an awesome device. I carry it with me all the time.

@@ -1,0 +1,12 @@
+ID: B001D23QKA-RHPJSNPHOH0WG-A15FSD3ZHSS4VS
+Category: MP3Players
+Product: Creative-Zen-Mozaic-Player-Black
+ReviewerID: A15FSD3ZHSS4VS
+ReviewerName: GP
+Date: December 24, 2008
+Helpful: 0 of 1
+Rating: 3.0
+Title: Annoying software.  Media Player dependency.
+Content:
+This is my third Creative MP3 player.  Purchased for 11 year old girl.  She loves it and the speaker is a major plus.    I have the Creative Zen, ultimately a better deal though not as "cute".  What I don't like makes me wish I had forgone cute. Specially:
+The player's PC software requires the latest version of Windows Media Player, which is NOT supported on Windows Media Center 2002.  So that's a major problem if that's your OS.  I installed instead on an XP machine with no problem.  The Creative browser is upgraded from the one that came with my Nano plus and my Zen and it's basically more confusing at first glance.  It wasn't intuitive and had little in common with the older versions.  If you just want to drag around files, it's going to annoy you.  If you want to be aggravated by over-bearing software, then you might as well get an iPOD.

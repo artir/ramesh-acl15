@@ -1,0 +1,18 @@
+ID: B002OOWBZM-R9O35BPHY7WIK-A3JV20Z4ZYRS8L
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1307-13-3-Inch-Ultrathin
+ReviewerID: A3JV20Z4ZYRS8L
+ReviewerName: Han Phu
+Date: December 13, 2009
+Helpful: 3 of 4
+Rating: 3.0
+Title: Great Laptop with some drawbacks
+Content:
+This laptop was not my first choice when I was looking to purchase.  I would have preferred the Asus UL series notebooks but the one I wanted was not in stock.  Unfortunately I am going to be returning this laptop as its wireless NIC has extremely limited range leading me and toshiba(tech support) to believe that it has a faulty wireless nic.  If the the wireless NIC had worked from the start I would have kept this laptop.  Has anyone else gotten a laptop with a bad wireless nic?
+I would recommend this laptop if it comes to you in working condition :).  It comes at a great price point... 
+Aesthetically this laptop is quite pleasing, it matches my iphone with its silver trim and black high gloss finish.  It is a fingerprint magnet.  The white edition would make the keys easier to see in low light conditions.
+I haven't done any rigorous testing or anything other than browsing with 5+ windows open, but it has performed quite well so far with my limited use.
+The usb sleep and charge feature is quite handy when you are travelling but need to recharge another device using the machines battery.  
+The Screen is bright and sharp and I am quite pleased with it.  Sound is weak without pumping up the smart audio equalizer settings which will lead to stress of your tiny laptop speakers.
+It puzzles me that Toshiba chose to include windows 7 32bit edition when this laptop has a max ram capacity of 8g when the OS does not take advantage of this.  
+I read a caption from another that summarized this laptop up quite well, you can do alot worse than buying this laptop ;).

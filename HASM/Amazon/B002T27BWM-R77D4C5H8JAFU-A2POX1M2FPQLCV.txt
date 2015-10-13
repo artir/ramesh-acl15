@@ -1,0 +1,14 @@
+ID: B002T27BWM-R77D4C5H8JAFU-A2POX1M2FPQLCV
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1305-TruBrite-Ultrathin
+ReviewerID: A2POX1M2FPQLCV
+ReviewerName: Angela J. Lordi
+Date: April 20, 2010
+Helpful: 2 of 3
+Rating: 3.0
+Title: Great form factor, but keyboard and mouse are awful
+Content:
+I love the size and weight of this laptop. Battery life is good also, which makes it a great laptop for carrying around. In theory, if you want an iPad, here is a device about the same size, but with full Windows (now THERE'S an "apps" collection) and a real keyboard, and USB (not to mention HDMI), BlueTooth and WiFi and MUCH more disk space. Sadly, like the iPad, there is no optical drive on this, but that is why it is so thin. I like the trade-off as I find myself using CD/DVD less and less.
+So, I bought one and I'll keep it, but I have two serious problems with this laptop, both related to input. First, as was mentioned, the touch pad is abysmal. The buttons are clumsy and when released, the button disconnects BEFORE the click, so you can think you are holding down the button but it has released electrically. The result is that you often "let go" of scroll bars or mouse drags. The two buttons are on one big button bar which makes them hard to find. And finally, the whole touch pad is an epic fail and Toshiba had to recall it. The bug is that if you push that single "button bar" near the middle, the touch pad stops working until you reboot, hibernate or even just sleep the thing for a moment. Toshiba will replace for free, but that means sending it in for 2-4 weeks. Blech.
+I am also picky about keyboards and this one is a loser. many of the keys will not register if pushed near the edges, so drop-outs are VERY common when you go back and re-read what you typed. I have had to add-in dropped letters three times already in this post.
+One more little nit: Toshiba, PLEASE bring back the dial-type volume knob mounted on the side. NOBODY likes to adjust the volume by holding down the FN key and looking for the buttons that do volume. NOBODY.

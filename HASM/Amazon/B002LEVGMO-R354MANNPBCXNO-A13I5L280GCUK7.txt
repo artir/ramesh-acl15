@@ -1,0 +1,18 @@
+ID: B002LEVGMO-R354MANNPBCXNO-A13I5L280GCUK7
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A13I5L280GCUK7
+ReviewerName: K. Milam "world traveller"
+Date: October 21, 2009
+Helpful: 
+Rating: 5.0
+Title: Netbook Killer
+Content:
+I received my Acer 1410 from Amazon a few weeks ago. So far I've been very pleased with it, and have no major complaints. I had shopped netbooks in the past, but the undersized screens, low resolutions, underpowered processors and small keyboards had always turned me off. The idea and price of the netbooks were right, but the execution was lacking.
+The 1410 addresses all of the problems of the typical netbook while maintaining an affordable price - it's truly the best of both worlds. As soon as I saw it, I knew I'd found the machine I was looking for.
+The 11.6" screen with a 1366x768 resolution make a real difference in screen landscape. 11.6" may not seem that much bigger than 8.9" or 10.1", but the difference is remarkable. No more side-scrolling and less vertical scrolling is required when viewing most web pages.
+The Intel Core2 solo processor is much quicker than the Atom processors found in most netbooks. I bought an extra 2GB of RAM, for a total of 4GB of RAM. I'll install 64 bit Windows 7 soon, to take full advantage of the RAM.
+The machine's footprint is a little smaller than an 8.5"x11" (A4) sheet of paper, and it's just around an inch tall at its thickest point. Its size, along with the weight of just over 3 pounds makes it truly portable.
+I'm also very pleased with the keyboard. Acer's stuffed a full-sized keyboard in this tiny package. The keys are completely flat, and there's not much space between them. This means it might take a little time and practice to get used to the keyboard completely, but after a couple of weeks, I'm touch-typing just as quickly on it as I do on a normal PC keyboard.
+I haven't gotten a full 6 hours of life out of the battery. I'm getting closer to 5.5 hours in my informal testing, but that's also while performing some disk-drive intensive operations or playing games that tax the system. I imagine I'd get 6 hours out of it with Wi-Fi disabled and performing less taxing operations.
+I have no problem with the glossy screen, nor with the trackpad. The glossy case does attract lots of fingerprints, but that's a small price to pay for such a great little machine.

@@ -1,0 +1,27 @@
+ID: B002PAQXCW-RUNRIXYB99WCT-ABRSTXAGTXPK8
+Category: Laptops
+Product: ASUS-G51J-A1-15-6-Inch-Gaming-Laptop
+ReviewerID: ABRSTXAGTXPK8
+ReviewerName: R. Baker
+Date: November 21, 2009
+Helpful: 12 of 12
+Rating: 5.0
+Title: Great gaming laptop
+Content:
+A very excellent gaming laptop for the money.  Sure, it's not as fast as a dedicated desktop gaming rig, but for a portable one it's hard to beat.  My only complaint would be the LCD is somewhat washed out which appears to be from the LED's in the top of the lid.  Notice when the rig is asleep and the screen raised, one can see bleedthrough from the blinking LED in logo.  Not a big deal, but if I had one complaint, that would be it.  Also, much to my surprise this thing stays pretty cool to the touch.  I expected it to get extremely hot, but it doesn't.  The air coming out of the left side is very hot, but to touch the laptop remains cool.  You can actually play games on this for hours without baking your hands and face off.
+Pros: 
+* Great performance for the price
+* ASUS provides an awesome warranty and accidental protection for this, so you can take it to a lan-party and not worry
+* Plays Dragon Age, Torchlight, Empire Total War, LFD1, Warhammer: DOW2, OFP2: Dragon Rising, MSFlight X, Demigod, all extremely well at native res
+* World of Warcraft runs beautifully at native res!
+* Keyboard functions well and has adjustable illumination
+* Relatively quiet for a gaming laptop
+* i7 processor is blazingly fast
+* HDMI and VGA output means this can be used to game on a TV (keep lid open!)
+* Included mouse and bag are both excellent and high quality
+* Totally reliable, no crashes even after hours of playing
+Cons:
+* The LED lights in the lid can bleed through into the LCD
+* ARMA2 runs very poorly
+* 260M graphics card slightly underclocked on this model
+* Cannot be used to game on an external monitor with lid closed (not really unexpected though)

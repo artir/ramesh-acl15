@@ -1,0 +1,20 @@
+ID: B00318CGHI-R1QZKL4QA61NVW-A2T2EBEPEHP6O2
+Category: Laptops
+Product: Pavilion-DV4-2161NR-14-1-Inch-Laptop-Digital
+ReviewerID: A2T2EBEPEHP6O2
+ReviewerName: Giuliano Morais
+Date: March 25, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Overall is great ! Battery not so good
+Content:
+Excellent product. I installed several softwares (IBM Websphere BPM suite) supposed not to be light and it runs pretty 
+fast without a big effort. It has a nice chess drawing in the lid, easy to clean. The screen is good. I wish it could be a 
+little brighter, but it is ok.
+The start up time is really short.
+It is so light, that I don't even think about removing the DVD player and using the plastic mock adapter (included)
+The graphics are good, nothing to complain about it.
+If you want a light and powerfull laptop for business or entertainment it seems to be perfect.
+In the BIOS setup program you can disable the fan to be ON all time. It can be ON only when required.
+The only cons I see is about the battery life and the touchpad that is not too sensitive (minor thing).
+I recommend this product

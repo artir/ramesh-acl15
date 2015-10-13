@@ -1,0 +1,16 @@
+ID: B002QQ8EKO-R387FPUWO8N3V3-A3Q2F4LMOL74UF
+Category: Laptops
+Product: Apple-MacBook-MC207LL-13-3-Inch-Laptop
+ReviewerID: A3Q2F4LMOL74UF
+ReviewerName: R. A. Hoke
+Date: January 5, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Macbook 13 inch great, not sure about Snow Leopard
+Content:
+Just bought our second Mac for the family (also have a 24" iMac), and we
+are very happy with this laptop. The only issue we have encountered is an
+issue with DVD and image (.DMG) file access in Snow Leopard, which seems to 
+be an OS issue, not specifically related to the Macbook.
+I also upgraded the memory from 2GB to 4GB with 3rd party RAM, and that was
+easy (once I got the small casing screws out).

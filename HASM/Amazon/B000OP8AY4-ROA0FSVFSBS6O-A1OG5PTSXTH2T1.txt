@@ -1,0 +1,12 @@
+ID: B000OP8AY4-ROA0FSVFSBS6O-A1OG5PTSXTH2T1
+Category: Laptops
+Product: Toshiba-Satellite-A135-S2326-Processor-SuperMulti
+ReviewerID: A1OG5PTSXTH2T1
+ReviewerName: Karthik Elangovan "Karthik"
+Date: June 20, 2007
+Helpful: 11 of 12
+Rating: 1.0
+Title: Terrible product for Vista
+Content:
+The laptop is quite simple and nice to handle. I had big time problems with its performance in vista. The system just slumps when you open an application as simple as windows media player. The CPU gets used 100% all the time and as the result the fan keeps running all the time and a ton of heat produced. I bought 1GB RAM to see if it improves but it didnt. As a last ditch resort, I downgraded the laptop to Windows XP Professional and it is good now. But the journey to downgrade also had its price. The drivers werent available from Toshiba website because they only support Vista drivers. Had a tough time searching through forums and get drivers for all the devices and get this laptop working. 
+My Conclusion is ALWAYS buy a good processor like AMD or Centrino for windows Vista. If you are still bent upon buying this, all the best!!

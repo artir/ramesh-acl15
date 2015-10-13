@@ -1,0 +1,14 @@
+ID: B00063ZVK0-RTDHXBX0Z3M3U-A2NET2SGSKJIGI
+Category: SpaceHeaters
+Product: Vornado-EH1-0028-06-Digital-Vortex-Heater
+ReviewerID: A2NET2SGSKJIGI
+ReviewerName: William R. Johnston "www.wrjohnston.net/reviews/"
+Date: January 2, 2010
+Helpful: 
+Rating: 1.0
+Title: Good idea, poorly executed
+Content:
+I've owned a Holmes "one Touch" space heater for a year or so, and was looking for new space heater with a digital thermostat.  My biggest problem with the old heater was that while it had a thermostat, it only had five settings.  Setting number three was too cold and the heater rarely came on, and setting number four was too hot, and the heater ran all night.  
+I bought the Vornado in hopes that it's digital thermostat would allow me to pick a specific temperature, and the unit would heat the room until that temperature was reached, and then turn off until the temperature fell below that setting.  However, the Vornado would not turn off once it reached the specific setting.  Instead, the heating element would cool down slightly, but would still be on, drawing 400-500 watts (on the low heat setting, which draws 700 watts when below the selected temp).  The fan would stay on as well, blowing lukewarm air around the room, creating a breeze which ended up having a cooling effect skin.  It would stay in the mode for 10-15 minutes, then drop down to a low speed fan mode, drawing 50 watts.
+The first night I had this unit, I set the temp to 67.  The next morning, I found that it had used over 6 kilowatt hours, which is more than the old unit used over several nights, and the room was not much warmer.  
+I think the heater would have been perfect for what I was looking for had the unit shut down completely once the desired setting was achieved, rather than wasting electricity creating a breeze, which negated the heat it had just put out.

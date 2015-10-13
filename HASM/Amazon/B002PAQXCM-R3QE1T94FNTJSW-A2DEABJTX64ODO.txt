@@ -1,0 +1,31 @@
+ID: B002PAQXCM-R3QE1T94FNTJSW-A2DEABJTX64ODO
+Category: Laptops
+Product: N81Vp-D2-14-Inch-Versatile-Entertainment-Windows
+ReviewerID: A2DEABJTX64ODO
+ReviewerName: Power user
+Date: December 29, 2009
+Helpful: 7 of 11
+Rating: 3.0
+Title: Powerful and cheap but clunky and cheapish
+Content:
+I actually bought the D1 but they are exactly the same except d1 has vista 32bit vs d2 has win7 64 bit but I installed win7 64bit 1st thing anyway , so it is now a D2 technically .. Also Amazon edited my review for the d1 to remove mention on bing cashback ... stupid ... I am really thinking of returning the laptop now ... 
+Why did I buy it: wanted a 13-14inch with good power, so found this with slightly positive reviews , warranty/insurance, very powerful, 14inch, good ventilation. Didn't get Dell studio 14z (price, too much heat, no dvd), sony vaio CW (price), HP DV4t (price if configured the same), DELL StudioXPS 13 (price, heat issues, battery duration,small touchpad)
+have had it for 5 days so far ... Got it for [...] (could have gotten it for [...] if I used bing cashback and [...] )
+Pros:
+-Very powerful.. CPU , GPU , HDD (7200rpm).. it got 5.9 on windows experience index because of the HDD, the CPU/RAM gets 6.4 & GPU gets 6.6 .that's with win 7 64bit, it got as far as I remember ; 5.4 or 5.9 on the CPU with vista 32bit that came with it..
+-Sooo cheap for such powerful components ( d1 is $850 on amazon, d2 is $900 after rebate)
+-Looks nice; not super nice, but nice..
+-Very well ventilation design .. for all that power, it doesn't get hot.
+-included mouse (not wireless) and bag...
+-full array of ports ( including FIVE usb ports, that is amazing )
+Cons:
+when you have so much power, the input devices should be up to the same standard; they are not
+-No backlit keyboard.. I know; I knew this before buying it; but when you get it and can't see the f1/f12 keys in the dark and can't see the WIFI / Bluetooth either ; not even the power button if it is not turned on ...
+-FN key on left of CTRL key ... VERY VERY Stupid .. I already knew, but thought I can adapt; not yet..
+-Horrible sounding and functioning touchpad buttons .. needs too much power to press and makes too much noise .. I already knew thru reviews but didn't appreciate how bad they are .. I honestly try to avoid using them ..
+-Now the worst part; the left side of the keyboard is so flimsy that when pressing any of those keys (ESC,`,1,2,TAB,Q,W,A,S,CAPS,LT SHIFT, Z,LT CTRL,FN) it makes so much noise ... you won't appreciate how frustrating or annoying this is until you use it ... Same about trying to avoid using them, except u can't
+-The DVD tray button is very difficult to press without directly looking at it ...
+- the scrolling bar on the touchpad is a hit/miss, you have to press the line drawn on the touchpad exactly for it to work , and it keeps scrolling even after u remove your finger, u have to press it again like u r applying a brake .. STUPID DESIGN ..
+- unresponsive keys: sometimes some keys don't respond to pressing them leading to too many typing errors ..
+- poooor battery life, though it is understandable, but at least ASUS should offer a 9 cell option ... 
+- f3,f4,f9 keys don't have labels for their other function ( default mail application, default browser, turn on/off touchpad in order)

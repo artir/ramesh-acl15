@@ -1,0 +1,27 @@
+ID: B00318CGHI-R246DRYYTXCR7G-A3KWQGZUJ6QEXP
+Category: Laptops
+Product: Pavilion-DV4-2161NR-14-1-Inch-Laptop-Digital
+ReviewerID: A3KWQGZUJ6QEXP
+ReviewerName: evaluator
+Date: March 20, 2010
+Helpful: 9 of 21
+Rating: 1.0
+Title: hopeless after sales support from HP...can't recommend this company
+Content:
+I bought HP Pavilion dv5-1251nr in June, 2009 from a reputed US store.
+After purchase, for first few months my laptop was fine but thereafter from mid Dec'09, I started to face issues of continuous mild noise emitting from the right top corner of laptop (where power cord is attached to the body) while booting my laptop or running anti-virus scan on hard drive.
+I hear a metallic click click sound also (that comes twice) when I switch on my laptop by pressing power button. Again, I hear continuous noise during shut-down which is similar to that occurring during start-up and it emits similar mild noise when I open or save files from / to hard disc. This is not even one year after purchase and naturally, I started wondering how a quality (?) product can start behaving abnormally within a few months.
+I contacted HP tech support (1 800 474 6836) who operates from all over India (cities of Mumbai, Hyderabad, Kolkata etc.) for last few days and each time, a different technical assistant would handle the complaint when I would explain and repeat the same thing to them. Each technical person would suggest different opinions and ask to try out a service pack and/or trouble shoot different options sometimes for more than an hour but were unable to make any conclusion when it is simple and clear from the very noise that it is purely a mechanical problem and not related to vista operating system or any driver software. Some of them promised to replace the hard disc but, seemed to be extremely cautious and each time they would request me to do more repeated troubleshooting.
+More interestingly, HP technical assistants from Kolkata seemed to respond under a dubbed name as when I asked last name of one of them, he replied that they would not expose their names to customers !!!
+However, this is not the practice for HP technical assistants from Hyderabad or Mumbai !!!
+Exasperated, I filed a complaint at HP site ([...]) where they allow customers to fill in a complaint form when there is no provision for US customers (or any US state)! However, I entered my details clubbing all information in different form fields. I got a complaint identification number and was notified that it had been recorded and would be forwarded to the relevant department.
+However, I do not have any status update from HP as yet as to redress of my complaint !!!
+Unfortunately, I did not check and investigate reputation of HP - after sales support before laptop purchase. There are numerous complaints and posts about HP products and especially about its apathy to prompt service... some of the posts indicate that to tackle customer complaints, HP employees write favorable reviews about HP and its products over internet !!!
+I came to know that a number of customers filed law suit in China against HP and verdict went in customers' favor and HP had to comply with court order.
+   
+Please read following posts before buying any HP product because of awful and atrocious service of this company !!!
+The last link gives a comparative analysis of HP with other reputed brands in the market (HP finishes last !!!).
+1. [...]
+2. [...]
+3. [...]
+Hope this information is useful !

@@ -1,0 +1,12 @@
+ID: B000W12V86-RS43NJFTXSFC4-AO21VQPJSYF75
+Category: Laptops
+Product: Pavilion-DV9650US-17-inch-Entertainment-Processor
+ReviewerID: AO21VQPJSYF75
+ReviewerName: Doc Landis "DocLandis"
+Date: February 15, 2008
+Helpful: 1 of 2
+Rating: 3.0
+Title: Less than
+Content:
+I was pleased with the processor speed and performance, however the integrated graphics as opposed to a stand alone graphics card, was a real let-down.
+Several games simply lock-up, or the video jumps so much as to render them unplayable.

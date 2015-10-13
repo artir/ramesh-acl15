@@ -1,0 +1,11 @@
+ID: B001NPDKX0-R3BKP0WYM9NZ2E-AXK04B6U1YFKI
+Category: Laptops
+Product: HP-Pavilion-HDX18-1180US-18-4-Inch-Laptop
+ReviewerID: AXK04B6U1YFKI
+ReviewerName: Peter S. Oliphant, Ph.D.
+Date: November 29, 2009
+Helpful: 0 of 1
+Rating: 1.0
+Title: Overheating HP's will burn you
+Content:
+We spent thousands on these HP laptops with their terrible design.  After a year or so, the things began overheating and now the fans run continuously trying to cool down this very unhappy, noisy, unsatistyfing product and we have to keep hands off the keyboard all the time.

@@ -1,0 +1,14 @@
+ID: B002HS6DWC-R2YQEANDE0BHBL-A136LRUR0RDH9J
+Category: Laptops
+Product: PAVILION-NOTEBOOK-DV7-2185DX-Processor-LAPTOP
+ReviewerID: A136LRUR0RDH9J
+ReviewerName: mompie "mompie"
+Date: July 16, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Decent system
+Content:
+I've had this computer for a few days now and I really like it.  The display is very bright (actually had to turn it down at night) and clear.  Processing speed is great and the 1gb of dedicated (yes I said dedicated) graphics memory is more than I could ask for from an off the shelf computer.  ProtectSmart feature for the hard drive is a nice addition (senses if laptop is being dropped and locks the hard drive).
+I just wish that it had a Blu-ray player and integrated Bluetooth that I saw on some lower priced models. See the review at [...]
+So far this computer has done everything I have asked of it.  One thing of note is to make sure your programs you are going to install are 64bit compatible.  I downloaded some demo software and found out it wouldn't work.
+Also this model is eligible for a free upgrade to Windows 7 if purchased between June 26, 2009 to January 31, 2010.

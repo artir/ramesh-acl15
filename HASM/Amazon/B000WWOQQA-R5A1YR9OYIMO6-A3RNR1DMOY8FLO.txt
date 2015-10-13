@@ -1,0 +1,12 @@
+ID: B000WWOQQA-R5A1YR9OYIMO6-A3RNR1DMOY8FLO
+Category: Laptops
+Product: Pavilion-Notebook-Processor-Lightscribe-SuperMulti
+ReviewerID: A3RNR1DMOY8FLO
+ReviewerName: Olivares Perez Alvaro Rafael
+Date: August 18, 2008
+Helpful: 5 of 5
+Rating: 4.0
+Title: Finally I can use it...
+Content:
+Well, rigth now I can say it's a very good notebook. But, if you are thinking to buy this model you have to know: (1) Windows Vista 32 bit only read up to 3GB of memory Ram, in other words, you have to upgrade to a 64 bits windows vista version if you want or need to use more than 3gb of memery ram (2) in my particular case, I never could to generate the restore disks, I buy them to HP and the set of disk never arrived and I never couldn't to contact anybody in HP to solve this problem. I loose 16$. (3) I bought a Windows Vista Ultimate 64bit and install it, after that, I downloaded all the drivers and software from HP website and install one by one (be carefully to search the correct ones, in the documentation you will find how), all of then operates fine.
+Finally, I have a very nice notebook, the best I've ever been.  I'm an Oracle Developer Consultant and I work hard with this machine and I can say "Ït's very nice"

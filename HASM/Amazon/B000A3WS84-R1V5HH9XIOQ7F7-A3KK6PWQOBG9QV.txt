@@ -1,0 +1,21 @@
+ID: B000A3WS84-R1V5HH9XIOQ7F7-A3KK6PWQOBG9QV
+Category: MP3Players
+Product: Apple-Video-Playback-Black-Generation
+ReviewerID: A3KK6PWQOBG9QV
+ReviewerName: andreas838
+Date: July 16, 2006
+Helpful: 7 of 7
+Rating: 5.0
+Title: How to deal with importing Audiobooks from CD, Great product!
+Content:
+For some, an iPod is all about music. Primarily, I use my iPod to listen to podcasts and audiobooks. I either buy the audiobooks at the bookstore or borrow them from the public library, where they are often available on CD.
+The problem is that a straightforward ripping operation from CD yields dozens of unorganized tracks in your iTunes library. On the iPod display, one can often see the uninformative title of 'Track 1' without knowing to which Disc it belongs. It's also distinctly possible that the iPod won't play the tracks in the correct order. 
+Here's the recipe (PC version) that I've come up with to effectively import audiobooks from CD to your iPod
+1. Make sure that iTunes uses AAC format to import audio. AAC files can be made bookmarkable, while MP3 files cannot. Under the Edit menu, choose Preferences. Select the 'Advanced' tab, then the 'Importing' tab and choose 'AAC Encoder'.
+2. Open iTunes and place the audiobook CD in the drive. The CD will then appear in iTunes.
+3. If you are online, the automatic lookup service may provide the title information or you can manually select 'Get CD Track Names' under the Advanced menu. If nothing comes, then 'Select All' under the Edit menu and right click to 'Get Info'. Fill in the artist/author, album/book title and disc information. Choose 'Books & Spoken' as the Genre and under 'Compilation' select 'No'
+4. Joining the tracks. Each CD usually has dozens of tracks on it which are rarely recognized by the automatic lookup service. Thus, joining the tracks from one disc into one track makes the content more manageable. Select all of the CD's tracks and choose 'Join CD Tracks' under the 'Advanced' menu.
+5. Select all tracks and either drag them into the Library to start the importation or click the 'Import CD' button in the upper right hand corner.
+6. After the importation finishes, click on Library, select the freshly imported track and right-click to 'Get Info'. You'll notice that the same title is in the fields, Name and Album. Under the Name field, add the disc number to the title (ie. title D1). If there are more than 9 discs, put an additional 0 (ie. 'D01') so that D10 doesn't confuse the playing order.  Make sure that the Album name is just the title. This way all of the disc tracks will be neatly categorized under the album name on your iPod.
+7. Artwork is a nice touch, especially if you have a Video iPod. Usually, you can find and save the cover image from amazon.com or by googling the title image. After importing all of the audiobook discs, click on Library, select all the audiobook tracks and right-click to 'Get Info'. Select the 'Artwork' tab and add the saved cover image. You can alternatively drag the artwork from the webpage into the artwork box on the bottom left.
+8. Sync your iPod and enjoy your book!

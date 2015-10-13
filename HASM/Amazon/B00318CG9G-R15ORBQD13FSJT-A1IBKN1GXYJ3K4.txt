@@ -1,0 +1,18 @@
+ID: B00318CG9G-R15ORBQD13FSJT-A1IBKN1GXYJ3K4
+Category: Laptops
+Product: Pavilion-DV6-2150US-15-6-Inch-Laptop-Black
+ReviewerID: A1IBKN1GXYJ3K4
+ReviewerName: Dave
+Date: January 23, 2010
+Helpful: 38 of 40
+Rating: 5.0
+Title: Big improvement over older DV6 line
+Content:
+Note: since I wrote a few reviews for some very simliar DV6 models Amazon has cross posted all those reviews.
+I posted a long review of the current crop of DV6-21xx series of notebooks here: HP Pavilion DV6-2170US.  The models are mostly the same with different CPUs (one has a discrete graphics chip).  All include the newest mobile processors from Intel which eclipse the older Core2 line in terms of performance.  Those with integrated graphics include Intel's new HD graphics which are also a big improvement over Intel's old 4500HD graphics (which are still inferior to discrete graphics chips from AMD/ATI and Nvidia when it come to 3D gaming).  I would suggest avoiding the older DV6 13xx and 12xx series unless you can get a really good price (which may happen as HP discontinues them).
+Here is the summary of models I posted in that review:
+If you're staring at the various DV6 models trying to decide which one to buy my advice is (based on the models available when I wrote this): 
+-	For home users who aren't gamers you can save about $100 if you go with the HP Pavilion DV6-2150US 15.6-Inch Laptop which combines a Core i3 with Win 7 Premium and a 6 cell battery. The performance for non-gaming software will be very close to the more expensive i5 models and you'll save money by going with Win 7 Premium and a smaller battery.
+-	If you need good battery life, run higher end software, or like to game a bit go for the HP Pavilion DV6-2170US which combines the Core i5 with the 12 cell battery.  The Intel graphics aren't the best but it's a big improvement over past products.  This is the model I think has the best balance of features.
+-	If gaming matters more than battery life you should probably look at other laptop lines but if you are sold on the DV6 go for the HP Pavilion DV6-2190US which has a quad CPU Core i7 and NVIDIA GeForce GT 230M graphics.  It's only got a 6 cell battery and that CPU and graphics are going to drain it quickly. You'll pay about $200 over this model.
+-	If you have a lot of older software consider the HP Pavilion DV6-2157SB Small Business Edition which comes with Windows 7 Pro (which can run older software on a WinXP kernel).  It has a Core i3 and a 6 cell battery.  It also has a different finish ("Plaid Mocha") but I haven't seen it so I can't comment on it.

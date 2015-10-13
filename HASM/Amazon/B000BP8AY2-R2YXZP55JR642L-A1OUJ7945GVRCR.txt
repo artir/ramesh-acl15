@@ -1,0 +1,13 @@
+ID: B000BP8AY2-R2YXZP55JR642L-A1OUJ7945GVRCR
+Category: MP3Players
+Product: SanDisk-Sansa-m250-Player-Black
+ReviewerID: A1OUJ7945GVRCR
+ReviewerName: Seer
+Date: December 9, 2005
+Helpful: 8 of 8
+Rating: 5.0
+Title: excellent little player
+Content:
+I've had this about a month now and performs well. Great sound, FM radio, voice recorder, what more could you ask for. I get about 16 hours of battery life per AAA. I've also dropped it a few times already and holds up well unlike my previous Rio Nitrus which stopped working after i dropped it.
+There is no software to install for Windows XP and its simple drag and drop. The navigation is straight forward you can play by artist, album, and other methods. For some reason though, it doesn't seem to recognize the track numbers in the id3 tag even though it sees everything else fine so it plays them out of order. I believe it plays it in the sequence you put it in the player.
+The FM reception is mediocre but the voice recorder is excellent. Also, the picture is a little misleading in its thickness. Its about 3/4 of an inch thick.

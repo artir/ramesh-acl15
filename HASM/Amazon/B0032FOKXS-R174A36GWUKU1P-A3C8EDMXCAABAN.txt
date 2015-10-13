@@ -1,0 +1,11 @@
+ID: B0032FOKXS-R174A36GWUKU1P-A3C8EDMXCAABAN
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A3C8EDMXCAABAN
+ReviewerName: Konstantin Kuleshov
+Date: April 22, 2010
+Helpful: 
+Rating: 4.0
+Title: Kostake
+Content:
+This laptop is really very good and I'm satisfied with it. But I do not understand how it can work up to 12 hours cos the maximum hours I've seen was 10 (I'm not telling I was constantly using it for 10 hours). There is a battery icon and clicking on this icon you can see how many more hours the laptop will work. With no any programs running, with 100% battery charged and "battery safe" settings ON the maximum hours I could see in that icon is 10.

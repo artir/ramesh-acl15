@@ -1,0 +1,21 @@
+ID: B000EPJLGK-R30A7W7N545E0Q-A2L7WYA5OENV03
+Category: MP3Players
+Product: Apple-Video-Player-White-Generation
+ReviewerID: A2L7WYA5OENV03
+ReviewerName: Reticuli
+Date: March 2, 2007
+Helpful: 55 of 61
+Rating: 3.0
+Title: A Niche Product
+Content:
+First things first.  The Apple sounds great.  With the Etymotic ER4S (a reference of mine for over 7 years), I find the headphone amp to be a little warm & rounded under moderate volumes and to get a little brittle on top at high volumes.  However, it doesn't get tinny and weird in the highs like the Sandisk Sansa e260 at high volumes and is far more transparent and delicate than the Sandisk, Phillips, or Archos units.  It is a night and day difference from the Phillips when it comes to smoothness and lack of distortion.  The circuitry is also well designed to the point that you'll never get thuds if you turn on or off the iPod when connected to a stereo.  Since the headphone jack works much better into 10k ohms loads, I would assume the sound is similar to at least a good mid-fi CD unit if you use a dongle on the bottom to get the pure line-out from it.
+However...
+1) The battery is not user replaceable.
+2) Battery life is below that rated by Apple unless under very controlled conditions.
+3) There is no MTP or MSC support.  You cannot use the unit with a non-Apple syncing program.  You cannot drag music into it manually.  You cannot drag music out of it manually.  Imagine you accidentally delete an original recording off your computer and the only copy left is on this ipod...hope your ipod lasts forever.  When it doesn't, you'll have to send it to Apple to replace the battery and they will not send your unit back, rather you'll get a refurb unit with a wiped drive.  Again, you MUST use iTunes with it, and this program will constantly try to connect to the iTunes store to sell you something.
+5) iTunes is NOT included in the packaging.  You must download it.  If you are unfortunate enough to temporarily have dial-up, that will take up to 5 hours and requires a steady connection.  If someone picks up the phone, you must start over.  If you have no internet at the moment, you cannot use this product.
+6) These newest gen iPods are surprisingly laggy.  Combined with the touch-wheel it is the least precise implementation of the iPod menu system Apple has executed to date.
+7)  You cannot jog/run with the unit, climb stairs rapidly, or walk too fast for more than about 20 or 30 seconds before it starts to lose the sound, especially with WAV files.  I cannot stress this enough.  If you hold the ipod in your hand and run gently you might get a few minutes out of it...tops.  Eventually, it will still skip.  Some micro-HD units can handle it, but this iPod is worse than a cheap Sony CD player with anti-shock in this regard.  I find this perplexing, because Apple includes a stopwatch with lap markers on this unit.  Do they think you'll leave a two hundred and fifty dollar timer just sitting on a track bench while you run?
+8)  The unit is EXTREMELY temperature sensitive.  I went outside and less than 10 minutes later it completely froze up...processing-wise, but just the same.  This was before I knew how to reset it, so I had to come all the way back home.  It's not below freezing out and my warm hand was around it.
+If you mostly want video, one of those dedicated video players is probably a better bet.  If you're just gently walking with the unit and it is thermally protected inside a foam case or in your jacket, you'll be fine with the new iPod.  Anything short of this will produce problems with it.  I'm looking for good sound, skip protection, reasonable capacity, reasonable temperature durability, and thoughtful packaging.  I did not find all of this here.
+Edit: WinAmp now supports iPods.  This is excellent news since WinAmp also has, via plug-in, 24-bit ASIO direct-to-output bit-perfect support.  It makes a complete media playback package.  This does not require a custom firmware inside the unit to work.  Thank goodness for hackers!

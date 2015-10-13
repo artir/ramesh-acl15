@@ -1,0 +1,11 @@
+ID: B002AURXTY-RVQ1TNA6S0W55-A1FO68QDWTFL7D
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS5810TZ-4274-15-6-Inch
+ReviewerID: A1FO68QDWTFL7D
+ReviewerName: bigtenor11
+Date: October 27, 2009
+Helpful: 
+Rating: 5.0
+Title: Amazing machine for the money
+Content:
+I bought the Acer Timeline because I just got rid of my MacBook with the intention of buying a MacBook Air. I stumbled across the Timeline and decided that with the cost (roughly 1/3 the price), it would be worth it to try the Timeline. It has turned out to be an awesome machine. I miss MacOSX, but Windows Vista works pretty well. The only drawback is the processor speed. However, the processor itself is a bonus. It is a low-energy processor, so I'm able to use this machine for a long time on a single charge (I've gone up to 9 hours while running FireFox, and up to 8 hours while running Word and MediaPlayer at the same time). So in my opinion, the slower processor is well worth it.

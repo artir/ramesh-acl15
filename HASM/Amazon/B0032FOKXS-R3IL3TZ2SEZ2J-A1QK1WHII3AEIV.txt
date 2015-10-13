@@ -1,0 +1,27 @@
+ID: B0032FOKXS-R3IL3TZ2SEZ2J-A1QK1WHII3AEIV
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: A1QK1WHII3AEIV
+ReviewerName: FAIL_DRUID
+Date: March 21, 2010
+Helpful: 5 of 5
+Rating: 4.0
+Title: Black Asus UL30VT-X1
+Content:
+If you want a portable notebook with the power of larger laptop and the battery power of a netbook, this is best price to performance ratio I have been able to find.
+Pros
+13" LED LCD display: granted the VIEWING ANGLES are limited, but with tweaking through nvidia's control panel the monitor is very crisp.
+Intel SU7300: Awesome compromise between power and performance, can be overclocked well for gaming and underclocked for better battery performance.  Windows 7 is very snappy and mutli-tasking (at least watching movies while working a word doc and surfing the web) is smooth.
+4gb or RAM: Works well enough and I don't see the need for an expensive upgrade.
+500gb drive at 5400RPM: Not the best, but certainly not the worst, I have heard that this drive excessively crackles but have not experienced it as of this writing.  Wish it came with a 120 SSD but then the notebook would be as expensive as a macbook.
+NVidia G210M Graphics: discrete graphics in a 13" body....HAWT.  Again, cheapest price to performance, only other discrete graphics in a notebook form of this size is the Alienware M11X otherwise you get the ATI Radeon 3200 or Intel integrated graphics. The Nvidia G210M will play HD without stuttering and most current games on reasonable settings.
+Keyboard:n Full island style keyboard is nice, some flex but overall very nice to work on coming from an eeepc 900ha
+Heat: Unlike every other small foot print netbook or notebook, this ASUS runs cool and stable.
+Weight: Just over 3.7 pounds, light for what it is but not as light as most would think.  Coming from a netbook, this guy is a bit more unwieldy but still thin and light for most 13".
+Trackpad: Interesting pad, pretty responsive and mutli-touch works very well with 3rd party synaptic drivers.
+CONS
+Bloatware: It probably would have just been worth it to do a fresh install of windows 7, but I have read that after a fresh install it takes even more tinkering to get all the hot keys working again and same with the ASUS power modes.  Uninstalling the crap-ware takes about an hour and is frustrating when most of those programs are not used by anyone I know.  
+Viewing angles: pretty terrible, takes some tinkering with the nvidia control panel to truly get the colors crisp and sharp, but it can be done, but then you need to be directly in front of  the monitor.
+Build quality: And here is the trade off why we are not paying macbook prices for the internals of a macbook.  The plastic casing is study, but everything has gloss, which adds gross fingerprints to everything and makes viewing even harder if you're close to a window on a sunny day or outside.  There also is some separation between the two chassis halves in the front where the lights are for power and wifi and such.
+Stickers: Took me about as long to get the stickers off as it did to uninstall bloatware, was not very happy with whoever glued them down or invented really great glue to terrorize new mobile computing owners.
+Overall I can confidently give this product 4 stars, I am very happy with my purchase and the pro's far outweigh the con's in my book.

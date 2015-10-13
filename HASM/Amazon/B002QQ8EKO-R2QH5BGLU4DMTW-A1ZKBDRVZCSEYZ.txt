@@ -1,0 +1,16 @@
+ID: B002QQ8EKO-R2QH5BGLU4DMTW-A1ZKBDRVZCSEYZ
+Category: Laptops
+Product: Apple-MacBook-MC207LL-13-3-Inch-Laptop
+ReviewerID: A1ZKBDRVZCSEYZ
+ReviewerName: GD from ND
+Date: November 2, 2009
+Helpful: 11 of 23
+Rating: 5.0
+Title: My First Mac.  Not the current model but it doesn't really matter.
+Content:
+In a nutshell, I love this little white MacBook. I bought it in Jan '09 and upgraded the memory to 2G (just for fun) and later upgraded to Snow Leopard (again just for fun).
+The Mac OS has performed flawlessly and so has the computer. The "blue screen of death" situation just doesn't occur. When a 3rd party program occasionally gets tangled up in itself it either closes down and you return to your desktop or if it hangs you can do a "Force Quit" and it quits. Simply an amazing feature of an operating system.
+I have used MS operating systems since 1986, prior to that a TRS Color Computer.  DOS always seemed stabile but starting with Windows 3 all that changed then along came Win 95, Win 98, Win ME and finally XP. I realized that for one reason or another I was having to do a hard system restore 3 to 5 times a year and that had been going on for a very long time. For a long time I thought maybe it was because of something I had done wrong but finally realized it wasn't me. I finally grew tired of Windows instability and vulnerability while on the internet and started experimenting with Linux. 
+Linux is cool but after trying some 15 - 20 different flavors of it and not finding any of them fully compatible with my old Dell laptop (and not being geeky enough to figure out how to make everything work) I gave up on Linux and made the transition to Mac and have absolutely no regrets. Everything works so smoothly together and with the OS and hardware designed hand in hand why wouldn't it?
+I used Boot Camp to install a OEM copy of XP in a small partition of my hard drive and about the only reason I maintain that is so I can run an old version of Flight Sim once in a while. I have no other need for Windows. I'm not a gamer and my computing needs are pretty much met with iWork and my camera's software.
+Buy the Mac, you'll love it. Buy David Pogue's book so you will know where stuff is and how to use it.

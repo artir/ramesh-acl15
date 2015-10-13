@@ -1,0 +1,20 @@
+ID: B000JO1380-R1C8I5BFSD78CQ-A19NY2MH4TTF3U
+Category: MP3Players
+Product: Apple-classic-Silver-Generation-MODEL
+ReviewerID: A19NY2MH4TTF3U
+ReviewerName: D. Hirtzogg
+Date: February 12, 2008
+Helpful: 2 of 2
+Rating: 2.0
+Title: Could it be? A hard drive music player with decent audio quality? Nope. Try again.
+Content:
+I put off getting an iPod for quite some time. Too expensive, I thought, and the sound quality probably isn't that good. But finally the alluring 80 gigabyte storage capacity and ultrahip stylings of the iPod Classic could keep me iPodless no longer, so I bought one.
+I have a fairly extensive collection of music on my computer, and I was already using iTunes, so loading it up was no problem. Quite pleasant actually. The battery was charged and the screen was great. Everything was fantastic. Until...
+I finally started listening to music on it. I tried the Apple headphones included with the unit. Rubbish, but that's to be expected. Moved up to my nice pair of around-ear studio headphones. Still not great. Messed with the EQ, and found this was the problem. And oh what a problem it was.
+First off, there's no custom EQ setting. Ridiculous.
+Second, none of the settings have adaquate bass for desirable listening. Stuck listening to tinny, trebley music sucks. And I'm not really an audiophile.
+Third, the EQ settings that approach having a listenable amount of bass response clip the signal. Digital distortion does not sound good like analog can. Harsh clipping in the lower registers. I've had a few portable CD players that had plenty of bass response sans clipping, so I know it is possible. This is just atrocious design. Seriously.
+Other reviews complain about a nonresponsive clickwheel, and the useless Cover Flow feature, but these aspects didn't bother me. I actually quite like everything about it except for the sound quality (I even imported a few discs using the Apple Lossless format and still the quality is disappointing). Even watching movies on the thing is kind of fun, which I was surprised about.
+Alas, I will continue to use it when out and about because having an enormous volume of music available at all times is quite convenient, and we all know convenience is everything in this day and age. 
+So, my recommendation would be not to buy this product if you care about how your music sounds, although if by some chance you are going to be running it through an external amplifier and EQ, you can disable the internal EQ and it will sound just fine. Try and find somebody with one so you can try it out before you buy to see if you mind the subpar audio. I doubt the Zune sounds better, but try that one out as well.
+UPDATE>>Bought some Sennheiser headphones that sound pretty good on the iPod. Still subpar, but listenable at least. Also, iTunes is really slow and freezes up for a few seconds after transferring music (yes, iTunes and firmware are up to date and my computer is fairly fast). Another poorly designed part about the iPod is that it puts all of your music in hidden folders and renames the files so that they look like "FIXQ" or "GHRY," making transferring music from the iPod to another computer a real hassle (and effectively impossible if looking for files without metadata).

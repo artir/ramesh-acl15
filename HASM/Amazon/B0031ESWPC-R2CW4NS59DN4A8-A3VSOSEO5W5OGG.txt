@@ -1,0 +1,13 @@
+ID: B0031ESWPC-R2CW4NS59DN4A8-A3VSOSEO5W5OGG
+Category: Laptops
+Product: TouchSmart-TM2-1070US-12-1-Inch-Riptide-Argento
+ReviewerID: A3VSOSEO5W5OGG
+ReviewerName: BookwormNYC
+Date: April 5, 2010
+Helpful: 5 of 7
+Rating: 1.0
+Title: HP Horrorshow
+Content:
+I am so appalled, I don't even know where to begin: yes it's a cute machine, but... it overheats. Mine has now been through three (!) rounds of repairs at HP's US service center in California. Three weeks after I bought it, it died (black screen). I sent it in, and they replaced the motherboard and the fan. When it came back a week later, it promptly died again after 2 hours of use. So back it went and this time they replaced the CPU, the videocard and the screen as well. Upon its return to me I immediately noticed that there was a dead pixel on the replacement screen. Plus it kept overheating precariously. So back to HP it went yet again, and this time the HP wonderboys sat on the laptop for two full weeks, telling me my machine was being "monitored" while in fact waiting for a back-ordered part (as the hardware technician later admitted).  
+Consider yourself warned not only on this particular touchsmart tablet, which seems too small for its own good and has a way of frying its CPU, but on HP customer service in general, which is really absolutely appalling. The poor souls at the HP helpdesk in India are reduced to reading the ever same scripts off a screen. So when you call to complain that the repair is taking too long, no matter who you talk to, you always get the same line: "please be patient, please help us to help you."
+The current state of affairs (as 0f 04/20): It works, but the design is what it is: it still overheats as soon as CPU use is heavy. Bottom line: I am now stuck with HP and this laptop, but lucky you: you don't have to be. You read this review :).

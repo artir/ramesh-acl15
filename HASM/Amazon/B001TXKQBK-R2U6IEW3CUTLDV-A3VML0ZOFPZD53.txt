@@ -1,0 +1,25 @@
+ID: B001TXKQBK-R2U6IEW3CUTLDV-A3VML0ZOFPZD53
+Category: DigitalSLRs
+Product: Olympus-Digital-Stabilization-14-42mm-40-150mm
+ReviewerID: A3VML0ZOFPZD53
+ReviewerName: philosoph
+Date: June 5, 2009
+Helpful: 131 of 132
+Rating: 5.0
+Title: quality, size & value
+Content:
+I've had the E-620 for a few weeks now and am quite pleased.  Other options I considered were the Nikon D5000, Canon T1i & XSi, Panasonic G1, Sony A300 & A350, and Pentax K200D & K20D.  Some comments with comparison notes:
+1) SIZE & WEIGHT -- There's no point in having a camera that is so bulky that it doesn't get much use. Only the Panasonic G1 is smaller than the E-620 but not by much.  There is a more dramatic difference in the size of the lenses, with Olympus being much smaller than all but Panasonic.  Makes for a very compact outfit. For anyone used to the size of film SLRs, the E-620 is very similar. My wife also found it the most comfortable for her to hold.
+2) BUILD QUALITY & HANDLING -- Very impressed with Olympus here. Solid, dense and with lots of sensibly placed buttons for direct access to settings. The other cameras had a less solid, plasticy feel, and their larger grips still weren't large enough for a comfortable pistol grip with my average size hands. The Sonys, in particular, had awkward button placement. The E-620 has a different style of grip where you hold the camera in the same way as old film SLRs, and is more appropriate to such a small camera. I carry the camera comfortably in my *left* hand, grasping the body and lens barrel with my fingers on the zoom ring; this frees my right hand from having to support the camera while working controls, and leaves my good hand open (I'm a righty).
+3) LENSES -- The kit zooms from Olympus are reputed to be of higher quality than the others, as well as being more compact. So far I have been very impressed. I didn't want to buy a camera only to feel the kit lenses needed replacing; I'd rather spend on lenses that offer new capabilities, like fast primes or dedicated macro lenses. For anyone interesting in using legacy manual focus lenses, inexpensive adapters are available to attach virtually any MF SLR lens to Olympus bodies; used lenses can be quite inexpensive on eBay. Panasonic is limited by a very small range of lenses. For a two lens kit, the E-620 was the cheapest option.
+4) IMAGE QUALITY -- I wanted to spend my time taking pictures, not fiddling with them in post-processing; Olympus has the best out-of-camera JPGs of the bunch (Canon and Pentax, in particular, fall short here). Although the smaller Olympus sensors are reputed to be a bit noisier, what noise there is is primarily luminance noise, giving images a film-like grain, rather than the colored blotches of chroma noise.  I've found noise very well controlled through ISO1000, even with noise reduction set to LOW. For printing up through 8x10 and monitor display, I don't think noise is a concern up through ISO1600 (certainly with noise reduction set to standard). One caveat: be sure to keep gradation set at NORMAL (the default), not AUTO, unless you really need it; using AUTO gradation will noticeably increase noise.
+5) IN BODY STABILIZATION -- I prefer in body stabilization to lens-based stabilization for two reasons: in body works with all lenses, and lenses can be more compact. You only carry one body but you are likely to carry multiple lenses, so it pays to keep them small.
+6) LIVE VIEW & LCD -- Olympus has the best live view implementation (maybe tied with Sony) with quite quick autofocus. This is very important if you want anyone, e.g. my wife or random bystanders, who's used to compact cameras to use your SLR for snapshots or the like. The tilt & swivel LCD is very handy and seemed more natural than Nikon or Sony's implementations.
+Overall, I found the E-620 to be the best value for a two lens kit.
+Here are a few notes on the other cameras I considered:
+Nikon D5000 -- Good build & handling, but a bit bulky. Live view isn't great. Much more expensive for a two lens kit than the Olympus.
+Canon T1i -- Not impressed by the build quality, felt plasticy. Not comfortable for me to hold. Out of camera JPGs not so good. Inferior kit lenses. Much more expensive for a two lens kit than the Olympus.
+Canon XSi -- Not impressed by the build quality, felt plasticy. Not comfortable for me to hold. Out of camera JPGs not so good. Bulkier than the Olympus.  Inferior kit lenses.
+Panasonic G1 -- Limited lens selection; will take legacy MF lenses but doesn't offer image stabilization with them since it isn't in the body.  Plasticy.  Not much smaller than the Olympus.  More expensive than Olympus for a two lens kit.
+Sony A300 & A350 -- Hated the button placement--ruled them out on that alone. Live view is very good though.
+Pentax K200D & K20D -- Poor out of camera JPGs. Great handling and build quality. Short on features. Kit lenses aren't great. No live view / live view useless.

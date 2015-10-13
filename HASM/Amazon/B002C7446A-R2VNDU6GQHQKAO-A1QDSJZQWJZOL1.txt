@@ -1,0 +1,30 @@
+ID: B002C7446A-R2VNDU6GQHQKAO-A1QDSJZQWJZOL1
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A1QDSJZQWJZOL1
+ReviewerName: T. Cox
+Date: September 6, 2009
+Helpful: 14 of 16
+Rating: 4.0
+Title: A jewel with imperfections
+Content:
+First the pros:
+- amazing build quality, nothing else comes close.
+- keyboard allows very fast touch-typing
+- now supports up to 8GB RAM, making it more future-proof
+- very thin and portable
+- SD + Firewire 800
+- fast performance, both video watching and regular tasks
+- so sleek it makes windows laptops look like plastic lunch boxes
+Now the cons:
+- USB ports have been crowded together to make room for SD slot
+- LED backlighting is kind of blue, cold, and gray like an overcast day
+- much stronger pixel-walk / pixel-inversion 30 Hz flicker than on my 12" Powerbook
+- quiet but annoying "funk" or "pop" sound every 20 seconds (using OSX 10.5.8)
+- line out + audio in are now in same port, meaning you need an audio interface to record line-in while headphone monitoring
+- glass layer on screen means very high glare
+- turning up brightness to eliminate glare hurts the eyes, turning down brightness creates disorienting glare
+- smells bad when the fans turn on
+A word about the glossy screen. It's not glossy like the plastic screen of the white macbook, but a mirror-polished glass surface that gives much brighter reflections. If you're sensitive to motion sickness, this may create mild headaches and nausea because each eye sees a different reflection, and the reflection bounces if you're typing on an unsteady surface. Couple this with the brightness or cold grayness of the LED backlighting and a slight 30Hz flicker (which I measured using a solar cell and oscilloscope) and you have potential problems. 
+Some people have complained of burning, achy eyes, and headaches and slight queasiness. You can somewhat minimize the problem by turning brightness down to half, calibrating using advanced settings with gamma around 2.0 and color temps around 6300k, but the reflections will still be an issue. Yet other people have no problems at all. Just take this into consideration, as it can be a deal breaker: what's the point of having a powerful beautiful machine if you can't even use it for more than ten minutes at a time...
+So, if the screen works for you, you'll be thrilled with this machine. If you are sensitive and get eye strain and worse, then you'll regret your purchase. I am of the latter group, and really hope Apple eventually offers matte/anti-glare option for the 13" MBP.

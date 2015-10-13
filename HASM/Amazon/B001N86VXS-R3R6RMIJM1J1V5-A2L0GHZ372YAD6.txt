@@ -1,0 +1,11 @@
+ID: B001N86VXS-R3R6RMIJM1J1V5-A2L0GHZ372YAD6
+Category: Laptops
+Product: Notebook-Processor-1-60GHz-Brightview-Infinity
+ReviewerID: A2L0GHZ372YAD6
+ReviewerName: Dorf
+Date: October 4, 2009
+Helpful: 
+Rating: 4.0
+Title: More bang for the buck
+Content:
+Finding anything on this specific Hewlett Packard HP Mini 110-1033CL was a challenge.  My wife just bought one for my Grandson from COSTCO and it appears to have more features than were available in the past.  For one, it has a 160GB SATA hard drive, and for another the standard battery is a 6 cell which lasts way longer than the smaller 3 cell.  I haven't had much time to work with this machine but the display is fairly bright and the keyboard easy to use.  My only concern was how long Microsoft plans to continue supporting Windows XP.  I may turn it back in in a couple of months if HP comes out with a mini that has Windows 7 loaded, along with 4 GB of ram to make it work correctly.  I suspect it will cost more as well.

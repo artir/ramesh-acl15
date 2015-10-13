@@ -1,0 +1,34 @@
+ID: B0002UB2PU-R15HPYZ7CB4SLG-AW5S9TTGHIHHI
+Category: MP3Players
+Product: Rio-Forge-256-Sport-Player
+ReviewerID: AW5S9TTGHIHHI
+ReviewerName: C. D PAPAS
+Date: October 14, 2004
+Helpful: 
+Rating: 2.0
+Title: 256 Has Same Problems as 128
+Content:
+FM TUNER
+The FM tuner sucks. Sorry there is no other way of putting it. I went into the top floor of my house and compared it to my clock radio. I am about 25 miles outside Albany NY and the clock radio pulled in 12 FM stations very clearly. The Forge pulled in 3 stations clearly, the other 9 were so weak they were unlistenable. When the backlight is on, these 3 stations are unlistenable until it goes off. To top that off, once going downstairs and outside for a run, the Forge pulled in ZERO stations clearly. That's right, when I go for a run I can not listen to ANY FM stations, without loads of static.
+I brought the Forge to work with me (downtown Albany), and the FM tuner pulls in 6 stations very clearly. I took it around the block and the 6 stations all stayed clear. It seems that if you are close to a big city, live in a big city, or are near an FM tower, you should be fine with the Forge FM tuner, otherwise pretend like the FM tuner doesn't exist.
+Memory
+Clearly the 128 MB version is not big enough and I will soon be getting a 1GB SD card. This option is what is keeping me from returning the Forge. The IRiver doesn't have the expandable memory and unless you want to keep running to your computer every day to reload playlists, you need a lot of memory.
+Playback
+Very good. Quality is excellent, even at the lowest sampling rates.
+Headphones
+Definite thumbs down. They fell out twice while doing my 5 mile run. Let me clarify, the headphone for my right ear fell out twice, the left stayed nicely in. The slightest tug is enough to slowly move the earphones out of position. Another 12" of cord might alleviate this problem. Regardless of their quality (which is so-so), they must be replaced.
+StopWatch
+This is why I bought the Forge. Well it's OK, but the lap counter only shows the last two laps you completed, and I haven't figured out how, if there is a way, to view previous lap times. Then I noticed if you take out the headphones from the player ( I did this when the cord got tangled) the stopwatch stops. In fact the whole Forge stopped - its as though the headphones are wired to the power and the player shuts down when the headphones are removed (this royally screwed up my time, but I won't do it again).
+It also sucks because while the StopWatch is running and you go to player mode, if you touch the lap counter, it doesn't work - you HAVE to be in StopWatch mode. This is a royal pain because in StopWatch mode you can't skip to the next song, so you have to keep switching back and forth.
+Software
+Clearly excellent. Installed without any problems, easily recognized my Forge and rips CD's with speed. I set up my playlists in no time at all, and selecting artists/albums/playlists is very easy. The RIO engineers got this right.
+ArmBand
+It's OK. I wanted to put the armband on my wrist so it was easier to view, but the armband isn't designed for such a small circumference and it must go on my upper arm. Body builders will have no problem putting this on their wrist.
+Unless I'm doing something wrong, the beltclip must go into the ArmBand to hold the player. Neither the booklet that came with the RIO or the 64 page PDF manual has a SINGLE word about how to use the beltclip or the armband. Big, stupid ommission from the RIO technical writers.
+Durability
+Player appears to be well built. I'm not concerned about it's long term durability but I will post back if the player has problems over the coming months.
+Conclusion
+It's an OK player. When (if?) IRiver comes out with a stopwatch and expandable memory, I will EBay my RIO.
+(UPDATE) -- Rio fixed their FM problems by adding a capacitor to the unit.  The FM tuner is now acceptable, pulling in almost as many stations as the IRiver ifp-790 I compared it to.  I would say the Rio, with the fix, is about 90% as good as the IRiver FM tuner.
+(UPDATE #2)
+I sent my Rio back for a refund.  The unit consistently shuts itself down whenever I press a button.  This started happening after a couple of weeks and Rio said the contacts weren't making good contact.  Rio support fixed the problem when they fixed the FM problems, so I thought it was specific to just my unit.  After hearing so many others complain about this problem, plus it has begun occuring again in my unit, I think people ought to know about it.  The same issues have been stated concerning the 128MB version.

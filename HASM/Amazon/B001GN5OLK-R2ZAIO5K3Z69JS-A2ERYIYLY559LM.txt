@@ -1,0 +1,28 @@
+ID: B001GN5OLK-R2ZAIO5K3Z69JS-A2ERYIYLY559LM
+Category: Laptops
+Product: Dell-Latitude-E6400-Processor-Professional
+ReviewerID: A2ERYIYLY559LM
+ReviewerName: Cordless4Ever "Cordless4Ever"
+Date: August 25, 2009
+Helpful: 
+Rating: 4.0
+Title: Finally backlit keyboard
+Content:
+This is pretty much configuartion that I got and performance is pretty good with this laptop.
+Lighted keyaboard had an impact on decission when I decided to buy this laptop and it is really nice and usefull feature that I was looking some time for it.
+Pros:
+- Very stable, no reboots and doesn't get frozen even when moving/shaking it
+- Good metal construction --> no flexing
+- Good set of connection slots for perrifferrals
+- Backlit keyboard
+- Very bright screen but not the best color rendering
+- e-SATA external connector
+- Internal Intel wireless 5300 AGN WiFi card is excellent
+Cons:
+- LCD display is somewhat washed out although very bright
+- It gets very hot even just browsing internet after relatively brief period. Poor ventilation.
+- Somewhat heavy for its size
+- Average battery life (little bit over 3hr of usage when just browsing internet via WiFi with standard battery)
+- Proprietary HDMI connector (need to buy separate pigtail adapter)
+I have it almost for a year now and no crashes or some issues or glitches so far. 
+Overall very good business laptop.

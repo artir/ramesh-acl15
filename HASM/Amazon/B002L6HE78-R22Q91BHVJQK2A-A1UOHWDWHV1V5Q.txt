@@ -1,0 +1,23 @@
+ID: B002L6HE78-R22Q91BHVJQK2A-A1UOHWDWHV1V5Q
+Category: MP3Players
+Product: Apple-Green-Generation-NEWEST-MODEL
+ReviewerID: A1UOHWDWHV1V5Q
+ReviewerName: R. Gritzo
+Date: December 26, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: feature rich, but a few nits...
+Content:
+feature rich ipod, a couple of nice improvements over the 3rd gen nano.
+picks (good things):
+) radio works surprisingly well.  took some time to get used to the UI and even had to read the manual a bit, but even in marginal areas it pulls in the low power public broadcasting station i like 35 miles away, better than some fixed based radios.  very impressed and pleased.
+) the bigger screen is nice, but could be better used (see below).
+nits (things that could be improved)
+) battery life seems short compared to my 3gen. may be the way i have the sleep settings, so i am playing with it more.
+) camera lens is in an awkward place for me.  i always have my fat finger over the lens, or risk dropping it.  it would be better in the top-center of the unit, IMHO.  would be nice if it did just still photo mode as well. maybe it does, but i have not found out how.
+) the screen does not display anything useful in landscape mode during audio podcasts.  just displays the music album cover coverflow. not too useful.  it would be nice if the display truly auto-rotated, making it easier to pick out segments of a podcast, etc.  be better if the coverflow worked for podcasts too.
+) built-in speaker is useless to me.  sounds like those cheezy greeting cards you buy that play music when you open them.  
+things to just be aware of:
+) if you are getting older, the unit will be kind of hard to hold and use some times.  it is so thin and tall that it slips out of my hands.  also, the way the earphones come out on the bottom left side makes it hard to hold and run in your left hand.
+) rythmbox on linux does not recognize this device well enough to play it.  have not had time to sort that out..
+it does what it advertises, so that is why it gets so many stars from me.  but - if my android platform phone keeps improving, and apple does not pay some attention to the feedback they get and fix some of these nits, this may be my last ipod.  will move all my content over to the phone where i have much more power over the user interface...  you listening apple?

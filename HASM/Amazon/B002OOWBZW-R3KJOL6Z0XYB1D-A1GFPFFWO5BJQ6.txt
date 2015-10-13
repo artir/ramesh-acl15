@@ -1,0 +1,16 @@
+ID: B002OOWBZW-R3KJOL6Z0XYB1D-A1GFPFFWO5BJQ6
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1310-13-3-Inch-Ultrathin
+ReviewerID: A1GFPFFWO5BJQ6
+ReviewerName: Yannleei L. Lee
+Date: January 16, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Just what I need
+Content:
+-update jan 29, 2010-
+apparently toshiba released an update for the conexant audio driver that more than corrects the volume; how it's actually a bit on the loud side sometimes, i now keep the system volume at &lt;50% instead of 100% pre-update
+---------------------
+For its price, you can't beat it.  Has a better CPU than many similar products, and is a great fit for what it's designed to do.  It's not a desktop replacement, but packs more power than a netbook, and is great as a secondary, travel computer.  
+When I was deciding to buy, it came down between this and the ASUS UL30A-X5 Thin and Light 13.3-Inch Black Laptop - 12 Hours of Battery Life (Windows 7 Home Premium); the asus has a marginally better CPU ([...]), bigger hdd, and a bit longer battery life (though the toshiba has plenty already).  On the other hand, the toshiba has a better webcam, bluetooth, and the sleep & charge feature which comes in handy if you have a smartphone, and is also $100 cheaper.  And then there's personal preference issues with the design/finish/port layout/indicator lights/etc
+Some cons people mentioned, the finish does get covered with fingerprints easily, but nothing a quick screen cleaner wipe won't fix, which most people should have anyways.  I do wish there was a latch to hold it closed.  And while toshiba has a lot of interesting add-on software (some useful) there's a lot of utilities that computer-savvy users will find unnecessary.  There's not much actual bloat, but for people who know how to manage certain features through windows, it ends up being bloat.  As far as the speakers, the volume is sort of low, but since i think of it more as a travel laptop, i don't need people sitting around me at the airport to hear everything i do anyways.  I do wish there was a physical volume dial though

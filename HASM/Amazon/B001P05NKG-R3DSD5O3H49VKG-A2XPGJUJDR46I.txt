@@ -1,0 +1,11 @@
+ID: B001P05NKG-R3DSD5O3H49VKG-A2XPGJUJDR46I
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A2XPGJUJDR46I
+ReviewerName: Gaurav Kishore
+Date: December 13, 2009
+Helpful: 
+Rating: 5.0
+Title: Apple MacBook Pro 13" 2.53Ghz Core2Duo 4Gb 1067 - ROCKS
+Content:
+My first Mac laptop, absolutely love it, 100% satisfied with it in every way. I use it primarily for Java/Ruby based development, run MySql, Apache, MAMP, Eclipse (Galileo/Ganymeade), JBoss AS, Tomcat, IntelliJ, Photoshop CS4 design work. Of course all the time I run iTunes, Firefox, Tweetie etc. It is blazingly fast, shuts down and wakes up in a wink of eye, works exactly as I want it to, no unnecessary restarts/shutdown due to updates, no hassle of virus scanning, functions without any problem! I have been using it for 6 weeks now with no problems - at all.

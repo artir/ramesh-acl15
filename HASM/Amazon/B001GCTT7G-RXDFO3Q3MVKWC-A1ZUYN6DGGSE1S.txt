@@ -1,0 +1,33 @@
+ID: B001GCTT7G-RXDFO3Q3MVKWC-A1ZUYN6DGGSE1S
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A1ZUYN6DGGSE1S
+ReviewerName: B. Yang
+Date: February 22, 2009
+Helpful: 6 of 8
+Rating: 4.0
+Title: Another Vista to Mac Convert
+Content:
+I've been a PC guy my whole life.  I briefly owned an iBook with OS 10.3 Panther and I hated it. I was a bit reluctant to buy another Mac but I've had about enough of Windows Vista.  
+I had been using a Sony VAIO with Vista for about a year before it started giving me guff. Certain music production applications (Ableton Live and Reason) would stall on start up and it would take me 3-5 time of ending the task and restarting the app before I could getting it running properly. These two programs were the only ones that had this issue. I tried reinstalling the programs but that solved nothing. I also had issues with a couple of the MS updates, IE updates and a .NET update would not install. After contacting MS tech support, they prescribed a complete Vista reinstall as a remedy. I thought that was a bit much just to install a couple of updates. These issues along with Vista's sluggish performance convinced me to give OS X another try.
+As with all of my big purchases, I did my fair share of research and read countless reviews, positive and negative ones. One of the recurring themes in the negative reviews I read were the objections to the new glossy glass displays. "It's a mirror disguised as a computer display," some said. When I first took the computer out of the box and saw how reflective the display was, I started thinking about all of those reviews. When I powered the computer on, all of those unfavorable reviews seemed unfounded. The bright LED display, for the most part, is able to counter its mirror-like properties.
+The MacBook's physique with it's all aluminum case, and sleek, slim design is, of course, a huge part of the Mac's appeal. I personally love the feel of the keyboard on the MacBook and the new trackpad with the multi-touch gestures. When I first heard about the multi-touch gestures, I thought it was just a gimmick. However, after using them, I must say they're very practical. Namely, two-finger tap for right-click, two-finger scroll, and four-finger swipe for Exposé.
+OS X is great at handling system resources, especially when compared to Vista. Upon start up, without any applications open OS X only uses 285 MBs of RAM while Vista hogs 760 MBs of RAM. Coming from Windows, I do feel like OS X is a bit limited in some areas but I'll be able to live with it.
+Although my MacBook will be my main computer, I also have an old bulky IBM ThinkPad running Windows XP as my backup laptop/travel buddy. This MacBook has changed my mind about Apple products and OS X. But that's not to say that I'm a Mac zealot now. I still cling to XP and I have high hopes for Windows 7. I'm sure I'll lust for a new computer with Windows 7 when it's finally released. For now, though, I'm very pleased with my MacBook.
+Pros:
+-Design
+-Aluminum unibody case
+-Quiet running computer
+-Keyboard
+-Trackpad with multi-touch gestures
+-Bundled software
+-Able to run Windows with Boot Camp or virtualization apps
+-Time Machine
+-OS X
+Cons:
+-OS X
+-Price
+-Only two USB ports
+-Lack of Firewire
+-No media card reader
+-No ExpressCard slot

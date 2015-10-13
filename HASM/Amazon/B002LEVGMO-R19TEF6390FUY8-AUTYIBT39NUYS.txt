@@ -1,0 +1,27 @@
+ID: B002LEVGMO-R19TEF6390FUY8-AUTYIBT39NUYS
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: AUTYIBT39NUYS
+ReviewerName: M. Weaver "Inkwell"
+Date: October 19, 2009
+Helpful: 
+Rating: 5.0
+Title: Great Netbook- Stunning performance with 64 bit Ubuntu and 4 GB Ram
+Content:
+This netbook ships with 32-bit Vista and 2 GB ram.  It's adequate but hardly impressive.  The OS installation adds a surprising amount of bloatware which take a long time to load.  The extra programs nag quite a bit and require constant updates - the laptop was always slow for the first 10-15 minutes after boot due to the various updates and automatic downloads.  Once I stripped these out and bumped the memory to 4 GB it got better but still wasn't any faster than my ancient P4 2.8 with XP Pro. As I use my laptop on the road and do minimal video editing I had planned to use Vista and Windows Movie Maker.  Though this machine is not really designed for multimedia, I was surprised that loading any AVI or WMV files pretty much froze it.
+I use Ubuntu x64 and Kino on my desktop, and out of curiosity I loaded it onto this system.  All went very smoothly; the wireless worked perfectly but I did wind up installing a driver for the Ethernet NIC manually.  I got Kino, ffmpeg, and Flash running without mishap, and I'm editing and trimming a 300 mb AVI outdoors in the sunshine as I write this.  I have to say the performance with Ubuntu 9.04 x64 is far better than I expected and it's more than usable as an inexpensive travel system.  It's not as fast as a new Macbook Pro, but it's a *lot* cheaper.
+Pros:  
+Speed (for the price)
+Screen GREAT for a netbook!
+64 bit chip!
+Holds 4 GB ram
+Decent HDD
+Keyboard
+3 USB ports
+Surprisingly good wireless
+Whole system w/ extra memory only about 450.00
+Cons:
+Ships with bloated 32 bit Vista.  I expect it would be faster with XP or 64 bit Windows 7 (it does have an upgrade to Win7 option)
+Battery not really six hours - more like 4 - 4.5
+Acer tech support only so-so.
+As the de facto tech department for a number of organizations, I have used and configured a number of Asus, Samsung and Dell netbooks; I consider the this the first one that's truly usable every day.  The 1410 is the one I bought.

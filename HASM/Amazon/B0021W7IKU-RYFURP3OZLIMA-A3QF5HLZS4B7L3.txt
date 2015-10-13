@@ -1,0 +1,18 @@
+ID: B0021W7IKU-RYFURP3OZLIMA-A3QF5HLZS4B7L3
+Category: Laptops
+Product: Lenovo-ThinkPad-SL500-2746-Notebook
+ReviewerID: A3QF5HLZS4B7L3
+ReviewerName: Allen P. Frederick
+Date: March 27, 2010
+Helpful: 
+Rating: 1.0
+Title: Took a chance -- and lost.
+Content:
+I had owned an IBM Thinkpad about 7 years ago, and it was a solid machine.  Six months ago, I needed a new laptop for home use.  I have had such great luck with Dell computers, and that's what I wanted to get, but Dell was charging $130 to "downgrade" to Windows XP, so I bought the Lenovo SL500, with XP included, instead.
+The first thing that I noticed is that the computer was wrapped in bubble wrap and shipped in a UPS box similar to a USPS Priority Mail type box.  That it!  No styrofoam or anything!
+When I got it home, I discovered a bad pixel on the display.  I immediately packed it back up for return, but when I got on the website, I discovered that you have to have a certain number of pixels bad on a display before they will take it back -- there is some acceptable standard of bad pixels that we should all expect to be OK.
+Next, the unit comes with wireless and a Realtek network adapter.  It took me the better part of two days to figure out how to get the network adapter to appear on the hardware list so that I could select and enable it.  This required support outside of Lenovo's useless customer service.
+I finally got the thing up and running, and have not been terribly unhappy -- until about three weeks ago, when the machine suddenly stopped loading web pages in their entirety, regardless of whether I'm going through the network card or I'm using the wireless adapter.  The unit does a successful DNS lookup finds the page, begins loading... and thbpbpb... bupkiss.  (Guys, you know what that's like...)
+After checking to make sure the issue was not on my cable modem, router or other network components, I downloaded all the diagnostics from the Lenovo site and ran them.  They tell me that everything is fine!  I've reloaded the ROM BIOS.  I've unloaded and reloaded the software firewall and anti-virus scanner.  Still bupkiss.
+Now I am digging up an old pile of junk Gateway from the basement to use just for web browsing.  The Lenovo just won't do it -- and there's nothing else wrong with it!  It finds my e-mail server just fine.
+Do yourself a favor -- STAY AWAY from Lenovo products!  It wasn't worth the lousy $130 I saved.

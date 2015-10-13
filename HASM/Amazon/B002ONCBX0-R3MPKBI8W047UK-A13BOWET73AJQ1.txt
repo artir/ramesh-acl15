@@ -1,0 +1,25 @@
+ID: B002ONCBX0-R3MPKBI8W047UK-A13BOWET73AJQ1
+Category: Laptops
+Product: Pavilion-DV6-1360US-15-6-Inch-Espresso-Laptop
+ReviewerID: A13BOWET73AJQ1
+ReviewerName: drgteeth611
+Date: November 12, 2009
+Helpful: 25 of 25
+Rating: 4.0
+Title: Great budget gaming laptop
+Content:
+For the dv6-1360us
+Pros:
+Price - For less than 900, I got a laptop that can play the games I want at high settings and is fairly light for portability's sake.
+Keyboard - This laptop has a pretty comfortable keyboard to type on.  I'm not a huge fan of the touch controls for volume and wireless adapter, but you get used to it quickly.  The inclusion of a numpad is great and it doesn't make the keyboard feel squashed.
+DDR3 RAM - This computer can handle a lot of various tasks together and the bumped up performance from the DDR3 RAM is pretty noticeable.
+Movies - Good resolution on the screen.  Not 1080p, but still great to watch movies on.  HDMI output is awesome
+Speakers - MUCH louder and clearer than any other laptop I've ever owned.  No Bass, but I didn't expect any.
+Great Graphics Card -  I have tried playing various different games, including WoW, Crysis, CoD4, Resident Evil 5, and Prototype.  I have had very nice framerates for all of the games at high settings without overclocking
+The little remote control that they include with the laptop clicks nicely into the expresscard slot and is great for when you connect the computer to a screen and want to watch a movie.
+Cons:
+This thing is a fingerprint and dust magnet.  Be ready to wipe it clean several times a week with the included microfiber cloth.
+The 6 cell battery that is included is pretty mediocre.  At all settings on optimal, I squeezed out about an hour and a half on it.  At optimal battery life, it was about 2 hours and 15 minutes.  I will probably invest in a 12 cell battery.
+No BluRay - I didn't actually expect bluray on a laptop this cheap, but it'd be nice
+ATI's video card drivers are still in Beta.  I haven't had any troubles so far, but until a stable release, I'm still a little worried and crossing my fingers.
+The HP LED light on the case is kind of annoying since you can't turn it off at all.  and it is BRIGHT

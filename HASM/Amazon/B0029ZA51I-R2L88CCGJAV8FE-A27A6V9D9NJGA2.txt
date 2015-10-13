@@ -1,0 +1,11 @@
+ID: B0029ZA51I-R2L88CCGJAV8FE-A27A6V9D9NJGA2
+Category: Laptops
+Product: Pavilion-DV4-1430US-14-1-Inch-Entertainment-Laptop
+ReviewerID: A27A6V9D9NJGA2
+ReviewerName: Gabo "Artist & Writer"
+Date: August 22, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Good value - basic laptop
+Content:
+My sister needed a basic laptop to run Powerpoint and use web based apps like gmail, google docs, etc. And take it on the road while making presentations to customers. A netbook was tempting but she needed the DVD unit so we chose this one instead. It is slow, but that was fixed by turning off many unnecessary Windows Vista services that just consume too much CPU power. After tweaking Vista (it took about 2 hours, you can google the term "Tweak Windows Vista" and get to a great site with the proper info) we manage to run it very fast. We also did a clean install of Windows XP and it works even better. At that point we got what we wanted: a Netbook with god battery life and a DVD unit all for less that $499 after rebates. For $499 a good value. For $700 it is a bit overpriced as at that price point the basic Macbook at $999 is a better option hardware wise.

@@ -1,0 +1,18 @@
+ID: B0034GXNYM-R3E0YTAU12IFY2-A2WXEAW9HSTR6W
+Category: Laptops
+Product: N61JQ-A1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A2WXEAW9HSTR6W
+ReviewerName: M. Meyer
+Date: March 24, 2010
+Helpful: 2 of 2
+Rating: 4.0
+Title: Outstanding value - user interface could use some work
+Content:
+As most of you know, the N61JQ has no peer when it comes to internal hardware at the $1K price point. The i7, 5730 graphics card, screen size, and numerous ports make this a great value. With all that power inside, the laptop runs very quiet, stays fairly cool, and keeps a charge for 2 hours on battery. It's also slim and stunning, and feels fairly light for a 16" laptop. 
+So why give this laptop 4 stars? While the guts of the computer are great, the user interface and "finishing touches" are lacking. Several features found at the $1K price point on other laptops are missing, specifically:
+1) Poor speakers - the N61 has a large bar across the top for the speakers, along with "Altec Lansing" branding, yet the speaker sound can best be compared to music played on a cell phone. If I were Altec Lansing, I would NOT want my name on this laptop.
+2) Keyboard flex - yes it is there (on the left side), and yes I feel it with normal typing. If you're not sure what keyboard flex is, imaging hitting the "e" key and having the entire keyboard push down in that area. It feels very cheap compared to the rest of the laptop.
+3) Multitouch is ineffective - Asus proudly markets their laptops as having multitouch, just like Macs. But what they should really say is that it's in beta and is available if you want to try it. Scrolling up and down on a web page (the most useful multitouch feature) is jumpy. When you stop scrolling, the page will jump and up and down like it doesn't know how to stop scrolling. It also confuses scrolling for zoom and will randomly zoom the page in and out. If you've ever used a Mac, you will be sorely disappointed with multitouch on an Asus. The only use I've had for it is to scroll all the way up or down on a page quickly.
+4) No ambient light sensor or backlit keyboard - so these aren't showstoppers... but they would have been really nice for a laptop in this price range. The keys are all black, making a backlit keyboard extremely useful. My last laptop had an ambient light sensor which automatically adjusted the screen brightness. So I guess I'm spoiled. I find myself messing with the screen brightness quite a bit depending on the situation (dark room, brightly lit kitchen). 
+Finally, there are two more minor things which drag this laptop down one star - bloatware and stickers. Why must every PC come with 20 programs that I don't care about? You will spend at least 1 hour removing crappy programs with this computer right after you boot it up. Oh, and why must I have 3 crooked stickers on the palmrest telling me this is laptop has Windows 7, ATI graphics card, and an Intel processor? I'm going to try and take those off soon. The crappy welcome video, along with the bloatware and stickers, gives you a first impression of "ugh, not sure I want to keep this" eventually leading to "ahhhh, I like this!" It's like Asus makes you wade through a field of crap before letting you realize how great this laptop really is. 
+In summary, I measured this laptop against a high standard. If you want raw processing and graphics power then this is your laptop. If you want the complete package then you may be a bit let down. I would still purchase this laptop again as it's the best value for $1K.

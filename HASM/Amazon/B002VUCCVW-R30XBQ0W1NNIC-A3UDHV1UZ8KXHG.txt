@@ -1,0 +1,15 @@
+ID: B002VUCCVW-R30XBQ0W1NNIC-A3UDHV1UZ8KXHG
+Category: Laptops
+Product: Dell-AX-3600GSL-13-4-Inch-Windows-Premium
+ReviewerID: A3UDHV1UZ8KXHG
+ReviewerName: W. Lefkowitz "-bill"
+Date: March 14, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: perfect for a work computer
+Content:
+Got the Adamo xps for work.  I do a lot with microsoft office including outlook and onenote.  I couldn't have asked for a better machine.  thin and easy to carry (esp with extended battery to curl fingers around).  easy to open, very comfortable keyboard for standard typing.  can use on lap without discomfort despite footprint because it's light.  solid state drive is big enough for my use.  battery life is good, not great.  found a good solution is to have a plug for work and one for home.  lasts over four hours (through all but the most horrible meetings) and I only use it in power-saver mode with screen at one step above dim - good for indoors.  I also have one of those logitech nano receiver mice and not bluetooth.
+Good: microsoft office works flawlessly.  it benefits from solid state drive more than processor speed.  While using skype the processor is pinned at 50-70% (not for graphics intense applications clearly) and doesn't skip a beat even when simultaneously using office programs.  at idle processor sits at 1-2%. can even use in bed or propped on pillow since the vents won't get obstructed.  whisper quiet. keyboard with firm tactile response.  snappy in-and-out of sleep mode - a function of the solid-state drive.  Hinge is firm enough that I prop screen at comfortable viewing angles without losing the solid feel of the laptop.
+needs improvement: battery difficult to change.  no backlit keyboard (I had read there was one).  function keys are flush with keyboard but still pretty easy to use.  mouse pad is very sensitive and thumb intermittently hits it while typing, which can be distracting.  no fingerprint reader.  facial recognition was not good for me even after a week of training, so it's un-installed.
+haven't tried: external monitor but works well with usb projector.  on plane but there is no reason it wouldn't work on a food tray.
+overall no surprises (except missing backlit keyboard) and plenty to like.  It's not a game machine, and it's more than a netbook.  the greatest feature is the carry-ability.  battery life better than expected based on the reviews.  As noted elsewhere, it's not available from dell anymore ("end of life" is what they told me).  It's a "premium price for last years hardware" but frankly, the laptop I used was three years old and bulky.  even last year's technology is still very good.  I'd suggest not getting it as a "toy" but as a quick to pop open full featured laptop to use for typical office tasks it's tough to beat.  The form, in this case, is what I paid for and there were fewer, and more minor, compromises than I was expecting.

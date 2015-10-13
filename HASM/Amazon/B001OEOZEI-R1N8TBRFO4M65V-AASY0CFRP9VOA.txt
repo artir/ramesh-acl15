@@ -1,0 +1,11 @@
+ID: B001OEOZEI-R1N8TBRFO4M65V-AASY0CFRP9VOA
+Category: Laptops
+Product: TouchSmart-multi-touch-diagonal-High-Definition-Widescreen
+ReviewerID: AASY0CFRP9VOA
+ReviewerName: N. Roberton
+Date: February 25, 2009
+Helpful: 4 of 4
+Rating: 4.0
+Title: Nice machine, but prefer the shiny screen
+Content:
+This computer is really the only choice if you need performance in a tablet/touch form-factor. The HP multi-touch software doesn't add much to it, however (I have been running it with Windows 7 and no manufacturer software) and it will be a while before there are meaningful mult-touch applications available (I use it myself for designing/prototyping future apps). My only complaint is that I borrowed this exact model from a coworker and have been using it while I wait for mine to arrive. When mine came, I found it has a very grainy, almost unviewable screen. I never selected an option for shiny/matte, so this is particularly frustrating. I understand why they would have changed it (as the shiny version attracts lots of greasy smudging), but after using both I much prefer the shiny screen to the new grainy one (the smudging was no where near as bad as the grainy film on the new one -- and I can always clean it if it bothers me).

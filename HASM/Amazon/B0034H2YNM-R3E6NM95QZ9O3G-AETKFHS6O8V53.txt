@@ -1,0 +1,14 @@
+ID: B0034H2YNM-R3E6NM95QZ9O3G-AETKFHS6O8V53
+Category: Laptops
+Product: UL80Vt-14-Inch-Light-Laptop-Silver
+ReviewerID: AETKFHS6O8V53
+ReviewerName: Sham Shpade
+Date: December 8, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: As good as a MacBook Pro?
+Content:
+I've had this computer for a month now after giving up a MacBook Pro.  I was hesitant about Windows 7 but so far so good, no major glitches or gotchas.
+Pros:  Great price, good battery life, doesn't get too hot, Windows selection of software is immense, nice display
+Cons: No keyboard backlight, touchpad is not as sophisticated as the MacBook, left/right click buttonbar is funky.
+My biggest complaint is probably the touchpad. While it does have some of the 1 to 3 finger gesturing the Apple has, the MacBook pro pad is simply more refined.  You have to be careful when typing on the keyboard not to hit the touchpad with a thumb or palm otherwise the cursor zooms off into some strange part of the screen.  It may take a bit more tweaking in the software to make the pad a bit more discriminating, time will tell.

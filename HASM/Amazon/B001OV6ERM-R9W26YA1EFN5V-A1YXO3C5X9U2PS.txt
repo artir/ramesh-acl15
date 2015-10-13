@@ -1,0 +1,13 @@
+ID: B001OV6ERM-R9W26YA1EFN5V-A1YXO3C5X9U2PS
+Category: Laptops
+Product: Gateway-MC7833u-T6400-500GB-Laptop
+ReviewerID: A1YXO3C5X9U2PS
+ReviewerName: Tony R. Mays
+Date: March 24, 2010
+Helpful: 
+Rating: 3.0
+Title: This product is... usable.
+Content:
+I was expecting quite a bit more from this laptop, as its technical specs are pretty good. The screen is a decent size, easy to see in bright light, and clear.  The backlit keys are a great touch, if not a bit wonky.  Other customers complain about the weight, but I've never really had a problem with that... unfortunately, that is partly due to the fact that I can't take it anywhere. (See my gripes) The keys are a bit hard to type on at first. I don't know if I just got used to them, or if I broke them in.  The touch pad works well, as do the mouse buttons. The sound quality is decent until you try listening to something while there's background noise. 
+Now, for the bad things. First off, a month or two after I received the laptop, the battery stopped working properly.  The battery icon on the tray will either say 0% constantly, plugged in and not charging, or read 100% constantly.  Whenever I un plug it, it dies 10-15 minutes later, regardless of how long it's been plugged in. I don't know if this is an issue with vista, or the laptop itself, as neither gateway nor amazon would refund my money or fix it... even though I bought the three year limited warranty. Next, the leather padding began to lose its stickiness and began bubbling up. It looks really terrible, and despite having peeled it up and super glued it back down, it still bubbles up.  Also, sometimes randomly, the media control touch buttons stop working and lighting up. I've yet to figure out why, but restarting usually fixes it.  My biggest gripe with it aside from the battery issue is the fact that the video card (or lack thereof) is no upgradable.  Do not buy this if you plan on playing any video games aside from MMOs (World of Warcraft, Champions Online, Final Fantasy XI, etc.) As I mentioned before, with even the littlest background noise, the computer's tiny speakers just do not cut it.  Finally, the computer just doesn't seem like it has as much RAM and processing power as it does.  It will lag out rather terribly for no reason at times, and this is not due to viruses or anything like that.
+To sum it up: If you just need something for putsing around on the internet, or playing MMOs, it's a good deal.  But for anything more complicated, like heavy photo/video editing, this computer might not make the grade.

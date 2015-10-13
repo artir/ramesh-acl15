@@ -1,0 +1,40 @@
+ID: B000OK0YWK-R3NVT587YLNYWY-A369KUYU6SIYIL
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Red
+ReviewerID: A369KUYU6SIYIL
+ReviewerName: Will Buffington "RubberChicken"
+Date: April 20, 2007
+Helpful: 11 of 16
+Rating: 4.0
+Title: Not a bad piece of hardware
+Content:
+I was given a Zune as a gift, recently. This isn't the first MP3 player I've owned but it's the one with the largest capacity to store data that I've owned. Up front I'll tell you that I'm not a hardcore iPod junkie, nor am I an Apple kiss-butt. I believe in products that work. That being said I can see why people prefer the iPod over the Zune, though I will say that the Zune isn't deserving of some of the bashing I've read on these boards from people who believe it's cool to bash Microsoft products just because they were made by Microsoft. 
+The Good
+1. The Zune has a large, bright LCD screen that can be easily seen in sunlight. Video and picture quality are good. 
+2. The sound quality is good. The factory earphones are adequate in delivering music though I have a pair of Philips earphones that are far superior and only cost $20.
+3. The box includes a data cable you need for syncing.
+4. The interface is super easy to use and it is easy to get around in the Zune environment and I've not had any of the music skipping problems with the 1.3 firmware that was automatically downloaded when I synced to my PC.
+5. The unit itself feels solid when held, and slightly heavy though not too heavy.
+6. The software loaded without a problem on my WinXP SP2 system and I had no problem syncing to the machine when connected to a USB port at the rear of the PC. I had all of my non-ITunes songs added to the player within minutes.
+7. The Zune allows you to beam songs, pictures and movies to other Zune players in range.
+For a first generation player, it gets the job done nicely and I look forward to seeing what generation 2 will bring. 
+The Not So Good
+1. When I connected the Zune to a 4 port USB hub the PC didn't recognize it was there. I had to connect it to the back of the PC to a USB 2.0 port in order to get it to work. Maybe that's by design, though I'm not sure. Once I did this I had no syncing problems at all.
+2. I've never found another Zune in range to share anything. Leaving the wireless on seems to drain the battery faster. I'd recommend turning this feature off until more people buy the Zune (if that happens).
+3. You can't buy music or movies wirelessly.
+4. Although the Zune has wireless it is not compatible with your home or business wireless LAN. 
+5. You can't browse the internet with the Zune.
+6. The Zune software has no problem getting your music onto the device, though the Zune Marketplace is vastly understocked compared to the ITunes music store. 
+7. The Zune cannot get music purchased through ITunes (this is nitpicky, I know, but would be so nice). There is a way to work around this - you can burn your ITunes songs to a disc and then turn around and rip the disc to the PC as MP3s and then import them to the Zune, which I would rather do than pay money to re-purchase music I've already bought once.
+8. There's no way to re-organize files on your Zune once they are uploaded to the device. Say for example I want to throw a couple of pictures into a picture folder so that when I view my pics I don't have to scroll down forever and a day to see them. I have to delete the pic from the Zune through the PC software, add the pic to the folder I want and then sync the PC to the player. The folder had to have been added to the Zune library in order for the update to occur.
+9. There's no way to change the orientation of photos or movies when viewed. I would like to be able to flip them counterclockwise or clockwise 90 degrees to view them in portrait view instead of turning the player on its side to view in landscape mode. One reason why this is important is when I set one of my pics as my Zune background, I'd like to be able to see just how much of the pic will be cut off since the Zune doesn't resize the pic to fit. Oh yeah, that's another thing...
+10. Pics used for the Zune background don't have an option to be re-sized to fit the screen.
+What I Would Like to See Change on the Zune (more for Microsoft than anyone else)
+1. Options for re-sizing pics to fit the Zune screen
+2. Options for changing the orientation of pics and movies
+3. The ability to organize my files in the Zune without having to delete the file and re-sync. I'd like to be able to do this from the player and from the software both.
+4. Since I have to use the USB port on the back of my PC a longer sync cable would be nice.
+5. Put the built-in wireless to good use. Slap in compact Internet Explorer and allow viewing of web pages and email! You don't need a keyboard to view read-only content like weather, news and sports and it would really add to the player's value
+6. Allow the Zune to be able to buy music, pics and video without having to connect to the PC. Again, make use of the wireless capability of the Zune.
+7. Do something about the Zune Marketplace - it just needs an overhaul. It needs additional music, movies and a definite bump in the cool factor. 
+8. Make it easier to customize the outside of the Zune. You did this with additional and customizeable faceplates for the XBox 360 - do the same for this player. If you hadn't noticed - individuality is in and is here to stay.

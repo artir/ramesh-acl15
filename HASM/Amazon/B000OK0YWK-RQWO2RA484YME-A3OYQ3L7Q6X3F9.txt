@@ -1,0 +1,26 @@
+ID: B000OK0YWK-RQWO2RA484YME-A3OYQ3L7Q6X3F9
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Red
+ReviewerID: A3OYQ3L7Q6X3F9
+ReviewerName: B. Nagel
+Date: November 1, 2007
+Helpful: 6 of 7
+Rating: 4.0
+Title: No player is perfect
+Content:
+I tend to buy a new MP3 player about twice a year, and I don't stick to any particular brand.  The 30GB Zune is a solid player, and at $89.99 (current price for the Brown model), it is a great deal.
+Pros:
+-Display.  The screen is the crispest I've seen on any portable device (including the new iPod Touch).  Video is gorgeous, and album art is displayed big & bright.
+-Sound Quality.  Crystal clear audio, much better than what I've experienced from my 5th-Gen iPod Video & Nano.
+-FM Tuner.  True, every MP3 player on the market that doesn't bear the Apple logo has had this feature for years, but it's always a welcome touch.
+Neutral:
+-Wireless.  It's a good idea in theory, but serves almost no purpose.  Not very many people have Zunes, so you're not likely to get a lot of use from the sharing feature.  Upcoming firmware updates promise to allow for wireless syncing, which is another feature that sounds great, but is pointless.  Since you have to connect via USB cable to charge anyway, why bother syncing wirelessly?
+-Battery life.  No better or worse than the 5th-Gen iPods (which was the target competition for this product).
+-Size.  It's just a little bigger than a pack of playing cards.  This is fine for me, but would be a definite turn-off for those who like their players sleek.
+-Color.  Brown, Black and White are not the best options Microsoft could have gone with.  But it's not like the color affects performance.
+Cons:
+-Software.  I won't go into details (see other user reviews if you want to read pages and pages of details), but the software is slow, unfriendly, and a resource hog.  Video is particularly difficult, as everything has to be (very, very slowly) encoded into a portable .wmv file prior to being loaded onto the player (and that includes videos that are encoded as a .wmv to begin with).  Microsoft has promised that their next update (due mid-November '07) will resolve these issues, but the current version is just a pain.
+-Online Store.  Same complaints as the software.  Microsoft has also promised that this will change with the next update.
+-Cannot record from FM tuner.  Sandisk and Samsung players allow you to record FM radio input as MP3 files.  This is entirely software based, so there's hope that Microsoft will add this feature at a later time (like Creative is planning to do).
+-No expansion.  Creative & Sandisk both allow for quick expansion by adding some form of Flash memory.
+I know my lists of neutrals and cons were longer than my list of pros, but as a basic player is does a good job.  If you are the type to sync your player 4 times a day, than you would be wise to look elsewhere.  But if you're like me and just want something that will do a good job at playing your music, than 30GB is a steal at $90.

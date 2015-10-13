@@ -1,0 +1,26 @@
+ID: B001H55J6M-R3892JUXOXWRDR-AK690YP01HENW
+Category: Laptops
+Product: Lenovo-IdeaPad-13-3-Inch-Processor-Premium
+ReviewerID: AK690YP01HENW
+ReviewerName: aroyc "discerning techie"
+Date: February 17, 2009
+Helpful: 32 of 36
+Rating: 3.0
+Title: Good laptop, but not great
+Content:
+I have owned the U330 since October 2008. I was wrestling with the choice between buying a Mac and a Windows machine at that time. I finally settled on the U330 because (i) it was compact, sleek and stylish (strikingly similar to the then-13.3" black Macbook),
+(ii) advertised amazing battery life (I think it said something like 5.5 hours on the Lenovo website) and (iii) I needed Windows to run most of my engineering and development software.
+My configuration includes:
+- Intel Core 2 Duo 7350 processor
+- 3GB DDR3 memory
+- 250GB HD
+- Vista Home Premium
+With the above configuration and proper tuning of the OS, the system is fast and responsive. In looks it is almost a head-turner. And it is sufficiently light and portable. 
+And those are pretty much the only things going for it. Having lived with it as my main home PC for 5 months now, I have become acutely aware of what I consider to be its many deficiencies. Many of my complaints might seem like minor quibbles to others more easily satisfied, but I am a demanding user. So here is my list of cons (roughly prioritized)::
+1. Battery life is iffy. For simple web browsing using Lenovo's "Power Save" mode and with Intel's built-in graphics and brightness set to low, the laptop runs out of juice in approx. 3:20 hours - which is not bad in general, but nowhere as good as the advertised values. If you go for the "Extreme Power Saver" mode, you will get some more time, but then the laptop is practically useless, with all radios turned off.
+2. The glossy screen is way too glossy. In bright light you'll see your reflection more easily than the apps you are running. I have learned not to work on it sitting with my back to an unshaded window on a sunny day.
+3. Sound from the speakers is tinny. I was excited by the advertised sub-woofer and Dolby Decoder when I was considering buying the laptop, but the speakers have disappointed majorly. However, the sound from the headphone port is much better.
+4. Awkward placement of USB ports. On the right-side, front corner. So if you connect a USB cable looped around from the side, the cable might end up blocking your DVD drive.
+5. Awkward placement of audio ports. On the front. Every time I have to push in a 3.5mm connector, I need to hold the laptop from the back, to prevent it from moving back.
+6. The capacitive controls for audio. Every time I want to increase/decrease the volume, I have to execute two touch commands, not one. Would have made a lot more sense to have the volume controls displayed all the time.
+7. The hard drive activity indicator is thoroughly distracting. It is always furiously blinking to indicate the hard drive being accessed - I guess we all know that would happen! Would have made sense to tuck it away in an unobtrusive corner of the laptop.

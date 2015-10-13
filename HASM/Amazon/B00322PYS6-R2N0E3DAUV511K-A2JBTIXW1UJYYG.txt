@@ -1,0 +1,12 @@
+ID: B00322PYS6-R2N0E3DAUV511K-A2JBTIXW1UJYYG
+Category: Laptops
+Product: Sony-VPC-W21FX-14-Inch-Laptop-Black
+ReviewerID: A2JBTIXW1UJYYG
+ReviewerName: Carolina Canaan "Carolina C."
+Date: February 28, 2010
+Helpful: 13 of 14
+Rating: 4.0
+Title: Everything was OK BUT after 2 days of use noticed cant connect to wi fi due a hardware issue
+Content:
+Its just a beautiful laptop but iam very dissapointed of it because came with a hardware or system defect and sony service couldnt help to solve it so i had to return it. The problem consist that every time i tryed to connect to wifi windows said it couldnt and just after that present a blue screen with IRQL LESS OR EQUAL ERROR and reboot my pc. I tryed hard to find a cause with sony custumer care and technical service but nothing worked. :(
+Hope to be more lucky next time..

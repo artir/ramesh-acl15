@@ -1,0 +1,28 @@
+ID: B002P3KMPI-RXOFA60JKJWK7-A2H5FQ6EB756UR
+Category: Laptops
+Product: UL50Vt-A1-Light-15-6-Inch-Black-Laptop
+ReviewerID: A2H5FQ6EB756UR
+ReviewerName: Juan M. Diaz Gomez "Boromir"
+Date: January 7, 2010
+Helpful: 2 of 2
+Rating: 5.0
+Title: Very good laptop
+Content:
+I had to change my laptop, because my old one died (HP-manufacturing defect on the systemboard, it broke just one month after the warranty expired). 
+I was looking for a lighter laptop, with more battery life (more than 2.5 hours). I found the UL series, and finally decided for the UL50VT-A1, mainly because of the large hard disk, the incredible battery life, and the switchable graphics. The optical drive was an extra, I usually don't use it, but just in case...
+I was using the laptop for a few days, and these are my impressions:
+Good:
+1. Really light and thin. I didn't want a netbook, and compared to my old HP this laptop is almost a feather.
+2. Very good battery life. I have been unable, however, to reach 11.5 hours. In battery saving mode, without wireless, and turbo mode (overclocking) not running, the battery meter showed 10.00 hours left. With wireless and turbo on, I get almost 7 hours. Impressive.
+3. Very good discrete graphics card. I don't intend to run crysis on it, but it run Need For Speed Shift at native resolution extremely well. Older games run perfectly. 
+4. Very cool. Doesn't get hot even after hours and heavy activity.
+5. Doesn't came loaded with lots of unnecessary software.
+6. Not ASUS merit, but Windows 7 is very good, unobtrusive, quick.
+7. 2 Year Global warranty. This was really one of the reasons after my decision.
+8. Lots of small things: Smart Logon (face recognition) is cool, Touchpad is useful. I don't have trouble with the button as others reported. Screen is good for me also.
+So so:
+1. The keyboard flexes a little, specially the superior rows (numbers, QWERTY...). Is not really unconfortable, but I wonder why nobody at ASUS noticed, or if they did, why didn't fix it.
+2. Fingerprint magnet. Everywhere. It does look cool, however.
+3. Lack of dedicated sound keys....at least an extra FN key at the right side would have been useful.
+4. Changing the Video card causes the screen to go black a second, and in battery saving mode the desktop doesn't remember my wallpaper. Also, it seems that there is no way to hide the icons from the desktop, everytime I change graphics, they appear again. I had to download Stardock fences, and problem solved. Annoying, anyway.
+So far I'm very happy with the choice. I will try to install Ubuntu next week. I hope everyting will go smooth.

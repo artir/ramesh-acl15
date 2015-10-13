@@ -1,0 +1,31 @@
+ID: B001PII4J0-RB4Z7G0KORUCL-A13L4Y8NFR9G6
+Category: Laptops
+Product: Sony-VGN-P530H-Lifestyle-Processor-G-Sensor
+ReviewerID: A13L4Y8NFR9G6
+ReviewerName: John Davis "johnkdavis"
+Date: May 18, 2009
+Helpful: 16 of 16
+Rating: 5.0
+Title: Tiny, feather-light and beautiful
+Content:
+I am an early adopter and gadget freak. I took a long time researching options before deciding on the Sony VAIO VGN-P530H/W Lifestyle PC (1.33 GHz Intel Processor, 2 GB RAM, 60 GB Hard Drive with G-Sensor, Vista Basic) White. I could not be more happy with the purchase.
+My Expectations
+Do not expect a gaming PC if you purchase the Lifestyle PC. It is slow. The text is very small. Vista sucks, but it really sucks on an ATOM CPU. So, there are compromises.
+What you can expect is an amazingly minute PC. It weighs next to nothing. And, its beauty is unparalleled. 
+My Experience
+When unpacking the Lifestyle PC and getting it up and running I was disappointed that the Quick Start Guide had a "misprint." The guide instructs the purchaser to check supplied items and lists them. "Noise canceling headphones (*on selected models only)" is on the list, but not in the package. 
+I called Sony about this. They told me it was a misprint. I suspect the Sony rep was not well informed and the truth is that the lowest priced Lifestyle PC is not a selected model. In any event, do not expect to find this item in the package.
+Getting things ready takes awhile, but it is an easy process. The time is a normal Vista install thing.
+I had to increase the size of the text a bit (60 year-old eyes), but the screen is surprisingly bright and the tiny text is surprisingly clean and clear enough to read without a magnifying glass. For me, the benefits of the 1600 x 768 resolution far outweigh any minor inconvenience caused by having to read minuscule text.
+My Solutions
+Speed: The only serious problem I have with the speed of the Lifestyle PC is the time it takes to start up. So, I leave the unit in Sleep mode whenever I store it away in my waist pack. This is accomplished easily by simply closing the clam shell. When you open the PC again Vista pops up instantly.
+If you leave the computer closed long enough (the time period is user-configurable) it will Hibernate to save battery power. It takes Vista too long to reload the desktop when coming out of Hibernate, so this option is not a good solution. 
+I have tested it and leaving the PC in Sleep mode for 12 hours consumes about 20% of the standard capacity battery, 10% of the large capacity battery. This is an acceptable use of power resources for the convenience of "instant on" functionality, for me.
+The alternate Instant Mode (Linux) is an awesome feature of the Lifestyle PC. It is not only fast, it provides about 90% of what I need from a PC. Most of my computing is now done in the cloud. My need for installed software in Vista is minimal. 
+One caveat here: The installed Firefox browser provided in Instant Mode is a dumbed-down version of Firefox. I have not yet researched hacks to resolve this issue. I will because I must be able to run Firefox plug-ins that I rely on and I suspect there is a not-too-difficult way around the Sony-Microsoft imposed limitations on Firefox available from Instant Mode. I'll post information about this matter when I have it figured out.
+Finally, the wireless features of the Lifestyle PC are wonderful. The process of using WiFi and Bluetooth are so smooth and simple that anyone should have no trouble using these wireless tools.
+3G is another irritant. This time it is Sony-Verizon imposing limitations on functionality. The Lifestyle PC has all of the hardware needed to setup the built-in WWAN with just about any provider, but it too has been dumbed-down. 
+I will not support Verizon. They are being pulled kicking and screaming to give users access to free and powerful tools. Instead, they have expensive proprietary tools they want to force on users. Sony is assisting them. A pox on both of their houses.
+I use an awesome T-Mobile G1 mobile phone. Fortunately, it is open-source (Android) and there is a plethora of software out there that allow the phone to perform miracles. I can easily tether the G1 to the Lifestyle PC and have easy, no additional cost, no problem broadband Internet access by connecting the G1 to the Lifestyle PC using a USB cable. 
+Wow! This setup really works. I notice only a slight speed reduction between using the Internet at home via WiFi on my cable provided service and 802.11n router and using the Internet when I'm out-and-about by connecting via a tethered 3G setup on my G1.
+If you have appropriate expectations, you will fall in love with a Lifestyle PC.

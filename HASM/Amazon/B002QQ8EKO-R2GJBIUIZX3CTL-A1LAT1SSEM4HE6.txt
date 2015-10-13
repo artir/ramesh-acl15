@@ -1,0 +1,32 @@
+ID: B002QQ8EKO-R2GJBIUIZX3CTL-A1LAT1SSEM4HE6
+Category: Laptops
+Product: Apple-MacBook-MC207LL-13-3-Inch-Laptop
+ReviewerID: A1LAT1SSEM4HE6
+ReviewerName: Jenny or Jon "Savings=Jenny and Geeky=Jon"
+Date: January 2, 2010
+Helpful: 29 of 29
+Rating: 5.0
+Title: Just what we needed.
+Content:
+This is my 4th Apple laptop (PB150, White iBook, MacBookPro Alumnium).  All personally owned.  I've also been a user of many PC laptops for work.  Our last 2 Mac Laptops have been our sole home computer when we've owned them.  Getting probably 6 hours of daily average use. 
+I have to say that this new unibody MacBook is by far, my favorite laptop I've ever owned and used.  
+We've been using it for a month now with the same rate of usage.  Maybe more because of the holidays.
+It has some slight imperfections.  
+1. I wish it still had composite TV out, but when I become the last person on earth to finally upgrade to HDTV, it will be ready (3rd party HDMI/video out cables are cheap).  
+2. The edge of where your arms go needs to be rounded because it slightly slices into your wrists.  (I haven't filed it down yet, but will...)
+3. And sure, target mode in firewire would be nice.  But, it's rarely needed ($15 for a shell and a disassembly gets you to the harddrive in the disasterous event your system is so fried you can't get a network hookup going).  
+4. An SD slot would be nice too.  But, everything I have a card in is USB anyway, and I already have card readers for when I don't (or my devices connect directly anyway).
+5. It's more expensive than Windows laptops.  But, at under $1000 ($850 if you're smart with rebates and deals) the MacBook makes buying a Mac almost equivalent to a nicer Windows laptop.  Almost.  Well, it's at least not embarrassing to admit anymore.
+But, that's it with the negatives.  
+It's slim and sleek.  The unibody means no flex when I hold the corner with one hand (RIP 2.5 year old G3 iBook with graphic chip recall).  The plastic means no permanent deformation when I drop it from 4 feet (RIP 2.5 year old MacBookPro with a slow overheating death near the corner I dropped it on.)  The battery life is impressive.  (RIP every PC laptop I've ever used within 6 months.)
+The white keys mean keyboard lighting is not such a big deal.  The glossy screen is not really that glossy.  The screen is bright and sparkly.  The processor is speedy.  (I run Windows on it just fine.) 
+The 250 gig HD is big enough (I'd need a few terrabytes to hold all my media anyway.) 250G is enough to simply expose the low end MacBook Pro for what it is - Apple's cynical attempt to milk money out of folks.  
+The mousepad is just wonderful.  Takes a day or two to get used to not having a "button", but it's simply wonderful after that.  Two fingers for a right mouse click and for scrolling.  I zoom in and out of dual browsing sessions with the pinch like I never expected to do.  And it's CENTERED in front of the screen.  I don't know what Windows design idiots decided to stop centering their mousepads and keyboards and to give them tiny recessed buttons, but I refuse to personally purchase a lopsided laptop where you have to flop 4 inches off one leg just to type and where your thumb is rigidly fixed to an ergonmically challened button.  The keyboard is equally well designed and easy on the fingers for this touch typist.
+And, 2 of my Apple pet peeves have been fixed: the latchless lid is perfectly designed, and, there's no feet to get rubbed off the bottom anymore.
+Oh, and it's light.  Not MacBook Air light.  But, surprisingly light and thin.  I carry a 17" Windows machine for work.  Yet, the 13" screen rarely feels restrictive.  And, its performance blows away the MacBook Air.  Try running full screen video off of YouTube on a MacBook Air.  It can't do it.  This MacBook has the juice to display without stuttering.
+Plus, importing the old data from my old MacBookPro was seamless.  Import and done.  Just a few apps that needed to be upgraded for 64 bit and Snow Leopard.  No crap on the desktop to remove like a new Windows computer.  No annoying security messages.  No virus worries.  Basically, ZERO "Windows" worries.  (Yes, I've got XP running on VM ware fusion and Vista on Boot Camp for certain games.  So, I know of what I speak...  Yes, I'm a masochist.)
+And finally, it's MacOSX.  I'm the kind of guy that has people coming to me for tech help at work, asking for recommendations "for a new PC cause their old one has a virus".  They need help reinstalling windows.  They have driver issues.  They have reps from foreign countries advising to "recover" their systems (which means wiping the entire Harddrive).  They have trojans running wild.  They are always confused and frustrated.  The only ones who don't have problems are the ones who are too scared to do anything with their computers.  Or, who are technically savvy enough to navigate the waters.  Who like the complication.
+The annoying things people have come to accept from Windows computing astound me.  As a daily user of both OS's for decades, I always breathe a small sigh of relief when I get back to my Mac.
+MacOSX is wonderful.  It rarely frustrates.  (Just scan down the list of Amazon's laptop best sellers, and see the average stars for Mac machines vs. Windows machines.  Clearly, there is a difference in quality and ease of use that justifies the difference in cost.)
+So, this review is much longer than I intended.  But, after reading the initial reviews a month ago -- of Mac zealots who hadn't purchased one who were whining about "no firewire" -- of clean freaks who worried about microscopic scratches (barely a blemish on ours in this household with 3 cats, a dog, and 3 and 6 year old kids), I just had to put my 2 cents in.  This is, in my opinion, the best laptop Apple has released.
+Why?  Because it is inexpensive (for a Mac) and does everything you need it to do.

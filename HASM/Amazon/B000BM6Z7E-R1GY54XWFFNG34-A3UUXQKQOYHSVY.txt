@@ -1,0 +1,34 @@
+ID: B000BM6Z7E-R1GY54XWFFNG34-A3UUXQKQOYHSVY
+Category: MP3Players
+Product: Creative-Labs-70PF165000015-MicroPhoto-Player
+ReviewerID: A3UUXQKQOYHSVY
+ReviewerName: redhill
+Date: March 16, 2006
+Helpful: 67 of 71
+Rating: 4.0
+Title: Looks cool and special. Easy to use. Great for travelling
+Content:
+Disclaimer: I had an iPod before switching to the Zen Micro. 
+Features I love
+===============
+1. Looks.
+  There are those who buy things because others got it. But there're things in life cooler than military-issued white. In fact, I got my Sony MDR-EX71 ear-buds in black because white ear-buds are so passe now.
+2. Uses standard USB cable.
+   This might seem like a small thing, but really appreciate the fact I just need one cable when travelling to sync and charge my MP3 player, cellphone, and digital camera. No more tangling mess of cables and charges, and I can always buy a USB line almost anywhere for less than $5 if I forgot to bring one.
+3. No drivers required. Works like thumb drive.
+    The most significant consequence is that I can plug the Zen to the USB port of any PC, and be able to use the Zen like a USB thumb drive. My previous iPod needed to install drivers, which is a luxury I don't have with other people's PCs, or office PCs where they restrict your admin rights.
+4. Music Subscription. 
+This is the best invention since iPod itself. I have been die-hard fans of only 2-3 artists, die-hard meaning I buy every single album and singles they produce. For everyone else, there are plenty of songs I 'kinda like' but I didn't feel they were worth the money to buy. 
+With this subscription thingy, I get to download entire albums simply to try out entirely new songs and artists to see if I like 'em. I doesn't bother me I lose them if I stop my subscription - they are songs I probably won't pay in full in the first place. But sometimes, not buying a song doesn't mean not worthing listening to it once in a while.
+5. Solid construction.
+The Zen has a solid metal casing that not only feels sturdy and resistant to scratches, it can actually survive a four-feet drop without injury. (I've actually tried this, though not intentionally.) Couldn't say the same about my iPod. (My experience positively confirms that an iPod cannot survive a swinging knock against the subway door while inside a shoulder bag.)
+6. Ease-of-use.
+The menu system is customizable and intuitive just like in iPod. (In fact, I heard the patent for the iPod menus are held by Creative Labs.) Synching songs is also piece of cake. Just plug-in and either WMP or Napster can sync up my library. This is probably standard feature now after iTunes set the standard.
+  At the end of the day, I can always resort to drag-n-drop straight from my windows explorer, for not only my music files but also data files. (See point #2 above.)
+8. Battery Life
+I do 10-hour shuttles from the West Coast to the Other Side of the Pond at least once a month, and the iPod used to just flat out with less than 10 hours of playing. The Zen can not only sustain the entire trip, but also the train rides to/from the airports ony each side. And I bought an extra battery in case I miss a chance to charge up in between. The "stamina" of most batteries decreases with such consecutive high mileage use, and with the iPod I wasn't able to do anything about it other than to buy a new one or send it back to the factory. With the Zen I have an immediate solution for $30 in the local Circuit City.
+Features I don't like
+=====================
+1. No dedicated volume button. Need to go back to "Now Playing" screen to adjust the volume. Can't do it while I'm tweaking other things in different menus.
+2. No podcast aggregation in Windows Media Player. Ok. This is more a WMP shortcoming than the Zen's. iTunes has the best podcast browser (though not the largest selection), so I continue to use iTunes to subscribe to podcasts, and let WMP automatically detect the new files and add to my player. It can be done, but I wish it can be done in one-step, one software.
+These two dislikes mean it's not perfect for me, so, four stars.

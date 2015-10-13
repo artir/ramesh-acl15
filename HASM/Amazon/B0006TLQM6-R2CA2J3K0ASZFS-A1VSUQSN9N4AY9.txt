@@ -1,0 +1,23 @@
+ID: B0006TLQM6-R2CA2J3K0ASZFS-A1VSUQSN9N4AY9
+Category: MP3Players
+Product: Olympus-MR-100-Digital-Music-Player
+ReviewerID: A1VSUQSN9N4AY9
+ReviewerName: Peter W. Van Derpas "Peter van der Pas"
+Date: October 27, 2005
+Helpful: 12 of 13
+Rating: 5.0
+Title: If you are even considering this player -- just buy it
+Content:
+Radio Shack had the M:Robe in stock for $130 less a $30 mail-in rebate.  I have had this MP3 player for only one day, but price/performance deserves a 5-star rating.  That, and I also believe it is the best looking and most durably constructed MP3 player on the market.  I don't think you need to hide it in a case, because it is constructed of metal and glass.  It is not going to get scratched up.
+I read a lot of reviews of the M:Robe before buying it.  Some earlier ones complained about it not playing loud enough, or freezing up.  These problems have been fixed, so as soon as I got it out of the box, I applied the latest software updates Olympus has come up with.  Just do it!  
+Here is the quickest way to set the M:Robe up:  
+Attach AC power cord to transformer, and transformer to docking station.  Place M:Robe in docking station.
+Attach USB cable to docking station and position near your main PC.  The M:Robe will start to charge the battery.  This will take about 3 hours, so you have plenty of time update software and upload CDs.
+Load the enclosed CD and install the m-trip software.  It will give you an option to scan your hard drive for music.  Do it.  I only had 4 sample music files in the Windows Media format, and I deleted them from the PC hard drive as allowed from the m-trip software.  You should also register the product as you install the software.  Olympus ships the product with version 1.0 of the PC software and the M:Robe also has the lowest level of firmware installed.  You want the latest updates, so....
+Open Internet Explorer and go to the web site:
+[...]
+Uploaded m-trip Music Manager Update v1.06, and m:robe 100 Firmware Update v2.17, and follow the clear instructions they provide to complete these tasks.  The web site provides six different uploads.  You only need the top two, so don't bother with the others.
+So now you have the latest software.  Start feeding music CDs into the m-trip software.  It only takes a couple of minutes to upload each CD.  By the time the battery is fully charged, you will have a pretty good collection of music.  Now sync the M:Robe with your PC and you can start playing with this little portable music wonder. 
+The touch-sensitive controls work easily and smoothly.  It takes some getting used to, but it is all intuitive after a short while.  Play with the equalization settings.  I found they all made the music sound worse, and that no equalization worked best, but you be the judge.  The ear buds supplied with the M:Robe are pretty awful, but hey if you can get this player for net $100 from Radio Shack, that leaves you some extra cash for good ear phones.
+Best points of this player:  It looks great with its flat black glass front and bright red control lights.  Olympus did a great job in designing this unit.
+Worst points:  The m-trip music management software is not the equal of i-tunes.  For me, who listens to entire albums at a time, this is not an issue.  If you think you can compose a better play list than the original artist, get the i-pod.

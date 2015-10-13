@@ -1,0 +1,16 @@
+ID: B00322PYT0-R37FWVTULHA2N1-A25685MVC10E7S
+Category: Laptops
+Product: Sony-VAIO-VPC-CW21FX-14-Inch-Laptop
+ReviewerID: A25685MVC10E7S
+ReviewerName: M. Akbar
+Date: February 6, 2010
+Helpful: 61 of 62
+Rating: 5.0
+Title: Very Fast & Very Stylish
+Content:
+"Let me start by saying that I use my computer for much more than average daily use. I record multi track audio (i.e. home studio), as well as average daily tasks. I also work in a place that is very much pro Mac/anti PC. That's okay, I'm not biased either way, you just get more horsepower for your money with PC.
+I downsized from my desktop system which was a Core 2 Duo with 2GB RAM on XP Pro. It was working, but I needed more horsepower (i.e. faster processor and more RAM), and I also figured a laptop that could suit my home studio needs would be perfect because I could then be mobile as well.
+A lot of research went into purchasing a laptop. I left no stone unturned, and looked at ALL the models, up to a certain price range (under $1000), even models with lesser specs in certain areas than this one.
+After much research, I decided this has everything I need. I've had it about three weeks now, and it's a great machine. Even some of my coworkers who prefer Macs said it's a nice laptop, and we all know computers where I work. After seeing the specs and the pricetag on this, they agreed that I did well.
+My only gripe about it is that because it's a Vaio, it comes with TONS of extra Vaio software (as well as other trial software, and other programs that I have no use for). Three weeks later, I'm still experimenting with which Vaio software I should and should not uninstall. Some Vaio programs are necessary to operate things like the function keys, where others are not necessary. I will not post a list here, but search out the individual programs and make your own decision. Other than that, this thing ROCKS!!! Nice clear graphics, fast processor, good RAM (I plan to expand mine up to the allowable 8GB though), and totally KILLS my old Core 2 Duo machine. I was able to pull up sessions from my external hard drive after installing my recording software, and sessions that would nearly max out my Core 2 Duo machine barely had this computer running at 50% system resources. Beautiful, just what I needed. The hyper threading on the new Core i series is amazing.
+I bought an e-SATA express card to use with the card slot to stream my external hard drive, I run an audio interface off the firewire port, and an iLok. I'm also going to purchase a firewire express card with a Texas Instrument chipset in it to see which transfer rate is better between the e-SATA card and the FW card (it 'should' be the e-SATA, but I'm still going to try it). I also plan on purchasing a wireless mouse, full size keyboard, and 22" monitor, so basically this laptop will sit off to the side as I record, mix, and edit audio. This is everything I need at the moment, and is working out as an audio computer as good or better than I thought. I highly recommend it. Oh, and regarding the Vaio software - for the average user, most of it is actually pretty cool, I just like to run my machine as clean and lean as possible so that most of it's resources are available when it comes time to lay down audio tracks."

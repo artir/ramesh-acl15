@@ -1,0 +1,11 @@
+ID: B00009MGUQ-R31NAAJ72D0PCG-ADDUU1EWR6RUA
+Category: Laptops
+Product: Sony-PCG-V505BX-Laptop-2-0-GHz-Pentium
+ReviewerID: ADDUU1EWR6RUA
+ReviewerName: William McMullin
+Date: August 30, 2003
+Helpful: 2 of 10
+Rating: 1.0
+Title: Closes Programs Automatically for No Reason
+Content:
+The v505bx randomly closes windows such as the web browser, Outlook, control panel window, etc. I'd be working on something and it would just close.  No error messages or anything.So, I took it back to Circuit City with no problems.  They were out of stock on another one.  So, I went to Best Buy and purchased one with the exact same problem.  The problems started before I installed anything or connected to the internet.  Best Buy charged a 15% restocking fee which I am trying to fight.  But, until Sony gets this worked out, I would stay away from this computer.

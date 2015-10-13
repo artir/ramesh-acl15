@@ -1,0 +1,33 @@
+ID: B00171X3C8-R17QBIV2270AN-AYJXS6287M7B8
+Category: MP3Players
+Product: iriver-E100-Multimedia-Player-Blue
+ReviewerID: AYJXS6287M7B8
+ReviewerName: Gaurang Patkar
+Date: June 6, 2008
+Helpful: 72 of 75
+Rating: 3.0
+Title: A "good little average" media player.
+Content:
+Let me start this review by saying that I'm an above average user who has used a plethora of media players out there, so my reference point maybe a little different from yours.
+This is a little device (See posted photo in user images) similar to the size of a credit card. It comes in many colors, so choice of color should not be a problem. I bought the black one, which is made in a matte plastic, which I am very satisfied with. Leaves fingerprints on the black surface, but doesn't really standout as the unit is not polished to a high gloss. The player is also extremely light, much lighter than any of the competitors (iPod Nano, Sandisk Sansa). This lightness maybe preferred by many users, but I find it too light (Forgetting its with you, and almost loaded it into the washing machine; also feels a bit cheap because of its weight).
+I primarily bought this device for its built in speaker, to listen to audio books. Unfortunately, the speaker has quite poor volume (Nothing compared to the competing Samsung S5 or K5). But the iriver is a genius with file formats, and plays many formats, surprisingly plays 700mb, video files encoded with xvid (video) and mp3 (audio) quite smoothly. In addition to this it play Windows Media Audio / Video, Avi's (Xvid Compressed), Mp3's, BMP's, JPG's, PNG's, Text and more. It also has a full range FM tuner that allows 20 presets, which is a great feature. One of the best features the E100 has is the fact that it can record FM, Voice, and Line in Directly to its internal memory, and saves it in WMA format. Using a headset I recorded a 1 hour audio lecture of unmatched quality, and later edited on the PC for the sections I wanted out.
+There are many reviews that oppose the navigational buttons on the E100 (Left and right buttons control settings and back to main menu functions, while up and down control the track / video / photo forward or backward). Though this is unorthodox the navigational "D" menu took me a day to master, and can be controlled quite easily after this initial learning. It is not at all complicated, though menus require a lot of clicks left and right to get what you are trying to do.
+The expandable memory slot is an advantage and a easy way to upgrade this player to double its capacity via cheap micro sd cards. The problem here is that files on the micro sd are not read in the database for browsing by track, artist, album etc, but has to be accessed rather crudely through a file manager. I have used a 4gb micro sd with no problems. Keep this memory for adding lengthy movies, where you may store 5 - 6 full length movies that are easy to access on this media. The player can be used as a portable hard drive (Obviously). Battery life was quite good, though the bad news is that this player comes with no wall charger and must be charged via a PC or Mac's USB port (Powered of course). I use my iPhone's charger to charge this device (USB Charger with 5 volts output with 1 Amp total output).
+The audio quality on the headphones is quite decent, but the speaker is definitely weak and unpronounced. Only listening to the device on full volume in a dead silent room gives you a semi decent listening experience. The good thing here is that many problems have been fixed via firmware upgrades provided by iriver, which I have got 3 times already since purchase in April. Hopefully they will address the speaker volume in the next update. One of the worse features of the device is the fact that the screen is terrible. It is sufficient for mp3 menu options, but falls far short for photo and video options. When in portrait mode the screen is clear, but when used in landscape mode (For photos and videos) the screen gets inadvertently polarized and produces poor and unclear photos.
+The iriver e100 is a decent media player, but by no means the best. It has good features and poor ones as well. It could have been a great media player had there not been so many mistakes. Yet I believe that many entry level media player buyers will enjoy this player, as well as some advanced users (Due to advanced recording functions / file support), though the large chunk of the middle spectrum will be unhappy with the many quirks. I have used better players and worse ones as well. The iPod nano is still a heavy weight in its class, though for users looking to break away from the iPod and iTunes bundle, and jazz up their player with FM, Recording, Direct MP3, Photo, Text and Video and a speaker - at a lower price than the iPod, the iriver makes sense. This player is a jack of all trades, but master of none.
+Pros:
+Color Options
+Lightweight
+Multiple Files Supported
+FM Tuner
+Frequent Firmware Upgrades
+Integrated Speaker
+Line In / Mic In / FM Recording
+Micro SD Expandable
+Direct Copy without conversions
+Cons:
+Plastic Body
+Poor Screen
+Speaker Volume
+No Charger Provided (USB Charging Only)
+Micro SD Browsing Complexity

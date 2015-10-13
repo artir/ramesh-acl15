@@ -1,0 +1,11 @@
+ID: B0013FLTNS-R2ZA4WZQQQ7II0-A1XRK7VSXGJOMJ
+Category: Laptops
+Product: Apple-MB134LL-15-4-inch-Processor-SuperDrive
+ReviewerID: A1XRK7VSXGJOMJ
+ReviewerName: WJW "WJW"
+Date: September 2, 2008
+Helpful: 3 of 5
+Rating: 3.0
+Title: Good laptop but poor quality.
+Content:
+I have this notebook for little more than a month, but it went back to Apple two time already. First time is the delete key fall out, and now the hard drive is disappeared in the system, meaning the system can't locate the hard drive, and can't start up. Apple said will replace the hard drive for me, but this should not be the case for a 47 days laptop.

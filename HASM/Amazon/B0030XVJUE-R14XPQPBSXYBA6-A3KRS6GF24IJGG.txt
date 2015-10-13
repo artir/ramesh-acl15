@@ -1,0 +1,15 @@
+ID: B0030XVJUE-R14XPQPBSXYBA6-A3KRS6GF24IJGG
+Category: Laptops
+Product: Pavilion-DV6-2190US-15-6-Inch-Laptop-Black
+ReviewerID: A3KRS6GF24IJGG
+ReviewerName: J. Ball
+Date: March 23, 2010
+Helpful: 3 of 3
+Rating: 5.0
+Title: Great Performing Laptop So Far
+Content:
+Have used now for over a month and have found this to be a great little machine.  Only problems I've had are related to Win 7 compatability and not the Laptop.
+Pros: Great speed
+      Full keyboard with number pad
+      Easy volumn adjustment with visible slider
+Cons: No separation between touch pad and buttons - too easy to get both fingers on touch pad

@@ -1,0 +1,13 @@
+ID: B001UHOX1Y-R3N5TJG9J2U8KA-A2FI02XQ6J0TMB
+Category: Laptops
+Product: HP-Pavilion-DV2-1030US-12-1-Inch-Laptop
+ReviewerID: A2FI02XQ6J0TMB
+ReviewerName: Charles R. Foster
+Date: August 12, 2009
+Helpful: 1 of 4
+Rating: 3.0
+Title: Decent notebook
+Content:
+I like the size and general features of the notebook.  Battery life is very good, probably 4 to 5 hours.
+The performance seems slow, this is my first dealings with VISTA and I am curious to see if Windows 7 improves this.
+I would pay ~$300 more for a Mac the same size, but there is none available.

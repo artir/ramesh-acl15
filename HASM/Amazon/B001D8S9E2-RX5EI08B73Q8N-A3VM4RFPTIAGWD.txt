@@ -1,0 +1,16 @@
+ID: B001D8S9E2-RX5EI08B73Q8N-A3VM4RFPTIAGWD
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A3VM4RFPTIAGWD
+ReviewerName: Apoc
+Date: December 12, 2008
+Helpful: 1 of 3
+Rating: 5.0
+Title: Pretty good
+Content:
+I had a toshiba satellite for the past 6 years that has been barely surviving.  It finely overheated for the 10th time and killed itself.  So I was looking for a new laptop that would run cool, have decent graphics, and be very portable.  I checked out sony and lenovo, but this mac just seemed to fit the bill.  The mac really just feels solid.  The case is actually cold to touch.  I've never used a mac before, but it really isn't that big of a deal to switch.  Sure some things are different, but a quick trip to google usually solves any problems.  Some other things to point out:
+- The glossy screen isn't that bad.  Yes it does reflect light, but it is very easy to adjust your viewing angle (unlike say, a 50" plasma).  The picture is very nice though.
+- Applescript seems pretty cool.  It is a way to customize anything that the mac os does.  
+- 2 gb of ram seems to be enough ram for everyday activities
+- The case is very impressive - small and cool
+- The wireless card is awesome - for some reason it can hold signals that my other computers can't.

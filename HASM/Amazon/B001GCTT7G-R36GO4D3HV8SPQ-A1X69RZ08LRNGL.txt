@@ -1,0 +1,19 @@
+ID: B001GCTT7G-R36GO4D3HV8SPQ-A1X69RZ08LRNGL
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A1X69RZ08LRNGL
+ReviewerName: steve_oakland
+Date: February 2, 2009
+Helpful: 2 of 4
+Rating: 5.0
+Title: Ditching your old PowerBook? This is a great replacement
+Content:
+I've bought this computer to upgrade from my old 2003-era G4 PowerBook. For those of you with G4 PowerBooks, you're in for some nice upgrades:
+1. The screen is much, much brighter and despite how some users feel about the "glossy" look, it is much better than the dimly lit PowerBook screen.
+2. It is certainly fast enough to run streaming video from Youtube, and [...] without choking. I can run many more applications simultaneously without any performance issues (though I do have 4 GB memory installed in my model). 
+3. The large trackpad is a big plus, especially if you don't tote around a mouse. 
+4. No more noisy fans running constantly. Under the same usage patterns as the PowerBook, this runs quietly and handles some big computational work smoothly without heating up. (I occasionally do some bioinformatic work on this computer).
+Downsides: 
+FireWire: Other users have complained about the lack of a FireWire port on this model. I have mixed feelings about this... I do not ever plan on using a FireWire device on this computer. However, I have found using the FireWire supported Target Disk Mode useful in the past to rescue data from a crippled Mac. But I now back up data more routinely, and I doubt I would even use TSD. 
+Headphone Hiss: I use headphones with this computer often. Unlike the PowerBook, the headphones produce a background hiss. I have read elsewhere that this is an issue with the sound card of the MacBook and not an issue with headphones or unshielded cables. The hiss clicks on and off as the soundcard activates and deactivates when sound is sent to the speakers. This may or may not be fixable through software updates in the future. Until then, it is only a minor annoyance. 
+UPDATE 10/2/09: HEADPHONE HISS ELIMINATED THROUGH UPGRADE TO MAC OS X 10.6 (SNOW LEOPARD)

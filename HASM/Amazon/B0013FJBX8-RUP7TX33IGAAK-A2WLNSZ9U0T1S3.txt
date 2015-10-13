@@ -1,0 +1,22 @@
+ID: B0013FJBX8-RUP7TX33IGAAK-A2WLNSZ9U0T1S3
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A2WLNSZ9U0T1S3
+ReviewerName: Tarun Chachra "Tarun Chachra"
+Date: February 18, 2009
+Helpful: 4 of 6
+Rating: 4.0
+Title: A great product that leaves something to be desired.
+Content:
+HI,
+I have one of these unibody macbook pro's with the exception that I have upgraded the hard drive to a 320gb Western Digital Scorpion Western Digital 320GB Scorpio Black SATA 7200 RPM 2.5IN 16MB WD3200BEKT Bulk/OEM Hard Drive WD3200BEKT.  I have also installed 4gb RAM.
+I use the laptop with MAC OSX Leopard and Windows 7 Beta x64.  
+Pros:
+Unibody construction, overall design, speed, beautiful display, new black backlit keyboard.
+Cons:
+Firmware issues do not let machine properly come out of sleep mode, display is too glossy at times (depending on where u are).
+I was/am a PC user and in the past year have switched most of my hardware to Apple....not because I can but because I simply feel it is the BEST PC hardware available.  Now I have the option to be in OS X and use it for my graphics/photo/video stuff (all virus free) and be in the Windows side for all of my business/work related stuff.  I work in IT and thus sometimes it is essential for me to be in Windows...but I can honestly say that most things I do in Windows can be done on a MAC and they can be done better.  However, there are a few tools that I need that only are Windows for the time being and I have not found suitable replacements.  I am sure in the days ahead things will change.
+Onward....my negatives on this laptop all revolve around using it with an external display and its ability to decide if it wants to come out of sleep mode or not. It works sometimes and other times even though it thinks it is awake I dont get anything on my display...not the internal and not the external.   I have tried everything and run the latest OS versions of both Windows and OS X.  Nothing seems to work.  I have contacted Apple and read various forums and blogs...it is a known issue.  All that being said, I think apple will issue firmware updates to fix the issue soon.
+Last but not least...a lot of people complain about the new Glass Trackpad...I can  honestly say - do not judge it until you use it.  Why?  Because it WORKS and it works great.  You can change almost every aspect of this touchpad on the  OS X side and that experience makes it more and more usable once you get used to it.
+It is a great laptop and holds true to Apples quality.  The only reason for the 4/5 is the sleep issue....which I am sure will be fixed.  Once it is, I will update my review.
+Thanks.

@@ -1,0 +1,13 @@
+ID: B002O0KJBE-R1C0WGV2YFNXIZ-AVB0MTUFXUDG3
+Category: Laptops
+Product: UL50Ag-A1-Light-15-6-Inch-Black-Laptop
+ReviewerID: AVB0MTUFXUDG3
+ReviewerName: Jaytee "business user"
+Date: November 12, 2009
+Helpful: 1 of 9
+Rating: 3.0
+Title: Nice computer but have had some problems
+Content:
+After receiving ASUS UL50AG-A1 I booted it up which proved to be quite easy.  The keyboard took a little getting
+used to since the keys are very close together and appear to be too far to the left.  The computer would often shut down in the middle of a task to install updates which was very frustrating.  Another problem I encountered:  I was preparing a Power Point presentation and when I tried to made corrections to the text, it would insert a Chinese translation for my text even though I did not request that.  All my efforts to remove the Chinese translation proved futile so I ended up re-doing the presentation with the corrections.  I have not tested the battery life to see if it lives up to the 11 hour limit but it seems to last a long time while unplugged and I have had no problems with the battery.  
+I am still undecided whether I will keep it - I need to see if I can get some of the kinks out of it.

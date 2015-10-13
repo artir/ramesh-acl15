@@ -1,0 +1,14 @@
+ID: B002SJ38M8-RKJRPKJTRX1ZB-A3VPNE8GZP7KGC
+Category: Laptops
+Product: Acer-Aspire-AS1410-2497-11-6-Inch-Laptop
+ReviewerID: A3VPNE8GZP7KGC
+ReviewerName: Wil
+Date: December 4, 2009
+Helpful: 9 of 9
+Rating: 5.0
+Title: Very useable - not a Netbook
+Content:
+I will say upfront that I have a robust Acer Desktop Mini-tower as my primary PC so I don't need a laptop with every bell and whistle. That being said, I am floored by the performance of this little Acer 1410. Its primary use is for linking to the client database I have running on a small server at my office. But it does so well with the fun things like streaming YouTube, Hulu and the web in general. I am not a gamer so I can't comment there. 
+Windows 7 is clean and efficient feeling on this laptop, as if Vista and Ubuntu merged and only left the better parts. It works great so far grabbing wifi signals and even running Skype video calls.
+The mouse pad pinching and scrolling feature is very helpful, iPhone-ish.
+I guess I was expecting it to lag with only a 1.3 gHz Celeron but it does not let me down. The Atom equivalent seems much less capable in the Netbooks for some reason. If you are in the market for a Netbook and can stretch the extra $100, check this unit out.

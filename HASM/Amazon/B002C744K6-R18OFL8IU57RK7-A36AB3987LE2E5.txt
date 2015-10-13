@@ -1,0 +1,34 @@
+ID: B002C744K6-R18OFL8IU57RK7-A36AB3987LE2E5
+Category: Laptops
+Product: Apple-MacBook-MC118LL-15-4-Inch-Laptop
+ReviewerID: A36AB3987LE2E5
+ReviewerName: Michael J. Christensen
+Date: July 27, 2009
+Helpful: 67 of 74
+Rating: 4.0
+Title: Compelling alternative to PC
+Content:
+After installing a Trend Micro update and bricking my PC (which I was later able to remedy after 8+ hours of system restores and firewall modifications), I had enough and decided I was done with Microsoft.  I have been using the Macbook Pro 15 for a little under a week, and so far, I'm pleased that I made the switch.  Obviously, there's a pretty steep premium on Macbook Pros, so I'll try to cover the items that make it worth the extra coin, as well as some annoyances I've encountered as a first time Mac user.  
+Here are some benefits:
++ Beautiful 15" widescreen display.  I'm coming from a 17" PC, and since the display was a bit more squared, I don't feel that the screen size decrease is too noticeable
++ Much lighter than PC.  At 5.5 lbs, it's easier to carry around than similarly sized PC's
++ Super fast power up and power off.  I would say it takes between 30-40 seconds to power on, and less than 10 seconds to shut down- outstanding
++ Robust battery life.  It's rated at 7 hours.  This time will vary depending on your usage, but it's about right if you don't jack the brightness and surf too heavily
++ Refined, gestured trackpad.  If you want to scroll, just swipe with two fingers- to select options or webpages, a single tap on the trackpad will accomplish this.  Also nice is the ability to zoom webpages a la ipod touch/iphone pinching.  I wish you could save a zoom setting to default on Safari though
++ No crashes, except for internet surfing (more on that later)
++ Love the preinstalled iPhoto application it comes with to view and edit photos
++ No problems with spyware, viruses, or crappy, obtrusive antispyware (i.e. Trend Micro) to combat it
++ Outstanding customer support (and I've used them a lot so far!)
+And now for the not so good:
+- If you want word processing/spreadsheet functionality, you're pretty much stuck with plunking down $100 for Microsoft Office.  You could use alternatives like iWork, but with most people using the Office standard, it makes sense for compatibility purposes.  No generic preinstalled word processing software, Apple?
+- The learning curve (if you're a long-time PC user).  The menus and interface that Macs use are pretty well laid out, but it's a pain to relearn where some items are.  Example, you're in Mail and you'd like to add an email folder.  The solution?  Select "New Mailbox."  I'm sure most PC users were scratching their heads with that solution
+- There's no "maximize" function on the windows.  It will save your settings once you resize everything, but if you want a window to take up the screen, you'll be doing some manual dragging to get them the way you want  
+- Not enough ports.  Here's an example.  Let's say you have a usb mouse, you're listening to iTunes from your iPod, and you're saving backup data to a USB drive as you're working in MS Word.  Well, that's one too many usb apps, so you'll have to constantly unplug everything to accommodate your needs
+- No number pad.  Now I realize this does not affect a large percentage of users, but I'm a finance guy, and work in Excel a lot.  Not putting a number pad on the keyboard is reasonable, but what is not reasonable, is offering no first/third party solutions for a USB/Bluetooth numpad.  Props to anyone that can find such an accessory
+- A bit tricky to port your iTunes media from PC to Mac.  You'll be contacting support on this one, trust me
+- Too many extra charges from Apple.  $350 for 3 years of support, $99 per year of storage backup.  Considering what we're paying for Macbooks, you'd think Apple would cut us a break on some of the "extras"
+- Here's my biggest gripe.  I have had SERIOUS stability issues with my Macbook and 2Wire DSL AT&T modem/router working together.  I originally had a problem with Airport dropping my signal (fixed it with a Google search).  Then, I had numerous problems with "Broadband Link Not Established Errors" from my 2Wire modem.  Again, I was able to find a posting online which allowed my to turn 2Wire notification messages off, resolving this.  So after numerous Google searches, and tech support from Apple and AT&T, my internet is pretty stable, but still not great.  I'm still having issues where common websites will not load without stopping the request and clicking the reload button.  Some users have had these stability issues resolved by purchasing the Airport Extreme Router, but at $179, this is not a cheap solution.  I've had none of these internet problems running other devices from 2Wire.  I'm not sure who is at fault, but my gut tells me that Apple did not go out of their way to make their Macbooks overly friendly with 2Wire's network.  I feel like Apple should send me a partial rebate for all the hard research  I've put in to get a stable connection
+So is it worth it to switch to Mac?  In a word, yes.  Although they're certainly more expensive, 13" models are available at $1,200 which provide decent value.  New Mac users will certainly notice an increased level of refinement and simplicity when they make the switch.  Overall, a very nice laptop that would easily merit a 5 star rating, if not for the terrible 2Wire compatibility issues.
+8/5/09 update:
+My 2Wire modem continued to error out and reset itself while surfing webpages.  The DSL and Internet lights would flash red, and my internet would disconnect for 20 seconds every time this happened.  I finally found a solution to this problem.  Not thrilled about the extra $89, but my internet experience is finally stable.  The product I picked up is the D-Link ADSL2/2+ Modem/Wireless Router combo.  I also reviewed this product on Amazon.
+The D-Link is highly recommended for AT&T DSL users with Mac/2Wire compatibility issues.

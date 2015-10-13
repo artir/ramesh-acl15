@@ -1,0 +1,11 @@
+ID: B000ETVKHE-R1282DHQSYRHXO-A246WLRG7YZ6NW
+Category: MP3Players
+Product: SanDisk-Sansa-Player-MicroSD-Expansion
+ReviewerID: A246WLRG7YZ6NW
+ReviewerName: Jennifer M. Wang
+Date: December 5, 2006
+Helpful: 
+Rating: 4.0
+Title: storage capability is misleading
+Content:
+I just got this and am very excited about using it for video and photos as well as music. However, the print on the box saying "4G = 1000 songs" is quite misleading. I was able to put only about 300 songs on it in MP3 format, after deleting the couple hundred songs that came preloaded. There is a folder named "System" containing 1.4 Gigs of stuff, which I'm not sure is essential or not. I haven't found anything on SanDisk's support website about this folder. Anyway, 4G actually = 300 songs, so buy the Sansa with the most space you can afford. Especially since the price increase for a model with 2G more space is less than the price of a 2G SD drive.

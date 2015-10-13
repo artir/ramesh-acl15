@@ -1,0 +1,20 @@
+ID: B0031ESTDC-R31VD5W2HXPXE8-A2AXWQVA5V9GPJ
+Category: Laptops
+Product: Toshiba-Satellite-T115D-S1125-TruBrite-11-6-Inch
+ReviewerID: A2AXWQVA5V9GPJ
+ReviewerName: A. Benenson
+Date: March 13, 2010
+Helpful: 6 of 6
+Rating: 5.0
+Title: Great size (not too big or too small) and great performance
+Content:
+My tiny Asus netbook was too small to do anything other than casual web browsing and emailing, and when I started to need a laptop for on-site business at clients, it just didn't cut it anymore. I didn't want a huge boat-anchor laptop made to just sit in one place, or a super-slim, super-expensive business laptop either.
+So I got this Toshiba because it was a great compromise between a netbook and a full sized laptop, and the price was also about halfway between those two. Like a netbook, there is no built-in CD/DVD drive, but in other respects it's pretty much a full-strength laptop. The keyboard and screen are full-sized, it has all the usual ports (including HDMI), and its performance is really good.
+It's light enough to carry around easily, and battery life is OK (maybe 4-5 hours). The keyboard does flex a little, but you don't really notice this when typing. The screen is very sharp and evenly lit, though I had to fiddle with the color/contrast/brightness to get it to look its best.
+To Toshiba's credit, this laptop was not too loaded up with crapware; most of the pre-installed apps were Toshiba utilities that are actually sort of useful. There's also Microsoft Works and a trial version of Norton Security and Microsoft Office.
+Although there is no built-in CD/DVD burner, the laptop does include a Toshiba utility to burn recovery disc images to either an external CD/DVD drive, or to a USB flash drive. But oddly, there's no option to burn to a larger capacity external hard drive instead. The USB flash drive option is a pain because it requires 8.3GB of space, which means that you actually need a 16GB flash drive - but at least these are starting to become reasonably priced.
+My only complaints are minor: The built in webcam isn't that great (poor non-adjustable white balance, poor low light performance, and an ultra-bright annoying blue LED), the shiny black finish attracts fingerprints, the battery bulges out of the bottom (but if it didn't do that, it would have stuck out the back), and the screen doesn't tilt back quite far enough for my liking sometimes.
+-------------
+WEBCAM TIPS:
+- For best skin tone when using the webcam, make sure the brightest thing it sees (usually the wall behind you or your shirt) is pure white or light blue. Avoid warm light colors (like beige, cream, yellow) because they'll make your skin look blue.
+- This laptop shipped with old Wi-Fi driver software, which caused problems for me when I tried webcam chatting (my Wi-Fi kept disconnecting). I found updated drivers on Realtek's website which solved the problem.

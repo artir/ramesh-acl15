@@ -1,0 +1,15 @@
+ID: B002ONCDKG-RY6ZMCIC0HDTV-A228YII23YURNE
+Category: Laptops
+Product: Pavilion-DV4-1540US-14-1-Inch-White-Laptop
+ReviewerID: A228YII23YURNE
+ReviewerName: B. Alleman
+Date: January 23, 2010
+Helpful: 
+Rating: 4.0
+Title: HP Pavilion DV4
+Content:
+I purchased this laptop to replace another HP laptop running Windows XP, which I gave to my son.  This time I chose a slightly smaller form, the 14.1" vs the 15.6".  It weighs a pound less and is a great size to be truly portable.  The keyboard is very close to full-sized, and I have had no trouble with it at all.  With its fast processor, lots of DDR3 Ram, and a 7200rpm SATA hard drive, it is truly a fast machine.  It has three USB outlets, one of which is also for eSATA.  I would be happier with an additional USB port, since I use a wireless mouse and sometimes have a cooling mat plugged in.  I have used the touch pad minimally, since I prefer a mouse, and found it rather hard to control.  My main complaint, which I knew about prior to purchasing, is the use of plastic, rather than aluminum on the face around the keyboard.  There is a strip of aluminum around the edge where all the connections are, but, in my opinion, this cheapens the appearance.
+I am currently using this as a second computer on a home network, connecting wirelessly.  It connected immediately and I have had no problems whatever with that.
+This is my first experience with Windows 7, so I'm still getting used to that.  I do not like Windows Live Mail instead of Outlook Express or Outlook, but that is a Windows matter, not HP's doing.
+All in all, this is a neat little machine with a whole lot of power.  I look forward to traveling with it, since I use a cellular broadband connection.
+Delivery was hindered by the order date, right at Christmas time, but the package arrived in good shape and the product was well protected with inflatable packing materials.  I'll continue to order from Amazon.com.

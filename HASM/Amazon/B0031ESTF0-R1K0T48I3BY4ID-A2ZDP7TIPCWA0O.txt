@@ -1,0 +1,12 @@
+ID: B0031ESTF0-R1K0T48I3BY4ID-A2ZDP7TIPCWA0O
+Category: Laptops
+Product: Toshiba-Satellite-T135-S1330-13-3-Inch-Ultrathin
+ReviewerID: A2ZDP7TIPCWA0O
+ReviewerName: Steven Townsend "Steve T."
+Date: April 9, 2010
+Helpful: 
+Rating: 4.0
+Title: Pretty good student laptop
+Content:
+We're replacing the ASUS EeePC that we used for university classes.  It's a perfect 'tweener' between an underpowered Netbook and a heavy, bad battery life laptop.  I'd call it a Lapbook.  Beautiful screen that is shorter than a full size laptop.  Recommend a bluetooth mouse because the track pad is pretty small.
+My only complaint is that for some reason it take a long time to launch any application after bringing out of hibernate and logging in.  My wife logged in and clicked on Firefox.  Didn't launch for 2 minutes.

@@ -1,0 +1,12 @@
+ID: B002OL2LT6-RG5LJ4OYI6TKE-AAEGOM06JSS10
+Category: Laptops
+Product: Toshiba-Satellite-U505-S2960RD-13-3-Inch-Laptop
+ReviewerID: AAEGOM06JSS10
+ReviewerName: J. Petersen "jjpeter"
+Date: January 15, 2010
+Helpful: 3 of 6
+Rating: 2.0
+Title: Buyer beware
+Content:
+Received this laptop yesterday, shipping it back today for a refund.  Why?  The keyboard.  The next few models higher in price of Toshiba's have backlit keyboards, like the Macs.  This one does not have that feature.  But - the keyboard is "backlit ready", which means the letters on the keys are semi-translucent, but there's no illumination underneath to make them stand out.  So in low light conditions one can barely make out letters/numbers and function keys.  Ridiculous.
+Also, in the process of checking the system out, a restart yielded Windows 7 needing to "rebuild itself".  I didn't install any software or add hardware to prompt this.  Maybe an anomaly,  don't know.  Could be it's just me, but Windows 7 seems to be 2x too cute.  It's constantly getting in the way of me just trying to get something done. Lots of glitz, but underneath, it's trying real hard to be 'Mac-like' but failing miserably.  Will seriously look at Macs for my laptop choice next purchase.

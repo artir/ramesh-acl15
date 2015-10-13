@@ -1,0 +1,19 @@
+ID: B001D3X16I-RVSGC1HN3ZC16-AVYV7GG3JUKT3
+Category: MP3Players
+Product: Creative-Zen-Mozaic-Player-Pink
+ReviewerID: AVYV7GG3JUKT3
+ReviewerName: Scope "scope"
+Date: December 26, 2008
+Helpful: 2 of 2
+Rating: 3.0
+Title: You want folders? No, you can't have them!
+Content:
+I just bought it for my mom (8Gb version) - I thought this would be a nice simple cheap player, but in my efforts to load my music and her English lesson mp3s I got nothing but 3 hours of headache.
+Forget about your folders on your comp, where your files are neatly arranged. The player will pile all of them into one big hip, and rename them according to who-knows-what rules (some of the files had the same name!!!). Oh, sure, you can rename each and every file (using Properties, but not the actual file name with an extension) and hope that the player will like and use the new names.  Didn't help so far.
+If you plug the player in to the comp, everything is going fine, until you need to unplug it and plug it again. The comp will not see the player until you restart the computer. The software didn't see half of my mp3 files on my comp until I updated firmware.
+The screen will not dim completely. Just to 10% of brightness.
+The speaker does not have as loud and clear a sound as I hoped for.
+Now, on the somewhat positive side: it's cute and lightweight, the screen is nice, sound is nice (but will not compare to Cowon). I didn't try the videos, or conversion yet. Huge plus: interface language can be changed to a bunch of other languages, including Russian, Polish, Magyar, etc.  Powers up and starts playback immediately.
+Update:
+Spent hours renaming all the files. Uploaded them again. Software didn't read them again. Reinstalled software. Uploaded the files. Ufff. Finally was able to put all the files into playlists. Neither the software, nor the player itself see the folders you create in the player. 
+I am sticking to Cowon for myself - we have 3 of them, and they are excellent. You get what you pay for. There is no way my mom could figure all of this by herself (for Mosaic) - not very electronics savvy, but she has no problems with Cowon (plug, drag-drog, arrange, enjoy).

@@ -1,0 +1,18 @@
+ID: B0010BB4L2-R2C2R1KXJL1TEC-A32HAMICRE52M
+Category: MP3Players
+Product: Pyrus-Electronics-Touch-Screen-Player
+ReviewerID: A32HAMICRE52M
+ReviewerName: Pippa Lee
+Date: January 3, 2010
+Helpful: 
+Rating: 4.0
+Title: Surprisingly good
+Content:
+I wanted a personal player to watch music videos clips and after some research and based on the comments of other reviewers and the price, I chose this Pyrus Electronics (PE) music & video player. This device may not have the reputation of well-known name brands but it surprisingly performs quite well once you get the hang of it.  
+The manual seems to be a generic one and meant to be used with other PE media player models since it has instructions for a camera, a feature the uTronix 2 GB does not have.  This poorly written instruction booklet is the source of unnecessary frustration.  For the newbie like me (this is my first multimedia player), realizing the fact that the manual comes with no instruction on how to load music and videos to the player can be quite annoying.  Here are a few things I had to find out on my own:
+a)	Though PE provides its own AVI converter software program in a mini CD, this program does not recognize the FLV format that's so common for YouTube and Google videos.  Therefore, you must use another FLV to AVI converter program first. You may find some good converters that are free to download at the cnet website.  Once you have converted your FLV video to AVI, you must now use PE's AVI converter program so that the video is sized correctly for the player.
+b)	When you're using PE's AVI converter, it's recommended to select "Normal" for the quality setting and "4:3" for the aspect ratio.
+c)	Once your video has been converted to the player's standards, you may now load it to the player.  The player acts like a flash drive when you connect it to your computer with the USB cable.  Your computer should recognize it as another removable disk and from there you can click, drag and drop your video files from your computer to the player.  
+d)	When it comes to music, if you're using Windows Media Player command to copy to portable devices, you'll find out it will copy them into the "Record" folder in the player.  Move the files out of the "Record" folder so that the player recognizes them as music files and appear in the play list.
+Once I learned how to prepare my video clips and songs correctly, I haven't had any other problems with the player so far.  The image is bright, the sound clear.  The interface is easy to use. The touch screen responds well with the provided stylus. Just remember to tap once to select a song/video and tap again to start playing it.  The FM radio works well though I had to set each channel manually. I haven't tried the e-book, games, and the recorder features yet.  Another thing I like about this player is that it comes with an A/C charger so that I don't have to use my PC to recharge the battery.   
+Although loading music and videos on to this player is somewhat a roundabout process, I'm still satisfied with this device.  It's lightweight, nice looking, and feels solid.  The 2.8" LCD screen is bright and is big enough to watch video clips without squinting. If you go to Pro Ebiz website, you'll find a slightly better manual than the one the player came with. Also there are video instructions--although they're in German and they're for a different PE model, but still they may be useful as that model and the uTronix have some features in common.

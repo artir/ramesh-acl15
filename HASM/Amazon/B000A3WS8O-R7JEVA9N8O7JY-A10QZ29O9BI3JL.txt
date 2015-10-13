@@ -1,0 +1,12 @@
+ID: B000A3WS8O-R7JEVA9N8O7JY-A10QZ29O9BI3JL
+Category: MP3Players
+Product: Apple-Video-Black-MA147LL-Generation
+ReviewerID: A10QZ29O9BI3JL
+ReviewerName: M. White
+Date: May 15, 2006
+Helpful: 7 of 8
+Rating: 5.0
+Title: Great Product, Video Conversion Not So Easy
+Content:
+It's an Apple product, so I would expect an easy straight forward way to get music & video loaded onto it.  Wrong.  The iTunes software works extremely well for music, but it's very partial about video.
+The iTunes software will only convert QuickTime videos to iPod format.  If you want to convert other videos to iPod format, you will need to purchase third-party software to do this.

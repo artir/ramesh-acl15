@@ -1,0 +1,17 @@
+ID: B002LF10GA-R2U3O70YZCF5BS-AGUOZAR9N04UV
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: AGUOZAR9N04UV
+ReviewerName: AJB
+Date: November 10, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Excellent Laptop
+Content:
+I bought this model because I wanted the portability and battery life of a netbook but also wanted the power to do a little more. It has exceeded my expectations. I have not run a continuous test to determine battery life but in real world use it seems to last at least 6 hours. My wife and I share it, she uses it during the day to check email and web surf mostly. I do the same at night. I think in the 2 weeks I've owned it I've only charged it 4 times. 
+The screen is awesome, the speed is great, and the performance beats my needs. I watched Hulu in HD (full screen) last night with no glitches. I'm convinced my WiFi connection is the bottleneck not the computer. 
+The fan is quiet and I have not noticed it getting hot at all. I generally use the balanced or power saver mode. 
+The flat keys on the keyboard take a few minutes to get comfortable with but I have had no trouble since the first day or so. I have run Excel and Word and they seem much faster to open than on my work laptop which is a newer Dell Latitude.
+If you are only surfin the web, you probably can use the Intel Atom version of this ACER, but if you want to watch online video, or do some more intense apps the extra $$ are worth it. Watch out though, there is now a version with a Celeron M processor. It likely will have shorter battery life and less power. Mine uses the Core 2 Solo Processor (ULV SU3500). The Celeron version is cheaper but you give up something for that extra $$. 
+I have not yet loaded the free Windows 7 upgrade or uninstalled all the freebies it comes with. Both of these should improve the performance further although I don't think I'll notice since it seems fast enough already.
+Before buying this unit I also considered the Lenovo Ideapad S12 and others in the 11-12 inch range.

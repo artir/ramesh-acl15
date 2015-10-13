@@ -1,0 +1,41 @@
+ID: B002JPITXY-R35ZWHAQ69X8LN-A3Q0G2M6GSN4IT
+Category: MP3Players
+Product: Zune-Video-MP3-Player-Black
+ReviewerID: A3Q0G2M6GSN4IT
+ReviewerName: C. Law
+Date: September 17, 2009
+Helpful: 6 of 7
+Rating: 4.0
+Title: Still Quite Early to Judge this Device, but look promising with nVidia Tegra
+Content:
+I just got the Zune HD yesterday.  The screen is very vivid and sometimes too vivid in color.  It does able to provide extremely high contrast ratio that no LCD screen can really do.  Zune HD still has a lot of work to do in order to really compete and survive in the fierce PMP market.
+Pros:
+- Fashionable UI with lots of eye candy and fluid floating pictures, text and artsy interface put iPhone/iPod Touch interface into the business casual category.
+- Vivid and Bright OLED, not that bad under the sun if you keep the screen clean and glossy
+- HD Radio
+- HD TV out at 720p (Not 1080p like Zii)
+- nVidia Tegra CPU that supports 3D gaming
+- Great Audio and Video quality
+- Pretty Accurate Multi-Touch interface
+- Sync Wirelessly via WiFi with the PC
+- Aluminium Case feels sleek and sturdy yet maintains a light weight.
+- Comes with a multitouch Internet Browser but limited functionality
+- Comes with some simple free Apps and mostly games with ads.  There is one game that utilizes the multitouch capability where you have to kill the germs before they fall into the green liquid monster.
+Cons:
+- Games with forced video ad when app is running at the first time.  After that, it's just a short duration of still ad photo.
+- Apps takes longer than they should be to load
+- Browser is lacking tab function, no history, no forward button, NO COPY & PASTE and quite non responsive touch! There is no other mobile browsers better than Safari in iPhone/iPod Touch.
+- No Predictive Text to correct the typo
+- Zune Marketplace library is not as many as iTunes or Amazon
+- No Multilingual Text input.
+- HD video requires Zune HD Docking Station
+- No external speakers which is bad for gaming with a corded headphone
+- Zune Software's text is too small to read on a 1080P HD Monitor.  It is great for 1280x800 though.
+Other Issues
+- Cannot Record Radio
+- Does not support DivX, MKV codecs
+- Cannot connect to Zune software and output signal into the HDTV at the same time.  You must quit the Zune software first.
+So what is the most attractive point of getting a Zune HD?
+If you are into legit media, the Zune Pass $14/month and you can keep 10 songs for every 30 days but able to download and listen to millions of songs.  I'm not quite sure about Movies and TV shows because they are new to the Zune Store 4.0.  Zune Marketplace is going to be integrated into Xbox Live.
+Finally, the XNA, which allows 3D games coming for Zune HD.  The nVidia Tegra chip has a lot of publicity recently and lets hope that Microsoft and fully unleash that beast.
+Zune HD is still not in prime time but only time will tell by the holiday seasons when Microsoft starts adding more apps into the Zune Marketplace.

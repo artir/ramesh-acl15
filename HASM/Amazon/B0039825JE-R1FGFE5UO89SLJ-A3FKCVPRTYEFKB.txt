@@ -1,0 +1,27 @@
+ID: B0039825JE-R1FGFE5UO89SLJ-A3FKCVPRTYEFKB
+Category: Laptops
+Product: Republic-Gamers-G73JH-A1-17-Inch-Gaming
+ReviewerID: A3FKCVPRTYEFKB
+ReviewerName: J. Alix
+Date: April 19, 2010
+Helpful: 4 of 4
+Rating: 4.0
+Title: 'Gaming' review
+Content:
+You can find a ton of reviews regarding the hardware and you can compare similarly configured gaming notebooks and you'll see that this is HUNDREDs of dollars cheaper.  I've had the machine for almost 2 weeks, gaming about 1-2 hrs a day.
+Pluses
+-have not had a single technical issue 
+-function keys for volume and brightness do not bring me to the desktop when playing games (like it did my previous HP)
+-HDMI to HDTV is plug and play (video and audio)
+Now for the Gaming part
+I play around with AA (anti-aliasing) from highest and then bring it down until very smooth playability.  These are the games I found to push the notebook the most (settings to be very playable at native 1920x1080, I don't use vsync):  
+Crysis/Crysis Warhead - no AA, almost all on High/Gamer settings
+Batman AA - All Max
+RE5 - All Max
+Lost Planet: Extreme Conditions - HDR at medium, all else at max
+Prototype - All max
+Wolfenstein - All max
+Borderlands - All max
+Red Faction Guerrilla - No AA, almost all on max
+Every other older game (even newer ones), the G73 just breezes through (such as GoW, UT3, Dark Void, L4D, TR:Underworld),  I've found it handles the Unreal engine quite well.
+I can't believe how this notebook handles games at 1920x1080.  Stays cool and quiet.  Audio is pretty decent, even takes care of Prototype's low volume issue (just crank it up!).  I've been gaming on laptops for more than 12 years (no space for desktop rigs) and  I've never had a gaming laptop, always had to compromise the graphics.  Not anymore.  Playing at 40-50 frames/sec is surely a welcome change.

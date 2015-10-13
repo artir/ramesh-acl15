@@ -1,0 +1,18 @@
+ID: B002PHM0IQ-R1F4FMIFU1HTMR-A3QPX7I262MLWT
+Category: Laptops
+Product: Sony-VPC-CW13FX-14-Inch-Windows-Premium
+ReviewerID: A3QPX7I262MLWT
+ReviewerName: N. Roberts
+Date: November 22, 2009
+Helpful: 27 of 28
+Rating: 4.0
+Title: beautiful notebook
+Content:
+Having looked at several dozen models before settling on this Sony, this is one of the best looking notebooks available. Fit and finish are first rate. The palm rest includes a blended color scheme, matching the lid on the outer edge and gradually lightening as it approaches the keyboard. The keys are well labeled, with large, high-contrast letters and numbers.
+None of this would matter if its features and performance lacked. First, it has a great screen. Text is sharp and colors are well saturated without being overdone. It gets plenty bright! Movies look great, too. I did not notice any smearing or stuttering when playing back DVDs, for example. Second, the keyboard is excellent. It's quiet. The keys are well spaced and have a good feel. The keyboard also has zero flex. Third, it runs cool and quiet. The fan creates such a soft whir that it's easy to forget it's on and never distracting. The palmrest never gets uncomfortable, even after hours of typing. It stays cool, as does the underside of the unit.
+I like that Sony places the speakers between the keyboard and the screen. It helps anchor the sound to the screen (some notebooks have the speakers under the palmrest or on the bottom). They're not loud, but they are clear and get the job done. For serious listening, external speakers or headphones should be used. I also appreciate that all the most-used ports are along the sides; only the AC and ethernet ports are in the rear. The SD reader and indicator lights are at the front, easily accessible and visible.
+The touchpad is sensitive out of the box and better after calibration. However, I prefer the use of a mouse.
+I don't play games, so I cannot comment on how well the unit might be for that purpose. However, Windows 7 gives this notebook a 4.9 on the Windows Experience Index. It boots quickly and loads programs quickly. I never feel as if I'm waiting on the computer...a good feeling!
+One unique feature is a display off button beneath the screen. This is great for conserving battery life if you're simply listening to music or using a projector or other external display. It's also handy if you need to step away from the computer for a few minutes. I didn't see a dedicated button for this purpose on any of the other notebooks I evaluated for purchase.
+All in all, I love this notebook. However, I do have a few nits to pick. It took me over 30 minutes to get my Bluetooth mouse to work. While the radio is on by default, it does not accept connections. I had to dig deep in the manual to figure it out. Way too much work to add a device! It also bluescreened the second day I had it, locking up while I was checking scores on espn. That does not inspire confidence! I updated two device drivers and the problem has not repeated.
+I also would prefer that the WiFi and Bluetooth radios not be tied to the same switch. There are times when it is preferable to use the Bluetooth but not Wifi in order to conserve the battery. However, this can be done through software.

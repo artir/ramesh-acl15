@@ -1,0 +1,11 @@
+ID: B0006DOW4Q-R1J83LZ9WM177D-A3M1R9AP1SLN18
+Category: CoffeeMachines
+Product: Dualit-Cordless-Percolator
+ReviewerID: A3M1R9AP1SLN18
+ReviewerName: J. Ryan "Coffee Drinker"
+Date: January 6, 2008
+Helpful: 3 of 3
+Rating: 1.0
+Title: Dualit Axis - A dangerous product?
+Content:
+This percolator makes a great pot of coffee.  Trouble is, it doesn't stop boiling the coffee after it finishes percolating.  Its warm cycle is too robust - makes me think the one I bought is defective or just not completely compatible with 110 current.

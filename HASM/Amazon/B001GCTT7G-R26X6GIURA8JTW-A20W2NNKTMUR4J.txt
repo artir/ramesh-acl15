@@ -1,0 +1,36 @@
+ID: B001GCTT7G-R26X6GIURA8JTW-A20W2NNKTMUR4J
+Category: Laptops
+Product: Apple-MacBook-MB467LL-13-3-Inch-Laptop
+ReviewerID: A20W2NNKTMUR4J
+ReviewerName: Travis Dockweiler "tdockweiler"
+Date: January 16, 2009
+Helpful: 4 of 6
+Rating: 5.0
+Title: Review from a PC user
+Content:
+This past "black friday" I was tempted to upgrade my current laptop to something smaller. My HP 17" laptop was like a brick and I wanted something that did not weigh a lot. I originally was planning on spending half a grand on a cheap laptop. I guess I ended up spending much more!
+I first went with a Dell computer and liked it a lot. The price was great and it had the best specifications  I could find for the money. Unfortunately I had to return it due to some minor issues. 
+The problem I had with making the initial purchase at first was the price. It cost almost five hundred dollars more than a comparable PC with even better specs. The hard drive was also too small and only came with 2gb of ram. Since I absolutely need to run some Windows programs, i'd have to also purchase a licensed copy of Windows. 
+To me, 160gb on such an expensive computer is just not acceptable. It seems that Apple always has put smaller hard drives in their computers.  To be honest, until I opened and used my Macbook I felt really guilty for paying so much for a laptop. Generally I don't pay over a grand for a laptop and I build my own desktop computers based on what I need. After using the computer for awhile, my guilty conscience went away very fast.
+I won't lie about this. I loved this laptop from the start. When I first saw the picture of the new Macbook I thought it kind of looked ugly! In person it definitely is not. It's probably one of the best designed computers ever.
+First thing I did was upgrade to a new 500gb hard drive and 4gb of ram. Upgrading these is stupid easy. Anyone can do it. I'm so glad Apple has decided to make upgrading easier for people. My old ibook took over 2 hours and the removal of over 40 screws to upgrade the hard drive! This Macbook requires the removal of....ONE screw to access the hard drive. 
+The price is the biggest negative. I feel it's worth paying extra for because of the build quality, but it's still too high. I think this laptop should be a hundred less. 
+I'm not bothered by the lack of Firewire. I don't use firewire that much to really miss it that much. I do however wish it had some other high speed port such as eSATA. USB is just unbearably slow to me. 
+I'm sick of Windows XP, so I decided to install Vista 64 bit version. No problem at all with this. Here is what is my biggest problem with Apple is. They love to nickle and dime you to try and sell you something bigger and better. Beforehand I did not know that Apple officially doesn't support Vista 64 on a Macbook. They want you to use an expensive Macbook Pro or Mac Pro. What's funny is that ALL the drivers still work, but they made it so that the installer doesn't run unless you run some DOS commands. When using this work-around every single device was working perfectly fine! 
+My main computer is a PC desktop, but i'm liking this Macbook so much I might make the switch to Mac OS full time. I also installed Vmware Fusion and that really helps when theres a program I need to run that's only available on Windows. What's nice is that Vmware Fusion now supports Bootcamp partitions, so no need to reinstall or buy a second copy of Windows.
+The Macbook is pretty fast. No problems in this area. I'm surprised to be able to run Vista 64 in Vmware with no major problems. It's not fast, but works well. For me, upgrading to the 2.4ghz version was not needed. 2Ghz is more than enough for me. Three hundred for .4 ghz, backlit keyboard and a 250gb hard drive isn't worth it for me. For some it is, but it just depends on what you need.
+The display isn't the best, but in my opinion it's much better than most others. I actually have no negatives about the picture quality itself. You can view the display at an angle, but to a point. With my other laptop, you move the display an inch and it's hardly viewable. The glossy screen is of course annoying, but not big of a deal for me. 
+At first I said that i'd never buy a Macbook because it had a terrible "chicklet" keyboard. Once I used it, it's perfectly fine. I should also point out that I absolutely HATE the wireless Apple Keyboard and find it unusable. Yet they're almost the same. Strange isn't it? This one is very good. Perhaps it's all due to a different typing angle. The trackpad is perfect. It's the best one i've ever used. 
+I have not played any games with this yet, but I will soon. I'm sure it will play Half Life 2 and other games just fine. The shared video memory is kind of annoying, but it won't bother me much I think. I really don't know how much of a negative this is.
+The sound is somewhat tinny, but it's acceptable to me. My old HP 17" monster had great sound for a laptop, but that was a laptop made for gaming. 
+For me, this is just about as perfect as it gets. It just needed eSATA, a bigger hard drive and a lowered price. One hundred less and it'd be a pretty fair price. I will try to update this review with notes if I come across any problems. 
+3-15-2009 UPDATE:
+I've been using this each and every day. Since day one I've had no regrets buying this despite it being way overpriced for the specs. 
+The only negative i've had so far is using Vista 64-bit edition on this is a lot of trouble. It takes a lot of work just to get the Bootcamp Setup (inside VISTA)  to run properly. It would not unless I ran a few commands at the DOS prompt.
+Then the next problem in Vista is that the drag and drop does not work well. Luckily they had an update and it works just fine. It's just too bad it takes so much more effort than it should to double click in Windows with this trackpad. When clicking and scrolling the pointer moves around all the time in Windows, but not in Leopard. Strange.
+Since Apple advertises Bootcamp and tries to sell you a computer based on this feature, it's their job to make sure the trackpad works properly in Windows I think.
+Getting sound to work in Vista 64 was also a major pain. After trying four sets of drivers I finally got it to work. I downloaded some beta Realtek drivers off a website. 
+My suggestion is to not bother with the 64-bit edition of Vista on this or just go with XP. 
+The display is also just average. I'm not really impressed with it. It could be better. In terms of the quality of the LCD display, i'd give it a 7/10. What's strange is that the resolution in VMWARE Fusion would go past 1280x800 without actually having to scroll off the screen. I found that rather strange. Could the LCD display modes past this limit, but just not officially? Makes me wonder.
+My other negative is that the DVD-ROM is fairly slow at reading DVD movies. I wonder why very few Apple computers have 16x burners in them? Perhaps 8x is more reliable to them.
+I sure hope the next apple Macbooks have eSATA or USB3. USB 2.0 is just way too slow for backup.

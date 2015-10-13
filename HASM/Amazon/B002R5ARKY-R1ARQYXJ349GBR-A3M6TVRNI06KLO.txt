@@ -1,0 +1,14 @@
+ID: B002R5ARKY-R1ARQYXJ349GBR-A3M6TVRNI06KLO
+Category: Laptops
+Product: Pavilion-DV6-1354US-15-6-Inch-Black-Laptop
+ReviewerID: A3M6TVRNI06KLO
+ReviewerName: Amazonian
+Date: December 8, 2009
+Helpful: 12 of 17
+Rating: 3.0
+Title: Windows 7 surprises
+Content:
+Interestingly enough, the laptop itself seems to suit my purposes. We needed an upgrade and found the features on this to be what we wanted.  We experienced some real surprises with windows 7 though.  It seems some hardware and software are not supported by windows 7 yet.  The 1st surprise was when I tried to load my Kodak software.
+It loaded but failed to run.  Additionally it completely blew away access to my drive E:.  No matter what I tried, nothing worked.  Well after several frustrating hours I somehow (doubt if I could ever recreate) corrupted my recently loaded MS Office 2007.  No matter what program I tried to load, Word came up.  Even windows explorer!  Completely frustated I made the call...to India.  The support was fantastic, of course I had to re-set everything to factory settings thereby losing anything I added.  But it was up and running again.
+Took awhile but I was able to load my MS Office again.  Then time to do some work, hmmmmmm seems my printer isn't supported either,and my iPod probably isn't either.
+My suggestion is that before you buy, check your hardware and software to ensure it is supported.  The laptop itself and the support appear to be good.  But then again it's still early.

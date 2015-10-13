@@ -1,0 +1,39 @@
+ID: B0015YUMEY-R2P3OIOT02NYQO-A2J8DE8R94ZB02
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A2J8DE8R94ZB02
+ReviewerName: Truth Teller
+Date: December 11, 2007
+Helpful: 60 of 74
+Rating: 3.0
+Title: OS X Fantastic, but external functionality lacking despite high price
+Content:
+So, I have a bit of a love hate relationship with this Macbook Pro.  I really am enjoying OS X.  There are a few things about using it that are taking some time to learn, but for the most part it just works.  It is speedy and easy to setup.  I also love the external look of the laptop, but it has some definite issues and is sadly lacking in areas.
+What I Love:
+ - Initial setup was really, really easy.
+ - Connecting to wireless* networks and bluetooth has been a cinch
+ - It is speedy
+ - I am able to run VMWare Fusion on it and install a Windows virtual machine.  Likewise, I can set up dual boot.**
+ - It looks cool
+ - Long battery life
+ - The back lighting on the keyboard
+ - Very nice display quality
+What I Hate:
+ - It looks cool, but the aluminum is actually really annoying in every day use.  When you first pick it up, it is cold and somewhat unpleasant to the touch.  After a bit of use on your lap, it gets hotter than any laptop I've ever owned.  Almost too hot to touch!
+ - *The wireless connection seems to be a bit flaky.  I've tried many things, but it just isn't very good.  I've done a lot of searching on Google and Apple support where it appears that this is a somewhat common problem with this laptop.
+ - No memory card reader.  It would be really nice to have an SD memory card reader built in so that I didn't have to go fishing around for the USB cable to connect my camera to the laptop all the time.
+ - The LCD lid doesn't open quite wide enough.  The design of it prevents it from opening as wide as I'd like it when I'm holding it on my lap.
+ - All the ports are on the sides (not on back) and there is no easy single connector docking port on it.  This makes this laptop a real pain to plug in to an external monitor, keyboard, mouse, printer, etc on a regular basis and even when you do, you have a lot of unsightly cables shooting out from the sides.  This seems to be a rather big oversight on a system that is deemed "Pro".  I don't see why they couldn't provide something like what HP has on their laptops for docking.
+ - You pay significantly more for this laptop than you would for a similarly configured Windows laptop from HP or Dell (though they can't run OS X due to Apple licensing constraints)**.
+BOTTOM LINE:
+I'd buy this laptop again only because I wanted both OS X (Mac) and Windows.  Otherwise, it would be too pricey and the external functional aspects of it are too disappointing (for the price).
+You want this laptop if:
+ - You want to look cool
+ - You need to use OS X and Windows (just use VMWare Fusion or boot camp)
+ - You want an operating system that is fast
+ - You are willing to learn a little different way of working on a computer than Windows.
+You DON'T want this laptop if:
+ - You are looking for an inexpensive solution and you don't need a Mac 
+ - You want to play games that only run on Windows unless you are willing to set up and maintain both OS X and Windows.
+ - You are sensitive to external laptop temperatures (hot or cold on your lap).
+ - You are expecting an OS that never fails and applications never have problems.  I'm sorry, but the Mac has issues too.  All software has issues from time to time and if you don't believe Macs have problems then just search Google or Apple for something like "macbook crashes".

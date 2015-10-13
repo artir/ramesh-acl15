@@ -1,0 +1,11 @@
+ID: B002BDTLWW-R2E11VPQE3KI89-A2ETR153DYK216
+Category: MP3Players
+Product: Creative-Labs-Mozaic-EZ300-Player
+ReviewerID: A2ETR153DYK216
+ReviewerName: K. Grieger
+Date: March 6, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: It's a decent mp3 player
+Content:
+My zen micro photo just died on me last month and I needed a new mp3 player, I tried out the sansa product line... None of them can drive my headphones(sennheiser HD280's)loud enough to produce any bass(especially the sansa clip). I was rather dissappointed with all of them. I wanted something that JUST plays mp3s that has excellent soud quality an no touch screen. This is the only new mp3 player on the market that qualifies. I plugged it in, linux detected it, I copied my collection over and it plays just fine. The user interface is a little weird compared to the micro photo, and it tends to collect lent in the speaker cavity, otherwise a great player for walking around with headphones on all day. I haven't tried to use the video functionality, but the screen is so small i don't know why anybody would bother.

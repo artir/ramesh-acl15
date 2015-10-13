@@ -1,0 +1,12 @@
+ID: B002BNCUOI-R3NI47RZQ636FT-ASFIKI50TFJ9Q
+Category: Laptops
+Product: Hewlett-Packard-NW144UA-ABA-G60-440US-16-Inch
+ReviewerID: ASFIKI50TFJ9Q
+ReviewerName: Snavvy
+Date: October 17, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Awesome for Linux
+Content:
+I agree with the comments about HP support. They are overseas, know little about the product, and are idiots. 
+I repartitioned the drive (after shrinking the Windows partition with instructions from ubuntuguide dot org) and installed Kubuntu 9.04 Linux within 1 hour. Everything worked right away -- from webcam, to wireless, to video, to VMWare. This is one of the best laptops for Linux. I consider myself proficient at computers, so I also installed a few other OSs (on multiple partitions). No problems. I love this laptop. It is fast, and the widescreen great for movies. After 2 months I have discovered no problems (other than that Windows Vista sucks, but we all knew that, and the need to remove all the junkware that HP pre-installs.) But don't use the recovery disk(s) -- it wipes the entire hard drive clean and wipes out all your data. I learned this the hard way. HP sucks at software (and support), even though the hardware is great.

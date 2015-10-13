@@ -1,0 +1,12 @@
+ID: B001CPP58E-R7S5Y4ASJIW34-A3W1JO5O16MPV5
+Category: SpaceHeaters
+Product: DeLonghi-DCH4590ER-500-Watt-Ceramic-Control
+ReviewerID: A3W1JO5O16MPV5
+ReviewerName: Cheryl Sederquist "Cherie"
+Date: March 6, 2010
+Helpful: 
+Rating: 5.0
+Title: Hot air here
+Content:
+I purposely gave this unit a thorough test i.e. actual usage through the winter before commenting. It has worked very well and have no complaints. A more critical analysis from an engineering perspective follows:
+In the auto mode, there is virtually no hysteresis between the high and low heat commands within the controls. It continually shift forth and back  and will result in a reduced life expectancy. On the same token, once the high limit is reached and the unit stops automatically, the fan does not force air through and past the sensor to restart the unit when it should be on. I've found that by running in fan mode and then immediately to heat everything works just fine.

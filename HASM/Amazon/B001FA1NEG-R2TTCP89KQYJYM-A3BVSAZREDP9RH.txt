@@ -1,0 +1,18 @@
+ID: B001FA1NEG-R2TTCP89KQYJYM-A3BVSAZREDP9RH
+Category: MP3Players
+Product: Apple-iPod-Generation-Previous-Model
+ReviewerID: A3BVSAZREDP9RH
+ReviewerName: WolfPup
+Date: October 31, 2008
+Helpful: 63 of 69
+Rating: 1.0
+Title: Worse useability compared to older models
+Content:
+Basically my complaint mimics Mark Garvey's.  I made sure you could turn off "shake to shuffle" before buying a 4th Gen nano, but had no idea that when the device switched to coverflow, volume control would no longer work.
+That means every single time you need to make an adjustment to the volume, you have to take it out (or pick it up in your car, or whatever) and hold it upright for a random period of time, until the interface reorients itself and volume control starts working again. 
+I'm honestly shocked Apple released this in this state-it makes using the 4th Gen nano a HUGE pain if you make even semi-frequent volume adjustments.  Meanwhile, coverflow-in my opinion-adds nothing.  Sure, it looks neat the first time you see it, but I would never actually use it to navigate media.  And I certainly don't want it replacing volume controls if you hold the device in anything but a straight up and down position!
+On top of that, the unit I had on several occasions wouldn't stop fast forwarding or rewinding until it hit the end of a track.  I'm not sure if that was a hardware or software bug, but I ended up sending it back.
+Beyond that, the other limitations are more obvious.  I found the scroll wheel to be far too small to be comfortable to use.  The controls on the iPod classic (or from what I can tell, the Zune) are FAR easier to manipulate without looking at them.  It was VERY easy to accidentally hit the center button when I was trying to fast forward, etc.  
+The screen's quality seemed inferior to the classic/5th gen iPods' as well.  Even despite the noticeably smaller size, video looked sort of grainy by comparison (though not unusable).
+At any rate, this marks the SECOND recent iPod with what I view as a MAJOR interface problem.  I dislike the lack of basic hardware media controls on the iPod touch, but it turns out I hate this "coverflow" issue on the 4th gen nano even more.
+I'd strongly recommend looking at a classic, or even a 3rd gen nano or Zune over this model, particularly if you listen to audio books and podcasts.

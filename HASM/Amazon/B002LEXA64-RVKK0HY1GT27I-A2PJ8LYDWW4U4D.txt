@@ -1,0 +1,14 @@
+ID: B002LEXA64-RVKK0HY1GT27I-A2PJ8LYDWW4U4D
+Category: Laptops
+Product: Acer-Aspire-AS1410-8414-11-6-Inch-Sapphire
+ReviewerID: A2PJ8LYDWW4U4D
+ReviewerName: H. Thai
+Date: December 28, 2009
+Helpful: 
+Rating: 4.0
+Title: Acer aspire AS1410-8414
+Content:
+Pro: It is well desinged and looks elegant. HDMI output works good. It gives beautiful pictures on the HD TV.Good user interface with Window Vista home premium.
+Con: 
+- No instruction for SPDIF connection. Write to Acer, still does not get answer easily. Wireless network does not work few times after turning on then restarting it works again.
+- Acer support website can be improved

@@ -1,0 +1,17 @@
+ID: B002SJ38M8-R1FQMSYRYOU00S-A199LIWA57A3T6
+Category: Laptops
+Product: Acer-Aspire-AS1410-2497-11-6-Inch-Laptop
+ReviewerID: A199LIWA57A3T6
+ReviewerName: S. Yelvington
+Date: December 6, 2009
+Helpful: 15 of 16
+Rating: 5.0
+Title: Great Ubuntu Linux platform
+Content:
+I have a slightly different model, the 1410-2936, which has a more powerful dual-core Celeron SU2300 ultra-low-voltage CPU and a 160-gig hard drive. There are several variations of the 1410 around the $400 price point with varying combinations of CPU, hard drive, and RAM, but the rest of the computer is identical. Read the specs carefully before you make your choice.
+I've installed Ubuntu on dozens of laptops and desktops in the last couple of years. Laptops can be problematic because of hardware oddities, but the Acer 1410 is an ideal, pain-free Ubuntu Linux platform.
+I didn't even boot Windows 7 -- I inserted a 2-gig USB thumb drive containing the Ubuntu 9.10 installation image, and about 17-18 minutes later I was up and running with Karmic Koala installed on the hard drive. 
+It's blazingly fast, especially when compared with my daughter's Atom-powered Aspire One. With one exception, everything worked, slick and fast, right out of the gate -- webcam, multi-card reader, USB, touchpad, display, wireless and wired networking, etc.
+The one exception was the internal microphone. A bit of Googling revealed a one-line command (sudo apt-get install linux-backports-modules-alsa-karmic-generic) that fixed the microphone for everything except Skype. Then, once I unchecked Skype's option to automatically set volume levels, the microphone started working, too.
+The 11.6 size is a great compromise between the portability of a netbook and the usability of a notebook. The keys are full-size and the layout is sane. The screen is very, very sharp and the 1366-pixel display is wide enough for real work with multiple apps. Video performance is very good, handling Hulu's Flash video quite well.
+The smaller Atom-powered netbooks win the cuteness contest and can have longer battery life, but I think the 1410 is a much more practical package, and the best value for the price I've found anywhere.

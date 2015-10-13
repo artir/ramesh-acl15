@@ -1,0 +1,33 @@
+ID: B002ONCDSI-R21MPA38R7WQVO-AA98QLTWJVGUN
+Category: Laptops
+Product: Pavilion-DM3-1040US-13-3-Inch-Windows-Premium
+ReviewerID: AA98QLTWJVGUN
+ReviewerName: Saravanan Balakrishnan "Saravanan"
+Date: January 4, 2010
+Helpful: 18 of 19
+Rating: 3.0
+Title: Battery life is more like 4hr; buggy touch pad.  Five stars for the rest
+Content:
+I don't know if you've noticed, but dunking a product on Amazon usually gets you more "No" votes.  That said, I am compelled to write this review as I believe that HP did an "evil thing" when they rolled out this product.
+Before I start bitching, here are the GOOD:  
+  ***Killer looks (five stars are not enough)
+  ***Great screen (never feels like I am looking at a 13.3" screen)
+  ***one of the best keyboards I had used in a long time
+  ***Powerful processor with plenty of RAM (doesn't struggle even when I keep 10 applications simultaneously open)
+  ***Silent
+  ***Four USB's and an HDMI out (on such a small body)
+  ***Solid build. 
+Then there are the BAD: 
+  ***Buggy touch pad.  Some quick fix solutions are being discussed on the forums.  The issue seem to be a software bug.  If so, it's just a matter of time before HP would fix it (I wonder why HP hadn't done it already; I'll grit my teeth and wait).
+  ***Mirror surface touchpad is "sticky" (I'm not a "touch pad" guy anyway).
+  ***A laptop bag supplied by HP screams "aesthetic murder" (I'll budget may be another $100 for a new bag)
+  ***Having to hold function key to access F2 is real pain when working on spreadsheet (but I think I'll get used to it; I'm already warming up to using FN+Arrow to access HOME and END)
+Here is the unforgivable UGLY:
+  ***The battery life is typically 4 hours and not the advertised 10 hours (no gaming or video; only standard office work with WiFi on)!!!
+This is absolutely unforgivable because
+  ***This is not a software bug and won't get fixed in the future
+  ***The difference between the claimed battery life and actual one is so large that it can't be explained away with fine prints (I can swallow if I get 80% of advertised battery life; not when I get only 40%)
+  ***When the Asian manufacturers (Acer, ASUS and now Sony) claim 10hr, user actually get 10hr or more.
+I think HP is having trouble catching up with the "low battery consumption" technologies.  Instead of working their butt off, HP took a short cut and made a false "10hr battery" claim.  After all, the world is full of suckers like "yours truly".  In my part of the world, such practice is called "cheating".  If you are from Google Land, you may want to call it "doing Evil".
+I bought this laptop because I was tired of carrying my earlier "kitchen sink of a machine" (HP dv9000; beautifully designed).  I had this fancy notion that I would carry the notebook to the office, sans the wires, bag and baggage (I've seen my friends do this with Acer and Asus). That's never going to happen till I upgrade some two years down the line.
+When I am in the market the next time around, I should remember not to take HP on its face value.

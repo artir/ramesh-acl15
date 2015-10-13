@@ -1,0 +1,40 @@
+ID: B002XZLURC-R3V345QKPILCV3-AJ84X7CUDQD7C
+Category: Laptops
+Product: UL30Vt-X1-Light-13-3-Inch-Laptop-Battery
+ReviewerID: AJ84X7CUDQD7C
+ReviewerName: Senescence
+Date: January 10, 2010
+Helpful: 1 of 1
+Rating: 4.0
+Title: Desktop power with netbook battery life. One qualm
+Content:
+PROS and CONS at bottom of review.
+I bought this at the beginning of December so I've been using this for about a month now. The good news is that I got in on the first shipment at $800 a shot, which is a great price for this laptop.
+I now have three laptops (overkill I know), a Samsung NC10 10" netbook, this 13.3" thin and light, and a 17" Gateway P-7811FX beast that I use as a desktop replacement.
+I don't even use my year-old netbook anymore because this thing blows it out of the water and makes it look like it's for babies. The Atom processor just has nothing on the Intel Core2 Duo. That being said, this doesn't have the ridiculous 11 hours of battery life as advertised on the site. I can get maybe 7 hours if I'm on power-conservation mode. That's what I got when I took it on the plane with me anyway. With the discrete graphics card turned on though, VLC runs 720p video with just about no problems. Sometimes heavy action scenes can skip a small bit, but it's not bad enough to ruin the experience. I was running a 7GB blu-ray rip though, so it's a massive file.
+The keyboard is great, but I have to question some of the placements of the buttons. I have big hands and I can barely hit Function and F12 to increase the volume with a single hand. If you have small hands, you're probably going to hate that. I like it personally because I don't have to look to know the range of my hand to increase or decrease volume.
+THE ONE GRIPE about this laptop is the same thing that everyone talks about. The trackpad and teeter-totter-style single "clickable" button are both terrible ideas and the people that thought this up and then OK'd it should be fired three times over. I quickly invested in a Microsoft Wireless Mobile Mouse 6000 and it made things infinitely easier (plus it has a TINY receiver, which I think is more reliable than bluetooth). I'm dead serious about how terrible the trackpad and button are though. Why the button isn't actually two buttons I'll never know, but it's the one reason I took a star from this review. I could have dealt with the trackpad and gotten used to it, but laptops have been around long enough for people to know that this is a terrible idea. I can't count in the hundreds the number of times I was using this laptop without a mouse and I tried to left-click something and I ended up nothing-clicking. That's right, nothing-clicking. I'm a big man and it takes an unnecessary amount of force and accuracy to get the single button to click on either side. It's as frustrating as it sounds.
+If you can deal with that, and the fact that this has an LED display and not an LCD display (ideal viewing area is very restricted with power-saving LED types, but make no mistake), this is a great laptop. I make it sound like the negatives are outweighing the positives, but that's hardly the case. A lot of reviews gripe about the bloatware on here, but it's not that bad. It takes about 30 whole minutes to uninstall anything you don't need, and then you never have to deal with it again. People are way too finicky about that kind of stuff, since it's a delete-it-and-forget-it situation.
+PROS (Worth 4 Stars)
+-64 bit Windows 7 Home Premium
+-No need to add additional hardware to the system itself, 4GB RAM and 500GB HD are plenty
+-Boots quickly, wakes up quickly as well
+-Keyboard is as comfortable as can be and not loud at all
+-Wireless internet reaches out incredibly far
+-Battery goes up to 7 hours in real usage
+-Dedicated graphics and a real processor at netbook weight, I can't stress how amazing this is
+-Thinner than I thought it'd be
+-Speakers have some serious quality
+-HDMI out is so simple my mom could use it
+-Quiet operation at cool temps
+-Function key graphics let you know you hit the right buttons after the fact (really cool)
+-Nothing plugs into the back at all, everything is located on the sides
+CONS (Worth 1 Star)
+-TOUCHPAD and single teeter-totter button
+-You'll hit the trackpad at least 10 times on accident when doing serious typing on the thing since it's not indented. 
+VERY MINOR CONS
+-Optimal viewing angle is VERY small
+-Comes with no softcase like my Samsung NC10 netbook did
+-Fingerprint magnet
+For the $800 I paid for this, completely worth it. No regrets on parting with my cash for this.
+I just want to mod that mouse button so badly. You're going to want to invest in a comfortable mouse if you plan on using this for work.

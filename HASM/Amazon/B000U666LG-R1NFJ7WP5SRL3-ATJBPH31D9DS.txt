@@ -1,0 +1,11 @@
+ID: B000U666LG-R1NFJ7WP5SRL3-ATJBPH31D9DS
+Category: SpaceHeaters
+Product: Honeywell-HZ-7200-Oscillating-Digital-Control
+ReviewerID: ATJBPH31D9DS
+ReviewerName: L. Wong
+Date: December 8, 2008
+Helpful: 3 of 5
+Rating: 2.0
+Title: Needs fan only feature
+Content:
+This heater lacks a fan only feature.  I don't understand why they would leave such a simple feature out.  I'd want to use this as just a fan in the summer, but with this unit, the heating element is always on.  You can set the temperature, but in 5 degree increments.  Chances are you'll want a setting in between these.

@@ -1,0 +1,67 @@
+ID: B001P05NJ2-R3L7OKJPVR55VJ-AGGAQLXPVGM5D
+Category: Laptops
+Product: Apple-MacBook-MC026LL-15-4-Inch-Laptop
+ReviewerID: AGGAQLXPVGM5D
+ReviewerName: Eagle Vision
+Date: December 30, 2008
+Helpful: 6 of 7
+Rating: 5.0
+Title: Made me into an Apple Convert from Windows
+Content:
+I purchased this notebook to replace my pre-existing Windows XP based laptop.  Whenever I watched a movie and saw a celebrity working on a computer, it was always on a Mac.  When you buy a notebook like this, you are buying a Hollywood Superstar.  I debated between the Macbook and Macbook Pro but the Pro only weighs 0.1 lb more.  The Macbook Air does not have an optical drive so I could not see using that in the practical sense for travel (even though I infrequently use an optical drive beyond installation).
+WHAT IS IN THE BOX
+Notebook
+Instructions
+AC Adapter
+SETUP
+When you turn on the notebook, there is an initialization process to register your notebook and allow you to password protect the computer.  Right out of the box, the Macbook Pro works well.  It is accompanied by iLife and iTunes.  I initially updated iTunes and updated the operating system after placing my information to work wirelessly.
+Operation
+From initial start up, I can access my desktop in about 40 seconds.  Shutdown is less than 10 seconds.  Sleep function turns on in less than 5 seconds and it goes to sleep in that period, too.  Forced quit shuts a window of a program that is not responding.
+The notebook is so easy to operate.  As a Windows operator since the Windows 1.0 inception, it was not a steep learning curve.  In lieu of the Control button, you push the Command button.  
+The touchpad is generous and the various mouse gestures are a welcome addition.  The keyboard is full-sized and buttons are extremely comfortable.  The keyboard is very quiet but the space bar is ever so islightly noiser than the rest.
+The hard drive is quiet.  There is no screen flex or wrist pad flex, either.  The function keys control contrast, volume and screen brightness.  Being used to a Dell Latitude D620, I am used to about a 50% brightness.  Configured with a 320 GB hard drive that is a lot of space to store my 120 GB of music and over 100 GB of photos/videos.  The hard drive appears to run fast at 5400 RPM (for what I do a 7200 RPM HD was not worth it).
+I do not game but I wanted the option given the video capabilities.  However, to conserve energy I use the integrated memmory card.  If I decide one day to play video games, this notebook will afford me that ability.
+Installation of programs have never been easier for me on a Mac than my previous 5 generations of Windows based notebooks (ranging from Dell, Gateway, HP, Compaq).  I was able to install my printer software and drivers in 1/3 of the time of XP and 1/5 of the time from Vista.  Password protecting the notebook, ensured that only I would be able to install ANYTHING onto my notebook.  It is so frustrating when someone uses your computer only to find junky software installed into your notebook which add spyware and run your computer less efficiently.
+Construction
+The solid construction by the aluminum body is elegant and durable.  The glass screen is highly reflective but at the angle by which I operate the notebook, I find no problems.  It is so easy to wipe off.  I have read that viewing angles were limited but I don't find that to be the case for me (with regular positioning and use).  
+For the size of a widescreen 15.4" notebook, this design is thin and lightweight (5.5 lbs) which matches the weight of many notebooks at the 14.1" size of Windows based notebooks.
+I use this notebook on a table or my lap.  It does not get hot like prior generations of Macbook Pros which got very uncomfortably hot.
+The plug attaches by a magnetic type interface which is easy to use and more durable than other notebook interfaces that tend to dislodge from regular use (My old Gateway and an older model Compaq).
+There are 2 USB ports, a Firewire 800 port, earphone and microphone jacks, and a monitor port.  A slot for the optical drive is convenient and is software/hardware driven.  It is relatively quiet for its operation.  I do not even hear the cooling fan when it runs.
+Integrated webcam with very good field of view and resolution for its size.  Using the camera it is easy to do videoconferencing or video chatting (iChat).  The video chat also works with Google's Chat interface.
+Batteries
+The battery is unlike the batteries of its predecessors.  I ordered the older battery and obviously, it would not fit.  
+Battery life is decent with WIFI and Bluetooth inactivated and brightness set to lower levels, allowing me about 3 hours and 45 minutes.  I love how you can display batter life as a percentage or absolute time.
+Wifi and Bluetooth activation are easy to operate (at the upper right hand corner of the screen).  I can log in quickly from anywhere.  I just click on the Wireless icon at the top right hand corner to see what networks are available and I am online.  It was not so simple with Windows.
+Programs
+Armed with the Mac OS X v10.5 Leopard (includes Time Machine, Quick Look, Spaces, Spotlight, Dashboard, Mail, iChat, Safari, Address Book, QuickTime, iCal, DVD Player, Photo Booth, Front Row, Xcode Developer Tools) and iLife '08 (includes iTunes, iPhoto, iMovie, iDVD, iWeb, GarageBand), you can do a lot with the notebook right out of the box.  I did purchase extra software for more versatility:
+Microsoft Office 2008 for Mac Special Media Edition
+Final Cut Express 4
+Adobe Photoshop Elements 6 (Mac)
+I had Windows XP before and syncing the IPOD with that system was well, buggy.  With the Macbook Pro, as soon as I turned on the notebook, the updates ran seamlessly and did not affect the performance of the machine.  I also decided to sync my notebook with the Macbook Pro which was very easy and I had not one error.  I also found it faster to sync with my IPOD when compared to my Windows based predecessor.  Overall, it was a more positive experience for me.
+The Dashboard has useful applets with more to download from the Apple web site.  Things like movie theater times, snowfall repots, conversions, weather, a dictionary, thesaurus, and calendar (just to name a few) that don't require the browser but may need internet access.  The Widgets are very useful.  
+My favorite is the 'movie theater times' since I just activate Dashboard, I can check the theater and movie and I am done in less than a minute (it is like a virtual newspaper).
+Spaces is a great feature for me.  It allows me to switch to different windows to see what program is running without clutter.  It is like having a four foot screen with all of the windows.
+PROS 
+Lightweight for the size of the screen
+Thin profile
+Next generation trackpad (works similar to an iPhone/IPOD Touch
+Ease of operation and installation of programs
+Good base of programs installed
+Virtually no BLOATWARE
+Simplicity of design
+Can run windows
+Dual video card configuration
+Spaces
+CONS
+Cost
+Average battery life
+No matte screen option
+I also added the Applecare Protection Plan (3 year duration) which I was advised will be worth the price for technical support and repairs (if necessary).  I highly recommend getting the Protection Plan:
+AppleCare Protection Plan MA515LL/A for MacBook Pro (w/ or w/o display)
+One peripheral that I thought was very useful was the Apple Remote which I found new on the Amazon Marketplace for $5:
+Apple Remote Control for iPod (White)
+Conclusion
+Overall, this is a solid notebook with the capabilities to run Windows (but why?).  The design is simple and easy to use.
+It has made an Apple convert out of me, out of all of these years (23 years - am I that old?) of PC computing from the IBM AT/XT days (monochrome screens, 5 inch floppy drives, 2400 baud modems, noisy dot matrix printers and clicky keyboards).
+I highly recommend this product.  It made an Apple Mac OS X convert out of me!

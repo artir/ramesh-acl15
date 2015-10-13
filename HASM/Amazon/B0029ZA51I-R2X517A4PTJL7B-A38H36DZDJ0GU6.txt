@@ -1,0 +1,11 @@
+ID: B0029ZA51I-R2X517A4PTJL7B-A38H36DZDJ0GU6
+Category: Laptops
+Product: Pavilion-DV4-1430US-14-1-Inch-Entertainment-Laptop
+ReviewerID: A38H36DZDJ0GU6
+ReviewerName: RRB
+Date: August 25, 2009
+Helpful: 
+Rating: 5.0
+Title: Perfect Laptop For Me
+Content:
+I've had this laptop for 3 weeks now and no problems except that I can't get the scroll bar on the track pad to work.  I did a clean install of Windows 7 RC 64-Bit and this laptop runs like a champ!! Those with performance issues are probably due to the combination of Vista and all the bloatware HP installs.  I've got this laptop humming!!  Highly recommend it.  Very light and portable with good battery life.  HDMI out looked pretty good on a 52" LCD TV.  Probably would look perfect on something a little smaller like a 32" 1080P monitor.  Great bang for the buck with this one!

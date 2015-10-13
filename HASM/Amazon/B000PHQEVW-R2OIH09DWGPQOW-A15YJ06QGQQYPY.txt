@@ -1,0 +1,11 @@
+ID: B000PHQEVW-R2OIH09DWGPQOW-A15YJ06QGQQYPY
+Category: MP3Players
+Product: Creative-Zen-Stone-Player-Blue
+ReviewerID: A15YJ06QGQQYPY
+ReviewerName: K. Williams "Kathy"
+Date: December 25, 2007
+Helpful: 
+Rating: 5.0
+Title: Great little MP3 Player
+Content:
+I got this after doing some research on small, flash-based mp3 players that I could go jogging with. I have a 30gb iPod but was concerned with all the bouncing it did while I ran. These zen stones got good reviews. So far, it's great. It charged up faster than I expected and all I did was drop files into a "Music" folder. While it is disappointing that it does not support OGG format, I expected it from reading the specs. Also works flawlessly with Ubuntu. The color of the player is much better than in the picture. It really is a cute lime green, not so much a fluorescent yellow color as depicted.

@@ -1,0 +1,40 @@
+ID: B001P05NKG-R2JMULLAAEJX5D-A2HXE29CU1I24Y
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: A2HXE29CU1I24Y
+ReviewerName: R. Ocampo "Artisan"
+Date: November 29, 2009
+Helpful: 4 of 4
+Rating: 4.0
+Title: Almost Perfect
+Content:
+Apple sure has come a long way from the all-plastic PowerBook G3 to the first all-metal Titanium PowerBook G4 and now a mono-block Aluminum series of laptops known as the MacBook Pro.
+After my PowerMac G4 desktop failed on me, I was left with a lonely Cinema Display. I transitioned from video editing to photo editing and figured I didn't need as much processing power as before. After much fiddling with the various MacBook Pro sizes, I settled for a MacBook Pro 13 (2.53GHz) because it has the extreme portability requirement, but with the same processing power and features as the basic MacBook Pro 15.
+If I'm home, I connect the bigger Apple Cinema Display for dual monitor power use. On the road, I have a light and powerful laptop that doesn't take up much bulk.
+Features / PROS:
+- Dual monitor support up to 24" (If you have the older Apple LCD Cinema Display 23" as I do, you will need the optional Apple Mini DisplayPort to DVI Adapter Model# MB570Z/A). Otherwise, the latest Apple LED Cinema Display 24" will plug right in.
+- 2 x USB ports
+- 1x FireWire 800 port
+- 1 x Gigabit LAN
+- SD card slot
+- Battery level
+- Multi-purpose Audio In / Audio Out jack. Unlike it bigger brothers, you only have one slot which generally wouldn't be a problem because not many users feed analog audio in signal these days and would rather opt for USB digital audio.
+- IR remote to support Apple Remote
+- Bright LED screen that does not need warming up
+- Aluminum monobloc build gives it more strength and is a good insulator for better heat dissipation
+- Glossy screen for prettier-looking videos
+- Elegant back-lit keyboard with adjustable brightness that puts even Apple's own Aluminum desktop keyboard to shame
+- Multi-touch trackpad that can virtually replace the need for a mouse
+- WiFi 802.11 a/b/g/n support
+CONS:
+- Glossy screen (Too pretty and too much glare. Not my liking.)
+- Hidden stereo speakers produce a tinny sound with no perceivable stereo separation
+- Non-user replaceable battery (I don't get how Apple can design and have the resource for a monobloc case, but cannot come up with an easy to replace battery. Most likely a marketing gimmick to either facilitate faster notebook replacement or generate more income for the Apple Retail store with after-service replacement cost. I'm just saying, it's perplexing.)
+- Not-for-the faint-of-heart method to replace/upgrade hard drive and memory
+- A 14" screen would have been more perfect for screen real estate and portability (and just leave the 13" screen for the MacBook)
+- It really is expensive compared to Windows laptop counterparts
+IS THIS FOR YOU?
+- YES if you have excellent vision and can tolerate a 13" screen as your main viewing method OR if you have a larger display as your second or dual-monitor source
+- YES for processing power as the larger MacBook Pro models without the bulkiness
+-NO if you plan to use only one screen as you will run out of space quickly. I would recommend a MacBook Pro 15 in this case.
+I would advise to thoroughly test it out at your nearest Apple Store / Dealer and try all laptop models until you find one that you can comfortably sink into in terms of use and budget.

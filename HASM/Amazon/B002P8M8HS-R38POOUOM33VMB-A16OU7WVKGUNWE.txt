@@ -1,0 +1,11 @@
+ID: B002P8M8HS-R38POOUOM33VMB-A16OU7WVKGUNWE
+Category: Laptops
+Product: Toshiba-Satellite-L505-S5993-TruBrite-15-6-Inch
+ReviewerID: A16OU7WVKGUNWE
+ReviewerName: Alison Johnson
+Date: January 30, 2010
+Helpful: 
+Rating: 4.0
+Title: Wireless Adapter problems
+Content:
+I loved this purchase until a few days ago when I started experiencing problems with the wireless adapter.  The wifi worked superbly for the first 27 days then suddenly it stopped accessing the net. My network centre shows that the connection is active but I get a "no internet access" message.  And while I cannot access the net via wireless, I can connect via ethernet, an indication of some internal problem.  In troubleshooting this on the net I discovered that many other people have the same issue.  This seems to be one of the shortcomings of this laptop and there is not much support on the Toshiba website.

@@ -1,0 +1,27 @@
+ID: B002P3KVBI-R2QDBSKSYCZ8XA-A1HLHKFOWH5T1L
+Category: Laptops
+Product: Acer-AS1410-2285-11-6-Inch-Windows-Premium
+ReviewerID: A1HLHKFOWH5T1L
+ReviewerName: JoeyC "joe314"
+Date: November 4, 2009
+Helpful: 7 of 11
+Rating: 4.0
+Title: Excellent choice, far more useable than netbook.
+Content:
+This computer is just a bit larger than a netbook, but offers much more computing power and a much more useable keyboard for modestly more in price.
+Pros:
+1) 2 GB memory standard.
+2) 64 Bit Windows 7 Home Prem.
+3) SU2300 processor is able to run powerful applications including Windows 7 Pro with XP Mode, Dragon Naturally Speaking, VirtualBox.
+4) Long battery life.
+5) Display bright enough for outdoor use.
+7) Can playback HD content from Netflix online and iTunes without stuttering.
+8) Lightweight
+9) Battery does not stick out of computer like netbooks.
+Cons:
+1) Needed to update firmware to allow use of XP Mode.
+2) 11.6 inch display is small - a limitation of the basic form factor.
+3) Web cam not as good as on MacBooks
+4) Win 7 still not as useable as Mac OS X.
+5) Glossy display is inferior to matte, but seems to be the prevailing industry trend.
+For the price, it is highly recommendable.  Hopefully durability will be good.

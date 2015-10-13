@@ -1,0 +1,13 @@
+ID: B002BH4NOY-ROVNUB574865E-A117G8ZJ1VBA4I
+Category: Laptops
+Product: HP-TouchSmart-TX2-1270US-12-1-Inch-Laptop
+ReviewerID: A117G8ZJ1VBA4I
+ReviewerName: M. Warner
+Date: September 4, 2009
+Helpful: 4 of 4
+Rating: 3.0
+Title: 3-Stars = "It's OK"
+Content:
+After some searching I found this to be the lowest cost tablet pc. The tablet was just something I was interested in playing with but not required for my use. I went right to Windows 7 and after some driver updates the multi touch interface works as expected and the rest of the machine seems to run well for some development work and office suite use.
+As a portable it is heavy, hot and loud.  The fan is probably the loudest I've had on a notebook and it rages up and down constantly. Very distracting while working and probably more so if brought into a meeting. I find the volume of noise from this computer to be it's primary fault by far.  I don't think I would recommend this to anyone without explaining the significance of the fan noise.
+The overall performance is good, and better than anything I currently have so I am happy with that.  I'm sure for the some money I could have gotten a non-table that was light, warm and quiet.  oh well.

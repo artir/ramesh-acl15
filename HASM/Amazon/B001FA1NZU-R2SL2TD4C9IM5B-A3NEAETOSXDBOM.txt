@@ -1,0 +1,57 @@
+ID: B001FA1NZU-R2SL2TD4C9IM5B-A3NEAETOSXDBOM
+Category: MP3Players
+Product: Apple-touch-Generation-Previous-Model
+ReviewerID: A3NEAETOSXDBOM
+ReviewerName: Stephen M. Charme
+Date: January 1, 2009
+Helpful: 7 of 11
+Rating: 5.0
+Title: Works great as a replacement for my Palm TX
+Content:
+For the past seven years I have used various Palm handhelds. When my Palm TX recently became unusable, rather than spend any more money on repairs or buy a new unit, I decided to buy the iTouch 16 GB second generation.  With all of the applications currently available, the iTouch has been able to serve as a great pda and do everything that the Palm TX did for me plus much more. 
+I am writing this review to share my many hours of research as to using the iTouch to replace a Palm pda. I used to sync my Palm TX with a PC whose OS was Windows XP Pro, but now sync my iTouch with iTunes on a Mac using Leopard 10.5. I mention this because there are other possible setups, so you may have to modify what I say depending on your own setup. Make sure that you are using the most current version of Palm Desktop whatever setup you have.
+Contacts
+Over the years I have accumulated thousands of names, addresses, phone numbers, email addresses, etc.  that were grouped into different categories. In order to export them from my Palm TX to the Contacts on my iTouch, I did the following:
+1.	On my Mac I set up various groups in the Address Book (e.g. Personal, Business, Medical, Financial, etc.). 
+2.	As to each group I did the following:
+a.	Open Palm Desktop on my PC, open contacts, highlight all of the contacts that I wanted in a specific group.
+b.	On Palm Desktop click on File, Export vCard. A popup appears titled "Export As". Name the file, for convenience select your desktop as the destination for it to be saved, and click the export button on the right of the popup.
+3.	Email the saved file from your PC to Mac, and drag it onto the desktop of the Mac.
+4.	Open Address Book on the Mac, highlight the group in Address Book into which you want to import the file, then click on File, Import, vCards, and select the file that you just dragged onto the Mac desktop. Those contacts will then be imported into the group that you have selected in Address Book.
+5.	When you are finished doing this for all of the different groups, Sync iTouch with the Mac using iTunes. All of the groups and contacts in the Address Book will be transferred to the ITouch.
+Memos
+This is a bit trickier. 
+1.	Sign up for a free account with Toodledo on the web.
+2.	Buy Notebook from Appigo in the Appstore. It currently costs $4.99.
+3.	Open Palm Desktop on the PC, open Memos, click on File, highlight all memos you want (on Toodledo if you click Notebook, you can set up different groups for your memos, e.g. Computer issues, Auto expenses, etc.) Export, name the file, save it to the PC desktop, and click Export in the popup window.
+4.	Follow same procedure as above re Contacts to get the saved file on the desktop of your Mac.
+5.	In Toodledo, click on the Notebook for the group that you created, then Import, then CSV Notebook Import, then select the file on your desktop.
+6.	Open Notebook on the iTouch, tell Notebook that you have an account with Toodledo, and sync it by pressing the circle arrow icon in the lower left hand corner.  This requires a wireless connection. 
+Calendar
+My calendar was very cluttered so I started from scratch. However you can use Google to find out how to import a calendar from a Palm.
+I recommend the following:
+1.	Set up a free account on Google Calendar. You can create multiple calendars that show up in different colors (e.g. red for Home, green for Work, etc.).
+2.	Install a program called BusySync (you can try it free for 30 days, then it costs $25).
+3.	BusySync automatically syncs my Google Calendar with iCal on my Mac, which I in turn sync with iCal on my iTouch using iTunes. It is very convenient.  It doesn't really matter whether I make my calendar entries on Google Calendar, iCal on my Mac, or iCal on my iTouch because everything stays in sync.
+ 	
+To Do List
+				I never really used this on my Palm, instead preferring to enter my tasks on the calendar. However, once again you can use Google to find out how to import Palm tasks onto the iTouch.  Using Toodledo, it is similar to importing memos.
+				There are three main ToDo applications for the iTouch available in the Appstore: Toodledo, Remember the Milk, and Appigo's Todo.  All work in conjunction with the web pages of either Toodledo or Remember the Milk.
+				Movies
+Converting DVD's to movies was always a pain on the Palm TX. There are two free applications (you must install each) that make conversion easy on the iTouch. Those applications are Handbrake and VLC Media player.  Make sure you install the latest releases.
+				Splash ID and Splash Shopper
+These were two of my favorite applications for the Palm.  Splash ID stores user names, passwords, and other info for hundreds of different sites that I access. Splash Shopper is a great tool for organizing your shopping trips. 
+You need to have these installed on both your desktop and iTouch.  They are not free, but are well worth the money.  
+Splash Shopper I did from scratch because the lists on my Palm were cluttered, and I didn't bother to see if there was a way to export my data to the iTouch.  For Splash ID, follow the these directions:
+1.	Download Splash ID desktop for Mac (no charge if you already have the latest version for Windows) and create whatever groups you want.  Then for each group proceed as below.
+2.	Open Splash ID on Palm Desktop, highlight desired items, click File, Export, Splash ID (version 3.x), Export Selected Records, OK.
+3.	In the popup window name the file, save it to the PC desktop. A popup appears that says Get Password; leave it blank and press OK. You should get a message saying "The file export process was completed successfully."
+4.	Email the exported file from the PC as an attachment to Mail on the Mac.
+5.	Download Splash ID from Appstore and set up password.
+6.	Make sure Splash ID on desktop is open, then click on the file that you emailed from your PC, and Splash ID should ask if you want to import it.
+7.	Sync your iTouch with Splash ID on the Mac desktop.
+PDF files
+There are many programs that will let you read pdf files on your iTouch. I purchased one called Readdle from the Appstore.
+Obviously new software products come out daily. The bottom line is that if you have been a Palm user and want to switch to an iTouch, there is plenty of software to make the transition possible, and to enable you to use the iTouch as a pda that is even better than your old Palm unit.
+Update Jan. 6, 2009: eBooks
+I had purchased dozens of eBooks from eReader.com over the years to read on my Palm TX. There is a free program called Stanza that you can download for the iTouch that gives me access to these books. Open the Stanza online catalog, click the + sign to add a site, and in the URL for the new site type mobile.ereader.com. Once you are directed to the site, enter your logon information and voila, you will have access to all of your eBooks, which can be downloaded onto your iTouch.

@@ -1,0 +1,23 @@
+ID: B0029U151M-R3ORHJ3OZN7HH5-A13IER8RX6TSV3
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A13IER8RX6TSV3
+ReviewerName: M. Kim
+Date: October 30, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Beautiful style, long battery life
+Content:
+I purchased this laptop to use it a portable unit, in addition to a workstation I already have. My overall impression is that it is a great laptop at an affordable price.  I just installed Ubuntu 9.10; there are some driver issues, but all key functions are working out of the box.
+Pros:
+Thin and light, although not the lightest
+Good screen size 14 inches > 13.3 for most portable laptops
+Long battery life.  6 hours on full brightness
+Beautiful, smooth keyboard --- feels great to type
+Minimalistic overall design with great beauty -- it looks better than photos, and I was pleasantly surprised when received the item.
+Cons:  Overall, only minor complains
+Fans a bit loud when on full; sometimes they are on for minutes continuously
+Keys attract fingerprints
+Optical drive not modular -- not able to remove it to save weight (without taking out screws).
+(Note: Some driver issues with Ubuntu 9.10)
+If you need a portable unit for basic working, I would recommend this product.

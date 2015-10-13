@@ -1,0 +1,25 @@
+ID: B002P3KMVC-R2VW7TXMYX63GS-A1VHZOBW0DQ5YN
+Category: Laptops
+Product: UL30A-X5-Light-13-3-Inch-Laptop-Battery
+ReviewerID: A1VHZOBW0DQ5YN
+ReviewerName: Mattforn
+Date: March 8, 2010
+Helpful: 3 of 3
+Rating: 5.0
+Title: Great Budget Laptop for People on the Go
+Content:
+This laptop has been amazing so far, great design, portable, excellent display, awesome battery life, it was exactly what i was looking for.
+When you first get this thing and power it up you will notice that it really doesn't come with a lot of bloatware.  Most of it is Asus Utilities that help make using it easier.  I uninstalled most of the stuff i didn't need and the rest really didn't take up too much memory to run.  One thing that bugged me though was the free trial of Microsoft Office without a serial key.  It would have been nice to have that.  I never really used the ExpressGate so I can't comment on that.  I would recommend deleting the huge empty partition and just merging it into the main Windows one.
+There are only a couple cons to this laptop.  First is the spacebar, sometimes if you hit it near the edge it wont read it.  Second is the mouse button.  For some strange reason it is getting scratched up in the same spot and is ruining the finish on it.  I have no idea what could be causing it, but its a minor detail.
+Pros:
+Great battery, averaged around 6-8 hours with fairly heavy use.
+Great display and graphics, I have the screen to almost minimum brightness and its still crisp
+Cool design, both visually and thermally, very lightweight
+Trackpad, the different actions you can make with just the pad are cool, it definitely saves a lot of time.
+Keyboard, it seems to be the perfect size for most hands.
+Cons:
+Sometimes it can act a little squirrelly, i think thats more the OS fault.
+Trackpad, It can be really touchy, I would STRONGLY recommend manually updating the drivers for this, Windows Update seems to miss it.
+Random Flex on the keyboard surface, more of a nuisance than a problem though.
+Missing or broken drivers, you would think all the drivers would be up to date but oh well, again just annoying.
+Overall I would recommend this laptop, do make sure to manually update all the nessecary drivers off of the Asus website, it will fix the webcam issue and the trackpad issue.

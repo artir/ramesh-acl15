@@ -1,0 +1,11 @@
+ID: B002PAQXAE-R1PGI84RWKAAJA-A3IN7UPZ5F178G
+Category: Laptops
+Product: UL20A-A1-Light-12-1-Inch-Silver-Laptop
+ReviewerID: A3IN7UPZ5F178G
+ReviewerName: Laurent "grinmister"
+Date: April 6, 2010
+Helpful: 4 of 4
+Rating: 4.0
+Title: Lots of notebook for the money - battery life comes with caveats
+Content:
+I rely on consumer reviews to make my purchases and I thought it was time to return the favor. I own several ASUS eee Netbooks, and was disappointed with the Windows 7 one I recently purchased. Contrary to what I had read in Windows 7 reviews, it's much more resource-intensive than XP. The UL-20, with its dual core processor and dedicated graphics card has no trouble handling 7's Aero scheme, starts programs rapidly and takes on multi-tasking without a hitch. The LED screen displays your work in vibrant colors, and generally, the positives mentioned in other reviews are true - except for battery life. If you use a battery-optimized power scheme to watch movies on the plane, you might get 5 hours out of your laptop, but this takes a toll on performance. While frames won't necessarily skip, you may notice annoying color artifacts. With a more performance-oriented power scheme, battery life is reduced to 3.5 hours. There may be a way to improve this by experimenting with the scheme, but in any case, 7.5 hours is what you get on extreme power-saving. That will allow office applications to run, but it won't make for smooth, enjoyable video. Still, the UL-20 is an exceptional laptop for the money, and while it doesn't meet all of a "road warrior's" needs, it comes close. Kudos to Asus.

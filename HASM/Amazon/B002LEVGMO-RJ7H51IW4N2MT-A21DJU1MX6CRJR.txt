@@ -1,0 +1,29 @@
+ID: B002LEVGMO-RJ7H51IW4N2MT-A21DJU1MX6CRJR
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A21DJU1MX6CRJR
+ReviewerName: Zach A. Thomas
+Date: August 30, 2009
+Helpful: 22 of 23
+Rating: 5.0
+Title: Netbook Without Netbook Compromises
+Content:
+Netbooks, as a rule, have cramped keyboards, small screens, and poor performance. I was an early adopter of the ASUS Eee PC 4G, and I found these trade-offs too hard to live with. The Acer 1410 solves all these problems and is simply a great computer by almost any measure.
+True, it doesn't have the horsepower of a desktop or full-size notebook machine, but my standard for a computer of this class is that it should feel responsive and have no trouble playing video, either from the hard drive or the web, and the Acer 1410 passes this test with flying colors.
+There is a full keyboard here, which makes a world of difference, and enough space on screen to get real work done. I am a software developer by trade, and I will not hesitate to use the Acer 1410 when I'm on the road or when I feel like spending a weekday morning at the local coffee shop.
+I spent the first day replacing Windows Vista with a dual-boot setup of Windows 7 (the release candidate) and Ubuntu Linux. It would not have taken so long, but I tried various methods of installing Windows from an external hard drive before I gave up and bought an external USB DVD drive. I deeply dislike Windows Vista, so I highly recommend getting rid of it as soon as you can. This machine comes with a free upgrade to Windows 7 that Microsoft will send you once it's officially shipping.
+I was close to buying one of the "conventional" netbooks (e.g. ASUS Eee PC 1005HA, Acer Aspire One, Samsung NC10, Lenovo S10) when I read the specs on this one. What it comes down to for me is that for only a hundred (or so) dollars more, you get:
+  1. a full keyboard
+  2. a more generous display (1366 X 768 vs. 1024 X 600)
+  3. twice as much RAM
+  4. a larger hard drive (250G vs. 160G)
+  5. several times more processing power (Intel Core 2 Solo vs. Intel Atom)
+  6. Windows 7 (via the free upgrade) instead of XP
+  7. 802.11n networking instead of only b/g
+  8. HDMI out
+  9. Optical audio out
+ 10. A battery that fits flush with the case (rather than protrude back or down as in other machines)
+That's a nice list, and it was an easy decision.
+The Acer 1410 is not perfect, but my complaints are niggling details: It is difficult to see or feel the edges of the trackpad, the speakers are not loud enough to watch a movie or a TV show unless there is ZERO ambient noise, the hard drive activity light is needlessly bright and perfectly situated to distract you, and once I was spoiled by its performance, I started wanting more (Half Life 2 is almost playable, but not quite).
+The extra screen real estate and compute power mean that you'll get a couple of hours less out of a battery charge than the longest-lasting netbooks, but five or six hours is still better than any notebook computer I've ever had, and I'll make that trade for all the other advantages I've mentioned.
+For the value for my money, this is a solid five-star product. Until Apple comes out with a tablet, I won't be jealous of anyone.

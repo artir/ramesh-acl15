@@ -1,0 +1,11 @@
+ID: B0015YUMEY-R2VI5SWLH8WNYB-A2WEKE1LIKG5FP
+Category: Laptops
+Product: Apple-MacBook-MB076LL-17-inch-SuperDrive
+ReviewerID: A2WEKE1LIKG5FP
+ReviewerName: Annie
+Date: April 12, 2008
+Helpful: 
+Rating: 5.0
+Title: Love it!
+Content:
+This is my first Mac and it's great.  I've been a Windows users.  It takes a couple of weeks to get used the command key and the layout of the keyboard but it's the best machine I've had.  It starts up and shuts down very quickly.  It's look great.  It's light and thin.  Leopard is great.  With the purchase of Parallels, I've loaded XP onto the machine and have Windows and Office available whenever needed.

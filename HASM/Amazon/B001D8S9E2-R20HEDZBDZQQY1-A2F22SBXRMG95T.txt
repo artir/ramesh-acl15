@@ -1,0 +1,18 @@
+ID: B001D8S9E2-R20HEDZBDZQQY1-A2F22SBXRMG95T
+Category: Laptops
+Product: Apple-MacBook-MB466LL-13-3-Inch-Laptop
+ReviewerID: A2F22SBXRMG95T
+ReviewerName: Valathil Premraj "Premraj V"
+Date: December 28, 2008
+Helpful: 5 of 7
+Rating: 5.0
+Title: Review: satisfied
+Content:
+As a first time Apple Mac user, I have come to like the Macbook very well. A few minor flaws apart (which all laptops have), the Macbook is a solid purchase. I see many sore complaints in other user reviews, but if a lack of Firewire port or a display with whites/blacks not being as good is a problem for you, then this one's not for you. However, if you do not need a Firewire (I don't, my WD external HDD works on USB 2) and you get to decide the lighting conditions for use, then there aren't many other flaws. Don't let some biased 2 star ratings turn you away from the Mac - those ratings are by people who hate the new Macs just because of a lack of Firewire port or so.
+Upgrading RAM/HDD is childishly easy - I did not even have to watch those online videos to learn how. The only precaution you should take (as I did) is to take care of static before touching the Macbook.
+If you require ocassional Windows applications, get VMWare Fusion or Parallels - I'm personally on VMware and it works flawlessly with Windows XP. 2GB is not enough memory for Mac and Vista to work together, so if you plan to use Vista with VMWare/Parallels, buy more memory (Crucial is a worthy choice).
+Pros:
+Unibody design, Mac OS X, multi touch trackpad
+Cons:
+Display glare (solved by not having a light directed AT you and your screen), minor Mac OS X problems common to any switcher, bottom gets hot after a few minutes of usage (because of the aluminium body)
+If you need the stability and 'just works' attitude of a Mac, this is the perfect purchase for you. Minor inconveniences can be expected with any laptop, but much more with Mac competitors (I'm sure I can point out much more flaws with a similarly priced Sony/Dell/Lenovo).

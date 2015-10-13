@@ -1,0 +1,21 @@
+ID: B0013FJBX8-RQL9BCNNWWU00-ALZFLBBT7THK9
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: ALZFLBBT7THK9
+ReviewerName: Jam "Jam"
+Date: June 11, 2009
+Helpful: 9 of 16
+Rating: 1.0
+Title: No Apple Phone support for this amazon purchase
+Content:
+I bought this from Amazon, (Config:2.66Ghz 6M-L2 cache/320G hdd/ 4Gb Ram).
+1. When I tried to get apple 90 day phone support, Apple recognizes the serial number as 4 month old, so no help in configuring any network/firewall. I'm a first time mac user, switching from PC.
+2. Apple dropped the price on this item by about 400 dollars. I cannot exchange with Amazon, or get a refund, although I'm within the 30 day return period. They want a minimum 15% restock fee. Just got off the phone with a Codie B, supervisor at Amazon customer service. They are absolutely no help, wish I had bought this at my local BEST BUY, where there is price match/guarantee.
+3. I'm very disappointed that Amazon treats a loyal regular customer this way. Now ex-customer.
+All rantings and frustration aside, This is a Fantastic Product from Apple. Being a first time Mac user, coming from a predominantly Linux and Windows world, the mac hardware is the tops. Not to mention Leopard, has everything I need. I eventually set up my firewall,( ipfw script with a startup plist in /System dir). As I come from a Unix b/g, I'm comfortable with configuration, a little phone help from apple would have been much appreciated, and deserved, after paying so much.
+I rate 1 star for my experience with buying this from Amazon.
+The product itself would rate 5 stars.
+I had done a lot of research, before buying, and nobody else offers the same top level hardware and OS that will do everything you ask of it.
+Some of the goodies, out of the box, like, In built VNC(server and client), SMB print/file sharing, Security, and amazing speed. Top that with no extra anti-virus s/w or subscriptions to purchase like some other OSes. I get a battery duration of about 5.5 hours, when I just browse/read. The list goes on, DiskUtility that can resize and partition without destroying data, multi-touch trackpad while reading, very small os memory footprint,  Xcode looks very promising... I found a freeware utility that will "burn" Audio-DVD too, along with other formats. 
+Apple has a this approach, of exposing elegant and minimal menus on the outside to users, but as we dig deeper, are rewarded with more and more details. As you delve deeper, more details and options are available.    
+All in all my personal opinion: If you are planning to buy this, look at the new 15inch, 2.8 Ghz configuration, it has the same 6Mb L2 cache, that's touted as the number one reason for performance increase by Intel. Just dont buy from Amazon. :-)

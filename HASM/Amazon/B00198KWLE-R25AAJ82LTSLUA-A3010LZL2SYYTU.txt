@@ -1,0 +1,11 @@
+ID: B00198KWLE-R25AAJ82LTSLUA-A3010LZL2SYYTU
+Category: Laptops
+Product: Dell-Inspiron-1525-processor-capability
+ReviewerID: A3010LZL2SYYTU
+ReviewerName: Ozark DC9
+Date: December 6, 2009
+Helpful: 
+Rating: 1.0
+Title: Nothing but problems
+Content:
+I have had my Inspiron 1525 for approximately 18 months. After about 6 months, the harddrive failed and I spent a long time talking to someplace in India about the problem. They sent me a new harddrive---it was the wrong one. Since purchasing this laptop i have had to reload everything at least 3 times. Now it is refusing to accept Windows updates, it overheats, it won't shut off when you ask it to, it makes strange beeping noises on occasion. The outer edge to the DVD/CD disc space keeps falling off. It truly has a mind of its own---startsup sometimes in the middle of the night. I could never recommend another Dell after this very unfortunate experience.

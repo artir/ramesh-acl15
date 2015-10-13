@@ -1,0 +1,27 @@
+ID: B001JTA59C-R3GB23GABHUN0U-A2FDH91X9XO83M
+Category: Laptops
+Product: Mini-1000-Notebook-Processor-Brightview
+ReviewerID: A2FDH91X9XO83M
+ReviewerName: N. Cianca "ncianca"
+Date: December 15, 2008
+Helpful: 5 of 6
+Rating: 5.0
+Title: Bet netbook on the market
+Content:
+This product is also listed as the HP 1035NR which reflects the correct retail price of $449.95 (Dec 2008) and can be found at the following link:
+HP 1035NR 10.2-Inch Netbook (1.60 GHz Intel Atom Processor N270, 1 GB RAM, 60 GB Hard Drive, XP Home)
+Here is the review I wrote under that other entry:
+The HP Mini 1035NR netbook has the same basic features as just about every other netbook that exists on the market today.  The 1.6 GHz Atom and 1024 x 600 display are all standard.  There isn't much to distinguish one netbook from another, but HP really did a fine job in some of the most important areas.
+Before I purchased the 1035NR I had an opportunity to check out the offerings from Asus, Acer, Lenovo, MSI, Samsung and Sylvania.  I was down to a choice between the HP 1035 and a Lenovo S10 (which is $50 less and comes with an express card slot).
+HP has everyone beat in the most important area -- the keyboard.  There is simply no other netbook on the market that has a real keyboard with good tactile feedback.  As a touch typist, I can't stress the importance of this enough.  Most of the other netbooks fail because they have placed the up arrow key between the "/" and the right shift key, which often results in the insertion point moving up one line when you hit the right shift key.  Those that are an exception, such as the MSI or the Samsung do not have the same tactile feeling.  The Lenovo keyboard is decent, but that up arrow key took it out of contention.
+With the 1035NR you get somewhat less then you do with most every other netbook in the same or even lower price range.  The HP comes with a small 60 GB hard drive spinning at 4200 rpm.  Most others have a 160 GB at 5400 rpm.  Some netbooks have more then 2 USB ports but that should be enough for almost anyone.
+But this netbook is the best currently on the market.  The slim design is extremely compact, with several nice touches, like the Caps Lock LED.  The construction is solid, feels good when you carry it and is very light.
+The glass screen is excellent, very bright and clear, similar to the unibody MacBook, though it is glossy and not so great outdoors.    
+The trackpad is very responsive, with a good amount of surface area.  The placement of the buttons on the side, rather then below, is awkward.  I had originally dismissed the HP and Acer models because of this.  However, the keyboard more then makes up for the button placement and it also shaves about an inch of the netbook width.  I can fit the HP in a large coat pocket, which I can't do with most of the others.  The trackpad configuration software can be configured for tap and hold, which is somewhat similar to pressing the mouse and dragging.  It would have been better if the HP had Mac like button-less trackpad with two finger click for right click.
+The speakers are pretty impressive for such a small computer.  Streaming a Netflix movie didn't suffer from rendering problems, was crisp and easy to share with another person watching.
+The built in webcam works very well when it has enough light and the microphone is adequate.  There is a single "hybrid" headphone/microphone port.
+A VGA port is also included that uses a special connector, however the cable needs to be purchased separately.  The SD slot is spring loaded and flush to the body.
+I was a bit surprised that there was no printed manual included, or at least a basic printed reference of the various ports, buttons, lights, etc and that one must go to the "Help" section to get this info.
+The included battery is a 3-cell unit, which is OK and seems to last about 2 to 2.5 hours depending on what you are doing.  HP does have bigger batteries coming, but they are not yet available for purchase.
+In a nod to Apple's packaging designers, the HP box bears some similarities to Apple's packaging.
+While I ended up paying a bit of a premium for a machine with a smaller and slower hard drive then the competition, it was worth it for the keyboard, screen, compact and slim design and excellent build quality.

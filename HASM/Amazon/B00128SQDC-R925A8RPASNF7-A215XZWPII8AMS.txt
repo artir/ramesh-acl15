@@ -1,0 +1,35 @@
+ID: B00128SQDC-R925A8RPASNF7-A215XZWPII8AMS
+Category: DigitalSLRs
+Product: Nikon-10-2MP-Digital-18-55mm-3-5-5-6G
+ReviewerID: A215XZWPII8AMS
+ReviewerName: Tom Iancu "from east"
+Date: September 23, 2007
+Helpful: 40 of 40
+Rating: 5.0
+Title: A camera for the transition to pro levels
+Content:
+OK. One year passed since I've bought this camera so I can get into a review of my personal experience with it.
+First of all, if you consider into buying this model, you should know that this is not a dSLR that you can use on auto settings and get fabulous results. Get a point and shoot for that or a D40/ D40x. D80 seems to be tuned to provide best results with manual modes or semi-auto modes (fixed-aperture or fixed-shutter). I spent almost 1,000 shots until I got used with the behaviour of D80 in different light conditions and with different camera settings. The learning curve may vary, but definitely won't be a steep one.
+EXPOSURE: the matrix metering mode is thought to overexpose but, IMO, those that said that use this mode in the wrong situations: high-contrast, high-dynamic scenes which require careful analysis of the zones (with spot metering and/ or center-weighted) and exposure settings should be chosen accordingly. Matrix is fabulous for shooting scenes with the sun to your back, overcast or uniform lighting: exposure is perfect. For all other situation I would highly recommend spot metering.
+FOCUS: focus is always dependent on the lens you use. If you invest in this DX body, get a good (pro) lens to suit your needs. The 17-55DX (Click here: Nikon 17-55mm f/2.8G ED-IF AF-S DX Nikkor Zoom Lens) from Nikon is a fast-focus, super-sharp lens that allows you to take shots using all capabilities of the D80 AF system. However, there are some cheaper lens I would recommend, one of them is the 50mm f/1.8  prime (Click here: Nikon 50mm f/1.8D AF Nikkor Lens for Nikon Digital SLR Cameras), super cheap bargain for the quality you get. The new 55-200VR (Click here: Nikon 55-200mm f/4-5.6G ED IF AF-S DX VR [Vibration Reduction] Zoom Nikkor Lens + Hoya 52mm UV Haze Protector Glass Filter + CapKeeper Lens Cap Strap + 6-Piece Cleaning Kit - for Nikon Digital SLR Cameras including Nikon D40, D40x, D50, D70, D70s, D80, D100, D200 & D300) is also a bargain but don't expect to get similar sharpness as from the 17-55DX. Overall focus is very fast WITH a fast-focusing lens but will require some learning from you especially if you'll use single point focus so some recomposing technique should also be learned.
+COLORS: You'll be ABSOLUTELY AMAZED by the colors this camera will provide you considering that you nailed the exposure and set correct camera settings. Skin tones are natural, vivid and well balanced, blues are deep, reds are explosive, greens are smoothly rendered. But please take tests on all three color modes (two sRGB modes, I and III and one Adobe RGB mode, II) and see which suites you best. If you intend RAW, go for Adobe RGB; for JPEGS use I or III sRGB modes. You should be aware, though, that deep reds tend to overexpose on I and, especially mode III, so either compensate exposure, either go for RAW and mode II. Overall, colors are marvelous and you'll get amazing results once you'll learn how to master the camera.
+Please get yourself two rechargeable batts. One is not enough if you intend to shoot all day. Another option would be to buy the grip, the MB-D80 (Click here: Nikon MB-D80 Multi-Power Battery Pack for the Nikon D80 Digital SLR Camera), that allows you to stick 6 AA batteries or two EN-EL (Click here: Nikon EN-EL3e Rechargeable Li-Ion Battery for D200 Digital SLR Camera) rechargeable. With 2 nikon rechargeable batteries the autonomy is VASTLY improved.
+HIGH ISO: From my experience, the limit of all-around ISO setting is 1250 for best-detailed photos. However, as you'll learn to better expose ISO 1600 is perfectly usable and ISO 3200 for Black and White or small-sized photos (4x6"). Please remember that higher you get with the ISO, more important is to nail the exposure in order to minimize the noise. In-camera high-ISO noise reduction does marvels IF you'll shoot JPEGs, but please don't use it if you go RAW: you'll loose details.
+The camera body is made for middle-sized hands. For bigger hands, the D200 body is more suitable. Most important, for example, is the distance to the buttons than can be reached with the right thumb (the AE/AF-L and the multiple selector). But the controls operate smoothly and you can do a lot of customizing to fit your needs.
+Overall, this is an excellent camera and don't get fooled by reviews that point to poor image quality. Almost all cases of poor image quality come from improper use and not enough testing of this camera capabilities. My first results were awful, but after a couple of weeks of continuous learning I started to get amazing results. I'm suggesting 5 topics you SHOULD learn/ cover before or simultaneous with using this camera:
+1. Basic controls: aperture, shutter speed, ISO and how they interact;
+2. Relationship between aperture and depth of field;
+3. Ansel Adams zone theory; very educative
+4. Color temperature and color temperature correction
+5. RAW files processing
+About #5 above, please get yourself good RAW processing software. I use, for my workflow, Nikon's Capture NX (Click here: Nikon Capture NX Software for Windows and Mac) and Adobe Photoshop (Click here: Adobe Photoshop CS2): I squeeze most of image from Capture NX, save it as TIFF and make final adjustments in Photoshop.
+Good luck, D80 is worth each penny I spent on it.
+And no, I'm not on Nikon's payroll. ;)
+Update: October 29, 2007: 17-55DX on a D80
+------------------------------------------
+I have just purchased a Nikkor 17-55DX lens and there are some things I would like to share with this D80 review.
+First of all, the lens is awesome ! It is extremely sharp even down to f2.8 but what amazes me it is its ability to deliver microcontrast which give images a very natural look. Details are better rendered than with any other regular lenses I own. However, there are some things you should be aware of when using this lens with the D80:
+1. First of all, this is a VERY contrast lens. Whenever you'll shoot in harsh lighting conditions (as directly under mid-day sun), the images tend to loose details in the extremes (highlights and shadows); you'll manage to control that using lower tone settings in the image menu of the D80, maybe -1 or, better, -2. This is VERY important if you shoot jpeg, and advisable for NEFs.
+2. For me it seems that the lens is balanced for neutral light, kind you'll get in a studio with controlled lighting. Under direct sun on my D80 it has a slight magenta cast in shadows, easily correctable with postprocessing (pp); overall, images you take with this lens and a D80 are very well controlled and don't require pp.
+3. the lens IS heavy, my D80 + MBD80 (grip) + 17-55DX is quite a boulder so you probably take that into consideration when looking for the 17-55DX;
+That's all for now

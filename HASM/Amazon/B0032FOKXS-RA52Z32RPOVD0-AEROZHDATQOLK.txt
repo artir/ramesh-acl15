@@ -1,0 +1,14 @@
+ID: B0032FOKXS-RA52Z32RPOVD0-AEROZHDATQOLK
+Category: Laptops
+Product: UL30Vt-A1-13-3-Inch-Silver-Laptop-Battery
+ReviewerID: AEROZHDATQOLK
+ReviewerName: James Littlefield
+Date: April 18, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Almost perfect
+Content:
+This is a great small laptop.
+I upgraded from a netbook to the UL30VT-A1 for more screen space and more power. The UL30VT-A1 really does an amazing job at both. The graphics card is good enough for casual gamers, and the switchable graphics is nice because the battery life on this thing rocks! Has the best power management options I've seen. HD video is handled very well, although the native resolution isn't enough to do 1080p and I've yet to try it hooked up to a larger screen. Keyboard is great and feels very spacious.
+On the negatives, there are a few. The biggest is the lack of a matte screen. Glossy is the worst thing that has happened to monitors lately, and the screen would really benefit from a matte option. It would really benefit from separate mouse buttons instead of the bar, and placement on the outer edge (like on the eee 1000h line) would make it much easier to use. The last thing in the cons is that the default settings and apps are terrible. I appreciate the inclusion of the ASUS power management stuff, as well as the ASUS specific utilities that don't run in the background, but they seemed to go a little overboard. Changing power modes changes the wallpaper until you figure out how to turn it off. That was _terrible_. Too many useless junk apps and games, had to spend a half hour cleaning off.
+Overall this is an excellent machine. Plenty of RAM, windows 7 works very well on it, even in powersaving mode. Plenty of disk space, although I'm not sure how I feel about them picking my partition scheme for me (150GB for system, rest on data). It also looks great, aside from the crap glossy part. I spent months looking for a laptop, and couldn't find something that would match all the features of this regardless of price. And the price is really pretty decent.

@@ -1,0 +1,17 @@
+ID: B002LF10GA-R30IUC0R1ZZD7A-A1YFLBOKRD5ST5
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A1YFLBOKRD5ST5
+ReviewerName: John Rose Jr.
+Date: October 13, 2009
+Helpful: 
+Rating: 5.0
+Title: Exceeds expectations; a netbook you can actually work and type on
+Content:
+I hopped on the netbook trend by buying a 9" Dell Mini.  I didn't expect it to replace my $2,000 laptop; I simply needed something to serve as a backup workstation and something that I could carry around during times (travelling, etc) when I didn't want the worry of lugging around something that cost more than my first car.
+The Dell excelled in some ways but disappointed in others.  The primary problem is that the keyboard on a 9" netbook is simple too small for most adult hands and the Mini 9 added to the problem with a bizarre keyboard layout.  The Dell's screen is also only 600 pixels high which limits the ability to do much "useful" work on it - and the nail in the coffin was that the VGA output was fuzzy when hooked up to an external monitor, so forget about plugging it into something else.
+Enter the Acer Aspire One 1410.
+For only a bit more money this is a machine you can do some work on.  The screen (LCD backlighting in a $400 netbook?  Are you kidding me?  That's great!) is excellent and the extra pixels (1366x768) make it viable for more than websurfing and email.  In addition to VGA output (which I haven't tested) it has HDMI output for easy, razor-sharp digital output to a TV or computer monitor.  (You can connect the HDMI output to a DVI monitor with a $3 adapter - just look around Amazon)  While I didn't test it thoroughly, Windows 7 reported 3-4 hours of battery life which sounds good to me.
+There are a few downsides.  3D gaming on the Aspire One is a no-go; Team Fortress 2 was not really playable even on the lowest settings.  Not sure how World Of Warcraft would run but that has pretty low requirements so you WoW addicts might have luck with that.  
+The Core 2 Solo is faster than the Atom for many tasks, however, this is still a chip with the fraction of the power of the Core 2 Duos commonly found in other notebooks.  If CPU-intensive tasks are really important to you (compiling big projects, AutoCAD, whatever) you should probably look into one of the $500-$700 laptops out there.   
+While I listed several downsides to the Aspire One 1410 I'm still giving it a 5-star review because it excels at what it does.  Gorgeous screen and a great keyboard make it a winner; docking it points for not being a CPU powerhouse would be like giving a bad review to a butter knife because it's hard to eat soup with it.

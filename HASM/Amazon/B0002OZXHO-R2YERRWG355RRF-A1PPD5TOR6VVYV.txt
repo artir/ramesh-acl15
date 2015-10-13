@@ -1,0 +1,14 @@
+ID: B0002OZXHO-R2YERRWG355RRF-A1PPD5TOR6VVYV
+Category: MP3Players
+Product: Apple-White-M9282LL-Generation-MODEL
+ReviewerID: A1PPD5TOR6VVYV
+ReviewerName: S Smyth
+Date: October 12, 2004
+Helpful: 2 of 3
+Rating: 5.0
+Title: Versatile and stylish.
+Content:
+I had a Casio unit, which had given great service, and would have been happy to get another one, but was tempted by the iPod's sleek design, storage capacity, connection options- - firewire and USB, and its integration with iTunes. 
+The battery issue is superficially a concern, but any reasonable solder-jockey (such as myself :-) can pop in a new one when the time comes (based upon the plentiful info gained from a google for 'ipod battery replacement'). 
+The controls and the menus are clearly displayed and easily fathomed  And it's easily connected to a Linux or FreeBSD machine for loading and unloading files, so I can also retire my ZIP drive.
+The iPod is a very nice product, which given reasonable care, should give a lot of service.

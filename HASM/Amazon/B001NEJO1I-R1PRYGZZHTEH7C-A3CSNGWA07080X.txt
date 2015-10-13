@@ -1,0 +1,11 @@
+ID: B001NEJO1I-R1PRYGZZHTEH7C-A3CSNGWA07080X
+Category: Laptops
+Product: Toshiba-Satellite-A355-S6925-16-0-Inch-Laptop
+ReviewerID: A3CSNGWA07080X
+ReviewerName: Raymond Dean
+Date: April 4, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Computer good, compatibility with existing environment poor
+Content:
+The computer works great; however, if I had it to do over again, I would stay with 32 bits.  My internet provided security is not compatible and I discovered that many other services I utilize are not accessible in the 64 bit mode so I had to set explorer to run in the 32 bit mode to fully utilize this computer.  Amazon is a great seller, Toshiba makes a great computer but I discovered the expensive way that the world, in general, is not ready for 64 bits.  Lesson learned!

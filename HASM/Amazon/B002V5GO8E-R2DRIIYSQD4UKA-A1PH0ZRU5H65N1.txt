@@ -1,0 +1,29 @@
+ID: B002V5GO8E-R2DRIIYSQD4UKA-A1PH0ZRU5H65N1
+Category: Laptops
+Product: MSI-A4000-068US-Celeron-Dual-Core-LED-Backlit
+ReviewerID: A1PH0ZRU5H65N1
+ReviewerName: K. Chan
+Date: March 23, 2010
+Helpful: 
+Rating: 4.0
+Title: pretty good computer
+Content:
+This is a review for the A4000-078US NOT the A4000-068US. The difference between the two is that the 078US has 3GB or RAM instead of 2GB and it has a Pentium Dual Core T4400 processor at 2.2GHZ. I wanted to write a review since there aren't many reviews online of MSI laptops (non netbooks) in general.
+I purchased this from a different seller for about $380 around Christmas time 2009. I'll use bullet points since that's how I tend to think:
+-I didn't really have any issues with it until about 3 weeks later. When I woke my computer up from sleep mode (I didn't turn it off at night) in the mornings, there would be a notification that the computer had restarted due to some error that resulted in a blue screen of death. This happened around 3 to 4 times. I restored the computer to factory settings and it still happened. I couldn't figure out what was wrong because the problem never came up while I was using the computer. So I changed the setting so that my computer would never go into sleep mode and this problem has only happened once since then. I am not sure if this is the fault of MSI or Windows.
+-Speaking of MSI, their website is [...]. The A4000 might no longer be listed there. But I was able to get in touch with tech support and they responded pretty quickly. Their help was okay-didn't really solve my problem above, but they offered solutions for me to try.
+-As a reviewer mentioned earlier, the touchpad can get annoying. I would sometimes be typing and accidentally hit the touchpad and the cursor would move and I would be typing elsewhere in the document.
+-Sound was pretty loud and decent when I used the computer speakers. I feel that the sound quality dropped when I plugged in headphones or an external speaker and the music sounded a little muffled.
+-The screen is bright and nice. I didn't have the same issues as the other reviewer.
+-There is bluetooth software (by Toshiba) that's pre-installed, but I have never tried it out.
+-You get used to the keyboard after a while. But if you use an external USB keyboard and go back to the laptop keyboard, it does feel shallow. It's not the best keyboard in the world. It seems to me the "m" and "s" key does not always work. For example, pressing the top left corner of the "m" key doesn't do anything, but pressing the top left corner of the "n" key types the letter "n."
+-Windows 7 Home Premium is way faster than Vista and in my opinion, better than XP. Applications like Open Office and Firefox opens up quickly. Bootup/shutdown is pretty fast. 32 bit is installed, but according to what I have read elsewhere, you can supposedly change it to 64 bit, but I am not sure how.
+-Wi-fi, there is wireless N. And it is pretty good. My friend and I were in a lecture hall, he had a Macbook and his computer couldn't connect to the wireless network (it was a weak signal) inside but my computer (the MSI) could. The internet was slow and didn't always work while we were in the lecture hall, but it took him a long time before he could connect.
+-Webcam, I haven't used it much, but it seems okay. It's 1.3MP.
+-USB ports, there are only 3, 2 on the left side and 1 on the right. I wish there were more USB ports in general and that more were on the right side (say you have a mouse that you plug in on the right side, now if your printer is on your right side, you'll have to bring it to the left side).
+-There is a card reader on that can read SD cards. It works. I just realized that it was there after owning this computer for 3 months.
+-Gaming: It has a GeForce 8200M, which sounds nice, but don't even think of playing games like Call of Duty: Modern Warfare on here. You have to turn the settings all the way down and it still lags. Online flash games will work, but so far, games requiring Shockwave have lagged and been unplayable. 
+-Battery life: I can get about 3 hours, maybe slightly more, if I don't keep the wi-fi on and if I turn down the screen brightness and don't watch videos or anything like that. I wish that it would be longer, like 4 or 5 hours.
+This computer is pretty good. Other computers with the same specs would be much more expensive. It is a portable computer and I bring it to class sometimes. You must register your warranty within 30 days, which sort of sucks, but it is a 3 year warranty, which is much longer than other brands' warranties. Would I buy another MSI product? Not totally sure, but am I happy with this purchase? Yes, I am pretty happy with it. It functions well and does what I need it to do.
+ 
+And just a heads up, purchase your computers with credit cards such as AMEX since they offer benefits such as an extended warranty and will pay for repair fees up to the original cost of the computer. Those benefits are free.

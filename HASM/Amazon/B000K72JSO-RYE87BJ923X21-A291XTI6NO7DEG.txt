@@ -1,0 +1,47 @@
+ID: B000K72JSO-RYE87BJ923X21-A291XTI6NO7DEG
+Category: Laptops
+Product: Gateway-MX6453-Notebook-Computer
+ReviewerID: A291XTI6NO7DEG
+ReviewerName: B. T. Denyer "Graphic designer"
+Date: January 4, 2007
+Helpful: 7 of 8
+Rating: 4.0
+Title: Great laptop for the price - minus 1 star for the excessive third party programs/games (bloat.)
+Content:
+Let me start off by saying you will need to delete some programs immediately after you start this thing up (i.e. Wild Tangent and McAfee).  For one, WildTangent must be un-installed immediately (a quick Google search will explain why), secondly McAfee doesn't work all that well.  Uninstall it and download AVG free version - it's far better than other anti-virus programs.
+Now, for the rest..
+Pros:
+- Big, beautiful display capable of giving you an amazing video experience.
+- LARGE (160GB) harddrive!  Nice.
+- 2GB of memory!  2048 MB 533 MHz DDR2 (2 × 1024)
+- Has Firewire port.
+- AMD dual core processor.  That should be 2 pros; AMD and dual core.  Sweet!
+- ATI video card.
+- DVD+/-RW Multi-Format Double Layer drive.  (NO LIGHTSCRIBE.)
+- Has a 4-in-1 reader: Secure Digital (SD), Memory Stick, Memory Stick-Pro, and Multimedia card (MMC).
+- The wireless is stronger than my previous (internal Broadcomm 54g).  I now pull a neighbor's signal from across the street.
+Cons:
+- The biggest con is the excessive amount of third party software (AOL, WildTangent, McAfee, lots of goofy games, and much more.)  I spent over an hour deleting it and installing real anti-virus software (AVG).
+- The video card is integrated into the motherboard, meaning you CANNOT UPGRADE the video (I confirmed this with Gateway.)  The video card works, but is weak when it comes to Vista standards and games (see below.)
+- The fan kicks on quite often.  And I do mean often.  The heat coming off of the X2 processor is insane!
+- The box and the literature state the harddrive runs at 4200 RPM, but the device manager states I have a ST9160821A, which is a Seagate Momentus 5400.3 (Perpendicular Recording) 160GB 5400 RPM 8MB Cache ATA-6.  Hmmm... Be warned: perpendicular recording is not acceptable for some applications (i.e. ProTools and Avid, to name a couple.)
+- The installed Windows software seemed to be quite out-of-date.  Update yours immediately (could take 3-4 sessions of updating!)
+- Media Center works fine, but why use it when you can do the same thing with the Nero suite?  And better. 
+- The 2GB memory is maxed out - no more open slots.  But 2GB is all you need anyway.
+- DVD drive is a Philips and man is it noisy!  I've never heard a laptop drive read so noisily!
+- I have noticed that this laptop is a bit slow, especially when compared to other dual-cores with 2GB memory.  I think it's the harddrive that slows it down, and that the bottleneck is it only spinning at 4200/5400 RPM.  I bought the extended warranty, so I'm stuck with the stock configuration.  If you notice it lagging, I'd switch it out with a faster drive.  (Vista rates this drive as highly compatible.)  
+["Ready/Capable" UPDATE:]  It is touted as a Microsoft Windows Vista Premium "capable" laptop.  NOT "ready", but "capable" meaning you have enough processor speed and memory to run Vista using only the "core experiences," but NOT be able to take advantage of the TV/video recording side of the program (as you supposedly could with a "ready" machine.  But with a basic-level video card and a 4200 RPM harddisk installed, I'm not surprised...  I'll try it when Vista comes out and edit this to reflect my findings.
+Overall:
+Good for the money.  Processor and memory are good selling points.  At least they didn't choose to use Toshiba drives.  Do not leave this thing on overnight - the X2's heat is going to kill it sooner than you think.  I'd recommend a laptop cooler for long sessions, OR if you you are an uber-geek, you can always underclock the CPU to keep the temperature down.
+** UPDATE:  After 6 months, I finally received my Vista Home Premium Edition Upgrade from Microsoft!  I installed Vista (by reformatting the drive and installing from scratch), Microsoft Office 2003, and AVG, Firefox, CS2, et. al.  So far, everything is working.  The Windows Experience Index -- where Vista rates your system -- states that I have an overall score of 2.8 out of a possible 5.9.  Processor gets a 4.6; memory is 5.1, graphics is 2.8; gaming graphics (3D) 3.1; primary hard disk is 4.6
+***Vista UPDATE #2:  After 4 months, I had to UNINSTALL Vista from this laptop for the fact that Vista requires/uses 35% of my 2Gig RAM just sitting idle (XP = 25% of my RAM.)  And that's not even using Aero!  Vista and this laptop are not a perfect match.  Even after turning off unnecessary processes, it would take over 5 minutes to load completely, and still executed user-requests slower than XP.  (My current configuration is back to running XP Pro and it only takes 90-seconds to load from a cold start.)  I also noticed that AVG Firewall was notifying me of many unknown processes that would randomly request ports.  I would search for info on these, but found nothing out there to tell me what the programs were that generated the requests.  Basically, my experience with Vista on this laptop was meh.  But YMMV.
+I thought that the ATI Radeon Xpress 1150 would be a good card for this computer, but apparently not to Vista.  Anyway, there are the numbers I promised.
+No Halo 2??  I went to install Halo 2 on this machine and I got this lengthy message: "The graphics hardware on this computer is not supported for use with Halo 2 for Windows Vista.
+Your computer's graphics hardware information:
+Video memory: 128 Megabytes (128 or higher required)
+Supported pixel shader version: 2 (2 or higher required)
+Supported vertex shader version: 2 (2 or higher required)
+Halo 2 for Windows Vista is designed for computers running Microsoft Windows Vista with an overall Windows Experience Index of 5 or higher."
+Hmmm, the video card is "not supported", yet it meets the minimum requirements.  How's that?
+Anyway, Halo 2 BARELY runs on this machine.  I would go so far as to call it a complete failure to run.
+Just thought I would keep you up to date on the ownership hurdles of this computer.  Still recommend it for the Office-user and non-gamer.  CS2 Illustrator, Photoshop, InDesign and the like work quite well.

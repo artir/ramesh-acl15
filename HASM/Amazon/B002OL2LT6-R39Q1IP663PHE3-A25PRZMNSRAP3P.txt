@@ -1,0 +1,12 @@
+ID: B002OL2LT6-R39Q1IP663PHE3-A25PRZMNSRAP3P
+Category: Laptops
+Product: Toshiba-Satellite-U505-S2960RD-13-3-Inch-Laptop
+ReviewerID: A25PRZMNSRAP3P
+ReviewerName: Seung Nam Kim
+Date: February 28, 2010
+Helpful: 
+Rating: 2.0
+Title: Malfunction of cursor
+Content:
+I purchased this computer last November, and had problem with cursor.
+The cursor was moving around randomly everywhere inside of screen, so when you type, all of sudden it was typing somewhere else. I returned it and Amazon sent me another Toshiba, which was doing the exact same thing. I called Toshiba tech support many times, who had no idea what to do except to send it for repair or reload all window programs from the scratch. I returned the second one and bought Sony which is working fine.

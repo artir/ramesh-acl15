@@ -1,0 +1,13 @@
+ID: B002P3KVBI-RGD2QLPBIL6O-AI7BIKYQK7BGU
+Category: Laptops
+Product: Acer-AS1410-2285-11-6-Inch-Windows-Premium
+ReviewerID: AI7BIKYQK7BGU
+ReviewerName: Joel Kolstad "Zimbo"
+Date: November 30, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Internal Bluetooth module can be added
+Content:
+There are many other excellent reviews of the machine itself here, so I won't bother re-iterating what they say other than to agree this machine is an excellent value for the money: The AS1810 series, while including additional bells and whistles that some people may need, doesn't get you as much bang for the buck as the AS1410 series.
+That being said, one thing you might like to know is that you can add an internal Bluetooth module to this machine.  They're available on eBay for less than twenty bucks, and while installing it requires completely disassembling the lower case after removing the keyboard, battery, and hard drive, the instructions provided (at least from the vendor I dealt with) were clear and installation took less than half-an-hour, going slowly and methodically through each step.
+IMO this option is more attractive than the tiny USB Bluetooth dongles, as I seem to always be running out of USB ports!

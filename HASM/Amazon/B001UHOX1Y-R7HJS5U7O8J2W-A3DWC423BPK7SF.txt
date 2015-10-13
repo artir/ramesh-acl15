@@ -1,0 +1,33 @@
+ID: B001UHOX1Y-R7HJS5U7O8J2W-A3DWC423BPK7SF
+Category: Laptops
+Product: HP-Pavilion-DV2-1030US-12-1-Inch-Laptop
+ReviewerID: A3DWC423BPK7SF
+ReviewerName: Gazoo
+Date: May 5, 2009
+Helpful: 59 of 59
+Rating: 5.0
+Title: Great laptop, great size
+Content:
+This laptop hit the sweet spot for me. I had a netbook, the MSI Wind, and it was great for what it was. However, the 1024x600 screen size was a constant issue for me..many programs weren't really happy with that resolution. My eyes are fine, and screen size isn't an issue, but the resolution was.
+So my next laptop I also wanted it to be ultraportable, but I need a 720p minimum size resolution AND a discrete graphics card (and NOT an Intel.) I previously had dell 17" with a Nvidia 7900m GO video card - it was basically my traveling gaming laptop - however the size and weight got to be way too much for me.
+The DV2 has everything I need, and these are some notable features.
+- A discrete video card, ATI 3410 512MB (had to play TF2 and City of Heroes with no problem - I like to do light gaming). It's a decent card, but it won't replace a real strong gaming laptop or desktop but enough for my needs. This chart helps explain how the video cards stack up:[...]
+- Screen size - 1280x800, a good solid resolution
+- 4GB, Vista home premium 64 (on the 1030us model)
+- Clear screen, but not a great viewing angle
+- Lightweight, 3.8 lbs
+- Cheap (&lt;600 w/rebate)
+- Good wifi card (a/b/g/n)
+- no bluetooth (bummer)
+- Alright battery life (just slightly above average, considering the intense video card)
+A few things to note about some of the complaints:
+- Yes it can run hot. However, I did not witness it heat up until AFTER I played a game and then it wouldn't come down. Using speedfan, I saw 41C at one of the probes (which I assumed to be the processor), another probe was like 15C. The hottest I saw was 58C, 17C. You have to remember to do the bios upgrade, this helps cut down on heat issues. You should expect heat if you game or put it down on a bed for long time or something. Get a laptop cooler for home like I did - it won't hurt and may help in the long run.
+- There was an INCREDIBLE amount of bloatware..more than I've ever witnessed in my life (no kidding, really.) After removing as much as I thought safe and doing all the updates, I saw a noticeable improvement in speed overall
+- I would be happier if it were a dual core. However, that being said, it is good enough to do office apps, web surf, email, and yes IT WILL GAME TOTALLY FINE too depending on the game title. So, the dual core, IMHO, is only needed if you are going to do video compression, which I would not do on this (that's what I have a desktop for, a quad core too.) The MSI WIND was good enough for office apps too.
+- Viewing videos was ok. I'm having a hell of a time getting DXVA (video hardware acceleration) working. I can view a 720p movie (.mkv H.264) decoded in software via the processor running at about 70%. The MSI would run the same movie at 92% so this processor is definitely more powerful than that when it comes to video decode on CPU. The DXVA problem stems from it being Vista x64 vs the 32 bit version. I've always been wary of x64 operating systems on Windows and I would place the blame squarely on its shoulders because DXVA works fine on my 32 bit Vista desktop with an ATI card as well. Anyhow, I don't think I'll be viewing 1080p titles (since the screen can't do it anyway).
+So that's all I can tell you for now. I've had it for a few days only but it seems fine, especially given the price. TF2 runs at like 40+ FPS at full screen resolution (1280x800), with medium to medium high settings. City of Heroes runs a little more sluggish 22+ FPS at full screen resolution and low settings. However, CoH is a more CPU intensive game than most due to the PhysX stuff and logic behind the game so it would definitely benefit from a dual core. It does play and that's what's important.
+Overall it's a great laptop but you have to know what to expect. Don't think it won't get hot, because with that kind of oomph and teeny package it will happen. It won't burn you legs or anything but hot it will run.
+So remember, uninstall all the bloatware, do a BIOS upgrade, get a decent H.264 DXVA compliant video codec installed, and you are set for a nice mobile experience. I will next try to load Ubuntu 8.10 using WUBI to see how it installs out of the gate with it. Should be a nice experience. The MSI WIND ran that nicely and even ran Compiz no problem with the big cube and effects on. It should be a piece of cake for this machine.
+Enjoy, and don't let the negative reviews deter you. It's not a dual core machine, but it does have a lot going for it...in a 12 inch ultraportable form factor too!
+Basically it's not really a netbook (and would not be fair to compare it to one), but it is an ultraportable laptop. No doubt, this will blow the doors of a netbook. This is about as small as I could find that would do gaming. It is more expensive than a netbook, but look what you get. Look around, 12" laptops you have to pay a premium to purchase that size ($1000+). This is priced in the range of some decently powered 15.4" laptops but as I said, you pay for the size.
+It is for someone who is looking to purchase this size AND wants a firm multimedia and ok gaming capability, but doesn't want to spend $1K for the dual core and near desktop replacement features.

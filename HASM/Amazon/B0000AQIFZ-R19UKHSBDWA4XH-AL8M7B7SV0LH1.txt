@@ -1,0 +1,11 @@
+ID: B0000AQIFZ-R19UKHSBDWA4XH-AL8M7B7SV0LH1
+Category: MP3Players
+Product: Rio-Karma-20-MP3-Player
+ReviewerID: AL8M7B7SV0LH1
+ReviewerName: Daniel E. Jensen
+Date: January 28, 2005
+Helpful: 1 of 5
+Rating: 1.0
+Title: rio bad karma
+Content:
+worked fine for 6 months then started locking up. To unlock I needed to reloaded the firmware. This worked several times but the last attempt to reload didnt work until I slammed the thing down in frustration. Somehow this magically fixed it and I was able to proceed with the firmware reload. Spend the extra money and get an Ipod unless you like frustration.

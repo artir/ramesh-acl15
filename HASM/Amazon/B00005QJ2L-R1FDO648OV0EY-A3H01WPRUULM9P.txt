@@ -1,0 +1,19 @@
+ID: B00005QJ2L-R1FDO648OV0EY-A3H01WPRUULM9P
+Category: Laptops
+Product: Toshiba-Satellite-1805-S274-1-1-GHz-Pentium
+ReviewerID: A3H01WPRUULM9P
+ReviewerName: luxterg "Lucky G"
+Date: September 19, 2005
+Helpful: 3 of 5
+Rating: 3.0
+Title: Solutions to your Toshiba problems
+Content:
+Hello fellow toshiba victims,
+I have experienced the same problems, random shutting off and MASSIVE slowdown of speed over 2 years. I have the toshiba 1900. 
+I have solutions to both problems.
+A) The random shutdown problem, I've discovered, is actually something that only happens when the cooling fan is covered underneath the computer. It will only shut down randomly when it is on your lap, on a bed, or something that block it off. If you leave your computer on your desk (flat surface) with nothing blocking the underside of your computer, it will NOT randomly shut down. DO NOT UPDATE YOUR BIOS, it will only slow your processor down. Toshiba is aware of this problem and their only solution is to slow you down. Don't do it.
+B) My computer slowed down to the point where I wanted to throw it out the window. Choices, 1) Do I throw it out the window and drop $2K on a new laptop 2) Do I strategically upgrade?
+What you need to do is spend $300 and buy 512MB more of DDR RAM and then go ahead and buy a new harddrive, 7200 RPM (most are 5400 standard). Over time, computers slow down mainly because your harddrive starts corrupting slowly and subtly. A new harddrive and ram, and trust me on this (luxterg at hotmail dot com if it doesn't work)your computer will run better than new.
+I wish you all the best of luck, despite toshiba being a useless useless useless company, there are solutions.
+Kindly
+Lucky G.

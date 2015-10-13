@@ -1,0 +1,11 @@
+ID: B0002SP6AE-R3F22PZ3PYHJBE-A12T2YJDP004C2
+Category: SpaceHeaters
+Product: Hunter-44110-Save-Programmable-Thermostat
+ReviewerID: A12T2YJDP004C2
+ReviewerName: Bill Gaston
+Date: February 7, 2008
+Helpful: 1 of 2
+Rating: 1.0
+Title: Temperature hold.
+Content:
+I purchased the Hunter #44110 from Lowes hardware May 1, 2007. The first control, which was replaced within weeks, did not hold the temperature set for a given period. In other words, if set to AC to come on at 80, the reading could be much highter without it having turned the AC on. Same for the heat. If set to say 76, the reading could be much lower without it having turned the heat on. Didn't experience this problem through testing the setting with the second Hunter right away but now the same situation is being experienced. I do not recommend this particular control module by model number.

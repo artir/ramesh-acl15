@@ -1,0 +1,12 @@
+ID: B000W12V86-RF5A2EKRZU5HF-A2L4NOQBU10DL2
+Category: Laptops
+Product: Pavilion-DV9650US-17-inch-Entertainment-Processor
+ReviewerID: A2L4NOQBU10DL2
+ReviewerName: Sean "Sean"
+Date: February 13, 2008
+Helpful: 6 of 7
+Rating: 2.0
+Title: Be careful and do your research...
+Content:
+These machines look like great buys but they are often deceptive in what they sell.  For instance, HP will often market their graphics cards as having more memory than what they really have.  I bought one of the dv9600 series that has 383M of video memory only to find that it has 128M.  They say it is ok since their cards share system RAM.  (don't all graphics cards??)  There are many little things like this in the HP machines.
+They have a great price point but in the end you get what you pay for.  It will not perform to what you expect for what they list as their features.  Dell and others are a bit more honest and as such look more expensive.  If you are just looking for cheap and decent quality then HP may work for you.

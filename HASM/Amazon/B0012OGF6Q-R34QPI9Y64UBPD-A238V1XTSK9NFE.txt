@@ -1,0 +1,20 @@
+ID: B0012OGF6Q-R34QPI9Y64UBPD-A238V1XTSK9NFE
+Category: DigitalSLRs
+Product: Nikon-10-2MP-Digital-18-55mm-3-5-5-6G
+ReviewerID: A238V1XTSK9NFE
+ReviewerName: Andrew Lynn
+Date: February 1, 2009
+Helpful: 2 of 2
+Rating: 5.0
+Title: Great value
+Content:
+I really like this camera.  It's light weight and I get some great pictures with it.  The kit lens is VR (this may be the biggest upgrade from the D40x) which lets me do handheld shots as slow as 1/3 second.  Color is fantastic (but watch the white balance!), meter is excellent, AF is fast.  Up to ISO 400 image quality is excellent, it's still very good at 800 and at 1600+ the noise bothers me.  When I want very noise free shots I use a tripod and ISO 100.
+Get this camera if:
+-You're on a budget
+-You want something for general use
+-You intend to mostly use the included lens
+Don't get this camera if:
+-You want to use Nikon lenses that are not AF-S (or AF-I).  Other AF lenses will not autofocus.  Non-AF lenses will not let you use the meter.
+-You shoot a lot of sports and other things requiring rapid fire.  This camera gets 3 FPS and then pauses after a few shots while storing images to the card.  There are more expensive cameras with larger memory buffers that will take more shots before making you wait.
+This camera is DX format, meaning that the 18-55 lens is like a 27-90 on a film camera.  Focal lengths are multiplied by 1.5.  So if you have a wide angle lens that you need to use as a wide angle lens, either spend a whole lot on an FX camera (D3 or D700) or just do what I do and shoot it on a film camera.
+Needing to use AF-S lenses to get autofocusing is a drawback - AF-S lenses are really good, but there are several useful lenses that are not available in AF-S, and AF-S can increase the lens price.  Personally I don't mind manual focusing so I can use the inexpensive 50mm/1.8 Nikkor, but if I wanted that in AF-S it would have cost 3x or 4x as much.  If this worries you, look at the D90.

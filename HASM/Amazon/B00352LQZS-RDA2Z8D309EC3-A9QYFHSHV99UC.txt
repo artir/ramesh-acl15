@@ -1,0 +1,16 @@
+ID: B00352LQZS-RDA2Z8D309EC3-A9QYFHSHV99UC
+Category: Laptops
+Product: N61JQ-X1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A9QYFHSHV99UC
+ReviewerName: RJG "Vanguard"
+Date: March 4, 2010
+Helpful: 5 of 6
+Rating: 4.0
+Title: Well Made but not design for Photo editing
+Content:
+I purchased and returned this unit just today after receiving it from Amazon only yesterday.
+It is of high quality equal to the more widely known MFGs. 
+I had to return it due to the lack of resolution, razor thin viewing angle and meaningless Gamma Ctrl from its 768 screen.
+I'm coming from a 5 year old Gateway 1600*900 M65 Core 2 Laptop with a Go Force 7800. And YES I knew the specs going in and took a chance but well you can't fight the numbers sometimes.
+ Yes, the older LT display is significantly better. Much darker blacks, hence better contrast. Phillip/LG made the screens for the Gateway back when and they are excellent, near Plasma black levels I dare say. Now granted the Gateway is a 17" 900 screen where the ASUS is only 15.6 /768 but if you are using Adobe/Lightroom or Nikon Capture NX2 you will be disappointed, unless of course  you use an external display (more money) then all bets are off. But that defeats the purpose in my case. So off it went.
+I did however do a Performance test using PC Wizard 2010 and the ATI/AMD 5730 scored very high as well did the Hitachi 7.2k HD based on results comparing to a I7 750 unit PC Wizard uses as a reference. So for the gaming crowd this unit should please. The unit is very well made, has amazing keyboard feel and is very quiet and as others have pointed out for the price nothing comes close with this type of quality.  Cons: It does run a little hot, I would suggest a Antec laptop USB cooler or similar device. Value: A closely config. Del* cost several hundred more and does not offer USB 3.0 or DirectX 11 which will be important sooner than latter. Bottom-line: If your purchasing for Games, standard issue MS office, email Web surfing this is an excellent box.. for high res editing not your 1st choice.

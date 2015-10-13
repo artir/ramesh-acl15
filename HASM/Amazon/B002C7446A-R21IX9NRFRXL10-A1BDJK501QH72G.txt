@@ -1,0 +1,17 @@
+ID: B002C7446A-R21IX9NRFRXL10-A1BDJK501QH72G
+Category: Laptops
+Product: Apple-MacBook-MB991LL-13-3-Inch-Laptop
+ReviewerID: A1BDJK501QH72G
+ReviewerName: orangekay
+Date: September 4, 2009
+Helpful: 3 of 5
+Rating: 4.0
+Title: Pretty good, but not great
+Content:
+If you're in the market for a 13" MacBook, I think it's well worth every penny to spring for the Pro version. The plastic cases on the regular MacBooks crack of their own accord after a few months, and the keyboards on the Pros are much, much nicer feeling. Contrary to complaints, the edges are absolutely not sharp, and if you're pressing your wrists against the thing while typing then you're going to give yourself a crippling repetitive stress injury anyway. 
+But there are plenty of negative issues to take into account as well. Number one is the screen. Average users will probably never experience the frustration of professional monitor calibration, but photographers and pre-press folks are in for a whirlwind of hurt getting anything approaching a good profile out of these LED backlit screens, and the color shifts one gets off-axis are substantial. While no one in their right mind should ever consider soft-proofing on any laptop screen, it's nice to know you're at least somewhere in the ballpark--won't happen here. 
+Furthermore, it's often too bright. Even the absolute dimmest setting is pretty harsh in a darkened room. This is more of a technical limitation of the LEDs which Apple can't do much about unless they want to make the display flicker noticeably, but it's something to consider nevertheless. 
+On the plus side, contrast is phenomenal--blacks actually look black rather than very dark grey--and the battery lasts a long, long time driving LEDs instead of bulbs. I get a good 5 hours out of mine with normal use. 
+My number two problem is the trackpad. It's weird not having an actual button, and while you kinda get used to it after a while, I still have issues getting it to do what I want every once in a while. Enabling the "tap to click" feature just results in way too many accidental clicks for my hands. 
+Of course, aluminum, being an excellent conductor of heat, also gets hot. Not hot enough to burn you, but a lot hotter than plastic by far. 
+And lastly, there seem to be some QA issues going on at the factory as mine was dead out of the box. I work on these things for a living, so I was able to get it booting after about ten minutes worth of fiddling around with the nvram and re-installing the OS, but the average user probably would have ended up spending five hours of their life sitting on a hard wooden bench at the Genius Bar. That's a painful experience any way you slice it.

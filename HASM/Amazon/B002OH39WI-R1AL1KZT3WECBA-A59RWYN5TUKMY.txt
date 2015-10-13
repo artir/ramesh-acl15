@@ -1,0 +1,12 @@
+ID: B002OH39WI-R1AL1KZT3WECBA-A59RWYN5TUKMY
+Category: Laptops
+Product: Acer-Aspire-5517-5671-DVD-RAM-Widescreen
+ReviewerID: A59RWYN5TUKMY
+ReviewerName: Joshua C. Mack
+Date: February 21, 2010
+Helpful: 4 of 6
+Rating: 1.0
+Title: Stopped working after 3 weeks
+Content:
+Three weeks after I received this laptop, it suddenly displayed the "blue screen of death" one night while I was surfing the internet.  It never would re-start, even in Safe Mode; nor would it boot from the restore disc that I had burned.  The only option Acer offered was for me to ship the computer to their repair facility in Texas, at my expense ($30).  I did ship it, two and a half weeks ago, and still haven't gotten it back.  If this is indicative of the kind of service and reliability a person can expect from Acer, I would recommend not buying one.  There's a reason the price is low-you get what you pay for.  At least with a company like HP, you can take your computer to a local authorized repair facility if something happens to it, and have it back in a short time.  I wish I would have spent a little more money and gotten a better-quality machine.  
+As for the performance of the computer itself, the speakers are of poor quality (very quiet), so watching DVD's without headphones or external speakers is not enjoyable at all.  Also, the DVD player lags/skips at least a few times with every DVD I've viewed; sometimes more often than that.

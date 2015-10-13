@@ -1,0 +1,13 @@
+ID: B001GQAJZS-R1A135IN5SGKT1-A1FEIHN6ALW1L
+Category: Laptops
+Product: Dell-Inspiron-Processor-Genuine-Windows%C2%AE
+ReviewerID: A1FEIHN6ALW1L
+ReviewerName: T. Wells
+Date: December 23, 2008
+Helpful: 12 of 12
+Rating: 5.0
+Title: Refreshing Back to the Basics Mini Computer
+Content:
+I am writing this review from my Dell Mini 9 with 1 gig ram, 8 gig solid state hard drive, running Windows XP.  The keyboard is smaller than full sized, but very easy to touch type with.  The atom processor and 1 gig of ram handle running XP without a hitch.  I loaded Microsoft Office Home/Student edition (minus OneNote) and it too runs fine.   The MS Office suite was loaded using a $35 external  USB CD drive I bought for this computer.  Because this is a Windows computer, the new hardware was recognized and loaded automatically.  The wireless connection works smoothly and seeks out a connection well.  I have worked on secure networks and using public WiFi, all using the internet easily.  The screen has excellent resolution.  I can run music on the Media Player,  browse the internet and edit word all at the same time.
+An 8 gig hard drives seems small, but the built in SD card slot can act as your document storage.  I dumped much of the pre-loaded programs that I would never use which leaves nearly 2 gigs on the built in hard drive.  I have 35 albums, almost 4 gigs of photos and a bunch of documents on the 16 gig SD card and I still 8 gigs of room for more there.   I write documents to the card using a Windows briefcase that syncs with back-ups on my desktop.
+If you are looking for a simple laptop/travel computer, this is a good choice.

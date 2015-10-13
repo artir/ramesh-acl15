@@ -1,0 +1,13 @@
+ID: B00168JDSA-R39FHKB3B0TCGR-A15Y345TPO4JPB
+Category: AirConditioners
+Product: DeLonghi-PAC-T110P-Conditioner-Dehumidifier
+ReviewerID: A15Y345TPO4JPB
+ReviewerName: Douglas
+Date: July 20, 2008
+Helpful: 8 of 8
+Rating: 4.0
+Title: DeLonghi Penguin review
+Content:
+Works well, could use a better mechanism to connect to the window when a sliding window (side-ways)
+Seems to use more Amp than specified, measured it to use 11.5A instead of the 9.7A rated.
+Other than that, chills very well, no need to empty water overflow (yet) and  not too loud (not quiet either)

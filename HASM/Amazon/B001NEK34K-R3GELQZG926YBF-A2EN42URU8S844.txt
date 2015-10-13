@@ -1,0 +1,18 @@
+ID: B001NEK34K-R3GELQZG926YBF-A2EN42URU8S844
+Category: Laptops
+Product: Toshiba-Satellite-A355-S6935-16-0-Inch-Laptop
+ReviewerID: A2EN42URU8S844
+ReviewerName: N. Yagin
+Date: April 9, 2009
+Helpful: 6 of 6
+Rating: 4.0
+Title: Pretty darn good!
+Content:
+I've been looking for a laptop for a while now.  I'm glad I chose the Toshiba A355-S6935.  ...it's loaded with ports, usb, sata, firewire for controlling your video, as well as a ethernet, 100 Mbs not Gigabit.  No modem port for anyone looking for a dialup or fax option.  No bluetooth as well, makes you wonder why all the loaded bluetooth software.  It is loaded with several gigabytes of trial software like MS Office Student as well as the ever popular Norton virus software.  Startup time is about a minute, shutdown time is about half that.  Nice size hard drive at 400GB.
+First thing I did was remove ALL the bloatware including a motherlode of Wild Tangent games...don't be afraid of the Vista 64bit operating system...a lot of software now is make whatever adjustments they need to be compatible.  I did not have any compatibility problems with any programs...I use PS CS3, Quicken 2009, play games like Civ 4 and Sim City w/ Rush Hour expansion pack...no problems!
+Battery time was my concern...with the default settings, battery lasted just a little over an hour just browsing.  Made some adjustments with screen brightness, wi-fi range, and laptop illumination...now I'm getting about an hour and 45 minutes with one application running be it photoshop or browsing...just make sure that you condition the battery from the start.  Charge it up, then run it down...do this several times and the battery begins to get better.  Just make sure to use the battery power once in a while.
+No backup discs, need to make your own.  Reinstalling from your backup discs will reinstall everything including bloatware so if you want to clean out your laptop and begin from scratch, you'll need to buy a new OS.  4 GB show up under specs..
+Great startup for programs like PS and Civ 4.
+A great value in a laptop...Glad I chose this one.
+Had to add this, while shopping around, I read a lot of reviews and one thing that people always seem to bring up is keyboard flex.  There is a little flex when you push down firmly in the middle of the keyboard.  This will of course happen when your intent is to actually see that flex.  I don't think people shop for car, push down on the hood, watch it flex, then decide it's got too much flex...  It's firm enough that this so called "flex" doesn't matter at all when just typing.
+Face recognition, it's alright.  It sure takes up a lot of hard disk space.

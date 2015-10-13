@@ -1,0 +1,14 @@
+ID: B002Q8HNFO-R1DDTY165H3UKN-A3TBMAWIIHKHFN
+Category: Laptops
+Product: K50IJ-X8-15-6-Inch-Versatile-Entertainment-Laptop
+ReviewerID: A3TBMAWIIHKHFN
+ReviewerName: Michael G. Romano
+Date: March 14, 2010
+Helpful: 1 of 1
+Rating: 1.0
+Title: Oh my God: You have no idea how slow a new computer can be
+Content:
+I bought am Asus Eee netbook (with a version of Windows XP) off Amazon.com several months ago and I love it.  It has something like 10-hours of battery life, it's totally portable, and has been reliable.  When buying a new laptop (I wanted an additional larger computer for home use), I decided to stick with the Asus brand since the netbook has been so great.
+This evening I got this computer up and running.  Sort of.  Not since Windows 3.1 on a 286 have I seen a computer run so slow.  It's unreal.  I am blown away.  I think it's taken me over two hours to install about three basic programs (Firefox, Open Office, and Avast Anti-Virus).  A few minutes ago, I made the mistake of trying to open an MS Word Doc.  It was unbelievable.  I think it took about three minutes to open the file with a teaser version of MS Word 2007 and then for me to attempt to quickly close the program.  That's a long time to just sit and wait for a file to close, and then to attempt to quickly close the program.  With the install delays, I'm not talking about having problems installing the programs-- I'm talking about the computer just taking forever and a day to install the necessary files.
+I don't know if it's Windows 7 or this brand of laptop, but what a horrible, horrible, experience.  This machine is so slow it's useless.  It's not like I'm editing hi-def video.  Just installing some very, very basic programs brought this laptop to a stand-still.  I also found out that the battery life (according to the information in the bottom right corner of the screen) is barely 2 hours.  This means I wouldn't even be able to watch a DVD without power nearby!
+I'm going back to the netbook.  It's faster, and the battery life is much better.

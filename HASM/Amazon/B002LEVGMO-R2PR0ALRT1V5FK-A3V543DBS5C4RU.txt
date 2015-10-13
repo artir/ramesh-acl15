@@ -1,0 +1,17 @@
+ID: B002LEVGMO-R2PR0ALRT1V5FK-A3V543DBS5C4RU
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A3V543DBS5C4RU
+ReviewerName: Parviz Ghofrany "pg"
+Date: April 7, 2010
+Helpful: 
+Rating: 5.0
+Title: Great netbook with great features.
+Content:
+I love this netbook.  it came with windows Vista, however it had a free upgrade to Windows 7.  one draw back is that it comes with lots of junk installed with takes memory and about 10 Gig of hard drive.  Instead of upgrade to Windows 7, I did a clean install of windows 7. Now it runs a lot faster, takes less memory and I reclaimed a lot of disk space.  Installation is easy and Windows 7 automatically discovers all devices and drivers.  Clean install is way to go.
+pros:
+Fast single core processor
+2 gig of ram more than enough to run any application
+huge 250 gig hard drive
+great web cam
+Buy one and you will be impressed.

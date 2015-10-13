@@ -1,0 +1,11 @@
+ID: B000V50GI0-R2OO6OVE7YEBPW-A22B9JAICLZ4PH
+Category: SpaceHeaters
+Product: Holmes-HCH4051-UM-Ceramic-Adjustable-Thermostat
+ReviewerID: A22B9JAICLZ4PH
+ReviewerName: Jay LaBelle
+Date: January 28, 2007
+Helpful: 
+Rating: 2.0
+Title: Works, but strangely.
+Content:
+This things *does* work, although the fan doesn't blow the heated air very far away from the unit.  It is possible to adjust the thermostat knob so that it keeps your room the right temperature, but when it is reaching the temperature that you've set, it switches on and off constantly.  (Like 20 times in 10 seconds -- seriously.)  I'm not sure that this one isn't slightly defective, since most thermostat controls have a non-switching region where they don't change their state as long as the temperature is within a certain range.  For instance, if you set your furnace thermostat to 68, it turns the furnace on at 67, not 67.992 and turns it off at 69, not 68.002.  This apparently doesn't have that feature -- it literally runs for less than 1/10th of a second on a regular basis.  I wonder how long the thermostat relay will last with the constant cycling..

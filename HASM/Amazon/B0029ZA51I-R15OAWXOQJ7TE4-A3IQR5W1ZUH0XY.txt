@@ -1,0 +1,21 @@
+ID: B0029ZA51I-R15OAWXOQJ7TE4-A3IQR5W1ZUH0XY
+Category: Laptops
+Product: Pavilion-DV4-1430US-14-1-Inch-Entertainment-Laptop
+ReviewerID: A3IQR5W1ZUH0XY
+ReviewerName: tehg
+Date: February 11, 2010
+Helpful: 
+Rating: 5.0
+Title: Does everything I need, fast without problems
+Content:
+It seems like I have get a new laptop every two years, I've gone with Acer, Fujitsu ultraportable (and ultra expensive), Compaq, Toshiba, and now HP. Honestly, the HP wasn't my first choice, I wanted smaller and lighter, namely the dell latitude e4300 which is about 2 pounds lighter, 13" and $900 more. The dv3 wasn't light enough for me to justify the extra hundred and fifty dollars I would have had to spend for a 13" HP. When the dell failed to appear at my price range I knew I needed to make a new choice.  Having previously had a nearly indestructible Compaq, I settled for this model when I was able to get it for $50 less than the going rate (about 150 off of the initial manufacturer's recommended price)about 5 months ago; so far I haven't been disappointed. Battery life is about 3:45, about what I expected based on reviews and the always inflated advertised life. There's always a 12 cell battery available if I wanted to upgrade. On the other hand I will use it mostly plugged in since I don't see this as a "light" or "portable" laptop, IMO to qualify for that category you can't top 3.5 lbs. 
+First the good stuff:
+Mine doesn't run hot at all (apparently it was a problem with some dv4 models then fixed by HP) This is HUGE as I exclusively use my laptop in my lap; my compaq ran hot, the acer was unbearable, the fujitsu was so so. 
+I have recently taken to using a lap desk with it, and with a hard surface underneath I rarely hear the fan, even after hours of use. 
+The biggest plus though, it has more than enough power to do anything I want it to (I am currently running 29 tabs in Firefox, something that alone would have killed my last computer, MS Word, a remote desktop connection). The Adobe CS4 tests seemed solid for this class of laptop which went a long way in selling me on this model. In the end I switched from CS4 to Lightroom so I don't need as much processor power, but it is nice to know that it is more than enough machine to handle my hobby usage. 
+I don't expect instant boot but it is fast enough for me to turn on and pull up a document without becoming a painful wait for my client on the other end of the phone. 
+I like the fact that the DVD is removable and an insert is provided for travel/etc to get the weight lower. My Fujitsu had this and it made a huge difference when I used the insert (I took that laptop with me everywhere, every day, so it had to be super light) I have yet to use this feature on the HP but I have yet to travel with it either.
+I am not a big video on PC person, but the few netflix streamed movies I've watched have been sharp and pretty with decent sound. The screen and keyboard are both comfortably sized without being huge. I love the HDMI option and the fact that the usb ports are on both the left and the right. 
+Finally the cons:
+I seem to have problems with the touchpad when working in remote desktop, if a review of the dv4-1433 is correct, the pad is sensing the heat from my hands and the cursor ends up jumping around. Oddly I don't have this issue as frequently when not working remotely. The ability to turn the touchpad off adequately compensates for and solves this issue when necessary. 
+The shiny surface of the brown version of this machine (slightly different model number) can be a major fingerprint magnet. I happened to like the white better and luckily it hides fingerprints somewhat (not as much as a matte surface machine, but way better than the brown one)

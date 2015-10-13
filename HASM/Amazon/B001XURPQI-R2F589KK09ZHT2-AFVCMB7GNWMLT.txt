@@ -1,0 +1,17 @@
+ID: B001XURPQI-R2F589KK09ZHT2-AFVCMB7GNWMLT
+Category: DigitalSLRs
+Product: Canon-T1i-Digital-Body-Only
+ReviewerID: AFVCMB7GNWMLT
+ReviewerName: M. Bach
+Date: July 21, 2009
+Helpful: 13 of 16
+Rating: 3.0
+Title: Desperated Wanted to Love This Camera
+Content:
+After happily putting my Xti through its paces for years, I was really ready for this new model. I'd been plotting an upgrade for months, and was mainly considering the T1i, and 40D/50D line. I like the small size of the rebel, and was excited that the new T1i shared so many traits with the 50D--MP count, similar sensors, etc. I thought that would finally make the decision a no-brainer.
+I ended up returning the camera a week later. Don't get me wrong--there is a whole lot to love: 
+--shooting video with great boekh is lots of fun, 
+--the new LCD is glorious
+--the build gives at least the impression of a much more professional feel
+That said, for me it all comes down to image quality. Here, I was sorely disappointed--in my tests I experienced very poor ISO performance. I almost never use flash, preferring to use good lenses with high apertures and these photos were significantly noisier than even my humble Xti shots when pushed above ISO400! According to what I've read on boards subsequently, this is due to largely to squeezing 15 megapixels into the sensor, and it is equally an issue on the 50D, which has led some to recommend sticking with the 40D until this is resolved in a future model. Another consequence of this 15mp sensor is the loss of RAW headroom, which means that recovering clipped highlights in Camera RAW afterward is much less successful. I was sorely disappointed. Also, in general, I felt plagued by soft images.
+So, I'd say enjoy this for what it is--a great camera with significant flaws in certain areas that are key for certain types of photographers. In my case I ended up biting the bullet and going to the 5Dmkii, mainly because I really loved the video capability. For most, however, if video isn't a big draw, then in my opinion you'd probably be happier with the Xsi's images (and price).

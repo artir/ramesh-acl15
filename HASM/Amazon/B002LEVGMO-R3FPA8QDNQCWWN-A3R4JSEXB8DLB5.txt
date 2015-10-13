@@ -1,0 +1,23 @@
+ID: B002LEVGMO-R3FPA8QDNQCWWN-A3R4JSEXB8DLB5
+Category: Laptops
+Product: Acer-Aspire-AS1410-8804-11-6-Inch-Laptop
+ReviewerID: A3R4JSEXB8DLB5
+ReviewerName: C. Solie "gadget fan"
+Date: December 14, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: great little netbook+
+Content:
+I bought this model because it has a beefier Core2 Solo SU3500 CPU than the typical Atom based Netbook.  I also researched the newer low-cost Intel Celeron M 743 that has 2 cores, but less cache (1MB vs 3MB) and double the power dissipation, i figured the Core2 Solo processor in this one hit a good place between performance and battery life.
+Having played with this computer for a while, i really like it.  Very portable with a nice sharp screen.  It boots to usable internet in 1:15 in Vista and 0:38 using Ubuntu (netbook reloaded edition).  
+Notes:
+I found a great sleeve case that fits like a glove made by MobileEdge at microcenter called 'Special Edition' made for 11.6 netbooks.
+Pros:
+Nice build quality
+good battery life
+HDMI port
+came with a single 2GB SODIMM for easy upgrade to 4GB
+small charger
+Cons:
+Slight vibration noise when fan is running.
+no bluetooth (although there is a keyboard icon, on/off switch.  there is an empty place in underside compartment, but no socket, just unsoldered contacts)

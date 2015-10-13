@@ -1,0 +1,15 @@
+ID: B000EBA03M-RO18KXIJD9UAB-A15Y2FQ5WNR63Y
+Category: DigitalSLRs
+Product: Olympus-Digital-Camera-18-180mm-f3-5-f6-3
+ReviewerID: A15Y2FQ5WNR63Y
+ReviewerName: James D. DeWitt "Alaska Fan"
+Date: September 7, 2006
+Helpful: 16 of 16
+Rating: 5.0
+Title: An Odd Feature Mix, But a Fine Camera
+Content:
+I'll start by admitting I am a satisfied Olympus 4/3 customer. I have a 2.5 year old E1, the first of their 4/3rds DSLR cameras. I have Zuiko 50-200mm, 300mm, 18-45mm and several other lenses. I bought the E500 body to get more pixels: the E1 has only 5.5 megapixels and for the kind of work I do, that's just not enough.
+The E500 has a slightly less "professional" feature set than the E1, but adds many features that the older E1 doesn't have, including 25 (!) exposure modes and a digital viewing screen on the back that is bright, crisp and a true joy to use. You will want to download the firmware updates promptly on purchase; they help a lot with auto focus and exposures in low light conditions. But except for the firmware update, this is a fine camera out of the box.
+Pluses: The Kodak KAF-8300CE CCD sensor does a very nice, even exceptional job with colors and tones, and when you keep it at or below ISO 800 there is very little noise even in poor light conditions. The dust removal system introduced with the E1 works as well or better than ever. As I watch my buddies struggle with dust on the CCD sensor with each lens change, I appreciate even more the Olympus dust removal technology. It really works, and is a tremendous timesaver in the field. Finally, the camera is sturdy, ergonomic and the primary controls are convenient. 
+Minuses: unlike the E1, it doesn't have a "firewire" port and the single port it has seems to be USB-1, not USB-2. It takes a long time to download photos shot in RAW/SHQ. The solution is to get a card reader instead. The 25 pre-defined shooting modes are simply too many. I shoot mostly in MF/MEx anyway, but I suspect it would take longer to select a suitable "mode" than to manually focus and set your exposure. 
+Overall, though, this is an excellent camera and works well with all of the Zuiko lenses. It's a relative bargain, too. Very highly recommended.

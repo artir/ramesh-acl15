@@ -1,0 +1,11 @@
+ID: B001D0E4CQ-R2CG3EP08X95ND-A1O8BLGWBLKOL
+Category: MP3Players
+Product: Archos-120-Internet-Media-Tablet
+ReviewerID: A1O8BLGWBLKOL
+ReviewerName: quizquest
+Date: February 27, 2009
+Helpful: 
+Rating: 4.0
+Title: Works with Apple! (But not itunes)
+Content:
+I think that because the Archos is French, they refer to every computer as a "PC," so in the info on Amazon, and also on their website, they list compatability as not including Mac.  I decided that with the Wi-Fi, I could download what I wanted anyway, so I risked it.  It turns out that the drag-and-drop function to move files from the Mac (Powerbook G4 running OS X 10.4) works perfectly well.  The caution here is that itunes files obviously do not play, b/c of the DRM.  Amazon video would play, I believe, but I can't download it onto my non-Intel Mac.  SO music from Amazon and video from the built in CinemaNow are basically my two options right now.  Eventually I will get a PC and use Amazon video.  You can't download Amazon video directly to the Archos, because the browser is not compatible with Amazon player.  (Also, other Archos menu options for video are too expensive.)  I did manage to convert an audible.com file so it works also, but it did involve some measures that may not be approved of by that company.  I think there are other good reviews on this PMP overall, so I just wanted to add these comments.

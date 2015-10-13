@@ -1,0 +1,11 @@
+ID: B002ONCD4M-R2BQU1NVS4LYDW-ACNQWND4MBBVU
+Category: Laptops
+Product: Pavilion-DV6-1350US-15-6-Inch-Espresso-Laptop
+ReviewerID: ACNQWND4MBBVU
+ReviewerName: Lonnie D. Johnson
+Date: February 28, 2010
+Helpful: 
+Rating: 4.0
+Title: HP DV6-1350 LAPTOP
+Content:
+I am very satisfied with the computer. Buyers should be aware of Windows 7 however if they also use a PDA. Palm does not have a USB hotsync driver as of yet.  Bluetooth hotsync does work with a little work. I have recommended this particular model to several of my friends. The extended battery life is a definate advantage. Price could have been a little lower but it was well worth the purchase.

@@ -1,0 +1,11 @@
+ID: B002PHM3RY-RURAMAKCXXES7-A3S88JV9N3P0IN
+Category: Laptops
+Product: Acer-Aspire-Timeline-AS1810TZ-4013-11-6-Inch
+ReviewerID: A3S88JV9N3P0IN
+ReviewerName: dss702
+Date: November 27, 2009
+Helpful: 3 of 16
+Rating: 2.0
+Title: Nice design...  but DOA.
+Content:
+Nice little laptop - 11.6" screen is nice size - good hardware specs, and pretty quick for such a small machine - when it worked.  Got BSOD first time I turned it on, which gave me a bad feeling from the get-go...  After that, got BSOD every time it would turn on or wake from sleep, and finally wouldn't boot at all.  Returned after 3 days.  Maybe it's just bad memory modue, but ACER doesn't seem ready for prime-time.

@@ -1,0 +1,16 @@
+ID: B0009BO2TA-R3H1ZFLB6UCPZU-A3IFCH4A0AOE50
+Category: CanisterVacuums
+Product: Hoover-S1361-Portable-Canister-Vacuum
+ReviewerID: A3IFCH4A0AOE50
+ReviewerName: D. McCulloch
+Date: April 2, 2010
+Helpful: 1 of 1
+Rating: 3.0
+Title: How to fix the vac!!
+Content:
+So I have this vac and while it worked OK for a short period of time, the cord recoil mechanism eventually got stuck or something, reneding the vac almost useless.  Since I have a yard sale coming up, I figured I'd spend 30 minutes trying to figure out how to repair the unit. Opening the vac is a big pain, but I've put the steps below: 
+1.  If you open the section that holds the bag, you'll notice there are 4 screws (phillips head).  You need to remove these 4 screws using a long handle screw driver, magnetic tipped would be nice.  
+2.  There is 1 more screw holding the orange part onto the gray part.   To get to this screw, you need to pull out the cord retract button (located on top of the unit).  Be careful not to break this piece, you'll need it later.  There is a big spring under the button, keep tabs on that as well.   Now, there is a screw in one of the holes under this button.  Use your phillips head screwdriver to remove this screw (again, magnetic tip would be nice).
+3. Carefully remove the orange top, but be aware if will still be connected to the motor .  Now, you can unravel the coil mechanism.  There are two white wires that connect to the cord mechanism.  If they are not reconnected, the unit will not start.  Make sure these are connected, be careful because they don't have a lot of slack. 
+4. Replace orange cover, replace your coil rewind button / spring and put 4 screws in the collection area and start suckin'.  
+Hope this helps someone, I know it took me a while and a lot of searching to find an answer.

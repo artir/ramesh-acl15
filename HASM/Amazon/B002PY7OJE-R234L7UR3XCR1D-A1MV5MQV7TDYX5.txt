@@ -1,0 +1,14 @@
+ID: B002PY7OJE-R234L7UR3XCR1D-A1MV5MQV7TDYX5
+Category: Laptops
+Product: Dell-Inspiron-11-6-Inch-Obsidian-Windows
+ReviewerID: A1MV5MQV7TDYX5
+ReviewerName: Peter Hogarth
+Date: March 20, 2010
+Helpful: 3 of 3
+Rating: 5.0
+Title: unexpectedly useful
+Content:
+I bought this notebook because I was looking for a low cost, very portable device for tasks such as studio camera control and music recording.  I wanted netbook size but full Windows compatibility and capability.  I was specifically not looking for a desktop replacement.  I got the version offered by Amazon rather than Dell's base version because it has 4G memory and twice the battery.  I was concerned that 2G on a machine with shared graphics memory would not adequately run Windows7 64-bit.  The larger battery creates a lump at the back of the machine that I actually like since it angles the keyboard the way I like it (see gismoman's picture).  Battery life is something like 5 hours.  The machine runs W7 64-bit well, including my photo editing applications.  I have not encountered any compatibility problems.
+The 11z turned out to be "unexpectedly useful" when I connected an external monitor to it -- at that point it became a replacement for my old desktop machine.  You can connect an external monitor with up to 1920x1080 size, in portrait or landscape mode -- as long as it has either a DVI-D or HDMI connector -- which I had not quite understood when I bought the 11z.
+The nits are:  (1) While I like the keyboard feel -- a lot -- the 90% sizing has taken some getting used to -- people with large hands might not be able to adapt.  (2) I find the touchpad unusable, even more than other notebook touchpads, and even with all the special gestures disabled, especially because the integrated mouse button substitutes are too stiff.  I always use a USB notebook mouse anyway, and never planned to use the touchpad.
+In summary -- an attractive, very usable package; the version Amazon sells is better optioned than the base Dell version; for many people this can be their all-in-one go everywhere all purpose computer, especially if you take advantage of the external 2nd monitor capability.

@@ -1,0 +1,11 @@
+ID: B000VR3P9K-R349HB1TVMJA5F-A1IIPWDOMWR8UL
+Category: Laptops
+Product: Apple-MacBook-MB604LL-Processor-SuperDrive
+ReviewerID: A1IIPWDOMWR8UL
+ReviewerName: Gettin better
+Date: January 6, 2009
+Helpful: 3 of 3
+Rating: 5.0
+Title: Macbook Pro - Totally awesome
+Content:
+I got the laptop about a month ago to replace my old Windows notebook and have been amazingly surprised with how little (nothing) I miss about the Windows environment.  I use it at Client sites on Windows networks and have no issues.  I bought VMware Fusion and it is flawless.  I haven't used all the software yet but I love the integrated camera and speakers are surprisingly solid.  The screen is great for movies on the plane.  I also have used the Airline adapter each week for 6 hour plane ride (on American Airlines) and it allows me to work/watch movies as much as I want to.  Has made my Ipod touch pretty useless on the plane since I have unlimited battery.  The airline adapter does NOT charge the battery but does run the laptop and allows it to charge my Itouch without any problem.

@@ -1,0 +1,12 @@
+ID: B00006JT7T-R1VRPK7E86BH4Q-AQ6X2HR3MXCZ7
+Category: SpaceHeaters
+Product: Bionaire-BCH4138-U-Digital-Ceramic-Galileo
+ReviewerID: AQ6X2HR3MXCZ7
+ReviewerName: kdev "kardev"
+Date: January 9, 2007
+Helpful: 4 of 4
+Rating: 4.0
+Title: If only I could get one that worked....
+Content:
+A friend of mine has one of these and it's been a workhorse.  Of particular usefulness is the Galileo remote which has the thermostatic sensor on it.  I've tried other brands that had the room temperature sensor on the unit and they were drastically off (sensor too close to the heating element).
+Unfortunately, the first unit that I ordered had a bad readout display on one of the temperature digits (you could only read part of the number).  I exchanged it for another using Amazon's phenomenally easy exchange procedure (unlike the manufacturer who said the remote was "not under warranty unless I bought it from them directly").  The replacement unit had a fine remote display (which was also accurate to a fraction of a degree), but the heating unit had a permanent buzzing sound that sounded like a transformer.  This wasn't a problem in a noisy room, but it was loud enough to disturb sleep in a bedroom.

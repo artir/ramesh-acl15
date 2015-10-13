@@ -1,0 +1,17 @@
+ID: B001R9YROI-RGB0YNGGZE1SD-A2QG3IF8RA1G9L
+Category: Laptops
+Product: HP-2140-Mini-Note-Bluetooth-Widescreen
+ReviewerID: A2QG3IF8RA1G9L
+ReviewerName: Lawrence McDonnell
+Date: October 3, 2009
+Helpful: 
+Rating: 3.0
+Title: Often appealing, occasionally frustrating
+Content:
+Perhaps the best thing I can say about the HP mini 2140 after a 90-day shakedown cruise is that I use it more than I've used any laptop or computer. I move this thing around my home 10X a day, something I never did with bulkier laptops. On the down side, have noted a few significant limitations...well documented by other reviewers.
+Battery life- If you want a bright, crisp display you'll need to set the battery on high performance. On this setting, expect less than two hours tops.
+Battery malfunction - Early on the battery shut down whenever the power cord was disconnected after charging. HP online support was no help.  I'm figuring the cause is overheating. If I mistakenly leave the laptop on plugged in overnight and remove the cord to go portable it often quits...abruptly. Battery shows no charge.  Now I always end a session by selecting hibernate mode or shutting down and that's solved the problem for now.
+Itunes and photos - Have loaded photos with no problem.  Itunes is something of a disappointment.  It may be that the latest 9.0 Itunes release is heavy and balky and straining the Mini's minimal horsepower.
+Video - As others have noted, don't expect stellar video performance on the Mini.  Youtube is ok and videos run but it's fairly choppy.  
+I've added an Asus dvd drive (08d1s-u amazon $60.24) and an Altec lansing external speaker (im 237 orbit, amazon $27.40) The speaker is good...recommended.  Very good clarity for a baseball broadcast and reasonably good with music.  The cord is too short, less than 12 inches, and it's easy to leave on accidentally and kill the three triple A batteries but otherwise a worthy accessory.  The mini recognized and ran the Asus external drive but keep in mind (as others have noted) this will occupy both usb ports. You can't get around this by splitting the port - at least I couldn't - because the Asus would only power up when directly plugged into both ports.  Because the USB's are on separate sides of the Mini, plan on buying a USB port extension cable. The cables on the Asus are too short to easily span the keyboard to reach both ports.
+I consider the Mini 2140 a well designed product with a few bugs and obvious limitations in speed and performance.  It's analogous to the trade-off between a pocket-sized digital camera vs. a full sized SLR. You'll notice and occasionally curse the shortcomings but you'll take the thing everywhere and that's the value proposition.

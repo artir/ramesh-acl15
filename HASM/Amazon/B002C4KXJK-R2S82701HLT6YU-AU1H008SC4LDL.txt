@@ -1,0 +1,19 @@
+ID: B002C4KXJK-R2S82701HLT6YU-AU1H008SC4LDL
+Category: Laptops
+Product: MSI-X320-037US-13-4-Inch-Laptop-Black
+ReviewerID: AU1H008SC4LDL
+ReviewerName: Sergey Shlykovich "sshlyk"
+Date: December 2, 2009
+Helpful: 1 of 1
+Rating: 4.0
+Title: Great small laptop, but
+Content:
+Pros: 
+Lightweight
+Cons:
+Not really Ubuntu friendly (camera, mic, touchpad)
+Short battery life (~2:30h).
+Fan is constantly working (too noisy)
+Poor webcam
+Battery is not fixed well and moves couple millimeters back and forth
+Lots of people complain about the keyboard, but it is not so really bad, I would give it 3.5 out of 5

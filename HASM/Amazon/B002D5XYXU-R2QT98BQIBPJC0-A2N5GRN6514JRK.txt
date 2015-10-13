@@ -1,0 +1,17 @@
+ID: B002D5XYXU-R2QT98BQIBPJC0-A2N5GRN6514JRK
+Category: Laptops
+Product: S12-12-1-160GB-HDD-White
+ReviewerID: A2N5GRN6514JRK
+ReviewerName: L. Johnson
+Date: January 26, 2010
+Helpful: 0 of 1
+Rating: 2.0
+Title: Unreliable hardware and post sales customer service
+Content:
+Although an excellent design and a good buy at the price, this and another Lenovo laptop I have purchased have proved unreliable with significant problems right out of the box, and great difficulty in resolving.
+The Lenovo Ideapad S12 failed to establish and maintain an wireless connection (802.11g).  This was established working with a very helpful Lenovo technical support representative who provided a case number and a telephone number for customer support at sales.
+The Lenovo sales customer support person denied there was correct case number, would only transfer me to technical support.  The transfer resulted in a very bad connection, and a return call was promised.  The return call was never received.  A second call resulted in a re-order charged to my credit card, and a prepaid return authorization.  I was told not to expect a refund on the original purchase for at least two weeks.  This also resulted in a two delay in receiving a replacement S12, unusable for my planned travel.
+Now these things happen except a Lenovo G530 Laptop purchased in June '09 for a medical student studying in Israel had nearly identical situation.  The motherboard circuitry for charging the batteries was faulty, the case number was denied, repair in Israel was denied even though an international warranty was purchased.  The G530 was finally repaired in October but the medical student had to purchase another computer to continue her studies.
+About me--I am a retired computer consultant and engineer with over 40 years of computer hardware and software experience.
+My recommendation: Since manufacturing quality assurance and post sale customer service is shaky in general, I would recommend buying Lenovo only if you are prepared to invest significant time and effort in resolving a likely failure.
+In this instance, the Lenovo S12 Ideapad 802.11g wireless failure would have been difficult for a non-computer professional to diagnose.  In this case I have the experience and tools to identify the problem.  With the G530 the problem was more evident, and with competent and helpful Lenovo technical support, quickly identified the problem.  Getting these problems resolved were much more troublesome affairs.

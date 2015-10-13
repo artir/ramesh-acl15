@@ -1,0 +1,14 @@
+ID: B000FK850C-R3BM7ARVCR5VF6-A32K7TV2BF6RSO
+Category: SpaceHeaters
+Product: SH-1508-Tower-Ceramic-Heater-Ionizer
+ReviewerID: A32K7TV2BF6RSO
+ReviewerName: Andy H.
+Date: December 6, 2008
+Helpful: 2 of 2
+Rating: 4.0
+Title: Great after some customization
+Content:
+My store-bought Lasko bit the dust after only a few months, so I decided to try the heater I'd wanted to get in the first place - the SPT SH-1508.  For all of it's benefits, it suffers from the same problem as the Lasko - making a completely unnecessary LOUD BEEP every single time you press a button to do anything.  I got to thinking maybe I can get inside and disable or at least muffle the little speaker inside.  And that's what I did.
+I removed the back of the unit with a screwdriver and found that the speaker resides on the little circuit board underneath the top plate (where the buttons are).  I unscrewed the little circuit board from the plate to be able to reach the speaker.  I rolled a little electrical tape into a tiny cylinder and stuffed it in the hole in the speaker, then sealed it over with another square of tape.  Please note that taking the unit apart DOES void the warranty, but for me it's worth having quiet operation, which I now enjoy.  Also, if you're going to try this make sure the unit is UNPLUGGED first!
+Another thing that bugged me about the unit was their idea of "tip-over protection."  There's just a little spring-loaded switch that gets tripped if the bottom of the unit isn't flush against a hard surface.  Makes it annoying when you go to move the heater and it shuts off.  So again, a little tape and the switch is permanently in.  I can reposition the heater without interruption of operation.  Don't get me wrong, I think tip-over protection is a good idea, but there should be a sensor that checks to make sure the unit is up-right, not the cheap work-around they've implemented.
+So NOW I've got a heater I can live with.  The fan-only option is a great feature, although it's very weak.  Don't worry about the older complaints about the screen being too bright at night - the newer models now have the bright backlight shut off a few seconds after you press a button.  Who knows if the ionizer is for real or not.  I kind of doubt it, but I can pretend.

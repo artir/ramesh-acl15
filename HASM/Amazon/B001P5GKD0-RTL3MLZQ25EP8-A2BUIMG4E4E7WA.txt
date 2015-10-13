@@ -1,0 +1,20 @@
+ID: B001P5GKD0-RTL3MLZQ25EP8-A2BUIMG4E4E7WA
+Category: Laptops
+Product: MSI-GT627-216US-15-4-Inch-Laptop
+ReviewerID: A2BUIMG4E4E7WA
+ReviewerName: S. Middleton
+Date: August 2, 2009
+Helpful: 1 of 1
+Rating: 5.0
+Title: MSI GT627-216US... the straight dope!
+Content:
+So by now you've probably read a couple of reviews about this and other notebooks but can't make up your mind and are probably sitting on the fence because you don't like the bad press about the keyboard flex, low screen resolution or some other reason? Well, I did the same - in fact, I spent the best part of 4 straight months, pouring over review after review of notebooks that fitted my criteria only to find myself sitting on the fence, scared to take the plunge... after all, it's not every day you buy a notebook right?! Well, my aim in writing this review is to show you the light. I want to make it 100% clear, I do NOT work for MSI, in fact, I'm not even in the IT business at all. Simply put, this notebook is a piece of IT wizardry. It is by far, the best notebook, in it's class, IN THE WORLD! Here's why:
+CPU & Battery Life:
+Statistics are great. I'm a big fan of graphs, pie charts and percentages that tell you how much better one thing is from the another however, they don't always paint the whole picture. For example, the GT627 has a 2.2Ghz CPU while some of the other "performance" notebooks have a 2.7 Ghz CPU. Easy choice right? WRONG! The sheer brilliance behind the GT627 is the instant CPU "overclock" feature of the Turbo button - I'm not going to go into lengthly detail about this (there are plenty others sites and reviews that do) suffice to say that it gives you the performance you want when you're plugged in and gaming, and the flexibility of battery life when unplugged. You can expect 2.5 hours and up of battery life when you have the "Eco" mode engaged. This alone puts this notebook light years ahead of any other save those with solid state hard drives. 
+Weight & Size:
+Everyone knows, that weight counts - if you say it doesn't, your lying to yourself or not using a notebook as a notebook (get a desktop). At a mere 5.6 Lbs, the GT627 is weighty enough to feel substantial while with the 15.4" form factor, you don't have to sacrifice screen size. 
+Problems (Things they could've done differently):
+There are a few things that MSI could have done differently when making this notebook and I want to point them out here so you're aware of them. Keyboard flex is definitely an issue however there is a good fix for this (on notebookreview dot com) if you've got some patience and own a credit card, screwdriver and some double sided tape. Keyboard layout is also a bit cramped however seeing as you get a full numeric keypad on the right, I shouldn't really complain. The keyboard also has the FN key where the Ctrl key would normally be. This is annoying however again, with a little patience, I believe there is a bios fix for this available. Finally, the F keys and Up, Down, Left & Right arrows are all in dark red which makes them hard to see if lighting is low or your gaming and night with the lights off. If these are major deal breakers for you, get a usb/wireless keyboard. The DVD drive is also a little sticky when closing however I haven't had any functional issues with it so far. 
+Performance:
+I'm not even going to go into how well the GT627 performs other than to say, I achieved a 3DMark'06 score of 9429 running Windows 7 64bit - enough said.
+All in all, this must one of the best notebooks available today and at the price point there's nothing that comes close. It's stylish, functional and performance orientated but doesn't have any of the gimmicky garbage that most "gamer" notebooks come with. If you're like me and need a notebook that is light enough to travel with, powerful enough to game with and is aesthetically soft enough to take into a business meeting then you can expect to find it in the GT627. If not, then this rig isn't for you - enjoy the high price tag and flashing lights you'll find with the other brands. :)

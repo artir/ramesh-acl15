@@ -1,0 +1,17 @@
+ID: B002ONCBX0-R2MO1GRI5A1MWR-A36MD4KAVIPLB2
+Category: Laptops
+Product: Pavilion-DV6-1360US-15-6-Inch-Espresso-Laptop
+ReviewerID: A36MD4KAVIPLB2
+ReviewerName: T. Cramer
+Date: January 21, 2010
+Helpful: 
+Rating: 5.0
+Title: Nice Laptop - Actually has Decent Graphics
+Content:
+The kicker for me with this laptop is that it actually has a decent video card.  You're not going to be playing any demanding games with it, but for working with HD video it works quite well.  
+If you need a laptop that is capable of doing more than internet and office apps, this would be a wise choice.  A couple of things that make it stand out from other 'budget' laptops (this may cost a little more than most budget laptops, but the differences are well worth it in my opinion).
+- The P7450 processor has a 1066 MHz FSB, whereas most of the cheaper laptop processors (6000 line) are 866 MHz.  This equates to better data transfer.
+- The 4gb of ddr3 ram is faster and more efficient than traditional ddr2 ram.
+- As mentioned earlier, the HD4650 video card with 1 gb dedicated memory actually makes the laptop usable for lower end games and HD video.  This also frees up some RAM that would normally be used for any on-screen graphical display/videos.
+- The 500gb hard drive is 7200 RPM vs the common 5400 RPM speed.  This will also provide faster access data
+All of these items listed help increase the performance of the laptop.  Throw in Win7 x64 and this machine can fly.  I can't comment on the camera or sound as I have not used those features yet, but overall I would highly recommend this machine, possibly as a lower end desktop replacement.

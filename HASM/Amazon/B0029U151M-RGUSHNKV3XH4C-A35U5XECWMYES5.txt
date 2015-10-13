@@ -1,0 +1,13 @@
+ID: B0029U151M-RGUSHNKV3XH4C-A35U5XECWMYES5
+Category: Laptops
+Product: Acer-Aspire-4810TZ-4011-Timeline-14-0-Inch
+ReviewerID: A35U5XECWMYES5
+ReviewerName: Joe D
+Date: February 27, 2010
+Helpful: 
+Rating: 5.0
+Title: Mostly inaccurate reviews -- excellent laptop
+Content:
+I'm not usually one to post reviews, but I feel the need to since the majority of the existing reviews are completely inaccurate.
+BOTTOM LINE: This is an excellent laptop. HOWEVER, you're going to need to format and install a fresh copy of Windows the moment that you unbox the product. When I turned it on for the first time, it was an absolute snail. I immediately formatted, threw on a fresh copy of Windows 7 x64, and proceeded to do a victory dance around the house. It's smoking fast and runs just about anything and everything I throw at it. From just daily use all the way through web development and a light game here and there -- this laptop won't disappoint you.
+I was and still am pleasantly surprised. I'd never been inclined to buy an Acer in the past, but I sure am happy that I did this go around.

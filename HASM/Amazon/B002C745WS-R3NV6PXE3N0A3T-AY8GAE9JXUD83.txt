@@ -1,0 +1,14 @@
+ID: B002C745WS-R3NV6PXE3N0A3T-AY8GAE9JXUD83
+Category: Laptops
+Product: Apple-MacBook-MC226LL-17-Inch-Laptop
+ReviewerID: AY8GAE9JXUD83
+ReviewerName: Kennedy Brandt "Homeworld"
+Date: January 25, 2010
+Helpful: 
+Rating: 5.0
+Title: A stunning piece of hardware
+Content:
+I would agree with another review who refers to this as the best laptop he's ever owned, except that I have to go one further.  It's the best computer (in any form) that I've ever owned.  Sleek, fast, and solid, the 1920x1200 LED-backlit display, incredibly long-lasting battery, and multitouch glass trackpad are among the specific highlights for me.  The cool-running Penryn processor is peppy and highly efficient, and I appreciate that it still has an ExpressCard/32 slot (which I can populate with an SD reader, if I like) while the rest of the line went over to a fixed SD port.
+The only option I went with was the antiglare display, which is bright, clear, and easy on the eyes for a full day at a time.  Everything else -- even a baseline 4GB DRAM and 500GB drive -- was already included.
+It's been interesting to compare this machine to the new Dell that I acquired at work in the same week, running the same processor and the same amount of memory at half the price, over the three months that I've been using both machines.  The Dell falls tremendously short elsewhere in the specs department, but to be fair, it is just a business clunker.  Sure, it cost half as much...  but you absolutely get what you pay for.  This MacBook Pro is a masterpiece of hardware design and engineering.  I've posted a more detailed comparison at [...], if interested.
+This review is supposed to be about the computer, or I'd have to comment on Snow Leopard (Mac OS X 10.6), too.  Suffice to say, it's elegant, ingenious, and spectacular.

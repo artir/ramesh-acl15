@@ -1,0 +1,23 @@
+ID: B0013FJBX8-R1U8SF6C30YC4J-A3EMEBM2P6LZCV
+Category: Laptops
+Product: Apple-MB470LL-15-4-Inch-Processor-SuperDrive
+ReviewerID: A3EMEBM2P6LZCV
+ReviewerName: Brad Marx "The Doctor"
+Date: February 12, 2009
+Helpful: 6 of 6
+Rating: 4.0
+Title: Dripping with Awesome Sauce
+Content:
+In the interest of full disclosure, I should say that my last laptop was an Acer Aspire 1640 (budget laptop) and that this is my first premium laptop. So, you can take my gushing with the appropriate amount of salt. 
+That said, I really love the new Macbook Pro. It is a big plate of fantastic smothered in awesome sauce.
+-Multi Touch-
+While you won't be pinching and zooming all your apps or flicking windows around, multitouch scrolling, expose and right-click/CTRL-click all work really well. In fact, I held out from buying a Mac laptop because of the one button silliness. No buttons however, works like a dream. And the mutlitouch trackpad is pretty configurable to boot. I configured it to recognize a 2 finger tap as a right-click. It has spoiled me. I have a hard time using laptops w/o multitouch now.
+-Battery Life-
+They weren't kidding about the increased battery life. I get about 5 hours of design/coding/surfing time. I'm sure that watching videos and listening to music would impact that noticeably. But compare my 5 hour battery life to the 2 hour life of a friend's last gen Macbook Pro under the same usage. BTW, I have not changed the default performance settings or screen brightness for battery powered usage. 
+-Display-
+The glossy screen may urk those used to a matte screen but I have always had glossy so it doesn't bug me. Aside from that, the screen looks great and seems on par with other glossy laptop screens--not noticeably better or worse really--and the color on it looks pretty good with no calibration. The black bevel adds a certain something to the experience and makes the screen feel bigger. There is a setting "Automatically adjust brightness for ambient lighting" which is on by default. While ingenious, for me, it fell into the too clever for their own good column as it made the display brightness change rapidly in any situation where the light was not consistent--such as a coffee shop where people frequently pass behind you blocking light. So I turned it off.
+-Mini Display Port-
+While it's great that the new display port allowed them to make the body slimmer or whatev, I have to say it stings a little knowing that I need a $30 dongle to hook it up to an external monitor while my buddy just plugs it in. It doesn't help the feeling knowing that previous generations of mac laptops (like the iBook) came with such dongles for free. Additionally, the DRM that is built into this port almost made this laptop a deal breaker. Not that I watch movies on external displays that are not compliant. I honestly don't even know if I own such a device. My problem is that DRM is such a ridiculous waste of resources and having it built into the hardware offends me to no end. To. No. End. 
+-Other Thoughts-
+The performance is great even on battery power and even with a lot of apps open. The new body is very cool. It feels very sturdy, like all Macbooks, and looks really slick. I love the back-lit, black, chicklet keyboard that lights up based on the amount of ambient light. I also really dig that the new Macbook Pro is more environmentally friendly than the previous line and the packaging that it comes in is barely bigger than the laptop itself.
+This laptop is definitely the most awesome that I have ever used with only the aforementioned display issues holding me back from calling it absolutely perfect. Apple scores again.

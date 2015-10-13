@@ -1,0 +1,19 @@
+ID: B000KLZ5CW-R464Z6I0877R6-A292R8T96ZOEOK
+Category: AirConditioners
+Product: Whynter-12-2c000-2dBTU-Portable-Conditioner-Platinum
+ReviewerID: A292R8T96ZOEOK
+ReviewerName: W. Parker
+Date: February 28, 2010
+Helpful: 
+Rating: 1.0
+Title: Don't believe its product specifications
+Content:
+I recently purchased this A/C unit to replace my 14.4 EER Amcor NanoMax A12000E portable A/C unit (which is no longer manufactured).
+Pros: It cools my room quickly and it seems to be true to its BTU rating.
+Cons:
+I am very disappointed with this unit. According the product specifications of the Whynter SNO 12,000-BTU ARC-12D, it has a power consumption of 950 watts, which would give it an EER rating of 12.6 (12000/950). But after testing the unit with my watt meter, the unit reached 1,127 watts in cooling mode, even on a low fan setting. That would give it an EER as low as 10.6 (12000/1127). Even though the power factor is about 0.98, it puts too much of a load on my electrical circuit, which is shared between two rooms with computers, printers, and lighting. I have to power down the electrical equipment in one room to run this unit.
+The specifications also claim that the noise level is 51.5 dBA. This machine is louder than my Amcor unit, which had a noise rating of 65 dBA. The unit is for my bedroom, and it is too loud to allow me to sleep.
+Another problem, is that this unit has a 5 degree temperature slack. For example, if you set the temperature setting to 72 degrees, the unit will only start cooling at 77 degrees, and stop cooling at 72 degrees. This causes the temperature to fluctuate repeatedly from 72-77 degrees when it is set at 72 degrees, which is completely unacceptable.
+A smaller problem would be the tubing and the window kit. Most A/C units use an adapter for connecting to the window slider in order to reduce the width of the slider. The window slider for this unit is too wide. In order to make it work, I have to either use an adapter from another brand of unit, or replace my window blinds with vertical blinds. I have opted to change out my blinds. In addition, the unit uses an adapter to connect to back of the unit. The problem is that I cannot move the unit close to the wall because the tubing sticks out too far.
+Since I cannot return my unit back to the vendor, I have no choice but to sell the unit and get another brand. 
+Summary: I do not recommend this product. I will never trust Whynter products again.

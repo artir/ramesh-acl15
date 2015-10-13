@@ -1,0 +1,13 @@
+ID: B000CRX6YI-R30BL1PQXGH9DN-A34Y4RVNYBO0JX
+Category: DigitalSLRs
+Product: Nikon-10-2MP-Digital-18-70mm-3-5-4-5G
+ReviewerID: A34Y4RVNYBO0JX
+ReviewerName: Lee Cooper
+Date: January 8, 2008
+Helpful: 0 of 4
+Rating: 4.0
+Title: a few disappointments
+Content:
+I was surprised that the battery charger provided with the camera is only rated to run on 110V US current.  So a purchaser in the US has to pack a transformer to use it outside the US, Canada and Panama. Even inexpensive camera battery rechargers will run on up to 240V, so I don't understand why the recharging system isn't more international travel-friendly. 
+Some of this may be my learning curve, but I have found the autofocus settings to be counterintuitive.  A significant fraction of the first several hundred images I shot with the camera did not focus as I intended despite varying the autofocus settings, attempting to focus manually, etc. 
+My impression after a couple weeks of use is that it is a powerful imaging platform though, and results improved with use.

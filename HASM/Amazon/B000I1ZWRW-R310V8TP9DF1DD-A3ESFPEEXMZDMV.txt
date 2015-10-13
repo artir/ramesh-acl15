@@ -1,0 +1,12 @@
+ID: B000I1ZWRW-R310V8TP9DF1DD-A3ESFPEEXMZDMV
+Category: DigitalSLRs
+Product: Canon-Digital-10-1MP-Camera-Body
+ReviewerID: A3ESFPEEXMZDMV
+ReviewerName: Ricardo Lopes "IT Manager"
+Date: June 16, 2007
+Helpful: 36 of 210
+Rating: 1.0
+Title: Useless LCD Display
+Content:
+Please note that the LCD display can only be used to check camara settings and play back images.  You can not use the LCD display as a view finder.  In other words you can not frame your pictures using the LCD display. This is a mayor inconvenience for those of us that use the LCD display to compose the pictures.
+In my opinion there is no need to have such a large LCD for changing camera settings.  This feature waists battery power.

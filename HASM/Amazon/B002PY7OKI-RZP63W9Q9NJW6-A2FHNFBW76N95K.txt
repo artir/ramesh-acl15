@@ -1,0 +1,34 @@
+ID: B002PY7OKI-RZP63W9Q9NJW6-A2FHNFBW76N95K
+Category: Laptops
+Product: Dell-Inspiron-15-6-Inch-Black-Laptop
+ReviewerID: A2FHNFBW76N95K
+ReviewerName: K. J. Jensen
+Date: November 21, 2009
+Helpful: 100 of 105
+Rating: 3.0
+Title: Powerful Windows 7 Laptop, but a Few Software Issues
+Content:
+The performance of this laptop is outstanding compared to most laptops in the price range.  It's unfortunate that Dell decided to preload Mcafee's security suite on the machine. Uninstalling Mcafee disables your network connection preventing you to get online.  Reading up on this machine, it seems many people have this issue with the Mcafee suite.  After reinstalling all of the software, this machine is pretty speedy.  If you aren't sure how to reinstall Windows and all of the applications, be prepared to pay for subscriptions to Mcafee.  You will be permanently offline if you choose to remove it.
+The webcam will keep kids entertained for hours with its facial recognition software.  You can put goofy hair, hats, and other decorations on your face real-time.  Not really a practical feature, but it is pretty cool.
+Aside from software bugs on the machine, this is an awesome computer, and it feels quite sturdy.  It seems to be a pretty solid machine, and I think I will enjoy having it.
+Pros
+Windows 7 runs well.
+Wonderful widescreen display
+Plenty of ram (4gb)
+Speedy processor for a laptop
+Built in webcam software with facial recognition is awesome!
+Battery life is decent for a machine this size.
+Machine runs very quiet.
+Keyboard is very quiet, and buttons are easy to press.
+Very attractive computer.
+Cons
+Built-in Mcafee software disables your network connection if you uninstall it.
+Dell includes reinstallation discs, not recovery discs.
+Most of the pre-loaded apps cannot be reinstalled from their DVDs if you choose to reinstall windows.
+Glossy finish on the inside of the laptop is prone to fingerprints/smudges.
+Lack of dedicated media buttons (shared with F1-F12 keys)
+No HDMI
+No Bluetooth
+No Blu-ray
+Only 3 USB ports
+Lack of 10 keypad

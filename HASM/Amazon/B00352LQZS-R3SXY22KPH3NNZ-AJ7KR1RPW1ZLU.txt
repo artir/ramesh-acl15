@@ -1,0 +1,20 @@
+ID: B00352LQZS-R3SXY22KPH3NNZ-AJ7KR1RPW1ZLU
+Category: Laptops
+Product: N61JQ-X1-16-Inch-Versatile-Entertainment-Laptop
+ReviewerID: AJ7KR1RPW1ZLU
+ReviewerName: Lost & Found
+Date: April 10, 2010
+Helpful: 1 of 1
+Rating: 5.0
+Title: Mobile Desktop
+Content:
+Pros: 
+Value, Speed, LED Display, USB3, Latest Components (Core i7-720QM, DDR3 Memories, and 1333 MHz BUS), Reliable Manufacturer 
+Cons: 
+Cooling system
+There is always something missing in Sub $1000 Laptops that make your system old in 2 years and slow to work in 3 years. The game is that Laptop manufacturers are making sure that you will come back for a new system in about 3 years. If you spend more, you improve quality of your usage on faster components, and not necessarily the life time of your machine. Laptops will generally last about 3 years on average.
+What you get from this Laptop is that allows you to extend the life time of your usage for an additional 8-12 months without compromising on speed and quality of your usage. Asus is a good manufacture, however still there is no assurance that all components will work for the life time of Laptop. Nevertheless you are paying just enough to enjoy a 3 years of speedy processing and gaming, any time longer should be a bonus for you!
+Suggestions:
+If your System or BIOS does not recognize the 4GB of memories, and shows only 2GB, Restore the BIOS to Default (move the battery and press and hold the start key for 5 second to discharge before you turn it back on again) or call ASUS.
+Asus should really think about the location of Fan or Fan auxiliary, however make sure you don't block it, especially when you place it on your lap. 
+Dear Asus please include a copy of WIN 7 CD, perhaps we don't care to have all pre-loaded junks.

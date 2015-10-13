@@ -1,0 +1,11 @@
+ID: B001NEJO0Y-R2BO4M3H0I9VRZ-A1S5MLTT0DYY9N
+Category: Laptops
+Product: Toshiba-Satellite-A305-S6908-15-4-Inch-Laptop
+ReviewerID: A1S5MLTT0DYY9N
+ReviewerName: Hongxing Yao
+Date: March 5, 2009
+Helpful: 3 of 15
+Rating: 2.0
+Title: too heavy and not my style
+Content:
+this is not what I was looking for.  The style and weight looks like an old laptop. If you use it to replace desktop, it would be ok, otherwise find something else. I installed two more OSs, Fedora 10 and Ubuntu 8.10, I  had some trouble for doing that, but eventually I got there with initial boot loader error.  If you are pro for software development, get Dell M1330.  They are not the same price range, but the extra money is worth for the value you get.

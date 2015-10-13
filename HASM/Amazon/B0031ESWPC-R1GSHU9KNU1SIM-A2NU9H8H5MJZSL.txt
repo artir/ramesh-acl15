@@ -1,0 +1,16 @@
+ID: B0031ESWPC-R1GSHU9KNU1SIM-A2NU9H8H5MJZSL
+Category: Laptops
+Product: TouchSmart-TM2-1070US-12-1-Inch-Riptide-Argento
+ReviewerID: A2NU9H8H5MJZSL
+ReviewerName: Telstar
+Date: March 17, 2010
+Helpful: 4 of 12
+Rating: 2.0
+Title: No improvement over TX series
+Content:
+This is not an improvement over other HP tablets.
+1.  The viewing angle in tablet mode is completely unusable.  You have to hover right over the screen or the colors and details get lost.  In short, this has a very, very narrow viewing angle.  This is one of the promised corrections of new devices such as the iPad and the Fujitsu series tablets.
+2.  There is minimal improvement of processing speed over the Tx2 series.  The drive at 7200 rpm helps, but it is rather a disappointment.
+The good news is that the battery lasts quite a long time (ca. 4 hours with media, do not believe the 9 hour claim).
+This was a huge disappointment overall.
+In tablet mode you have to rotate the tablet backside so the back is now front if you connect a ceiling (classroom) mounted projector...someone needs to write a driver that rotates the tablet view independently of the VGA out signal.

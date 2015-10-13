@@ -1,0 +1,11 @@
+ID: B002LF10GA-R1G6N0STJDZ43F-A2I24J92FSSLXR
+Category: Laptops
+Product: Acer-Aspire-AS1410-8913-11-6-Inch-Laptop
+ReviewerID: A2I24J92FSSLXR
+ReviewerName: O. Elmore
+Date: September 19, 2009
+Helpful: 10 of 35
+Rating: 2.0
+Title: Does everything a little but does nothing well
+Content:
+The best description of it is that it's what a netbook should be but not a fully-functioned laptop. The worst description is that it's a failed gimmick. Acer tried but the result is a device that is probably over-powered for its size; the individual components aren't supported by the just-as-important infrastructure tying the components together. I had to send mine back; the heatsink clattered to beat the band whenever the graphics setup (which includes more than the card itself) worked even the least bit hard. The wi-fi may be in name a draft-N but it dropped constantly only two rooms away from my router. And it's an ugly little device; the top seems to be from one computer and the bottom from another, as if someone put a hamburger bun top on a sliced-bread bottom. You could not call the video a moving picture - instead it was a series of stuttering still images. I think Netflix was reading a more capable graphics setup and so was sending a higher-quality video signal than the machine could actually handle. I'm not certain of that, but I am certain that he result was a worse, less-watchable picture than my Asus netbook. Sorry to be the party-pooper but this was my experience.

@@ -1,0 +1,103 @@
+java -Xmx1024m -cp "./lib/*" meka.classifiers.multilabel.RAkEL -P 0 -N 0 -x 10 -R -t data/data-all/relevance-coarse-sentiment.arff -threshold PCutL -W weka.classifiers.functions.SMO -M 10 -k 3 -f output/level2/output.txt -verbosity 10
+
+|==== PREDICTIONS ===============>
+|==============================<
+Classifier_name      : meka.classifiers.multilabel.RAkEL
+Classifier_ops       : [-P, 0, -N, 0, -W, weka.classifiers.functions.SMO, --, -C, 1.0, -L, 0.0010, -P, 1.0E-12, -N, 0, -V, -1, -W, 1, -K, weka.classifiers.functions.supportVector.PolyKernel -C 250007 -E 1.0, -k, 3, -M, 10]
+Classifier_info      : {[0, 1, 6][5, 7, 12][3, 6, 11][0, 1, 7][1, 9, 10][5, 7, 11][1, 3, 6][2, 5, 11][4, 7, 12][0, 3, 6]}
+Dataset_name         : relevance-coarse-sentiment
+Type                 : CV
+Threshold            : [3.0, 1.0E-5, 1.0E-5, 1.0E-5, 1.0, 1.0E-5, 1.0E-5, 3.0, 1.0E-5, 1.0, 1.0E-5, 0.5, 2.0]
+Verbosity            : 10
+N(test)              : 201.4 +/- 0.516
+L                    : 13 +/- 0    
+Accuracy             : 0.8   +/- 0.02 
+Hamming score        : 0.934 +/- 0.008
+Exact match          : 0.661 +/- 0.031
+Jaccard dist         : 0.2   +/- 0.02 
+Hamming loss         : 0.066 +/- 0.008
+ZeroOne loss         : 0.339 +/- 0.031
+Harmonic score       : 0.877 +/- 0.013
+One error            : 0.088 +/- 0.028
+Rank loss            : 0.1   +/- 0.009
+Avg precision        : 0.408 +/- 0.014
+Log Loss (max L)     : 0.138 +/- 0.012
+Log Loss (max D)     : 0.286 +/- 0.026
+F1 micro avg         : 0.854 +/- 0.017
+F1 macro avg, by ex. : 0.849 +/- 0.016
+F1 macro avg, by lbl : 0.518 +/- 0.011
+Percent no-labels    : 0     +/- 0.002
+Accuracy[0]          : 0.9   +/- 0.024
+Harmonic[0]          : 0.898 +/- 0.026
+Precision[0]         : 0.823 +/- 0.068
+Recall[0]            : 0.891 +/- 0.048
+Accuracy[1]          : 0.94  +/- 0.02 
+Harmonic[1]          : 0.848 +/- 0.051
+Precision[1]         : 0.812 +/- 0.09 
+Recall[1]            : 0.756 +/- 0.079
+Accuracy[2]          : 0.98  +/- 0.009
+Harmonic[2]          : 0     +/- 0    
+Precision[2]         : 0     +/- 0    
+Recall[2]            : 0     +/- 0    
+Accuracy[3]          : 0.991 +/- 0.011
+Harmonic[3]          : NaN +/- NaN
+Precision[3]         : 0     +/- 0    
+Recall[3]            : 0     +/- 0    
+Accuracy[4]          : 0.926 +/- 0.012
+Harmonic[4]          : 0.931 +/- 0.01 
+Precision[4]         : 0.86  +/- 0.032
+Recall[4]            : 0.986 +/- 0.009
+Accuracy[5]          : 0.977 +/- 0.01 
+Harmonic[5]          : 0     +/- 0    
+Precision[5]         : 0     +/- 0    
+Recall[5]            : 0     +/- 0    
+Accuracy[6]          : 0.952 +/- 0.012
+Harmonic[6]          : 0.018 +/- 0.057
+Precision[6]         : 0.1   +/- 0.316
+Recall[6]            : 0.01  +/- 0.032
+Accuracy[7]          : 0.966 +/- 0.017
+Harmonic[7]          : 0.968 +/- 0.015
+Precision[7]         : 0.941 +/- 0.044
+Recall[7]            : 0.986 +/- 0.01 
+Accuracy[8]          : 0.904 +/- 0.015
+Harmonic[8]          : 0     +/- 0    
+Precision[8]         : 0     +/- 0    
+Recall[8]            : 0     +/- 0    
+Accuracy[9]          : 0.843 +/- 0.027
+Harmonic[9]          : 0.821 +/- 0.044
+Precision[9]         : 0.632 +/- 0.058
+Recall[9]            : 0.789 +/- 0.081
+Accuracy[10]         : 0.849 +/- 0.02 
+Harmonic[10]         : 0.677 +/- 0.058
+Precision[10]        : 0.695 +/- 0.111
+Recall[10]           : 0.535 +/- 0.072
+Accuracy[11]         : 0.954 +/- 0.011
+Harmonic[11]         : 0.956 +/- 0.009
+Precision[11]        : 0.988 +/- 0.009
+Recall[11]           : 0.927 +/- 0.018
+Accuracy[12]         : 0.954 +/- 0.011
+Harmonic[12]         : 0.956 +/- 0.009
+Precision[12]        : 0.92  +/- 0.029
+Recall[12]           : 0.985 +/- 0.011
+LCard_pred           : 2.909 +/- 0.032
+LCard_diff           : 0.091 +/- 0.032
+LCard_diff[0]        : -0.025 +/- 0.036
+LCard_diff[1]        : 0.01  +/- 0.016
+LCard_diff[2]        : 0.02  +/- 0.009
+LCard_diff[3]        : 0.009 +/- 0.011
+LCard_diff[4]        : -0.062 +/- 0.015
+LCard_diff[5]        : 0.023 +/- 0.01 
+LCard_diff[6]        : 0.046 +/- 0.015
+LCard_diff[7]        : -0.021 +/- 0.023
+LCard_diff[8]        : 0.096 +/- 0.015
+LCard_diff[9]        : -0.057 +/- 0.034
+LCard_diff[10]       : 0.049 +/- 0.046
+LCard_diff[11]       : 0.034 +/- 0.014
+LCard_diff[12]       : -0.032 +/- 0.014
+N_train              : 1812.6 +/- 0.516
+N_test               : 201.4 +/- 0.516
+LCard_train          : 3     +/- 0    
+LCard_test           : 3     +/- 0    
+Build_time           : 4.133 +/- 0.171
+Test_time            : 0.039 +/- 0.025
+Total_time           : 4.172 +/- 0.186

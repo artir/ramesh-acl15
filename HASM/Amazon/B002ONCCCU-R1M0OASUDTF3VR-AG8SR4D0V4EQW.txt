@@ -1,0 +1,11 @@
+ID: B002ONCCCU-R1M0OASUDTF3VR-AG8SR4D0V4EQW
+Category: Laptops
+Product: G60-530US-15-6-Inch-Black-Silver-Laptop
+ReviewerID: AG8SR4D0V4EQW
+ReviewerName: Everyday Guy "Big Al"
+Date: December 27, 2009
+Helpful: 2 of 2
+Rating: 2.0
+Title: Audio and Microphone Problems G60-530US
+Content:
+Started it up on Christmas day only to find it had serious audio problems.Everything is working great except the audio recording system is terrible. Using an external mic is OK, but he speakers are also lacking, not expected since they are altec lansing. Spent an hour online with HP service tech only to be told to return the unit. Otherwise unit is OK, very nice display and webcam, though I find teh speed a little slow.

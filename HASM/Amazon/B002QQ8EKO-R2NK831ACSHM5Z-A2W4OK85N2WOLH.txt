@@ -1,0 +1,22 @@
+ID: B002QQ8EKO-R2NK831ACSHM5Z-A2W4OK85N2WOLH
+Category: Laptops
+Product: Apple-MacBook-MC207LL-13-3-Inch-Laptop
+ReviewerID: A2W4OK85N2WOLH
+ReviewerName: J. Piev
+Date: April 1, 2010
+Helpful: 1 of 3
+Rating: 3.0
+Title: Good but over priced
+Content:
+I have owned my Macbook for a year now and on the whole am happy with it however I'm still not convinced it was worth the additional money.
+I use the macbook for work, surfing the web, email, photos, music and watching DVDs and take it with me travelling quite a bit.
+I was nervous at first about switching to a mac given that I'm not very knowledgable about I.T. and that I work a lot from home and on the road and need to edit and send MS Office documents and remote connect to my work PC.  This has proven to be very straightforward.  I have windows XP installed via bootcamp (it was easy to do) and initially used this for work stuff but have actually found that I don't need to and there are no compatibility issues between a mac and a PC provided you have MS Office for Macs installed.  
+For surfing the web I've found this to be a big improvement over a PC laptop.  Airport makes it about 4 million times easier to connect to a wifi network than on a windows PC.  If there is a Hell it is being in a hotel room in a foreign country trying to get windows and the local wifi network to speak to each other.  Not so with the mac, which is a big plus.  Safari and Firefox are both very easy to use
+The form factor of this computer was one of the main attractions for me and it is a huge improvement over my bulky PC laptop.  The battery life isn't as good as I had hoped though so I quite often need to take the adaptor with me as well which takes up a lot of extra room.
+My biggest gripe about working on the macbook is that the screen is really too small for working on documents and this is particularly bad when using remote access, which will not occupy more than 1/3 of the macbook's screen.  Also there is no "maximise window" button so you have to click and drag the individuals windows which quite often means you accidentally trigger the pop-up tool bar that the botton of the screen. 
+The downloads and documents folders take a bit of getting used to and I often have trouble finding what I've downloaded.
+Iphoto is a shocker. It opens itself every time I connect an ipod or iphone and the photos are not organised in an intuitive way.  The facial recognition system doesn't seem to work at all.
+This brings me to the DVD player, my biggest gripe by far.  As with other laptops, Apple have region coded the DVD player and kindly "allow" you to change the region 5 times.  This is a laptop. It is portable. Like most travellers I take it with me when I travel, and I buy DVDs to watch on the road.  Thanks to this stupid system I actually have to go find pirated DVDs that don't have region encoding, or download movies from the internet.  Good one, Apple.  My other complaint is that the DVD software is buggy.  I get a message in the top left of the screen saying "skipping over damaged area" even with new DVDs, and quite often the control buttons don't work.
+Other things: the aluminium case looks severely battered after one year of use.  I don't go out of my way to look after it although I do take reasonable care.
+After 6 months the harddrive crashed and had to be replaced and I lost a lot of data/ photos etc.  I now use time machine to back up regularly.
+And of course there is the price. For the additional money you get a laptop with a great form factor and OSX.  Both are big plusses but on the whole I would say not worth paying double what a PC laptop would cost.

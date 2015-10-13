@@ -1,0 +1,14 @@
+ID: B001NPDKWQ-R1323A7NGPE7OQ-A283Z4TVUJOQ1Q
+Category: Laptops
+Product: Pavilion-DV6-1050US-16-0-Inch-Processor-Premium
+ReviewerID: A283Z4TVUJOQ1Q
+ReviewerName: A. Pryor
+Date: July 4, 2009
+Helpful: 5 of 7
+Rating: 1.0
+Title: FAULTY BIOS UPGRADE, brand new laptop won't turn on
+Content:
+I've bricked my brand new HP DV6 1030 US only one week after I bought it (dead won't power on). The HP Update tool recommended that I upgrade the BIOS. RIght after I confirmed the upgrade, I got the "Verify Error" and Windows frozen, fan running like crazy, HD light blinking like crazy and I couldn't  even turn the computer off. I had to remove the AC adapter and battery to force computer to turn off. The error caused the computer to crash permanently. This is happening now, and HP still has the faulty BIOS update on its website. 
+After hours of chatting and emailing with HP support with HP support I've realized it was a waste of time and decided the best thing to do was to return this defective product and get a refund to buy another computer/brand until this problem is resolved. 
+See this thread for more information at the HP Forums, unfortunately you will find many victims with this exact problem.
+good luck!

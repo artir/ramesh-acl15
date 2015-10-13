@@ -1,0 +1,12 @@
+ID: B00336EFXG-R1GE94ZXDGPI8L-A3TMRZXYWBZI0F
+Category: Laptops
+Product: Acer-Aspire-AS7740-6656-17-3-Inch-Display
+ReviewerID: A3TMRZXYWBZI0F
+ReviewerName: C. Norais
+Date: April 10, 2010
+Helpful: 
+Rating: 5.0
+Title: Very happy with it
+Content:
+I bought it 3 weeks ago and am very happy with it. 
+I run it with Ubuntu (need to upgrade to the latest kernel and Xorg to have the graphic card recognized properly) and everything is very stable and efficient so far. The machine doesn't heat much and is pretty silent, even under high CPU load. It's a very good desktop replacement but not a gaming computer. The screen is sharp and bright. I can work on it the whole day without getting tired. I would recommend it for the budget ($700) if you are looking for a desktop replacement/transportable office computer.

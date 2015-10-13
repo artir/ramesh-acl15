@@ -1,0 +1,17 @@
+ID: B00081KFYM-R1EBRMWFT7O3NP-A1N0O0BXYZTDON
+Category: DigitalSLRs
+Product: Nikon-D2HS-Megapixel-Digital-Camera
+ReviewerID: A1N0O0BXYZTDON
+ReviewerName: JP1984 "Jason"
+Date: June 11, 2006
+Helpful: 8 of 11
+Rating: 4.0
+Title: Speed
+Content:
+I just thought I'd point out that this is a sports camera with an amazing buffer + continuous shooting mode.  Here are the specs:
+* Continuous High [CH] - 8 fps
+* Continuous Low [CL] -1 to 7 fps (programmable)
+* Buffer size 50 JPEG frames, 40 NEF (RAW) frames * 
+THIS is the only reason to buy this camera over the D1X or D70.  But if you're looking for a great studio camera, the D1X won't let you down, and if you're just getting into DSLR's, the D50/ D70 are great bodies to get started on.
+Thanks for reading!
+-Jason

@@ -1,0 +1,12 @@
+ID: B000OMH58E-R243ZAG8I7YAS0-A1N9RBHBK3XTPL
+Category: Laptops
+Product: Toshiba-Satellite-P205-S6237-Processor-SuperMulti
+ReviewerID: A1N9RBHBK3XTPL
+ReviewerName: R. Sherman "badgn"
+Date: January 1, 2009
+Helpful: 
+Rating: 3.0
+Title: Beautiful Screen But Super Slow
+Content:
+I owned this laptop for over a year.  The screen is excellent and my wife and I love watching movies in bed.  The computer runs very slow on vista in terms of transitioning from log in identities and also at start up.  I have not had any problems with this PC but we consider ourselves light users because the laptop does not move much.  Battery life now runs about 1.5 hours if that.  
+Memory upgrade:  pay close attention to your memory upgrade purchase.  This laptop only supports 2 GB max (Vista 32 bit) and you must use both slots (1GB per slot).  I tried to upgrade to 4GB of Crucial memory but the following happened:  1).  Laptop did not start with both 2GB slots full.  2). I had to put the 2GB module in the lower slot (one nearest pc board) or the laptop would not start up. It did not recognize the 512MB stick in the top slot.  I lost my wireless connection and the computer did not run any faster. I think I also had a low battery issue.

@@ -1,0 +1,11 @@
+ID: B00005LEXI-RK1LE7O0B6V74-AYNW1FRE2QD63
+Category: SpaceHeaters
+Product: Mr-Heater-MRHF273400-Buddy-Portable
+ReviewerID: AYNW1FRE2QD63
+ReviewerName: Michael Jazwiecki
+Date: January 16, 2005
+Helpful: 20 of 33
+Rating: 2.0
+Title: Reply about Lack of filter ruined my heater.
+Content:
+When I pulled my heater out to use it the pilot wouldn't light. I diagnosed my problem to be the regulator, not the control valve. The guy's statement about using a trap (filter) for 20lb tanks is incorrect.  If what he said was true why isn't there a trap (filter) on every gas grill, outdoor heater, and any other appliance that normally uses a propane tank other than the 1lb tank? The reason for the trap (filter) is when the gas supply is delivered by iron pipe. Initially the pipe has oil inside it due to the manufacturing process and to prevent it from rusting before it is put into use. The viscosity of the oil is heavy so the trap (filter) collects this oil and later any scale that may occur from the inside surface of the pipe. Without the trap (filter) the oil or particles of scale could end up in the control valve preventing it from operating properly. If you use copper lines or a rubber gas line there isn't any need for a trap(filter).

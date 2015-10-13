@@ -1,0 +1,13 @@
+ID: B002BDU8WO-R2USQZODN51RC6-A2BD5XY466L94E
+Category: Laptops
+Product: Toshiba-Satellite-L505-S6959-16-0-Inch-Laptop
+ReviewerID: A2BD5XY466L94E
+ReviewerName: meisjevanleuven
+Date: March 31, 2010
+Helpful: 
+Rating: 2.0
+Title: lousy repair service
+Content:
+I bought this laptop a few months ago, and it worked just fine until recently when it started having problems recharging. I subsequently discovered that Toshiba does not have a helpful repair system. I called Toshiba twice. The second time it was determined that the problem was the battery, but even though I told them I was going to be out of the country a week later, and had already made a service call a week earlier, they were not willing to send me a new battery in less time than ten business days, so not in time for me to take my computer with me, even though it was still under warranty. 
+It was also not possible to just go to a service center in my area to have the battery replaced because the policy is that all the computers of this type are sent to Toshiba depot for repair. 
+So, no matter what problem one may run into, it will take a mimumum of ten business days to have it fixed, which implies that this computer is not a good option for people who cannot miss their computer for that much time.

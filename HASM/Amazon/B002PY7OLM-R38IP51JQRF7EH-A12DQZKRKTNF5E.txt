@@ -1,0 +1,38 @@
+ID: B002PY7OLM-R38IP51JQRF7EH-A12DQZKRKTNF5E
+Category: Laptops
+Product: Dell-Inspiron-15-6-Inch-Black-Laptop
+ReviewerID: A12DQZKRKTNF5E
+ReviewerName: Andrea L. Polk
+Date: November 29, 2009
+Helpful: 55 of 56
+Rating: 4.0
+Title: Good Mid-Range Laptop Choice for Students and Casual Users
+Content:
+I've owned several laptops and would be considered an intermediate to advanced computer user. I've built my own desktops, tweaked a few laptops and owned various brands of laptops including HP, Fujitsu, Sony and Dell (Inspiron, Latitude and XPS series). 
+I purchased this exact laptop directly from Dell (got a better deal than current Amazon pricing) based upon Consumer Report's November 2009 article recommendations where the Dell Inspiron 1545 was rated a 'Best Buy' for every day computing. I purchased it for my husband who will use it primarily for watching an occasional movie from Netflix streaming wirelessly on our home network, emailing to share jokes and videos with his friends, and browsing the Internet. 
+After setting it up, which other than running into a snag with my home network was a breeze, and playing with it for about an hour, these are my impressions. 
+The PROS: 
++ Comes with Windows 7 - no need to upgrade, and the 64-bit combined with the more than adequate memory makes things move nicely. Slightly different than Vista's look, but should be easy to use. 
++ Adequate hard drive (mine came with a 320) for storing photos, videos and music. 
++ Great 1.3mp webcam which delivers pretty nice snapshots (not too grainy) as well as excellent video (very little drag of movement). 
++ Good speakers! Better than those on my Dell XPS, for which I paid 30% more less than a year ago. 
++ 3 usb ports 
++ Bright 15.6" display; nice size. I sometimes find the 13" on the XPS too small and the Fujitsu had a 17" which is fine for a desktop replacement but really adds weight to the overall unit. 
++ Virtually silent running. No fan noise to speak of and yet... 
++ Stays cool to the touch! Not worried about overheating on this one. 
+The CONS: 
+- Keyboard is OK, but not as responsive as some others I've used. 
+- The touchpad seems a tad small and the buttons (left/right click) seem too low by comparison to the keyboard. It could be the size of my hands (small...) but I tend to think it's just the layout. 
+- The high gloss finish inside and the glossy display (versus matte finish) look cool, but do show fingerprints and reflect light to the point of sometimes being a nuisance. 
+- There is no 'media only' button like on the XPS where you don't have to turn on the computer to watch a movie, but this is something that higher end laptops would have and may simply be a perk to paying more. 
+- Heavier than some others, but at under six pounds, it's still not too bad. 
+- Matte finish on the outside shows greasy smudges where you've touched it. I have the same issue with my XPS, but frankly I've never found a finish that doesn't show something. 
+- Not a multi-media or gaming powerhouse. It will play dvd's and games, but if you're buying a laptop and really into those things, spend a bit more and make sure you upgrade your video and audio to support your interests. The 4GB of memory really helps as much as anything and I didn't notice any issues with the media I tested. 
+SET-UP: 
+The only issue I had with setting up this laptop was with my home network not being accepted because Windows 7 didn't like the security settings I had in place. I could get the 1545 to recognize my network, but it wouldn't connect until I changed the settings. I had my wireless settings on WEP and Windows 7 wanted WPA. Once I changed the settings, the laptop connected. I then had to go to 8 different devices on my network and make sure they were happy. Only one item: Myine Electronics IR001 WiFi Internet Radio Adaptor wasn't happy, but eventually accepted the settings with some concentrated tweaking. 
+BATTERY LIFE: 
+Battery life seems to be about 3.5 hours. I think the 4+ hour estimate is high, but that undoubtedly is also based upon what things you are doing on the laptop and mobile power settings. 
+CONCLUSION: 
+If you purchase this Dell you are getting a solid workhorse for every day computing for a fair price. I think it's quality is certainly higher than an Acer with the same specs, and backed by a 1 year warranty from Dell. (Having had a Dell laptop that needed the keyboard replaced recently, I truly think the warranty service provided by Dell - they came to my house the next day - is exceptional and worth the small price hike over some other brands.) 
+The Dell Inspiron 1545 is perfect for a student, a grandma who likes to email or wants to keep up with the grandkids on Skype, or anyone who has no need for the latest and greatest gaming, multi-media computer. For a laptop with a webcam, 4GB memory, and Windows 7 (64-bit) that's ready to fly right out of the box... it's a good choice. 
+**WIRELESS NOTE: If you are having trouble connecting to a wireless network, be sure you check the included 'set-up guide', page 10, to find the wireless key on your keyboard. You can inadvertently press this key and turn off your wireless capabilities. Handy on airplanes... not so handy at home.

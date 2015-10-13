@@ -1,0 +1,15 @@
+ID: B002BH4NOY-R1YH20PNSWXNAD-A25C3MJVF19G6Q
+Category: Laptops
+Product: HP-TouchSmart-TX2-1270US-12-1-Inch-Laptop
+ReviewerID: A25C3MJVF19G6Q
+ReviewerName: Mary Cameron
+Date: April 10, 2010
+Helpful: 
+Rating: 2.0
+Title: Good hardware only
+Content:
+If you uninstall everything on this machine, every last bit of software, including the OS, then install a decent OS and the software you actually want, it will run fine. 
+If you buy it as configured from HP, it simply will not work for very long. 
+I got this as a gift, and it ran for three months before Vista crashed permanently, so badly that it could not be recovered and I had to install all new OS & software from scratch. The hardware is very fast, but the 90+ background processes that HP installs to make it all touchsmart-y make it run like a TRS80. 
+Worse, the media software they install is like some sort of virus magnet. Despite three very well-respected security programs, I spend at least one day a week just letting the virus programs update and scan, and they always find a ton of malware. It always comes through the media software too. 
+If you're just looking for a piece of hardware that will work decently well and you plan to spend a couple days customizing your OS and software, then this will be fine for that purpose. If you want it to actually work out of the box...not so much.

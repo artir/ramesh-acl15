@@ -1,0 +1,12 @@
+ID: B000WG6XW6-RGQAIJOKM5VJR-A6NHS0XA9DII9
+Category: MP3Players
+Product: Zune-Digital-Media-Player-Black
+ReviewerID: A6NHS0XA9DII9
+ReviewerName: Mark K. Nold
+Date: December 30, 2007
+Helpful: 1 of 35
+Rating: 1.0
+Title: Piece of Crap
+Content:
+This product will not work on Microsoft Media Center 2002, which I got with a new Dell PC just 2 years 4 months ago.  Essentially Microsoft has designed a product which will not work with many versions of their own software.
+You must have Microsoft Media Center 2005 to use it - which they don't tell you any place.

@@ -1,0 +1,24 @@
+ID: B001P05NKG-RN8JBHVVRLKY-AXNBI9L5LHH6X
+Category: Laptops
+Product: Apple-MacBook-MB990LL-13-3-Inch-Laptop
+ReviewerID: AXNBI9L5LHH6X
+ReviewerName: J. Cihak "johncihak"
+Date: January 20, 2010
+Helpful: 5 of 19
+Rating: 2.0
+Title: Average but Overpriced and Crippled by Poor Apple Software
+Content:
+I have been a user of Windows since 2.1 and OSX since 2005. When I purchased this MB Pro I expected a premium experience.
+The Good:
+- The construction is certainly solid, but the performance is poor.
+- The multitouch trackpad is outstanding and a pleasure to use. It makes navigating very easy - I have not had to use a mouse with the MB.
+- The backlit keyboard has a good feel and is easy to use day or night
+The Bad:
+- The Macbook pro stutters when playing back HD through iTunes! That's on par with my $300 netbook's performance. It plays HD video fine using other software, unfortunately it is crippled by iTunes and Quicktime.
+- The glossy screen is very reflective to the point of seriously hampering visibility unless precisely aimed.
+- 160GB hard drive in a $1200 machine??!!
+- Compared to Windows 7, OSX Snow Leopard is a poor experience. It is difficult to find applications (Spotlight does not index reliably). I have had to manually re-index the drive several times.
+- Battery life is not as good as advertised. It is only about 4 hours in normal use. The battery drains much faster than a Windows notebook is "sleep" mode.
+- I tried using iWorks '09 with Excel spreadsheets. Not only is the iWorks software difficult to use compared to MS Office (even my 17-year old daughter agrees), it also corrupts Office files. I switched to MS Office for Mac - much better.
+- I tried using iPhoto with my photos - they are all stored on the LAN. The stupid software tried to copy 20,000 pictures to my MB. I had to switch to Google Picasa to view photos.
+I would have given the MB Pro 3 stars for great hardware (despite the poor screen, and small hard drive), but the horrible OS and software coupled with the high price makes it a 2-star. Money is better spent elsewhere.

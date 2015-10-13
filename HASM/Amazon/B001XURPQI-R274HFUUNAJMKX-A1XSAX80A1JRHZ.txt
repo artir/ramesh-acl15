@@ -1,0 +1,11 @@
+ID: B001XURPQI-R274HFUUNAJMKX-A1XSAX80A1JRHZ
+Category: DigitalSLRs
+Product: Canon-T1i-Digital-Body-Only
+ReviewerID: A1XSAX80A1JRHZ
+ReviewerName: Moonlight "Moonlight"
+Date: March 2, 2010
+Helpful: 4 of 20
+Rating: 1.0
+Title: If you shoot in raw & use Photoshop, do not buy this camera
+Content:
+Before buying this camera I read reviews and asked the clerk about the pros and cons of the camera.  Nowhere did I encounter that this camera does not work with CS3 Photoshop camera raw.  Canon says it is Adobe's problem and there is a plug in for the problem.  There is a plug in, but it really does not work.  The plug in converts what should be camera raw in this camera to JPG and in bridge you cannot open and work in camera raw.  My old camera raw files would not open at all.  I am not tec savvy.  The Geek Squad could not "fix" the problem so I called and paid Adobe to "fix" the problem.  Apparently there is no "fix" and my old camera raw files now open as JPG.  Based on this, I would say do not buy this camera if you shoot in camera raw and have CS3 Photoshop.
